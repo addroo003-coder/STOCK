@@ -1,0 +1,50 @@
+name: 종목 이슈 자동 업데이트
+
+on:
+  schedule:
+    # 매시 정각 실행 (UTC 기준). 1~2시간 주기로 바꾸려면 아래 cron만 수정하면 됨.
+    # 예: 2시간마다 -> "0 */2 * * *"
+    - cron: "0 * * * *"
+  workflow_dispatch: {}  # 수동으로도 실행할 수 있게
+
+permissions:
+  contents: write  # 결과 JSON을 레포에 커밋하기 위해 필요
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: DART 고유번호(corp_code) 갱신
+        env:
+          OPENDART_API_KEY: ${{ secrets.OPENDART_API_KEY }}
+        run: python scripts/lookup_corp_code.py
+
+      - name: DART 공시 수집
+        env:
+          OPENDART_API_KEY: ${{ secrets.OPENDART_API_KEY }}
+        run: python scripts/collect_dart.py --days 2
+
+      - name: 뉴스 수집 (구글 뉴스 RSS, 키/카드 불필요)
+        run: python scripts/collect_news.py --display 20 --when 2d
+
+      - name: 중복제거 · 분류 · 이슈 원장 갱신
+        run: python scripts/dedup_classify.py
+
+      - name: 사이트용 데이터 생성
+        run: python scripts/build_site_data.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "stock-atlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "변경 없음" || git commit -m "이슈 자동 업데이트 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
