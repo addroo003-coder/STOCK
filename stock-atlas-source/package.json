@@ -1,0 +1,31 @@
+{
+  "name": "ai-sector-investment-compass",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "dev:vinext": "vite dev",
+    "build:vinext": "vite build",
+    "start:vinext": "vite preview"
+  },
+  "dependencies": {
+    "next": "16.3.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-server-dom-webpack": "19.2.8",
+    "vinext": "1.0.0-beta.8"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "1.54.0",
+    "@mdx-js/rollup": "^3.1.1",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "6.1.0",
+    "@vitejs/plugin-rsc": "^0.5.34",
+    "typescript": "^5.9.0",
+    "vite": "8.2.2"
+  }
+}
