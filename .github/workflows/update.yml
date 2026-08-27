@@ -32,11 +32,8 @@ jobs:
           OPENDART_API_KEY: ${{ secrets.OPENDART_API_KEY }}
         run: python scripts/collect_dart.py --days 2
 
-      - name: 네이버 뉴스 수집
-        env:
-          NAVER_APIGW_KEY_ID: ${{ secrets.NAVER_APIGW_KEY_ID }}
-          NAVER_APIGW_KEY: ${{ secrets.NAVER_APIGW_KEY }}
-        run: python scripts/collect_news.py --display 20
+      - name: 뉴스 수집 (구글 뉴스 RSS, 키/카드 불필요)
+        run: python scripts/collect_news.py --display 20 --when 2d
 
       - name: 중복제거 · 분류 · 이슈 원장 갱신
         run: python scripts/dedup_classify.py
