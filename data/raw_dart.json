@@ -1,0 +1,80 @@
+[
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260826000445",
+    "rcept_dt": "20260826",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000445",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260826000434",
+    "rcept_dt": "20260826",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000434",
+    "is_correction": true
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260827000981",
+    "rcept_dt": "20260827",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000981",
+    "is_correction": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260827000970",
+    "rcept_dt": "20260827",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000970",
+    "is_correction": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260825900617",
+    "rcept_dt": "20260825",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825900617",
+    "is_correction": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260826000655",
+    "rcept_dt": "20260826",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000655",
+    "is_correction": false
+  }
+]

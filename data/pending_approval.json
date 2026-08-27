@@ -1,0 +1,74 @@
+[
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, MLCC 가격 최대 30% 인상…가격 상승세 본격화 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xMXJnbkZOTGplZnBmTlFKRWcxLVNxa3huaGNCZG1aOUJOZXM1cTZ3MFJwMnJjd0k5ZkV1dlVqZEgxYU41Y2VCbTJoQVNybnRFUlUybmthR05fTWlL?oc=5",
+        "pub_date": "Thu, 27 Aug 2026 07:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-161-20260827",
+    "first_seen": "2026-08-27",
+    "last_updated": "2026-08-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "미래에셋 \"반도체 2막은 소부장\"…삼성전기 최대로 담은 ETF 제시 - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsdjAwZkt4bGNUbnNWS0V4b2xJa05kVWRBdjN2RkpKdnVRN3dtWjFaZ1ZJVVFfXzI1ZWdkcUs4QzRSQ1RrUnhRWFQza1NDbi1IX0RCZFRrWUxUOHBnUVRoSVBLaEJPS2VjOWhlYklUVGs?oc=5",
+        "pub_date": "Wed, 26 Aug 2026 02:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-167-20260827",
+    "first_seen": "2026-08-27",
+    "last_updated": "2026-08-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알테오젠 하반기 기술수출 계약 체결 임박…‘RNA·인비보 CAR-T' 신규 모달리티 주목 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdU53QWFFN3UyS2pZSHFmTXVwNTdscm9SS3FGYmJkNGo3ZVh1MlEtX3FiNHlsUm5DaUpMandXUXBkVUpucW1YeTFEazBSMFFNaVAtN19WQjRMOWhOX3FqZEhEdGhJd01UdDRocHVHYTlIcUpGTG1MaVozVW5nelJuWXZVdWV3QkHSAZsBQVVfeXFMT3NlalNvbWE4ekwxVkVsOHJtZHpDdVNadGl5WGNhX2xwWDZPNDJCOXdra2JYMGVyanBCLXNJUFdvN0hMVFFrYVp5cl9Rdl9KSjhFNU9ucnVYbm1PR0pEQ01wMnRQN3RZZnB5ZFZWYl9GSnhVa1NZblVLbTlnRE9zakNFLXM2Z2RjQ1g0S1FtdGpXMVBiUmQ5ZnJkUVE?oc=5",
+        "pub_date": "Wed, 26 Aug 2026 00:07:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-231-20260827",
+    "first_seen": "2026-08-27",
+    "last_updated": "2026-08-27",
+    "status": "일반",
+    "stale": false
+  }
+]
