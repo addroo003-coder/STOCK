@@ -1,0 +1,149 @@
+{
+  "_readme": "파일럿 20종목 별칭 테이블. stock_code(6자리 종목코드)는 기억을 바탕으로 채워넣은 값이라 실제 사용 전 반드시 검증 필요. corp_code(DART 8자리 고유번호)는 비어있음 — scripts/lookup_corp_code.py로 채워야 OpenDART 공시 조회가 가능함. aliases는 기사/공시 매칭에 쓸 별칭(정식명, 계열사명, 흔히 쓰는 약칭)만 넣었고 제품명은 종목별로 추가 필요.",
+  "companies": [
+    {
+      "name": "삼성전자",
+      "stock_code": "005930",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "메모리·IDM",
+      "aliases": ["삼성전자", "삼성전자주식회사", "Samsung Electronics"]
+    },
+    {
+      "name": "SK하이닉스",
+      "stock_code": "000660",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "메모리·IDM",
+      "aliases": ["SK하이닉스", "에스케이하이닉스", "SK Hynix"]
+    },
+    {
+      "name": "원익IPS",
+      "stock_code": "240810",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "전공정 장비",
+      "aliases": ["원익IPS", "원익아이피에스"]
+    },
+    {
+      "name": "주성엔지니어링",
+      "stock_code": "036930",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "전공정 장비",
+      "aliases": ["주성엔지니어링"]
+    },
+    {
+      "name": "테스",
+      "stock_code": "095610",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "전공정 장비",
+      "aliases": ["테스", "TES"]
+    },
+    {
+      "name": "한미반도체",
+      "stock_code": "042700",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "후공정·검사",
+      "aliases": ["한미반도체"]
+    },
+    {
+      "name": "하나마이크론",
+      "stock_code": "067310",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "후공정·검사",
+      "aliases": ["하나마이크론"]
+    },
+    {
+      "name": "테크윙",
+      "stock_code": "089030",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "후공정·검사",
+      "aliases": ["테크윙"]
+    },
+    {
+      "name": "가온칩스",
+      "stock_code": "399720",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "팹리스·IP",
+      "aliases": ["가온칩스"]
+    },
+    {
+      "name": "에이디테크놀로지",
+      "stock_code": "200710",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "팹리스·IP",
+      "aliases": ["에이디테크놀로지", "ADTechnology"]
+    },
+    {
+      "name": "솔브레인",
+      "stock_code": "357780",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "소재·부품",
+      "aliases": ["솔브레인"]
+    },
+    {
+      "name": "동진쎄미켐",
+      "stock_code": "005290",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "소재·부품",
+      "aliases": ["동진쎄미켐"]
+    },
+    {
+      "name": "원익머트리얼즈",
+      "stock_code": "104830",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "소재·부품",
+      "aliases": ["원익머트리얼즈"]
+    },
+    {
+      "name": "삼성전기",
+      "stock_code": "009150",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "기판·인터커넥트",
+      "aliases": ["삼성전기", "Samsung Electro-Mechanics"]
+    },
+    {
+      "name": "이수페타시스",
+      "stock_code": "007660",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "기판·인터커넥트",
+      "aliases": ["이수페타시스"]
+    },
+    {
+      "name": "대덕전자",
+      "stock_code": "353200",
+      "corp_code": "",
+      "sector": "AI 반도체",
+      "sub_industry": "기판·인터커넥트",
+      "aliases": ["대덕전자"]
+    },
+    {
+      "name": "레인보우로보틱스",
+      "stock_code": "277810",
+      "corp_code": "",
+      "sector": "피지컬 AI·로봇",
+      "sub_industry": "TBD",
+      "aliases": ["레인보우로보틱스"]
+    },
+    {
+      "name": "알테오젠",
+      "stock_code": "196170",
+      "corp_code": "",
+      "sector": "바이오",
+      "sub_industry": "TBD",
+      "aliases": ["알테오젠"]
+    }
+  ]
+}

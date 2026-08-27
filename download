@@ -1,0 +1,3 @@
+data/corpCode_cache.xml
+__pycache__/
+*.pyc
