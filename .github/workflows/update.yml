@@ -45,6 +45,7 @@ jobs:
         run: |
           git config user.name "stock-atlas-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/
+          git add data/ stock-atlas-source/app/issues-data.ts
           git diff --cached --quiet && echo "변경 없음" || git commit -m "이슈 자동 업데이트 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git pull --rebase --autostash
           git push
