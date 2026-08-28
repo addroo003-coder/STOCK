@@ -306,6 +306,35 @@ legend { color: #9aabb2; font-size: 12px; }
 .site-footer a { color: #adbabf; font-size: 12px; }
 .site-footer > small { max-width: 980px; color: #687e87; font-size: 11px; line-height: 1.65; }
 
+.issues-panel { margin-top: 22px; border: 1px solid rgba(255,255,255,.13); background: rgba(11,28,41,.72); }
+.issues-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 30px; padding: 28px 31px; border-bottom: 1px solid rgba(255,255,255,.11); }
+.issues-heading .eyebrow { margin-bottom: 9px; }
+.issues-heading h3 { margin: 0; font-size: 24px; letter-spacing: -.03em; }
+.issues-heading > div > span { display: block; margin-top: 9px; color: #879ba3; font-size: 12px; line-height: 1.6; max-width: 640px; }
+.issue-list { list-style: none; margin: 0; padding: 0; }
+.issue-item { padding: 20px 31px; border-bottom: 1px solid rgba(255,255,255,.08); }
+.issue-item:last-child { border-bottom: 0; }
+.issue-item.needs-review { border-left: 3px solid #ffb562; background: rgba(255,181,98,.05); }
+.issue-item.stale { opacity: .55; }
+.issue-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 9px; }
+.issue-date { color: #66808a; font-size: 11px; }
+.issue-badge { padding: 3px 9px; border-radius: 20px; font-size: 10px; font-weight: 750; letter-spacing: .02em; }
+.issue-badge.confidence-확정 { color: #071a17; background: var(--mint); }
+.issue-badge.confidence-교차검증 { color: #0d2a3d; background: #a9d8ff; }
+.issue-badge.confidence-미확인 { color: #a8b5b9; background: rgba(255,255,255,.1); }
+.issue-badge.category { color: #cdd7d4; background: rgba(255,255,255,.08); }
+.issue-badge.review { color: #4a2a05; background: #ffb562; }
+.issue-badge.mention { color: #7f939b; background: rgba(255,255,255,.06); border: 1px dashed rgba(255,255,255,.18); }
+.issue-badge.correction { color: #4a0f14; background: #ff8e9f; }
+.issue-headline { margin: 0 0 10px; color: #e5efec; font-size: 14px; line-height: 1.6; word-break: keep-all; }
+.issue-sources { display: flex; flex-wrap: wrap; gap: 14px; }
+.issue-sources a { color: #aebbc0; font-size: 11px; text-decoration: none; }
+.issue-sources a:hover { color: var(--accent); }
+.issue-sources span { color: #61767f; font-size: 11px; }
+.issues-empty { margin: 0; padding: 34px 31px; color: #7f939b; font-size: 13px; }
+.issues-source-note { display: flex; align-items: center; gap: 9px; padding: 16px 31px; border-top: 1px solid rgba(255,255,255,.1); color: #66808a; font-size: 11px; line-height: 1.6; }
+.issues-source-note i { width: 5px; height: 5px; flex: 0 0 auto; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 9%, transparent); }
+
 @media (max-width: 1120px) {
   .hero-grid { grid-template-columns: 1fr; gap: 38px; }
   .atlas-counts { max-width: 500px; }
@@ -372,6 +401,9 @@ legend { color: #9aabb2; font-size: 12px; }
   .earnings-source > div { margin-top: 13px; }
   .site-footer > div { display: block; }
   .site-footer section { margin-top: 14px; }
+  .issues-heading { display: block; padding: 24px 20px; }
+  .issue-item { padding: 18px 20px; }
+  .issues-source-note { padding: 14px 20px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

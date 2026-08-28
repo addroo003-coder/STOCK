@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import { scenarioText, sectors, type Scenario } from "./data";
 import { earningsByStock } from "./earnings-data";
 import { marketSourcesByStock } from "./market-sources";
+import { issuesByStock } from "./issues-data";
 
 const beta: Record<string, number> = { semi: 2, power: 1, robot: 4, nuclear: 1, space: 3, bio: 4, battery: 3 };
 
@@ -63,6 +64,7 @@ export default function InvestmentAtlas() {
   const selectedStock = selectedSegment.stocks[selectedRef.stockIndex] ?? selectedSegment.stocks[0];
   const selectedEarnings = earningsByStock[selectedStock.name];
   const selectedSources = marketSourcesByStock[selectedStock.name];
+  const selectedIssues = issuesByStock[selectedStock.name] ?? [];
   const selectedScore = scoreFor(selectedSector.key, selectedSector.score, selectedSector.delta[scenario], riskBudget);
 
   const allStocks = useMemo(() => sectors.flatMap((sector) => sector.segments.flatMap((segment, segmentIndex) =>
@@ -311,6 +313,48 @@ export default function InvestmentAtlas() {
             <div><a href={selectedEarnings.sourceUrl} target="_blank" rel="noreferrer">재무정보 원문 ↗</a><a href="https://dart.fss.or.kr/" target="_blank" rel="noreferrer">DART 공시 ↗</a></div>
           </footer>
         </section>}
+
+        <section className="issues-panel" aria-labelledby="issues-title">
+          <header className="issues-heading">
+            <div>
+              <p className="eyebrow">ISSUE TIMELINE</p>
+              <h3 id="issues-title">핵심 이슈 타임라인</h3>
+              <span>공시(DART)와 뉴스를 자동으로 모아 최신순으로 정리합니다. 신뢰도·카테고리 배지는 자동 판정 결과이며 참고용입니다.</span>
+            </div>
+          </header>
+
+          {selectedIssues.length ? (
+            <ol className="issue-list">
+              {selectedIssues.map((issue) => (
+                <li key={issue.id} className={`issue-item${issue.needs_review ? " needs-review" : ""}${issue.stale ? " stale" : ""}`}>
+                  <div className="issue-meta">
+                    <span className="issue-date">{issue.last_updated}</span>
+                    <span className={`issue-badge confidence-${issue.confidence}`}>{issue.confidence}</span>
+                    <span className="issue-badge category">{issue.category}</span>
+                    {issue.status === "정정됨" && <span className="issue-badge correction">정정됨</span>}
+                    {issue.is_mere_mention && <span className="issue-badge mention">단순언급</span>}
+                    {issue.needs_review && <span className="issue-badge review">검토 필요</span>}
+                  </div>
+                  <p className="issue-headline">{issue.headline}</p>
+                  <div className="issue-sources">
+                    {issue.sources.slice(0, 3).map((source, index) => (
+                      source.url ? (
+                        <a key={index} href={source.url} target="_blank" rel="noreferrer">{source.press}{source.pub_date ? ` · ${source.pub_date}` : ""} ↗</a>
+                      ) : (
+                        <span key={index}>{source.press}{source.pub_date ? ` · ${source.pub_date}` : ""}</span>
+                      )
+                    ))}
+                    {issue.source_count > issue.sources.length && <span>+{issue.source_count - issue.sources.length}건 더</span>}
+                  </div>
+                </li>
+              ))}
+            </ol>
+          ) : (
+            <p className="issues-empty">아직 자동 수집된 이슈가 없습니다. 매시간 공시·뉴스를 확인하고 있으니 곧 채워집니다.</p>
+          )}
+
+          <footer className="issues-source-note"><i /> 규칙 기반 자동 분류 결과이며, 방향성·카테고리 판정은 참고용입니다. “검토 필요” 배지가 붙은 항목은 핵심 투자논리 반영 여부를 사람이 확인합니다.</footer>
+        </section>
 
         <footer className="site-footer">
           <div><p>산업 방향 참고자료</p><section>{selectedSector.sources.map((source) => <a key={source.href} href={source.href} target="_blank" rel="noreferrer">{source.label} ↗</a>)}</section></div>
