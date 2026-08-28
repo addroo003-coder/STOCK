@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“37만원 간다더니 왜 25만원?”…삼성전자 ‘최대 110조’에도 주저...",
-      "office": "세계일보",
+      "title": "삼성전자·하이닉스 '자사주 매입' 효과...46조원 더 산다",
+      "office": "조세일보",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154601"
+      "url": "https://n.news.naver.com/mnews/article/123/0002389233"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1731,10 +1731,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=214450",
     "news": {
-      "title": "외국인, 주주환원 재료 소멸 SK하이닉스·삼성전자 8조 순매도",
-      "office": "주간동아",
-      "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/037/0000038748"
+      "title": "매출 3兆 넘보는 에이피알, 다음 승부처는 피부과?",
+      "office": "조선비즈",
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189039"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/214450/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "美 반도체 관세 압박 '본격화'…SK하이닉스, 현지 공장 첫삽",
-      "office": "TV조선",
-      "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636257"
+      "title": "돈 잘버는 SK하이닉스보다 적자 스페이스X가 비싼 이유 [B급기자의 B급...",
+      "office": "한국경제TV",
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264082"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
