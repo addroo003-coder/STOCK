@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티 실종자 가족 \"오늘(27일) 골든타임, 헬기 띄워달라\" 호...",
-      "office": "디지털데일리",
+      "title": "헬기 발목 잡은 '네팔 당국 허가'...실종가족 \"드론이라도 띄워야\"",
+      "office": "YTN",
       "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239403"
+      "url": "https://n.news.naver.com/mnews/article/052/0002399709"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 국내외 대학과 반도체 미래기술 논의 …‘SPARK 2026’ 개최",
-      "office": "이데일리",
-      "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359842"
+      "title": "“37만원 간다더니 왜 25만원?”…삼성전자 ‘최대 110조’에도 주저...",
+      "office": "세계일보",
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154601"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1785,7 +1785,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "美ESS시장 진출 기대…이차전지株 기지개",
+      "title": "美ESS시장 진출 확대…이차전지株 기지개",
       "office": "매일경제",
       "date": "20260828",
       "url": "https://n.news.naver.com/mnews/article/009/0005727308"
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "LS證 “SK이노베이션, 합병으로 적자 배터리 비중 증가…투자의견 ‘...",
-      "office": "조선비즈",
+      "title": "정제마진 강세에 커지는 실적 개선 기대감…정유株 일제히 불기둥",
+      "office": "매일신문",
       "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188852"
+      "url": "https://n.news.naver.com/mnews/article/088/0001025630"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 최근 출범한 '통합노조'에 \"적법 노조 지위 확인\"",
-      "office": "노컷뉴스",
+      "title": "美 반도체 관세 압박 '본격화'…SK하이닉스, 현지 공장 첫삽",
+      "office": "TV조선",
       "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183662"
+      "url": "https://n.news.naver.com/mnews/article/448/0000636257"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
