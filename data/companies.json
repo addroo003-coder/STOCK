@@ -4,7 +4,7 @@
     {
       "name": "삼성전자",
       "stock_code": "005930",
-      "corp_code": "",
+      "corp_code": "00126380",
       "sector": "AI 반도체",
       "sub_industry": "메모리·IDM",
       "aliases": [
@@ -14,7 +14,7 @@
     {
       "name": "SK하이닉스",
       "stock_code": "000660",
-      "corp_code": "",
+      "corp_code": "00164779",
       "sector": "AI 반도체",
       "sub_industry": "메모리·IDM",
       "aliases": [
@@ -24,7 +24,7 @@
     {
       "name": "원익IPS",
       "stock_code": "240810",
-      "corp_code": "",
+      "corp_code": "01135941",
       "sector": "AI 반도체",
       "sub_industry": "전공정 장비",
       "aliases": [
@@ -34,7 +34,7 @@
     {
       "name": "주성엔지니어링",
       "stock_code": "036930",
-      "corp_code": "",
+      "corp_code": "00252135",
       "sector": "AI 반도체",
       "sub_industry": "전공정 장비",
       "aliases": [
@@ -44,7 +44,7 @@
     {
       "name": "HPSP",
       "stock_code": "403870",
-      "corp_code": "",
+      "corp_code": "01288827",
       "sector": "AI 반도체",
       "sub_industry": "전공정 장비",
       "aliases": [
@@ -54,7 +54,7 @@
     {
       "name": "유진테크",
       "stock_code": "084370",
-      "corp_code": "",
+      "corp_code": "00531014",
       "sector": "AI 반도체",
       "sub_industry": "전공정 장비",
       "aliases": [
@@ -64,7 +64,7 @@
     {
       "name": "테스",
       "stock_code": "095610",
-      "corp_code": "",
+      "corp_code": "00524421",
       "sector": "AI 반도체",
       "sub_industry": "전공정 장비",
       "aliases": [
@@ -74,7 +74,7 @@
     {
       "name": "피에스케이",
       "stock_code": "319660",
-      "corp_code": "",
+      "corp_code": "01365825",
       "sector": "AI 반도체",
       "sub_industry": "전공정 장비",
       "aliases": [
@@ -84,7 +84,7 @@
     {
       "name": "한미반도체",
       "stock_code": "042700",
-      "corp_code": "",
+      "corp_code": "00161383",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -94,7 +94,7 @@
     {
       "name": "하나마이크론",
       "stock_code": "067310",
-      "corp_code": "",
+      "corp_code": "00445054",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -104,7 +104,7 @@
     {
       "name": "테크윙",
       "stock_code": "089030",
-      "corp_code": "",
+      "corp_code": "00535676",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -114,7 +114,7 @@
     {
       "name": "ISC",
       "stock_code": "095340",
-      "corp_code": "",
+      "corp_code": "00572905",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -124,7 +124,7 @@
     {
       "name": "두산테스나",
       "stock_code": "131970",
-      "corp_code": "",
+      "corp_code": "00563545",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -134,7 +134,7 @@
     {
       "name": "네패스아크",
       "stock_code": "330860",
-      "corp_code": "",
+      "corp_code": "01368354",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -144,7 +144,7 @@
     {
       "name": "가온칩스",
       "stock_code": "399720",
-      "corp_code": "",
+      "corp_code": "01364747",
       "sector": "AI 반도체",
       "sub_industry": "팹리스·IP·디자인하우스",
       "aliases": [
@@ -154,7 +154,7 @@
     {
       "name": "에이디테크놀로지",
       "stock_code": "200710",
-      "corp_code": "",
+      "corp_code": "00657002",
       "sector": "AI 반도체",
       "sub_industry": "팹리스·IP·디자인하우스",
       "aliases": [
@@ -164,7 +164,7 @@
     {
       "name": "오픈엣지테크놀로지",
       "stock_code": "394280",
-      "corp_code": "",
+      "corp_code": "01571107",
       "sector": "AI 반도체",
       "sub_industry": "팹리스·IP·디자인하우스",
       "aliases": [
@@ -174,7 +174,7 @@
     {
       "name": "칩스앤미디어",
       "stock_code": "094360",
-      "corp_code": "",
+      "corp_code": "00579971",
       "sector": "AI 반도체",
       "sub_industry": "팹리스·IP·디자인하우스",
       "aliases": [
@@ -184,7 +184,7 @@
     {
       "name": "텔레칩스",
       "stock_code": "054450",
-      "corp_code": "",
+      "corp_code": "00423177",
       "sector": "AI 반도체",
       "sub_industry": "팹리스·IP·디자인하우스",
       "aliases": [
@@ -194,7 +194,7 @@
     {
       "name": "제주반도체",
       "stock_code": "080220",
-      "corp_code": "",
+      "corp_code": "00447487",
       "sector": "AI 반도체",
       "sub_industry": "팹리스·IP·디자인하우스",
       "aliases": [
@@ -204,7 +204,7 @@
     {
       "name": "솔브레인",
       "stock_code": "357780",
-      "corp_code": "",
+      "corp_code": "01489648",
       "sector": "AI 반도체",
       "sub_industry": "소재·부품",
       "aliases": [
@@ -214,7 +214,7 @@
     {
       "name": "동진쎄미켐",
       "stock_code": "005290",
-      "corp_code": "",
+      "corp_code": "00118804",
       "sector": "AI 반도체",
       "sub_industry": "소재·부품",
       "aliases": [
@@ -224,7 +224,7 @@
     {
       "name": "한솔케미칼",
       "stock_code": "014680",
-      "corp_code": "",
+      "corp_code": "00140955",
       "sector": "AI 반도체",
       "sub_industry": "소재·부품",
       "aliases": [
@@ -234,7 +234,7 @@
     {
       "name": "원익머트리얼즈",
       "stock_code": "104830",
-      "corp_code": "",
+      "corp_code": "00623661",
       "sector": "AI 반도체",
       "sub_industry": "소재·부품",
       "aliases": [
@@ -244,7 +244,7 @@
     {
       "name": "티씨케이",
       "stock_code": "064760",
-      "corp_code": "",
+      "corp_code": "00245472",
       "sector": "AI 반도체",
       "sub_industry": "소재·부품",
       "aliases": [
@@ -254,7 +254,7 @@
     {
       "name": "하나머티리얼즈",
       "stock_code": "166090",
-      "corp_code": "",
+      "corp_code": "00660750",
       "sector": "AI 반도체",
       "sub_industry": "소재·부품",
       "aliases": [
@@ -264,7 +264,7 @@
     {
       "name": "삼성전기",
       "stock_code": "009150",
-      "corp_code": "",
+      "corp_code": "00126371",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -274,7 +274,7 @@
     {
       "name": "이수페타시스",
       "stock_code": "007660",
-      "corp_code": "",
+      "corp_code": "00107613",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -284,7 +284,7 @@
     {
       "name": "대덕전자",
       "stock_code": "353200",
-      "corp_code": "",
+      "corp_code": "01478712",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -294,7 +294,7 @@
     {
       "name": "심텍",
       "stock_code": "222800",
-      "corp_code": "",
+      "corp_code": "01095722",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -304,7 +304,7 @@
     {
       "name": "태성",
       "stock_code": "323280",
-      "corp_code": "",
+      "corp_code": "01366000",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -314,7 +314,7 @@
     {
       "name": "필옵틱스",
       "stock_code": "161580",
-      "corp_code": "",
+      "corp_code": "00938721",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -324,7 +324,7 @@
     {
       "name": "HD현대일렉트릭",
       "stock_code": "267260",
-      "corp_code": "",
+      "corp_code": "01205851",
       "sector": "전기·전력",
       "sub_industry": "변압기·차단기",
       "aliases": [
@@ -334,7 +334,7 @@
     {
       "name": "효성중공업",
       "stock_code": "298040",
-      "corp_code": "",
+      "corp_code": "01316245",
       "sector": "전기·전력",
       "sub_industry": "변압기·차단기",
       "aliases": [
@@ -344,7 +344,7 @@
     {
       "name": "LS ELECTRIC",
       "stock_code": "010120",
-      "corp_code": "",
+      "corp_code": "00105855",
       "sector": "전기·전력",
       "sub_industry": "변압기·차단기",
       "aliases": [
@@ -354,7 +354,7 @@
     {
       "name": "일진전기",
       "stock_code": "103590",
-      "corp_code": "",
+      "corp_code": "00683469",
       "sector": "전기·전력",
       "sub_industry": "변압기·차단기",
       "aliases": [
@@ -364,7 +364,7 @@
     {
       "name": "산일전기",
       "stock_code": "062040",
-      "corp_code": "",
+      "corp_code": "00366438",
       "sector": "전기·전력",
       "sub_industry": "변압기·차단기",
       "aliases": [
@@ -374,7 +374,7 @@
     {
       "name": "LS",
       "stock_code": "006260",
-      "corp_code": "",
+      "corp_code": "00105952",
       "sector": "전기·전력",
       "sub_industry": "전선·해저케이블",
       "aliases": [
@@ -384,7 +384,7 @@
     {
       "name": "대한전선",
       "stock_code": "001440",
-      "corp_code": "",
+      "corp_code": "00113207",
       "sector": "전기·전력",
       "sub_industry": "전선·해저케이블",
       "aliases": [
@@ -394,7 +394,7 @@
     {
       "name": "가온전선",
       "stock_code": "000500",
-      "corp_code": "",
+      "corp_code": "00104768",
       "sector": "전기·전력",
       "sub_industry": "전선·해저케이블",
       "aliases": [
@@ -404,7 +404,7 @@
     {
       "name": "LS에코에너지",
       "stock_code": "229640",
-      "corp_code": "",
+      "corp_code": "01093007",
       "sector": "전기·전력",
       "sub_industry": "전선·해저케이블",
       "aliases": [
@@ -414,7 +414,7 @@
     {
       "name": "LS마린솔루션",
       "stock_code": "060370",
-      "corp_code": "",
+      "corp_code": "00225742",
       "sector": "전기·전력",
       "sub_industry": "전선·해저케이블",
       "aliases": [
@@ -424,7 +424,7 @@
     {
       "name": "지엔씨에너지",
       "stock_code": "119850",
-      "corp_code": "",
+      "corp_code": "00626464",
       "sector": "전기·전력",
       "sub_industry": "데이터센터 전원·열관리",
       "aliases": [
@@ -434,7 +434,7 @@
     {
       "name": "비에이치아이",
       "stock_code": "083650",
-      "corp_code": "",
+      "corp_code": "00409788",
       "sector": "전기·전력",
       "sub_industry": "데이터센터 전원·열관리",
       "aliases": [
@@ -444,7 +444,7 @@
     {
       "name": "두산에너빌리티",
       "stock_code": "034020",
-      "corp_code": "",
+      "corp_code": "00159616",
       "sector": "전기·전력",
       "sub_industry": "데이터센터 전원·열관리",
       "aliases": [
@@ -454,7 +454,7 @@
     {
       "name": "SNT에너지",
       "stock_code": "100840",
-      "corp_code": "",
+      "corp_code": "00648721",
       "sector": "전기·전력",
       "sub_industry": "데이터센터 전원·열관리",
       "aliases": [
@@ -464,7 +464,7 @@
     {
       "name": "한중엔시에스",
       "stock_code": "107640",
-      "corp_code": "",
+      "corp_code": "00474588",
       "sector": "전기·전력",
       "sub_industry": "데이터센터 전원·열관리",
       "aliases": [
@@ -474,7 +474,7 @@
     {
       "name": "레인보우로보틱스",
       "stock_code": "277810",
-      "corp_code": "",
+      "corp_code": "01261644",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "플랫폼·휴머노이드",
       "aliases": [
@@ -484,7 +484,7 @@
     {
       "name": "로보티즈",
       "stock_code": "108490",
-      "corp_code": "",
+      "corp_code": "00946030",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "플랫폼·휴머노이드",
       "aliases": [
@@ -494,7 +494,7 @@
     {
       "name": "두산로보틱스",
       "stock_code": "454910",
-      "corp_code": "",
+      "corp_code": "01105153",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "플랫폼·휴머노이드",
       "aliases": [
@@ -504,7 +504,7 @@
     {
       "name": "뉴로메카",
       "stock_code": "348340",
-      "corp_code": "",
+      "corp_code": "01336461",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "플랫폼·휴머노이드",
       "aliases": [
@@ -514,7 +514,7 @@
     {
       "name": "클로봇",
       "stock_code": "466100",
-      "corp_code": "",
+      "corp_code": "01784914",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "플랫폼·휴머노이드",
       "aliases": [
@@ -524,7 +524,7 @@
     {
       "name": "에스피지",
       "stock_code": "058610",
-      "corp_code": "",
+      "corp_code": "00220686",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "구동·감속기·센서",
       "aliases": [
@@ -534,7 +534,7 @@
     {
       "name": "하이젠알앤엠",
       "stock_code": "160190",
-      "corp_code": "",
+      "corp_code": "00650771",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "구동·감속기·센서",
       "aliases": [
@@ -544,7 +544,7 @@
     {
       "name": "에스비비테크",
       "stock_code": "389500",
-      "corp_code": "",
+      "corp_code": "00567897",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "구동·감속기·센서",
       "aliases": [
@@ -554,7 +554,7 @@
     {
       "name": "에스오에스랩",
       "stock_code": "464080",
-      "corp_code": "",
+      "corp_code": "01686427",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "구동·감속기·센서",
       "aliases": [
@@ -564,7 +564,7 @@
     {
       "name": "삼현",
       "stock_code": "437730",
-      "corp_code": "",
+      "corp_code": "00262266",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "구동·감속기·센서",
       "aliases": [
@@ -574,7 +574,7 @@
     {
       "name": "씨메스",
       "stock_code": "475400",
-      "corp_code": "",
+      "corp_code": "01588189",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "공장·물류 자동화",
       "aliases": [
@@ -584,7 +584,7 @@
     {
       "name": "로보스타",
       "stock_code": "090360",
-      "corp_code": "",
+      "corp_code": "00536523",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "공장·물류 자동화",
       "aliases": [
@@ -594,7 +594,7 @@
     {
       "name": "티로보틱스",
       "stock_code": "117730",
-      "corp_code": "",
+      "corp_code": "00867098",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "공장·물류 자동화",
       "aliases": [
@@ -604,7 +604,7 @@
     {
       "name": "현대무벡스",
       "stock_code": "319400",
-      "corp_code": "",
+      "corp_code": "01358463",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "공장·물류 자동화",
       "aliases": [
@@ -614,7 +614,7 @@
     {
       "name": "고영",
       "stock_code": "098460",
-      "corp_code": "",
+      "corp_code": "00579999",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "공장·물류 자동화",
       "aliases": [
@@ -624,7 +624,7 @@
     {
       "name": "큐렉소",
       "stock_code": "060280",
-      "corp_code": "",
+      "corp_code": "00356802",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "의료·서비스 로봇",
       "aliases": [
@@ -634,7 +634,7 @@
     {
       "name": "미래컴퍼니",
       "stock_code": "049950",
-      "corp_code": "",
+      "corp_code": "00447760",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "의료·서비스 로봇",
       "aliases": [
@@ -644,7 +644,7 @@
     {
       "name": "엔젤로보틱스",
       "stock_code": "455900",
-      "corp_code": "",
+      "corp_code": "01592049",
       "sector": "피지컬 AI·로봇",
       "sub_industry": "의료·서비스 로봇",
       "aliases": [
@@ -654,7 +654,7 @@
     {
       "name": "현대건설",
       "stock_code": "000720",
-      "corp_code": "",
+      "corp_code": "00164478",
       "sector": "원전·SMR",
       "sub_industry": "주기기·EPC",
       "aliases": [
@@ -664,7 +664,7 @@
     {
       "name": "한전기술",
       "stock_code": "052690",
-      "corp_code": "",
+      "corp_code": "00159209",
       "sector": "원전·SMR",
       "sub_industry": "주기기·EPC",
       "aliases": [
@@ -674,7 +674,7 @@
     {
       "name": "한전KPS",
       "stock_code": "051600",
-      "corp_code": "",
+      "corp_code": "00159218",
       "sector": "원전·SMR",
       "sub_industry": "주기기·EPC",
       "aliases": [
@@ -684,7 +684,7 @@
     {
       "name": "한전산업",
       "stock_code": "130660",
-      "corp_code": "",
+      "corp_code": "00194947",
       "sector": "원전·SMR",
       "sub_industry": "주기기·EPC",
       "aliases": [
@@ -694,7 +694,7 @@
     {
       "name": "우진",
       "stock_code": "105840",
-      "corp_code": "",
+      "corp_code": "00173944",
       "sector": "원전·SMR",
       "sub_industry": "보조기기·계측제어",
       "aliases": [
@@ -704,7 +704,7 @@
     {
       "name": "우리기술",
       "stock_code": "032820",
-      "corp_code": "",
+      "corp_code": "00231044",
       "sector": "원전·SMR",
       "sub_industry": "보조기기·계측제어",
       "aliases": [
@@ -714,7 +714,7 @@
     {
       "name": "비츠로테크",
       "stock_code": "042370",
-      "corp_code": "",
+      "corp_code": "00103644",
       "sector": "원전·SMR",
       "sub_industry": "보조기기·계측제어",
       "aliases": [
@@ -724,7 +724,7 @@
     {
       "name": "우진엔텍",
       "stock_code": "457550",
-      "corp_code": "",
+      "corp_code": "01030503",
       "sector": "원전·SMR",
       "sub_industry": "SMR·정비·해체",
       "aliases": [
@@ -734,7 +734,7 @@
     {
       "name": "오르비텍",
       "stock_code": "046120",
-      "corp_code": "",
+      "corp_code": "00297989",
       "sector": "원전·SMR",
       "sub_industry": "SMR·정비·해체",
       "aliases": [
@@ -744,7 +744,7 @@
     {
       "name": "에너토크",
       "stock_code": "019990",
-      "corp_code": "",
+      "corp_code": "00169215",
       "sector": "원전·SMR",
       "sub_industry": "SMR·정비·해체",
       "aliases": [
@@ -754,7 +754,7 @@
     {
       "name": "한화에어로스페이스",
       "stock_code": "012450",
-      "corp_code": "",
+      "corp_code": "00126566",
       "sector": "우주항공",
       "sub_industry": "체계종합·항공기",
       "aliases": [
@@ -764,7 +764,7 @@
     {
       "name": "한국항공우주",
       "stock_code": "047810",
-      "corp_code": "",
+      "corp_code": "00309503",
       "sector": "우주항공",
       "sub_industry": "체계종합·항공기",
       "aliases": [
@@ -774,7 +774,7 @@
     {
       "name": "LIG넥스원",
       "stock_code": "079550",
-      "corp_code": "",
+      "corp_code": "00503668",
       "sector": "우주항공",
       "sub_industry": "체계종합·항공기",
       "aliases": [
@@ -784,7 +784,7 @@
     {
       "name": "쎄트렉아이",
       "stock_code": "099320",
-      "corp_code": "",
+      "corp_code": "00449254",
       "sector": "우주항공",
       "sub_industry": "체계종합·항공기",
       "aliases": [
@@ -794,7 +794,7 @@
     {
       "name": "이노스페이스",
       "stock_code": "462350",
-      "corp_code": "",
+      "corp_code": "01700587",
       "sector": "우주항공",
       "sub_industry": "발사체·추진",
       "aliases": [
@@ -804,7 +804,7 @@
     {
       "name": "켄코아에어로스페이스",
       "stock_code": "274090",
-      "corp_code": "",
+      "corp_code": "01158553",
       "sector": "우주항공",
       "sub_industry": "발사체·추진",
       "aliases": [
@@ -814,7 +814,7 @@
     {
       "name": "AP위성",
       "stock_code": "211270",
-      "corp_code": "",
+      "corp_code": "00874803",
       "sector": "우주항공",
       "sub_industry": "위성·통신·지상국",
       "aliases": [
@@ -824,7 +824,7 @@
     {
       "name": "인텔리안테크",
       "stock_code": "189300",
-      "corp_code": "",
+      "corp_code": "00664181",
       "sector": "우주항공",
       "sub_industry": "위성·통신·지상국",
       "aliases": [
@@ -834,7 +834,7 @@
     {
       "name": "제노코",
       "stock_code": "361390",
-      "corp_code": "",
+      "corp_code": "01014718",
       "sector": "우주항공",
       "sub_industry": "위성·통신·지상국",
       "aliases": [
@@ -844,7 +844,7 @@
     {
       "name": "컨텍",
       "stock_code": "451760",
-      "corp_code": "",
+      "corp_code": "01685251",
       "sector": "우주항공",
       "sub_industry": "위성·통신·지상국",
       "aliases": [
@@ -854,7 +854,7 @@
     {
       "name": "하이즈항공",
       "stock_code": "221840",
-      "corp_code": "",
+      "corp_code": "00688358",
       "sector": "우주항공",
       "sub_industry": "항공 부품·MRO",
       "aliases": [
@@ -864,7 +864,7 @@
     {
       "name": "아스트",
       "stock_code": "067390",
-      "corp_code": "",
+      "corp_code": "00409681",
       "sector": "우주항공",
       "sub_industry": "항공 부품·MRO",
       "aliases": [
@@ -874,7 +874,7 @@
     {
       "name": "휴니드",
       "stock_code": "005870",
-      "corp_code": "",
+      "corp_code": "00111421",
       "sector": "우주항공",
       "sub_industry": "항공 부품·MRO",
       "aliases": [
@@ -884,7 +884,7 @@
     {
       "name": "퍼스텍",
       "stock_code": "010820",
-      "corp_code": "",
+      "corp_code": "00148522",
       "sector": "우주항공",
       "sub_industry": "항공 부품·MRO",
       "aliases": [
@@ -894,7 +894,7 @@
     {
       "name": "삼성바이오로직스",
       "stock_code": "207940",
-      "corp_code": "",
+      "corp_code": "00877059",
       "sector": "바이오",
       "sub_industry": "CDMO·바이오시밀러",
       "aliases": [
@@ -904,7 +904,7 @@
     {
       "name": "셀트리온",
       "stock_code": "068270",
-      "corp_code": "",
+      "corp_code": "00413046",
       "sector": "바이오",
       "sub_industry": "CDMO·바이오시밀러",
       "aliases": [
@@ -914,7 +914,7 @@
     {
       "name": "SK바이오사이언스",
       "stock_code": "302440",
-      "corp_code": "",
+      "corp_code": "01319899",
       "sector": "바이오",
       "sub_industry": "CDMO·바이오시밀러",
       "aliases": [
@@ -924,7 +924,7 @@
     {
       "name": "에스티팜",
       "stock_code": "237690",
-      "corp_code": "",
+      "corp_code": "00871833",
       "sector": "바이오",
       "sub_industry": "CDMO·바이오시밀러",
       "aliases": [
@@ -934,7 +934,7 @@
     {
       "name": "알테오젠",
       "stock_code": "196170",
-      "corp_code": "",
+      "corp_code": "00989619",
       "sector": "바이오",
       "sub_industry": "플랫폼·기술이전",
       "aliases": [
@@ -944,7 +944,7 @@
     {
       "name": "리가켐바이오",
       "stock_code": "141080",
-      "corp_code": "",
+      "corp_code": "00842619",
       "sector": "바이오",
       "sub_industry": "플랫폼·기술이전",
       "aliases": [
@@ -954,7 +954,7 @@
     {
       "name": "에이비엘바이오",
       "stock_code": "298380",
-      "corp_code": "",
+      "corp_code": "01256864",
       "sector": "바이오",
       "sub_industry": "플랫폼·기술이전",
       "aliases": [
@@ -964,7 +964,7 @@
     {
       "name": "펩트론",
       "stock_code": "087010",
-      "corp_code": "",
+      "corp_code": "00415868",
       "sector": "바이오",
       "sub_industry": "플랫폼·기술이전",
       "aliases": [
@@ -974,7 +974,7 @@
     {
       "name": "디앤디파마텍",
       "stock_code": "347850",
-      "corp_code": "",
+      "corp_code": "01376715",
       "sector": "바이오",
       "sub_industry": "플랫폼·기술이전",
       "aliases": [
@@ -984,7 +984,7 @@
     {
       "name": "올릭스",
       "stock_code": "226950",
-      "corp_code": "",
+      "corp_code": "01113718",
       "sector": "바이오",
       "sub_industry": "플랫폼·기술이전",
       "aliases": [
@@ -994,7 +994,7 @@
     {
       "name": "SK바이오팜",
       "stock_code": "326030",
-      "corp_code": "",
+      "corp_code": "00878696",
       "sector": "바이오",
       "sub_industry": "상업화 신약·제품",
       "aliases": [
@@ -1004,7 +1004,7 @@
     {
       "name": "유한양행",
       "stock_code": "000100",
-      "corp_code": "",
+      "corp_code": "00145109",
       "sector": "바이오",
       "sub_industry": "상업화 신약·제품",
       "aliases": [
@@ -1014,7 +1014,7 @@
     {
       "name": "휴젤",
       "stock_code": "145020",
-      "corp_code": "",
+      "corp_code": "00888347",
       "sector": "바이오",
       "sub_industry": "상업화 신약·제품",
       "aliases": [
@@ -1024,7 +1024,7 @@
     {
       "name": "파마리서치",
       "stock_code": "214450",
-      "corp_code": "",
+      "corp_code": "00970453",
       "sector": "바이오",
       "sub_industry": "상업화 신약·제품",
       "aliases": [
@@ -1034,7 +1034,7 @@
     {
       "name": "HK이노엔",
       "stock_code": "195940",
-      "corp_code": "",
+      "corp_code": "01012066",
       "sector": "바이오",
       "sub_industry": "상업화 신약·제품",
       "aliases": [
@@ -1044,7 +1044,7 @@
     {
       "name": "툴젠",
       "stock_code": "199800",
-      "corp_code": "",
+      "corp_code": "00547510",
       "sector": "바이오",
       "sub_industry": "세포·유전자·RNA",
       "aliases": [
@@ -1054,7 +1054,7 @@
     {
       "name": "큐로셀",
       "stock_code": "372320",
-      "corp_code": "",
+      "corp_code": "01492651",
       "sector": "바이오",
       "sub_industry": "세포·유전자·RNA",
       "aliases": [
@@ -1064,7 +1064,7 @@
     {
       "name": "지씨셀",
       "stock_code": "144510",
-      "corp_code": "",
+      "corp_code": "01010642",
       "sector": "바이오",
       "sub_industry": "세포·유전자·RNA",
       "aliases": [
@@ -1074,7 +1074,7 @@
     {
       "name": "바이오니아",
       "stock_code": "064550",
-      "corp_code": "",
+      "corp_code": "00326731",
       "sector": "바이오",
       "sub_industry": "세포·유전자·RNA",
       "aliases": [
@@ -1084,7 +1084,7 @@
     {
       "name": "LG에너지솔루션",
       "stock_code": "373220",
-      "corp_code": "",
+      "corp_code": "01515323",
       "sector": "이차전지·ESS",
       "sub_industry": "배터리 셀",
       "aliases": [
@@ -1094,7 +1094,7 @@
     {
       "name": "삼성SDI",
       "stock_code": "006400",
-      "corp_code": "",
+      "corp_code": "00126362",
       "sector": "이차전지·ESS",
       "sub_industry": "배터리 셀",
       "aliases": [
@@ -1104,7 +1104,7 @@
     {
       "name": "SK이노베이션",
       "stock_code": "096770",
-      "corp_code": "",
+      "corp_code": "00631518",
       "sector": "이차전지·ESS",
       "sub_industry": "배터리 셀",
       "aliases": [
@@ -1114,7 +1114,7 @@
     {
       "name": "포스코퓨처엠",
       "stock_code": "003670",
-      "corp_code": "",
+      "corp_code": "00155276",
       "sector": "이차전지·ESS",
       "sub_industry": "양극·음극재",
       "aliases": [
@@ -1124,7 +1124,7 @@
     {
       "name": "에코프로비엠",
       "stock_code": "247540",
-      "corp_code": "",
+      "corp_code": "01160363",
       "sector": "이차전지·ESS",
       "sub_industry": "양극·음극재",
       "aliases": [
@@ -1134,7 +1134,7 @@
     {
       "name": "엘앤에프",
       "stock_code": "066970",
-      "corp_code": "",
+      "corp_code": "00398701",
       "sector": "이차전지·ESS",
       "sub_industry": "양극·음극재",
       "aliases": [
@@ -1144,7 +1144,7 @@
     {
       "name": "코스모신소재",
       "stock_code": "005070",
-      "corp_code": "",
+      "corp_code": "00129989",
       "sector": "이차전지·ESS",
       "sub_industry": "양극·음극재",
       "aliases": [
@@ -1154,7 +1154,7 @@
     {
       "name": "대주전자재료",
       "stock_code": "078600",
-      "corp_code": "",
+      "corp_code": "00177816",
       "sector": "이차전지·ESS",
       "sub_industry": "양극·음극재",
       "aliases": [
@@ -1164,7 +1164,7 @@
     {
       "name": "엔켐",
       "stock_code": "348370",
-      "corp_code": "",
+      "corp_code": "01011526",
       "sector": "이차전지·ESS",
       "sub_industry": "전해질·분리막·동박",
       "aliases": [
@@ -1174,7 +1174,7 @@
     {
       "name": "천보",
       "stock_code": "278280",
-      "corp_code": "",
+      "corp_code": "00897752",
       "sector": "이차전지·ESS",
       "sub_industry": "전해질·분리막·동박",
       "aliases": [
@@ -1184,7 +1184,7 @@
     {
       "name": "SKC",
       "stock_code": "011790",
-      "corp_code": "",
+      "corp_code": "00139889",
       "sector": "이차전지·ESS",
       "sub_industry": "전해질·분리막·동박",
       "aliases": [
@@ -1194,7 +1194,7 @@
     {
       "name": "더블유씨피",
       "stock_code": "393890",
-      "corp_code": "",
+      "corp_code": "01291317",
       "sector": "이차전지·ESS",
       "sub_industry": "전해질·분리막·동박",
       "aliases": [
@@ -1204,7 +1204,7 @@
     {
       "name": "피엔티",
       "stock_code": "137400",
-      "corp_code": "",
+      "corp_code": "00612294",
       "sector": "이차전지·ESS",
       "sub_industry": "장비·리사이클링",
       "aliases": [
@@ -1214,7 +1214,7 @@
     {
       "name": "씨아이에스",
       "stock_code": "222080",
-      "corp_code": "",
+      "corp_code": "01090471",
       "sector": "이차전지·ESS",
       "sub_industry": "장비·리사이클링",
       "aliases": [
@@ -1224,7 +1224,7 @@
     {
       "name": "원익피앤이",
       "stock_code": "217820",
-      "corp_code": "",
+      "corp_code": "01020843",
       "sector": "이차전지·ESS",
       "sub_industry": "장비·리사이클링",
       "aliases": [
@@ -1234,7 +1234,7 @@
     {
       "name": "성일하이텍",
       "stock_code": "365340",
-      "corp_code": "",
+      "corp_code": "01274329",
       "sector": "이차전지·ESS",
       "sub_industry": "장비·리사이클링",
       "aliases": [
@@ -1244,7 +1244,7 @@
     {
       "name": "새빗켐",
       "stock_code": "107600",
-      "corp_code": "",
+      "corp_code": "00862880",
       "sector": "이차전지·ESS",
       "sub_industry": "장비·리사이클링",
       "aliases": [
@@ -1254,7 +1254,7 @@
     {
       "name": "서진시스템",
       "stock_code": "178320",
-      "corp_code": "",
+      "corp_code": "00838005",
       "sector": "이차전지·ESS",
       "sub_industry": "ESS 시스템·열관리",
       "aliases": [
@@ -1264,7 +1264,7 @@
     {
       "name": "신성에스티",
       "stock_code": "416180",
-      "corp_code": "",
+      "corp_code": "00761183",
       "sector": "이차전지·ESS",
       "sub_industry": "ESS 시스템·열관리",
       "aliases": [
