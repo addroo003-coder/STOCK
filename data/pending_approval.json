@@ -19,7 +19,7 @@
     "source_count": 1,
     "id": "009150-기타-161-20260827",
     "first_seen": "2026-08-27",
-    "last_updated": "2026-08-27",
+    "last_updated": "2026-08-28",
     "status": "일반",
     "stale": false
   },
@@ -43,7 +43,7 @@
     "source_count": 1,
     "id": "009150-기타-167-20260827",
     "first_seen": "2026-08-27",
-    "last_updated": "2026-08-27",
+    "last_updated": "2026-08-28",
     "status": "일반",
     "stale": false
   },
@@ -68,6 +68,150 @@
     "id": "196170-기타-231-20260827",
     "first_seen": "2026-08-27",
     "last_updated": "2026-08-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "정책",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 삼성전자·SK하이닉스, 美 반도체 관세 확대 검토에 약세 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JaTdTb2FnbUNWLWFXMGtsUFQ0RHp0aW1IclVXdTRKYmtoQ2tFekFqektMV1FjSFFheFRaNFJKb1hsejJvMWJVOExKaVdqODcyaFZmZjhUaTRPRmMw?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 01:37:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-정책-253-20260828",
+    "first_seen": "2026-08-28",
+    "last_updated": "2026-08-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "중국발 AI 데이터센터 붐…\"최대 수혜는 삼성전자\" - ebn.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "ebn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVbElBMGw5TU1QX2NYLUZJQXB4a05SQlhxa0pVcXpvb0ROdlp6dXJMS1BwZFl1Mi0zMVItQjZYUW5aVzBlWGxQWFM1TGZQZGZJN240Ull4RnpCRHdUQ09aUDhXdVVrZHJK?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 00:39:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-256-20260828",
+    "first_seen": "2026-08-28",
+    "last_updated": "2026-08-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "KB증권 \"삼성전자, 美·中 데이터센터 투자 확대의 최대 수혜주\" - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE5VYVFaV1h2TW1odjc5a2tRWnZhNDIyVVV6TU02UGs1UFN6cFBtbFVPQnJrVkFFeE90N184bUNMT3FzRy01bzJHOW11VGs2RmVpdVpIanJNM183R3JlRG1rQzcwTEUtdDFTaGZJLWV0WjhlRVZvZGZQTVphSnppM0ZmLXRnM3ds?oc=5",
+        "pub_date": "Thu, 27 Aug 2026 23:43:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-258-20260828",
+    "first_seen": "2026-08-28",
+    "last_updated": "2026-08-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "정책",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 삼성전자·SK하이닉스, 美 반도체 관세 확대 검토에 약세 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JaTdTb2FnbUNWLWFXMGtsUFQ0RHp0aW1IclVXdTRKYmtoQ2tFekFqektMV1FjSFFheFRaNFJKb1hsejJvMWJVOExKaVdqODcyaFZmZjhUaTRPRmMw?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 01:37:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-정책-265-20260828",
+    "first_seen": "2026-08-28",
+    "last_updated": "2026-08-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하나마이크론 \"시스템반도체·턴키 사업 확대…성장세 지속\" - 디지털데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4taTBaVi1IYU1rZWV5VnpTZDhSWmJ3VHYzclJFd1pJeE5kNUZzWUpBdlJmcElNeG1JM2lGdDI3QzVYTUxXMm9LbVhuWkVHaFVaN0pzdWZOallWTEJhRGZpV3lIYzA?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 01:51:57 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067310-기타-289-20260828",
+    "first_seen": "2026-08-28",
+    "last_updated": "2026-08-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, AI 대호황에 생산능력 확대 속도전 - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XMXAxYzdTdV9ZN09Jb3llXzQwczlZR0JwUlA1dm9YbXhQMmpqWnVMbFdnT1FxUTN6N2FSUmFiVEszRkltU09Ed2dOcjJ1ZnV3QklRY1lKR3Z4ODAwVnNsVEMwRGtCd0NGTWNDVUNoZDdkY2050gF0QVVfeXFMTVcxcDFjN1N1X1k3T0lveWVfNDBzOVlHQnBSUDV2b1hteFAyampadUxsV2dPUXFRM3o3YVJSYWJUSzNGSW1TT0R3Z05yMnVmdXdCSVFjWUpHdng4MDBWc2xUQzBEa0J3Q0ZNY0NVQ2hkN2RjbTk?oc=5",
+        "pub_date": "Thu, 27 Aug 2026 23:47:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-303-20260828",
+    "first_seen": "2026-08-28",
+    "last_updated": "2026-08-28",
     "status": "일반",
     "stale": false
   }

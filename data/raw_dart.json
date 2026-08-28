@@ -26,6 +26,19 @@
     "is_correction": true
   },
   {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260828800101",
+    "rcept_dt": "20260828",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828800101",
+    "is_correction": false
+  },
+  {
     "company": "하나마이크론",
     "stock_code": "067310",
     "sector": "AI 반도체",
@@ -49,19 +62,6 @@
     "rcept_no": "20260827000970",
     "rcept_dt": "20260827",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000970",
-    "is_correction": false
-  },
-  {
-    "company": "하나마이크론",
-    "stock_code": "067310",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최              ",
-    "rcept_no": "20260825900617",
-    "rcept_dt": "20260825",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825900617",
     "is_correction": false
   },
   {
