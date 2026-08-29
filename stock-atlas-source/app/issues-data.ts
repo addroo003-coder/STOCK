@@ -188,6 +188,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "005930-기타-249-20260828",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "獨 ‘게임스컴 2026’ 삼성전자 전시관 이모저모 - Samsung Global Newsroom",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Samsung Global Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT2JBUVhBLVl5ODNsakhsbkhOckJGUHFpSE5TODUxR2VMcVNHQXhWMTR1NWhMQmZvNDlXdWQwcDJfZlZKcFg3Rnp6cDg2OGZCWHJpZ1dzWnZrNlNnRlh1MVFFeTNqRkgxNG5NLUgwQUtfaFE4cHZncy1lNzJwcmY5QTNvQTA1dUxCS3JtRV9OZWNDVU50SkhfWFhGbGxFTVlVNVpoMWc0RHpnN0VGaFNqNllwRDZPWDEyejBiYWFzemZfNWF5emxKSTZFa3ZOWmNlaVZuMVB0ZUxudm9Pc090ZUFWY1ljSVVpREFncnBBS2lwVklaRGhHQmtjYmVQSS1oTlFtOXZYRFhuVGlYTFE?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 23:50:22 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-28",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
       "id": "005930-기타-1564-20260829",
       "category": "기타",
       "direction": "중립",
@@ -256,33 +278,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "elec4",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Rd3R5T18xQnBjZWJkM0NRVTJZeWdwRldWRmx1RUVqT0ZTY2Z1NzE1RlhYNkFJRFNQY1B6WXpOZjJYT3Y3R0pwV3pWX252Z1Zub2ZTMWdSTGs3eFNJaUJidGZVb0otbTlWa2pKRkVR?oc=5",
           "pub_date": "Fri, 28 Aug 2026 19:45:21 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-08-29",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "005930-기타-1584-20260829",
-      "category": "기타",
-      "direction": "긍정",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": true,
-      "headline": "엔비디아 AI 투자 확대…삼성전자·SK하이닉스 수혜 이어질까 - 마켓인",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "마켓인",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xWVp3YlVvR3JDalhjajh4NUo5dEg1R0JzU0VJXzZtQUNpellqb1l5TUNaMFFMTzZJX2dZczlzQ1hpYnVXSDAtNHBSenA1U21jZl91Qkd2aTVGNGtWaHoySk5zU1hzRzR3Q2M1b3hCSGdXTDQ?oc=5",
-          "pub_date": "Sat, 29 Aug 2026 00:00:07 GMT"
-        },
-        {
-          "press": "edaily.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1U1bVlhYURVOHN0ZnpwSkZobXI3blR2Q0hZaGwzYmhwblpIYTZYbG90a1NscUVUb1dOOTVraE5TdWV4NG8xRUR5NERnRVFJTFhpMDRzOUNlUU5DM2phZ25nNmJrR1BnVnR1VFBjOFplaExVSVRUTUVodV9WNUJzWQ?oc=5",
-          "pub_date": "Sat, 29 Aug 2026 00:00:07 GMT"
         }
       ],
       "source_count": 2,
@@ -6677,6 +6672,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 1,
       "first_seen": "2026-08-28",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
+      "id": "046120-기타-2656-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "두산에너빌리티·우리기술 ↑, 한국전력·한전기술은 ↓...8월 마지막장 향방 '이목' - CBC뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YRlFoQWpfaXcyUndqazlBa1hKSWJJVF9XcTVFUjZ6bDVNRkV1c3phT3NuYzVFOXJHY0RIQWEzTWVWc0ltVHFPeUhic0o5YmlaTnZ6ZndLQzl6RXJrVHFEOHVGZ05nbFJI?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 15:13:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
     }
@@ -16394,9 +16411,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QTVBSkJVYWoxLWpqZW1iWUxfTUYtMFZ1LVFyR0pOM01YMTVzaVUyM01xUEZ3ZWplS1FDWkNZTXZNXzh5ZXRDbW9NWkYyYXI0ZDNV?oc=5",
           "pub_date": "Fri, 28 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "press": "직썰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSHFzYzJZSGtXMnNaNWZHRzdIbFlmX0FOMUcwLXZrczFwS05pYjFxSVpXTGppbnlCbXdmRzRfekFSVm9UWnNWajdfQ1V2bG1iMmtrdmFEV29FSzZyNHpUWl9uNDFORnlhVWU0b9IBbEFVX3lxTE9kSHFzYzJZSGtXMnNaNWZHRzdIbFlmX0FOMUcwLXZrczFwS05pYjFxSVpXTGppbnlCbXdmRzRfekFSVm9UWnNWajdfQ1V2bG1iMmtrdmFEV29FSzZyNHpUWl9uNDFORnlhVWU0bw?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 16:58:12 GMT"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -16955,6 +16977,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "457550-기타-2655-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "두산에너빌리티·우리기술 ↑, 한국전력·한전기술은 ↓...8월 마지막장 향방 '이목' - CBC뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YRlFoQWpfaXcyUndqazlBa1hKSWJJVF9XcTVFUjZ6bDVNRkV1c3phT3NuYzVFOXJHY0RIQWEzTWVWc0ltVHFPeUhic0o5YmlaTnZ6ZndLQzl6RXJrVHFEOHVGZ05nbFJI?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 15:13:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
       "id": "457550-기술-1030-20260828",
       "category": "기술",
       "direction": "중립",
@@ -17418,6 +17462,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
+    },
+    {
+      "id": "462350-기타-2658-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "AI, 40번 실험만으로 로켓엔진 구리합금 인쇄조건 찾았다 - 이포커스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "이포커스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05VF9ITlQyeTVoQ0pNSWhfS1hGZ0pXN1F4RktQejZBSlY0MjZ3Ymd4bXoyTmwxZnFURDVmckQxUWdNWWdSRkp6TFFUam9UY0dmenFUc2I1anBqdXNZNUZVSFlTVXRHSFUteFVNVVRB?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 15:30:08 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
     }
   ],
   "켄코아에어로스페이스": [
@@ -17558,9 +17624,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKR2prUkhnSHYzNFlhMmhqMnFOYkE5V21WX1FWZXgwSnZYTHVMajN1Qmk1YWVCbWd0Z3VxMGlQUXRnMlRwYUtrTWZpMXItMXRjbDlQTFF5dEgtUHZMRDZ3Zg?oc=5",
           "pub_date": "Fri, 28 Aug 2026 05:49:00 GMT"
+        },
+        {
+          "press": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdHE5VlRVcGdZNmFwaHUxUFdpbWIzVnVRMXlkSkEyUENNQzNQM05iV1pQVXVZNXZ3Z1pXOE9qbmd0VmRmVllzaG1xT1ZDUjFSSnh1M1FBNWt4dmfSAWBBVV95cUxPQVhrRTNpXzFFMjFPVGNkbUhVSVlSZmdBQ3E2ZHhLY3pWN1lwenIzZ1I1aFY1OXNpZ3JWSy12Vm94dGlOVURGNm1va0JReW04T0pxZWNSM1A4T0dJYUNNQ3o?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 04:11:37 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -20469,9 +20540,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "매일경제 마켓",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkZ3S2lvYkpoQTR5UGhIMWRySnFJWUlEd05jYjc0bWc5VC1RSXROT0hxSFp6cEs5QnRRQ3VSSzBmWFU3cmpZckhGZXdOWUh3T1dTdG5TeUFaVUxPaDhxTXRjM2l6aktUX05DdlQyYTF5ODlPN19EQVFJbVdiWDdYTE5hdWM2MGN4Wk1mUkVCblNtOHJJM05j?oc=5",
           "pub_date": "Thu, 27 Aug 2026 15:25:23 GMT"
+        },
+        {
+          "press": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelE5WlB0SHBfLTUyeHJZXzNBQlRkREVNMDJ0czdESnVPc0F1MmRQU1N2andZR0hQM0tQcURxQUw1VnRpU0VLenNZVU4tdnVGRDVVWmNhNHFMSGtLSnFlZjNpOEF3dWc5ekJkTl9tejRBeTZIYkp6RGxSV00ySm9KX1I3QnVEcXRoa3BMbUxmcU0wZnpzaFVR?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 15:44:40 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
