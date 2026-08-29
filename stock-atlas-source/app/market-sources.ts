@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "박정원 두산 회장, 네팔서 실종 직원 수색현장 직접 지원",
-      "office": "전자신문",
-      "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/030/0003461471"
+      "title": "박정원 두산 회장 긴급 네팔行, 민간헬기 수색 시도 지속 \"직원 구조 ...",
+      "office": "뉴시스",
+      "date": "20260830",
+      "url": "https://n.news.naver.com/mnews/article/003/0014156419"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
