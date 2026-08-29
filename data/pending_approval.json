@@ -421,9 +421,14 @@
         "press": "이뉴스투데이",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5X1dFRUFSZVZKdUlDUXNRaEFjN2s0amVvMUJ2ZnR3a3lzb25MTy1DWjFpY2lDTUdLRXBWbXpwS3ItVG1qZGZQR1VYX21jNTFqeVVCeTFZdkpQNFJITzMyRWF3UlhOa2xCWl9LNXh0RTlpd9IBdEFVX3lxTE82dllxQlkweUlQMHJCR3dLTUdRU0RBVTlVd0J5Rml5S0ZUdWNUWnM5ZFJLUk5zT1RRR2FUZzNpTmZ5SnZFc09jUXhCdkxGRzl3TjMxS1NMaXUzdHZTdjBOcnhzejVDSVduZE9IcXBfRFAzZHlB?oc=5",
         "pub_date": "Thu, 27 Aug 2026 06:00:00 GMT"
+      },
+      {
+        "press": "이뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5VzJrNzhDcHZCaGNnMEdod1NKeHVCOXlVNWlaUTZDOUxzMHNtd3Y2VE9scVowenhULUJrNzVaTnBuRkh3cjdiWVBOcHBtY2x6LS1tX010am5UaHN5VFRQR21MOTZjYjViT05YRmhESWfSAXRBVV95cUxPNnZZcUJZMHlJUDByQkd3S01HUVNEQVU5VXdCeUZpeUtGVHVjVFpzOWRSS1JOc09UUUdhVGczaU5meUp2RXNPY1F4QnZMRkc5d04zMUtTTGl1M3R2U3YwTnJ4c3o1Q0lXbmRPSHFwX0RQM2R5QQ?oc=5",
+        "pub_date": "Thu, 27 Aug 2026 06:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "222800-기타-552-20260828",
     "first_seen": "2026-08-28",
     "last_updated": "2026-08-29",
@@ -1384,7 +1389,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "엔비디아 AI 투자 확대…삼성전자·SK하이닉스 수혜 이어질까 - 마켓인",
     "source_type": "news",
@@ -1393,9 +1398,14 @@
         "press": "마켓인",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xWVp3YlVvR3JDalhjajh4NUo5dEg1R0JzU0VJXzZtQUNpellqb1l5TUNaMFFMTzZJX2dZczlzQ1hpYnVXSDAtNHBSenA1U21jZl91Qkd2aTVGNGtWaHoySk5zU1hzRzR3Q2M1b3hCSGdXTDQ?oc=5",
         "pub_date": "Sat, 29 Aug 2026 00:00:07 GMT"
+      },
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1U1bVlhYURVOHN0ZnpwSkZobXI3blR2Q0hZaGwzYmhwblpIYTZYbG90a1NscUVUb1dOOTVraE5TdWV4NG8xRUR5NERnRVFJTFhpMDRzOUNlUU5DM2phZ25nNmJrR1BnVnR1VFBjOFplaExVSVRUTUVodV9WNUJzWQ?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 00:00:07 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "005930-기타-1584-20260829",
     "first_seen": "2026-08-29",
     "last_updated": "2026-08-29",
@@ -1480,7 +1490,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "엔비디아 AI 투자 확대…삼성전자·SK하이닉스 수혜 이어질까 - 마켓인",
     "source_type": "news",
@@ -1489,9 +1499,14 @@
         "press": "마켓인",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xWVp3YlVvR3JDalhjajh4NUo5dEg1R0JzU0VJXzZtQUNpellqb1l5TUNaMFFMTzZJX2dZczlzQ1hpYnVXSDAtNHBSenA1U21jZl91Qkd2aTVGNGtWaHoySk5zU1hzRzR3Q2M1b3hCSGdXTDQ?oc=5",
         "pub_date": "Sat, 29 Aug 2026 00:00:07 GMT"
+      },
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1U1bVlhYURVOHN0ZnpwSkZobXI3blR2Q0hZaGwzYmhwblpIYTZYbG90a1NscUVUb1dOOTVraE5TdWV4NG8xRUR5NERnRVFJTFhpMDRzOUNlUU5DM2phZ25nNmJrR1BnVnR1VFBjOFplaExVSVRUTUVodV9WNUJzWQ?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 00:00:07 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-1605-20260829",
     "first_seen": "2026-08-29",
     "last_updated": "2026-08-29",
@@ -1759,7 +1774,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "유한양행, 몽골 산불 피해지에 3만7500그루 식재 - 우먼타임스",
     "source_type": "news",
@@ -1768,9 +1783,14 @@
         "press": "우먼타임스",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZXy0wTHh4TWkwWlk5LXhTS0l2MnkxMFNJZWhKZ1h1UExPZVN5ZnVFcEZtX1l3bGRWNkVmUWFiSEEwZGVadDNIM1JWWWoxVXYxaVB2SWhpR1pKMmE2M21id0ZhQzdZbndpXzJQbzhNcHPSAXRBVV95cUxNM0RIcS1SYUpodC1hdE53eVVheWtaTjdBYjdJdW4tMlhmVUdrcnBuNU03cGVCZ3NxdWxNNGEtWEFMSnlIdkhIZDVOZnNBR2xWdno5VmNzMS1wVFFqd1hjSUNkZjJzdGlVdGJvbHo3LWtuOGRaLQ?oc=5",
         "pub_date": "Fri, 28 Aug 2026 04:38:53 GMT"
+      },
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15bDVaUTRXeEdKdmFhalA3UU5SZFlsSFFvMjlFcTJBTk9VSFZfTDRIeTVZYWVwd01Ud2Nobms2M08tYXFJZWNZZGxHRHJBeXF2TTlQamg3LUF0VUlLc3JTcVVTTHo1WGNhMDROQUZ1S0xtT0XSAXNBVV95cUxNeWw1WlE0V3hHSnZhYWpQN1FOUmRZbEhRbzI5RXEyQU5PVUhWX0w0SHk1WWFlcHdNVHdjaG5rNjNPLWFxSWVjWWRsR0RyQXlxdk05UGpoNy1BdFVJS3NyU3FVU0x6NVhjYTA0TkFGdUtMbU9F?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 11:12:21 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000100-기타-2076-20260829",
     "first_seen": "2026-08-29",
     "last_updated": "2026-08-29",
@@ -1796,6 +1816,54 @@
     ],
     "source_count": 1,
     "id": "214450-기타-2087-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "‘나홀로 입찰’로 역대 최대?···삼성물산, 현대건설 기록 넘나 - 시사저널e",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "시사저널e",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03eU9wNTRMazZtckgzUjBUTHlnbG5XQVRRX0xiNEtPZzhoSTBZcWZtbHRZaW1Fam5wQ0c5VEZHaEtEcWh2TWxHZ0hIdVBEc2VtR2tFNEc5TlpQbWMxTXRabVY3MTluOTNtZi1kTGJRbHBzQdIBdkFVX3lxTE9RTlRJSnJ1SmdtWndMdjk4T2tGVThCTGFkQ3RXOFl3T0x6UjNLdXEyWnoyQnhGWlJlUGdpOUV6dm1YMXBzUi1seXQxSmJPaHZpWldiM0hYZXdyUng5QkF2RVJqSGFtQml5VjNLNGd1d1NZTjdwWlE?oc=5",
+        "pub_date": "Thu, 27 Aug 2026 05:22:27 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-2234-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "피엔티, 印 전극공정 장비 수주 확대…中 동박은 단계 증설 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uWWhoMEllZUZyVUJpcXFFVHoteTZONVoybDYxMEo4M3kyVDdYMWUwOW1yQUFxZnFzbmhPelhPcnByN1FoeTNEakg0ZklSQQ?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 03:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "137400-수주-2258-20260829",
     "first_seen": "2026-08-29",
     "last_updated": "2026-08-29",
     "status": "일반",
