@@ -357,10 +357,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
-      "title": "‘지분’보다 ‘실적’…AI 격변기 시험대 오른 8090 재계 뉴리더 20인",
-      "office": "한경비즈니스",
+      "title": "에이엘바이오·리가켐바이오 공동 개발 ADC, 중국 임상서 항암 효과 확...",
+      "office": "이코노미스트",
       "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110197"
+      "url": "https://n.news.naver.com/mnews/article/243/0000102276"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/141080/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "중국 창신메모리 '깜짝 실적'…삼전·하닉 주가 영향 주목",
-      "office": "연합뉴스TV",
+      "title": "\"한국과 손잡아야\"…실리콘밸리가 보낸 'AI동맹' 러브콜",
+      "office": "한국경제TV",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900710"
+      "url": "https://n.news.naver.com/mnews/article/215/0001264116"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "중국 창신메모리 '깜짝 실적'…삼전·하닉 주가 영향 주목",
-      "office": "연합뉴스TV",
+      "title": "\"한국과 손잡아야\"…실리콘밸리가 보낸 'AI동맹' 러브콜",
+      "office": "한국경제TV",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900710"
+      "url": "https://n.news.naver.com/mnews/article/215/0001264116"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
