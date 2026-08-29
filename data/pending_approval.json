@@ -1873,5 +1873,53 @@
     "last_updated": "2026-08-29",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "돈 잘버는 SK하이닉스보다 적자 스페이스X가 비싼 이유 [B급기자의 B급리포트] - 한국경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SNlNjdk91MTNZU1dCb3NVZWJ1OGlTcXI1MEludFFxcmsxcHVoalZRX09TaWwzQi1hY09aYkZmNlhQOHo3Y0FhSVB4cTVqSmVLelB1SktQNEFEV2tQR3pNSlhZbzFFcWhuYjhQWHJ0a2Vlc3c2T3hj?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 04:16:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-리스크-2491-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한중엔시에스",
+    "stock_code": "107640",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반대 0.7%, 한중엔시에스 합병 이사회 승인 - tokenpost.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "tokenpost.kr",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80QkNXV3QyRVZOZVN4NHlLa2JVN2M3WWZJV0NHclN0X0tYSGdnSk5tZHBJVlFicHgzOS16NkhvaUZkRVVSUTY2MlFVdWJ5X2ZRQVdSVFJR0gFbQVVfeXFMTnpXMHRHMXFmdldQM0V4WE1Ob2hCYzhQZ1JBTkswT19pTXBTODFkWm5fQ050SkVVRm0xU1EtTDR6Y21uQVhfLVBNQXlTVWdjejd1b1I1c2hreEd0SQ?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 07:30:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "107640-기타-2520-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
   }
 ]
