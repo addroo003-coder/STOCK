@@ -6816,7 +6816,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "047810-기타-1053-20260828",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
@@ -6827,9 +6827,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "딜사이트",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MzRVVUtnMV9RdkFudGQxTkFQOE1yZHMyQ1dGTmhuMDV5b200MEVLQzNNdElSTTNJY2pTZzJrbWRiV29wdU55WS1TeUxoYTQ?oc=5",
           "pub_date": "Thu, 27 Aug 2026 22:59:12 GMT"
+        },
+        {
+          "press": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM09XN0NtazFsV1lpSWNNdWF5d0tEaDI5VFVBOXNRNEV5N05CcEZwcmtPSG1SYXVJQTZia0pHWkVzNkVCeWRqTEhYeURrMEMtV2ExaUdSY1gxUGFBUlB4M2V3QnZncVkzMTdfWlRXMGNHdHdhLXhsUVBlZFFGRDdqbkQ5RVpIbVg2NFF2cFNIWQ?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 23:40:08 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -11608,6 +11613,28 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Platea Magazine",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1NfRzM5N29kODY5bVBWdlltWktxd2d5R3lmVEJOMVhGdGJZYWNzSHVTT2JqUU9SZ1B3SmhGVDhxUm1LQ3NBdkVNN25MeFhMaUdoaHhvX2FDX3NrVGVpWTRIXzJBcUVVd25NWktkbWN3cjdfQU9idnUwZk5UcDd2b3FVUzZMWTRESFpKVEhmMkRrOHVKcXpUbjVB?oc=5",
           "pub_date": "Thu, 27 Aug 2026 17:23:03 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
+      "id": "064760-기타-2881-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "25일, 기관 코스닥에서 HPSP(+10.35%), 심텍(+11.12%) 등 순매수 - 씽크풀 AI",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "씽크풀 AI",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycnJYNkk2di1fWEpQXy0ySWE2NGFMMjg4NXZ1bDYzTHluclpYOVNiY2ExaGY3WTJYVGpTRXVwMzZQenBvUUpwQjFQSi1PRzVrTThkLVNfWUN0M3h5WUI0WEZiY3VRc0Nh?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 16:02:17 GMT"
         }
       ],
       "source_count": 1,

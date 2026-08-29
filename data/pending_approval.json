@@ -1961,9 +1961,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sc3RIcy1JWS1wV1A1aDN4aEZVXzdMTy1qQUc0WWFKcXpHYnc4WDg3Wk1OWmhzUVZtOG4zRF9aU1p3SUdfV1p6a0dteFpIOFU?oc=5",
         "pub_date": "Sat, 29 Aug 2026 21:39:27 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nVzNVZm9vaHFfOWNiS25RWlVWNnZNUUlWVHJZNXNGdFV1UG5kN000b25GRUNUU0NRbGRaWUZUanhXOHZkT1JWUWJiMVpwbThNMzJieQ?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 21:39:27 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "005930-기타-2774-20260829",
     "first_seen": "2026-08-29",
     "last_updated": "2026-08-29",
