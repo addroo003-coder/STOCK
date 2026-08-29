@@ -1921,5 +1921,29 @@
     "last_updated": "2026-08-29",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]엘앤에프, 'T사향 이원화 영향력 제한적, 우상향 유효' 목표가 210,000원 - 메리츠증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNkN6SkRoVzU5dXRHNzJ2OG9pVXZUVlBUZm1aemRpMDQtUTM0TG5haVpoYkhsMjZpNEl3cVRpWlE0RnJSVnFUVHF4cGtJSXZtSWpWZFVtQ2NUQlEt?oc=5",
+        "pub_date": "Thu, 27 Aug 2026 23:45:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-기타-2763-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
   }
 ]
