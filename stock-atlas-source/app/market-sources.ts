@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "최태원 “꼭 호남에 반도체?” 두 달 뒤 투자…野, 최태원·이재용 부...",
-      "office": "헤럴드경제",
+      "title": "중국 창신메모리 '깜짝 실적'…삼전·하닉 주가 영향 주목",
+      "office": "연합뉴스TV",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690037"
+      "url": "https://n.news.naver.com/mnews/article/422/0000900710"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -951,10 +951,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "[속보]'칠천피' 또 불발…美 관세 공포·외인 2조 '팔자'에 6700선 마감",
-      "office": "이데일리",
-      "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359728"
+      "title": "SK, 계열사 합치며 군살 뺀다…사업구조 재편",
+      "office": "비즈워치",
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050283"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "국민성장펀드, 원익로보틱스에 3500억원 투자",
-      "office": "SBS Biz",
-      "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530004"
+      "title": "전기차 넘어선 K배터리…AI·ESS·로봇으로 '영토 확장'",
+      "office": "시사저널",
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/586/0000137056"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "정제마진 강세에 커지는 실적 개선 기대감…정유株 일제히 불기둥",
-      "office": "매일신문",
-      "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/088/0001025630"
+      "title": "전기차 넘어선 K배터리…AI·ESS·로봇으로 '영토 확장'",
+      "office": "시사저널",
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/586/0000137056"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "中 CXMT, 상반기 매출 1503억위안…텐센트 제치고 시총 1위 등극",
-      "office": "디지털데일리",
+      "title": "중국 창신메모리 '깜짝 실적'…삼전·하닉 주가 영향 주목",
+      "office": "연합뉴스TV",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239426"
+      "url": "https://n.news.naver.com/mnews/article/422/0000900710"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
