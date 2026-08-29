@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티·남동발전, 24시간 네팔 상황 주시…실종 가족 지원",
+      "title": "두산에너빌리티·남동발전, 비대본 가동·가족 지원",
       "office": "연합뉴스TV",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900654"
+      "url": "https://n.news.naver.com/mnews/article/422/0000900671"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "中 CXMT, 상반기 매출 1503억위안…텐센트 제치고 시총 1위 등극",
-      "office": "디지털데일리",
+      "title": "최태원 “꼭 호남에 반도체?” 두 달 뒤 투자…野, 최태원·이재용 부...",
+      "office": "헤럴드경제",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239426"
+      "url": "https://n.news.naver.com/mnews/article/016/0002690037"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
