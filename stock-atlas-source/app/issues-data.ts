@@ -711,6 +711,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "000660-기타-23-20260827",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "SK하이닉스, 낸드플래시 생산성 저하에 고심… “176단 구형 비중 여전히 과반” - 조선비즈 - Chosunbiz",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWlveHkyR3NzRmZWcDFMek8wVlE4emRqLUNmMWRGbDNQQURtLUtZUXFtSi1kTVYtNmFNaS1PZkppb0UwX0k1SXlselhpNWRGcTZqMlE5cDhiWGpJU1RObFVlSnA1aFh0RE9PazFJWDlLMElubmVudDJvQzk0NFMxVXFn0gGWAUFVX3lxTE02TDdiRnYwRkl4UDd4Rjl5aW5RTG1EZUh0c2RYdkZqdTQtdGdTSFhTOTdQajcyNGJ5NDIwTE1BTE1KNzZTeTFsXzRWM2FCOWRqSEhDYnpmbVFFS3c2ZDJWVU5HWEhmYVRTbDhwaVo4WDh6Z204VnpSZlZVelRpR3dFVXRTMzBwQW1zVHU5SHpQckpjbmNadw?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 22:07:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
       "id": "000660-기타-32-20260827",
       "category": "기타",
       "direction": "중립",
@@ -821,33 +843,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "000660-기술-386-20260828",
-      "category": "기술",
-      "direction": "긍정",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": true,
-      "headline": "SK하이닉스, 인디애나 공장 착공...2029년 양산·키옥시아 협력 확대 모색 - AI타임스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "AI타임스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRDF5YzVmMVNlUWt5R3U1QjRVeW9IZXI0a0ZFVmJiWDNFa05ndnhNNk81MjZFUGZOMnNhMFhmOEw5NEd0TjI1cGJsRDZWM2FIMTlrVWc3cnVmQzF1X09sdVo1STJxU1MxbUE?oc=5",
-          "pub_date": "Fri, 28 Aug 2026 03:16:03 GMT"
-        },
-        {
-          "press": "창업일보",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxMU5BbkMxWFNfdDZzWW1GaU1qdDRiU1V5ekRNTE1aMVkzQ2tfdU8wbVhxMV9sdXNpcTFTUnU3ZW1TMmM1TTBTT3FkWDRZNjJ5VHBPcm9aRk4wMnZ4bnZkTFpVcTJpVmZv?oc=5",
-          "pub_date": "Fri, 28 Aug 2026 23:42:57 GMT"
-        }
-      ],
-      "source_count": 2,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -10830,6 +10825,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "330860-기타-2697-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "특징주, 케이엔솔-반도체 장비 테마 상승세에 1.41% ↑ - 매일경제 마켓",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxLW94ck5WTnpzaVlWSFpkd1E1OVJLOV9KN0JtNXd4UzkxSkZEak1WajJQd1lGZ1g0V29CTGl2TUFhdE1zOE8wb1BoVjZZd01vQ1E?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 17:00:35 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
       "id": "330860-기타-469-20260828",
       "category": "기타",
       "direction": "중립",
@@ -11737,9 +11754,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00cm1pWFdfRjY1c1g2ZHlRdXlKSUpCRkdkME45ejRTM1BsNE9ORGRVcUVSYW5FNktjWlpoQXZCT0dJOFB5Y2ItZW13RWFrdEhtSFBr?oc=5",
           "pub_date": "Thu, 27 Aug 2026 21:33:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuY1dZUTVUZlFVT0xXTm1NNWc4TmE2M1d6ekl4b25sSUZzV2hkS1dJa3dxQVVaRHRhOHpUUTl3bE55VEJMMjYtQnNwS1d1VFU?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 21:32:00 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -16017,9 +16039,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "medicalworldnews.co.kr",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03ZTFybjdmYXpqN0Z3eXFlMEtCNGVQZEhfSVd3VXc3a2Vkcnd0Rk94MkNNN1pwaWo2bVBCZTYyd0l2WlVpS2xQSk1VWkNRNS1DTmEzeDdNTnBoVmdYdDVNa3hib0MzUFI2cWpZ?oc=5",
           "pub_date": "Fri, 28 Aug 2026 07:40:21 GMT"
+        },
+        {
+          "press": "medicalworldnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14VVAyVEU2eDZVRmZrWVNZT3BRNVVsUXVsTy1ITHVSRGI2MzN4c3R2alkyemgyUG1weE1qOFppU2E3VnNvamFVSUFieWNMNEZETWhKYzREVExwZmV2cWlQQmZjZUU4aTg?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 08:55:42 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
@@ -16503,9 +16530,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "이뉴스투데이",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZ3pRaUMxZ0ZZVjFleXI2TENiNENUYlp6WXZaYkdRSEQ3dWw2YXBiZEdDZTVPY2NuclQtMUZDT2FxVHFKd1g3R2lhQWFlSjNXZlZpMnJhbWpDd1duSGo5RW10Xy1kMTUzUjczWEdGVTU1Mnlw0gF0QVVfeXFMTm5nelFpQzFnRllWMWV5cjZMQ2I0Q1RiWnpZdlpiR1FIRDd1bDZhcGJkR0NlNU9jY25yVC0xRkNPYXFUcUp3WDdHaWFBYWVKM1dmVmkycmFtakN3V25IajlFbXRfLWQxNTNSNzNYR0ZVNTUyeXA?oc=5",
           "pub_date": "Fri, 28 Aug 2026 07:52:03 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YR0ZmRGE0VlVVYTJNRUZNZkdkQUJzQXFOemRFNkJ3WG5IREhMUHFjTWJydEN0LW1qcVp3UXBmQ29NRE1TRWJ5eDBfQQ?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 05:21:00 GMT"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -16694,9 +16726,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "매일경제 마켓",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YX2N5Z0cxNUlOd3VGRE1xVGZHenhSdHdTc2xoVFhRMHNkQnFCV2lsZzRhc29RQnBJdzA4TEU2TFItTzdtMjRXczl5VmhIQzhjTkE?oc=5",
           "pub_date": "Fri, 28 Aug 2026 01:33:59 GMT"
+        },
+        {
+          "press": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Kc25qSE8zc2tnMElrWHlyRzJwcjEtdWJKZkRTT1VzNm9ZTU1TaTU3LUFnVmJaeFFESVpYU0JaUi0tU2RlandfaS1Xby1rSTAxbnc?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 01:33:59 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -17877,6 +17914,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "189300-기타-2714-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "인텔리안테크 투자분석 2026. 08. 29 - 주달",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "주달",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MaEhBT2w5ai0wdlNLUnVUdjhnV1dMNVRCeXl4R0NtYm90LXNZdi1VZFZ5d2xWOTA4UmFtSlRkaXowcVltcTU3eld5LUZCMTYtR0pXMDh5Snl1SElVcUZaM2hCQ2Y0QVNXTF9zZmN2Z3UwV0E?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 08:24:09 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
       "id": "189300-기타-1102-20260828",
       "category": "기타",
       "direction": "중립",
@@ -18993,9 +19052,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16aG5NWFp1ZTVtNHhSN3VkMTc1OEo5OS1qV21QdHdGNzc2SVAwVGg2a1lxQ05ETHlJbEVmZTBfRXNkSG56a2c?oc=5",
           "pub_date": "Fri, 28 Aug 2026 07:40:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42YkNKVWFWeFQ3R3Z5STExeUJ1M3ZaWWhyYU5JQkNhMUhOb2Rmb0Npdy1vTEtWZ2ZGZ1BJbjlFSnduVl85U28ya29aSQ?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 07:40:00 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
@@ -20543,9 +20607,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EN29rSzA3Vm1PUkpSTC1WT21mb1o2RDB1T2JsS0h5ZU5UVDJxWXVlMHhNZHFMUWNGTFREV1k0QmJiTmtaanc?oc=5",
           "pub_date": "Fri, 28 Aug 2026 02:07:48 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QNHhZZWZHZWRwNGtQTGxlZkViZzR2MHVRRnpsd2RFN0VDTGQ1Z3NMczBLa1RadFhycmlwV2RpX3F0NWFmOTB1bGFhYw?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 02:07:48 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -21714,6 +21783,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "222080-기타-2724-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "드림씨아이에스 투자분석 2026. 08. 28 - 주달",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "주달",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qUTdBSWZZMGJxNUM4Y3ZFODJfT0twYzh0VTZ2SUdkRkJWMEFjUl9PLUxWNklPNHg2MWJ4M1RIQW11aFdEMHM2MU55U3hlWDN4RU9tQU9VcjZwbFBLeTFqTDAzeXNCN2RsX1cxcXJXZ28wSWM?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 07:40:53 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
       "id": "222080-정책-1530-20260828",
       "category": "정책",
       "direction": "중립",
@@ -21917,6 +22008,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 1,
       "first_seen": "2026-08-28",
+      "last_updated": "2026-08-29",
+      "stale": false
+    },
+    {
+      "id": "107600-기타-2725-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "새빗켐 투자분석 2026. 08. 29 - 주달",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "주달",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xbFVXRFI5TV9ld191d24wem03cURHQjlWQnFhMWNhOTdvZXFjMjU2V2puTVJHWW91MUFxcTBCZ0ZVS2lRUW5EZ0ZkWkVfOXpIWGVrSHo1YTFnc1BkVEtyWkdQT3EyVHdYOUQ3dmZqeFlUZnM?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 08:03:18 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
     },
@@ -22406,6 +22519,30 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "주달",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44M25VUFJrU292TEdUc3c0YlA4OVJXM1FqNjFIUVk2NGFaRjBrc1czM3BtUGJOYktxZTFFZUphdUhkWG43Q3BnNW9WUFJlWGxqMGw0QlBPeUdTVzV0bVhnRkRYTFZkNzlFU20wZkplSm1uNlk?oc=5",
           "pub_date": "Thu, 27 Aug 2026 11:00:59 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "stale": false
+    }
+  ],
+  "하이즈항공": [
+    {
+      "id": "221840-기타-2715-20260829",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "하이즈항공 투자분석 2026. 08. 29 - 주달",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "주달",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CalRZYzBnbmdLeGZILXBGTjByd1Uyd28yOFM2Qm5qTkhfVElueVVIZTkxVlUxYmVBSlpKUVAzd2dNcFgtLXlkWG1DLUZHQnBzRDFwZU1tQXFFbkRINXZydDJ6Y2ZQTnN6SEh4c19Jb3ZjelE?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 08:55:15 GMT"
         }
       ],
       "source_count": 1,
