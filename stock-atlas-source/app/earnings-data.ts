@@ -75,21 +75,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 213,
+      "operatingProfit": 3,
+      "netIncome": 7,
+      "operatingMargin": 1.54
     },
     "comparisons": {
       "q1RevenueQoq": -37.8,
       "q1OperatingProfitQoq": -329.4,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 134.1,
+      "q2RevenueQoq": 3.4,
+      "q2OperatingProfitYoy": 106.4,
+      "q2OperatingProfitQoq": 107.7
     },
-    "interpretation": "검증 대기",
+    "interpretation": "흑자전환",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=399720",
@@ -145,21 +145,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 309,
+      "operatingProfit": 51,
+      "netIncome": 94,
+      "operatingMargin": 16.5
     },
     "comparisons": {
       "q1RevenueQoq": 20.6,
       "q1OperatingProfitQoq": null,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -4.9,
+      "q2RevenueQoq": 3.3,
+      "q2OperatingProfitYoy": 10.9,
+      "q2OperatingProfitQoq": 2
     },
-    "interpretation": "검증 대기",
+    "interpretation": "이익 개선",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=330860",
@@ -180,21 +180,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 28,
+      "operatingProfit": -53,
+      "netIncome": -46,
+      "operatingMargin": -186.63
     },
     "comparisons": {
       "q1RevenueQoq": -62,
       "q1OperatingProfitQoq": -22.9,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -17.6,
+      "q2RevenueQoq": -6.7,
+      "q2OperatingProfitYoy": -26.2,
+      "q2OperatingProfitQoq": -23.3
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=348340",
@@ -320,21 +320,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 362,
+      "operatingProfit": -155,
+      "netIncome": 8,
+      "operatingMargin": -42.77
     },
     "comparisons": {
       "q1RevenueQoq": 57.7,
       "q1OperatingProfitQoq": 49,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -5.2,
+      "q2RevenueQoq": -15.6,
+      "q2OperatingProfitYoy": 40.4,
+      "q2OperatingProfitQoq": 24.4
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=393890",
@@ -600,21 +600,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 154,
+      "operatingProfit": 20,
+      "netIncome": 26,
+      "operatingMargin": 12.89
     },
     "comparisons": {
       "q1RevenueQoq": 1.7,
       "q1OperatingProfitQoq": -661.9,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 94.9,
+      "q2RevenueQoq": 30.5,
+      "q2OperatingProfitYoy": 900,
+      "q2OperatingProfitQoq": 116.9
     },
-    "interpretation": "검증 대기",
+    "interpretation": "흑자전환",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=108490",
@@ -635,21 +635,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 55,
+      "operatingProfit": -720,
+      "netIncome": -681,
+      "operatingMargin": -1300.88
     },
     "comparisons": {
       "q1RevenueQoq": 124.4,
       "q1OperatingProfitQoq": 48.8,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -83.1,
+      "q2RevenueQoq": -84.7,
+      "q2OperatingProfitYoy": -233.3,
+      "q2OperatingProfitQoq": -92.5
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=141080",
@@ -705,21 +705,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 962,
+      "operatingProfit": 12,
+      "netIncome": -11,
+      "operatingMargin": 1.22
     },
     "comparisons": {
       "q1RevenueQoq": 2.4,
       "q1OperatingProfitQoq": -118.5,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 8.9,
+      "q2RevenueQoq": 17.6,
+      "q2OperatingProfitYoy": -77.4,
+      "q2OperatingProfitQoq": 340
     },
-    "interpretation": "검증 대기",
+    "interpretation": "흑자전환",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=064550",
@@ -985,21 +985,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 210,
+      "operatingProfit": -54,
+      "netIncome": -70,
+      "operatingMargin": -25.66
     },
     "comparisons": {
       "q1RevenueQoq": -12.1,
       "q1OperatingProfitQoq": -92.3,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -21.9,
+      "q2RevenueQoq": 11.7,
+      "q2OperatingProfitYoy": -460,
+      "q2OperatingProfitQoq": -116
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=437730",
@@ -1160,21 +1160,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 3120,
+      "operatingProfit": 460,
+      "netIncome": 568,
+      "operatingMargin": 14.75
     },
     "comparisons": {
       "q1RevenueQoq": 8.1,
       "q1OperatingProfitQoq": 4,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 36.4,
+      "q2RevenueQoq": 18.3,
+      "q2OperatingProfitYoy": 127.7,
+      "q2OperatingProfitQoq": 2.9
     },
-    "interpretation": "검증 대기",
+    "interpretation": "이익 개선",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=357780",
@@ -1195,21 +1195,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 599,
+      "operatingProfit": 17,
+      "netIncome": 12,
+      "operatingMargin": 2.79
     },
     "comparisons": {
       "q1RevenueQoq": 47.6,
       "q1OperatingProfitQoq": 77.3,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 150.6,
+      "q2RevenueQoq": 19.3,
+      "q2OperatingProfitYoy": 750,
+      "q2OperatingProfitQoq": 440
     },
-    "interpretation": "검증 대기",
+    "interpretation": "흑자전환",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=416180",
@@ -1510,21 +1510,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 5,
+      "operatingProfit": -52,
+      "netIncome": -62,
+      "operatingMargin": -1135.42
     },
     "comparisons": {
       "q1RevenueQoq": -76,
       "q1OperatingProfitQoq": -57.1,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -61.5,
+      "q2RevenueQoq": -16.7,
+      "q2OperatingProfitYoy": -23.8,
+      "q2OperatingProfitQoq": 5.5
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=464080",
@@ -1720,21 +1720,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 8,
+      "operatingProfit": -35,
+      "netIncome": -11,
+      "operatingMargin": -442.21
     },
     "comparisons": {
       "q1RevenueQoq": -61.5,
       "q1OperatingProfitQoq": 3.6,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -46.7,
+      "q2RevenueQoq": 60,
+      "q2OperatingProfitYoy": -59.1,
+      "q2OperatingProfitQoq": -29.6
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=455900",
@@ -1860,21 +1860,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 29,
+      "operatingProfit": -63,
+      "netIncome": -61,
+      "operatingMargin": -212.57
     },
     "comparisons": {
       "q1RevenueQoq": -20.6,
       "q1OperatingProfitQoq": -18.4,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 11.5,
+      "q2RevenueQoq": 7.4,
+      "q2OperatingProfitYoy": 28.4,
+      "q2OperatingProfitQoq": 30
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=394280",
@@ -1930,21 +1930,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 198,
+      "operatingProfit": -11,
+      "netIncome": 201,
+      "operatingMargin": -5.73
     },
     "comparisons": {
       "q1RevenueQoq": -31.5,
       "q1OperatingProfitQoq": -458.3,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -12.4,
+      "q2RevenueQoq": 16.5,
+      "q2OperatingProfitYoy": -57.1,
+      "q2OperatingProfitQoq": 83.6
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=032820",
@@ -2210,21 +2210,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 25,
+      "operatingProfit": -158,
+      "netIncome": -160,
+      "operatingMargin": -639.99
     },
     "comparisons": {
       "q1RevenueQoq": 40,
       "q1OperatingProfitQoq": 46.1,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 400,
+      "q2RevenueQoq": 78.6,
+      "q2OperatingProfitYoy": 5.4,
+      "q2OperatingProfitQoq": -27.4
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=462350",
@@ -2595,21 +2595,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 180,
+      "operatingProfit": -79,
+      "netIncome": 49,
+      "operatingMargin": -44.01
     },
     "comparisons": {
       "q1RevenueQoq": -30.8,
       "q1OperatingProfitQoq": -242.9,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -32.3,
+      "q2RevenueQoq": -1.1,
+      "q2OperatingProfitYoy": -132.4,
+      "q2OperatingProfitQoq": -229.2
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=451760",
@@ -2630,21 +2630,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 285,
+      "operatingProfit": 12,
+      "netIncome": 3,
+      "operatingMargin": 4.16
     },
     "comparisons": {
       "q1RevenueQoq": 44.6,
       "q1OperatingProfitQoq": 106.3,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": 31.9,
+      "q2RevenueQoq": -2.4,
+      "q2OperatingProfitYoy": 166.7,
+      "q2OperatingProfitQoq": 500
     },
-    "interpretation": "검증 대기",
+    "interpretation": "이익 가속",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=274090",
@@ -2980,21 +2980,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 108,
+      "operatingProfit": -14,
+      "netIncome": -10,
+      "operatingMargin": -13.03
     },
     "comparisons": {
       "q1RevenueQoq": 15.5,
       "q1OperatingProfitQoq": 72.7,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -1.8,
+      "q2RevenueQoq": 31.7,
+      "q2OperatingProfitYoy": -40,
+      "q2OperatingProfitQoq": 53.3
     },
-    "interpretation": "검증 대기",
+    "interpretation": "손실 구간",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=117730",
@@ -3995,21 +3995,21 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     },
     "q2": {
       "period": "202606",
-      "status": "미발표",
-      "revenue": null,
-      "operatingProfit": null,
-      "netIncome": null,
-      "operatingMargin": null
+      "status": "확정",
+      "revenue": 461,
+      "operatingProfit": 283,
+      "netIncome": 241,
+      "operatingMargin": 61.39
     },
     "comparisons": {
       "q1RevenueQoq": -39.5,
       "q1OperatingProfitQoq": -41.2,
-      "q2RevenueYoy": null,
-      "q2RevenueQoq": null,
-      "q2OperatingProfitYoy": null,
-      "q2OperatingProfitQoq": null
+      "q2RevenueYoy": -10.1,
+      "q2RevenueQoq": 44.5,
+      "q2OperatingProfitYoy": -1,
+      "q2OperatingProfitQoq": 75.8
     },
-    "interpretation": "검증 대기",
+    "interpretation": "분기 회복",
     "verifiedAt": "2026-08-27",
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=403870",
