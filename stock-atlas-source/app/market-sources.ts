@@ -1825,10 +1825,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=137400",
     "news": {
-      "title": "피엔티, 2분기 매출 1176억…전년比 3.7% 증가",
+      "title": "피엔티, 印 전극공정 장비 수주 확대…中 동박은 단계 증설",
       "office": "전자신문",
-      "date": "20260812",
-      "url": "https://n.news.naver.com/mnews/article/030/0003456774"
+      "date": "20260829",
+      "url": "https://n.news.naver.com/mnews/article/030/0003461452"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/137400/news"
   },
