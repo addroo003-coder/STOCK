@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티·남동발전, 비대본 가동·가족 지원",
+      "title": "두산 박정원 회장도 네팔로…\"실종 직원 수색 총력\"",
       "office": "연합뉴스TV",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900671"
+      "url": "https://n.news.naver.com/mnews/article/422/0000900764"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
