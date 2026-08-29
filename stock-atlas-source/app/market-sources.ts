@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산 박정원 회장도 네팔로…\"실종 직원 수색 총력\"",
-      "office": "연합뉴스TV",
+      "title": "박정원 두산 회장, 네팔서 실종 직원 수색현장 직접 지원",
+      "office": "전자신문",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900764"
+      "url": "https://n.news.naver.com/mnews/article/030/0003461471"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -357,10 +357,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
-      "title": "에이엘바이오·리가켐바이오 공동 개발 ADC, 중국 임상서 항암 효과 확...",
-      "office": "이코노미스트",
+      "title": "‘지분’보다 ‘실적’…AI 격변기 시험대 오른 8090 재계 뉴리더 20인",
+      "office": "한경비즈니스",
       "date": "20260828",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102276"
+      "url": "https://n.news.naver.com/mnews/article/050/0000110197"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/141080/news"
   },
@@ -471,10 +471,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "워시 연준 “인플레 여전히 우려…지금 금융 여건 긴축적이지 않다”",
-      "office": "서울경제",
+      "title": "삼바, 3조 유증 통해 폴리펩타이드 인수…글로벌 톱티어 도약",
+      "office": "세계일보",
       "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656398"
+      "url": "https://n.news.naver.com/mnews/article/022/0004154716"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
