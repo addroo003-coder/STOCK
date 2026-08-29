@@ -4975,9 +4975,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42VVh0V0ozZXNhYS1BT0NSSDN6eDRsSEtuVVplbGd2VXBfY1NxM1lHVUU3a1hfcmxUUW1XVVdzMUF1cXZyUHc?oc=5",
           "pub_date": "Thu, 27 Aug 2026 21:45:00 GMT"
+        },
+        {
+          "press": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxcVhhcU5JM0dwd293bU9nRFdITEdsMjJIOWxvQm4yS0lxeXRVNVg5bFA5TGUySHpzeXZ4dzNSYXNxRHc3YWtGTS16T0NUZjNtSmU1Vlh1UlhnUGJnYktWdXZFalp0UlhSOW95WkZ30gFuQVVfeXFMUDFxWGFxTkkzR3B3b3dtT2dEV0hMR2wyMkg5bG9CbjJLSXF5dFU1WDlsUDlMZTJIenN5dnh3M1Jhc3FEdzdha0ZNLXpPQ1RmM21KZTVWWHVSWGdQYmdiS1Z1dkVqWnRSWFI5b3laRnc?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 21:59:39 GMT"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -8068,9 +8073,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPRW96Y19xdHZvbUZjWGpOSlVIdVRlejlUeXd2ZF9EcWtSRzFGRzFHZ1JuQ3IzU1B5Z2ZadndyOTgxRDgtbjVMY09aOA?oc=5",
           "pub_date": "Fri, 28 Aug 2026 00:56:45 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9taGVQSGhXUGVvdXBGSlhfME53NWVoTzVnd1JFQy1DcS1iR2NQeXVxWmFlZ1V4WnM4N0xYbWhWZ0RsV0dPZlFLc1Nnb3piSjV1OGhNeQ?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 00:56:45 GMT"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -9223,9 +9233,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VanRkS2UwVEhsLXMzZV9UalZOVS1Gd21Ca1R4dHY0NkVLN2c0aVFyYVEzR25lTkdPbmZ1a1I5ampTQzcyTXc?oc=5",
           "pub_date": "Fri, 28 Aug 2026 02:04:52 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaSlk5Z1J6V19iV01jU2NmQjM2NWtTU3ZOWDdONVRLYzBjdHBhYXlrWXZnbURUQk00WTFhSHdGV1FiVVJraWd2ckY1em81aG53M0FVbg?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 02:04:52 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -12043,7 +12058,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "323280-기타-561-20260828",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": false,
       "needs_review": false,
@@ -12054,9 +12069,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "MBC",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MRmZySWF6Vl92djc0bUpfeUQ5aV9zamx4RmlZdjVIX2NZN0dTeHB2VW5zRThnTkxZT3BNeHdhWnBCMDRoc1dKaVdXQW4yaUowLU9xZDhqUTZXZElxRVp2REdKVQ?oc=5",
           "pub_date": "Thu, 27 Aug 2026 15:00:00 GMT"
+        },
+        {
+          "press": "YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkY3VYZlFYNHJOTlBOU3JMWFVLaEZWQVQzYmNYaERYelBwRGkySUFhWFBCejl2RGNCajBQLUZsVVFlUWduamc0Ymk5d1NibWU4eWl2ZjlQc3hJT2Zt?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 23:00:04 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -13125,25 +13145,25 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "083650-기타-759-20260828",
+      "id": "083650-기타-2677-20260829",
       "category": "기타",
       "direction": "중립",
       "confidence": "미확인",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
-      "headline": "[코스닥 기관] 파마리서치 HPSP 아이티센글로벌 담고 주성엔지니어링 리노공업 HLB 팔았다 - 핀포인트뉴스",
+      "headline": "[주간 코스닥 외국인] 실리콘투 집중 매수…반도체·바이오도 담았다 - 핀포인트뉴스",
       "source_type": "news",
       "sources": [
         {
           "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44R1JJRTdGd0tkLVZicHNCM2RiSjV6RkFYLW4xSkhabGFpY1NYMnNOcHU2dkl3MTZPaWFpWm50SFUxOHNaYjJkT3NwOGdJdFdmWURPRVhDZmxabWZrVkZHUzBUemZmd1JZOTQwak5NMTB4dUc4aUlR0gF3QVVfeXFMTjhHUklFN0Z3S2QtVmJwc0IzZGJKNXpGQVgtbjFKSFpsYWljU1gyc05wdTZ2SXcxNk9pYWlabnRIVTE4c1piMmRPc3A4Z0l0V2ZZRE9FWENmbFptZmtWRkdTMFR6ZmZ3Ulk5NDBqTk0xMHh1RzhpSVE?oc=5",
-          "pub_date": "Wed, 26 Aug 2026 08:48:03 GMT"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zOV9INDRDNjZWaGUzaFF0eWkxdm9BbGhfekFWX1E5UWltYk40Yy00emlITGs4Q2xaSndfTmQtTXRwSTI0V1o2VnB0c0Q0V2prekstTFJadEswZFJwSjdtREo1eGtNX1dWUmc5SkFZNklkMTNXMm1B0gF3QVVfeXFMTjM5X0g0NEM2NlZoZTNoUXR5aTF2b0FsaF96QVZfUTlRaW1iTjRjLTR6aUhMazhDbFpKd19OZC1NdHBJMjRXWjZWcHRzRDRXamt6Sy1MUlp0SzBkUnBKN21ESjV4a01fV1ZSZzlKQVk2SWQxM1cybUE?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 23:55:11 GMT"
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-28",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
       "stale": false
     }
   ],
@@ -13583,9 +13603,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4UjQtWklDRktScG9WZ0xWS3JFMWNsaFNNRWVNNExNZWhDN0ZELVAtV0RlYk9MMEVybFZfYnpCTVpOZWNaV3RJUk1uYw?oc=5",
           "pub_date": "Fri, 28 Aug 2026 08:08:51 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16enl5VzhmRS1KQ29TbnB6REVaQUNTYVpFV0R6NzN3VkEyTW1ueklkQUJEQnRkaEg3b1BPcDRXWkFXaWdValpqdTU3XzZHMkFQX2Jndg?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 08:08:51 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -13920,9 +13945,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Investing.com 한국어",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84aHRTTl9SV0xyVmFZVEF1Ukpma2lqbDlKUnV5c0lsZFVtdHVfdW02S05FVnhfNEZwNjRCNmVoRGV4WlZubTctQ2NDUWthZkw5THBTQXNPeDBmQ1l1SGhyRmlSYXZ2NDBWSnhZOURjeXE?oc=5",
           "pub_date": "Thu, 27 Aug 2026 17:23:00 GMT"
+        },
+        {
+          "press": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmF5cmJ2dHB1bDktZWktWWVzUWpGRWxjTUgyTncxVmpfZ1pmeHNVeXh0LXFUcThwSkdlTGs5b21icUFWU3dIRU9ZaFZWVVZSb1JmWVBLY3dXMWMxcW9OdlVCMXlPUnlTVXdzWHB5T3kycE43c0hqSnN4YVZqRVpOMQ?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 23:06:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -19105,9 +19135,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBudHJpdXZmUEQzTV9hdXVfa0YwZEVnendGMnc1Q3RVcDlDejRqeHZYYlBSVUJEN0pySmJWd0xxSDVoci1Nc0pmTndtSQ?oc=5",
           "pub_date": "Fri, 28 Aug 2026 00:28:40 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03Y0toRmRrVmJ4QlFnT2tIWGxsdG16RjlHdERhZ0xfN25WVHNmendNMXBlQ3NIaHQwaTlDODBZeU04OXRwN0hIenNLTXRpTXJoaHRLcw?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 00:28:40 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-29",
       "stale": false
@@ -22342,9 +22377,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "코리안투데이",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93aXhxb0hvdmZYWlZDUG9KUUNiVVRSeGV0ZUE1QVYxaXhaV1VhRmFLRHNJRG93Q3VtWTFaY1JRcW5kN2FaalhKUw?oc=5",
           "pub_date": "Fri, 28 Aug 2026 12:40:00 GMT"
+        },
+        {
+          "press": "코리안투데이",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aODdsQjdxVGZMbFZVS3RaZF80V1RGYXhnRVhWSE5rYm16QUkwcTFCeXR0blN1NEtsTFBDZng5QnhXVlRKQmow?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 12:40:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
