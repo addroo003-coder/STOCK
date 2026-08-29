@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼전닉스 상반기 법인세만 11.2조…올해 실적 반영시 100조 전망도",
-      "office": "국민일보",
+      "title": "“연 1.5%에 최대 5억 빌려볼까”…삼성전자, 9월부터 임직원 주택대...",
+      "office": "디지털타임스",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/005/0001869690"
+      "url": "https://n.news.naver.com/mnews/article/029/0003044933"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
