@@ -1945,5 +1945,101 @@
     "last_updated": "2026-08-29",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“연 1.5%에 최대 5억, 사내부부는 1건으로”…삼성전자, 9월부터 임직원 주택대출 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sc3RIcy1JWS1wV1A1aDN4aEZVXzdMTy1qQUc0WWFKcXpHYnc4WDg3Wk1OWmhzUVZtOG4zRF9aU1p3SUdfV1p6a0dteFpIOFU?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 21:39:27 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-2774-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 상반기 법인세 11조원 돌파…반도체 호황에 세금도 역대급 - 한국강사신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국강사신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ONHlicjZ0bXE0eDVncV84ZGJMbTN6RkJ4LV94cXBOSkMwZXBENE00M0ZMU2VyaXhfUmZCaU1Dd2dNdnB5bHhtai1uc0Z2aUExb2lJUUx1eG1QOHp4MHJkVHBLdmpvM3Fhb2R6WUxYWGQ?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 21:48:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-2782-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "칠레와 '55년 동행' LS MnM…희소금속 1000톤→60만톤 확대 - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qUlgyUWZwSGJxaU9iQmZEcFd1Q2NpTGlfdjA4Z3FrMlBsYnkyQl9wSzhINkV6STFCdzIwZGFTZEV5MGdtZmQycHJXNlBRYU9iclAw?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 23:01:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-2809-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "클로봇",
+    "stock_code": "466100",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "클로봇 김정희 이사 특정증권등 3859주 감소 - tokenpost.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "tokenpost.kr",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OdGhaekhUTzlHcURKQVdxN0pMMERZUWtERk5tMWtEN2VhQmdjWUd6em9RUDJId0NaeU1zQm8yYllRdU1FQ0VEVFlLbDZMTXU3Zmw4OUh30gFbQVVfeXFMTUpTNW5Jc2FJRzNwa3FZZVBHRHQwY2w5S0YycTFLclRtcHZ6R0JwalJXX3I1cUQ5MkgxQ1p0UTBXb2tCMjQ2em5FY2t6b2Myck93S2p2bTVWZlRBOA?oc=5",
+        "pub_date": "Fri, 28 Aug 2026 10:02:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "466100-기타-2826-20260829",
+    "first_seen": "2026-08-29",
+    "last_updated": "2026-08-29",
+    "status": "일반",
+    "stale": false
   }
 ]
