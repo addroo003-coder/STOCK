@@ -2442,9 +2442,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRGM2YXVHSWR5dFRCT0VNd3VvZXhqSzlBdFhyd01jQXRkSVlTdkx3STc2NGFQaVBWVG5aNnQyT0k2V2wtbzRuNnB0dGRSU0xPNzhoMUI5VGNBRWpZ?oc=5",
         "pub_date": "Sun, 30 Aug 2026 01:27:00 GMT"
+      },
+      {
+        "press": "채널A",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVdIBY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "000660-기타-2908-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",

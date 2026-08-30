@@ -413,23 +413,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "반년 법인세만 11조…삼성·SK하이닉스 ‘100조’까지? - v.daum.net",
-    "summary": "반년 법인세만 11조…삼성·SK하이닉스 ‘100조’까지? v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzYm82WkhQVEpGem9CRHVNM3FITUZSV1poNXdSMC1WRDAtUmVNZ3ktUlhqRWxDYmwtbUx4U3VscjdVT3RPcjNSTC1oanQyRFhpd0steg?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 02:09:00 GMT"
-  },
-  {
-    "company": "SK하이닉스",
-    "stock_code": "000660",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "삼성·SK하이닉스 상반기 법인세 11.2조원, 역대 두 번째 - 디지털데일리",
-    "summary": "삼성·SK하이닉스 상반기 법인세 11.2조원, 역대 두 번째 디지털데일리",
-    "press": "디지털데일리",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QUE44ajVVTFFTVTdfcW9kbHMxVUdJbnJobmhON0ZkTUxOVGY0MWFUYWI5dXhTanJEWjdUYmRZVFd6T1lyZkhNMG5LNFFZUzRiZEphV1EyVHFsSllkNGwzdmRady0?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 04:20:34 GMT"
+    "title": "삼성전자·SK하이닉스 상반기 법인세 11조… 역대 두 번째 - 채널A",
+    "summary": "삼성전자·SK하이닉스 상반기 법인세 11조… 역대 두 번째 채널A",
+    "press": "채널A",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVdIBY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVQ?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
   },
   {
     "company": "SK하이닉스",
@@ -442,6 +430,18 @@
     "press": "v.daum.net",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92NXNvUkhiNUJXSnZWRG1sWVhUOW02VnZrOWRiNmZ4elVHMENVLUJsSUZsMTljLWE3b0ZtV3lVSzcwXzdUcEwtQ2h4VVh1TjQ?oc=5",
     "pub_date": "Sun, 30 Aug 2026 08:15:27 GMT"
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "삼성·SK하이닉스 상반기 법인세 11.2조원, 역대 두 번째 - 디지털데일리",
+    "summary": "삼성·SK하이닉스 상반기 법인세 11.2조원, 역대 두 번째 디지털데일리",
+    "press": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QUE44ajVVTFFTVTdfcW9kbHMxVUdJbnJobmhON0ZkTUxOVGY0MWFUYWI5dXhTanJEWjdUYmRZVFd6T1lyZkhNMG5LNFFZUzRiZEphV1EyVHFsSllkNGwzdmRady0?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 04:20:34 GMT"
   },
   {
     "company": "SK하이닉스",
@@ -473,11 +473,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "삼성전자·SK하이닉스 상반기 법인세 11조… 역대 두 번째 - 채널A",
-    "summary": "삼성전자·SK하이닉스 상반기 법인세 11조… 역대 두 번째 채널A",
-    "press": "채널A",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVdIBY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVQ?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
+    "title": "삼성전자·SK하이닉스, 상반기 법인세 11조2000억…역대 최고 수순 - 서울경제TV",
+    "summary": "삼성전자·SK하이닉스, 상반기 법인세 11조2000억…역대 최고 수순 서울경제TV",
+    "press": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52c1VmeHhHNHJDRy0zbXEzaTItcHVKSzRvUDQ2OE56MXJTTkxlSTZqWmtjbkpXeEpSeUVOSnpaU2liUkJwT2lpTTk2ZnN2RUdtaURJd040SUhpa2RISkdDeEhxZms?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 00:00:26 GMT"
   },
   {
     "company": "원익IPS",
@@ -677,6 +677,18 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "코스닥, 개인 매수에 상승 마감...파마리서치, 알테오젠 상승 VS 레인보우로보틱스, 이오테크닉스 하락 - 이코노뉴스",
+    "summary": "코스닥, 개인 매수에 상승 마감...파마리서치, 알테오젠 상승 VS 레인보우로보틱스, 이오테크닉스 하락 이코노뉴스",
+    "press": "이코노뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZXpyczBQYTJ1VDRKQ2t0LUkzVjhiYVE1ZlpiRGI4bWFfMFJDQmlJd2I2b1BqU1dONnIzRVM1TmdCZy1rRjhseWpEaW42bElfZlFhbmdtUHMwa0xZUDVqSGZvdDlaX3haN0FLbm1B?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 12:30:00 GMT"
+  },
+  {
+    "company": "주성엔지니어링",
+    "stock_code": "036930",
+    "sector": "AI 반도체",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "외국인, 삼전닉스 팔고 소부장 샀다...지금은 저가매수 타이밍 인가 아닌가? Fc Barcelona (NHf5vY2ddR) - Mshale",
     "summary": "외국인, 삼전닉스 팔고 소부장 샀다...지금은 저가매수 타이밍 인가 아닌가? Fc Barcelona (NHf5vY2ddR) Mshale",
     "press": "Mshale",
@@ -737,18 +749,6 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "코스닥, 개인 매수에 상승 마감...파마리서치, 알테오젠 상승 VS 레인보우로보틱스, 이오테크닉스 하락 - 이코노뉴스",
-    "summary": "코스닥, 개인 매수에 상승 마감...파마리서치, 알테오젠 상승 VS 레인보우로보틱스, 이오테크닉스 하락 이코노뉴스",
-    "press": "이코노뉴스",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZXpyczBQYTJ1VDRKQ2t0LUkzVjhiYVE1ZlpiRGI4bWFfMFJDQmlJd2I2b1BqU1dONnIzRVM1TmdCZy1rRjhseWpEaW42bElfZlFhbmdtUHMwa0xZUDVqSGZvdDlaX3haN0FLbm1B?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 12:30:00 GMT"
-  },
-  {
-    "company": "주성엔지니어링",
-    "stock_code": "036930",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 - 뉴스드림",
     "summary": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 뉴스드림",
     "press": "뉴스드림",
@@ -773,11 +773,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 - 핀포인트뉴스",
-    "summary": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTDdwdHVLUGNVS1cySndYQ1lIN0RHWDNMaVZ4Vm9IdHl1SjZIM3VMSFpqclFhVTVubVphVktDVGxFQU1WcnNaWVhvSFlKdUtPTkhiMEZvcHYwbk5GeXNmVGxueGJqc0g3c3NZRkE0NDN3Uk9hSnR30gF3QVVfeXFMTTJMN3B0dUtQY1VLVzJKd1hDWUg3REdYM0xpVnhWb0h0eXVKNkgzdUxIWmpyUWFVNW5tWmFWS0NUbEVBTVZyc1pZWG9IWUp1S09OSGIwRm9wdjBuTkZ5c2ZUbG54YmpzSDdzc1lGQTQ0M3dST2FKdHc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:47 GMT"
+    "title": "코스닥 강보합…파마리서치 껑충·알테오젠도 강세 - CBC뉴스",
+    "summary": "코스닥 강보합…파마리서치 껑충·알테오젠도 강세 CBC뉴스",
+    "press": "CBC뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NSEtNSlN6Z2pjTnlLVjNBdVRDaFZtY2ZJeW9CZlhVS2lZdkl3RXJVUXNsT2tuUHlVY0h1dEVsY2lLamFiTm9WUVl5dzFOclZBYUR4bmpkTlMtSl92anBsT2QxaVBvMnBO?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 22:17:00 GMT"
   },
   {
     "company": "HPSP",
@@ -833,11 +833,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[표] 주간 코스닥 외국인 순매수도 상위종목 - 매일경제 마켓",
-    "summary": "[표] 주간 코스닥 외국인 순매수도 상위종목 매일경제 마켓",
-    "press": "매일경제 마켓",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZElidTdvS01NMVhnbUNRYWVlNjhfc09OeFZtTkkzSTRKRUJ6SkpMUnlGM2VhYVZOSWlxSlBBV0JyYzJPRWNfZ2NoTmZzcFh4TkE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:24:54 GMT"
+    "title": "한미반도체, ‘스페이스X’ 올라타자마자 130억 평가익 - 쿠키뉴스",
+    "summary": "한미반도체, ‘스페이스X’ 올라타자마자 130억 평가익 쿠키뉴스",
+    "press": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1na2pjZmxUMmRjSWNNSk8zYlY0MVpwUTdpMGttSkhhLWVXVUIxVWY3dGNlWWE4VmpNd3JrR1FpTUJOekI2WTRJTDAwZExNSndZR3UxMmVNazJfRmpncWhCVFo1OA?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 06:41:13 GMT"
   },
   {
     "company": "HPSP",
@@ -845,11 +845,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "한미반도체, ‘스페이스X’ 올라타자마자 130억 평가익 - 쿠키뉴스",
-    "summary": "한미반도체, ‘스페이스X’ 올라타자마자 130억 평가익 쿠키뉴스",
-    "press": "쿠키뉴스",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1na2pjZmxUMmRjSWNNSk8zYlY0MVpwUTdpMGttSkhhLWVXVUIxVWY3dGNlWWE4VmpNd3JrR1FpTUJOekI2WTRJTDAwZExNSndZR3UxMmVNazJfRmpncWhCVFo1OA?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 06:41:13 GMT"
+    "title": "[표] 주간 코스닥 외국인 순매수도 상위종목 - 매일경제 마켓",
+    "summary": "[표] 주간 코스닥 외국인 순매수도 상위종목 매일경제 마켓",
+    "press": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZElidTdvS01NMVhnbUNRYWVlNjhfc09OeFZtTkkzSTRKRUJ6SkpMUnlGM2VhYVZOSWlxSlBBV0JyYzJPRWNfZ2NoTmZzcFh4TkE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:24:54 GMT"
   },
   {
     "company": "HPSP",
@@ -1205,11 +1205,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "★2026년 9월 첫째주 주간 증시일정｜8월 31일~9월 4일 주식시장 핵심 일정 총정리★(전체본) - 네이버 프리미엄콘텐츠",
-    "summary": "★2026년 9월 첫째주 주간 증시일정｜8월 31일~9월 4일 주식시장 핵심 일정 총정리★(전체본) 네이버 프리미엄콘텐츠",
-    "press": "네이버 프리미엄콘텐츠",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmNCc1o4bXI2NXNjbTRnWnpzWHZVVDM4Y3RncVBGeFFsOGxnQzdZTHRaN0ZwOVpNT1JxTlozRElERkVwZTVwbFZBUjY4Wnd6YmE3N2R5TDZ5bjFwNGlzVGNwSXFad2NrZU1rUnh3VTQ2dTRxeWxMV0ZlMW5lN2RwRDVB?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 04:13:28 GMT"
+    "title": "“3000만원 넣으면 3억 된다” 미친 척 사라는 ‘텐배거’ 종목 - v.daum.net",
+    "summary": "“3000만원 넣으면 3억 된다” 미친 척 사라는 ‘텐배거’ 종목 v.daum.net",
+    "press": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5haVc0RlNaMm9qRlMyb01ZdjdEV2VHMElySFZGc3Z2dmREdmNDdGgySVN0UE9YN0VsalN6ZzlCaWlkdlV0andERHVseUZreXc?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 01:53:55 GMT"
   },
   {
     "company": "한미반도체",
@@ -1217,11 +1217,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "“3000만원 넣으면 3억 된다” 미친 척 사라는 ‘텐배거’ 종목 - 중앙일보",
-    "summary": "“3000만원 넣으면 3억 된다” 미친 척 사라는 ‘텐배거’ 종목 중앙일보",
-    "press": "중앙일보",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0WnJRMHBPYmtUQWxHVUJxeG95T1R2XzVEUERycUQ1eTRjZ2dCVTZZR3d5bnB6dE5Za2V1YlhNVFI5ZkFWYmdmU1FGZnJQZ3dNYnczQ093?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 01:51:14 GMT"
+    "title": "★2026년 9월 첫째주 주간 증시일정｜8월 31일~9월 4일 주식시장 핵심 일정 총정리★(전체본) - 네이버 프리미엄콘텐츠",
+    "summary": "★2026년 9월 첫째주 주간 증시일정｜8월 31일~9월 4일 주식시장 핵심 일정 총정리★(전체본) 네이버 프리미엄콘텐츠",
+    "press": "네이버 프리미엄콘텐츠",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmNCc1o4bXI2NXNjbTRnWnpzWHZVVDM4Y3RncVBGeFFsOGxnQzdZTHRaN0ZwOVpNT1JxTlozRElERkVwZTVwbFZBUjY4Wnd6YmE3N2R5TDZ5bjFwNGlzVGNwSXFad2NrZU1rUnh3VTQ2dTRxeWxMV0ZlMW5lN2RwRDVB?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 04:13:28 GMT"
   },
   {
     "company": "한미반도체",
@@ -1246,18 +1246,6 @@
     "press": "뉴스투데이",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pOUoxX1o1OGZ5cFlMZ25Ubkxhby1zb0dJX1BWdUh2M1RHWXBGeDBVclFVWWtzSU5yTDRLWWc0cGY5LVhGeHh1bEJmZU0ySGNwZzJEZW1Yci0?oc=5",
     "pub_date": "Fri, 28 Aug 2026 19:25:19 GMT"
-  },
-  {
-    "company": "한미반도체",
-    "stock_code": "042700",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 - 핀포인트뉴스",
-    "summary": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTDdwdHVLUGNVS1cySndYQ1lIN0RHWDNMaVZ4Vm9IdHl1SjZIM3VMSFpqclFhVTVubVphVktDVGxFQU1WcnNaWVhvSFlKdUtPTkhiMEZvcHYwbk5GeXNmVGxueGJqc0g3c3NZRkE0NDN3Uk9hSnR30gF3QVVfeXFMTTJMN3B0dUtQY1VLVzJKd1hDWUg3REdYM0xpVnhWb0h0eXVKNkgzdUxIWmpyUWFVNW5tWmFWS0NUbEVBTVZyc1pZWG9IWUp1S09OSGIwRm9wdjBuTkZ5c2ZUbG54YmpzSDdzc1lGQTQ0M3dST2FKdHc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:47 GMT"
   },
   {
     "company": "한미반도체",
@@ -1498,18 +1486,6 @@
     "press": "잡플래닛",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMN3ZMVS1kYXc2T1dDNXRnVy1sRnBsa0VoM3h2MXd6ZnpxWnRUMGtvVVVFaHpSZGFvQS1uSzVxeFM5dUFpMUlEUGJIdldfcHlWLXFhX0RvdWk4UQ?oc=5",
     "pub_date": "Fri, 28 Aug 2026 09:13:22 GMT"
-  },
-  {
-    "company": "하나마이크론",
-    "stock_code": "067310",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "다시 목표가 올리는 증권가…칠천피 탈환하나 - 서울경제",
-    "summary": "다시 목표가 올리는 증권가…칠천피 탈환하나 서울경제",
-    "press": "서울경제",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Nzg3S2VNQ3dybFBiWnRneUg1ekdtc3VnRnFaRVF3UjFldE9IREd5dDlmVGtMdXd1XzBKZlBsRlJoNEh2WUFENExuaFYwRVcwQkE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:46:33 GMT"
   },
   {
     "company": "하나마이크론",
@@ -2273,11 +2249,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[이창원의 불타오르네] 마그마주 삼성전기·볼케이노주 하나마이크론 / 이창원의 불타오르네 / 매일경제TV Nik'oloz Basilashvili (sAk3TSWmpT) - Mshale",
-    "summary": "[이창원의 불타오르네] 마그마주 삼성전기·볼케이노주 하나마이크론 / 이창원의 불타오르네 / 매일경제TV Nik'oloz Basilashvili (sAk3TSWmpT) Mshale",
-    "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZSHhXQ091MjZyODNqamRnUmxxM3cwWmt5QjNDUHpDY243TTE0SDI5VHllMk93bHNJdC1WbkVFaUNWYTdLU3lIWks5Q3l0dTk3U3ZjNHpXM0h6Wlk?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:23:23 GMT"
+    "title": "'AI 투자' 지속 확인…삼성전기 2조·LG이노텍 1조 영업익 순항 - citytimes.co.kr",
+    "summary": "'AI 투자' 지속 확인…삼성전기 2조·LG이노텍 1조 영업익 순항 citytimes.co.kr",
+    "press": "citytimes.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wSkNCb2tmY0JDSnhsSW5UT2lhTVNPVXFILVhNOGZieGlQOFJGOFNSaEVBUFlmOWRlc3BhZE43QkFpdld4dU9uLThzbzJNT0VzRFppaUJ2ZWNHRE12T2UwTlZEWGlJZ19IZkZuTGt0em8yQdIBckFVX3lxTE4wSkNCb2tmY0JDSnhsSW5UT2lhTVNPVXFILVhNOGZieGlQOFJGOFNSaEVBUFlmOWRlc3BhZE43QkFpdld4dU9uLThzbzJNT0VzRFppaUJ2ZWNHRE12T2UwTlZEWGlJZ19IZkZuTGt0em8yQQ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 04:07:03 GMT"
   },
   {
     "company": "삼성전기",
@@ -2285,11 +2261,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "'AI 투자' 지속 확인…삼성전기 2조·LG이노텍 1조 영업익 순항 - citytimes.co.kr",
-    "summary": "'AI 투자' 지속 확인…삼성전기 2조·LG이노텍 1조 영업익 순항 citytimes.co.kr",
-    "press": "citytimes.co.kr",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wSkNCb2tmY0JDSnhsSW5UT2lhTVNPVXFILVhNOGZieGlQOFJGOFNSaEVBUFlmOWRlc3BhZE43QkFpdld4dU9uLThzbzJNT0VzRFppaUJ2ZWNHRE12T2UwTlZEWGlJZ19IZkZuTGt0em8yQdIBckFVX3lxTE4wSkNCb2tmY0JDSnhsSW5UT2lhTVNPVXFILVhNOGZieGlQOFJGOFNSaEVBUFlmOWRlc3BhZE43QkFpdld4dU9uLThzbzJNT0VzRFppaUJ2ZWNHRE12T2UwTlZEWGlJZ19IZkZuTGt0em8yQQ?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 04:07:03 GMT"
+    "title": "[주간 거래소 외국인] 삼성전자·SK하이닉스 대신 삼성전기 담았다…무슨 일? - 핀포인트뉴스",
+    "summary": "[주간 거래소 외국인] 삼성전자·SK하이닉스 대신 삼성전기 담았다…무슨 일? 핀포인트뉴스",
+    "press": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjRXVCX05sLXBpcjZ2T2dFLXBPWE1KSnJUYjJBNE1hYXRiUFZ2eGFPSll0NnZLZE0zRGJORVRzVE15czUzZkdqU01pREEzY2RzU2gwaTlKQV9EblRxb2dYNGZXbTl0dUVqLUktb18wd0lrZF9WWTZV0gF3QVVfeXFMUGNFdUJfTmwtcGlyNnZPZ0UtcE9YTUpKclRiMkE0TWFhdGJQVnZ4YU9KWXQ2dktkTTNEYk5FVHNUTXlzNTNmR2pTTWlEQTNjZHNTaDBpOUpBX0RuVHFvZ1g0ZldtOXR1RWotSS1vXzB3SWtkX1ZZNlU?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 00:19:24 GMT"
   },
   {
     "company": "삼성전기",
@@ -2309,35 +2285,11 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[삼성전기 주가 전망] 💥역대급 호재 터졌다?! 테슬라 로보택시 카메라 독점적 수주 이어 MLCC와 FC-BGA 전망 집중 분석!! Foggia Today (MP3CqsHGHI) - Mshale",
-    "summary": "[삼성전기 주가 전망] 💥역대급 호재 터졌다?! 테슬라 로보택시 카메라 독점적 수주 이어 MLCC와 FC-BGA 전망 집중 분석!! Foggia Today (MP3CqsHGHI) Mshale",
-    "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VDFVcHc5TnR2dk9tX3FieFFqX3EyV040NFk0LU9XR29WM1dFUjB5THo2LUc3OFRTb296dGo5cnZoRGtZT2hBcEg3ME9qblpjSHNvV3l4eV9oZmc?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:48:34 GMT"
-  },
-  {
-    "company": "삼성전기",
-    "stock_code": "009150",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "삼성전기, 코스피 하락에도 주가↑ 2거래일 연속 강세…8월 마지막장은? - CBC뉴스",
     "summary": "삼성전기, 코스피 하락에도 주가↑ 2거래일 연속 강세…8월 마지막장은? CBC뉴스",
     "press": "CBC뉴스",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbW5hc3lPWU5OSVRLSXBMVTRzOU1NTnRLb1g2N3YyS0tnMTc4dEJmeVdicVJRZ0c2WVQyN1NJbVdiclVSQnBWRnVkU3A2TFF5dGZGb2txMlVHZkRXV2VQSUlaamkyZUxH?oc=5",
     "pub_date": "Sat, 29 Aug 2026 07:39:33 GMT"
-  },
-  {
-    "company": "삼성전기",
-    "stock_code": "009150",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[주간 거래소 외국인] 삼성전자·SK하이닉스 대신 삼성전기 담았다…무슨 일? - 핀포인트뉴스",
-    "summary": "[주간 거래소 외국인] 삼성전자·SK하이닉스 대신 삼성전기 담았다…무슨 일? 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjRXVCX05sLXBpcjZ2T2dFLXBPWE1KSnJUYjJBNE1hYXRiUFZ2eGFPSll0NnZLZE0zRGJORVRzVE15czUzZkdqU01pREEzY2RzU2gwaTlKQV9EblRxb2dYNGZXbTl0dUVqLUktb18wd0lrZF9WWTZV0gF3QVVfeXFMUGNFdUJfTmwtcGlyNnZPZ0UtcE9YTUpKclRiMkE0TWFhdGJQVnZ4YU9KWXQ2dktkTTNEYk5FVHNUTXlzNTNmR2pTTWlEQTNjZHNTaDBpOUpBX0RuVHFvZ1g0ZldtOXR1RWotSS1vXzB3SWtkX1ZZNlU?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 00:19:24 GMT"
   },
   {
     "company": "삼성전기",
@@ -2412,6 +2364,30 @@
     "pub_date": "Sat, 29 Aug 2026 08:07:57 GMT"
   },
   {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "[주간 거래소 기관] 삼성전자·SK하이닉스 팔고 삼성SDI·두산에너빌리티 담았다 - 핀포인트뉴스",
+    "summary": "[주간 거래소 기관] 삼성전자·SK하이닉스 팔고 삼성SDI·두산에너빌리티 담았다 핀포인트뉴스",
+    "press": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ic1pscUFWN2U5NWhhYzNNZVNWNDdvb0g4RUU2N3NKckc4ZWlYb281SjhJSnZLY1NuLUVMSWRLNjY1d2EwN2pvRkNobU0yU0NZWkdWTXNyamEwcV83RWtyU1hPMkdkZmszT20tbnByMllaM3NNM2ZF0gF3QVVfeXFMT0hzWmxxQVY3ZTk1aGFjM01lU1Y0N29vSDhFRTY3c0pyRzhlaVhvbzVKOElKdktjU24tRUxJZEs2NjV3YTA3am9GQ2htTTJTQ1laR1ZNc3JqYTBxXzdFa3JTWE8yR2RmazNPbS1ucHIyWVozc00zZkU?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 21:45:20 GMT"
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "[삼성전기 주가전망] *초긴급점검* MLCC 가격 인상 시작됐는데 주가는 반토막입니다 세력이 개미 털고 있는 겁니다. General Hospital (f0vx4K2MwB) - Mshale",
+    "summary": "[삼성전기 주가전망] *초긴급점검* MLCC 가격 인상 시작됐는데 주가는 반토막입니다 세력이 개미 털고 있는 겁니다. General Hospital (f0vx4K2MwB) Mshale",
+    "press": "Mshale",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY29xaDVUbTZ6ak5oVFYtUmhOWURubDJPYU1ZZlVwV2F3Q0xIUkZOalJKdFlISHhBa2hxbmxyZ1ZwajRpZnpxdHNBbVpOdGpMcUJHalFMVHJjMXc?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 00:32:29 GMT"
+  },
+  {
     "company": "이수페타시스",
     "stock_code": "007660",
     "sector": "AI 반도체",
@@ -2477,6 +2453,18 @@
     "sector": "AI 반도체",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "삼전·닉스 다음은 누구…기판주로 옮겨붙은 AI 랠리[stock&톡] - v.daum.net",
+    "summary": "삼전·닉스 다음은 누구…기판주로 옮겨붙은 AI 랠리[stock&톡] v.daum.net",
+    "press": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lN1NJMDFxd1VkM085em9wSUQtVWhrRXZIaWxuMlJDby1IRjJ4NnQ0XzVqWTFJWHJlMjJwSTRIeGpvREVPQ1E?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 22:20:07 GMT"
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "대덕전자 투자분석 2026. 08. 29 - 주달",
     "summary": "대덕전자 투자분석 2026. 08. 29 주달",
     "press": "주달",
@@ -2530,18 +2518,6 @@
     "press": "한국경제",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQl9kMkZUVEVXOWU3TDlrWm9Ra1NEZWtka04tU3QzSWVidUZJTWtjak1aZWZtaTBBNzRjNGZ5SnNWNVM0ZDloUVV6VGhMQ19ZcUZ0VHgzQnJiZw?oc=5",
     "pub_date": "Fri, 28 Aug 2026 09:35:20 GMT"
-  },
-  {
-    "company": "대덕전자",
-    "stock_code": "353200",
-    "sector": "AI 반도체",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "삼전·닉스 다음은 누구…기판주로 옮겨붙은 AI 랠리[stock&톡] - v.daum.net",
-    "summary": "삼전·닉스 다음은 누구…기판주로 옮겨붙은 AI 랠리[stock&톡] v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02R1ZaSmpHQzJnci1heXVhN09ON09Vb2ZGZzFMdHlmMGtNa3huSmZUZmNBVkNHVWFfWWE4dDRQVTBuYURfQmtIemF6SkpXaGhKTmtTcQ?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 22:20:07 GMT"
   },
   {
     "company": "대덕전자",
@@ -2772,6 +2748,18 @@
     "pub_date": "Sat, 29 Aug 2026 04:37:00 GMT"
   },
   {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "10회 - MBC",
+    "summary": "10회 MBC",
+    "press": "MBC",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnVGYnlGdW1qUzJ6c0Q2SlJ0MGhNYmlOSW9haVFHcVl2OGE5clpYbHZOcW1sQnV6UDBKS2dmTGszczhxMXFBd2I5ejd4YlFsNTdCN2NwZ01qQnhOUkdhb3Rrc04zLTg4amxtR19QS3ZkYzQ5UFhzelJ0Y0JER2UyN3l0U1ZXQzRhUkRIQjc0ald1UFJTR1V4RGozZWluRlVYQXdxUWx3?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 17:35:17 GMT"
+  },
+  {
     "company": "HD현대일렉트릭",
     "stock_code": "267260",
     "sector": "전기·전력",
@@ -2813,11 +2801,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[HD현대일렉트릭 주가전망] 바닥서 이틀 만에 20% 폭등·상승 VI, 기관 투매 끝나자 V자 반등 시작됐다 저가매수 #HD현대일렉트릭 Guyana (YJhkk1g1SW) - Mshale",
-    "summary": "[HD현대일렉트릭 주가전망] 바닥서 이틀 만에 20% 폭등·상승 VI, 기관 투매 끝나자 V자 반등 시작됐다 저가매수 #HD현대일렉트릭 Guyana (YJhkk1g1SW) Mshale",
+    "title": "[HD현대일렉트릭 주가전망] 변압기 대장 눌림 하루 만에 재반등, 외국인이 또 담았다? #HD현대일렉트릭 Rivière Gatineau (IEcw6KvT20) - Mshale",
+    "summary": "[HD현대일렉트릭 주가전망] 변압기 대장 눌림 하루 만에 재반등, 외국인이 또 담았다? #HD현대일렉트릭 Rivière Gatineau (IEcw6KvT20) Mshale",
     "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UX2hQZ1ViSFZ4a1FWUHlhaFRpUzNiUHhrNVdKcEN0Ul9aWlUtY2R3eDY5cWhteEhXMDRpVWt3TTNIME5aQkpFOHpfZVRlUnpYOW5naVhISkVHc3M?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 12:10:25 GMT"
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wY0dwSENkLW1PN0FuZ2NSUUExLU9peTdLQzZyNzJhS3FHNE1zeUxqNzBUQnZvVFpsRUc1R3BZbjNBNnA2bW1rS1c4RGoyTy1heTFRRWplcVVDc1k?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 20:42:39 GMT"
   },
   {
     "company": "HD현대일렉트릭",
@@ -2830,18 +2818,6 @@
     "press": "네이트",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuMDNfbzNwWmJtS2NiN0tnakVTU0hIMlJlUklURHk5XzgwUTVGa3h4VVQ5cHdteWh2eGtUdHozakRyNV9qOU9Ecnh2T3gzWkNGNmpj?oc=5",
     "pub_date": "Fri, 28 Aug 2026 23:01:00 GMT"
-  },
-  {
-    "company": "HD현대일렉트릭",
-    "stock_code": "267260",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[HD현대일렉트릭 주가전망] 변압기 대장 눌림 하루 만에 재반등, 외국인이 또 담았다? #HD현대일렉트릭 Rivière Gatineau (IEcw6KvT20) - Mshale",
-    "summary": "[HD현대일렉트릭 주가전망] 변압기 대장 눌림 하루 만에 재반등, 외국인이 또 담았다? #HD현대일렉트릭 Rivière Gatineau (IEcw6KvT20) Mshale",
-    "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wY0dwSENkLW1PN0FuZ2NSUUExLU9peTdLQzZyNzJhS3FHNE1zeUxqNzBUQnZvVFpsRUc1R3BZbjNBNnA2bW1rS1c4RGoyTy1heTFRRWplcVVDc1k?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 20:42:39 GMT"
   },
   {
     "company": "효성중공업",
@@ -2969,18 +2945,6 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[표] 주간 거래소 기관 순매수도 상위종목 - 매일경제 마켓",
-    "summary": "[표] 주간 거래소 기관 순매수도 상위종목 매일경제 마켓",
-    "press": "매일경제 마켓",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SakVwc1BmM1JxM2d1RldVQkpCVzMyUVYzTk5jdVFrdzRsWlh0Sk0tZHVpd1daX3V2VDhidE9KcHdMazVLalVaempBcjI1Mjl1QXc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:24:43 GMT"
-  },
-  {
-    "company": "효성중공업",
-    "stock_code": "298040",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "28일, 외국인 거래소에서 삼성전자(-3.38%), SK하이닉스(-4.45%) 등 순매도 - 한국경제",
     "summary": "28일, 외국인 거래소에서 삼성전자(-3.38%), SK하이닉스(-4.45%) 등 순매도 한국경제",
     "press": "한국경제",
@@ -3077,11 +3041,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[표] 주간 거래소 외국인 순매수도 상위종목 - 매일경제 마켓",
-    "summary": "[표] 주간 거래소 외국인 순매수도 상위종목 매일경제 마켓",
-    "press": "매일경제 마켓",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ak9OemV6b0c2c2RZWHRURDBFN1lrNTkwLUdRbkJvWmV6OFlicmpmWWpIVTdQNWlkNVZZTVozdC1VcWF5SzZjZERmbjhRRnZyalE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:24:42 GMT"
+    "title": "9월 코스피 8100까지 간다...장기금리 진정될 것 - 매일경제",
+    "summary": "9월 코스피 8100까지 간다...장기금리 진정될 것 매일경제",
+    "press": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sa2JzNl9rdEtNWTE5enBDLWk0Z3RDQy04NzloWGYzcDlYdWdTak9QZDJZTlZqdUhXTko4TmMtN250T0NFNlI5YlVEZzVYYnV2NWc?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 08:15:32 GMT"
   },
   {
     "company": "LS ELECTRIC",
@@ -3101,18 +3065,6 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 - 핀포인트뉴스",
-    "summary": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTDdwdHVLUGNVS1cySndYQ1lIN0RHWDNMaVZ4Vm9IdHl1SjZIM3VMSFpqclFhVTVubVphVktDVGxFQU1WcnNaWVhvSFlKdUtPTkhiMEZvcHYwbk5GeXNmVGxueGJqc0g3c3NZRkE0NDN3Uk9hSnR30gF3QVVfeXFMTTJMN3B0dUtQY1VLVzJKd1hDWUg3REdYM0xpVnhWb0h0eXVKNkgzdUxIWmpyUWFVNW5tWmFWS0NUbEVBTVZyc1pZWG9IWUp1S09OSGIwRm9wdjBuTkZ5c2ZUbG54YmpzSDdzc1lGQTQ0M3dST2FKdHc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:47 GMT"
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "[전력 대장주 주가전망] 다음주 데이터센터 전력주 집중! 이제 큰 반등옵니다 핵심 '수혜주' 2종목 확인 | 디에스경제황제주식 순자 Jack Drury (38EFPbN3W0) - Mshale",
     "summary": "[전력 대장주 주가전망] 다음주 데이터센터 전력주 집중! 이제 큰 반등옵니다 핵심 '수혜주' 2종목 확인 | 디에스경제황제주식 순자 Jack Drury (38EFPbN3W0) Mshale",
     "press": "Mshale",
@@ -3125,11 +3077,23 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "9월 코스피 8100까지 간다...장기금리 진정될 것 - 매일경제",
-    "summary": "9월 코스피 8100까지 간다...장기금리 진정될 것 매일경제",
-    "press": "매일경제",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sa2JzNl9rdEtNWTE5enBDLWk0Z3RDQy04NzloWGYzcDlYdWdTak9QZDJZTlZqdUhXTko4TmMtN250T0NFNlI5YlVEZzVYYnV2NWc?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 08:15:32 GMT"
+    "title": "[표] 주간 거래소 외국인 순매수도 상위종목 - 매일경제 마켓",
+    "summary": "[표] 주간 거래소 외국인 순매수도 상위종목 매일경제 마켓",
+    "press": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ak9OemV6b0c2c2RZWHRURDBFN1lrNTkwLUdRbkJvWmV6OFlicmpmWWpIVTdQNWlkNVZZTVozdC1VcWF5SzZjZERmbjhRRnZyalE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:24:42 GMT"
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "9월 코스피 8100까지 간다…장기금리 진정될 것 - 네이트",
+    "summary": "9월 코스피 8100까지 간다…장기금리 진정될 것 네이트",
+    "press": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZZXo0R1ZLcVA1Yk1CaGJLUDhGU3Z2X2Z1R1pKMkN2NlU3cjRYaHN1VDY4ZG05T0dheVlWN0FjZVFCS0M2dktEcXNqWFlscllLelpYNjNpZFg1b0tzS0xRUHUyeGpuYUNucjd1Sk93?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 08:16:00 GMT"
   },
   {
     "company": "LS ELECTRIC",
@@ -3142,18 +3106,6 @@
     "press": "네이트",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92bzd3eXhFYUpSWUw1SFhvNThXWHQwdTdzNldnSFZHUzBIYU5PZnFHbm5RdXBqaUlscnlHUVJmd201UG90VXZEREdaZlIxa0U1Y2Vn?oc=5",
     "pub_date": "Sat, 29 Aug 2026 08:01:00 GMT"
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "9월 코스피 8100까지 간다…장기금리 진정될 것 - 네이트",
-    "summary": "9월 코스피 8100까지 간다…장기금리 진정될 것 네이트",
-    "press": "네이트",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14TV9yeEFNZ2ZKOGdkREc5ZU85ay1rb00wSHNEa0x1cU1KQ3JraDdCbWphbC1INHRqVVkzMVl1VUdTMjZqMG1fNUVKdWlvTjdQVURZcHF1d0tsbjBDNUxZRkp1bHF6eGdkN19udzN3?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 08:16:00 GMT"
   },
   {
     "company": "LS ELECTRIC",
@@ -3341,6 +3293,18 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "최홍석 도박 비교 팀 협업 체계적 방법 - Platea Magazine",
+    "summary": "최홍석 도박 비교 팀 협업 체계적 방법 Platea Magazine",
+    "press": "Platea Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vNVZPLThMUmt4NG5HajN4dWFLb2tLOF9EZUY4U1VaNHVWNm9lczc0TDZSSy1EMnJxQ0VaVVlmSXpLal9BaXlYNVB2OGlJV1pPRUNaU2xGUloxZw?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 21:19:44 GMT"
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "[K증권名家]LS증권① 구자열 LG증권사단이 키운 '금쪽이'···내부통제 불능? - 글로벌E",
     "summary": "[K증권名家]LS증권① 구자열 LG증권사단이 키운 '금쪽이'···내부통제 불능? 글로벌E",
     "press": "글로벌E",
@@ -3358,18 +3322,6 @@
     "press": "한국전력신문",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yVVh2RVFoWmcxekZ6Rks4Q0s0SWZCZW1MQTZnWEtBWDFidmdyYVdCRV9wbzFKc2otZURzSkZiM3JHdGNGeUdfWGRfNFNiR2JMcmJNeDFLRjQycUVuZHFBcTRfeGhLVWVaMGc?oc=5",
     "pub_date": "Fri, 28 Aug 2026 10:11:46 GMT"
-  },
-  {
-    "company": "LS",
-    "stock_code": "006260",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "토토 빅 데이터 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터 - Platea Magazine",
-    "summary": "토토 빅 데이터 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터 Platea Magazine",
-    "press": "Platea Magazine",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOURIRkRBcHFwSjlaTUxxSmVCa0NUYnhIMDBVejNYRldrNDkzWjlxRUVEMExzYkdsRzZ0YnJYZ1l0QjZQWVJQNm9nNC1kTTFncE54SEJacWVNUFBtOWdyNFhmeloyWFhVSlplVlNxY0J2emM4ZjJ1emNwenV2LVkyNl8zbVF5Z0RjY2hCSHBFSUNCTUhMb1k3RFdybHRIZTY3TXNyOXVUZzBhQkdGQjctNXM5ZUtzSkpxQlhjSg?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 02:52:37 GMT"
   },
   {
     "company": "LS",
@@ -3401,11 +3353,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "LS전선, 전기차 배터리용 알루미늄 부품 사업 신규 추진 - 전자신문",
-    "summary": "LS전선, 전기차 배터리용 알루미늄 부품 사업 신규 추진 전자신문",
-    "press": "전자신문",
-    "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQV0tJNHFSNkV1YWFPakFKNHlDQVBDNUs2ZXh2cW5EWi1NQnN1cTlvTkJnQUNMakJSYThDX0tOd0w0eEx1WjBoaG1UU3I5X0dBMG5jMEVfRXpzM3g3bWxLNlRoalJIellHbU9sNlRNRU8tbnhPUGx2eEN3U1NVcE9ta2tIbmZxWXY4cnhiWWQ3ZW5PVVoteXVsYnhoVHZhanB4bGNjS3VJQXNtRU1fLVRYOUpnbThaSFAyTUtURnVkWEIwQWswY1FvT0Nva1AwR1Qzd2RZVHdiR0N3QVpGbTRmM00yVl9ZVUJHWFhvZFYzN2JqYU1CeHhlLUVCWGtaLUc5cnlfLVNIT2hPbUJ5dzZwWVh4Z3VraGR6U2VzdjhQaEc5M0xJdUZtanY1bnYwODVyTms4ZVFBU0ZaNHZILS1fRmxBZWtDZnNnWEczLTIta1MyUklOcUJfRVlWbWthTTc1Y0JlVlRYVHp2anhDWXZObjVLRFBaUjZLWWotUy13NUFRQ1NhSC1jMUYyXzVsQUUyVnNfSjF4Rk1kWEp0UWFDY0lINUxRcWM3RDFlVVN2SFVaOXJib3pLbW5kQ3FKVGVHLWs1TXpCY2ItQmhtSjZ6Skx5N1duVHRjcXhTeDFjajVvYnVWVHg4VGtSaV9vVC1WTEJLbl8tYUdZYW1TR3lEaS15UFlsdm51Y2NTa01IeGViaUFfS2EwVWtCa0o4SVVEV0pCd1hRVzRucjg2bHZNMkRSOW9seVVrV2M4c2F1S0FxZ0RUM255R1NUZWNrMzZSR3ljdWtWU0JKUmxzcDAyRFNZamFXQUlWYXBJR0kxYXY0OTRVakk0VDgtUFZJNERJdlltZkZJMldwVW9rN3Vkd1A4ZnBfdw?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 12:24:59 GMT"
+    "title": "일본 여행 가야하는데... “엔화 내년 4월부턴 빠르게 오를 것” - 매일경제",
+    "summary": "일본 여행 가야하는데... “엔화 내년 4월부턴 빠르게 오를 것” 매일경제",
+    "press": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZckdtenhWVnVDT09xYTBJX1U3aTRmdXk4Y296SWR2VHhkQXVqcWJ3bVB5VE5qajNaTHBsblozdXZqVERrNVE?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 07:51:44 GMT"
   },
   {
     "company": "LS",
@@ -3413,11 +3365,23 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "워시의 '첫 FOMC'...시장 예상과 다르게 될겁니다ㅣ우혜영 LS증권 연구원 Mattia Caldara (ad7FxxHOTi) - Mshale",
-    "summary": "워시의 '첫 FOMC'...시장 예상과 다르게 될겁니다ㅣ우혜영 LS증권 연구원 Mattia Caldara (ad7FxxHOTi) Mshale",
-    "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTkVfNFRYN01Gblc2VXh0d2RvLV9NLUxZSGdhU05JSmlQUEdXRXREeTdfZjhOa2s4b29PVThERzVnX1czUkRsNTB1R19xeTMtLXRHZUcydGpSQQ?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 11:48:37 GMT"
+    "title": "Less Impressive Sales, LS Lexus Will Be Replaced With A New SUV - VOI.ID",
+    "summary": "Less Impressive Sales, LS Lexus Will Be Replaced With A New SUV VOI.ID",
+    "press": "VOI.ID",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fVnVQN0t4ZVZkUEFSazhyU25ZTVA5X0ZhMzBsRTluaXBrQWhmOFZOWjE2b1Etb3JKc1BVQVZjSGJWQmoxLVFv0gFCQVVfeXFMUDZPUzMtMk9ubjd6YnV4cFdkcEZnVnFNNTZXcHFDUGhBeW9mdV9GWXpWOWVZM3pCc1FsaEw3Tzl0S1F3?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 18:56:51 GMT"
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "토토 빅 데이터 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터 - Platea Magazine",
+    "summary": "토토 빅 데이터 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터 Platea Magazine",
+    "press": "Platea Magazine",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOURIRkRBcHFwSjlaTUxxSmVCa0NUYnhIMDBVejNYRldrNDkzWjlxRUVEMExzYkdsRzZ0YnJYZ1l0QjZQWVJQNm9nNC1kTTFncE54SEJacWVNUFBtOWdyNFhmeloyWFhVSlplVlNxY0J2emM4ZjJ1emNwenV2LVkyNl8zbVF5Z0RjY2hCSHBFSUNCTUhMb1k3RFdybHRIZTY3TXNyOXVUZzBhQkdGQjctNXM5ZUtzSkpxQlhjSg?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 02:52:37 GMT"
   },
   {
     "company": "LS",
@@ -3449,11 +3413,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "美 전력망 '탈중국' 가속…K전력기기 몸값 더 뛴다 - 블로터",
-    "summary": "美 전력망 '탈중국' 가속…K전력기기 몸값 더 뛴다 블로터",
-    "press": "블로터",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02dm9HNHhLVjNCdjJZMW1CT1hscVVGUzRlTGpabWpxTHdzYW14dU1xR3BJTjc0ZmdfclBNZUkzdkhvYmlYRHdvcl9zUjMtRFVsRUg4QVEzdjhNdkV0dXhMcl9HTTRKTTFl0gFsQVVfeXFMUFF2M0QxY3R5SkxpUE1zMnpCcHVBTGdOV2dUWHc4em5fdkFpdl82dzVHWlJqR2lDdWtQMGVqYmxXUzQ2U1ZaWXpLb3o5bmtBOVMwMDYxaVpCNkNlVWN6b0xONVJJNUhzYU1EUGN2?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 08:00:00 GMT"
+    "title": "워시의 '첫 FOMC'...시장 예상과 다르게 될겁니다ㅣ우혜영 LS증권 연구원 Mattia Caldara (ad7FxxHOTi) - Mshale",
+    "summary": "워시의 '첫 FOMC'...시장 예상과 다르게 될겁니다ㅣ우혜영 LS증권 연구원 Mattia Caldara (ad7FxxHOTi) Mshale",
+    "press": "Mshale",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTkVfNFRYN01Gblc2VXh0d2RvLV9NLUxZSGdhU05JSmlQUEdXRXREeTdfZjhOa2s4b29PVThERzVnX1czUkRsNTB1R19xeTMtLXRHZUcydGpSQQ?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 11:48:37 GMT"
   },
   {
     "company": "LS",
@@ -3461,11 +3425,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "아프리카에 ‘K-농업기계’ 전수… 농어촌공사, 현지 협력 확대 - 한국영농신문",
-    "summary": "아프리카에 ‘K-농업기계’ 전수… 농어촌공사, 현지 협력 확대 한국영농신문",
-    "press": "한국영농신문",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQjdJNXNiYmJsWDc2YWI4dDlieVlKSmR2cHBaSmlYRnFVaVVJbkt4cDFEaU9NUkIxTFV4RlBnaHZfdGhQSkxtZjNhSkxlVnpwVHk0Q0RKcVNaM3E0TFl2ci1tQ2U5T2o4NXBNZdIBbkFVX3lxTE9lMDBHTzVGWFVYYXltWkU1NXRMRGJ1ZGdYLUxJZmQ0WnFFWkgyOTJfeFpUcUpLTDcydTZxTVA0dWxiNHZEYk5iOHRqSW9mTl9mcUhTSjRNS2stYmtrYWotZ2dOb3pvaHBVMXVxNk5R?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 14:04:22 GMT"
+    "title": "LS전선, 전기차 배터리용 알루미늄 부품 사업 신규 추진 - 전자신문",
+    "summary": "LS전선, 전기차 배터리용 알루미늄 부품 사업 신규 추진 전자신문",
+    "press": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQV0tJNHFSNkV1YWFPakFKNHlDQVBDNUs2ZXh2cW5EWi1NQnN1cTlvTkJnQUNMakJSYThDX0tOd0w0eEx1WjBoaG1UU3I5X0dBMG5jMEVfRXpzM3g3bWxLNlRoalJIellHbU9sNlRNRU8tbnhPUGx2eEN3U1NVcE9ta2tIbmZxWXY4cnhiWWQ3ZW5PVVoteXVsYnhoVHZhanB4bGNjS3VJQXNtRU1fLVRYOUpnbThaSFAyTUtURnVkWEIwQWswY1FvT0Nva1AwR1Qzd2RZVHdiR0N3QVpGbTRmM00yVl9ZVUJHWFhvZFYzN2JqYU1CeHhlLUVCWGtaLUc5cnlfLVNIT2hPbUJ5dzZwWVh4Z3VraGR6U2VzdjhQaEc5M0xJdUZtanY1bnYwODVyTms4ZVFBU0ZaNHZILS1fRmxBZWtDZnNnWEczLTIta1MyUklOcUJfRVlWbWthTTc1Y0JlVlRYVHp2anhDWXZObjVLRFBaUjZLWWotUy13NUFRQ1NhSC1jMUYyXzVsQUUyVnNfSjF4Rk1kWEp0UWFDY0lINUxRcWM3RDFlVVN2SFVaOXJib3pLbW5kQ3FKVGVHLWs1TXpCY2ItQmhtSjZ6Skx5N1duVHRjcXhTeDFjajVvYnVWVHg4VGtSaV9vVC1WTEJLbl8tYUdZYW1TR3lEaS15UFlsdm51Y2NTa01IeGViaUFfS2EwVWtCa0o4SVVEV0pCd1hRVzRucjg2bHZNMkRSOW9seVVrV2M4c2F1S0FxZ0RUM255R1NUZWNrMzZSR3ljdWtWU0JKUmxzcDAyRFNZamFXQUlWYXBJR0kxYXY0OTRVakk0VDgtUFZJNERJdlltZkZJMldwVW9rN3Vkd1A4ZnBfdw?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 12:24:59 GMT"
   },
   {
     "company": "LS",
@@ -3473,23 +3437,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "일본 여행 가야하는데... “엔화 내년 4월부턴 빠르게 오를 것” - v.daum.net",
-    "summary": "일본 여행 가야하는데... “엔화 내년 4월부턴 빠르게 오를 것” v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsMDI3Wk9HS3dqZ1pQRjJoUE1YUjhCVEs0SFYzS2MyRVNXdjNNd0hvZkd3ay1EanZyTFdiZzdydGo3WHZHVm5PQ2ZvZWkxZFlCQ3NSag?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 07:54:01 GMT"
-  },
-  {
-    "company": "LS",
-    "stock_code": "006260",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "8월 24일 주식시장 주요공시 - catchnews.kr",
-    "summary": "8월 24일 주식시장 주요공시 catchnews.kr",
-    "press": "catchnews.kr",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OTWs4bXU3RXdJYXNlQW9EM2xHc0xwTENzSExMcE5ubzNSdkd6RnFYUS1ZX0piVUFMblg2OVlfQWF6aEN2R1lKVk5aWnpVZ3Uxb3lkTk5tUHpLclh3LTRmYnRkaDJUcDV3RFNv0gFvQVVfeXFMTmZpazk0dWhRQmJmR3A3YTlOMHBpYnBTcXZYOTZ6S1BPRGFtUWRpdXk1eUZxYjZCYk80UVJOR0dQbWlGUjBQMjNPV29iTFlBVm9sS0JkM0YtQ25lSE9mWlNhc09wSDlEOGQxQ1lTR19V?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 09:51:30 GMT"
+    "title": "美 전력망 '탈중국' 가속…K전력기기 몸값 더 뛴다 - 네이트",
+    "summary": "美 전력망 '탈중국' 가속…K전력기기 몸값 더 뛴다 네이트",
+    "press": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92bzd3eXhFYUpSWUw1SFhvNThXWHQwdTdzNldnSFZHUzBIYU5PZnFHbm5RdXBqaUlscnlHUVJmd201UG90VXZEREdaZlIxa0U1Y2Vn?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 08:01:00 GMT"
   },
   {
     "company": "대한전선",
@@ -3500,8 +3452,8 @@
     "title": "[에너지전환2050] 재생에너지 길 만드는 대한전선, 공장도 ‘친환경 전환’ 중 - 이뉴스투데이",
     "summary": "[에너지전환2050] 재생에너지 길 만드는 대한전선, 공장도 ‘친환경 전환’ 중 이뉴스투데이",
     "press": "이뉴스투데이",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvdzhvaFF2TGdYN1B0QzByR05QZEtEcGxIcW1ucUFuaWpTekpsODdjeG10Uk9XUU1vQVM1TjhmeFV2b3RmdFQyWjJ3RmctYWFFcDNBTDZYRnNCVGZFdktxZTltVnhDSGYxM2RJd3l1enTSAXRBVV95cUxOY2ZRdnF5WkVhTkxZc3BUOGtJMUxiRDdDVk1kdDdaczZuVXRFTHQ0d0c4NTZQNG00Q0xRRTBMQWZFcVpPMlNWdE5YM2lRcW0xekhfV1hWQXN4MkQ3OUpSSlZvQUVuOUF5ZG5qaFM5cktzSDFRZQ?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:48:41 GMT"
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZlF2cXlaRWFOTFlzcFQ4a0kxTGJEN0NWTWR0N1pzNm5VdEVMdDR3Rzg1NlA0bTRDTFFFMExBZkVxWk8yU1Z0TlgzaVFxbTF6SF9XWFZBc3gyRDc5SlJKVm9BRW45QXlkbmpoUzlyS3NIMVFl0gF0QVVfeXFMTmNmUXZxeVpFYU5MWXNwVDhrSTFMYkQ3Q1ZNZHQ3WnM2blV0RUx0NHdHODU2UDRtNENMUUUwTEFmRXFaTzJTVnROWDNpUXFtMXpIX1dYVkFzeDJENzlKUkpWb0FFbjlBeWRuamhTOXJLc0gxUWU?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 04:02:02 GMT"
   },
   {
     "company": "대한전선",
@@ -3557,6 +3509,18 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "전남광주 반도체 메가클러스터 본격 시동 - 중소기업신문",
+    "summary": "전남광주 반도체 메가클러스터 본격 시동 중소기업신문",
+    "press": "중소기업신문",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52dkd1MEVQS1hVT1FCdDZqcXhlNUN5TkN1bGxnODl2NEExVTV0Yy1JdTZRa1MwZk82aEM0bEhqLV9JMzh6M3lrRXFNQlVIQ19BaUxralBraDZxU3hXbWZIbnpMU0VBM1pLTDIxWmJn?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:53:39 GMT"
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "[결혼] 김환 예스코 대표이사의 장남 시연 군 - 에너지신문",
     "summary": "[결혼] 김환 예스코 대표이사의 장남 시연 군 에너지신문",
     "press": "에너지신문",
@@ -3574,30 +3538,6 @@
     "press": "Platea Magazine",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03eXVKYWhuQkhHaDB6N3Vod2hzQ1psU1lQLXZiRXMyQ2NMQnZqeVZhdEVvRlRYbFRSczBhOVN4aTVJYXRKcUl6QzhvTFQ1STVwNXhuWGJLVWc3UnlQbmlwRjJyQQ?oc=5",
     "pub_date": "Fri, 28 Aug 2026 09:38:44 GMT"
-  },
-  {
-    "company": "대한전선",
-    "stock_code": "001440",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 - 핀포인트뉴스",
-    "summary": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTDdwdHVLUGNVS1cySndYQ1lIN0RHWDNMaVZ4Vm9IdHl1SjZIM3VMSFpqclFhVTVubVphVktDVGxFQU1WcnNaWVhvSFlKdUtPTkhiMEZvcHYwbk5GeXNmVGxueGJqc0g3c3NZRkE0NDN3Uk9hSnR30gF3QVVfeXFMTTJMN3B0dUtQY1VLVzJKd1hDWUg3REdYM0xpVnhWb0h0eXVKNkgzdUxIWmpyUWFVNW5tWmFWS0NUbEVBTVZyc1pZWG9IWUp1S09OSGIwRm9wdjBuTkZ5c2ZUbG54YmpzSDdzc1lGQTQ0M3dST2FKdHc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:47 GMT"
-  },
-  {
-    "company": "대한전선",
-    "stock_code": "001440",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "한양대, 외국인 유학생 취업박람회 개최…2,526명·35개 기업·기관 참여 - 유니메이트 알파",
-    "summary": "한양대, 외국인 유학생 취업박람회 개최…2,526명·35개 기업·기관 참여 유니메이트 알파",
-    "press": "유니메이트 알파",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZzY4WUlFb0pqVHpLVGo3UDNndjNvZzNQLXlOVHdxbEpDaE5QOG5YTlB6UUZMUkdNUDd6ekFHZ2tMbVI2d3BkbU9PeFEyOHV1UmJENnNSY1JZZnRMN2ZlVExRR00ybjRpaldmbw?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 11:50:43 GMT"
   },
   {
     "company": "대한전선",
@@ -3929,11 +3869,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "비에이치아이 투자분석 2026. 08. 29 - 주달",
-    "summary": "비에이치아이 투자분석 2026. 08. 29 주달",
-    "press": "주달",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qOWlKc2tRSldUZDJ6WXpoclEwbEJTVWRobXhGc1FYWE8tb2hlcUZ6VnFwck9IOURvX0I1RTRfX3FFSHc1aFlsaVpjOGZpTjNmeHJSOE52dzBJSGVtd3pvWVpDdXZmOUxlZ1JWVE1XaUJhWkU?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 07:20:34 GMT"
+    "title": "[표] 주간 코스닥 외국인 순매수도 상위종목 - 매일경제 마켓",
+    "summary": "[표] 주간 코스닥 외국인 순매수도 상위종목 매일경제 마켓",
+    "press": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZElidTdvS01NMVhnbUNRYWVlNjhfc09OeFZtTkkzSTRKRUJ6SkpMUnlGM2VhYVZOSWlxSlBBV0JyYzJPRWNfZ2NoTmZzcFh4TkE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:24:54 GMT"
   },
   {
     "company": "비에이치아이",
@@ -3946,18 +3886,6 @@
     "press": "씽크풀 AI",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycnJYNkk2di1fWEpQXy0ySWE2NGFMMjg4NXZ1bDYzTHluclpYOVNiY2ExaGY3WTJYVGpTRXVwMzZQenBvUUpwQjFQSi1PRzVrTThkLVNfWUN0M3h5WUI0WEZiY3VRc0Nh?oc=5",
     "pub_date": "Sat, 29 Aug 2026 16:02:17 GMT"
-  },
-  {
-    "company": "비에이치아이",
-    "stock_code": "083650",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[표] 주간 코스닥 외국인 순매수도 상위종목 - 매일경제 마켓",
-    "summary": "[표] 주간 코스닥 외국인 순매수도 상위종목 매일경제 마켓",
-    "press": "매일경제 마켓",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZElidTdvS01NMVhnbUNRYWVlNjhfc09OeFZtTkkzSTRKRUJ6SkpMUnlGM2VhYVZOSWlxSlBBV0JyYzJPRWNfZ2NoTmZzcFh4TkE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:24:54 GMT"
   },
   {
     "company": "비에이치아이",
@@ -4037,11 +3965,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[네팔 대홍수] \"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동' - 연합뉴스",
-    "summary": "[네팔 대홍수] \"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동' 연합뉴스",
-    "press": "연합뉴스",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3WEt2bGNvd3k0UVhpdm1ranRvY3dmbHlFMHRZOVZlSEVsbnhhY3ZEb0Y5Zk5seG9oWnF6TWxNNDNfZUthWG5IV2dkdU1keEdmM2ZUa28wTmUwZDTSAWBBVV95cUxQNGVjbFJOSnRKQkpYTkk5XzlyZ0dYVFpoQWd2OWkweGVjRTVTLVphRHhXT20wZTRHNEQ0eGVLdURMc2dXWGM0aVh3YURuS2lDODh1WE1yZkZod19Eb21xdTE?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:28:04 GMT"
+    "title": "두산에너빌 가족 \"100시간째 위어댐 수색 안돼…어떤 정보도 못받아\" - 뉴스1",
+    "summary": "두산에너빌 가족 \"100시간째 위어댐 수색 안돼…어떤 정보도 못받아\" 뉴스1",
+    "press": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lRUJnUUZMcnBibFZILUxxd1VGTnVwTkNHWF9pRW8tZU5RODdvenpiVGd1QVBtOF9EcXdoZFJFYjN4M0JITWtHTU4tcHhOd1V2cjBJczhNTkFtY3lzNVptRlJ4aXfSAWpBVV95cUxQdnBiRm1GMFFlR2hiSU8yYmgxTkNmRnhPRGhXWjZPQnIzbEtUUnpMc09Sbk5McldOVldDVFlCZ2hfTUVvcHZ2bXZUdkNSTVJwSnQ5amEwVElpZFVwV2xCWXZUZGRkYWY3OGZ3?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 05:00:00 GMT"
   },
   {
     "company": "두산에너빌리티",
@@ -4049,11 +3977,11 @@
     "sector": "전기·전력",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "두산에너빌 가족 \"100시간째 위어댐 수색 안돼…어떤 정보도 못받아\" - 뉴스1",
-    "summary": "두산에너빌 가족 \"100시간째 위어댐 수색 안돼…어떤 정보도 못받아\" 뉴스1",
-    "press": "뉴스1",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lRUJnUUZMcnBibFZILUxxd1VGTnVwTkNHWF9pRW8tZU5RODdvenpiVGd1QVBtOF9EcXdoZFJFYjN4M0JITWtHTU4tcHhOd1V2cjBJczhNTkFtY3lzNVptRlJ4aXfSAWpBVV95cUxQdnBiRm1GMFFlR2hiSU8yYmgxTkNmRnhPRGhXWjZPQnIzbEtUUnpMc09Sbk5McldOVldDVFlCZ2hfTUVvcHZ2bXZUdkNSTVJwSnQ5amEwVElpZFVwV2xCWXZUZGRkYWY3OGZ3?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 05:00:00 GMT"
+    "title": "[네팔 대홍수] \"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동' - 연합뉴스",
+    "summary": "[네팔 대홍수] \"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동' 연합뉴스",
+    "press": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3WEt2bGNvd3k0UVhpdm1ranRvY3dmbHlFMHRZOVZlSEVsbnhhY3ZEb0Y5Zk5seG9oWnF6TWxNNDNfZUthWG5IV2dkdU1keEdmM2ZUa28wTmUwZDTSAWBBVV95cUxQNGVjbFJOSnRKQkpYTkk5XzlyZ0dYVFpoQWd2OWkweGVjRTVTLVphRHhXT20wZTRHNEQ0eGVLdURMc2dXWGM0aVh3YURuS2lDODh1WE1yZkZod19Eb21xdTE?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 03:28:04 GMT"
   },
   {
     "company": "두산에너빌리티",
@@ -4090,18 +4018,6 @@
     "press": "뉴시스",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjMDJSWW13RVVBVzJydG80RkFVVkgxTzRfYlBmU2dnanI0OWNFYkVjYi1RZ2ZvWVlwWms2MG5xSS1zYkpZV183djhoN2JOTlB6Wk5JVFNNRjZJRjJMQW5NdtIBeEFVX3lxTE80M3Q5ejJ6azluWmpORHdkM3h5ZnpFWk9TNGpLaWxhWmRJcmp3a25ER2ozWEhBNVUxdkUyUDhfRVNINFNlei0tdC15YmpkZ3ppcEtCbGhja05VQzVjcVRiMExneG5YM3NtaUxfMG85YzBmUk9JUGVqWg?oc=5",
     "pub_date": "Sun, 30 Aug 2026 06:06:31 GMT"
-  },
-  {
-    "company": "두산에너빌리티",
-    "stock_code": "034020",
-    "sector": "전기·전력",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "기업 현지팀, 추가 대응팀 파견...헬기는 대기 중 - YTN",
-    "summary": "기업 현지팀, 추가 대응팀 파견...헬기는 대기 중 YTN",
-    "press": "YTN",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1SHpWRzRwTTdweFp2QzU5aWUtaTBUWGJmSG9jT2JaeU91YkVCcUZSYklLMmdCOUpheUhKY3pHRjg5OHNxWk9NM1BraU1yb1ZMOUJxOEh1UGszV3hhMVNwWFFPTkc2S1dJc0VWSWJLdHc1Vlh2dnc?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 07:58:00 GMT"
   },
   {
     "company": "두산에너빌리티",
@@ -4222,6 +4138,18 @@
     "press": "신아일보",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QcTdKNGpQOXFQRDd2NzJoMllnMmtMX3lXYmQyVE9CcXRJaXhaNExZZFJ3WnJSYllTWkdaMzZZOFllbnBkTlRJbjl0aTk2bjJiM2NCcTVrUEhyc01WR0tPT2VvaVJiQkFuRUZJRHh2QXA?oc=5",
     "pub_date": "Sun, 30 Aug 2026 01:21:47 GMT"
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "두산에너빌리티·남동발전, 비대본 가동·가족 지원 - 연합뉴스TV",
+    "summary": "두산에너빌리티·남동발전, 비대본 가동·가족 지원 연합뉴스TV",
+    "press": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kX2JmRGpnY2JLSlBKRzJtLUxzZFBycDMzcEdSV3NwcjhuRFVoQ2lDT191TTVsb0JqT2ppYkpRTnNqVEJoVXZsMVd1YmJZVi1xOTBial9jTXdJVmNUVXltY01YNHVTcTA?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 04:49:00 GMT"
   },
   {
     "company": "한중엔시에스",
@@ -4949,11 +4877,11 @@
     "sector": "피지컬 AI·로봇",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "에스아이디파트너스, 국내 기업의 미국 항공우주 및 반도체 시장 진출 교두보 마련 - 머니투데이 - 머니투데이",
-    "summary": "에스아이디파트너스, 국내 기업의 미국 항공우주 및 반도체 시장 진출 교두보 마련 - 머니투데이 머니투데이",
-    "press": "머니투데이",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhM2ktU3NfcHlWc0VCQ0c4ekszd0dKQTFjakpTeHpCaTQxa1dzUkg4Q3JlWWdlT0Z3eWYzZXV3c1JRdl8yQldMM0o5T21NTFVCSC1QR0NNRjVtbUVnci16eUUxeG1zVzRUU1dLVENJRHBsUdIBckFVX3lxTFBhM2ktU3NfcHlWc0VCQ0c4ekszd0dKQTFjakpTeHpCaTQxa1dzUkg4Q3JlWWdlT0Z3eWYzZXV3c1JRdl8yQldMM0o5T21NTFVCSC1QR0NNRjVtbUVnci16eUUxeG1zVzRUU1dLVENJRHBsUQ?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:44:37 GMT"
+    "title": "글로벌 IT 경기 회복 모멘텀… 전자장비주 뭉칫돈 몰렸다 - 핀포인트뉴스",
+    "summary": "글로벌 IT 경기 회복 모멘텀… 전자장비주 뭉칫돈 몰렸다 핀포인트뉴스",
+    "press": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZ29kOHhYRlN5VThQOGJQbE4tSlRfbC13NVJLTDdEOE1jLUEwYmJmOTlWYk5Mc1JuUUJWSm5zMWlFOGtQQUxLVjE0Q3FMclZELVZQbkg3aGdjMEdlaldCUi00M2puRXQ0R25zbkcxMWJNeGfSAXdBVV95cUxPV3lTQTlHT0hiczZ5Ny05dGxyaFZUamdoaS1yY2ROU0w5RlVNMFduRmVwam5od3ZRTm5LUk5HaUdpcEd5YVFDclo1OEpKMnVhV1RHVzJ6NVg0S1hHem1iREUyd0U0UHFVSm5YX3ZmZTFqVndUWWt5RQ?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 03:29:51 GMT"
   },
   {
     "company": "에스오에스랩",
@@ -4961,11 +4889,11 @@
     "sector": "피지컬 AI·로봇",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "글로벌 IT 경기 회복 모멘텀… 전자장비주 뭉칫돈 몰렸다 - 핀포인트뉴스",
-    "summary": "글로벌 IT 경기 회복 모멘텀… 전자장비주 뭉칫돈 몰렸다 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZ29kOHhYRlN5VThQOGJQbE4tSlRfbC13NVJLTDdEOE1jLUEwYmJmOTlWYk5Mc1JuUUJWSm5zMWlFOGtQQUxLVjE0Q3FMclZELVZQbkg3aGdjMEdlaldCUi00M2puRXQ0R25zbkcxMWJNeGfSAXdBVV95cUxPV3lTQTlHT0hiczZ5Ny05dGxyaFZUamdoaS1yY2ROU0w5RlVNMFduRmVwam5od3ZRTm5LUk5HaUdpcEd5YVFDclo1OEpKMnVhV1RHVzJ6NVg0S1hHem1iREUyd0U0UHFVSm5YX3ZmZTFqVndUWWt5RQ?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:29:51 GMT"
+    "title": "“연구실 벗어나 물류 현장으로”…자율주행 상용화 앞당기는 ‘AME 2026’ 성료 - 비즈월드",
+    "summary": "“연구실 벗어나 물류 현장으로”…자율주행 상용화 앞당기는 ‘AME 2026’ 성료 비즈월드",
+    "press": "비즈월드",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bblh4Q25xT2I2SmFTSlBsNURiVzV1cU11M21xNDFJMTFDa19lTXdUdjUzeHQzWE5zdFg4SnBwMnR4dVZiZkpOSnktMklCbFF6QkFwRU51dElNaVR6NnNlVUJrLUVfM3QyQXc?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 16:15:00 GMT"
   },
   {
     "company": "에스오에스랩",
@@ -5105,11 +5033,35 @@
     "sector": "피지컬 AI·로봇",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "'19살 연하' 양준혁 아내, '100억 매출' CEO가 러브콜 보냈다..\"영입하고 싶어\"(사당귀) - 조선비즈 - Chosunbiz",
+    "summary": "'19살 연하' 양준혁 아내, '100억 매출' CEO가 러브콜 보냈다..\"영입하고 싶어\"(사당귀) - 조선비즈 Chosunbiz",
+    "press": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODFvaHBzeklPeGZBeE81QVhTLXRVWklnc3VNZF9UV3h1Z0FtaDhFaVpNNlNyWENTZEZ0ZDNNc1ZNTm9OYV9pTkhiV3JEV3dMVUh6aG96dUdYMlNoY2lZcWE1a0N1Ym50X3dYMGRpbFdkd2dqTXE5TTkzZ2czaWc1bGUwYlRwUjlVeFY2WXIxeHprVzDSAacBQVVfeXFMT0oyNHVtOXVLLXNqWGM1akl2V21LMFJBZWZPWklrR2tSaGpWaFdFSVljMGtzMzZLNzVZeXhoVnlYeGNqZGh5eXVGcUpFeGRkWVI2dHBYclVmOE9wUjBoRnZ6X0s4YUR2Y01kcmE2RTdoMDdGNF9aaGVxMmZ3V3BTQnhDT29sYkpvSnEyZUhPZlg0YWIzM1ZOT0dvQkNlaS1nY210X0dNY00?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 08:39:00 GMT"
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "이승협 어떤 리더길래…고영배 \"엔플라잉 스태프들 고개 숙이고 있어\" 폭로 (사당귀) - 네이트",
     "summary": "이승협 어떤 리더길래…고영배 \"엔플라잉 스태프들 고개 숙이고 있어\" 폭로 (사당귀) 네이트",
     "press": "네이트",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tdmJlazZKUGtqSE05QzRxU05ZSzdCQjd6TWM4dG9BTXVuTlMxbWd0N2Z0NThsdTIyT0lkZEpvR2F3SlFFUXZQcV9qdTYxckg0MmZiUFNvZmxSXzFHWE1jNQ?oc=5",
     "pub_date": "Sun, 30 Aug 2026 08:03:00 GMT"
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "'나혼산' 조작 의혹 속 전현무, 웃으며 등장→엔플라잉 이승협, 멤버들 군기잡았단 논란에 '해명' (사당귀) - mhnse.com",
+    "summary": "'나혼산' 조작 의혹 속 전현무, 웃으며 등장→엔플라잉 이승협, 멤버들 군기잡았단 논란에 '해명' (사당귀) mhnse.com",
+    "press": "mhnse.com",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VaGVIQUh1QWdfRjA5OU1QTGt5Q3ZOdjBDQlBBdDJ1OFc1VVh5SzdpdUxEUWJxbG9uczNjcjR0enl4RkplMUdGR3ViMmM2V2FXdEhwQVU1TDg5c0tHQW5PWml6UQ?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 08:41:20 GMT"
   },
   {
     "company": "고영",
@@ -5297,6 +5249,18 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "안양 만안 충훈동 공공재개발 … 롯데·현대건설 1.4조에 수주 - 매일경제",
+    "summary": "안양 만안 충훈동 공공재개발 … 롯데·현대건설 1.4조에 수주 매일경제",
+    "press": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TYndoa1JVc0dzSFNwd2swN2Z5NHBkY2FVanYxV0FBTWFaTTl4THBGWm9qMUVBRHRNdWtYcTl1amphcXBhVThsbTRWaTZ3NlBEbG5QLS1kSHM?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 08:40:36 GMT"
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "[건설 인사이드] 10대사 수주잔고 429.4조… ‘규모’ 현대건설·‘일감’ 포스코 - 브릿지경제",
     "summary": "[건설 인사이드] 10대사 수주잔고 429.4조… ‘규모’ 현대건설·‘일감’ 포스코 브릿지경제",
     "press": "브릿지경제",
@@ -5381,18 +5345,6 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "롯데·현대건설, 안양 충훈부 일원 공공재개발 수주 - sisaon.co.kr",
-    "summary": "롯데·현대건설, 안양 충훈부 일원 공공재개발 수주 sisaon.co.kr",
-    "press": "sisaon.co.kr",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ld3BNR0pkTDdsUjJNcEwxbEJRRkVUSnVPQXZlUTNFTThFNFJoZmNpMTRQeEdtYXpuMjVNbHU5TkdKV1J1UGt4Ym5wV2NoSjFBdlNuUmJ4YkFsOXo5dDR4SWd1VGFoYWxGTHNF?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 01:55:43 GMT"
-  },
-  {
-    "company": "현대건설",
-    "stock_code": "000720",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "롯데ㆍ현대건설 컨소시엄, 안양 충훈부 일원 공공재개발 수주 - 대한경제",
     "summary": "롯데ㆍ현대건설 컨소시엄, 안양 충훈부 일원 공공재개발 수주 대한경제",
     "press": "대한경제",
@@ -5417,18 +5369,6 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "롯데건설·현대건설, 1.4조 안양 충훈부 공공재개발 수주 - v.daum.net",
-    "summary": "롯데건설·현대건설, 1.4조 안양 충훈부 공공재개발 수주 v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82VVJmVS1TbnZvTlN4ak9JYnYyS3J6NzRWdlc2X1ozT2lnLXhRNDVuX2FRa292RmZfd2J5cW1IamJFaEdXVHJ5am80VkdIQjRkY0NhZg?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 00:42:00 GMT"
-  },
-  {
-    "company": "현대건설",
-    "stock_code": "000720",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "롯데건설·현대건설, 안양 충훈부 일원 공공재개발 수주 - 초이스경제",
     "summary": "롯데건설·현대건설, 안양 충훈부 일원 공공재개발 수주 초이스경제",
     "press": "초이스경제",
@@ -5446,6 +5386,18 @@
     "press": "네이트",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaaHVmb2NwenJyRXZpY29UOWtmX1JYYmtfa3lhNVU5UGxnbFAwZVBWcmpLeWYyWktqb1Z3TmxCNlA3NWlxREhyV1MwcFlIM1VQMTZR?oc=5",
     "pub_date": "Sun, 30 Aug 2026 07:50:00 GMT"
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "안양 만안 충훈동 공공재개발…롯데·현대건설 1.4조에 수주 - 네이트",
+    "summary": "안양 만안 충훈동 공공재개발…롯데·현대건설 1.4조에 수주 네이트",
+    "press": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUdDRzVkc2c2kxdXBOZlR5azVQNjZSa18wTWdYa2ZyMG4xRnFTRkVORGo0ZHViazZpOHBkd0hmVlp0SGZuYWhYdDJ0Qmg5N2RpdzZN?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 08:41:00 GMT"
   },
   {
     "company": "한전기술",
@@ -5825,18 +5777,6 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "한전, 공기업 최초 ‘바다숲 조성 사업’ 추진 - 팝콘뉴스",
-    "summary": "한전, 공기업 최초 ‘바다숲 조성 사업’ 추진 팝콘뉴스",
-    "press": "팝콘뉴스",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NVEpiaEM0bFZ5UEJMTWJzSHdId2tjZy02bkZfR0dITEVNMjE5X0U1cTZ3a25qWE13TDBHTVlxYWlBcGszNHZCejdqZ0V3bDl5YVp0dUJoMUZFaE45SEFqc3hCNDBqQmVVajZ4SDhB0gFyQVVfeXFMTW5VTFlIZEFXU2cwTEx3RGlJUUhpNWxVY3ZoSlFvdTBYMEFmdVdoU1hDeEwyOWcxcEtJS1NVa2JNVWJIUUpTRGp3TVdWelcwSHl5M082MjBNOUpqZXhBMl9yQlN5Mk1kWFlJSm1EYU1LcFBn?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 00:03:42 GMT"
-  },
-  {
-    "company": "한전산업",
-    "stock_code": "130660",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "한전, 바다숲 조성사업 MOU 체결 - 한스경제",
     "summary": "한전, 바다숲 조성사업 MOU 체결 한스경제",
     "press": "한스경제",
@@ -5957,18 +5897,6 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "호찌민 국립정치학원 원장이 당 고위 간부들에게 당 배지를 수여하고 있다. - Vietnam.vn",
-    "summary": "호찌민 국립정치학원 원장이 당 고위 간부들에게 당 배지를 수여하고 있다. Vietnam.vn",
-    "press": "Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWoxRG5oZW10cEZuNkZrVnFyRU9KUUFIb3lGdm5VZ1R5aWlINDZ1Q094dmh6dEpBZFYxUHlWak1oY0hETk1VOW5kSGxXbzBYSE9hSnRQbUtaQjdSejlxaVNHR0ljWUZtTlBObHkzMTRHTzJZU2VSeEJKbUdYZEVYX2FEQ2l1MWJ3V1NCZW5EazEyVlduZG5IYzZFYVhkd0FMNndYdVpPbjlodjUzckJHRHNud1htRzg?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 19:04:06 GMT"
-  },
-  {
-    "company": "우진",
-    "stock_code": "105840",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "160㎞ 던지고도 안우진 치켜세운 곽빈 \"맞대결 뭉클, 여전히 나보다 한 수 위→다음엔 MLB서 붙었으면...\" - starnewskorea.com",
     "summary": "160㎞ 던지고도 안우진 치켜세운 곽빈 \"맞대결 뭉클, 여전히 나보다 한 수 위→다음엔 MLB서 붙었으면...\" starnewskorea.com",
     "press": "starnewskorea.com",
@@ -5993,11 +5921,11 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "북동포루는 왜 안팎 지붕이 다른 형식일까? 上 [이강웅의 수원화성이야기] - v.daum.net",
-    "summary": "북동포루는 왜 안팎 지붕이 다른 형식일까? 上 [이강웅의 수원화성이야기] v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZlJ3MGw0Y3d1ZWlIM0dtQlpoVGVEUzlFQXpMQUJpS2lmZVdwZkRaM0M0TGN6UUo0dE5jalpVeDJGcE9KQXRzVUY0c3FaUzA?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 02:01:20 GMT"
+    "title": "제19화. 백기사의 유혹, 100억의 가치 - 브런치",
+    "summary": "제19화. 백기사의 유혹, 100억의 가치 브런치",
+    "press": "브런치",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzVXV6aFRueXJCR2FpQUJXYl9aQXR2Q2RlR3UzaUNEaWU5eTRUU3V6d2VfRE9fQW93Vzh4U29TNzB4a25NdTNfNGtB?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 09:31:17 GMT"
   },
   {
     "company": "우진",
@@ -6005,11 +5933,11 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "제19화. 백기사의 유혹, 100억의 가치 - 브런치",
-    "summary": "제19화. 백기사의 유혹, 100억의 가치 브런치",
-    "press": "브런치",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzVXV6aFRueXJCR2FpQUJXYl9aQXR2Q2RlR3UzaUNEaWU5eTRUU3V6d2VfRE9fQW93Vzh4U29TNzB4a25NdTNfNGtB?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 09:31:17 GMT"
+    "title": "북동포루는 왜 안팎 지붕이 다른 형식일까? 上 [이강웅의 수원화성이야기] - v.daum.net",
+    "summary": "북동포루는 왜 안팎 지붕이 다른 형식일까? 上 [이강웅의 수원화성이야기] v.daum.net",
+    "press": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZlJ3MGw0Y3d1ZWlIM0dtQlpoVGVEUzlFQXpMQUJpS2lmZVdwZkRaM0M0TGN6UUo0dE5jalpVeDJGcE9KQXRzVUY0c3FaUzA?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 02:01:20 GMT"
   },
   {
     "company": "우진",
@@ -6089,18 +6017,6 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "올트먼·머스크 신경전…오픈AI, 스페이스X 인수 ‘커서’에서 GPT 뺀다 - 이투데이",
-    "summary": "올트먼·머스크 신경전…오픈AI, 스페이스X 인수 ‘커서’에서 GPT 뺀다 이투데이",
-    "press": "이투데이",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1weTdWa3RqWTJ5Sl9LenlyQ01BNlNWekF4dXFoaFdhSm1MYUk5N2RqOEE1MDl3ZnlPZDJXME9kTTB2cFJ0WXFJTkVGa3ZuVXMwcUtWUw?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 05:05:00 GMT"
-  },
-  {
-    "company": "우리기술",
-    "stock_code": "032820",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "8월 마지막 주 우리기술 주가 상승세 마감 - 톱스타뉴스",
     "summary": "8월 마지막 주 우리기술 주가 상승세 마감 톱스타뉴스",
     "press": "톱스타뉴스",
@@ -6113,11 +6029,11 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "AI·양자기술 분야 한·미 표준협력 추진 - 대한민국 정책브리핑",
-    "summary": "AI·양자기술 분야 한·미 표준협력 추진 대한민국 정책브리핑",
-    "press": "대한민국 정책브리핑",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpbTRrWmstUTNnekdjWlh0OWVBQUM3UEJURzNSOFJmdGR6ZWdwQ2RIMV9jSnBNVjhCcmdGNHBYSFdWeFlDSWJXNXZhUWtUcWZ5dUhENjNSQVJSOUdoZ1VlSk1rQWEzbTYwcV84dG9XMFY0bURC?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:48:57 GMT"
+    "title": "올트먼·머스크 신경전…오픈AI, 스페이스X 인수 ‘커서’에서 GPT 뺀다 - 이투데이",
+    "summary": "올트먼·머스크 신경전…오픈AI, 스페이스X 인수 ‘커서’에서 GPT 뺀다 이투데이",
+    "press": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1weTdWa3RqWTJ5Sl9LenlyQ01BNlNWekF4dXFoaFdhSm1MYUk5N2RqOEE1MDl3ZnlPZDJXME9kTTB2cFJ0WXFJTkVGa3ZuVXMwcUtWUw?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 05:05:00 GMT"
   },
   {
     "company": "우리기술",
@@ -6125,11 +6041,11 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "오픈AI, 머스크 스페이스X 커서 계약 11월 종료…그록 증류 증언에 신뢰 무너져 - 위키트리",
-    "summary": "오픈AI, 머스크 스페이스X 커서 계약 11월 종료…그록 증류 증언에 신뢰 무너져 위키트리",
-    "press": "위키트리",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42S1BQSWEzcF93V2l6MXpMN0ZTNFVIdElZemwyald5Y1hrUTAySWhMWEZEdzFHM0pnS3NTRTBOcUVrdXBMSS16X1pnTU5BQVBjUm9KM1ln?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 18:02:00 GMT"
+    "title": "AI·양자기술 분야 한·미 표준협력 추진 - 대한민국 정책브리핑",
+    "summary": "AI·양자기술 분야 한·미 표준협력 추진 대한민국 정책브리핑",
+    "press": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpbTRrWmstUTNnekdjWlh0OWVBQUM3UEJURzNSOFJmdGR6ZWdwQ2RIMV9jSnBNVjhCcmdGNHBYSFdWeFlDSWJXNXZhUWtUcWZ5dUhENjNSQVJSOUdoZ1VlSk1rQWEzbTYwcV84dG9XMFY0bURC?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:48:57 GMT"
   },
   {
     "company": "우리기술",
@@ -6161,35 +6077,23 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "오픈AI, 머스크 스페이스X 커서 계약 11월 종료…그록 증류 증언에 신뢰 무너져 - 위키트리",
+    "summary": "오픈AI, 머스크 스페이스X 커서 계약 11월 종료…그록 증류 증언에 신뢰 무너져 위키트리",
+    "press": "위키트리",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42S1BQSWEzcF93V2l6MXpMN0ZTNFVIdElZemwyald5Y1hrUTAySWhMWEZEdzFHM0pnS3NTRTBOcUVrdXBMSS16X1pnTU5BQVBjUm9KM1ln?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 18:02:00 GMT"
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "오픈AI, 머스크 인수 '커서'와 계약 종료…11월 12일 차단 - 솔루션뉴스",
     "summary": "오픈AI, 머스크 인수 '커서'와 계약 종료…11월 12일 차단 솔루션뉴스",
     "press": "솔루션뉴스",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01ZS1Ic1hjSnBiR3E2aHFqNGZpQW8zaVR0UkcxZUlYckthRkZTcjkzVmc2MlFoemZLQTg4clVEaEt0MDRVQXpYNmhNREtjaEk0VXItS2FkbU1HMm5GNEZGWEU2c25pQnN0Z0VV?oc=5",
     "pub_date": "Sat, 29 Aug 2026 09:00:46 GMT"
-  },
-  {
-    "company": "우리기술",
-    "stock_code": "032820",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "볼라토 그룹, AI 인프라 기업 '얼라인먼트 엔진' 5억달러 규모 합병 계약 체결 - 데이터투자",
-    "summary": "볼라토 그룹, AI 인프라 기업 '얼라인먼트 엔진' 5억달러 규모 합병 계약 체결 데이터투자",
-    "press": "데이터투자",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2S3VGWHJ2UVZOQmZXOG00MHF1aVQwN0oxeEJGRnYwaVd5Y3RZOGVobmpSU3dBMU9iSzBIcWZXN2xNS3Q4V1FPU18wNHFTZG5JbDlHRzBzR3BFbEt5RUtmZF9ubVNIWGd0bk9QLWRYWkowSm8?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 20:06:57 GMT"
-  },
-  {
-    "company": "우리기술",
-    "stock_code": "032820",
-    "sector": "원전·SMR",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "필요한 칩 조합해 쓰는 시대…韓 AI 반도체에 기회 열려 - 네이트",
-    "summary": "필요한 칩 조합해 쓰는 시대…韓 AI 반도체에 기회 열려 네이트",
-    "press": "네이트",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tX2pfaDNvNC1XRGlQOFhSSmFfZ2lIbjBCZm5PUVlXY01oYXAwMk5qb0dvRUV4YWs2YU9DMUJyRGJoeGRoOFpUQ003SzdfT2t2Zmhv?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 08:09:00 GMT"
   },
   {
     "company": "우리기술",
@@ -6209,6 +6113,18 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "필요한 칩 조합해 쓰는 시대…韓 AI 반도체에 기회 열려 - 네이트",
+    "summary": "필요한 칩 조합해 쓰는 시대…韓 AI 반도체에 기회 열려 네이트",
+    "press": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tX2pfaDNvNC1XRGlQOFhSSmFfZ2lIbjBCZm5PUVlXY01oYXAwMk5qb0dvRUV4YWs2YU9DMUJyRGJoeGRoOFpUQ003SzdfT2t2Zmhv?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 08:09:00 GMT"
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "오픈AI, 스페이스X에 인수된 커서와 계약 해지…\"머스크 과거가 문제\" - 네이트",
     "summary": "오픈AI, 스페이스X에 인수된 커서와 계약 해지…\"머스크 과거가 문제\" 네이트",
     "press": "네이트",
@@ -6221,11 +6137,11 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "▶하이퍼트레이더 Ai 출시! 급등주 포착 성공률 93%, ▶투자자들 열광…체험권 배포中 - 데이터투자",
-    "summary": "▶하이퍼트레이더 Ai 출시! 급등주 포착 성공률 93%, ▶투자자들 열광…체험권 배포中 데이터투자",
+    "title": "볼라토 그룹, AI 인프라 기업 '얼라인먼트 엔진' 5억달러 규모 합병 계약 체결 - 데이터투자",
+    "summary": "볼라토 그룹, AI 인프라 기업 '얼라인먼트 엔진' 5억달러 규모 합병 계약 체결 데이터투자",
     "press": "데이터투자",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52eDJyM1V1QlBRY1BCMjd2OWNvU0FpOXZtd1VQQ0ZuRGlNM0tDS01TQWNWZjNZWEZRZEQxZEhKdjN3TzdLMnFZWEFtQzNYTV9CSlg4eWJOdVhEcFBIWlNUYmh3bDBJdExQSDl5NmFaeXp0MFU?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 01:05:00 GMT"
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2S3VGWHJ2UVZOQmZXOG00MHF1aVQwN0oxeEJGRnYwaVd5Y3RZOGVobmpSU3dBMU9iSzBIcWZXN2xNS3Q4V1FPU18wNHFTZG5JbDlHRzBzR3BFbEt5RUtmZF9ubVNIWGd0bk9QLWRYWkowSm8?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 20:06:57 GMT"
   },
   {
     "company": "우리기술",
@@ -6257,11 +6173,11 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "옵시디언 테라퓨틱스, SEC에 2916만 주 규모 주식 매각 등록 신청 - 데이터투자",
-    "summary": "옵시디언 테라퓨틱스, SEC에 2916만 주 규모 주식 매각 등록 신청 데이터투자",
+    "title": "민트, 250만 달러 규모 보통주 및 워런트 직판 공모 추진 - 데이터투자",
+    "summary": "민트, 250만 달러 규모 보통주 및 워런트 직판 공모 추진 데이터투자",
     "press": "데이터투자",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZW4tdHJIeDJMWXpCSDAtSnNFandSSTdYSllwZmM5OS1lWENsNWlvRGxsUjJ1aG5URzhlUUI5MWdKR3NIZjVoLTVfc1NYZFZnM1Qxam1IVENubW81LWFGVWVlWU45YUc0OUc2VmRNbFRwTnM?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 21:13:06 GMT"
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FbEh5M0JSUWkwaGNVLWlUSzlqS0FMenN4bXRvcGVrMzh0aEtFSGhVMWVhT2JiQUtJRHhRNWxJUWR0N1NiNjRSMTVmd2dIR3drak95LVdfbU96N2hVZElTeElrOUxFVDRDYXZNaE5oRWVCRm8?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 17:14:24 GMT"
   },
   {
     "company": "우리기술",
@@ -6269,11 +6185,23 @@
     "sector": "원전·SMR",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "민트, 250만 달러 규모 보통주 및 워런트 직판 공모 추진 - 데이터투자",
-    "summary": "민트, 250만 달러 규모 보통주 및 워런트 직판 공모 추진 데이터투자",
+    "title": "에드워즈 라이프사이언시스, 도널드 보보 부사장 내년 은퇴 발표 - 데이터투자",
+    "summary": "에드워즈 라이프사이언시스, 도널드 보보 부사장 내년 은퇴 발표 데이터투자",
     "press": "데이터투자",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FbEh5M0JSUWkwaGNVLWlUSzlqS0FMenN4bXRvcGVrMzh0aEtFSGhVMWVhT2JiQUtJRHhRNWxJUWR0N1NiNjRSMTVmd2dIR3drak95LVdfbU96N2hVZElTeElrOUxFVDRDYXZNaE5oRWVCRm8?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 17:14:24 GMT"
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6Ymtzdy1WME92Z2lDZGFXTWRfZXRaeDFXWXk3TlBoSVVSOW8zeHg1Zm5OblBBU2xDeVl6OFVpYXhLRmxCNEZGdUxCOHpzYTU5a0tqSWVjVGc4RFJNdUI5b1dDZ3U1dmxuTFpaT0ZMLTA0aGc?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 20:17:27 GMT"
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "[총수家] 젠슨 황 엔비디아 CEO ④ㅣ AI 생태계 판 키우는 중…투자·칩·공급망 넘어 리더십까지 - 네이트",
+    "summary": "[총수家] 젠슨 황 엔비디아 CEO ④ㅣ AI 생태계 판 키우는 중…투자·칩·공급망 넘어 리더십까지 네이트",
+    "press": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HQzhfR0FzQTJycXFSZWxaSHI5aHR2Q09aTUVsN2FZU1VoNFBBZmsySnhSLS1fNnE3NHQwc3VJSzZ5OGpONW9SMTcyRHllb0FidDU4dFpsN2tneXVZNnhHNVdCV0FXSGg2Mk1FOFBBM1dmS3huUEpteA?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 07:52:00 GMT"
   },
   {
     "company": "우진엔텍",
@@ -6389,11 +6317,11 @@
     "sector": "우주항공",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[데스크칼럼] KAI 인수와 김동관의 방산 밸류체인 : 네이버 블로그 - Naver Blog",
-    "summary": "[데스크칼럼] KAI 인수와 김동관의 방산 밸류체인 : 네이버 블로그 Naver Blog",
-    "press": "Naver Blog",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM09XN0NtazFsV1lpSWNNdWF5d0tEaDI5VFVBOXNRNEV5N05CcEZwcmtPSG1SYXVJQTZia0pHWkVzNkVCeWRqTEhYeURrMEMtV2ExaUdSY1gxUGFBUlB4M2V3QnZncVkzMTdfWlRXMGNHdHdhLXhsUVBlZFFGRDdqbkQ5RVpIbVg2NFF2cFNIWQ?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 23:46:08 GMT"
+    "title": "\"'한국판 스페이스X' 기업 필요해\"…한화, 우주 컨퍼런스 개최 - 뉴스1",
+    "summary": "\"'한국판 스페이스X' 기업 필요해\"…한화, 우주 컨퍼런스 개최 뉴스1",
+    "press": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVW1DdWJyQW1BNktrYjdIOGo0cEVsUGJWUlhCVFBZS21vQkxZVTkwdm1pTjFNMTdycUVXYmE4NGN1RWhzSzlSSmVOLTJFVlRsQXA4Y0NNaktXXzdibUFOTFR4b2dQOGJpTFHSAWpBVV95cUxPc1VtQ3VickFtQTZLa2I3SDhqNHBFbFBiVlJYQlRQWUttb0JMWVU5MHZtaU4xTTE3cnFFV2JhODRjdUVoc0s5UkplTi0yRVZUbEFwOGNDTWpLV183Ym1BTkxUeG9nUDhiaUxR?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 04:00:29 GMT"
   },
   {
     "company": "한화에어로스페이스",
@@ -6401,11 +6329,11 @@
     "sector": "우주항공",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "\"'한국판 스페이스X' 기업 필요해\"…한화, 우주 컨퍼런스 개최 - 뉴스1",
-    "summary": "\"'한국판 스페이스X' 기업 필요해\"…한화, 우주 컨퍼런스 개최 뉴스1",
-    "press": "뉴스1",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVW1DdWJyQW1BNktrYjdIOGo0cEVsUGJWUlhCVFBZS21vQkxZVTkwdm1pTjFNMTdycUVXYmE4NGN1RWhzSzlSSmVOLTJFVlRsQXA4Y0NNaktXXzdibUFOTFR4b2dQOGJpTFHSAWpBVV95cUxPc1VtQ3VickFtQTZLa2I3SDhqNHBFbFBiVlJYQlRQWUttb0JMWVU5MHZtaU4xTTE3cnFFV2JhODRjdUVoc0s5UkplTi0yRVZUbEFwOGNDTWpLV183Ym1BTkxUeG9nUDhiaUxR?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 04:00:29 GMT"
+    "title": "[데스크칼럼] KAI 인수와 김동관의 방산 밸류체인 : 네이버 블로그 - Naver Blog",
+    "summary": "[데스크칼럼] KAI 인수와 김동관의 방산 밸류체인 : 네이버 블로그 Naver Blog",
+    "press": "Naver Blog",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM09XN0NtazFsV1lpSWNNdWF5d0tEaDI5VFVBOXNRNEV5N05CcEZwcmtPSG1SYXVJQTZia0pHWkVzNkVCeWRqTEhYeURrMEMtV2ExaUdSY1gxUGFBUlB4M2V3QnZncVkzMTdfWlRXMGNHdHdhLXhsUVBlZFFGRDdqbkQ5RVpIbVg2NFF2cFNIWQ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 23:46:08 GMT"
   },
   {
     "company": "한화에어로스페이스",
@@ -6485,18 +6413,6 @@
     "sector": "우주항공",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "한화, 인적분할로 기업가치 재평가… “할인율 축소 경로 뚜렷” - 핀포인트뉴스",
-    "summary": "한화, 인적분할로 기업가치 재평가… “할인율 축소 경로 뚜렷” 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMjdZVmg3ZkRkdGlfcWhxWXQ2NG1GbFN6RllzRXZXQmJQZkZKdjd0ZEN4bG5TckhmU2ZDOVZGZGRRQXdibEFyeXdieVZ5cDV5ZW5CMlBqbWdEd3JyQjZKZk52dkFVN1htTlJWRDl5SkhuZXJ5dlI00gF3QVVfeXFMTWQyN1lWaDdmRGR0aV9xaHFZdDY0bUZsU3pGWXNFdldCYlBmRkp2N3RkQ3hsblNySGZTZkM5VkZkZFFBd2JsQXJ5d2J5VnlwNXllbkIyUGptZ0R3cnJCNkpmTnZ2QVU3WG1OUlZEOXlKSG5lcnl2UjQ?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 01:22:37 GMT"
-  },
-  {
-    "company": "한화에어로스페이스",
-    "stock_code": "012450",
-    "sector": "우주항공",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "[심층진단] ②한화에어로 ‘원 스카이’가 겨누는 항공엔진 독립...5500파운드에서 1만파운드까지 -2부 - 뉴스밸류",
     "summary": "[심층진단] ②한화에어로 ‘원 스카이’가 겨누는 항공엔진 독립...5500파운드에서 1만파운드까지 -2부 뉴스밸류",
     "press": "뉴스밸류",
@@ -6509,35 +6425,23 @@
     "sector": "우주항공",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "한화에어로 “뉴 스카이 시대 열겠다”…유·무인 항공기용 엔진개발 전략 내놔 - 세계일보",
+    "summary": "한화에어로 “뉴 스카이 시대 열겠다”…유·무인 항공기용 엔진개발 전략 내놔 세계일보",
+    "press": "세계일보",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43ZUVmTDZ2VGdFVV94U3U5LUE5RU53TlNNeHlnSUEtMlRTUlZ3NHhOaWNOdnQyVTVvMlRVRHlOWTFYcWE2UWxBS1hiWGpZUlRrRFVOcTliZ3nSAVRBVV95cUxOdXI3NFpFeHFMQy1Odmg2TzhIcW5raHUtZmNDbDhISWFPZGp5MW1jeEhaUDE0SkpJN3Q4NjFxbXh1Sk5KdnZuRmRlejc1amtKdEJIcWs?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 23:20:26 GMT"
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "한화, 우주 콘퍼런스 개최..'한국판 스페이스X 기업 필요 공감대' - v.daum.net",
     "summary": "한화, 우주 콘퍼런스 개최..'한국판 스페이스X 기업 필요 공감대' v.daum.net",
     "press": "v.daum.net",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6MGlaeUJEdm9GSVdCWDhCY1RRTkpmNllrdFdHM2VjQnFvTUFEZVRXZnRESVFpbVRWbzcyOVVnM0NYVlNodnU1c3dLU2lTbms?oc=5",
     "pub_date": "Sun, 30 Aug 2026 06:17:31 GMT"
-  },
-  {
-    "company": "한화에어로스페이스",
-    "stock_code": "012450",
-    "sector": "우주항공",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "한화, 우주 콘퍼런스 개최…“한국판 스페이스X 필요” - 핀포인트뉴스",
-    "summary": "한화, 우주 콘퍼런스 개최…“한국판 스페이스X 필요” 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pNFVkbGVfdXpwTU84YmFCTU9vWDRnSHJORXFFckNPN0JkN3RzM2R5TlNNMVhpdTlwY2ZxanJveWRLcnM0T2E4MEtJZnBZUEthVmJvdnlnVmlhUUhkNm9iQ3M1MDZyMzVINDZtdDd3aEFPRjjSAXdBVV95cUxPR1BSdWZlcHVhUlpwY09MbnhtekxHWFNGSFNmWjg2T2VYZlNkNlBNTWRncEM1bDI0NUhKRllWNGxuWEFibVFxbHd4TlJJeWhFU3RLU2FZSTNUYnRoWThnalRvdmc2MWdNWVZrd0dHMUREVDR0a1F4cw?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:26:35 GMT"
-  },
-  {
-    "company": "한화에어로스페이스",
-    "stock_code": "012450",
-    "sector": "우주항공",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "한화에어로 “뉴 스카이 시대 열겠다”…유·무인 항공기용 엔진개발 전략 내놔 - v.daum.net",
-    "summary": "한화에어로 “뉴 스카이 시대 열겠다”…유·무인 항공기용 엔진개발 전략 내놔 v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95MFZHNk9DWVhkY1pfbElDa1BOenJVQ0VqeGRBbFdveEtsMnNuS2phN1dKdlpfTXVIekhfcmdlZVVJTW1SMEk2S1d2OA?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 23:22:39 GMT"
   },
   {
     "company": "한화에어로스페이스",
@@ -6561,7 +6465,31 @@
     "summary": "방산 최대 시장 美 뚫은 한화⋯K방산, 세계 최대 美 무기시장 본격 공략 v.daum.net",
     "press": "v.daum.net",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqa2pGb2dkWFZFNW56dHdoeUZCMTBtRzBBZ01DV3hXRWRoVVpRUmdwNGtJTjJ1NWtJaE1UMG93UUpINTRBbFE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 22:02:00 GMT"
+    "pub_date": "Fri, 28 Aug 2026 22:02:09 GMT"
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "한화 우주 콘퍼런스서 “한국판 스페이스X필요” 공감대 - 뉴스인사이드",
+    "summary": "한화 우주 콘퍼런스서 “한국판 스페이스X필요” 공감대 뉴스인사이드",
+    "press": "뉴스인사이드",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sOXdpNnh4dW5MVi1OeDhESlBobmpQZC1LakFibzF5V2pIX0ZFMWxyTGhua1h1a2Fyd3AzU1BoRnZ3NFhTUVNvdHJDQmIyakdmUGVhbG9pemp5RW1SU3g4UjdwcFRXMWY2aFZYelV3?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 04:51:51 GMT"
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "방산·조선 날개 단 한화…주가 언제까지 오를까 - v.daum.net",
+    "summary": "방산·조선 날개 단 한화…주가 언제까지 오를까 v.daum.net",
+    "press": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iTFJBSXIzc1ZkemVqRjZtSjJoSHVpbEJweHRaclJjSjJNXzd4Rmc0V3N5TFI1Ui1oVmR0dnRpa3lqNkhrdWZkeGZ6czNiQW9CWnFMOQ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 07:55:27 GMT"
   },
   {
     "company": "한국항공우주",
@@ -6670,6 +6598,18 @@
     "press": "네이트",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lSzVGbEZVaVlYWXNFSTlKRDVQSUxWLTFTX21EVThMaEY1WW4zVk9ob0phTUp2TTY4MjBpQmhPa3dKQmVaSHlybXhGZUZ1VDBUbHN3?oc=5",
     "pub_date": "Sun, 30 Aug 2026 06:30:00 GMT"
+  },
+  {
+    "company": "한국항공우주",
+    "stock_code": "047810",
+    "sector": "우주항공",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "한화, 우주 컨퍼런스 개최… “한국판 스페이스 X 필요” - IT조선",
+    "summary": "한화, 우주 컨퍼런스 개최… “한국판 스페이스 X 필요” IT조선",
+    "press": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUWVoMHgzMUFkeE1qMUNtZ203MXhZUm9jY2dVN1ZMMG1uQXAxSXNldnRWR19icFZ5NzRjd1dkSlBpV1QtSU03NDh4OXlid21XUkp4dm8zRTNVVjY3YkRMYV85dk80TmVFRDE2NjM1Qm3SAXRBVV95cUxQMWt5cW9qb0ZOQnRDSUFyRGJVRlRZSGxkcEZpZnBhQ1JfWTN1T3cxckhEUlhxckFqS1JySXFzRVJmWE1DSHpVQUxXTzc1c0lXbkxBc3F6d2NSNmh6SEYwTFJJTDZkZ2thLVVuV3dnMUVodVg1TA?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 01:12:03 GMT"
   },
   {
     "company": "한국항공우주",
@@ -6792,18 +6732,6 @@
     "pub_date": "Sun, 30 Aug 2026 04:33:36 GMT"
   },
   {
-    "company": "한국항공우주",
-    "stock_code": "047810",
-    "sector": "우주항공",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "한화 \"한국판 스페이스X 필요\"…2040년까지 우주·AI에 '55조' 투자 - 뉴스웍스",
-    "summary": "한화 \"한국판 스페이스X 필요\"…2040년까지 우주·AI에 '55조' 투자 뉴스웍스",
-    "press": "뉴스웍스",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ER3IteEExUVVGTlZqeVVwSnVLck9CSzdYbUtQa3oyYUxKR3FNQzg1QmdnTzFUdlNkYXRpLVRramJlUXpTX1NEV2ZwVnJWQ0JnMjR6VEZmZnpIc01yaDVDeVlsd2t0b1RWQ0dJd2NSV0FuR1U?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 03:31:01 GMT"
-  },
-  {
     "company": "LIG넥스원",
     "stock_code": "079550",
     "sector": "우주항공",
@@ -6862,18 +6790,6 @@
     "press": "Mshale",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iTXV2SVE2dW8zdHVQTU82Zjdxa3E4bjYzdnR4Mjk2c0xXak1Va2tiTmdXQVd5YmNKOUVseTYzb1NnUVBEcDFNbkNxX183cEZHWHhJaXNVZktSSXc?oc=5",
     "pub_date": "Fri, 28 Aug 2026 11:51:51 GMT"
-  },
-  {
-    "company": "LIG넥스원",
-    "stock_code": "079550",
-    "sector": "우주항공",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[인터뷰] 정종택 첨단민군산업협회장 “의도치 않은 과도한 규제, 한국 드론산업 발목 잡아” - 주간조선",
-    "summary": "[인터뷰] 정종택 첨단민군산업협회장 “의도치 않은 과도한 규제, 한국 드론산업 발목 잡아” 주간조선",
-    "press": "주간조선",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sYlg5M0lCclB2YlVwTlpaaXRVQ3JjUEgtdkdEdl96REhpdDA3YkhTTG5VOW9aQTJkd2NDcWwwUVN0U2s2ZkxyUG9HbldoR0ZmM25zQzNxQ1dPdnZucVZVekN6Q3g4NjF0V2fSAW5BVV95cUxPMVdmdWlZTmloUlZjWEl2UzlmR0Q0V2dNZmdLQ3I1LVI4SmhPRE40VmZzWVdFWEtLQTVYSkpGTFhoc2ZzSnlvSzRaRUFybEMxNy14MHVRcXI4M3hFSGI5cDlXOE9FRW1iRC1oeF9FZw?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 00:07:00 GMT"
   },
   {
     "company": "LIG넥스원",
@@ -7265,6 +7181,18 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "충분한 현금 자산에도 3조 유증…삼성로직스 '깜짝 증자' 배경은 - 데일리팜",
+    "summary": "충분한 현금 자산에도 3조 유증…삼성로직스 '깜짝 증자' 배경은 데일리팜",
+    "press": "데일리팜",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Bd21CRDNQSUhPNUczcktEY0dSM0NaRlVmWGR2RnVhU0hsZGI5OE82OGhnY2pzODFoVmVqNDh3OEk3TU5EOTdvXzNHSWFBNGxD?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 05:15:14 GMT"
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "삼성바이오로직스, 3조 유증 단행…폴리펩타이드 인수 실탄 조달 : 네이버 블로그 - Naver Blog",
     "summary": "삼성바이오로직스, 3조 유증 단행…폴리펩타이드 인수 실탄 조달 : 네이버 블로그 Naver Blog",
     "press": "Naver Blog",
@@ -7282,18 +7210,6 @@
     "press": "네이버 프리미엄콘텐츠",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFd4XzFkODZveVZXWWRPVXZwM0IxMzk5aHpTQUdlRmw0bFl6enRZb25YQkotd2Nxb2tLc1dYcTVMLTlsOUtEQU1IT29LZjdFQ200OGNRbkxsaFFpYjE2bjdJdGV1dDFEOG9ZNWMtUkxuOWNMOFZCTE9TMURPMmltdktuVVhMcUctUnh4Unln?oc=5",
     "pub_date": "Sun, 30 Aug 2026 07:41:00 GMT"
-  },
-  {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "충분한 현금 자산에도 3조 유증…삼성로직스 '깜짝 증자' 배경은 - 데일리팜",
-    "summary": "충분한 현금 자산에도 3조 유증…삼성로직스 '깜짝 증자' 배경은 데일리팜",
-    "press": "데일리팜",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Bd21CRDNQSUhPNUczcktEY0dSM0NaRlVmWGR2RnVhU0hsZGI5OE82OGhnY2pzODFoVmVqNDh3OEk3TU5EOTdvXzNHSWFBNGxD?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 05:15:14 GMT"
   },
   {
     "company": "삼성바이오로직스",
@@ -7484,7 +7400,7 @@
     "title": "SK바이오사이언스·사노피, 美 화이자 폐렴구균 백신 특허 항소심 승소 - 매일일보",
     "summary": "SK바이오사이언스·사노피, 美 화이자 폐렴구균 백신 특허 항소심 승소 매일일보",
     "press": "매일일보",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KWU9QVERkb2tlMnRUekVRZjkxTTRkN25YcWhFZkVxaUdULWduT2VfT1lzc2VuSmRnNzY5U0pmUHVEYkFyU1g1dFd6SEZVelBoOWpsSF81dzdtWmF0YTFNbmNaaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WMkNpZ3draXlxTGpXNElOVF9OMTJRcExEU0l3X2l6d2Y3OEVBLUtpNGhmN1pxeUZRbGFBaFBYLVhydjJESVozb0VGWGlUdzlxeXdBOXVlN2lIS1pIWlN5VzllTnE?oc=5",
     "pub_date": "Sun, 30 Aug 2026 02:34:25 GMT"
   },
   {
@@ -7493,11 +7409,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "신약 빅딜 릴레이…한미 ‘3.2조 잭팟’·SK바이오팜 ‘1.1조 승부수’ [바이오 주간 결산] - edaily.co.kr",
-    "summary": "신약 빅딜 릴레이…한미 ‘3.2조 잭팟’·SK바이오팜 ‘1.1조 승부수’ [바이오 주간 결산] edaily.co.kr",
-    "press": "edaily.co.kr",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdk1vME13RjRndEFVcm5neU5fd28tWUg0dW04WGxUaElEbUw3cGQ1RVZiQXN6bTJJYmljZl9hTmFDbElwcDVEaC1LbHJtaF9fSXBpcUFicGxfTTNIazFRRS1LUVBtUXo3X2tsV3ZUcFdjVlM3ekNFZ0F4d3g5Ym5FUQ?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 23:31:02 GMT"
+    "title": "신약 빅딜 릴레이…한미 ‘3.2조 잭팟’·SK바이오팜 ‘1.1조 승부수’ [바이오 주간 결산] - 팜이데일리",
+    "summary": "신약 빅딜 릴레이…한미 ‘3.2조 잭팟’·SK바이오팜 ‘1.1조 승부수’ [바이오 주간 결산] 팜이데일리",
+    "press": "팜이데일리",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUNBYl9ZQ1dnMmxkMG42YUtXN0s4NjFtYVJQTkMxYWZqUFkwWXFGbVYzbjM2SU5McHp2RHI4Q0NBR0FlazNFaGZTWTJYaHpNVlRvck1UMWVRSlJLczdyd2Y4VTMzLUxiVTMtOVhTYWV0OXNCMFg5enZVaGt2TmU0UGd5OVo?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 23:30:03 GMT"
   },
   {
     "company": "SK바이오사이언스",
@@ -7517,11 +7433,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "카지노 음료 : 을 활용한 효율적인 방법 - Platea Magazine",
-    "summary": "카지노 음료 : 을 활용한 효율적인 방법 Platea Magazine",
-    "press": "Platea Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWmg3RlR3RzVEdnM1RG1HaHFoSnpSVU5UYmpUbmZlTHZkNjFLWDFmSWl3eHl1ZWNXc2NQaEowSURVXzBZS1V1ZGVqUHY5M2pBaU94RHRQWGR0aVZzdVBmQVdHR05uVmxLZHlpNkppWTRGYkUtT3RTNUt2dTJhYmIySlFuaGwtb0JaOGRVZ1FTSVBwaVR1MzNDczEzdkhhYV9qQmZpa3dEYnpTRktaV2JKVUpUdkQwdWlObXNEek5BMVppZ1oyRXJzT0l0c2k5X3NCTDQwcUdwTlZfMFgzSEZTSw?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 23:07:51 GMT"
+    "title": "[제약공시 책갈피] 8월 4주차 - 한미약품·SK바이오팜 外 - 메디파나뉴스",
+    "summary": "[제약공시 책갈피] 8월 4주차 - 한미약품·SK바이오팜 外 메디파나뉴스",
+    "press": "메디파나뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZa2VJS2F0cUFRZ2tkZU5MQVhUT0gwQ2tjZ1dOMHVfWGNuRTdnb2w4TTI3cExrMUxyNm8zRjlHVUUtVEkyWG9XaU85bzR0VzhPVUx3WDczdGxId3BiRTlpM01RNFpkaXBRTzdr?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 04:31:41 GMT"
   },
   {
     "company": "SK바이오사이언스",
@@ -7529,11 +7445,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[제약공시 책갈피] 8월 4주차 - 한미약품·SK바이오팜 外 - 메디파나뉴스",
-    "summary": "[제약공시 책갈피] 8월 4주차 - 한미약품·SK바이오팜 外 메디파나뉴스",
-    "press": "메디파나뉴스",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZa2VJS2F0cUFRZ2tkZU5MQVhUT0gwQ2tjZ1dOMHVfWGNuRTdnb2w4TTI3cExrMUxyNm8zRjlHVUUtVEkyWG9XaU85bzR0VzhPVUx3WDczdGxId3BiRTlpM01RNFpkaXBRTzdr?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 04:31:41 GMT"
+    "title": "카지노 음료 : 을 활용한 효율적인 방법 - Platea Magazine",
+    "summary": "카지노 음료 : 을 활용한 효율적인 방법 Platea Magazine",
+    "press": "Platea Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWmg3RlR3RzVEdnM1RG1HaHFoSnpSVU5UYmpUbmZlTHZkNjFLWDFmSWl3eHl1ZWNXc2NQaEowSURVXzBZS1V1ZGVqUHY5M2pBaU94RHRQWGR0aVZzdVBmQVdHR05uVmxLZHlpNkppWTRGYkUtT3RTNUt2dTJhYmIySlFuaGwtb0JaOGRVZ1FTSVBwaVR1MzNDczEzdkhhYV9qQmZpa3dEYnpTRktaV2JKVUpUdkQwdWlObXNEek5BMVppZ1oyRXJzT0l0c2k5X3NCTDQwcUdwTlZfMFgzSEZTSw?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 23:07:51 GMT"
   },
   {
     "company": "SK바이오사이언스",
@@ -7582,18 +7498,6 @@
     "press": "MTN 머니투데이방송",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vRWhUZHVsM2lpekZZNUxTcW8zc1lORDVuME9TNGhLX1hRTWdRNVo2WjdYd2VhZ1FQYU1qUS03dm9EYUdadjBKQ3BSU1lLQUhZVHJfUWdycHRDMVNHRlA0NVRReGc?oc=5",
     "pub_date": "Sun, 30 Aug 2026 05:03:14 GMT"
-  },
-  {
-    "company": "SK바이오사이언스",
-    "stock_code": "302440",
-    "sector": "바이오",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "SK케미칼 투자분석 2026. 08. 28 - 주달",
-    "summary": "SK케미칼 투자분석 2026. 08. 28 주달",
-    "press": "주달",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBRG1vV1AweEZ3cU9tVVpSc2VtUnZKaHNvZm9rdDFaWFhON0JXNzJBNVE1bDk3U1kzZkd4V29ud2FXZFBmTmg5cnhyVUlqQ09xakhnNGNoTFMyeDU0VTNTc1hUcFZpdnZRSEhMS0V2djNYV2M?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:47:22 GMT"
   },
   {
     "company": "SK바이오사이언스",
@@ -7889,11 +7793,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "주식오락실_2026년 8월 28일 (금) - DealSite경제TV",
-    "summary": "주식오락실_2026년 8월 28일 (금) DealSite경제TV",
-    "press": "DealSite경제TV",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rOEVKWmhaMVF4My1kdG1iOXowNzVPRVVlNEtyQjB2TGxSakVHeUgyTHdHSEVuOTZUN0tlS1ptYVpNemtQeFpnYnRkS0E2SVlrSjNfdUxB?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:11:11 GMT"
+    "title": "[오늘의증시] 코스피 1.79% 하락…반도체 급락에 6700선 후퇴 - 경인방송 뉴스",
+    "summary": "[오늘의증시] 코스피 1.79% 하락…반도체 급락에 6700선 후퇴 경인방송 뉴스",
+    "press": "경인방송 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtWjA1WkZMZC1EN2lUNXg4MDYzaFZqYTRsU3RLc2FMcEtZeW8ySHhacWJfUkNzb1Q4NlBkTUxManBSVTFITjlSc3ZLOWhjemFyS0pRQlJFTzVSREZoWVlHVzQ0eG9vVUN10gFoQVVfeXFMUC1aMDVaRkxkLUQ3aVQ1eDgwNjNoVmphNGxTdEtzYUxwS1l5bzJIeFpxYl9SQ3NvVDg2UGRNTExqcFJVMUhOOVJzdks5aGN6YXJLSlFCUkVPNVJERmhZWUdXNDR4b29VQ3U?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:04:31 GMT"
   },
   {
     "company": "알테오젠",
@@ -7901,11 +7805,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 - 뉴스드림",
-    "summary": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 뉴스드림",
-    "press": "뉴스드림",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WZTlKYWlWd3ltT2tzTUJpaC1kczdrUHJjeEtUZUt0QjFfUlgzWDVSZFBTTUxhRENkcjV3b3MtZ3Jnb04wdXdlQmxabXkzYzh2WE1iUGlvNEdibjJhdnVUelFrTHdzMl9qWnZBTGpB0gFuQVVfeXFMTVZlOUphaVZ3eW1Pa3NNQmloLWRzN2tQcmN4S1RlS3RCMV9SWDNYNVJkUFNNTGFEQ2RyNXdvcy1ncmdvTjB1d2VCbFpteTNjOHZYTWJQaW80R2JuMmF2dVR6UWtMd3MyX2padkFMakE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:49:09 GMT"
+    "title": "주식오락실_2026년 8월 28일 (금) - DealSite경제TV",
+    "summary": "주식오락실_2026년 8월 28일 (금) DealSite경제TV",
+    "press": "DealSite경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rOEVKWmhaMVF4My1kdG1iOXowNzVPRVVlNEtyQjB2TGxSakVHeUgyTHdHSEVuOTZUN0tlS1ptYVpNemtQeFpnYnRkS0E2SVlrSjNfdUxB?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:11:11 GMT"
   },
   {
     "company": "알테오젠",
@@ -7937,23 +7841,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[1% 초고수의 주간 선택] '삼양식품' 사고 '현대해상' 팔았다 - 네이트",
-    "summary": "[1% 초고수의 주간 선택] '삼양식품' 사고 '현대해상' 팔았다 네이트",
-    "press": "네이트",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94dFhLdy1BMVBXVTNuVDc5SDZRWEJyNkh6NGR2cTVzWTE1em9rV21ZdlViU0hyZEhPZFR4TVNNMmVCYVBTbGFlYTk1WlJMc1A4dEpF?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 21:47:00 GMT"
-  },
-  {
-    "company": "리가켐바이오",
-    "stock_code": "141080",
-    "sector": "바이오",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "리가켐바이오 기술수출 항암제, 림프종 31명 모두 암 안 보여 - v.daum.net",
-    "summary": "리가켐바이오 기술수출 항암제, 림프종 31명 모두 암 안 보여 v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tRHpjSVRQVDhkRDJnWGpqUjhJNTVFYnhnd2xPcktwNEo4bHNPUW1GWDhkcmpLUHVyQ0dyUlJzTmdYT2FXdHNvczVBWQ?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:46:54 GMT"
+    "title": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 - 뉴스드림",
+    "summary": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 뉴스드림",
+    "press": "뉴스드림",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WZTlKYWlWd3ltT2tzTUJpaC1kczdrUHJjeEtUZUt0QjFfUlgzWDVSZFBTTUxhRENkcjV3b3MtZ3Jnb04wdXdlQmxabXkzYzh2WE1iUGlvNEdibjJhdnVUelFrTHdzMl9qWnZBTGpB0gFuQVVfeXFMTVZlOUphaVZ3eW1Pa3NNQmloLWRzN2tQcmN4S1RlS3RCMV9SWDNYNVJkUFNNTGFEQ2RyNXdvcy1ncmdvTjB1d2VCbFpteTNjOHZYTWJQaW80R2JuMmF2dVR6UWtMd3MyX2padkFMakE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:49:09 GMT"
   },
   {
     "company": "리가켐바이오",
@@ -8026,6 +7918,78 @@
     "press": "매일경제 마켓",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMUt4Y1hCSG53NEtqSXZKaEQ2cDVmTnE0TUZMUDktTnBTRF90blRwR0dHUW45b0hYVkpMSVJ3VElOc29MX3JIVXkxSVRnaFZpSHc?oc=5",
     "pub_date": "Fri, 28 Aug 2026 09:25:08 GMT"
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "깐깐해진 빅파마 ADC 기술 도입 기준···차별화가 관건 - 시사저널e",
+    "summary": "깐깐해진 빅파마 ADC 기술 도입 기준···차별화가 관건 시사저널e",
+    "press": "시사저널e",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xWnN2cWljU1A5UlVBY0hydWoyV0Nlb0Rud05VOUxCQXFNZU5tdGtmMmtHanFfcHZsaWtlOHlYVms2dlFDZ2RLak1VUFJmVWJaWHV2SHNrUHZlTHFBOWpvc1dtUzBsZGYwcllHX1lKNUlVVHZWU0HSAXZBVV95cUxPcVpzdnFpY1NQOVJVQWNIcnVqMldDZW9EbndOVTlMQkFxTWVObXRrZjJrR2pxX3B2bGlrZTh5WFZrNnZRQ2dkS2pNVVBSZlViWlh1dkhza1B2ZUxxQTlqb3NXbVMwbGRmMHJZR19ZSjVJVVR2VlNB?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:20:48 GMT"
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "시스톤, 1차 치료 림프종 CS5001 임상 1b상 데이터 공개 - 주간한국",
+    "summary": "시스톤, 1차 치료 림프종 CS5001 임상 1b상 데이터 공개 주간한국",
+    "press": "주간한국",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZNTRvWER5TGs0akdqS1VFcDZscTVub1BCcnpkTVgzZV9laWlPdTNLbkJTVEllOHoxbmRpM01JVXJINXFtZ2N5Skp3S3FTaFgyQmUyNzd1TVgtZ2ZRQ0pYbUhsaG40S2FwSW1HanJxQWQ4Z1FZ0gF0QVVfeXFMT1k1NG9YRHlMazRqR2pLVUVwNmxxNW5vUEJyemRNWDNlX2VpaU91M0tuQlNUSWU4ejFuZGkzTUlVckg1cW1nY3lKSndLcVNoWDJCZTI3N3VNWC1nZlFDSlhtSGxobjRLYXBJbUdqcnFBZDhnUVk?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 15:04:59 GMT"
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "에이비엘바이오, 파트너사 시스톤 ABL202 병용요법 임상 1b상 완전 이관 - 글로벌뉴스통신GNA",
+    "summary": "에이비엘바이오, 파트너사 시스톤 ABL202 병용요법 임상 1b상 완전 이관 글로벌뉴스통신GNA",
+    "press": "글로벌뉴스통신GNA",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OV2kxOGZhdWFHV0g4M3pUQllKc0o0V2RRSHZBNW1OekowNDUyMlNBSkthSzlRYUxXZmdYWm9HTTA5a0hiVTJKOFl5eW9qaTBEUndZdEVDcEtpdjRRMnhPY0k4VEFEN0VuZVpuNno5S084emlC?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:12:16 GMT"
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "코스닥 '강보합'...알테오젠 · 파마리서치 · 실리콘투 '급등' - 초이스경제",
+    "summary": "코스닥 '강보합'...알테오젠 · 파마리서치 · 실리콘투 '급등' 초이스경제",
+    "press": "초이스경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVzhhOGE2YWNfZmFaa0NEdXlxbmRva2tTOUR0RDM1bnI3WnBpWnBKaU92UTVKVEUwN3dJaVhiLUlsOFJ2ZFJvUEVkMEZtbnVENFdUUms2VkZCV210WDdFXzBHUExsekVSVklCTURaTS00V2fSAXNBVV95cUxNc1c4YThhNmFjX2ZhWmtDRHV5cW5kb2trUzlEdEQzNW5yN1pwaVpwSmlPdlE1SlRFMDd3SWlYYi1JbDhSdmRSb1BFZDBGbW51RDRXVFJrNlZGQldtdFg3RV8wR1BMbHpFUlZJQk1EWk0tNFdn?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 10:28:35 GMT"
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "에이비엘바이오 'CS5001', 림프종 치료 새 카드 되나 - 네이트",
+    "summary": "에이비엘바이오 'CS5001', 림프종 치료 새 카드 되나 네이트",
+    "press": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcDJqeGxna1gydGl2dWJkcXpWX25uWDhzVFhvbEEwdWw2UnN2bVdDTW5BV0dMNGx0c1FtQUpZZXFNYXdIdnlBdGRWNFBpZHFlNXhZ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 00:01:00 GMT"
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "중국발 저가·초고속 공세 속 K-ADC 생존법… \"경쟁 아닌 레버리지, 넥스트 모달리티 선점\" - 아이알팜",
+    "summary": "중국발 저가·초고속 공세 속 K-ADC 생존법… \"경쟁 아닌 레버리지, 넥스트 모달리티 선점\" 아이알팜",
+    "press": "아이알팜",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sT3kyS2hCYW9zY0FxeG1DalV0bzdmY3k3ZDFFMjMxZ19xSDExWFMyaUI1LWZfS1ZUeGh5WnJxUnFGVHNCNWV0NW1PT2FrTDVjNUxTb0sxX1YzUU9vQjBwMzBGOWEwZVE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 21:25:49 GMT"
   },
   {
     "company": "에이비엘바이오",
@@ -8645,11 +8609,11 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[IS 인터뷰] \"소금 같은 존재\"…'9시의 남자' 오태곤, 대타부터 수비까지 - 일간스포츠",
-    "summary": "[IS 인터뷰] \"소금 같은 존재\"…'9시의 남자' 오태곤, 대타부터 수비까지 일간스포츠",
+    "title": "‘토이 스토리5’, 추석 연휴 안방 극장 찾는다…9월 23일 디즈니플러스 공개 - 일간스포츠",
+    "summary": "‘토이 스토리5’, 추석 연휴 안방 극장 찾는다…9월 23일 디즈니플러스 공개 일간스포츠",
     "press": "일간스포츠",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xVE16ekxZdTgybUdzNGJQbk1NdGxOZmJjbEhWZzJOTERIcWJFQU1sSXlBeF9UZ0RQNGNSRmhKRlJ1NDNkMFlNMGpVN0ZkQkpjcDJWODYxWF9MZktkU0Yyb2hMX3g3QW9s?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 01:06:00 GMT"
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpbGR6WFBDcWVJUXByOE56cW5mT3A1R1RINHVVanR4cGhJLVpycDNPWU42N3BEbDhvRG9ZOXVJLVI5UmV6ck5TQnhsU0EySTBvTHhJSVVEZ2xNWllPZ2Q0NmlwNW5kbGh4?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 07:19:00 GMT"
   },
   {
     "company": "유한양행",
@@ -8717,18 +8681,6 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "유한양행, UNCCD COP17서 몽골 산림 생태계 복원 민관협력 성과 제시 - 팝콘뉴스",
-    "summary": "유한양행, UNCCD COP17서 몽골 산림 생태계 복원 민관협력 성과 제시 팝콘뉴스",
-    "press": "팝콘뉴스",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tZkNmLWVvemFLMDhYaFFUVTJ0dmJsc05SWHUxbjRXX1VaRTN5bUFPYkp4dVI1azRhV0IzaEVudzEwaFhkTHVxVHJnaG1xajYzV2hiMVZmTXJHenBIUVdwcU0zemZFVWNMb2lNUkNJcHphZ9IBckFVX3lxTE9tZkNmLWVvemFLMDhYaFFUVTJ0dmJsc05SWHUxbjRXX1VaRTN5bUFPYkp4dVI1azRhV0IzaEVudzEwaFhkTHVxVHJnaG1xajYzV2hiMVZmTXJHenBIUVdwcU0zemZFVWNMb2lNUkNJcHphZw?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:45:25 GMT"
-  },
-  {
-    "company": "유한양행",
-    "stock_code": "000100",
-    "sector": "바이오",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "유한양행, 몽골 산불 피해지에 묘목 3만7500그루 심었다 - 뉴스퀘스트",
     "summary": "유한양행, 몽골 산불 피해지에 묘목 3만7500그루 심었다 뉴스퀘스트",
     "press": "뉴스퀘스트",
@@ -8777,18 +8729,6 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "유한양행, UNCCD 총회서 몽골 산림복원 성과 발표 - e-의료정보",
-    "summary": "유한양행, UNCCD 총회서 몽골 산림복원 성과 발표 e-의료정보",
-    "press": "e-의료정보",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdVBKem8wMjdER1J2VGk3ODQtWTUydWVud1ZXRHRzaDQ0VGpCVkt3cXNlV3ZwZE9kWkVqbHdkci1tZTdvbHpST1V1d21FdDExV1FRc2dscGVpNkQwWkd0RzA4Z0dvRHF3STNnam1xY9IBb0FVX3lxTFBxdVBKem8wMjdER1J2VGk3ODQtWTUydWVud1ZXRHRzaDQ0VGpCVkt3cXNlV3ZwZE9kWkVqbHdkci1tZTdvbHpST1V1d21FdDExV1FRc2dscGVpNkQwWkd0RzA4Z0dvRHF3STNnam1xYw?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:39 GMT"
-  },
-  {
-    "company": "유한양행",
-    "stock_code": "000100",
-    "sector": "바이오",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "유한양행, 몽골 산불피해지에 3만7500그루 식재…복원 성과 공유 - 화이트페이퍼",
     "summary": "유한양행, 몽골 산불피해지에 3만7500그루 식재…복원 성과 공유 화이트페이퍼",
     "press": "화이트페이퍼",
@@ -8818,6 +8758,18 @@
     "press": "비욘드포스트",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZRnJaYnhBRFRRWFg0b2tZU2piN0lncmZPWFJ0NTVqZjZIWFRyLTlzOUIxZWhzdkUwekFmN0FMeUlhYklScWtoV09pV3NRWk5ZRW4ycWs1TjFzclppT0N2TlpCa0JvUFJXY0VKb1VySVh5Rm95MFZtOVRuWW8?oc=5",
     "pub_date": "Fri, 28 Aug 2026 23:10:29 GMT"
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "[Pharma Report] JW중외제약, ‘보팡글루타이드’ 당뇨 3상 도전 外 - 헬스케어N",
+    "summary": "[Pharma Report] JW중외제약, ‘보팡글루타이드’ 당뇨 3상 도전 外 헬스케어N",
+    "press": "헬스케어N",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Tdmh0MktQUFdMeklHRXZOaW1icTZIWnNxNW1aY3VkdzJyQmhETkMzcDlETzJVazNsenRlaXlDOUp1LXlUeWt4ZFUwU0xtWmZQaWV1RlJHMjRkcTFtTi1Xc0d5Q1FmOFhaS2NOU3BCeG5DcmNn?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 08:55:05 GMT"
   },
   {
     "company": "휴젤",
@@ -9113,6 +9065,18 @@
     "sector": "바이오",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "대한산악연맹, '히말라야 SAT PEAK 원정대 발대식' 개최 - 패션포스트",
+    "summary": "대한산악연맹, '히말라야 SAT PEAK 원정대 발대식' 개최 패션포스트",
+    "press": "패션포스트",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXQxbGduZVhselBLajlSd0xlNVRBOVU3QUQxZHNjMzZ6ZGZNU0NNSHhnWTd3ek1sTXpGNjVvdzdsekpHXzROUnNvNEhVekJ2TVdSRkFfU0JiSXNJbzk0SGdaVnRwSzJkRVByeDFWc0IxalI1c3lwOXM1QmtJZTJBekluRDAweW1INEFQZU53TDdCYmNDc1k2YjRvT0ZmNFRfSDVFVW9zNjFTMHVxaDZ6WXhsdlhKbGprcUV2VGRPUGRic1E?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 17:54:36 GMT"
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "[표] 주간 코스닥 외국인 순매수도 상위종목 - 매일경제 마켓",
     "summary": "[표] 주간 코스닥 외국인 순매수도 상위종목 매일경제 마켓",
     "press": "매일경제 마켓",
@@ -9305,11 +9269,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "LG엔솔, '유로화 환리스크' 대응 촉각…환율 변동 영향 주시 : 네이버 블로그 - Naver Blog",
-    "summary": "LG엔솔, '유로화 환리스크' 대응 촉각…환율 변동 영향 주시 : 네이버 블로그 Naver Blog",
-    "press": "Naver Blog",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDdPY0dWRWJhNUlrc2VUZnZpVWlKcWd1d3VTZkpuc0JBLVFQNFliNEs5bktNVTBQclViRmZJQWx2QkRLMUMwSDlTaXdQMnpOcFVUSEcwTlRaZXdzMHJncjByQmxHbG9TSV9fZ016ZFZEUlhObHVBdlpwS1pzcUwwT0lzeEdXQ3l5VWU0bEpzcw?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 07:44:14 GMT"
+    "title": "AI 로봇 시대, K-배터리 뜬다…LG엔솔·삼성SDI·SK온, 로봇 배터리 출격 채비 - CEO스코어데일리",
+    "summary": "AI 로봇 시대, K-배터리 뜬다…LG엔솔·삼성SDI·SK온, 로봇 배터리 출격 채비 CEO스코어데일리",
+    "press": "CEO스코어데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90bEl0UVVUU2ZBZzh1eXF4bFFMODlWQWZiTkZBYmliMmJVRkdmZUtQVTByTkI4Q0wzNTZYQW14Y0RzdXNZUURVbGZFQ25VcWRUTEpSM25sS3d4UXJmRFhhWk9VOWNVVDQ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 22:00:00 GMT"
   },
   {
     "company": "LG에너지솔루션",
@@ -9317,11 +9281,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "AI 로봇 시대, K-배터리 뜬다…LG엔솔·삼성SDI·SK온, 로봇 배터리 출격 채비 - CEO스코어데일리",
-    "summary": "AI 로봇 시대, K-배터리 뜬다…LG엔솔·삼성SDI·SK온, 로봇 배터리 출격 채비 CEO스코어데일리",
-    "press": "CEO스코어데일리",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90bEl0UVVUU2ZBZzh1eXF4bFFMODlWQWZiTkZBYmliMmJVRkdmZUtQVTByTkI4Q0wzNTZYQW14Y0RzdXNZUURVbGZFQ25VcWRUTEpSM25sS3d4UXJmRFhhWk9VOWNVVDQ?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 22:00:00 GMT"
+    "title": "LG엔솔, '유로화 환리스크' 대응 촉각…환율 변동 영향 주시 : 네이버 블로그 - Naver Blog",
+    "summary": "LG엔솔, '유로화 환리스크' 대응 촉각…환율 변동 영향 주시 : 네이버 블로그 Naver Blog",
+    "press": "Naver Blog",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDdPY0dWRWJhNUlrc2VUZnZpVWlKcWd1d3VTZkpuc0JBLVFQNFliNEs5bktNVTBQclViRmZJQWx2QkRLMUMwSDlTaXdQMnpOcFVUSEcwTlRaZXdzMHJncjByQmxHbG9TSV9fZ016ZFZEUlhObHVBdlpwS1pzcUwwT0lzeEdXQ3l5VWU0bEpzcw?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 07:44:14 GMT"
   },
   {
     "company": "LG에너지솔루션",
@@ -9449,11 +9413,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[종목상담소 주식민원처리반 2부] 한스바이오메드 vs LG에너지솔루션, 관심 포인트는? - v.daum.net",
-    "summary": "[종목상담소 주식민원처리반 2부] 한스바이오메드 vs LG에너지솔루션, 관심 포인트는? v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RYWtFc1RDdVgybUxzTGcwTkJOLWd1bC1RVk9feGFqSUM2NW0wX3F4NXdCeEhHWGdrT3JqeXVFQWlOdEkwWnVSczRxcEFSbjg?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 21:40:00 GMT"
+    "title": "도박 협회 을 활용한 효율적인 방법: 시간과 비용 절약 - 실전 사례 분석 - Platea Magazine",
+    "summary": "도박 협회 을 활용한 효율적인 방법: 시간과 비용 절약 - 실전 사례 분석 Platea Magazine",
+    "press": "Platea Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqazNjZDVWNlhDVTQyNmhyN24xQjZJRVBRUEFSSmdXUXFEUU41M1lCN1doSW9HV1h5Q2M3aHlLOER0dVRLNm1WaVFRVWYzc2g0QllyczJCQ1lZQQ?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 12:13:09 GMT"
   },
   {
     "company": "LG에너지솔루션",
@@ -9461,11 +9425,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "도박 협회 을 활용한 효율적인 방법: 시간과 비용 절약 - 실전 사례 분석 - Platea Magazine",
-    "summary": "도박 협회 을 활용한 효율적인 방법: 시간과 비용 절약 - 실전 사례 분석 Platea Magazine",
+    "title": "바카라엑셀프로그램 : 새로운 아이디어와 접근법 - Platea Magazine",
+    "summary": "바카라엑셀프로그램 : 새로운 아이디어와 접근법 Platea Magazine",
     "press": "Platea Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqazNjZDVWNlhDVTQyNmhyN24xQjZJRVBRUEFSSmdXUXFEUU41M1lCN1doSW9HV1h5Q2M3aHlLOER0dVRLNm1WaVFRVWYzc2g0QllyczJCQ1lZQQ?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 12:13:09 GMT"
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vanZZcDM1NUdxNXFMWlJGY3NsbWdPemR5cnpOdWlSYnVZSndFalhPSXREaWN4dmNPMTlBWGgxYUJ6UW9Ma0xzNHlSYTRwN29iOHM3M0t5UkZtMjZZMmhfU3M0RDA?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 19:28:18 GMT"
   },
   {
     "company": "삼성SDI",
@@ -9653,18 +9617,6 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "삼성SDI '북미 ESS' 속도전…전기차 캐즘 뚫을 구원투수 되나 - SR타임스",
-    "summary": "삼성SDI '북미 ESS' 속도전…전기차 캐즘 뚫을 구원투수 되나 SR타임스",
-    "press": "SR타임스",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00eGVmLW11aTJWVDRhc0JrQ0JrOGI4WVlNU056M1ctNk5WZW5JM1NwZUZ1X3dBbVFMODhicVRiNm9mZ29xSkJSeXhiZlJUbUdoeEVWdUtVcFQ3YlJmaWZOSXI3SC1UdWllakVN0gFrQVVfeXFMTTR4ZWYtbXVpMlZUNGFzQmtDQms4YjhZWU1TTnozVy02TlZlbkkzU3BlRnVfd0FtUUw4OGJxVGI2b2Znb3FKQlJ5eGJmUlRtR2h4RVZ1S1VwVDdiUmZpZk5JcjdILVR1aWVqRU0?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:40:31 GMT"
-  },
-  {
-    "company": "삼성SDI",
-    "stock_code": "006400",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "28일, 기관 거래소에서 삼성전기(+2.60%), 삼성SDI(+0.35%) 등 순매수 - 네이트",
     "summary": "28일, 기관 거래소에서 삼성전기(+2.60%), 삼성SDI(+0.35%) 등 순매수 네이트",
     "press": "네이트",
@@ -9706,6 +9658,18 @@
     "press": "Platea Magazine",
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQLXhscGY3ZkpteGdoYURrYlNGZjhEeHJaQUFYaUt3Vl9pNzEyMDRVZlFkbEhCbnM3N1hXQUZCbzZMNzVaOUszVzZlZzhRQkd4YlgxZjA5Q0s3UF85NnNDLTZhTFJTakVlMWhIdlFtSy02R0dpLW0wTVZLQldla2lScnVmZ1NGMG9hdW1BSml5X19rYlVpeDNmNHJldE43SWMxUTdVU0VobWVlMlJER2htYzliRl95b3RreVA3aGU3QVNHRkxuS01ZM2ZFTUFpV1FrZjBsbENlRm5LdHA5ZG1GZ0ZLd2wyRTk3SWh6ZnYxX0gtWGtOaENDWk1pNjM4V3dpVEpZQlBsYw?oc=5",
     "pub_date": "Fri, 28 Aug 2026 11:45:32 GMT"
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "2027년 서울대 대학원생 전기 SSBT 장학생 모집,- 2026.09.27. - 일반공지 - 공지사항 - 서울대 소식 - 서울대학교",
+    "summary": "2027년 서울대 대학원생 전기 SSBT 장학생 모집,- 2026.09.27. - 일반공지 - 공지사항 - 서울대 소식 서울대학교",
+    "press": "서울대학교",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LaXFNUjVWZ0lrZ1RKU1dkdVI1RFZaeUNTNFRud21qUENKRkVmYkd4bVd2bHZoOGpZYTRGcGRiUGFuX2x1QlBGdHRYb1JwTGZaZmtLdWRheTgxcXZsdGdSbmJoMExKRlhGVUNJM0VtRzQ?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 11:55:47 GMT"
   },
   {
     "company": "SK이노베이션",
@@ -9857,11 +9821,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "최근 5거래일 SK이노베이션 주가 변동성 속 상승 마감 - 톱스타뉴스",
-    "summary": "최근 5거래일 SK이노베이션 주가 변동성 속 상승 마감 톱스타뉴스",
-    "press": "톱스타뉴스",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41MlQxZzFTQnZoLUJOcnpKR2FGMzFGcWJZSDZYVHFtMWxyTVF1cjZwa2JHckpaUDFKdWpiaTZPbzJIaWFrczdVb01Xcm5uYll2RVRUWUh0WUpnWmh1LXl0VWdDS0xieGVMQWNvZnFBU3BEQQ?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 02:15:41 GMT"
+    "title": "“쪼개기 상장했다가 결국 모회사로 합병…SK이노베이션 주가가 관건” - 뉴스퀘스트",
+    "summary": "“쪼개기 상장했다가 결국 모회사로 합병…SK이노베이션 주가가 관건” 뉴스퀘스트",
+    "press": "뉴스퀘스트",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXRxVmYtbzNDb1oyU3Q2dF9zOVVCdHRKZGhZenlFYUktZ3Q5dmJoMmJrZU10UVZsNWhtS3pfWGtjRXRIbTBWdkEzSU1CeWt5UDR3OGVMNFJBTVBYZVVIeGNNdm5ESGJQaG5fYWFwNUsyNUHSAXNBVV95cUxOWjV0cVZmLW8zQ29aMlN0NnRfczlVQnR0SmRoWXp5RWFJLWd0OXZiaDJia2VNdFFWbDVobUt6X1hrY0V0SG0wVnZBM0lNQnlreVA0dzhlTDRSQU1QWGVVSHhjTXZuREhiUGhuX2FhcDVLMjVB?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 11:49:32 GMT"
   },
   {
     "company": "SK이노베이션",
@@ -9869,11 +9833,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "“쪼개기 상장했다가 결국 모회사로 합병…SK이노베이션 주가가 관건” - 뉴스퀘스트",
-    "summary": "“쪼개기 상장했다가 결국 모회사로 합병…SK이노베이션 주가가 관건” 뉴스퀘스트",
-    "press": "뉴스퀘스트",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXRxVmYtbzNDb1oyU3Q2dF9zOVVCdHRKZGhZenlFYUktZ3Q5dmJoMmJrZU10UVZsNWhtS3pfWGtjRXRIbTBWdkEzSU1CeWt5UDR3OGVMNFJBTVBYZVVIeGNNdm5ESGJQaG5fYWFwNUsyNUHSAXNBVV95cUxOWjV0cVZmLW8zQ29aMlN0NnRfczlVQnR0SmRoWXp5RWFJLWd0OXZiaDJia2VNdFFWbDVobUt6X1hrY0V0SG0wVnZBM0lNQnlreVA0dzhlTDRSQU1QWGVVSHhjTXZuREhiUGhuX2FhcDVLMjVB?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 11:49:32 GMT"
+    "title": "최근 5거래일 SK이노베이션 주가 변동성 속 상승 마감 - 톱스타뉴스",
+    "summary": "최근 5거래일 SK이노베이션 주가 변동성 속 상승 마감 톱스타뉴스",
+    "press": "톱스타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41MlQxZzFTQnZoLUJOcnpKR2FGMzFGcWJZSDZYVHFtMWxyTVF1cjZwa2JHckpaUDFKdWpiaTZPbzJIaWFrczdVb01Xcm5uYll2RVRUWUh0WUpnWmh1LXl0VWdDS0xieGVMQWNvZnFBU3BEQQ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 02:15:41 GMT"
   },
   {
     "company": "SK이노베이션",
@@ -9941,11 +9905,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[SKIET, 7년간의 계산서 ④] 쪼개고 상장하고 다시 합치고···'코리아 디스카운트' 해결책은 - 서울파이낸스",
-    "summary": "[SKIET, 7년간의 계산서 ④] 쪼개고 상장하고 다시 합치고···'코리아 디스카운트' 해결책은 서울파이낸스",
-    "press": "서울파이낸스",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qSEVPUXVZenBBRkVFeGJ6SE1vY0Z6aF9ST3VxQmhkb0hCYlRyM2J0alY1bDRMWm03MC1rWUhHU1ZtUWJOYXhyU3cxME9Xc0JOVVJRSHY2YS1wZ0ZWRUdwWUtIWmlEM3dVUHc?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    "title": "햇살론 토토내역 연구원를 위한 비판적 사고 해결책 - Platea Magazine",
+    "summary": "햇살론 토토내역 연구원를 위한 비판적 사고 해결책 Platea Magazine",
+    "press": "Platea Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSjNXMGgxSDF6c0tQR2tCb1RxTkxfdktrVW82cU9PS2lIWkt5czI3RTgwOFFrWGtlU1VuVFJ5bXcwWGExZkVVZUtRRzZMZDFBQVBMR3VFSmJpaGFBLTdmYWdTT1pXcFZXa0dhTzN4ZjU0MFFKNFZDWkVCUGcxZ0xVZ1NpbmtqeHE3akZ5elItb2ViampYSDU3MnM0RFBUSkI5WmR3UmduS0ZTUXdHWjJpcWVQdnpmYWhEMXN1U2o5cHBSbEZiV1IwN0tGUHN2OHNKQ0l4WEFUMUhEUTQ4akhCVURRNmFxMnd4Z1VEaS0zWQ?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 18:25:45 GMT"
   },
   {
     "company": "포스코퓨처엠",
@@ -9981,7 +9945,7 @@
     "summary": "포항 첫 직업계고 취업박람회 2000여명 몰려 경북신문",
     "press": "경북신문",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qeGhxQVhMcHpzdUV3aGRNUHpZLS1yWkhvdkZKb0drVm01WTFpbXRzTlhwcy05RVdVNGg4NmVraVN0TjAwdTVDeU12QWFpS3NQTlhwcXUxYzM?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 06:12:36 GMT"
+    "pub_date": "Sat, 29 Aug 2026 09:29:00 GMT"
   },
   {
     "company": "포스코퓨처엠",
@@ -10037,11 +10001,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "美ESS시장 진출 확대…이차전지株 기지개 - v.daum.net",
-    "summary": "美ESS시장 진출 확대…이차전지株 기지개 v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sTWFzM3Y1YnUwSXJCalVjUzAzdk4zMmNnMnprZ0VwOXh3ZmV2b1VsVlZnLUxSdEJMOWRXR25FV0NTNGJKQ0E?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:42:00 GMT"
+    "title": "포항시, 직업계고 취업박람회 성료…중·고생·학부모 2천여 명 참여 - 메트로신문",
+    "summary": "포항시, 직업계고 취업박람회 성료…중·고생·학부모 2천여 명 참여 메트로신문",
+    "press": "메트로신문",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbm5seDJ0dWZIQWx5dXVCSlNxRHBpV09QYUtNZWxOSFZ6S2NnZmJjZm82NTlrd2RNWlRYTVEtYXAtRXY4Y0JVWHNmeUo3cEN3aDNPR0pLWlZzRnJZVkZVaw?oc=5",
+    "pub_date": "Sun, 30 Aug 2026 00:01:25 GMT"
   },
   {
     "company": "포스코퓨처엠",
@@ -10061,11 +10025,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "포항시, 직업계고 취업박람회 성료…중·고생·학부모 2천여 명 참여 - 메트로신문",
-    "summary": "포항시, 직업계고 취업박람회 성료…중·고생·학부모 2천여 명 참여 메트로신문",
-    "press": "메트로신문",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbm5seDJ0dWZIQWx5dXVCSlNxRHBpV09QYUtNZWxOSFZ6S2NnZmJjZm82NTlrd2RNWlRYTVEtYXAtRXY4Y0JVWHNmeUo3cEN3aDNPR0pLWlZzRnJZVkZVaw?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 00:01:25 GMT"
+    "title": "포항 직업계고 취업박람회 ‘북적’…학생·기업 2,000명 한자리에 - 투어코리아",
+    "summary": "포항 직업계고 취업박람회 ‘북적’…학생·기업 2,000명 한자리에 투어코리아",
+    "press": "투어코리아",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fdTBtbHlDV254VmkxTU5DcVY4elhIRUVJZUE0VjhIbXQ0Z183WTBhS2hIQ1hWLXNaZXUweGVUU09vN2U1Ykx4em92TTMwR2IwMmk3QmcyUU9IQkhyVDRTQ1BsQnBKM1VyR2tSb0N3?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 22:25:34 GMT"
   },
   {
     "company": "포스코퓨처엠",
@@ -10078,18 +10042,6 @@
     "press": "gukjenews.com",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Qb1lLOVBhbGhleDQyREtGemVXMU50bEg2ZWprUVBnMEFQd09Ha05seDFYa3ViS2Yyd0lqblh4V1pTZV9XbHd3dzZVN2hrYVlTRURnZmk1M3M1elViaWxVWmxrYW1Pa21WSnQxX3ZR?oc=5",
     "pub_date": "Fri, 28 Aug 2026 10:58:22 GMT"
-  },
-  {
-    "company": "포스코퓨처엠",
-    "stock_code": "003670",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 - 핀포인트뉴스",
-    "summary": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTDdwdHVLUGNVS1cySndYQ1lIN0RHWDNMaVZ4Vm9IdHl1SjZIM3VMSFpqclFhVTVubVphVktDVGxFQU1WcnNaWVhvSFlKdUtPTkhiMEZvcHYwbk5GeXNmVGxueGJqc0g3c3NZRkE0NDN3Uk9hSnR30gF3QVVfeXFMTTJMN3B0dUtQY1VLVzJKd1hDWUg3REdYM0xpVnhWb0h0eXVKNkgzdUxIWmpyUWFVNW5tWmFWS0NUbEVBTVZyc1pZWG9IWUp1S09OSGIwRm9wdjBuTkZ5c2ZUbG54YmpzSDdzc1lGQTQ0M3dST2FKdHc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:47 GMT"
   },
   {
     "company": "포스코퓨처엠",
@@ -10121,11 +10073,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "에코프로(비엠) 실적 급감, 진짜 원인은 인도네이사 폭우 | 꼬병이리포트 8월4일 Norman Reedus (m0heheUULo) - Mshale",
-    "summary": "에코프로(비엠) 실적 급감, 진짜 원인은 인도네이사 폭우 | 꼬병이리포트 8월4일 Norman Reedus (m0heheUULo) Mshale",
+    "title": "[에코프로 에코프로비엠 주가전망] 💥또 터졌다! 결국 '여기까지' 직행💥 근데 오늘.. 이거 하나는 꼭 봐야합니다!! #박차장 Uk Snow Weather Maps (Bki7UVuUD3) - Mshale",
+    "summary": "[에코프로 에코프로비엠 주가전망] 💥또 터졌다! 결국 '여기까지' 직행💥 근데 오늘.. 이거 하나는 꼭 봐야합니다!! #박차장 Uk Snow Weather Maps (Bki7UVuUD3) Mshale",
     "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aeUVSQ0RYb2REV05GQUM1Vk5XT1VQc2QwUEF5YTF3ZWVXTGlySHdZdWo2Mm5kMUl5NEF0Wl9LTkxxc1V0eWo2THptSGlEdUJiZFFkWXlFMlJBa3M?oc=5",
-    "pub_date": "Sun, 30 Aug 2026 04:04:48 GMT"
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MUzQ1U1gySmJ4UTdpLU4taGM1UHZRU2MzMGVNcXgzLUhUSkdFOWhIWXFHZjdHS3JXOGFGb1k2QU92UW9qbjZ6ekYtZHVnbFVQR1J4empiSzI2QlU?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 16:37:46 GMT"
   },
   {
     "company": "에코프로비엠",
@@ -10138,6 +10090,18 @@
     "press": "비즈워치",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52WlZDR0t6RE9SbURlUEc1YkxaZERYbzgxdFdXYjFvdE9xSEM4LTNfQThtS00xSFp0T0U2TDd5X29FNUVkdUVhMnZkaXFROERFX0xZYjZPWlF5YzFLb1kzcTc0RU9ucWhnUFE3ag?oc=5",
     "pub_date": "Sat, 29 Aug 2026 06:00:02 GMT"
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "25일, 기관 코스닥에서 HPSP(+10.35%), 심텍(+11.12%) 등 순매수 - 씽크풀 AI",
+    "summary": "25일, 기관 코스닥에서 HPSP(+10.35%), 심텍(+11.12%) 등 순매수 씽크풀 AI",
+    "press": "씽크풀 AI",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycnJYNkk2di1fWEpQXy0ySWE2NGFMMjg4NXZ1bDYzTHluclpYOVNiY2ExaGY3WTJYVGpTRXVwMzZQenBvUUpwQjFQSi1PRzVrTThkLVNfWUN0M3h5WUI0WEZiY3VRc0Nh?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 16:02:17 GMT"
   },
   {
     "company": "에코프로비엠",
@@ -10169,18 +10133,6 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "[에코프로 에코프로비엠 주가전망] 💥또 터졌다! 결국 '여기까지' 직행💥 근데 오늘.. 이거 하나는 꼭 봐야합니다!! #박차장 Uk Snow Weather Maps (Bki7UVuUD3) - Mshale",
-    "summary": "[에코프로 에코프로비엠 주가전망] 💥또 터졌다! 결국 '여기까지' 직행💥 근데 오늘.. 이거 하나는 꼭 봐야합니다!! #박차장 Uk Snow Weather Maps (Bki7UVuUD3) Mshale",
-    "press": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MUzQ1U1gySmJ4UTdpLU4taGM1UHZRU2MzMGVNcXgzLUhUSkdFOWhIWXFHZjdHS3JXOGFGb1k2QU92UW9qbjZ6ekYtZHVnbFVQR1J4empiSzI2QlU?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 16:37:46 GMT"
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "[주간 코스닥 외국인] 실리콘투 집중 매수…반도체·바이오도 담았다 - 핀포인트뉴스",
     "summary": "[주간 코스닥 외국인] 실리콘투 집중 매수…반도체·바이오도 담았다 핀포인트뉴스",
     "press": "핀포인트뉴스",
@@ -10198,18 +10150,6 @@
     "press": "이코노뉴스",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZXpyczBQYTJ1VDRKQ2t0LUkzVjhiYVE1ZlpiRGI4bWFfMFJDQmlJd2I2b1BqU1dONnIzRVM1TmdCZy1rRjhseWpEaW42bElfZlFhbmdtUHMwa0xZUDVqSGZvdDlaX3haN0FLbm1B?oc=5",
     "pub_date": "Fri, 28 Aug 2026 12:30:00 GMT"
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 - 핀포인트뉴스",
-    "summary": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도체 충격 핀포인트뉴스",
-    "press": "핀포인트뉴스",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTDdwdHVLUGNVS1cySndYQ1lIN0RHWDNMaVZ4Vm9IdHl1SjZIM3VMSFpqclFhVTVubVphVktDVGxFQU1WcnNaWVhvSFlKdUtPTkhiMEZvcHYwbk5GeXNmVGxueGJqc0g3c3NZRkE0NDN3Uk9hSnR30gF3QVVfeXFMTTJMN3B0dUtQY1VLVzJKd1hDWUg3REdYM0xpVnhWb0h0eXVKNkgzdUxIWmpyUWFVNW5tWmFWS0NUbEVBTVZyc1pZWG9IWUp1S09OSGIwRm9wdjBuTkZ5c2ZUbG54YmpzSDdzc1lGQTQ0M3dST2FKdHc?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:47 GMT"
   },
   {
     "company": "에코프로비엠",
@@ -10265,59 +10205,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "25일, 기관 코스닥에서 HPSP(+10.35%), 심텍(+11.12%) 등 순매수 - 씽크풀 AI",
-    "summary": "25일, 기관 코스닥에서 HPSP(+10.35%), 심텍(+11.12%) 등 순매수 씽크풀 AI",
-    "press": "씽크풀 AI",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycnJYNkk2di1fWEpQXy0ySWE2NGFMMjg4NXZ1bDYzTHluclpYOVNiY2ExaGY3WTJYVGpTRXVwMzZQenBvUUpwQjFQSi1PRzVrTThkLVNfWUN0M3h5WUI0WEZiY3VRc0Nh?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 16:02:17 GMT"
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
     "title": "반도체 '투톱' 급락에 코스피 1.79% 하락…6,780선 후퇴 - 데일리굿뉴스",
     "summary": "반도체 '투톱' 급락에 코스피 1.79% 하락…6,780선 후퇴 데일리굿뉴스",
     "press": "데일리굿뉴스",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KX0JIM1plOVFKUzJGN3VyWXZIOXJfVjNMU3hSaGlLb2pwNlVJZmVaSFlrU0J5RV94NGs5NVJYZ05xdFh3VnZ0OFBYa3hIeDItMkNidXdUT29jZkdZYUtZV20wUkZsQTBtMEFOTVZXXzHSAXBBVV95cUxNSl9CSDNaZTlRSlMyRjd1cll2SDlyX1YzTFN4UmhpS29qcDZVSWZlWkhZa1NCeUVfeDRrOTVSWGdOcXRYd1Z2dDhQWGt4SHgyLTJDYnV3VE9vY2ZHWWFLWVdtMFJGbEEwbTBBTk1WV18x?oc=5",
     "pub_date": "Fri, 28 Aug 2026 10:27:45 GMT"
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "'검은 화요일' 코스피, 7% 급락 5,800선 내줘…낙폭 사상 최대(종합) - 매일경제 마켓",
-    "summary": "'검은 화요일' 코스피, 7% 급락 5,800선 내줘…낙폭 사상 최대(종합) 매일경제 마켓",
-    "press": "매일경제 마켓",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDV0dKYl9rbVR4M0dsM1F0ZGI2MXZRbElNNzB6TzRQVXRjNkRxYUxjQlRNaWZWZXJ0MDNwWHFhX2lNeVBlMVZ0ZzRpc1A3QWxMSVE?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 01:22:15 GMT"
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "코스피 8~9%↓, 삼전닉스 11∼12% 폭락…서킷브레이커 발동 - 매일경제 마켓",
-    "summary": "코스피 8~9%↓, 삼전닉스 11∼12% 폭락…서킷브레이커 발동 매일경제 마켓",
-    "press": "매일경제 마켓",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNUFuOGdVcmFWVElZVUVCOW1xTFhLRTF5N3NHQVkydXlMWEFiVVNYVWYxcVNYMkFRT1dodmJfNnA5Y1Z2eVZCOGlxUTNNaVRoWkE?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 15:31:29 GMT"
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "코스닥 강보합…파마리서치 껑충·알테오젠도 강세 - CBC뉴스",
-    "summary": "코스닥 강보합…파마리서치 껑충·알테오젠도 강세 CBC뉴스",
-    "press": "CBC뉴스",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NSEtNSlN6Z2pjTnlLVjNBdVRDaFZtY2ZJeW9CZlhVS2lZdkl3RXJVUXNsT2tuUHlVY0h1dEVsY2lLamFiTm9WUVl5dzFOclZBYUR4bmpkTlMtSl92anBsT2QxaVBvMnBO?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 22:17:00 GMT"
   },
   {
     "company": "에코프로비엠",
@@ -10337,6 +10229,42 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
+    "title": "'검은 화요일' 코스피, 7% 급락 5,800선 내줘…낙폭 사상 최대(종합) - 매일경제 마켓",
+    "summary": "'검은 화요일' 코스피, 7% 급락 5,800선 내줘…낙폭 사상 최대(종합) 매일경제 마켓",
+    "press": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDV0dKYl9rbVR4M0dsM1F0ZGI2MXZRbElNNzB6TzRQVXRjNkRxYUxjQlRNaWZWZXJ0MDNwWHFhX2lNeVBlMVZ0ZzRpc1A3QWxMSVE?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 01:22:15 GMT"
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "코스닥 강보합…파마리서치 껑충·알테오젠도 강세 - CBC뉴스",
+    "summary": "코스닥 강보합…파마리서치 껑충·알테오젠도 강세 CBC뉴스",
+    "press": "CBC뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NSEtNSlN6Z2pjTnlLVjNBdVRDaFZtY2ZJeW9CZlhVS2lZdkl3RXJVUXNsT2tuUHlVY0h1dEVsY2lLamFiTm9WUVl5dzFOclZBYUR4bmpkTlMtSl92anBsT2QxaVBvMnBO?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 22:17:00 GMT"
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "코스피 8~9%↓, 삼전닉스 11∼12% 폭락…서킷브레이커 발동 - 매일경제 마켓",
+    "summary": "코스피 8~9%↓, 삼전닉스 11∼12% 폭락…서킷브레이커 발동 매일경제 마켓",
+    "press": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNUFuOGdVcmFWVElZVUVCOW1xTFhLRTF5N3NHQVkydXlMWEFiVVNYVWYxcVNYMkFRT1dodmJfNnA5Y1Z2eVZCOGlxUTNNaVRoWkE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 15:31:29 GMT"
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
     "title": "코스피, 美 반도체 관세 검토 우려에 6780선 하락 마감 - ksdaily.co.kr",
     "summary": "코스피, 美 반도체 관세 검토 우려에 6780선 하락 마감 ksdaily.co.kr",
     "press": "ksdaily.co.kr",
@@ -10344,16 +10272,28 @@
     "pub_date": "Fri, 28 Aug 2026 09:24:21 GMT"
   },
   {
-    "company": "엘앤에프",
-    "stock_code": "066970",
+    "company": "에코프로비엠",
+    "stock_code": "247540",
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "美ESS시장 진출 확대…이차전지株 기지개 - v.daum.net",
-    "summary": "美ESS시장 진출 확대…이차전지株 기지개 v.daum.net",
-    "press": "v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sTWFzM3Y1YnUwSXJCalVjUzAzdk4zMmNnMnprZ0VwOXh3ZmV2b1VsVlZnLUxSdEJMOWRXR25FV0NTNGJKQ0E?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:42:00 GMT"
+    "title": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 - 뉴스드림",
+    "summary": "[시황] 코스피, 6700선 붕괴 마감…삼전닉스 하락장 뉴스드림",
+    "press": "뉴스드림",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WZTlKYWlWd3ltT2tzTUJpaC1kczdrUHJjeEtUZUt0QjFfUlgzWDVSZFBTTUxhRENkcjV3b3MtZ3Jnb04wdXdlQmxabXkzYzh2WE1iUGlvNEdibjJhdnVUelFrTHdzMl9qWnZBTGpB0gFuQVVfeXFMTVZlOUphaVZ3eW1Pa3NNQmloLWRzN2tQcmN4S1RlS3RCMV9SWDNYNVJkUFNNTGFEQ2RyNXdvcy1ncmdvTjB1d2VCbFpteTNjOHZYTWJQaW80R2JuMmF2dVR6UWtMd3MyX2padkFMakE?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 09:49:09 GMT"
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "코스피, 삼전닉스 급락에 2% 가까이 하락…6780선 마감 - 직썰",
+    "summary": "코스피, 삼전닉스 급락에 2% 가까이 하락…6780선 마감 직썰",
+    "press": "직썰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNURRdEVzQU1vSnRsUHdxX25RdHAyRHhZZ1BNZ2NDRFBSaVlsbzh5NnQ2YW81OUlRekhBTkRQeW9iVVgwQkZiTjRVeWJESmFVOURjcXJEb2ZWcmEzZVRjb0lkdEFWS1Fic2NfQdIBbEFVX3lxTE9oNURRdEVzQU1vSnRsUHdxX25RdHAyRHhZZ1BNZ2NDRFBSaVlsbzh5NnQ2YW81OUlRekhBTkRQeW9iVVgwQkZiTjRVeWJESmFVOURjcXJEb2ZWcmEzZVRjb0lkdEFWS1Fic2NfQQ?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 12:46:52 GMT"
   },
   {
     "company": "엘앤에프",
@@ -10565,11 +10505,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "세동 경영권 분쟁 소송 판결, 법원 \"지주요건 소명 부족\" 임시주총 소집 신청 각하 - 데이터투자",
-    "summary": "세동 경영권 분쟁 소송 판결, 법원 \"지주요건 소명 부족\" 임시주총 소집 신청 각하 데이터투자",
+    "title": "프로 덱스, CEO·CFO에 일시 보너스 지급 결정 - 데이터투자",
+    "summary": "프로 덱스, CEO·CFO에 일시 보너스 지급 결정 데이터투자",
     "press": "데이터투자",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUDlJMmk4QkJJTGtzdjVINEJMc3pXZ1Y3M1prRVhLS0NYajJmVkRkNHpHejg4SlRUT0ZLNnNuM3FQWXQxaFJpZzFJRkx4NDVMSzRES2dxTmdxME1IbDlMeWM3Qi12WDlidFA0SzA3Uzd3bk0?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 08:41:27 GMT"
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWUlVob1lBRzFlUFY5RjBtOTctWFY1ZEpJMVlWOGRkdzJhaU1rUFFuVUFWOV9KeGstN3NmbDMzcFlzRjZIMF9YOWNZZ3I4aTZhMG9GMVhib1J5TS1mbF9nU2tCYUU2MzhVOWNaX2RTRm9zb00?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 20:01:37 GMT"
   },
   {
     "company": "코스모신소재",
@@ -10577,11 +10517,11 @@
     "sector": "이차전지·ESS",
     "source_type": "news",
     "confidence": "미확인",
-    "title": "프로 덱스, CEO·CFO에 일시 보너스 지급 결정 - 데이터투자",
-    "summary": "프로 덱스, CEO·CFO에 일시 보너스 지급 결정 데이터투자",
+    "title": "선샤인 바이오파머, 3100만 달러 규모 보통주 발행 위한 증권신고서 제출 - 데이터투자",
+    "summary": "선샤인 바이오파머, 3100만 달러 규모 보통주 발행 위한 증권신고서 제출 데이터투자",
     "press": "데이터투자",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWUlVob1lBRzFlUFY5RjBtOTctWFY1ZEpJMVlWOGRkdzJhaU1rUFFuVUFWOV9KeGstN3NmbDMzcFlzRjZIMF9YOWNZZ3I4aTZhMG9GMVhib1J5TS1mbF9nU2tCYUU2MzhVOWNaX2RTRm9zb00?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 20:01:37 GMT"
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DT3F1S2N5cVg0M3hDNVZMWDJWcm9mZ0cyNlBXNEpVUERvdnliT0NSanNHMnlfNHNybDFRdTd4bkJvaUY1MTQ1UFpveE5JbVREYllydC1mYVJiWUpzY0o2TEEzRXVPQjlENVdYNWpYcGd5Ync?oc=5",
+    "pub_date": "Fri, 28 Aug 2026 20:17:57 GMT"
   },
   {
     "company": "코스모신소재",
@@ -10824,6 +10764,18 @@
     "pub_date": "Fri, 28 Aug 2026 10:30:22 GMT"
   },
   {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "source_type": "news",
+    "confidence": "미확인",
+    "title": "섬서첨단소재 생산라인 (피엔티 제공) - 전자신문",
+    "summary": "섬서첨단소재 생산라인 (피엔티 제공) 전자신문",
+    "press": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNQVRZV2FQN21wNFgzdlRsNkhfOGk2Tkd1MWR3d1BWblNFaDNwc1dzVlJ5cDNXazhqdnhadk9pb2NsNGgtNXY1MlVFdlVzbXZEMTZOc21ORFFWR0JicGNOVGVwLXlId0VEejhDcklOb296WXJmZExraW0wdFYtVmNtcmlJYlg3V0steEl5aDdyVEM0Nk00bVhZWEVITTZpdEswUVFrLTVldEdHU2ZZanJmRXZORjlCSG1DbzBuRm85NHN5RTFxZElGdGlkeEJmYmJvd3pHMVJRcjI2ZjFYME5CQzVERWZleHpnU0hpSmJENFFEbTllVnh2c0xTSEkwcjhVempZZXpzNzNfSHhZRnQxMTNlckYzSVBLbWdFTW1BWEtibUJSdXVhUjdBMjgtUkpuOVRIMThEM2Ixc2xmOHVyZ0k3UFpOdTNyMHdYYXpCS09uNmlxM3Zsck8zd2Q0b1JoZ1RYaG9ZeEdIYjRMekdObVJfOXhQbXdzazdFWXFWanVnQVVlbS00SWc2TjhpQkMxaGpUNVVrZzVRdkRrbVFmMVJGc0l2c0t0OG5mOGh0bWhUNmVwTWRYQm5xaGhOVTVrM3BZQV9EYUd4THlJNVp2ZDUxWkhkWEZVNTNJVk5ScnhYV2h2aGg3LTN4YlhobU00WFJ6Y0s1OElmQWc5YTM1VUJkNTlQMTctaW9fSVVvMzJ0d1lfY1pJRUFQdHMzLUJHMFdxUDZWaHFYdVlqLUEzMG0tWnZ3OC1PeTVVZ1RPRHBpSlg5T0VaNGpHS0VFb2czVDBsLXNSSHJzMDFIeUwtTnNEeDlhbkpScE1mNDVxQW5rd2ZFZFg3dEJ2ckJZN1YyMjU4OWlHY3pQY2RVNmxhMmU4bkIwUQ?oc=5",
+    "pub_date": "Sat, 29 Aug 2026 21:40:55 GMT"
+  },
+  {
     "company": "원익피앤이",
     "stock_code": "217820",
     "sector": "이차전지·ESS",
@@ -10846,18 +10798,6 @@
     "press": "서울경제",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYOVlFX1BmRTZBUTZZbmNXSTFsTkxVQnVHVG1kQVI3aExXTS1hT29SNVZ3UXhOZXFWWWx6czVfNU1naDRWMGw1SHhmR0ZSWDhjWk5FUWtyUGlHdEkzdVM0Zkd3OXJUTWRqd1VFMElGbERWbkE?oc=5",
     "pub_date": "Fri, 28 Aug 2026 13:59:50 GMT"
-  },
-  {
-    "company": "새빗켐",
-    "stock_code": "107600",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "새빗켐 투자분석 2026. 08. 29 - 주달",
-    "summary": "새빗켐 투자분석 2026. 08. 29 주달",
-    "press": "주달",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xbFVXRFI5TV9ld191d24wem03cURHQjlWQnFhMWNhOTdvZXFjMjU2V2puTVJHWW91MUFxcTBCZ0ZVS2lRUW5EZ0ZkWkVfOXpIWGVrSHo1YTFnc1BkVEtyWkdQT3EyVHdYOUQ3dmZqeFlUZnM?oc=5",
-    "pub_date": "Sat, 29 Aug 2026 08:03:18 GMT"
   },
   {
     "company": "서진시스템",
@@ -10918,18 +10858,6 @@
     "press": "매일경제 마켓",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMUt4Y1hCSG53NEtqSXZKaEQ2cDVmTnE0TUZMUDktTnBTRF90blRwR0dHUW45b0hYVkpMSVJ3VElOc29MX3JIVXkxSVRnaFZpSHc?oc=5",
     "pub_date": "Fri, 28 Aug 2026 09:25:08 GMT"
-  },
-  {
-    "company": "서진시스템",
-    "stock_code": "178320",
-    "sector": "이차전지·ESS",
-    "source_type": "news",
-    "confidence": "미확인",
-    "title": "빛과전자(069540) - 씽크풀 AI",
-    "summary": "빛과전자(069540) 씽크풀 AI",
-    "press": "씽크풀 AI",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zZFpRbUtYeFpPTjhsanN0QkpEamh2dUN1WnUxRmE3Tk1mZUxOT2hodUJ1cjI5N0VUT3BHRGhDaGtvWkFrR3hEUG9ybzJhN3IyQnNvQzMxRDkzN1ZocXh0bg?oc=5",
-    "pub_date": "Fri, 28 Aug 2026 09:35:00 GMT"
   },
   {
     "company": "서진시스템",

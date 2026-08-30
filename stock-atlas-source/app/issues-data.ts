@@ -6318,9 +6318,19 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaaHVmb2NwenJyRXZpY29UOWtmX1JYYmtfa3lhNVU5UGxnbFAwZVBWcmpLeWYyWktqb1Z3TmxCNlA3NWlxREhyV1MwcFlIM1VQMTZR?oc=5",
           "pub_date": "Sun, 30 Aug 2026 07:50:00 GMT"
+        },
+        {
+          "press": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TYndoa1JVc0dzSFNwd2swN2Z5NHBkY2FVanYxV0FBTWFaTTl4THBGWm9qMUVBRHRNdWtYcTl1amphcXBhVThsbTRWaTZ3NlBEbG5QLS1kSHM?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 08:40:36 GMT"
+        },
+        {
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUdDRzVkc2c2kxdXBOZlR5azVQNjZSa18wTWdYa2ZyMG4xRnFTRkVORGo0ZHViazZpOHBkd0hmVlp0SGZuYWhYdDJ0Qmg5N2RpdzZN?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 08:41:00 GMT"
         }
       ],
-      "source_count": 30,
+      "source_count": 32,
       "first_seen": "2026-08-30",
       "last_updated": "2026-08-30",
       "stale": false
@@ -12396,24 +12406,24 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "323280-기타-2942-20260830",
+      "id": "323280-기타-2883-20260829",
       "category": "기타",
       "direction": "중립",
       "confidence": "미확인",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
-      "headline": "'유부녀 킬러' 정준원, 긴장감 이끈 '드라마틱 활약’ - 전자신문",
+      "headline": "10회 - MBC",
       "source_type": "news",
       "sources": [
         {
-          "press": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QQVNpN0E2bmtvZ1VEN3ZSdGVNSHo0akt6RzdPenlYdUV2aTR5eEpmWWJfQzhKejhVNFRqNnZGLTJUWlNIZkoybktUV28tdw?oc=5",
-          "pub_date": "Sun, 30 Aug 2026 00:22:55 GMT"
+          "press": "MBC",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnVGYnlGdW1qUzJ6c0Q2SlJ0MGhNYmlOSW9haVFHcVl2OGE5clpYbHZOcW1sQnV6UDBKS2dmTGszczhxMXFBd2I5ejd4YlFsNTdCN2NwZ01qQnhOUkdhb3Rrc04zLTg4amxtR19QS3ZkYzQ5UFhzelJ0Y0JER2UyN3l0U1ZXQzRhUkRIQjc0ald1UFJTR1V4RGozZWluRlVYQXdxUWx3?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 17:35:17 GMT"
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-08-30",
+      "first_seen": "2026-08-29",
       "last_updated": "2026-08-30",
       "stale": false
     }
@@ -14996,6 +15006,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "464080-기타-3352-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "“연구실 벗어나 물류 현장으로”…자율주행 상용화 앞당기는 ‘AME 2026’ 성료 - 비즈월드",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "비즈월드",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bblh4Q25xT2I2SmFTSlBsNURiVzV1cU11M21xNDFJMTFDa19lTXdUdjUzeHQzWE5zdFg4SnBwMnR4dVZiZkpOSnktMklCbFF6QkFwRU51dElNaVR6NnNlVUJrLUVfM3QyQXc?oc=5",
+          "pub_date": "Fri, 28 Aug 2026 16:15:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "464080-기타-872-20260828",
       "category": "기타",
       "direction": "긍정",
@@ -15010,28 +15042,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUmM1cXBsQnlDSElDUC16VDA0VDRybTRjd2VudE9FM0hyMkZseFl0bTlpRVhxY185UDhrb182dDZiX2xGT2h0eUp4ZEp1RjR5ZFJR?oc=5",
           "pub_date": "Thu, 27 Aug 2026 06:30:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "464080-기타-874-20260828",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "美 피규어 AI, 실세계 로봇 훈련 데이터 수집 플랫폼 ‘인덱스’ 출시 - 티스토리",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "티스토리",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Y0MyLV9EZmR5WEEycUNrNU9Ha3RsWFcwcXk4T2E4Z3M2TXZBYzRPclo5VjhVMzdGNVV3MHpjMFUyaElQRGhWQ1J2QQ?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 08:37:16 GMT"
         }
       ],
       "source_count": 1,
@@ -21872,6 +21882,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "137400-기타-3372-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "섬서첨단소재 생산라인 (피엔티 제공) - 전자신문",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNQVRZV2FQN21wNFgzdlRsNkhfOGk2Tkd1MWR3d1BWblNFaDNwc1dzVlJ5cDNXazhqdnhadk9pb2NsNGgtNXY1MlVFdlVzbXZEMTZOc21ORFFWR0JicGNOVGVwLXlId0VEejhDcklOb296WXJmZExraW0wdFYtVmNtcmlJYlg3V0steEl5aDdyVEM0Nk00bVhZWEVITTZpdEswUVFrLTVldEdHU2ZZanJmRXZORjlCSG1DbzBuRm85NHN5RTFxZElGdGlkeEJmYmJvd3pHMVJRcjI2ZjFYME5CQzVERWZleHpnU0hpSmJENFFEbTllVnh2c0xTSEkwcjhVempZZXpzNzNfSHhZRnQxMTNlckYzSVBLbWdFTW1BWEtibUJSdXVhUjdBMjgtUkpuOVRIMThEM2Ixc2xmOHVyZ0k3UFpOdTNyMHdYYXpCS09uNmlxM3Zsck8zd2Q0b1JoZ1RYaG9ZeEdIYjRMekdObVJfOXhQbXdzazdFWXFWanVnQVVlbS00SWc2TjhpQkMxaGpUNVVrZzVRdkRrbVFmMVJGc0l2c0t0OG5mOGh0bWhUNmVwTWRYQm5xaGhOVTVrM3BZQV9EYUd4THlJNVp2ZDUxWkhkWEZVNTNJVk5ScnhYV2h2aGg3LTN4YlhobU00WFJ6Y0s1OElmQWc5YTM1VUJkNTlQMTctaW9fSVVvMzJ0d1lfY1pJRUFQdHMzLUJHMFdxUDZWaHFYdVlqLUEzMG0tWnZ3OC1PeTVVZ1RPRHBpSlg5T0VaNGpHS0VFb2czVDBsLXNSSHJzMDFIeUwtTnNEeDlhbkpScE1mNDVxQW5rd2ZFZFg3dEJ2ckJZN1YyMjU4OWlHY3pQY2RVNmxhMmU4bkIwUQ?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 21:40:55 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "137400-기술-1522-20260828",
       "category": "기술",
       "direction": "중립",
@@ -21988,48 +22020,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 1,
       "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "137400-기술-2174-20260829",
-      "category": "기술",
-      "direction": "중립",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "피엔티, 자체 LFP 배터리 6C급 고출력 검증…KTL 시험성적서 확보 - 디지털데일리",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "디지털데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XUDByaFNvMVR5MUEzYmxTQllLUXk0c3Nkem1YWFQyZElybHVSZEo2Tmc0UU9aNGlLZmc2NlA3bmY1ZkZkbWtuSWRSYTNndUgwaGtmWTF3ZmxKODZkZWFjTkVHdlg?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 05:28:14 GMT"
-        },
-        {
-          "press": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6eFVaRTNEY1ZiSWUwdlJVQ0xaNUVncXZuLV9DSF9aakxScHVqcy1zVHpNNTJXZThNcV9ZSlJmTnRjT0lUUGtXTUtMaFQtdw?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 04:08:23 GMT"
-        },
-        {
-          "press": "더스탁(The Stock)",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwaURGQUQyRmpzQ3dhNmJfZVkzb29vNVhsZVRZcmFnVTdjN0NxbVVjMU1TM2FOM1ZMX3FzUkFYVVJtaERHNlZtYWtNbjVvZFFoeUEzaEM2V284cG1DbThDbENMUTlOdjYyckE?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 04:47:09 GMT"
-        },
-        {
-          "press": "수소신문",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwRGFfSzZvTUFMaGlPd040clhYMWpGVDYweXYxNDhCMDFPc0ViNkxvM2VRZ0RlSVpzNWFMdVRzUDYwbTVhaEwzUEtBeUl5TmRaVnhQbUFrbDdtQkszaDh4TkR3Nlc0ZjJlSTJuYVJyR1RZWkhm0gF0QVVfeXFMUHBEYV9LNm9NQUxoaU93TjRyWFgxakZUNjB5djE0OEIwMU9zRWI2TG8zZVFnRGVJWnM1YUx1VHNQNjBtNWFoTDNQS0F5SXlOZFpWeFBtQWtsN21CSzNoOHhORHc2VzRmMmVJMm5hUnJHVFlaSGY?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 02:54:55 GMT"
-        },
-        {
-          "press": "디일렉",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JbnJHZlRNS3h2NnZWTkN6dHNmU2NSYjlpU284M1NncEh6anRkZnhsQ2dXM2dKWFUwOGdXZnlGT1RYVHF1VzVmN0ozclg2QmNXbnAzRjNzQlhFdVBTM2V0bTV6Tk8xUQ?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 08:16:32 GMT"
-        }
-      ],
-      "source_count": 5,
-      "first_seen": "2026-08-29",
       "last_updated": "2026-08-29",
       "stale": false
     }
