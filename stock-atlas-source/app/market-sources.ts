@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자·하이닉스, 법인세로만 연 100조 내나",
-      "office": "서울경제",
+      "title": "금산법 '10%룰' 묶인 삼성전자 자사주 소각 [이슈분석]",
+      "office": "이데일리",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656669"
+      "url": "https://n.news.naver.com/mnews/article/018/0006360584"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -951,10 +951,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "美 캐나다 관세… 완성차는 ‘담담’, 부품업계는 ‘한숨’",
+      "title": "美, 캐나다 관세… 완성차는 ‘담담’, 부품업계는 ‘한숨’",
       "office": "국민일보",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/005/0001869756"
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/005/0001869824"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -1231,10 +1231,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "'허가는 빠르게, 약값은 낮게'…차기 FDA 수장 인선에 제약업계 '촉각...",
-      "office": "머니투데이",
-      "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406501"
+      "title": "제이인츠, 유한양행-대학연구소와 AI 신약 연구",
+      "office": "동아일보",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/020/0003744402"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000100/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "[산업X파일]K방산, 하반기 페루·칠레·필리핀 대전...수주경쟁도 관심",
+      "title": "페루·칠레·필리핀… 수주 전선 넓혀가는 K방산",
       "office": "조선일보",
-      "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995574"
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995725"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "호황 이후 미래전 대비…K-방산, AI 인력 채용 사활 [비즈360]",
-      "office": "헤럴드경제",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690120"
+      "title": "페루·칠레·필리핀… 수주 전선 넓혀가는 K방산",
+      "office": "조선일보",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995725"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "中 CXMT, 삼성·SK보다 먼저 LPDDR6 상용화…샤오미 '18 폴드'에 탑재",
-      "office": "파이낸셜뉴스",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568350"
+      "title": "中 CXMT, 매출 874% 급증… D램 공장 3곳 늘린다",
+      "office": "조선일보",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995727"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
