@@ -2236,9 +2236,29 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hNGZjTTFuLVBPMUU2cElmY3pfcUtWLW5oNkJoTzhNdVhJdnNPdmhFXzVtUk1TaXhhTDVqejNWWlF1YVZpb2prYlZzODNRTUU?oc=5",
         "pub_date": "Sun, 30 Aug 2026 01:39:05 GMT"
+      },
+      {
+        "press": "채널A",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVdIBY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
+      },
+      {
+        "press": "산경투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DTFJLZ0VHREs0UkdkZEIyTXNIQWhTeXo0d085Y3NSSjVhUTQxZ3g4b0FzS2hhVFBSLVkwSjNEZXpnNzJFaS1PVXE3di13ZWhMRlVuMzBZbFdXalRxUE44LWhCTzFSdnB3SUZfRTlCcFHSAXRBVV95cUxNazY1RUZseHVWWnlhbFlhRllZOTA5TENrNGdrX3F2UE1YcUxVLUpvZlRtbWxiUHQ5bTJaakRSSjI4Slo4Z2dBY0g5WjNyLTlRMDdoaGcxeld1VXNBYU5UNDlKa1lhaEVYOEE4TnFhU3dOQWgyLQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 02:35:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pMnVGQWRIemhLU0I4MWQ0Y3RjWF9JRHBxb2RnRmExSXBfblRGNmVUczhVSG9MaEQySGs1aE02a1E3aFZLSHB4YkZDMDNDZVE?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:28:09 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVzVRazlCelZzNTdXMWNUTVc4cU04bWNsUGlGVWNCMEZYVExEcE9ZazF4YXVqTDZVRm91ZGJoOV9PcHlaZU1qb3ZiY2hQQlk?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:25:07 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 7,
     "id": "000660-기타-2902-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
@@ -2409,10 +2429,63 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yVml5X3E2VjB1R1R1dlRfaWxoZjJKUXN2UXNUWTFZdkMtcmpFa3lON0RYcG01QURkZzhfaGxMWXU4RFZ1NDVBaUQ1QlFWVkFiY1FQMEViODg3blE3dFFBYldGb24zelU?oc=5",
         "pub_date": "Sun, 30 Aug 2026 00:55:00 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kOTVybkhSV3dzWDdjYk1fSTNsZk1HOHFzYUdYQmNzdHFDVHNJeWY5YjNKRlFUNmhmV3FiUzJEVWpRU3lhZlRfRy1kdE1aVHQ0RFA0V2k5Rm5lejRqbXBLZUg1Z3JjZ1Br?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:55:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "298040-기타-2945-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 다음 달부터 임직원 주택 대출…“25억 이하 주택 매매 시 최대 5억 대출” - KBS 뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "KBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yN3dHZjVuRGlWMEhKS1BMbFdYTjJHdk9yYTAzNGtOM2I5UkRULW9DYmhRWjE1WGsxbTRfYjI3TUNzLTA0aTNQdFItT3l4Y0JfWTNkN3o4WjA4OWc?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:45:00 GMT"
       }
     ],
     "source_count": 1,
-    "id": "298040-기타-2945-20260830",
+    "id": "005930-기타-3052-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 9월부터 사내 주택대출 접수…최대 5억·1.5% 금리 - 경기일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경기일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdGZRVnpSUEx2M1E4MkhKV3VMZjU2VW5Ndk5vejBSbTdsd0I4ZFVzZEs4WWRxelV0MVkyZ3dFQTV5eVBLb1h0OEZ2V3Q4bkxIamVGMndxOE1nU2M?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:12:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-3053-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
     "status": "일반",
