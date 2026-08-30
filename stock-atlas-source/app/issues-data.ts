@@ -2001,9 +2001,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "파이낸셜뉴스",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqb1N0c3pJNndUQnVTVFEtbHlJMmJ1eUUxMUJBaHpCaTRHcGpqNW55SnZnLWFGNjhXUnBjbTN6aFB5NzdDMUktTFF5R0lkN29RRk9lZU1xQmYyUQ?oc=5",
           "pub_date": "Sun, 30 Aug 2026 09:07:16 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15VHhWRHlrOG53R0RST0FrTkF6Q3hLeWlKX3dXVTQ3SjFRVnJLODMzaDdYQUNkdUN5Qlp6SDR0UzM5UUtPTkE?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 09:09:31 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-08-30",
       "last_updated": "2026-08-30",
       "stale": false
@@ -2412,6 +2417,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "005290-실적-3624-20260830",
+      "category": "실적",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "동진쎄미켐, 반도체가 끌고 中 매각 밀었다…상반기 순익 급증 이유 [실적why] - v.daum.net",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IazIzajJsOWI3RmlXb05POHVFNVpLTmxZOFNEVldrZTFDOUhDNDA2WFNMTlN6T0lnOVFFS21JQTFZUXI2YW5vUDRWUXhVMUE?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 21:16:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "005290-기타-145-20260827",
       "category": "기타",
       "direction": "중립",
@@ -2507,28 +2534,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Platea Magazine",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWFFjZDhOV3Z0M1c3bkR2TjdQMGwxbkZ2ZXMzTFBfTkVQcnIybnR4N1pjV3NiaDBLNzg2MEF3X2RleTVQZ1ZscDBNdGQwQU5KMDh3bmtEanIwMGpHaVpheTRKM1ludVdEZXJvdmY2YjYxSlNTbW96X25YNThxU1p2dVoxSXVhSGZ4dXViUlhNRkgydC1qaEFYMUpBWGd5cVJQZTI3WThEbng2cUZ4SWIyZ1ZkMFNFWWlXeDFr?oc=5",
           "pub_date": "Wed, 26 Aug 2026 16:29:17 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-27",
-      "last_updated": "2026-08-28",
-      "stale": false
-    },
-    {
-      "id": "005290-기타-148-20260827",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "코스닥 '약보합'...알테오젠 · 에코프로 · 에스엠은 '상승' - 초이스경제",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "초이스경제",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wX0RoaXl1SlY2WkhEdVhjSmVrR2E2dkdYZ1ZyM0pJWnlac09JZUlsZmJxSEtuNl9MMW5FSFlqbWR0T0VYQXZObzh2cFJLajlXWVlfT2diS0lBU1g5aW5JRmNYZThYMXBndWdpTGVNajVPRVnSAXNBVV95cUxOcF9EaGl5dUpWNlpIRHVYY0pla0dhNnZHWGdWcjNKSVp5WnNPSWVJbGZicUhLbjZfTDFuRUhZam1kdE9FWEF2Tm84dnBSS2o5V1lZX09nYktJQVNYOWluSUZjWGU4WDFwZ3VnaUxlTWo1T0VZ?oc=5",
-          "pub_date": "Wed, 26 Aug 2026 08:45:08 GMT"
         }
       ],
       "source_count": 1,
@@ -8303,9 +8308,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUTJQZURieWg4YlRUdHhtUTZwcW5Pc01OZHJacHJyd0JzNm5oYURUVUVvTnVXZW9zZGg4MlNVOXI2YnBxVGc0emJJQ1Y1MDVRVGJR?oc=5",
           "pub_date": "Sat, 29 Aug 2026 01:00:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oNGVYRGthMUR6bGI0SGhvNEdYeU4tSldFejk4YzZGWWVwWVU4ZEhKX1VxamhmZ0tvVjdTbjNCWG94NEdXRVhqWG9taw?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 01:01:00 GMT"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "first_seen": "2026-08-29",
       "last_updated": "2026-08-30",
       "stale": false
@@ -8606,9 +8616,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUTJQZURieWg4YlRUdHhtUTZwcW5Pc01OZHJacHJyd0JzNm5oYURUVUVvTnVXZW9zZGg4MlNVOXI2YnBxVGc0emJJQ1Y1MDVRVGJR?oc=5",
           "pub_date": "Sat, 29 Aug 2026 01:00:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oNGVYRGthMUR6bGI0SGhvNEdYeU4tSldFejk4YzZGWWVwWVU4ZEhKX1VxamhmZ0tvVjdTbjNCWG94NEdXRVhqWG9taw?oc=5",
+          "pub_date": "Sat, 29 Aug 2026 01:01:00 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-08-29",
       "last_updated": "2026-08-30",
       "stale": false
@@ -10222,6 +10237,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "011790-기타-3698-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "“매각 막히고 자금 조달 한계”… SK피아이씨글로벌, 모회사 SKC에 합병 가능성 ‘솔솔’ - 조선비즈 - Chosunbiz",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2tiX2gwRlk3RmpvUkFsRjd4OGF4UWlxcHJrdi1wdU0ySk15RGRENWdWX0xmcVZ6M2tiT0VtendmVGF3VFl4ekNjWmJ4TElLQmJzdlVnRllESlN1NVlhMXZkQ0NaX25ILWNUTjdCZGQwRjZXZDg1UjZQeDhWLWd6NnlQQzLSAZgBQVVfeXFMUHd0WDc0SzF4ODB4SWR5eTJTLTd3M3hiSEpoNXVuMGhZOHdXZklPTEliWFZ5VDAteFpmMGZiLTV2MzdKOThsZkVGanZpbGJ3Wl90WmhzOE1rak16enE3U0V5Tm5oSExqLVZEM3EzUHNJSktZeXp3TUlod2xCUkIta2FuNWNqYWo0bG5rc3hja2x1bEg4eDd0d00?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 21:00:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "011790-기타-378-20260828",
       "category": "기타",
       "direction": "중립",
@@ -10302,28 +10339,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "비즈니스포스트",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfWDdLQUlvck5qa3puajJOdXZnRnJ4YldYYkNONElLVmpMcUdOVldlLThPR2VEUjkzUEs4S0h3bS1UcVlmZ2NJcHdIbV9lREc0eFV1SzBhaGtWWGhOeGJsVnFwaTRYdllCSlRUbU12SG81TE0?oc=5",
           "pub_date": "Thu, 27 Aug 2026 06:50:50 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "011790-기타-1513-20260828",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "삼성전기, 유리기판 JV ‘글라셈’ 가등기 완료…차세대 패키징 속도 - 마이데일리",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "마이데일리",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENmE4cWdEWnJ6UFJnbHlnZEdvcDcxdFdQT1R6eUlXaHJCZTAzaWFDQXh2UFpHOUJDYmZOMFFPc0FkMlVycGdCWHYtQ2xMTGFfLWhJNi1XTzBVMGZLTWJZeQ?oc=5",
-          "pub_date": "Fri, 28 Aug 2026 01:37:21 GMT"
         }
       ],
       "source_count": 1,
@@ -12984,6 +12999,50 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "103590-기타-3630-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "2026.08.31.(월) Signal Digest \"전력망,ESS,로봇\" - 네이버 프리미엄콘텐츠",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FybWN1eU1HTmoxZ2thc2l3Z0RObGlRQTgxNkpFTXNPRmhLS3J6aUZtUmZwRlpnNWxSTDgxRzY1T1pKT05ZZ2hxOURyOW9HUzlxUzQtTXY5aFczeGtlaWUyV09leHd0eFBDUnBBYUJ5SC1rRFJzTXFaUFlHbk9qY1NR?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 20:09:03 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
+      "id": "103590-실적-3631-20260830",
+      "category": "실적",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "매출 늘어도 현금 1조 빠졌다…전선 4사 운전자금 '고심' - 네이트",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JbXJyN04wRFpWOWMwLUtUNEt1UllleXU3c25DSkgtejVSSENXdExpUkNmV0xpVllnd1hCQU9LZjNRSDhhaGZIRXp5YjhmcVJnaENr?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 21:01:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "103590-기타-631-20260828",
       "category": "기타",
       "direction": "중립",
@@ -12998,50 +13057,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "재경일보",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mVTVwWkhta1kzNVVuX196VGl4OTNVQVpkeGZUT3dMMld4VksycVlWcy04S1VLNktYUWJLb08tSXBFbVY0NVRPa1JB?oc=5",
           "pub_date": "Fri, 28 Aug 2026 02:03:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "103590-기타-634-20260828",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "반도체만 달릴 때…증권가가 주목한 '시장 소외 저평가주' - 글로벌이코노믹",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX05YVnlxQWJVaDlqOTNlaEpaUXZGTE4xdXc3YVdJZFUyOVMwZ0paWl9iT2xnQ1NReEk0azcyUEVCNUJzZ3FGaUE3VUFvaktOWl93a0djTUNWZFYyeVRrV0s4dTlqY0ZJT0xzSUJFM2ZwSVlISmM5T1hlX0lhMEtTTDVpVllJWmdn?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 06:18:20 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "103590-기타-635-20260828",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "SKS PE, ‘변압기 제조사’ 성진종합전기 550억 프리IPO 투자 [시그널] - 서울경제",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DdGF3Uk9ZemZJZXJseDJSQlE2ZFR1dG1zX0pWX1NCa1RrVUJzY0tpdmRmdG1WX0NNX1p0ZWx1bDlheW1CVGhaQk1YcGRidU9GUGlhX3VQWS1NSHJpcGVxX1pHWnI1bk9HTFE?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 05:42:49 GMT"
         }
       ],
       "source_count": 1,
@@ -15743,25 +15758,25 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "090360-기타-884-20260828",
+      "id": "090360-기타-3644-20260830",
       "category": "기타",
       "direction": "중립",
       "confidence": "미확인",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
-      "headline": "글로벌 AI 경쟁 가속화… 지능형로봇 관련주 차별화 장세 - 핀포인트뉴스",
+      "headline": "로봇 몸값 치솟자…LG전자 가치도 뛴다 - 네이트",
       "source_type": "news",
       "sources": [
         {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lM3ZoS0d4N1FUUUxuTDVIcjZIeFRYRVdkdUZQSE00RW9iSk00UmJEUVpFblE1VWVicEJsQXg2U3p0VWRNQlJjQVVDd25qanJpdWkyUGYtVnZIRXVSUlVvLUJWSVFENzRucjRNTDc3MGlmUXF1RmpB0gF3QVVfeXFMTmUzdmhLR3g3UVRRTG5MNUhyNkh4VFhFV2R1RlBITTRFb2JKTTRSYkRRWkVuUTVVZWJwQmxBeDZTenRVZE1CUmNBVUN3bmpqcml1aTJQZi1WdkhFdVJSVW8tQlZJUUQ3NG5yNE1MNzcwaWZRcXVGakE?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 06:13:47 GMT"
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NSXFMQnl2YWhnUUFpdUhLTXk0aU9zd0l3SzVOMzV4V1RzNFluYk8xRFJ2ajV0QTZINlpUZUdUeEdYNm1OU2hWYk45RXM4b0J1emFxVXFUbzBFdmVNbFFEdw?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 19:01:00 GMT"
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
       "stale": false
     }
   ],
@@ -17482,6 +17497,28 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "비츠로테크": [
     {
+      "id": "042370-기타-3652-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "2026.08.31.(월) Signal Digest \"전력망,ESS,로봇\" - 네이버 프리미엄콘텐츠",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FybWN1eU1HTmoxZ2thc2l3Z0RObGlRQTgxNkpFTXNPRmhLS3J6aUZtUmZwRlpnNWxSTDgxRzY1T1pKT05ZZ2hxOURyOW9HUzlxUzQtTXY5aFczeGtlaWUyV09leHd0eFBDUnBBYUJ5SC1rRFJzTXFaUFlHbk9qY1NR?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 20:09:03 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "042370-기타-1023-20260828",
       "category": "기타",
       "direction": "중립",
@@ -17633,28 +17670,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WR2U1MW45UFpoRU9NdTJjbEtnVTc4UjF5UWxlbG5PVzhrb2w5Qmpyc1UxaWZTS2FZZ1A1RUZIQmUydG1qalhVZTlLSGtpOFBqRDN0cVQ5bVNJWmlYamFvblJXa1VPMVZiVTNUamt5cWJucFlzVS1B0gF3QVVfeXFMTlZHZTUxbjlQWmhFT011MmNsS2dVNzhSMXlRbGVsbk9XOGtvbDlCanJzVTFpZlNLYVlnUDVFRkhCZTJ0bWpqWFVlOUtIa2k4UGpEM3RxVDltU0laaVhqYW9uUldrVU8xVmJVM1Rqa3lxYm5wWXNVLUE?oc=5",
           "pub_date": "Wed, 26 Aug 2026 07:02:15 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-28",
-      "stale": false
-    },
-    {
-      "id": "042370-기타-1028-20260828",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "HD현대일렉·산일전기 주가 환호… AI가 당긴 '전력 수퍼사이클' - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nZFFEUFVZRzItdjJjOWU1YTZYVURHRkh2Qjh5STNIMWY3TEotZzduc2JQOThHMzlYQnZsVEhPMjFjUUd2RlVpQ2tQOEM2SVR5dmt2V3hJWDludGV1TnprVFcyenJDQVlEUFNyOHFLUGJhNWvSAXdBVV95cUxPWlc0cUF2Mmt0OThlWjZwWl8tc1JoRkJtcW00V0Q1R2RUVld5RE0wRGx0UVk1amNVOTVBUnBOZTJndjlRSi16aGpKWGtWMHN6eFhVcl9UeGJ2OURQejZ5VWlCZ3E4MkRFcTg4TVRKTkxfX1hmanlrdw?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 01:43:17 GMT"
         }
       ],
       "source_count": 1,
@@ -18091,9 +18106,19 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "뉴스N연합",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjVF92eGFxRDR0MXktNUVOXzJIaTM2QzBWZFdIMGF1bnZZVklaZ25ON1lsWTloLXQzc2huZTdsNEIzUWtrcm5nUjdFc0dXZTg?oc=5",
           "pub_date": "Sun, 30 Aug 2026 08:29:17 GMT"
+        },
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yMXZfS2hqNDQwaWZxb1ZSLTNkamQtUWVyT2lSRTZwcGcxeTVmdUxhSUE1QkVDemFHMFVTaEtvV3NWRW5nRVJOcUhHUWhFQXRJVFdoc3AybUlUck5tdmFrWUtfUQ?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 21:40:16 GMT"
+        },
+        {
+          "press": "금융경제플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQmp1aHpaRW9fOUhrUG5sS0JmVDdCMlNWUTNjVFduTVBoRmpESmFsM3l5QXFESDJpRUxmQTkwcHV2UlA2b1lGb0RQR0M2czVWWGVWUDNMcDZmWFQ5UUxDRFgyN0xGZFpKOXZ6Sg?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 02:40:00 GMT"
         }
       ],
-      "source_count": 17,
+      "source_count": 19,
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-30",
       "stale": false
@@ -22636,6 +22661,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 1,
       "first_seen": "2026-08-29",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
+      "id": "217820-실적-3699-20260830",
+      "category": "실적",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "자회사에 3500억이 들어가고 위험은 모회사 장부로 갔다… 원익홀딩스 최근 4개 분기 영업이익은 16억 7000만 - 데이터투자",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "데이터투자",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40WWttNFBWRy1CcTEyYVQ4SzFqRXJCYnhsa1lqWVVJQ2hWaEZ3M0RvWFhReHEySG1JWW5GUDhNcDJCU3RnSVl5ekdUSWdmTVZ0dnEtRnN6VDhnQW1BcENDNy14QjRlYTBEZjVwQlN2SjBrOHM?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 21:30:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
       "last_updated": "2026-08-30",
       "stale": false
     },
