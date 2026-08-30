@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "금산법 '10%룰' 묶인 삼성전자 자사주 소각 [이슈분석]",
-      "office": "이데일리",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360584"
+      "title": "中 CXMT, 매출 874% 급증… D램 공장 3곳 늘린다",
+      "office": "조선일보",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995727"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
