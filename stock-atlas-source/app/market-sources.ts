@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“연 1.5%로 5억 빌려준다”… 삼성전자 직원들 100개 질문 쏟아진 이...",
-      "office": "JIBS",
+      "title": "반도체 호황에…삼성전자·SK하이닉스 상반기 법인세 11조 돌파",
+      "office": "더팩트",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/661/0000082411"
+      "url": "https://n.news.naver.com/mnews/article/629/0000528732"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2105,10 +2105,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "롯데건설·현대건설 컨소시엄, 1.4조 안양 충훈부 공공재개발 수주",
-      "office": "뉴시스",
+      "title": "롯데·현대건설, 1.4조 안양 충훈부 공공재개발 수주…3856가구 짓는다",
+      "office": "매일경제",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/003/0014156665"
+      "url": "https://n.news.naver.com/mnews/article/009/0005727604"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "반년 법인세만 11조…삼성·SK하이닉스 ‘100조’까지?",
-      "office": "SBS Biz",
+      "title": "반도체 호황에…삼성전자·SK하이닉스 상반기 법인세 11조 돌파",
+      "office": "더팩트",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530089"
+      "url": "https://n.news.naver.com/mnews/article/629/0000528732"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
