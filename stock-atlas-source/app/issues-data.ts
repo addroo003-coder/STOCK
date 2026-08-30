@@ -3979,6 +3979,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "084370-기타-3600-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "(8/24~8/28) 스윙 성과 검증 - 네이버 프리미엄콘텐츠",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3lnaDlieDVSdnEzaHNUaktuWS1FM1QwWFdnRkw4N3loZDBoNlQ1OFBMZlpyaXQtMmI0OVh2ZGVNRjY5QXh3UWFtY3VpRU1kUXVCdHNOSnBEdnJiMFk5Z3k1RTNsNGhwUnZIUGJhU3JfN3BlRFZ5TDhNYUNxN2xTaGpsTWIzTDZjU2NR?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 04:54:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "084370-기타-326-20260828",
       "category": "기타",
       "direction": "중립",
@@ -3998,33 +4020,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000910",
           "pub_date": "20260827"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-08-28",
-      "last_updated": "2026-08-29",
-      "stale": false
-    },
-    {
-      "id": "084370-기타-419-20260828",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "유진테크 제성태 전무, 소유 주식 수량 2432주 증가…소유 지분율 0.01%p 상승 - 디지털투데이",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTeHd6eHdKWlZZNGIxZFNhUFZxbUVIM25UNmxFNTFLUWtzUnJHaHJVTHQ2MllMOXl3dk83ek1fd1F1OVEzbXhFRnNHdkpOdG1QOW84eHpWZ0VKVGR1YXVXd01JR3paQThvbHU1YU9fQzB0Sjg?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 08:53:02 GMT"
-        },
-        {
-          "press": "데이터투자",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbU05N0VXLXBFYW8wbnQ4Z0JFUE55NExaZVJWUUd5NExXeGRUQnNtRHhlUkpYNnZZMGUwUlFRZGpkYzZUVlpYN2htZ21qeVV0WTRKT2JhLV9jYWtEa200eWVHSC1JdS1lSGpWSDhXa2NiMmc?oc=5",
-          "pub_date": "Thu, 27 Aug 2026 07:37:03 GMT"
         }
       ],
       "source_count": 2,
@@ -6480,9 +6475,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "비즈니스포스트",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PMkd6UUhlM3B2dm9BMDRBem5vWkVreHZHWDVLRVNWU3BIeDZwNk1id1NNUGNQeVp2X2JOLV9YR1ptd0kyNlNOZllVZXNwM2dSaVRqbm0xX1JRNzItMmVCZHNocU83MTBJS0ZXOU9RRmFoWXc?oc=5",
           "pub_date": "Sun, 30 Aug 2026 04:42:35 GMT"
+        },
+        {
+          "press": "조세금융신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WSUs4NmVKMHBIVkRCcWlDb1lDWmhxT0dPUFlRZ2VfUkFpd0hGT2EtcFhZdGNxTGRjYWROdWFUQUpNeV9wYU15SWljSFQ5VWk2S3BsaHdkejc5TWZGLTlfeE1n?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 15:50:21 GMT"
         }
       ],
-      "source_count": 40,
+      "source_count": 41,
       "first_seen": "2026-08-30",
       "last_updated": "2026-08-30",
       "stale": false
@@ -11197,6 +11197,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "330860-기타-3601-20260830",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "(8/24~8/28) 스윙 성과 검증 - 네이버 프리미엄콘텐츠",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3lnaDlieDVSdnEzaHNUaktuWS1FM1QwWFdnRkw4N3loZDBoNlQ1OFBMZlpyaXQtMmI0OVh2ZGVNRjY5QXh3UWFtY3VpRU1kUXVCdHNOSnBEdnJiMFk5Z3k1RTNsNGhwUnZIUGJhU3JfN3BlRFZ5TDhNYUNxN2xTaGpsTWIzTDZjU2NR?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 04:54:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "stale": false
+    },
+    {
       "id": "330860-기타-468-20260828",
       "category": "기타",
       "direction": "중립",
@@ -11667,9 +11689,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtWFhlcXB6d1dHcU9NTllqZEhIM09XSTBuR0tObXlWQzBtXzdtcEd0VFFJcERjOGhWM19tVVZHUWRQZlNTTTJPUnQ1SWV1WTV1SVA0bUtqWURXdUVJSnUxWEc4ZmhvSjg4dl9LV0ZGVWwwVWVCaWtN0gF3QVVfeXFMUC1YWGVxcHp3V0dxT01OWWpkSEgzT1dJMG5HS05teVZDMG1fN21wR3RUUUlwRGM4aFYzX21VVkdRZFBmU1NNMk9SdDVJZXVZNXVJUDRtS2pZRFd1RUlKdTFYRzhmaG9KODh2X0tXRkZVbDBVZUJpa00?oc=5",
           "pub_date": "Sun, 30 Aug 2026 07:55:54 GMT"
+        },
+        {
+          "press": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sQWNVQ3d0aXg3dVRHZXQyZ3JoS1FuRTRzWTEyczdJbjB6QVpiUGtqVkRQcGtQSUJ0LXZtbUd5eXQtSTRDUmxwcHB2UXdrek9JQ0liSDVnOVQ1Vl9XTGd5dEEtTDFZSTVWUk1LRFFIbXhIdXfSAXdBVV95cUxQLVhYZXFwendXR3FPTU5ZamRISDNPV0kwbkdLTm15VkMwbV83bXBHdFRRSXBEYzhoVjNfbVVWR1FkUGZTU00yT1J0NUlldVk1dUlQNG1LallEV3VFSUp1MVhHOGZob0o4OHZfS1dGRlVsMFVlQmlrTQ?oc=5",
+          "pub_date": "Sun, 30 Aug 2026 07:39:38 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-08-30",
       "last_updated": "2026-08-30",
       "stale": false

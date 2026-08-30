@@ -2786,7 +2786,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[특징주] LG에너지솔루션(373220), 북미 ESS 생산 확대…방산 진출 기대감 - 인천일보",
     "source_type": "news",
@@ -2800,9 +2800,14 @@
         "press": "인천일보",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Da09Lc2h3TnVyNjV0cVEyaXR3TmVnUERNQVlRUDlQY1pFSjFjbkRpanFmLUpybm0tZ215anpCdXZzRHRRVmRQR3hBejV6VXdzLUhobVNmZkZ3SV9YRU9EbWRHcDduTEYwY2pHX3VINVY?oc=5",
         "pub_date": "Sun, 30 Aug 2026 08:27:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdEpMcGVwNEVSMFNtSFpzd0duM1BjSFcwaGZMRHIxRnkyWFBzOTAyYldqdTMxdGxnaDZrVGo2VHdsQlQ4c1FrOUpPTVpNTkpiYW1QM20yZmdvVkhq?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 08:35:02 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "373220-기타-3303-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
