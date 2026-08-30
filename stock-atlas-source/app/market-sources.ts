@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "SK, 실적 개선에 자사주 소각까지…기업가치 재평가 기대-SK",
-      "office": "이데일리",
+      "title": "“삼성전자, 목표가 45만원 간다”…LS증권, 12.5% 상향 조정한 이유는",
+      "office": "매일경제",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360654"
+      "url": "https://n.news.naver.com/mnews/article/009/0005727867"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK, AI 활용 독립운동가들 발자취 되살려",
-      "office": "매일경제",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727679"
+      "title": "SK온, 美서 ESS 배터리 9GWh 대형 수주…계약 규모 1년 새 9배 ‘껑충’",
+      "office": "헤럴드경제",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/016/0002690327"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
