@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼성전자, 목표가 45만원 간다”…LS증권, 12.5% 상향 조정한 이유는",
-      "office": "매일경제",
+      "title": "삼성전자, HBM4 양산성 우려 완화…목표가 45만원-LS",
+      "office": "이데일리",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727867"
+      "url": "https://n.news.naver.com/mnews/article/018/0006360662"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2345,10 +2345,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "\"SK하이닉스, 목표가 330→240만원…삼성 HBM4 경쟁 심화\"-LS",
-      "office": "한국경제",
+      "title": "삼성전자, HBM4 양산성 우려 완화…목표가 45만원-LS",
+      "office": "이데일리",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326485"
+      "url": "https://n.news.naver.com/mnews/article/018/0006360662"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK온, 美서 ESS 배터리 9GWh 대형 수주…계약 규모 1년 새 9배 ‘껑충’",
-      "office": "헤럴드경제",
+      "title": "[속보]SK온, 美 네오볼타에 5년간 9GWh ESS용 배터리 공급",
+      "office": "머니투데이",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690327"
+      "url": "https://n.news.naver.com/mnews/article/008/0005406856"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
