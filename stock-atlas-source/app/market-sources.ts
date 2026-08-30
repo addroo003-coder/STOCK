@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "[DD 주간브리핑] \"6G·AIDC부터 AI 쇼핑까지\"... 국회, AI 인프라·플랫...",
-      "office": "디지털데일리",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239479"
+      "title": "“시장 6배 키운다”… 국내 재생에너지 공급망 보호 시험대",
+      "office": "국민일보",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/005/0001869853"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -317,10 +317,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=090360",
     "news": {
-      "title": "로봇 몸값 치솟는데…LG전자도 '기업가치 재평가' 기대 커진다",
+      "title": "로봇 몸값 치솟자… LG전자 가치도 뛴다",
       "office": "머니투데이",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406604"
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406807"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/090360/news"
   },
@@ -471,10 +471,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "'현금 두둑' 삼성바이오, 왜 3조 유증 택했나…계열사 투자 규모는",
-      "office": "머니투데이",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406722"
+      "title": "삼성·SK·현대차·LG, 올 하반기 'AI 인재' 쟁탈전…\"스펙 보단 잠재력...",
+      "office": "뉴스1",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/421/0009140484"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "中 CXMT, 매출 874% 급증… D램 공장 3곳 늘린다",
-      "office": "조선일보",
+      "title": "“최고점에 다 팔았다” 톱스타들도 놀란 최화정의 노련한 투자 감각",
+      "office": "세계일보",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995727"
+      "url": "https://n.news.naver.com/mnews/article/022/0004154935"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1731,10 +1731,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=214450",
     "news": {
-      "title": "매출 3兆 넘보는 에이피알, 다음 승부처는 피부과?",
-      "office": "조선비즈",
-      "date": "20260829",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189039"
+      "title": "파마리서치, 리쥬란 앞세워 글로벌 공략 속도 [서울바이오헬스대상]",
+      "office": "서울신문",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/081/0003674852"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/214450/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "급성장하는 ‘스마트카’ 주목... 미래車 산업 밸류체인 투자[이런 펀...",
-      "office": "파이낸셜뉴스",
-      "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568274"
+      "title": "AI 기반 ESS에 정밀진단-통합관제… ‘안전운영 기술’ 현장 적용",
+      "office": "동아일보",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/020/0003744412"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "中 CXMT, 매출 874% 급증… D램 공장 3곳 늘린다",
-      "office": "조선일보",
+      "title": "“최고점에 다 팔았다” 톱스타들도 놀란 최화정의 노련한 투자 감각",
+      "office": "세계일보",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995727"
+      "url": "https://n.news.naver.com/mnews/article/022/0004154935"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
