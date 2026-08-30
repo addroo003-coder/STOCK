@@ -24,7 +24,7 @@
     "source_count": 2,
     "id": "009150-기타-161-20260827",
     "first_seen": "2026-08-27",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -273,7 +273,7 @@
     "rcept_no": "20260828900369",
     "id": "107640-기타-342-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -378,7 +378,7 @@
     "source_count": 1,
     "id": "240810-기타-395-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -523,7 +523,7 @@
     "source_count": 5,
     "id": "006260-기타-668-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -576,7 +576,7 @@
     "source_count": 2,
     "id": "006260-기타-671-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -966,7 +966,7 @@
     "source_count": 2,
     "id": "451760-기타-1108-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1538,7 +1538,7 @@
     "source_count": 1,
     "id": "042700-기타-1650-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1562,7 +1562,7 @@
     "source_count": 1,
     "id": "103590-기타-1786-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1639,7 +1639,7 @@
     "source_count": 1,
     "id": "107640-기타-1841-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1663,7 +1663,7 @@
     "source_count": 1,
     "id": "277810-기타-1850-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1697,7 +1697,7 @@
     "source_count": 3,
     "id": "466100-기타-1875-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1721,7 +1721,7 @@
     "source_count": 1,
     "id": "079550-리스크-1967-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1745,7 +1745,7 @@
     "source_count": 1,
     "id": "207940-리스크-1999-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1769,7 +1769,7 @@
     "source_count": 1,
     "id": "000100-기타-2071-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1870,7 +1870,7 @@
     "source_count": 1,
     "id": "137400-수주-2258-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -1918,7 +1918,7 @@
     "source_count": 1,
     "id": "107640-기타-2520-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -2005,7 +2005,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "칠레와 '55년 동행' LS MnM…희소금속 1000톤→60만톤 확대 - 네이트",
     "source_type": "news",
@@ -2014,12 +2014,17 @@
         "press": "네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qUlgyUWZwSGJxaU9iQmZEcFd1Q2NpTGlfdjA4Z3FrMlBsYnkyQl9wSzhINkV6STFCdzIwZGFTZEV5MGdtZmQycHJXNlBRYU9iclAw?oc=5",
         "pub_date": "Sat, 29 Aug 2026 23:01:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUOWtzREY5eUxjMXhBQjBmaU1ydHZqNnd4SVJDWlhJRXRHaHpIRkxXY0dTU1JQM3FiY3U0RkMtNV9oZDQ5M25pZXdSbnNNdkJaNzcybjJjOUVuaHJGemQzWWphX2M4RVRGMzVfc1NNY0p6QdIBckFVX3lxTFBUOWtzREY5eUxjMXhBQjBmaU1ydHZqNnd4SVJDWlhJRXRHaHpIRkxXY0dTU1JQM3FiY3U0RkMtNV9oZDQ5M25pZXdSbnNNdkJaNzcybjJjOUVuaHJGemQzWWphX2M4RVRGMzVfc1NNY0p6QQ?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 23:00:01 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-기타-2809-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   },
@@ -2043,7 +2048,373 @@
     "source_count": 1,
     "id": "466100-기타-2826-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 상반기 법인세 11.2조…반기 역대 2위 - intn.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "intn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYkZRZHVjLXZQbnhibTM4Njd5RjhXSDZLVmVud3JwYmtvaTZuTXkxY0ZqVk0xR2FYNXAtYnNhOG93YVZlZW9nVG9Nb2FIXzJwYVB2UXY4X1ktTDJST3FTNU9XUFpoLVJmR0E?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 02:07:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-2894-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 상반기 법인세 11조…역대 두 번째 - 채널A",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "채널A",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44QUxqd3VMeklhSWdZa2l4eXI3MGtuV1JEaGhzcFZRVUd5cll4c0EzTGgwVHotdW90aU5ZaVhkYkhnRzVxdVIzbHJ6Z0l6VG53RjFFWFZpOU5Ib1lBOUHSAWNBVV95cUxNMjVuM1ExMlBpUi1YN291OUx5VU8zSUhkcUt6Wm9rbE9oT1RkRkM0eWo2eFI5aHZ3TVJPaHZSLU5MMlptcXFlQm5Jb1ZZRU5ZX1JocHktN3lERThkOUxtMjBrQ1U?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
+      },
+      {
+        "press": "진일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BZDg3QWxwTjRNSVdsWmdEaGJXeGhtalNEckI0VENJM1FLdFdQRXRRT19QMEMwY3MyTUN2R1Ryc0xac1R5OWFJVTRhT01VN09LVjV2THdTWTBzbXJTSkktQ09qcjFlR1lYWkxXSXNSbw?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 23:54:22 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hNGZjTTFuLVBPMUU2cElmY3pfcUtWLW5oNkJoTzhNdVhJdnNPdmhFXzVtUk1TaXhhTDVqejNWWlF1YVZpb2prYlZzODNRTUU?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:39:05 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pMnVGQWRIemhLU0I4MWQ0Y3RjWF9JRHBxb2RnRmExSXBfblRGNmVUczhVSG9MaEQySGs1aE02a1E3aFZLSHB4YkZDMDNDZVE?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:28:09 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "005930-기타-2896-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 상반기 법인세 11조2000억…역대 최고 수순 - 서울경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52c1VmeHhHNHJDRy0zbXEzaTItcHVKSzRvUDQ2OE56MXJTTkxlSTZqWmtjbkpXeEpSeUVOSnpaU2liUkJwT2lpTTk2ZnN2RUdtaURJd040SUhpa2RISkdDeEhxZms?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:00:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-2897-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "연1.5%·최대 5억에 사내 FAQ ‘폭발’…삼성전자 주택대출 기준 살펴보니 - 조세일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "조세일보",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VVm5QSl9lLUlRN1Y4Vy1IYUdrZWVlUzdEOE1kSFdyMENsaUw4d3Ytbnl6dVlRemVzNWFXNHotVHBWU1gzX1N0b3V5MGhKS0hHWWZqYW81UldqU3k5cXZj?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:14:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-2898-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 9월부터 임직원에 ‘최대 5억’ 주택대출 지원 - 천지일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "천지일보",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVTRYeUNGNGZsMEFMcmtFdjZOQ3ZBd1RHNmczLUFrTFVFZzFMZGpkZnA4U3pYelpEUzRRYWptZG9pMDhhczNzWFFQSTlQRHNNM1NnektHbTJPVHcxakRkU1NPY01pVFFpQ3c?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:28:48 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-2899-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 상반기 법인세 11.2조 ‘역대급’⋯올 실적 적용시 100조 갈수도 - 브릿지경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "브릿지경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OSkhCZUxEamRGdXN1WFNnMEFQcGw1WjhIakZDc2F2NEQxRnU5ODI5bHo3akEwdkg3Y0pjSy1meGc3VjFTX1JuQ1FtS2R2Vlg3czN2bWJnQTU5QQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-2901-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 상반기 법인세 11조…역대 두 번째 - 채널A",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "채널A",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44QUxqd3VMeklhSWdZa2l4eXI3MGtuV1JEaGhzcFZRVUd5cll4c0EzTGgwVHotdW90aU5ZaVhkYkhnRzVxdVIzbHJ6Z0l6VG53RjFFWFZpOU5Ib1lBOUHSAWNBVV95cUxNMjVuM1ExMlBpUi1YN291OUx5VU8zSUhkcUt6Wm9rbE9oT1RkRkM0eWo2eFI5aHZ3TVJPaHZSLU5MMlptcXFlQm5Jb1ZZRU5ZX1JocHktN3lERThkOUxtMjBrQ1U?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
+      },
+      {
+        "press": "진일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BZDg3QWxwTjRNSVdsWmdEaGJXeGhtalNEckI0VENJM1FLdFdQRXRRT19QMEMwY3MyTUN2R1Ryc0xac1R5OWFJVTRhT01VN09LVjV2THdTWTBzbXJTSkktQ09qcjFlR1lYWkxXSXNSbw?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 23:54:22 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hNGZjTTFuLVBPMUU2cElmY3pfcUtWLW5oNkJoTzhNdVhJdnNPdmhFXzVtUk1TaXhhTDVqejNWWlF1YVZpb2prYlZzODNRTUU?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:39:05 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "000660-기타-2902-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 상반기 법인세 11.2조…반기 역대 2위 - intn.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "intn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYkZRZHVjLXZQbnhibTM4Njd5RjhXSDZLVmVud3JwYmtvaTZuTXkxY0ZqVk0xR2FYNXAtYnNhOG93YVZlZW9nVG9Nb2FIXzJwYVB2UXY4X1ktTDJST3FTNU9XUFpoLVJmR0E?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 02:07:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-2903-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[속보] 삼전·하닉 반기 법인세 역대 2위 기록… SK하이닉스는 반기 기준 최대 - 이코노미스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이코노미스트",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TSUxJa1FXcnJaeVBqS3o2N2MwSkVNYklCUGQ5SG81VVhXMXRVZmpXeFFVamI2Ynh3VkVyVkxpYXhIQnJ2NE1tTUQ4LVdiTm03b014TS1hWC1EWHdpYjc2TG5B?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:23:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-2905-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 상반기 법인세 11조2000억…역대 최고 수순 - 서울경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52c1VmeHhHNHJDRy0zbXEzaTItcHVKSzRvUDQ2OE56MXJTTkxlSTZqWmtjbkpXeEpSeUVOSnpaU2liUkJwT2lpTTk2ZnN2RUdtaURJd040SUhpa2RISkdDeEhxZms?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:00:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-2907-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[속보] 삼성전자·SK하이닉스 상반기 법인세 11조원 돌파…역대 두번째 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pMnVGQWRIemhLU0I4MWQ0Y3RjWF9JRHBxb2RnRmExSXBfblRGNmVUczhVSG9MaEQySGs1aE02a1E3aFZLSHB4YkZDMDNDZVE?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:28:09 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVzVRazlCelZzNTdXMWNUTVc4cU04bWNsUGlGVWNCMEZYVExEcE9ZazF4YXVqTDZVRm91ZGJoOV9PcHlaZU1qb3ZiY2hQQlk?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:25:07 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000660-기타-2908-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 상반기 법인세 11.2조 ‘역대급’⋯올 실적 적용시 100조 갈수도 - 브릿지경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "브릿지경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OSkhCZUxEamRGdXN1WFNnMEFQcGw1WjhIakZDc2F2NEQxRnU5ODI5bHo3akEwdkg3Y0pjSy1meGc3VjFTX1JuQ1FtS2R2Vlg3czN2bWJnQTU5QQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-2910-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 법인세 11조…역대급 세수 기대 - 파이낸셜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cb2hNQUprclhYMEVodWktYXN6dnNQXzBnazFhUWN6d0loT3FQTkVwM3RkTkR3QjdvRXR6Q0N0dHQ4VlJyT1JzckhUMWhpVlBCU2NUeTE4eFZlZw?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:49:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-2916-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "효성중공업",
+    "stock_code": "298040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "효성중공업 미국 송전 기반 넓힌다 AI 데이터센터 고객까지 확대 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yVml5X3E2VjB1R1R1dlRfaWxoZjJKUXN2UXNUWTFZdkMtcmpFa3lON0RYcG01QURkZzhfaGxMWXU4RFZ1NDVBaUQ1QlFWVkFiY1FQMEViODg3blE3dFFBYldGb24zelU?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:55:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "298040-기타-2945-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
     "status": "일반",
     "stale": false
   }

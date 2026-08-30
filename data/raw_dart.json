@@ -52,32 +52,6 @@
     "is_correction": false
   },
   {
-    "company": "유진테크",
-    "stock_code": "084370",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260827000918",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000918",
-    "is_correction": false
-  },
-  {
-    "company": "유진테크",
-    "stock_code": "084370",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260827000910",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000910",
-    "is_correction": false
-  },
-  {
     "company": "한미반도체",
     "stock_code": "042700",
     "sector": "AI 반도체",
@@ -88,45 +62,6 @@
     "rcept_no": "20260828800101",
     "rcept_dt": "20260828",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828800101",
-    "is_correction": false
-  },
-  {
-    "company": "하나마이크론",
-    "stock_code": "067310",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260827000981",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000981",
-    "is_correction": false
-  },
-  {
-    "company": "하나마이크론",
-    "stock_code": "067310",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260827000970",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000970",
-    "is_correction": false
-  },
-  {
-    "company": "ISC",
-    "stock_code": "095340",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000586",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000586",
     "is_correction": false
   },
   {
@@ -182,32 +117,6 @@
     "is_correction": false
   },
   {
-    "company": "HD현대일렉트릭",
-    "stock_code": "267260",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000882",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000882",
-    "is_correction": false
-  },
-  {
-    "company": "HD현대일렉트릭",
-    "stock_code": "267260",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20260827800365",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827800365",
-    "is_correction": true
-  },
-  {
     "company": "효성중공업",
     "stock_code": "298040",
     "sector": "전기·전력",
@@ -218,58 +127,6 @@
     "rcept_no": "20260828001580",
     "rcept_dt": "20260828",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001580",
-    "is_correction": false
-  },
-  {
-    "company": "효성중공업",
-    "stock_code": "298040",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20260827800426",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827800426",
-    "is_correction": false
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "약관에의한금융거래시계열금융회사의거래상대방의공시",
-    "rcept_no": "20260827000785",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000785",
-    "is_correction": false
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "특수관계인에대한출자",
-    "rcept_no": "20260827000765",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000765",
-    "is_correction": false
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000474",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000474",
     "is_correction": false
   },
   {
@@ -455,32 +312,6 @@
     "is_correction": false
   },
   {
-    "company": "현대건설",
-    "stock_code": "000720",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260827000488",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000488",
-    "is_correction": false
-  },
-  {
-    "company": "오르비텍",
-    "stock_code": "046120",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
-    "rcept_no": "20260827000953",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000953",
-    "is_correction": true
-  },
-  {
     "company": "한화에어로스페이스",
     "stock_code": "012450",
     "sector": "우주항공",
@@ -569,19 +400,6 @@
     "rcept_no": "20260828000529",
     "rcept_dt": "20260828",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828000529",
-    "is_correction": false
-  },
-  {
-    "company": "아스트",
-    "stock_code": "067390",
-    "sector": "우주항공",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주권매매거래정지해제              (액면병합 주권 변경상장)",
-    "rcept_no": "20260827900358",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827900358",
     "is_correction": false
   },
   {
@@ -702,19 +520,6 @@
     "is_correction": false
   },
   {
-    "company": "SK바이오팜",
-    "stock_code": "326030",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000583",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000583",
-    "is_correction": false
-  },
-  {
     "company": "HK이노엔",
     "stock_code": "195940",
     "sector": "바이오",
@@ -780,32 +585,6 @@
     "is_correction": false
   },
   {
-    "company": "SK이노베이션",
-    "stock_code": "096770",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000916",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000916",
-    "is_correction": false
-  },
-  {
-    "company": "포스코퓨처엠",
-    "stock_code": "003670",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000199",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000199",
-    "is_correction": false
-  },
-  {
     "company": "에코프로비엠",
     "stock_code": "247540",
     "sector": "이차전지·ESS",
@@ -816,45 +595,6 @@
     "rcept_no": "20260828001028",
     "rcept_dt": "20260828",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001028",
-    "is_correction": false
-  },
-  {
-    "company": "엔켐",
-    "stock_code": "348370",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "사채권자집회결의              ",
-    "rcept_no": "20260827700184",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827700184",
-    "is_correction": false
-  },
-  {
-    "company": "SKC",
-    "stock_code": "011790",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-    "rcept_no": "20260827000835",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000835",
-    "is_correction": false
-  },
-  {
-    "company": "SKC",
-    "stock_code": "011790",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260827000791",
-    "rcept_dt": "20260827",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827000791",
     "is_correction": false
   },
   {
