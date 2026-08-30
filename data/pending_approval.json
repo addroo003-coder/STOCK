@@ -1870,9 +1870,14 @@
         "press": "전자신문",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uWWhoMEllZUZyVUJpcXFFVHoteTZONVoybDYxMEo4M3kyVDdYMWUwOW1yQUFxZnFzbmhPelhPcnByN1FoeTNEakg0ZklSQQ?oc=5",
         "pub_date": "Sat, 29 Aug 2026 03:00:00 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IRmtEQ25NaC1xRVhIOU4tT1o2WTNCQzBpUHg1a0duMVA1SXFHdHVkQzZNbWdkcmNhYXRGaE81eVVicmo4c3hKOG5ZZldWcEc5MUIw?oc=5",
+        "pub_date": "Sat, 29 Aug 2026 03:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "137400-수주-2258-20260829",
     "first_seen": "2026-08-29",
     "last_updated": "2026-08-30",
@@ -2321,9 +2326,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRGM2YXVHSWR5dFRCT0VNd3VvZXhqSzlBdFhyd01jQXRkSVlTdkx3STc2NGFQaVBWVG5aNnQyT0k2V2wtbzRuNnB0dGRSU0xPNzhoMUI5VGNBRWpZ?oc=5",
         "pub_date": "Sun, 30 Aug 2026 01:27:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zaU5NRWNYLW00djAtVmVSanZTRGlMaUtRZkJ0eTB0Rlk4cjhTcUJEdlh4M2FrcU9EQ0c2cHdyM0ZYU2NnaVNkalRsZTFWZFE?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 08:13:54 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 12,
     "id": "000660-기타-2902-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
