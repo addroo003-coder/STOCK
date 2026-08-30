@@ -2082,9 +2082,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92NXNvUkhiNUJXSnZWRG1sWVhUOW02VnZrOWRiNmZ4elVHMENVLUJsSUZsMTljLWE3b0ZtV3lVSzcwXzdUcEwtQ2h4VVh1TjQ?oc=5",
         "pub_date": "Sun, 30 Aug 2026 08:15:27 GMT"
+      },
+      {
+        "press": "인천일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fRTVvcG9raGItTWxNSnM5dmo2ZHNtYVp3X2dROTM5Q25Ga1oydEIwNTNfenFMeUxnWlhGN1Y5aTI2MUdHTGUxV0xWMElfdnc4SkUyYWM2SUNBNXNCWDItUkZfX1kwcDRHcDFQZVhPaUc?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 10:09:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "005930-기타-2894-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
@@ -2213,9 +2218,14 @@
         "press": "채널A",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5YkE3bVNIdU1yMW14Wkx3N21PUWVnNzluWURIMi1fSTdJQUl6YVU2R1hucjQ3aVlROGstb0hLaXR6RW9oY2pVX3hSVmxnY2dNbklUZnUtcy1qM25menfSAWNBVV95cUxOUVJPTG80cEx0NlkyUTl6RHNYVENlZjNWdUFxbVhyWmFfdl9LRE5Xbm5SQjJtd1ZNRHF4RDdzY0tiLVA2NXhRdFJsZlQwLXJ0ZXlnX3htYm1rNy1XaWRZVllTMWs?oc=5",
         "pub_date": "Sun, 30 Aug 2026 08:27:00 GMT"
+      },
+      {
+        "press": "경향신문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNThOTlpVdTVsWXBEYWM2U3JOZkxRbXN3LV81a2VEN2MzOEptQ0VfTmNaUzhBVXBBVkNMODJTQ1FvN0tFSEhyM3RXN1FROS1BTFBaM0xidHB2d9IBX0FVX3lxTFA5bjVIRU5heDVBclAybFhwY1I2N0ZvbTJlNGtOdHJLSjROUkZJdmZEcWtXdVJWb0hBRm0yaTdIUm1iU1FSazBQSWpQZjQwREM5cld1cVRlRDVoX09NTGpF?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 11:23:00 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "005930-기타-2899-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
@@ -2291,9 +2301,29 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVzVRazlCelZzNTdXMWNUTVc4cU04bWNsUGlGVWNCMEZYVExEcE9ZazF4YXVqTDZVRm91ZGJoOV9PcHlaZU1qb3ZiY2hQQlk?oc=5",
         "pub_date": "Sun, 30 Aug 2026 01:25:07 GMT"
+      },
+      {
+        "press": "천지일보",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZWM4SGtHV05TbXpFUWRuaGxSeDA2ZC1qcDA4ZlNBY1l0cEZocWNRdFA5UWI3czFjR3NhQmV3X09uTm1WVnVYRElxTDBDamZwaXp6NEF4RmxLQWw1bmhfdWhrcEQ1OWhJSXc?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 06:04:05 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNaDZsWWdtb1FCVWRWMlZBMFdnOGJMX1VxcG53RnNiTWZvYjd5UXEzQWx3Xy1mNW5kUzgxVGdMeGRCdC1yM3c?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 08:13:54 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4N3daZlRrN1VCMTMyUER2djNsNkdlZlV0d0VqcFB3b2VxSE1JWDVDdUVDR0Z4SXJlQjZrVWtQbHFscXZzcjU5YnNxTnBiczQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 03:19:50 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRGM2YXVHSWR5dFRCT0VNd3VvZXhqSzlBdFhyd01jQXRkSVlTdkx3STc2NGFQaVBWVG5aNnQyT0k2V2wtbzRuNnB0dGRSU0xPNzhoMUI5VGNBRWpZ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 01:27:00 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 11,
     "id": "000660-기타-2902-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
@@ -2350,9 +2380,14 @@
         "press": "채널A",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVdIBY0FVX3lxTE0yNW4zUTEyUGlSLVg3b3U5THlVTzNJSGRxS3pab2tsT2hPVGRGQzR5ajZ4UjlodndNUk9odlItTkwyWm1xcWVCbklvVllFTllfUmhweS03eURFOGQ5TG0yMGtDVQ?oc=5",
         "pub_date": "Sun, 30 Aug 2026 01:16:00 GMT"
+      },
+      {
+        "press": "인천일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fRTVvcG9raGItTWxNSnM5dmo2ZHNtYVp3X2dROTM5Q25Ga1oydEIwNTNfenFMeUxnWlhGN1Y5aTI2MUdHTGUxV0xWMElfdnc4SkUyYWM2SUNBNXNCWDItUkZfX1kwcDRHcDFQZVhPaUc?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 10:09:00 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 9,
     "id": "000660-기타-2903-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
@@ -2563,7 +2598,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성전자, 9월부터 사내 주택대출 접수…최대 5억·1.5% 금리 - 경기일보",
     "source_type": "news",
@@ -2572,9 +2607,14 @@
         "press": "경기일보",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdGZRVnpSUEx2M1E4MkhKV3VMZjU2VW5Ndk5vejBSbTdsd0I4ZFVzZEs4WWRxelV0MVkyZ3dFQTV5eVBLb1h0OEZ2V3Q4bkxIamVGMndxOE1nU2M?oc=5",
         "pub_date": "Sun, 30 Aug 2026 01:12:12 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoZkFndk9mRlhuRWs3TTBReHBuUGl0WG5VbVNqV2pDV2VsV0d2T0hNVkFfLXNRRzR0V0V3dzN3NDdtWTJrQkF6U1YwNUNXcEVhZ2tYb3dYN3pXZTY1?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 06:09:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "005930-기타-3053-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
@@ -2740,10 +2780,135 @@
         "press": "인천일보",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoc0l4SlFvbHlORmFpWTBNcEJ1Wm9qc2g0NEFqSk5KX19FcUhPN29zWWV1cV94WEZCX05ndC1FVUdpLXVHX2FNUGRNczh0dWlxTTVCV2YzbTJKMHNlcWtKZVRsc29tNWp3TjRCQ2lLZw?oc=5",
         "pub_date": "Sun, 30 Aug 2026 08:27:00 GMT"
+      },
+      {
+        "press": "인천일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Da09Lc2h3TnVyNjV0cVEyaXR3TmVnUERNQVlRUDlQY1pFSjFjbkRpanFmLUpybm0tZ215anpCdXZzRHRRVmRQR3hBejV6VXdzLUhobVNmZkZ3SV9YRU9EbWRHcDduTEYwY2pHX3VINVY?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 08:27:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "373220-기타-3303-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자-SK하이닉스, 주주환원 이어 법인세도 역대 최대 규모 '임박' - 파이낸셜포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb0lCNEhZVU84UldFWkpSc1VIM2N6LTZYcHhfckUyUHE2cUduYlBpRTFLNllnZDVzdE1kUGQtWHJwbVloeXNRTlV4M1ZsVmdDNmdnek1nVDJsM0dBZTRMdW43Wlc2empuYjFQVU94emJMX1VN?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 10:10:34 GMT"
       }
     ],
     "source_count": 1,
-    "id": "373220-기타-3303-20260830",
+    "id": "005930-기타-3376-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 9월부터 무주택 직원에 최대 5억 대출…연 금리 1.5%·DSR 미적용 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEdKcFdGaHZXZS1leHBrd0Q4NXM5bEpnTjdsYTBFdnZoenJ6LVEydGpDMTNVZUQ2VUlYYWVoNE1WdFpJMzk0MDRvOHB4c0pOV1dPWmpKcWtDTWVGYXFtWFNxRXRyYXJmTzZkWmVJSUVfZ0tzVV83TzlQRnpoS3EzWUR30gGWAUFVX3lxTFA4dmRXa1oyYXVhR3duN3RJRVQ4ampsVUZlVy1jT2I4SFE2eENTOGw2ODlacDJIS0pNQW9PdmotZzVOVmpjbHppZk5XdVhMTWtPWnk3WjRjSG1hV0lCbHlzV0MtaTdUYnZMdHpMR3M1TjFYZEtWTXJlRnhiVGN4bUNpQW54QW95dVJRdi13eDVhTFpoZHN3dw?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 05:35:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-3380-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자-SK하이닉스, 주주환원 이어 법인세도 역대 최대 규모 '임박' - 파이낸셜포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb0lCNEhZVU84UldFWkpSc1VIM2N6LTZYcHhfckUyUHE2cUduYlBpRTFLNllnZDVzdE1kUGQtWHJwbVloeXNRTlV4M1ZsVmdDNmdnek1nVDJsM0dBZTRMdW43Wlc2empuYjFQVU94emJMX1VN?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 10:10:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-3385-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "주성엔지니어링",
+    "stock_code": "036930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "주성엔지니어링, 선단 D램 투자 확대와 공정 미세화 수혜 가능성 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xMERGQVlDQ21XMUlxSjVNb2RqMU5fSU1kM1FORlNnb1JDN1U3aUloMjVBU0Y4RE83TXI1WFNfTE00YzNmRDNteUVJV3g4aTRLSmg3RTlHZUNUYWZDVm51aU1KNzl1Rk1f?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 10:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "036930-기타-3392-20260830",
+    "first_seen": "2026-08-30",
+    "last_updated": "2026-08-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 최대주주 셀트리온홀딩스 측 보유 비율 0.01%p 하락 - 코메디닷컴",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "코메디닷컴",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzYVhTUktETFZfdF8yOUdEMnNlcFZXLUFLSTlWdU5aQ1ZlUzFPWlVlVGtZNGFRTUo2WVBGdXg5bGplQQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 00:09:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-3460-20260830",
     "first_seen": "2026-08-30",
     "last_updated": "2026-08-30",
     "status": "일반",
