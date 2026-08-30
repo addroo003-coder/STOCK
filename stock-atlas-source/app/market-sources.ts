@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "반도체 호황에…삼성전자·SK하이닉스 상반기 법인세 11조 돌파",
-      "office": "더팩트",
+      "title": "삼성전자·SK하이닉스 법인세 상반기만 11조…연간 100조 내나",
+      "office": "파이낸셜뉴스",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/629/0000528732"
+      "url": "https://n.news.naver.com/mnews/article/014/0005568157"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "반도체 호황에…삼성전자·SK하이닉스 상반기 법인세 11조 돌파",
-      "office": "더팩트",
+      "title": "삼성전자·SK하이닉스 법인세 상반기만 11조…연간 100조 내나",
+      "office": "파이낸셜뉴스",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/629/0000528732"
+      "url": "https://n.news.naver.com/mnews/article/014/0005568157"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
