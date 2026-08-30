@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "중국 CXMT, 차세대 모바일D램 양산 돌입...샤오미 폰에 탑재",
-      "office": "한국일보",
+      "title": "中 CXMT, 삼성·SK보다 먼저 LPDDR6 상용화…샤오미 '18 폴드'에 탑재",
+      "office": "파이낸셜뉴스",
       "date": "20260830",
-      "url": "https://n.news.naver.com/mnews/article/469/0000951033"
+      "url": "https://n.news.naver.com/mnews/article/014/0005568350"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
