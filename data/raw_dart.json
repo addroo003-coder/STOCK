@@ -26,6 +26,32 @@
     "is_correction": false
   },
   {
+    "company": "테크윙",
+    "stock_code": "089030",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[첨부정정]유형자산처분결정(자율공시)              ",
+    "rcept_no": "20260831900368",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831900368",
+    "is_correction": true
+  },
+  {
+    "company": "두산테스나",
+    "stock_code": "131970",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+    "rcept_no": "20260831000898",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000898",
+    "is_correction": false
+  },
+  {
     "company": "동진쎄미켐",
     "stock_code": "005290",
     "sector": "AI 반도체",
@@ -36,6 +62,19 @@
     "rcept_no": "20260831000339",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000339",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+    "rcept_no": "20260831000803",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000803",
     "is_correction": false
   },
   {
@@ -88,6 +127,32 @@
     "rcept_no": "20260831000233",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000233",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260831800269",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831800269",
+    "is_correction": true
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+    "rcept_no": "20260831001183",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001183",
     "is_correction": false
   },
   {
@@ -156,6 +221,32 @@
     "is_correction": false
   },
   {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+    "rcept_no": "20260831000925",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000925",
+    "is_correction": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "최대주주등소유주식변동신고서              ",
+    "rcept_no": "20260831800329",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831800329",
+    "is_correction": false
+  },
+  {
     "company": "SK바이오팜",
     "stock_code": "326030",
     "sector": "바이오",
@@ -192,6 +283,32 @@
     "rcept_no": "20260831000478",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000478",
+    "is_correction": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "전환가액의조정              (제17회차)",
+    "rcept_no": "20260831900218",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831900218",
+    "is_correction": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "전환가액의조정              (제16회차)",
+    "rcept_no": "20260831900215",
+    "rcept_dt": "20260831",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831900215",
     "is_correction": false
   }
 ]
