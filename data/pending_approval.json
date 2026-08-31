@@ -4838,5 +4838,231 @@
     "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "400단 낸드 쌓은 삼성전자 “칩 사이즈 극한 축소 위해 ‘풀 캡핑’ 설계 달성” [비즈360] - 헤럴드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hb2J4VFItd25XVmh4ejZYMnNiZGVRMnN1OTFTdGVQYUJCa3VRSGFobU5XVWVvZ2ZTOExpNE40TmtrYUcxZ0hWeGtWd2JQNGdIZGlwRTZ3?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 21:55:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-5086-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"삼성전자, HBM4 수율 개선…목표주가 45만원으로 상향\"[클릭e종목] - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeG9nRkRFeUxEYmVibWRTbFcycWJWWDYyMmV4X1RhSko1MHFXMm9TVlRERGg3clNuRXJ2T3NkUk5FcmRSMFUzdThrVXhTOF84ODVUOE1VdFJaeEdLREkxSVB3?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 22:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기술-5087-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반도체 호황 타고 하나마이크론 영업익 5배 폭증...LB세미콘·두산테스나는 흑자전환 - 소비자가 만드는 신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "소비자가 만드는 신문",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3c0NXQ2R0QnVWRnZMR2NaVXNlYWFlTFg5ZEJSSzNzX2xqelg3bm1kV3lOM0ZNRUlOZ1VoeGdlQ3U0NGhsQlZhXzRtMm9XRUJMcHFaYUM3U21lNnBqRWI3WjlSUk4tX092RUdxVUVwT1JxeEE?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 21:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-5098-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반도체 호황 타고 하나마이크론 영업익 5배 폭증...LB세미콘·두산테스나는 흑자전환 - 소비자가 만드는 신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "소비자가 만드는 신문",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3c0NXQ2R0QnVWRnZMR2NaVXNlYWFlTFg5ZEJSSzNzX2xqelg3bm1kV3lOM0ZNRUlOZ1VoeGdlQ3U0NGhsQlZhXzRtMm9XRUJMcHFaYUM3U21lNnBqRWI3WjlSUk4tX092RUdxVUVwT1JxeEE?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 21:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067310-기타-5100-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산테스나",
+    "stock_code": "131970",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반도체 호황 타고 하나마이크론 영업익 5배 폭증...LB세미콘·두산테스나는 흑자전환 - 소비자가 만드는 신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "소비자가 만드는 신문",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3c0NXQ2R0QnVWRnZMR2NaVXNlYWFlTFg5ZEJSSzNzX2xqelg3bm1kV3lOM0ZNRUlOZ1VoeGdlQ3U0NGhsQlZhXzRtMm9XRUJMcHFaYUM3U21lNnBqRWI3WjlSUk4tX092RUdxVUVwT1JxeEE?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 21:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "131970-기타-5101-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "동진쎄미켐",
+    "stock_code": "005290",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "동진쎄미켐, 100억원 자사주 신탁 한 달 만에 해지 - tokenpost.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "tokenpost.kr",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1STk5QWTBaVGxaSHRxUk94MW1Gc3Z1Q29LOWZza2VZa1I3bDhrRzd3aHlyWHpHZWwzY3REUDN2ZFRaR19ZazE3a29OcGIxc21xeWhsWVE3RHh6YjjSAVtBVV95cUxNUk5OUFkwWlRsWkh0cVJPeDFtRnN2dUNvSzlmc2tlWWtSN2w4a0c3d2h5clh6R2VsM2N0RFAzdmRUWkdfWWsxN2tvTnBiMXNtcXlobFlRN0R4emI4?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 03:20:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005290-자본-5104-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"삼성전기, MLCC 판가 최대 30% 인상…목표가↑\"-DB - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xMEdsMkh6bWxHUkRDaGExdW5nWk03SGZpV09HeEZ6VWxvbkhraXNxSS1hZGM4UkpiUTBaR1RIVE1tbnhmSzg0UnQ4akFKY01Wd3Jn?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 22:30:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jU1ZkeEpLYWNYU3FMdWJZRUhxNUdSYlJEOWlLdFJGY3BNYVJNYVY0RFlDM3lKM3J3NXZoVVBwQjdGZVlHWXdkQklLejFBVTUzQ1l4RzZ5bURnUmFWWUF4SA?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 22:57:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zYXB1S21iNjg0a0syZ0JjLTZzWV93NktQQVZnWnF0d3RmZ0FKMGctX3F1RF80U1A0V0RncU5aLThDMU5pWWVZV2VlZnRZOHhYSWhV?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 22:39:00 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "009150-기타-5110-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "30년 만에 새 본태성혈소판증 치료제…FDA, ‘베스레미’ 승인 - healthcaren.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "healthcaren.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6S2VDdHJCLWJkZDZFM2FGNUt0LVF5SXhJOVVtWmx5bjdCTEhZQXhxOE5PcVpVbTJrRlZCN2htOXIwM0lsRGthVS1pRmJBM3pDeEZPZHdQbUdpTzIzLTlDNGMyWkxVLUN4bGhUdVZSVDF3VjN4?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 22:13:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "323280-바이오-5119-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "자본",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[삼성바이오로직스 유상증자] 적자낸 폴리펩타이드 2.7조에 사고…청구서는 주주에게 - 딜사이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "딜사이트",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZU1ObzRNQ3J0azcyYUVFaExJaS1TSVpZX3dNU3h4SlBuODgzRGF2andhYVdxMW01UU1GemJHWER1UmdfZkNSZFFUTm1kUDg?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 21:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-자본-5160-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
   }
 ]
