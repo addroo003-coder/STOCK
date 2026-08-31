@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[데일리안 오늘뉴스 종합] 李대통령 지지율 38.9%로 취임 후 최저…1년...",
-      "office": "데일리안",
+      "title": "‘삼전닉스’ 성과급 어디에 썼나?…“집 사고 테슬라 샀다”",
+      "office": "KBS",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/119/0003127493"
+      "url": "https://n.news.naver.com/mnews/article/056/0012248081"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
