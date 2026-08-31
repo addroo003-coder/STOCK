@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "마키나락스, 영남권 산업 AI 거점 마련… 'AI스튜디오@창원' 개소",
-      "office": "머니투데이",
+      "title": "두산에너빌, 네팔 구조 직원 9명 귀국…\"실종 6명 수색 집중\"",
+      "office": "동행미디어 시대",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407245"
+      "url": "https://n.news.naver.com/mnews/article/417/0001156924"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -357,10 +357,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
-      "title": "국민성장펀드, 경보제약에 200억 지원…ADC 생산 인프라까지 투자 넓힌...",
-      "office": "매일경제",
+      "title": "국민성장펀드, 경보제약에 200억원 지원…ADC CDMO 진출 속도",
+      "office": "이데일리",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728086"
+      "url": "https://n.news.naver.com/mnews/article/018/0006361140"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/141080/news"
   },
@@ -491,10 +491,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성·SK에 장비사까지…글로벌 반도체기업 '반도체 허브' 대만 총집결",
-      "office": "이데일리",
+      "title": "\"사자마자 하루만에 판다\"…삼전·하닉 치고 빠지기 '회전율 급증'",
+      "office": "JTBC",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/018/0006361112"
+      "url": "https://n.news.naver.com/mnews/article/437/0000508744"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 400단 넘은 10세대 V낸드 공개…AI 스토리지 정조준",
-      "office": "뉴스1",
+      "title": "[데일리안 오늘뉴스 종합] 李대통령 지지율 38.9%로 취임 후 최저…1년...",
+      "office": "데일리안",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/421/0009142366"
+      "url": "https://n.news.naver.com/mnews/article/119/0003127493"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -531,10 +531,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "ESS 추격자 SK온, 美수주 1건으로 올 목표 50% 채워",
-      "office": "매일경제",
+      "title": "SK온, 美서 ‘1.5조’ 수주… ‘기회의 땅’ ESS 공략 가속",
+      "office": "국민일보",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728287"
+      "url": "https://n.news.naver.com/mnews/article/005/0001870035"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "공정위 문턱 넘은 한화…KAI 이사회 진입하나",
-      "office": "SBS Biz",
+      "title": "공정위, 한화의 KAI 주식 취득 승인···“경쟁 제한 우려 없어”",
+      "office": "경향신문",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530359"
+      "url": "https://n.news.naver.com/mnews/article/032/0003467557"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "공정위, 한화 KAI 주식 취득 승인…\"경쟁 제한성 없다고 판단\"",
-      "office": "디지털데일리",
+      "title": "공정위, 한화의 KAI 주식 취득 승인···“경쟁 제한 우려 없어”",
+      "office": "경향신문",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239640"
+      "url": "https://n.news.naver.com/mnews/article/032/0003467557"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "ESS 추격자 SK온, 美수주 1건으로 올 목표 50% 채워",
-      "office": "매일경제",
+      "title": "SK온, 美서 ‘1.5조’ 수주… ‘기회의 땅’ ESS 공략 가속",
+      "office": "국민일보",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728287"
+      "url": "https://n.news.naver.com/mnews/article/005/0001870035"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK온, 1조5000억 잭팟… 美 ESS시장 존재감 드러냈다",
-      "office": "파이낸셜뉴스",
+      "title": "[미리보는 이데일리 신문]AI ‘샌드박스’ 신청 쑥 복합규제에 지정은...",
+      "office": "이데일리",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568837"
+      "url": "https://n.news.naver.com/mnews/article/018/0006361178"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 일본에 반도체 공장 짓나... 최태원 \"검토 끝나면 밝히겠...",
-      "office": "한국일보",
+      "title": "\"하닉 1주 하한가, 이게 맞다고?\" 촌극 이젠 없다…특단 대책 보니",
+      "office": "한국경제TV",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/469/0000951273"
+      "url": "https://n.news.naver.com/mnews/article/215/0001264333"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
