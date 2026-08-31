@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 거래량 ‘반토막’… 연평균의 절반 그쳐",
-      "office": "문화일보",
+      "title": "삼성전자, 혼수 고객 잡는다…대한항공·시몬스와 '웨딩 동맹'",
+      "office": "아이뉴스24",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/021/0002815109"
+      "url": "https://n.news.naver.com/mnews/article/031/0001053788"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -631,10 +631,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "셀트리온, 1천억원 규모 자사주 매입 결정",
-      "office": "연합뉴스",
+      "title": "셀트리온, 1000억 자사주 매입…“매년 순익 33% 주주환원”",
+      "office": "헤럴드경제",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/001/0016280130"
+      "url": "https://n.news.naver.com/mnews/article/016/0002690619"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -791,10 +791,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "휴온스랩, '하이디퓨즈' 적용 11종 항체 조성물 특허 등록",
-      "office": "더팩트",
+      "title": "‘키트루다SC’ 매출 급증에 알테오젠도 웃었다…첫 판매 마일스톤 3...",
+      "office": "조선비즈",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/629/0000528919"
+      "url": "https://n.news.naver.com/mnews/article/366/0001189359"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "페루·칠레·필리핀… 수주 전선 넓혀가는 K방산",
-      "office": "조선일보",
+      "title": "직업계고 학생들, 항공·우주 기술인재로…교육부·KAI '맞손'",
+      "office": "뉴시스",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995725"
+      "url": "https://n.news.naver.com/mnews/article/003/0014158407"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "페루·칠레·필리핀… 수주 전선 넓혀가는 K방산",
-      "office": "조선일보",
+      "title": "한화에어로, 스페인 방산업체와 K9 자주포 계약…서유럽 첫 진출",
+      "office": "연합뉴스TV",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995725"
+      "url": "https://n.news.naver.com/mnews/article/422/0000901164"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK이노베이션 6%대 강세…美 ESS 배터리 셀 공급계약 영향[코주부]",
-      "office": "서울경제",
+      "title": "SK온, 전기차 공장 ESS로 돌린다…美서 1.5조 장기계약",
+      "office": "비즈워치",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656814"
+      "url": "https://n.news.naver.com/mnews/article/648/0000050321"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
