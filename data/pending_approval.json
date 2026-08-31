@@ -221,7 +221,7 @@
     "source_count": 2,
     "id": "009150-기타-303-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -273,7 +273,7 @@
     "rcept_no": "20260828900369",
     "id": "107640-기타-342-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -1543,7 +1543,7 @@
     "source_count": 1,
     "id": "042700-기타-1650-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -1880,7 +1880,7 @@
     "source_count": 2,
     "id": "137400-수주-2258-20260829",
     "first_seen": "2026-08-29",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -2584,7 +2584,7 @@
     "source_count": 2,
     "id": "298040-기타-2945-20260830",
     "first_seen": "2026-08-30",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -2781,7 +2781,7 @@
     "source_count": 1,
     "id": "079550-기타-3233-20260830",
     "first_seen": "2026-08-30",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -2815,7 +2815,7 @@
     "source_count": 3,
     "id": "373220-기타-3303-20260830",
     "first_seen": "2026-08-30",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -2911,7 +2911,7 @@
     "source_count": 1,
     "id": "036930-기타-3392-20260830",
     "first_seen": "2026-08-30",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -2935,7 +2935,7 @@
     "source_count": 1,
     "id": "068270-기타-3460-20260830",
     "first_seen": "2026-08-30",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   },
@@ -2959,7 +2959,377 @@
     "source_count": 1,
     "id": "032820-수주-3580-20260830",
     "first_seen": "2026-08-30",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS證 “삼성전자, HBM4 수율 개선에 경쟁력 회복…목표가 45만원 상향” - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbUVKd0xmWVBqczJDZTFMUnhSMVdZY0VOMVZmdXBRSVh0THNXRVhTbDVYTFlubDl0Umg3Yzl0c20wTWthX1pkRFdvdzBZYm1Za1pKWg?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기술-3708-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS證, “SK하이닉스, 목표가 330만→240만 하향⋯경쟁구도의 정상화” - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hdEtjS0twUkFBUGtESlJyQWxZS2JYUFUyejdKdE1MT2lTbG9wZWhDWWtfemlxRUlCWVM5U1pzQnR6dHZrd2ZfbDRPWVQtSDJwdzRqSQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 22:48:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-3723-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "산일전기",
+    "stock_code": "062040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"산일전기, 온사이트 발전 확대 따른 성장 초입…목표가 30만원\"-KB - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPeTQxU1NiNFFCb3JYejB1SFRkSkVkWVJrLUZVNHFPVl9OazFuYV9GZ2tldEhlNjdqY2paZW1JN0trOExNQUNJc1d5VkJ1MzhvQUpB?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:19:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "062040-기타-3742-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼전은 올리고 하이닉스는 하향…LS證 “HBM 경쟁구도 정상화” - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEcyTXhRN2lkcG9uM0hTMUtqQkpXSEVCdXBlV0lyMm40RzJFVEpidVVZMlpqYzVXdVpiVGpOVzlIUU52Ri1BNExsdWJ2cXFsTUV5bjJSUzlEWnppVG5GSFliWmstQVFFdXBJek9RWS1mUHFja0VNZGpBZmJ2Q0hOMnN3b3lXdXRP0gGcAUFVX3lxTFBzME82YVJNT0dQeF80VTlHYXluRW05NEZOQVJVaktyWDVia0ZhRkxoSUxXZ2ZEY0I2WGZlRDRycnRIamcwdHNFaVhZcFdjYktqd3FRTWdZTmtCMlNqdks5WGM0b1lENmRqOVdId18zU3lXUjMxMTdPMEVfX1UxSVJjNU9RU1pUSzN2MlVKR3FkaWZQWmZXdmlnRXJzbQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:27:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-3743-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "\"삼성전자, HBM 경쟁력 회복…목표가 45만원으로 상향\"-LS - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlek5yQ2RwZHZ1aWV3eUEyUVhSanJRUGhXWnRQQTlRZ19JMm1vZ19tV25EUy1zRUtNclhXcmxlVFY1eGF5LXZQU25DelpmN0twRkJJcWtoNEFwdw?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 22:51:04 GMT"
+      },
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbUVKd0xmWVBqczJDZTFMUnhSMVdZY0VOMVZmdXBRSVh0THNXRVhTbDVYTFlubDl0Umg3Yzl0c20wTWthX1pkRFdvdzBZYm1Za1pKWg?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:08:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "006260-기술-3747-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS證, “SK하이닉스, 목표가 330만→240만 하향⋯경쟁구도의 정상화” - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hdEtjS0twUkFBUGtESlJyQWxZS2JYUFUyejdKdE1MT2lTbG9wZWhDWWtfemlxRUlCWVM5U1pzQnR6dHZrd2ZfbDRPWVQtSDJwdzRqSQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 22:48:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-3749-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"삼성전자, 목표가 45만원 간다\"…LS증권, 12.5% 상향 조정한 이유는 - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJcUdvLUhaT0NmRThDaE9zXzlWdEE0eTZ0UzhteHg3TzN1YTNJd2FBM1F6MzNsbmJLM0E5eE12MTA1NjRBd25ZdUJ3UkpiTHo4eEdn?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:06:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-3756-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"HBM 공급자 프리미엄 축소\" SK하이닉스 목표가↓-LS證 - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdlpnNG5CS0xxLU00TjFRN2NKd1BQcE40VFo0UV80UVk1N1V3ZUdnem85R0dTek1WYks4REVmanFvZnBfQ25RVkc1NTdIRlByNVdz?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-3759-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "KB증권 \"가온전선, 북미 LSCUS 수주 확대…실적 성장 본격화\" - 파이낸셜포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VSWV1Uk5Ya0lqcVFNcmhUeDctX0dOdDBCVnF1WENBVzZ4V21LVmZBUjBZdFUtQUJhUkxWUlBDeExYd2p1azZtRzNiN1J5MDAtZ1Vkb0JJYkt0UFZkNjE2b0lJNkNRR1VmbkhBbEc4ajNxMTBL?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:45:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-실적-3763-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]SNT에너지, '중동 복구·재건 수혜 및 북미 LNG 프로젝트향 수주 확대' Not Rated - iM증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wb004LVk2MkM5TXFxUXJmX0pjTmNlYzZONmdBVzBOemZ5VjNuLUluQjAza1JrQ29xLXEwc2l4aUN1MlFvbGdlMkotczhMc0FrRUdCazJld3FoSVZi?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:52:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "100840-수주-3773-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "iM證 \"SNT에너지, 중동 복구·북미 LNG 수주 확대로 재평가 기대\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rQ1Q2UExRcUE1eEdtTGh3ZVIxdkk1dE5qUzhvTGktSWZJWnJxcDN6cHBHdVV3Q2p1Zkw5RUNPcDhBYURQMVo3bmF3OENlbHljWVl0dg?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:07:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "100840-수주-3774-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"삼성바이오로직스, 자금 조달로 글로벌 생산 확대 기대\"-하나 - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeWVMWm0zY2EyVE1Ec0wzc1hTTmpyMVR6eWFfQ2hvSk1UWkkwc0dxWFBnZmZMWllRYVBYZnVlZGVUYTZ5Q1cyUVJpcVNXNVFaQWVJ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 22:59:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-기타-3818-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "DGIST·유한양행·제이인츠바이오·연세-유일한 폐암 연구소,바이오산업 AX 공동연구 업무협약 - 문화일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "문화일보",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54UHlNOU1GRGpTNllNdGJFbExZd3FPb0toNEdaeEhlR2hwVlF3X0NCRWdBd2Jfd1RGSlRYR083cDhpRno0WTVaZGFNeUFLNjRQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 22:56:33 GMT"
+      },
+      {
+        "press": "매일신문",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aTTY1NGM0c2sxVE1DQ1d3d1VLRW9haUVQRjY5SFZoWE9jb1NLSE5FakpjTlJ3bk5TLTZNaC16N3pDQnlrVFoyQzNkSHBwSW1VYUd5V3QyeGRMS3J5UDA2ekR3?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:24:07 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000100-기타-3853-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[모닝 리포트] \"SKC, 중국 동박 가격 정상화·말레이 생산 확대\" - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16a2tqNkwzWFpBT0pFdXo0ZWlBUXh6MF9oc2RrdFRNTVkzaTk0NnNOSWhnUDBHMUpuMEpTb1Q3RERUM2RpRldQbGVLZm9UN0RnQlA1WmlwQWRoZGVs?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:46:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-3884-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]SKC, '중국은 타이트해지고, 말레이시아는 채워진다' Not Rated - IBK투자증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VWUs0TTFMcXNTcjRPenNRN3BRUExqVGpJVWVDWHNLN3lFSVJ6TWU3VWNWLWFnN2ZMTldVcmRpb0hBc1p6YURTcWZjT2d6M3dKaHFZbEdTQVE5bDU2?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:32:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-3885-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
     "status": "일반",
     "stale": false
   }
