@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK온, 전기차 공장 ESS로 돌린다…美서 1.5조 장기계약",
-      "office": "비즈워치",
+      "title": "SK이노베이션 6%대 강세…美 ESS 배터리 셀 공급계약 영향[코주부]",
+      "office": "서울경제",
       "date": "20260831",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050321"
+      "url": "https://n.news.naver.com/mnews/article/011/0004656814"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
