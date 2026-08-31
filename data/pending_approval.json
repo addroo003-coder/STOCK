@@ -3229,7 +3229,7 @@
     "sector": "전기·전력",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "iM證 \"SNT에너지, 중동 복구·북미 LNG 수주 확대로 재평가 기대\" - 이투데이",
     "source_type": "news",
@@ -3238,9 +3238,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rQ1Q2UExRcUE1eEdtTGh3ZVIxdkk1dE5qUzhvTGktSWZJWnJxcDN6cHBHdVV3Q2p1Zkw5RUNPcDhBYURQMVo3bmF3OENlbHljWVl0dg?oc=5",
         "pub_date": "Sun, 30 Aug 2026 23:07:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmUnJJd3FFb2JmcGhKemkzYnh1WXEwUGFPazA5TzBTalYxX1FoaEowX0oxdTM0bXhkcGU4MVBLWHQ2WVlUYWc?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:08:06 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "100840-수주-3774-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -3321,9 +3326,19 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94OVBaTk8xRHRHQjVRV3k1QmxNYWlTdm9oZmlSZGRueEdfRTlkdWZ4NU9BQ0ZkLUhnbVNramd3VHNMR0JlbF9qaTYwYVNqYmdsVEZJNnFmTm5kSWZ1ZGg0aU4xNXo2WHNNTGFmbVA0cnRDd9IBckFVX3lxTE94OVBaTk8xRHRHQjVRV3k1QmxNYWlTdm9oZmlSZGRueEdfRTlkdWZ4NU9BQ0ZkLUhnbVNramd3VHNMR0JlbF9qaTYwYVNqYmdsVEZJNnFmTm5kSWZ1ZGg0aU4xNXo2WHNNTGFmbVA0cnRDdw?oc=5",
         "pub_date": "Mon, 31 Aug 2026 07:26:32 GMT"
+      },
+      {
+        "press": "aitimes.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qcnNISUpCLWtqRjlaTENkREJBekU4SW5HUloyamFfRXdBY3Fwcl81TU5PRGFxUGlaS2tKT3o5dmRSQW5hLWNKUUtlZmd1SDl1NEttYUJ6TmVDam03WmZBODRsWXpIUVE?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 01:14:03 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sdUxuTmZSOS1zcUI3UFdsbmhvVGZfWWVxa2xHTzlTMnJTWkE4R1k5Q2ZwUVhXQkI2QW5Oa1BWb2VXMXplZnc?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 01:55:52 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 10,
     "id": "000100-기타-3853-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -3742,9 +3757,14 @@
         "press": "경남신문",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aMFdZZmRYdEFKaXFpbGdxZ1lHb01hY0FUX1ZmMkZTaFJRUU9RTWY1QUdNbTZ1U24zdG51Zjg4c2RXX3ZRaVplRU01aTUtc3NCODNSZXlJOWN3QQ?oc=5",
         "pub_date": "Mon, 31 Aug 2026 05:33:19 GMT"
+      },
+      {
+        "press": "데일리바이트(DAILY BYTE)",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnFwdW1jVVEwaHRVT3pKbGNjbHhEVlBoWldHQnZESGg0dC10QkJ2LVVoWWE1VHlSTW9nSlktUlhiQXFvX2xVVnFRWk9ZNUxJazlpTHROQnVRb2oyOUp0c1pqY284VHJtRHFEZDVMRXA1bEt6M1VORncwM1FsczRydEE4cXNqNXZJRmF3MWhSQ0dnckdSM3RZTTVfM0F3S0tGa29YWnlkZUVpTmljNzN4SlJWNFRBbV9uMy00aWEzdFRxWlZQS01RMEp6RFd5ZjVqczBFVXlNMnBVaFQyc3JETw?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 15:01:43 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "012450-기타-4156-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -3894,9 +3914,14 @@
         "press": "PRESS9",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8teUNoZ0oybXpjcEFxTzZYOHFfaWQtdzVDVURTVndTdGpMTXQ1d1djWnpkX3NoeUZyeW1CYVJRRzBPOFpVRFBCVTB3b1RhdFZ3bE1ET29aaVo4aEI2TzVDSDRkSWlqZw?oc=5",
         "pub_date": "Mon, 31 Aug 2026 00:03:58 GMT"
+      },
+      {
+        "press": "메드월드뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUXdDMEZ6YV9tUl9kNlI1WG9RSXo3R1BzU1FDWHpFOU5SLUdnV0dWWWJxc0hIRkNuaUl4WGRCR3Z0QUg1RlpYSFJneGpISjZ2ZlYwRGdWOVBuRXJPOVd3SlpGNE1xeGxhNDM1S1Jn?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 14:40:17 GMT"
       }
     ],
-    "source_count": 17,
+    "source_count": 18,
     "id": "214450-기타-4251-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -4158,9 +4183,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hcmpWRXllcnpzaE5WeVFvaUU0LXhhWjJVWkx1M1Jjek45VUJLcWlxVkl1QkZWWVdMV3JJVFJ5VElITGU0X2w1VFRlRFRzNzBBekQxOA?oc=5",
         "pub_date": "Mon, 31 Aug 2026 04:54:18 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9meGozdzBmWklyekxRbWtoUFNCSWlqSnZHcjFIU25qZUFibkM3bWgwZlllRWhVRmxqWFN0QWpLTlZjRURfVlAyOWFsTQ?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 04:54:18 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "005290-자본-4394-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -4388,9 +4418,29 @@
         "press": "약업신문",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56dlJsSkp2ZFU5QWV2eFN5VzNhSXJOclBEc01FMWM2Y19BVUt4TmhGWnZuLVlCNFh2TW8tMUQ1Nl9fcHFoeC1YQVI2THZjT0NKNHBJZVEtYTRJaVR4Sk5FeFFVU2wtQQ?oc=5",
         "pub_date": "Mon, 31 Aug 2026 08:06:00 GMT"
+      },
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11bUwwWVNWUHJqaU9ReGZVUG9NWGpVNC0yU3FQbnNKT2JOZjdyTHNxS0JBT3dVVFN4VHp0Q3JpdEVqZ2tOeTIzaUNYTWRzTjBMSFlXcEwwMjYxNHRqU3d1bzFFTUJoOGRs?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 05:48:00 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjM4X3BTRmpWTWtkRzB6ZXpPaUJ4RFIyc2dtSEIzS1FqVjhCdW9KM2dkVmUxZDBlYUNBTWw3d1J4aWU4MFdRbFZqWWYzWm9TajZMOE1SN2JWSERkMkJteDVoTGNTSm93SXNOTElDeVlzYnNxakl6WWNLaFk3NTBJbnBRR2V6dzDSAZsBQVVfeXFMUDJwcDJpajUxdVlyTnNBbEszMS1wYm5iRjh1RE02N1JPQ1BzWlZESWlGd2RMcHIyU2M2cjhJbTI4NGcyVkRrMko4X1hVdmVBb3Z3OXV1eWRKdUZZYlZHWkNGRTc1dXMxNm93OEo1dF81RFJJWUlNVkZKMWJKcnFYZHFhUEoyR1pKWUJWeDl2VUw3RVNTSVdpcUZGNUk?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 05:27:00 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02dGR4ZDRYQ05GQ3FnRVVaVUNXcmRwNFFZbFBaN1Fadm56SFpWWUk0YjBjbzRMVFZ1eWpIUVRJbFlFYkpyTUVJVUxNNmNNV2k3WjhMM2NwNHlMMVFoY1dEUTJZQ3VHd2NiWFJaaER4eVE1ek93SV9wcWhB?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 08:06:00 GMT"
+      },
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMlRpZk1hTHFOanBBVElDb3BCaE1oQ0ZMeUN2dGlKSVNXSFRLenNhejA2dndEYmVzMzdVMWdkVEd2RnhuWGtVaGJxMnlyaFJOMzFSZnFBYV96QVNBLTZfS1pzN0dZR0JmNlcwRnpURk4zZ3M?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 06:21:48 GMT"
       }
     ],
-    "source_count": 18,
+    "source_count": 22,
     "id": "207940-기타-4485-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -4760,6 +4810,30 @@
     ],
     "source_count": 1,
     "id": "006400-실적-4980-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한국항공우주",
+    "stock_code": "047810",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "공정위가 한화 계열 3개사의 KAI 지분 취득을 승인했음. 한국항공우주 - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd1RaRFc5U3UyMXU3cEZPOHJsdi1IMUtuTXdOREVaS1I3UUlSWUlkeFNPWXUwUWhaeVlZZ24zbGZkYXpkUjcxMTk1Q2x4RlRya3ZiZU9OLVlMeEFNX0d1eTdrVWtYdjRJOGk1ZmhDV3MtZ1hJZkp2bTl5N1h4ZHhRbHpOcExWVFJuTWEtQQ?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 07:00:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "047810-기타-5054-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
     "status": "일반",
