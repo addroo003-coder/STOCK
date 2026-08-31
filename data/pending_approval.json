@@ -3079,9 +3079,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbUVKd0xmWVBqczJDZTFMUnhSMVdZY0VOMVZmdXBRSVh0THNXRVhTbDVYTFlubDl0Umg3Yzl0c20wTWthX1pkRFdvdzBZYm1Za1pKWg?oc=5",
         "pub_date": "Sun, 30 Aug 2026 23:08:00 GMT"
+      },
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1RtSU43TEF6WGZINzY2YlpVLTJCcU1jN1FJS0pMd3BwNXJ4aEtJN3RWWGtPRlZabkgtVVNzczlFT2FIV3B4Q3g0T19CbmhPR2VNWTlOR3VabXJTQkpXcmlTWTlMeTJrcHJKSUcyTEVZMlRTc0lVSDZxNHVNZGVhZlVFNHd0ajhQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:43:54 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "006260-기술-3747-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -3291,7 +3296,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[모닝 리포트] \"SKC, 중국 동박 가격 정상화·말레이 생산 확대\" - 뉴스핌",
     "source_type": "news",
@@ -3300,9 +3305,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16a2tqNkwzWFpBT0pFdXo0ZWlBUXh6MF9oc2RrdFRNTVkzaTk0NnNOSWhnUDBHMUpuMEpTb1Q3RERUM2RpRldQbGVLZm9UN0RnQlA1WmlwQWRoZGVs?oc=5",
         "pub_date": "Sun, 30 Aug 2026 23:46:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10ZVhNMTd0cXdWY2w0MmRTcnRPZnhoZnJrMExrQUxoSUcza05pRWJubTYwd1BRRUZVd2dKRXJZd0d1a3pGdHdIUVJLZ0pMbTVTTVlObXBhVFlrSVZWcmpuTw?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:50:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "011790-기타-3884-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
@@ -3328,6 +3338,54 @@
     ],
     "source_count": 1,
     "id": "011790-기타-3885-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기술",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[버핏 리포트] 삼성전자, HBM4 비중↑·생산 수율 개선... 고객 인증 지연·낮은 양산성 개선 – LS - 버핏연구소",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "버핏연구소",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KcU4ycDFJZEZEb2Y1cG9HMjVKb3FFVFFGRDFzLXcwM295S05mQURIWE9nSkhsRV95dkIxbGg3WHNydnZ6RnJYTXh4ZEZSNkJVXzYyUjNOVG1XTWZockZETnZ3?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 00:01:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기술-3891-20260831",
+    "first_seen": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하닉 목표가 330만→240만원 하향, 왜?…LS證 \"메모리 사이클 종료는 아냐\" - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NXExTFhUXzdaNVFmYzBqTXN4cE12MGd3SVg0am1KQkNsX0pGbXM0NFp3THBFbXJzYlR3Zl9ldWIxY3pyR1QydjBQZHJ6MVdYbDFyLTVkU2V1OFhRV201cQ?oc=5",
+        "pub_date": "Sun, 30 Aug 2026 23:57:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-3900-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-08-31",
     "status": "일반",
