@@ -52,6 +52,19 @@
     "is_correction": false
   },
   {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260901900478",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900478",
+    "is_correction": false
+  },
+  {
     "company": "테크윙",
     "stock_code": "089030",
     "sector": "AI 반도체",
@@ -114,6 +127,32 @@
     "rcept_no": "20260831000803",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000803",
+    "is_correction": false
+  },
+  {
+    "company": "이수페타시스",
+    "stock_code": "007660",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260901000187",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000187",
+    "is_correction": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260901000189",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000189",
     "is_correction": false
   },
   {
@@ -187,6 +226,19 @@
     "sector": "전기·전력",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260901800387",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800387",
+    "is_correction": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "기타",
     "title": "[기재정정]대규모기업집단현황공시[분기별공시(개별회사용)]",
     "rcept_no": "20260831001449",
@@ -231,6 +283,19 @@
     "rcept_no": "20260831001339",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001339",
+    "is_correction": false
+  },
+  {
+    "company": "뉴로메카",
+    "stock_code": "348340",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260901000191",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000191",
     "is_correction": false
   },
   {
@@ -296,6 +361,19 @@
     "rcept_no": "20260901000036",
     "rcept_dt": "20260901",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000036",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260901000239",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000239",
     "is_correction": false
   },
   {
@@ -377,6 +455,19 @@
     "is_correction": false
   },
   {
+    "company": "오르비텍",
+    "stock_code": "046120",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "증권발행결과(자율공시)              ",
+    "rcept_no": "20260901900543",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900543",
+    "is_correction": false
+  },
+  {
     "company": "한화에어로스페이스",
     "stock_code": "012450",
     "sector": "우주항공",
@@ -414,6 +505,19 @@
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831800858",
     "is_correction": true
+  },
+  {
+    "company": "LIG넥스원",
+    "stock_code": "079550",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260901000244",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000244",
+    "is_correction": false
   },
   {
     "company": "인텔리안테크",
@@ -526,6 +630,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260901000190",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000190",
+    "is_correction": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "전환주식의전환청구권행사              (전환우선주)",
     "rcept_no": "20260831900690",
     "rcept_dt": "20260831",
@@ -569,6 +686,19 @@
     "rcept_no": "20260831000145",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000145",
+    "is_correction": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260901800500",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800500",
     "is_correction": false
   },
   {
@@ -700,6 +830,97 @@
     "rcept_dt": "20260901",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000084",
     "is_correction": false
+  },
+  {
+    "company": "새빗켐",
+    "stock_code": "107600",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260901000323",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000323",
+    "is_correction": true
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "증권발행결과(자율공시)              (제40회차 CB)",
+    "rcept_no": "20260901900556",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900556",
+    "is_correction": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "증권발행결과(자율공시)              (제39회차 CB)",
+    "rcept_no": "20260901900555",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900555",
+    "is_correction": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+    "rcept_no": "20260901000274",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000274",
+    "is_correction": true
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+    "rcept_no": "20260901000219",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000219",
+    "is_correction": true
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+    "rcept_no": "20260901000207",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000207",
+    "is_correction": true
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+    "rcept_no": "20260901000180",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000180",
+    "is_correction": true
   },
   {
     "company": "서진시스템",

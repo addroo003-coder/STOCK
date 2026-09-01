@@ -5339,9 +5339,14 @@
         "press": "영남신문",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jeXdRb3A4MThfaHVKeURsdFFlSC1QZ213YzI3TUE3RHdRX1ZydWJUeFUxSDJic1o4b2ZCN3Q2SlU1NjNXaEZGTnNacHFZQjdtWnhtOUlndTRYSFcwejNMVmROUWhHSXk0TWZZd3ln?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:09:09 GMT"
+      },
+      {
+        "press": "경남뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XQWdKUi1VaTJSZGNOLVNtYWp5ZnRTRElWclJ4QmJkaDBZSDV0OHk1WkxaWUV6MTZna2RTQmhEOXd6T2ZidF9ybWJiaXNzakZISnFic1NwQzdZN2FZQXpTbzFzQWRfLTNxeXNCczFpS2h5UQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 01:41:19 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "083650-기타-5256-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6104,9 +6109,14 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdTFfTUJxTW9jN3p5U25qNUpZcnd2V0Y4UHBqS0lXbjF6a05XTVd6emxzVmVNaWFLVjdiU0Z3UlZ4STd3NFJFNDZxZHg5ckxzbjNwamNDZ1BMR21qR0hna0p6dFBsSFJfdnRBS0x5U3XSAXBBVV95cUxOQ3UxX01CcU1vYzd6eVNuajVKWXJ3dldGOFBwaktJV24xemtOV01Xenpsc1ZlTWlhS1Y3YlNGd1JWeEk3dzRSRTQ2cWR4OXJMc24zcGpjQ2dQTEdtakdIZ2tKenRQbEhSX3Z0QUtMeVN1?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:05:50 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1a0pkSkh1OEZXT3ZRb1RzUno5dUlSSGFGY1dJd2xoRUZwc1ZZanhFNGpublhrWlduV1FOaEpubU5lSGxFNW8tUTVETmJDR29nM1Zj?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:40:00 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "id": "226950-기술-5532-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6167,9 +6177,19 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zaEtxUHBsbGJycjAxcHAzM243WVp0VUZ3Z3FJVG90V0lhLUI0dlRlMFEyWU1RNC1LNzNEWjc2eHZlYlM2ME9jdC1qVERPdW9PMWF3R2RhTGZxSHlKWUxkSVRUbDlLbkltVnNZTtIBcEFVX3lxTFBDU29oSVF0UTVSVDdISjF6QmtUbFpCOW11TFdvVzNZS2ZFWVJuS3dEYTliRE15RjVVTUxCZ0MxX2FPR2h4UDBfN28tanJmMURXM1NjTktxZzBjRGdBcXdBazhsUUttUFJGWldVcWYzMEk?oc=5",
         "pub_date": "Mon, 31 Aug 2026 23:26:56 GMT"
+      },
+      {
+        "press": "중앙일보",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qk01b3BmajFRS0dBaEV5aTZFUWRmMk13M3pNY1BFTnVTWVQyQm1oc3NCcE56bEYtMl8xcG1nSk1fNkNRLXhab0xSNHpTWV9BMUtKVUln?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:31:00 GMT"
+      },
+      {
+        "press": "한국식품의약신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93NzJhYktwa3lUc1pOZU1aMDZILTZDNU5sbHdHMlFxYnZpZ1hJM0k0ZFJSTVFocFVETkRkMTRTbjdhcEczYzFBcGRqSmtmN2dpUnhneGFweFRrT0FMd3RoZld1VU5HWnM?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:16:30 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "000100-기타-5536-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6211,7 +6231,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "LG에너지솔루션, 미국 탄산리튬 기업 스맥오버와 8만톤 규모 공급 계약 체결 - 전기신문",
     "source_type": "news",
@@ -6225,9 +6245,14 @@
         "press": "전기신문",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVW96eVFUaGhWaERZMFVUc0wxMFBjTGJzcFVBWHAtT0NObXJfT1VHY1JUb3JDV2Q4c0tiYWJfNHlOY0tEUEFVendYNWlCenI3bzJ4OVN0ZzdqVXQyaE1QRC0wVDJ0aEVaRl9ienRsMjfSAXBBVV95cUxPSlVvenlRVGhoVmhEWTBVVHNMMTBQY0xic3BVQVhwLU9DTm1yX09VR2NSVG9yQ1dkOHNLYmFiXzR5TmNLRFBBVXp3WDVpQnpyN28yeDlTdGc3alV0MmhNUEQtMFQydGhFWkZfYnp0bDI3?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:07:21 GMT"
+      },
+      {
+        "press": "뉴스워치",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04OEh0ZGNMdFhZQXRGUHdEYW9SSkRsd2wwd011QTNrcm5oeTJnNW1xR0tEUGhWVG41cl9EazJIc0xGYTUtT1c0amJTZU1sUUcxUFF1TFFPbTZ1QXVFcnNxS0RjMGIyTlNO?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:52:33 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "373220-기타-5550-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6312,7 +6337,7 @@
     "sector": "AI 반도체",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "대덕전자, 환율보다 중요한 AI향 매출 본격 확대 - mdtoday.co.kr",
     "source_type": "news",
@@ -6321,9 +6346,14 @@
         "press": "mdtoday.co.kr",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vd3Zrbll6TUlJanF3SVRwOWxSWjE0aTI3VHJBUExTcXg1OFlFLWVwaHoyQUxjdU1BUVNrTmNCS2M4T2dsQ1J2T3RXSW8tT1U3TUdreUJ1X05UWDhvSlhRVjY0TWYxdGFCWmRCMg?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:36:28 GMT"
+      },
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yREFJQVU3YVNJM1ZON3dBLV9rN0RYem1hWERvanpCTVVHcHVhOHV0TzFMcXE4a0Z0VjAzdkROTzZta0pILVB0cHRMMUVQME5FV2dvZ1pNUUNJLUFNSXlmaE1GbVpQeTRuWVpyNkR0UHU?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:23:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "353200-실적-5645-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6426,6 +6456,467 @@
     ],
     "source_count": 1,
     "id": "137400-기타-5795-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800387",
+        "pub_date": "20260901"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20260901800387",
+    "id": "034020-수주-5798-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800500",
+        "pub_date": "20260901"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20260901800500",
+    "id": "000100-수주-5803-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 대만서 'CUBE' 전략 공개…\"시장 주도권 확대\" | - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5raEpvamFLaUxBakZtaWR2UWV5RkZIaXBxWnBXbVJ2RTJKcnFjOFB2QlVsVDQ4ZVJXWVpVbHB0VUNTRkVJYXMzMWFWSmZucXlnVEs3eUxSVDMwY01RSHNoc0d1XzZ1ZWF2Q2ZJNzk5dHgyYU9j?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:03:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-5809-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, HBM5 성능 2배·zHBM 최대 8배로…차세대 AI 메모리 승부수 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90OE5GV0hQcm80WS1HclZaalhCS0NGczdVbFdZLUtoOGVzampYOTAwZkM1Q0JDZHNUdkFWV3N3aFc0TGc4cXlfZ0hTU1JwQQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-5810-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 1.1조 AI 서버용 MLCC 공급계약 체결 外 - 톱데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zaGFUR2dqekF5dlZVN2FqR3A5RDY1TnUzU1JsU0dHbjE3bjNXNGVTMktPSl9hcDhZek5NbmVZTm9RT2pxelRTNDcxRFhHV0U?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:35:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-수주-5844-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 글로벌 빅테크와 ’1조원대’ 역대 최대 AI 서버용 MLCC 공급 계약 By 알파경제 alphabiz - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Zd3BQTG9MSkkxZVhrSndRaDhOdnk0ODdSeEdKMVgwRWg5NW0weUZVQzBZMDY0SzRqanhNMmZ5UHg3cnQ1NzhBSHlmV1ZvT1JYcDBHOXI5YThobjdOSUdCYnNoTjRldEhNVWZybDkzakc?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:41:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-5845-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 글로벌 대형사와 '1.1조 규모' AI서버용 MLCC 공급계약 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS1dvbzNTSFFabTU3RmVyX0ExX25zUUpzU2NzZ2E0WnZBZWRDMktlUnpxdklvenl6SUw3aHNZOFU1SFdReDJXa3Z0b0FFdW8?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:18:00 GMT"
+      },
+      {
+        "press": "신아일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWHE3RFNkNTg5OTVBR1k2OHRnUi1OS2hmMXdtX09uTXRqd0JiaC1WT2psZHFXSnQ4YmNJZ2x5OFFpVVhhTGVYY3VQWjRpaXV5Undta0R5bW5hY19od1JxQ09reklBbENZSndheVdXLVk?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:22:54 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "009150-수주-5849-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "심텍, 주주 미래에셋자산운용 측 주식등 보유 비율 0.52%p 감소 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRlYwelhkYW83MkpkNzhzcGtvZFA4WE83RDBQYmdQOXVxQXlRR3hoZEdPWV9xcW42MzhqLUE3dTh1ejFBSDB5UmFOLVVaTDlLUDJ3SXdfV1hfOHNsSU01Mm91bkxNel9OZndabkdDMXdyeXc?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:53:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-5854-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "파마에센시아, ‘베스레미’ 성인 본태성 혈소판증가증 치료제로 美서 승인 - 더바이오",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ncGloSlRkcnBMRHNJaXpLM0E1YmhhcDdDYmJVYWR0ZVFtTVFMa3lzT01rTTgtRk9UNW5wYmFsNkFFOUlDUnl0MjlzYWdfai1taEtvLUFOd2RNMDZJTWUtWlJqbFc2U3NwMzNERdIBcEFVX3lxTE9hbGRWamtvOHZIQjhjT1lDZUJPZkV0SzM0ZW53Z2lrMGFiYy0wM2diXzNrZml3a2tGbTc5MldLX3ZmdDNVQkp6X1RIWm1INE5xbXlUWV9qNkhZLWEtUFNMaTBaLVNGUkFZNDdFUkxycFc?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:52:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "323280-기타-5856-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "미 FDA, ‘베스레미’ 본태성 혈소판증가증 치료제 '승인' - 의약뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "의약뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IcGJXcUtybFhQMnA2YTZvT3hLRzZkaEV1ZE5WMGRJVHUwWFdoQnZhY1RCU2VMay1yd0NrQ2w0X3hsTWUySG1KeUt2NWx5ZURWOHB3Y2FfWUdwVi1UOUpMN2JjTDhjZG8?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:58:30 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "323280-바이오-5857-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, 네팔 현장 대응팀 20명으로 확대···직원 9명 전날 귀국 - 서울파이낸스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울파이낸스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JWFVibDFlU0ZFQVVBbUFiLXVDMTY3LWdqTjdNdV9pWGktY3ZfQkFHa1pmRkk2VWU4ZU13czRPOVRJRDNERHMyYXNycUpnQURwU2NERHd4MGhjWEtVR1hqLU5BeFBjQzRpcnc?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:48:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-5878-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, 네팔 대응팀 20명 규모로 확대…헬기·드론 수색 지속 - 메트로신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메트로신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MYUt6Y0VXZ1pSUXp1ZjFLRGtXUHhNbUpOT3AwVVNscDZZVFp4Z1FLR1REOHJ0alhDaU13X21mRkYwLWxabE15WE0xbkNzMWFlaVFrY2ZhaVRNNzRxNEZzUA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:06:57 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-5879-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "뉴로메카",
+    "stock_code": "348340",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "뉴로메카, 주주 미래에셋자산운용 측 주식등 보유 비율 1.24%p 감소 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtUDFXYkVtUDhRa1BHWHRQVjZvYkh1d2JMMUs1VXFIZmNucmJQZ3EwdjhYOU5NSEptZ3A5SGk1c1NfVEhHZ3Jrbk92eTFqTG05dGZKNUZ4dmgzTUVzdEZEVDBlTXZ0RU1FY0N5T1lKbFVUMjg?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:53:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "348340-기타-5885-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "클로봇",
+    "stock_code": "466100",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "클로봇, DLS 인수 완료…물류자동화 사업 확대 - klnews.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "klnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LTW1NRnVSYkkzZ2RuX0NXMnNVQzY0ZGZkSjlxMGRSWTVCN1VpLVlLS2NCOGVvV25ycmtFQTNxZlNSZVVRNmdBODl1QTZMWEVpTkxfRDl6QmIyejVZLWpNLXgtcmJZTWRmMnFR?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 03:07:03 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pbzZRUWQ5UVBreVYyNTZMbFdUeG5wdEVRbmpDV0E3dWFyOGVmVEtxdTBQSWNwMjhmWmFvWmFwSHVIWWVETnpydXBVQWRPaHRiNUZB?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 00:19:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "466100-기타-5886-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독] 알테오젠 파트너 '엔허투' 유럽서 유방암 1차 치료제 승인 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00X0pKbjZwQlVXdmRqc0pDbmFZRUJocFBpQUp6UzVObE03Umo4YnVTUms3OEJwcXNtVEhFRXVrU0t0R0k3QkxlSlN4anJ2OTQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 08:02:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-5935-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "릴리 ‘본계약 시간표’ 다가오자 펩트론 변동성 확대…이틀째 급락 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZd3NiZlFxNWQxQzVwUUtsaUxmdVdlNlRKUVNEbmw2SzA4NDhkNVB1aE9TNllGRW04QXNqcjlPNDJmeEdObjFnc0hEelZIXzF0MWY1M3E4aDdvdzJfc0R3VzhuWHZBWm1sTFRKLUxR0gFyQVVfeXFMTWFHVU83M0F6ZXkxdy01eW5PUEhUdDdMUk5WeFctU0RqRVp4eGhQR0Z2OUNaWkZqajlQWXd2TFNVX3NTUXZSeUd2YXplbUVVNWVRZHF3dkVmeHcydHpqME44UUpwZjVrTDFrY3g2VDM2RVRn?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:51:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-기타-5942-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "유한양행, 글로벌 제약사와 1천311억원 규모 원료의약품 공급계약 - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0bHd2QVZqYmw4XzBqR1hCcl9GS3d2MzVORFVJSDJTS3RKSldSaTRwU25nYmxlSEhhSjR4c004dE9tTjlzVG1MczBXSnVndVg1U1VzZE1ZRXFzN0Y3UUdLWDNEV19pY0tVSndyUXI2Um0?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:39:33 GMT"
+      },
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZEdwSloyOVFjbGxqNU9aRV9mYUR2LTc0aHN3bGxyZEMtSUZEWmpTRzc3ZHN0ZmZ0YVQ1YjJUT3dfdzdhRUNYYmFxdnExUVdNb2FfR2RXTGVPODRiTVhFY3pLemt0emJDeDBMMNIBcEFVX3lxTE1QbFh1V3NQZElIOWtNOWdtUFk0WUN4NTRmZEwzX1dlMjd5QW5uRHRFaVE4c0JudHFYTE16N1FnbkNfSWFKd3NBNS1pVXBfWVlCekQxV3VMYktiVGRBSkx4cVRiZEN2MFgtZEtULWxDMzk?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:29:27 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92MzZFUUl3eFl3d1V2eWk4YmlkcGE4TUNJVzN6NWV3MEtsbXlHbktYS1VyUVp3MC1wVmRWMnZ1eVU4WG1sdERadm85UW15Y3RnbDdCZFF5ZnpJU29oMzFTY3ZfUkh0enpQY1ZHNF9FcU9wQW5MaGJr?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:42:30 GMT"
+      },
+      {
+        "press": "리드경제",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94eUZfdnk5TzRpanZYTFlQbUx2dkNNYkwyaU15VUpfYy1XVXZ1aEQwRmpDN05XSU1RTm1KLUJxQm9fb2FUdENIcHdNTkZqa0pQYmN1SjA0MUVxQnM1RDNyZWd0YVJGQ3RuNWYycVlVcw?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:45:00 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "000100-수주-5953-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "리쥬란 논문 철회 논란 '부글'…파마리서치 \"효과 문제 아냐\" - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zeWV2V1Ziazh4TmJjN09tekxlc080d0oxZWVDYTluTTY4NzJUNFJtY2piaklyOXJ4R3JKaVNfTlM3Yzh6a21lWlp0SWNTVER6c1Br?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 06:31:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "214450-기타-5961-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
     "status": "일반",
