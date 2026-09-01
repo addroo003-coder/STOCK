@@ -491,10 +491,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "“삼성전기, MLCC·FCBGA 판가 인상…실적 성장 가속화”[클릭e종목]",
-      "office": "아시아경제",
+      "title": "\"삼성전기, 1조원대 AI용 MLCC 대규모 수주…목표주가 175만 유지\"-IBK",
+      "office": "이데일리",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810538"
+      "url": "https://n.news.naver.com/mnews/article/018/0006362072"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"최애 아이돌만 찍는다?\"… 삼성 '마이 팬캠'에 숨겨진 '빅피처'[모닝...",
-      "office": "이데일리",
+      "title": "[애프터마켓 리뷰] 비만약 다음은 탈모약'…글로벌 관심에 관련주 급...",
+      "office": "SBS Biz",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/018/0006362053"
+      "url": "https://n.news.naver.com/mnews/article/374/0000530680"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
