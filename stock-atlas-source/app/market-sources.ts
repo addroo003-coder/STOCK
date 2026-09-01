@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "[속보] 두산에너빌리티 민간헬기 1대 이륙…실종자 수색",
-      "office": "연합뉴스TV",
+      "title": "두산에너빌, 하동 LNG복합발전소 EPC 사업 6658억원에 수주",
+      "office": "서울경제",
       "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901778"
+      "url": "https://n.news.naver.com/mnews/article/011/0004657464"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -491,10 +491,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성전기, MLCC 1조 잭팟… 글로벌 기업 러브콜 쏟아진다",
-      "office": "파이낸셜뉴스",
-      "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/014/0005569577"
+      "title": "삼성전기, 글로벌 기업과 1조원 규모 MLCC 공급 계약",
+      "office": "조선일보",
+      "date": "20260902",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996143"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼성전자·SK하이닉스만큼 성과급 달라”…마이크론 대만 노조 파업...",
-      "office": "조선비즈",
-      "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189769"
+      "title": "삼성전자, ‘CUBE’ 전략으로 메모리 기술 한계 넘는다",
+      "office": "동아일보",
+      "date": "20260902",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745028"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -923,11 +923,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "298380",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "하락이 너무 과하다",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260429_company_939607000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92163&page=1&searchType=itemCode&itemCode=298380",
-      "date": "26.04.29"
+      "title": "Givastomig, 얼마나 효과가 있어야할까?",
+      "broker": "DS투자증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260901_company_260206000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95963&page=1&searchType=itemCode&itemCode=298380",
+      "date": "26.09.01"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298380",
     "news": {
@@ -1817,11 +1817,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "137400",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "건식 공정과 전고체의 교집합",
+      "title": "고객사 다변화. 소재 사업 방향성이 중요",
       "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260227_company_690257000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=90720&page=1&searchType=itemCode&itemCode=137400",
-      "date": "26.02.27"
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260901_company_88334000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95947&page=1&searchType=itemCode&itemCode=137400",
+      "date": "26.09.01"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=137400",
     "news": {
@@ -2097,11 +2097,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "000720",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "2Q26 NDR 후기: 서명은 늦어졌지만 판이 커졌..",
-      "broker": "IBK투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/-/20260814_company_578841000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95622&page=1&searchType=itemCode&itemCode=000720",
-      "date": "26.08.14"
+      "title": "글로벌 원전 사업, 넓어지는 수주 기반",
+      "broker": "미래에셋증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260901_company_536305000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95959&page=1&searchType=itemCode&itemCode=000720",
+      "date": "26.09.01"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
@@ -2457,11 +2457,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "096770",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "SKIET 흡수합병에 따른 기존 주주 보호정책 ..",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260827_company_159569000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95901&page=1&searchType=itemCode&itemCode=096770",
-      "date": "26.08.27"
+      "title": "SK-On, NeoVolta ESS 수주 코멘트",
+      "broker": "iM증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260901_company_188873000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95950&page=1&searchType=itemCode&itemCode=096770",
+      "date": "26.09.01"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
