@@ -5908,7 +5908,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성전기, 역대 최대규모 MLCC 공급…글로벌 기업과 1조722억원 계약 - 국제신문",
     "source_type": "news",
@@ -5917,9 +5917,24 @@
         "press": "국제신문",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0xoXzVTS0RoNzdHRDNXMnVDOHRXUGlhclZvbEpKRmY0bm5kc3MxVElpdTFpRmdzNU5OZXYyZU1LM0VfOTlnLUtTZlFrVUVJbUU3SEVfU1BXdXZvUExxQVRSWmVpWnhTMy1zc2hEZEpQZF9vbkttQ014S0tuMXhBRVEzVXNfNzRnWnZF?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:23:00 GMT"
+      },
+      {
+        "press": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVJQVjlMS0Z6R2hvckxNOU5jTmkwLUVxckd6eUlPc0R3OFdZdlNZT1lBTVhtUmJ5eDZ3RUgwMlZCZlRXZmp4NExTRmJrZTg5WkxfcndWRHo4aW52VDRPUGw0MkxSdi1vUGpveEphUlIyd2txNUh4eEMweXVGWTlWa054QQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 15:34:00 GMT"
+      },
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSTmJIS1dyTDkwNWRhb3l6T2l5eUZQemNkYmJMa0RqMUw5WnkzWHl3cDlxVFM3Z3c2ZFlGZkl5RElrQjlBWVljcFRrZWFZcE5mTkNqVVRMNTVDRFNnT05yY3FFZm1NUi1VdDl4NVVpbF9TaFZy?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 01:12:27 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOElZbS1MRk10dWtaTFhvTFp6dno5QW5kLTM3dWZwaUY5S3JRa0Mwc3NuMTlOSndadXQ1Vm90azFvQzViZjl3RmRiRW15cDZ0NEFtbk9ycC1Rdw?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 01:02:07 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 4,
     "id": "009150-기타-5397-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
