@@ -7459,9 +7459,14 @@
         "press": "뉴스워커",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zdjE3djQwMXNZWUxMYi1TbW5xUWZBUXY5dWZrRWJpTlFwX3FoeGtyLTNhRm9HWkNWSVpXNlczb3Eyc3NGMFFOQ3g4VDZIMnZ1d2hsYTBkMzNBNXBGWGdiRzRmMnNjOEhtQW9lSFgzOFNKNlRH0gF0QVVfeXFMTXN2MTd2NDAxc1lZTExiLVNtbnFRZkFRdjl1ZmtFYmlOUXBfcWh4a3ItM2FGb0daQ1ZJWlc2VzNvcTJzc0YwUU5DeDhUNkgydnV3aGxhMGQzM0E1cEZYZ2JHNGYyc2M4SG1Bb2VIWDM4U0o2VEc?oc=5",
         "pub_date": "Mon, 31 Aug 2026 04:30:04 GMT"
+      },
+      {
+        "press": "뉴스워커",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tLU91T095TDhFcHdCS3BiaEpBNG1veGJKamZud1V5RktsdjB1bnUxcGsyZ25FalYtaE53Z1ozU3dNZ1Y2dWN0cEpkdE1WRjVyVUdwSDkxeXR5VUZad19PZDI3am9XS2ppdkdvOXZQNGrSAXRBVV95cUxNc3YxN3Y0MDFzWVlMTGItU21ucVFmQVF2OXVma0ViaU5RcF9xaHhrci0zYUZvR1pDVklaVzZXM29xMnNzRjBRTkN4OFQ2SDJ2dXdobGEwZDMzQTVwRlhnYkc0ZjJzYzhIbUFvZUhYMzhTSjZURw?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 04:30:04 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "389500-리스크-6213-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -7555,6 +7560,54 @@
     ],
     "source_count": 1,
     "id": "006400-기타-6254-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS전선, AI 데이터센터 '전력난' 초전도로 뚫는다… 인프라 사업 확대 - 비즈트리뷴",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzTlA0Q0JlYVJ2OWdOOTJBbVJXRWZRVzNmZXE3RjY0VFByc251ZHFabFFpa28zSjBpSlUtSHE2NGhLeGhpNG10MDZUcmZxYTVrUjVsNnlPVy1NV0RRLXV4MGZNc0JUUElTY3pSak1Fdw?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 13:11:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-6321-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[AK포토] 박지연, 우진 엄마 상 탔어요 - 아트코리아방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아트코리아방송",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KZDVmU1dacWxoT092VV8yaUZ5R3BQd1daQWY0VUhrVktRR3FxNkFUbGduRjJVQnN0VFRkeWt5NmtrYVZ4VXVxbXcxSjAxc2E1Zld3NU1IbXp3SUpsRjBIZ2o3eUN3SmVoT2VxQWZn?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 17:01:48 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "105840-기타-6329-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
     "status": "일반",
