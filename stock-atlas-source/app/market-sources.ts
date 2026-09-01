@@ -1351,10 +1351,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=080220",
     "news": {
-      "title": "[여의도단신]미래에셋자산운용·KB자산운용·한국투자신탁운용·삼성...",
-      "office": "매일신문",
-      "date": "20260827",
-      "url": "https://n.news.naver.com/mnews/article/088/0001025473"
+      "title": "산단 조성·운영 통합시스템이 성공 비결…AI 특화단지로 고도화",
+      "office": "서울경제",
+      "date": "20260831",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656888"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/080220/news"
   },
@@ -2345,10 +2345,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "LS전선, AIDC 협력체 합류…초전도로 전력 인프라 공략",
-      "office": "헤럴드경제",
+      "title": "LS전선, AI 데이터센터 전력 인프라 공략…AIDC 컨소시엄 합류",
+      "office": "데일리안",
       "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690927"
+      "url": "https://n.news.naver.com/mnews/article/119/0003127571"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
