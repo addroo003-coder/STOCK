@@ -5613,9 +5613,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IRTJxeDM5cFh1UjczcmtDdTNRUldwb3hkRzNNZ1BDTXlRUkpDWXZ6REhjMnY5TEtfekVkZ2pRVEhaUDBGb0RMYnNaS2hwaVExTFJDalJxVDNNQnd6UXBvdWtFZmIyWUtHakRVaDJYOFd5Y2FWclA40gF3QVVfeXFMT0hFMnF4MzlwWHVSNzNya0N1M1FSV3BveGRHM01nUENNeVFSSkNZdnpESGMydjlMS196RWRnalFUSFpQMEZvRExic1pLaHBpUTFMUkNqUnFUM01Cd3pRcG91a0VmYjJZS0dqRFVoMlg4V3ljYVZyUDg?oc=5",
         "pub_date": "Mon, 31 Aug 2026 01:31:10 GMT"
+      },
+      {
+        "press": "의학신문",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMi1qRkxUQkcxc1pxbG1MNmlOcUdFRVpPQ0NUWF81bDQyTWZYZTdmdUJyRnFZd1ZfbURQMWFCV0JjbWZoamxEM0Q1Z25hYk11eE84Wl9jel9SbFZtZ2xrTTBKdTd2SFFKQmc?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 02:04:40 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 9,
     "id": "214450-기타-5309-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6981,9 +6986,14 @@
         "press": "wowtv.co.kr",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNNURpNXJsR3M1Uk1fYXRMZ2VtdDBoYTltQmgzV193U1N3R0daZlFYcXB5Z3pmQURjUmEzNE85QmJhaDZxU1dUb1FTQmNZRUlvRUJSVDEzSjhMQ0FJbi11bkYxSG1VYTRWWlo1N3VZMWRVTnZtR3dz?oc=5",
         "pub_date": "Tue, 01 Sep 2026 08:06:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLc3VfTFF0X1FFaF9Wd0J6VWphS1lSSnRwYW1GREdaZDJET1habWx6akNPakprYjc2b1U5ODZfVEVsY0tOT1E?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 08:02:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "196170-기타-5935-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -7094,9 +7104,14 @@
         "press": "비즈체크",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KUmVXajBQWFhGM2pnbjhKVkl6WUc4bGJWZGFBN2FEZlpTWGQyemp4ZVFuQ29lVXJxUjM2ZVlLYUJQdTVrcm1KZG9ZNnRBX3RoRzN2aFRfUmNackRBZnlwOFVScFRpWjZ5a1REUDY5WQ?oc=5",
         "pub_date": "Tue, 01 Sep 2026 09:12:15 GMT"
+      },
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZEdwSloyOVFjbGxqNU9aRV9mYUR2LTc0aHN3bGxyZEMtSUZEWmpTRzc3ZHN0ZmZ0YVQ1YjJUT3dfdzdhRUNYYmFxdnExUVdNb2FfR2RXTGVPODRiTVhFY3pLemt0emJDeDBMMA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 07:29:27 GMT"
       }
     ],
-    "source_count": 13,
+    "source_count": 14,
     "id": "000100-수주-5953-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -7484,7 +7499,7 @@
     "sector": "바이오",
     "category": "기술",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "올릭스, ‘원형 mRNA’ 제조기술 美 특허 출원…“단백질 발현으로 영역 확대” - 조선비즈 - Chosunbiz",
     "source_type": "news",
@@ -7493,9 +7508,19 @@
         "press": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXBVV2pqZFBralptaGVIa0lYRTlkQnBQWTM1a1JVNWNCZXVxM3gwREF3YVFtQWVEVjN2WHdDcTNTU1otUWVKUGZBMGc2Q29OZjJveVFqeUdESmxvc212ZG9VZm5KWHZWc3VVdVo3TE83NmxEQTI4TFVCaGRjZWxEdmRYVE5kWHQ1aTZ1cU9NMk5pNUppMnM2anhMUdIBmwFBVV95cUxOSXBVV2pqZFBralptaGVIa0lYRTlkQnBQWTM1a1JVNWNCZXVxM3gwREF3YVFtQWVEVjN2WHdDcTNTU1otUWVKUGZBMGc2Q29OZjJveVFqeUdESmxvc212ZG9VZm5KWHZWc3VVdVo3TE83NmxEQTI4TFVCaGRjZWxEdmRYVE5kWHQ1aTZ1cU9NMk5pNUppMnM2anhMUQ?oc=5",
         "pub_date": "Tue, 01 Sep 2026 08:56:00 GMT"
+      },
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQRFJQTkRtbVh6LWdhSWI5UF9Pb1J0eUtrYnk4cXJwaDZqTlhwcEdzN2FISDBzSGNEczNqb0pQOEY1dzZfSXlEU1AxdUhHWkdQS3hpU2lVQko1V25HMEF0Si1WVkZWd9IBU0FVX3lxTE5ZS1hWSnpxbzVLMHgzSEl6QnVsdENHQWJtbkx2WnR2TVBKN0N2N0xkNVpEMVRVRm9oeHZtYUppNm1wWjd6TWRrbnhGdzdXZi1ZamFV?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:12:39 GMT"
+      },
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdTFfTUJxTW9jN3p5U25qNUpZcnd2V0Y4UHBqS0lXbjF6a05XTVd6emxzVmVNaWFLVjdiU0Z3UlZ4STd3NFJFNDZxZHg5ckxzbjNwamNDZ1BMR21qR0hna0p6dFBsSFJfdnRBS0x5U3XSAXBBVV95cUxOQ3UxX01CcU1vYzd6eVNuajVKWXJ3dldGOFBwaktJV24xemtOV01Xenpsc1ZlTWlhS1Y3YlNGd1JWeEk3dzRSRTQ2cWR4OXJMc24zcGpjQ2dQTEdtakdIZ2tKenRQbEhSX3Z0QUtMeVN1?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:05:50 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "226950-기술-6245-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -7643,10 +7668,39 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhX1dLQ081V0x1dVM2MFlULUhnSzBlOTNrcGNSQ0FKd3o3akp5MGZ2bmx3RVIzWE5IRGNiWGZ6Q0t5d0lXY3lfbjJHdENVQlU?oc=5",
         "pub_date": "Tue, 01 Sep 2026 18:51:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBES3FBdnVqa0Zxa0dtSTdCUDMwN1dXTWdNR1FmMElIZVd1bWFRMjBkaVljTnlxdjhHWTBncWxJaXdRYjZCcXBRLVNtZVdEYm8?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 21:24:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "005930-리스크-6340-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“삼성전자 TV 저격한 중국 업체”…中 TCL, ‘미니LED 허위광고’ 소송 - 매일경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43dFFsdkJXRTFIUUdaeUkyeDNtU1Vwa2RfRV9RTkdzcmVEVGVYd2RleF82OGpVNmhBYXYzWU92Q3RmcmVOeWNWWnNhM25pVWNXdGc?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 21:22:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-6363-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
     "status": "일반",
