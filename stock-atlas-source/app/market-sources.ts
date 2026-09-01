@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "[단독] 반도체 호황으로 상장사 올 상반기 법인세 전년比 522.5%↑ [2026...",
-      "office": "조세일보",
+      "title": "[애프터마켓 리뷰] 비만약 다음은 탈모약'…글로벌 관심에 관련주 급...",
+      "office": "SBS Biz",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/123/0002389429"
+      "url": "https://n.news.naver.com/mnews/article/374/0000530680"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
