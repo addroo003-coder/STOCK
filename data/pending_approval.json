@@ -5063,7 +5063,7 @@
     "sector": "AI 반도체",
     "category": "바이오",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "30년 만에 새 본태성혈소판증 치료제…FDA, ‘베스레미’ 승인 - healthcaren.com",
     "source_type": "news",
@@ -5072,9 +5072,14 @@
         "press": "healthcaren.com",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6S2VDdHJCLWJkZDZFM2FGNUt0LVF5SXhJOVVtWmx5bjdCTEhZQXhxOE5PcVpVbTJrRlZCN2htOXIwM0lsRGthVS1pRmJBM3pDeEZPZHdQbUdpTzIzLTlDNGMyWkxVLUN4bGhUdVZSVDF3VjN4?oc=5",
         "pub_date": "Mon, 31 Aug 2026 22:13:01 GMT"
+      },
+      {
+        "press": "헬스코리아뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qQ0dYYk92RUltMkJ5WTZSZVotZ0NNMWFyalBWQ0p6cHRxeDlDMXFud0t5aUFpeVk4aWZwR2dseUpyUktXVk1hanpINm5FVWg4c3FXR2l3QlZEZUhzTHFSb0xTWmpNd2s?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 22:05:18 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "323280-바이오-5119-20260831",
     "first_seen": "2026-08-31",
     "last_updated": "2026-09-01",
@@ -5135,9 +5140,29 @@
         "press": "스포츠경향",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tZVdOaHZWU3V5WHZJdkJ4X25xZ3VldVBtWlNkQkM4aVc3cHAtSXJpYzJVU3NJSVdEa3h1R21DT1hBdmpsejNuSlc0c0Q0bENsNHlvVU9Kd0xnMTdJQmfSAWNBVV95cUxNcm5IM1AtR2lyY0dKSHpQX0ZBb2Y5ekZNRE5vN2RFQi1ZMGg0QzE3R0c1aGZxYTNGQ284bnpVUUhuMXhhWkxFRGtjLS00NFZRdG1TSlBTVWdtS3JXeGozbWQtVXM?oc=5",
         "pub_date": "Tue, 01 Sep 2026 00:07:00 GMT"
+      },
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EMXJIUjNFOXdPNzVSRnAyeDFZYkQxRURPcWpOdE1YV0ZzTXdWWjdtV2tZVkpPLVBndzRneFJFOGdNMmpaNGpNZ0hWVGs1T3BpZDd4WUNTRHJBTjQwZmJOY3RxR3dRQQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 03:37:24 GMT"
+      },
+      {
+        "press": "DealSite경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VWWpSQ1RKRUlxUU1PRV9tWGxzOUVPNmNNUmFyRXI3NVY2QXlpM0YwczV0NTI5MGVscnFtdEwySGJWZnpuajFleDdtV0NFVTE3R0hCNk1n?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:22:33 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdXYzcjBKbG9sY25mX2d5RnBCVmV2NndMM011SzU2YURtOUM2TVpwZVYyTGhqQWpmN2NEc05KcnRkZi1EMGhDMXRiM295OWpzNkNqUDJ4M2dxWGFsSXlNNA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 01:21:30 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iVW0xSzgtMndLRzZzZUdBRi1JTFVnamtSRTliVF9FQ2oyRWo4dEVDdTNXajZteWY0dnRoYV9IWGJqLWd5NTU5TnYyMl84Zw?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 00:49:49 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 8,
     "id": "005930-기타-5191-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5164,9 +5189,14 @@
         "press": "스트레이트뉴스",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50V0VrQVVlNHFjM25VcGtZaDlSdVlKeVJLWmIzQXNDcTdEeWlzSFA2MTFLNkVBOC14S0RBN05jU2NrMm5LR0lrRnRoLVdsSl9UaVhXd1M2Nl9QQm5CaU9EUTh1dlNOUmh4QnVzVEZ5Y19iS0drSERR0gF3QVVfeXFMTnRXRWtBVWU0cWMzblVwa1loOVJ1WUp5UktaYjNBc0NxN0R5aXNIUDYxMUs2RUE4LXhLREE3TmNTY2sybktHSWtGdGgtV2xKX1RpWFd3UzY2X1BCbkJpT0RROHV2U05SaHhCdXNURnljX2JLR2tIRFE?oc=5",
         "pub_date": "Tue, 01 Sep 2026 00:43:38 GMT"
+      },
+      {
+        "press": "스트레이트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kTWR5NTZvTTFyaHB4eHpzekFjWjRiWnhFZmRHRHpmandmZXRRX2xNSGpsMHNCSnlFeGQ3TVRJT1ZhcjZxVVB3VGVKWm90NWxuWTg0bThvSnpxOFZPQkQxbVEzd01faVdjRU5BNGtLRVFjSHfSAXdBVV95cUxOdFdFa0FVZTRxYzNuVXBrWWg5UnVZSnlSS1piM0FzQ3E3RHlpc0hQNjExSzZFQTgteEtEQTdOY1NjazJuS0dJa0Z0aC1XbEpfVGlYV3dTNjZfUEJuQmlPRFE4dXZTTlJoeEJ1c1RGeWNfYktHa0hEUQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 00:35:35 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "005930-기타-5192-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5299,9 +5329,19 @@
         "press": "newspim.com",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0b2pOMnRYanRpZGQ3aVFTTHFuVWs1QjdJWG5LUE80enVJZlRQMko3NVZlWkxxelpReHZ6NUpYZjVLVVkweV82SmE2YlBfNHlkdE84U1gyczA3R3Ro?oc=5",
         "pub_date": "Tue, 01 Sep 2026 00:51:00 GMT"
+      },
+      {
+        "press": "weeklytoday.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmeFdxZXRSeVl5NlRTb1ZZSnc4V05yV2VfUGdxUko3YlN2WWI3LWlTWkxkbU9qMDktR1hNZjNvSml2U2RXTHNKWDE0WDBuTjZKTmNqdE9IQkV3aFhKZk03ZzdtNndEV2lVR1BKTXBR?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 04:19:58 GMT"
+      },
+      {
+        "press": "영남신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jeXdRb3A4MThfaHVKeURsdFFlSC1QZ213YzI3TUE3RHdRX1ZydWJUeFUxSDJic1o4b2ZCN3Q2SlU1NjNXaEZGTnNacHFZQjdtWnhtOUlndTRYSFcwejNMVmROUWhHSXk0TWZZd3ln?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:09:09 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 5,
     "id": "083650-기타-5256-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5357,9 +5397,34 @@
         "press": "메디칼업저버",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KNWx6YUpoRnlHVW1GU3lRQkJiTXdaM2NtdmtiajlWandERHpLWERkYkdXOFNhNlpOREk1LUNDNllCUTBhVV9VZHhFZmdYQzRvbGlqd0NWVUJtT2JZbXZjZ2ZWMk5SY3Y5aUFB?oc=5",
         "pub_date": "Mon, 31 Aug 2026 23:47:27 GMT"
+      },
+      {
+        "press": "데일리팜",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TSnk0elVQTENYZWdST3ZITzlGMnIwd3RBMlVDbVhYbkhQbU8xY2FVa25JeFU4Vm1sYmVPSW1XalNieTZTdnpwcjJXRE1HM3BENVhmdjh3?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 04:40:17 GMT"
+      },
+      {
+        "press": "청년의사",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vQXlDTm01OUtTRjdLRngzZnpoUE5yeFlkMmotMFhFVmowd29vU3dFQjluZE1xaFdTMzVDZDFEOHJKOG5qTHQteGF4Mi13cHlLOFRJWGtVTU9peUdDM0w0UDRIYUc0cHVfdGtZWlVQU3fSAXNBVV95cUxNdVlJSm5KT0J0QXR3OVU4UEthUXJ2d0xwSFZCRGRsTXhWeGN0M0RFVk42T2hHWjd0MVRSQjUwV09FMThwVVRLc0pjUjV1TjZyTzVoblVCMkE0emZLeE85UmpaeEdzaHBuZlJObk1MeHlmMUk4?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:40:31 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FQzdaelVFanVIYlI4emYzMVYwUWY2RlFFWm9QV3VZc0czQXVtVm9CS0R6cTJoT2FnUkMwcmZhMnVGT0N6RXlCWjc3b1J6Zw?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:23:08 GMT"
+      },
+      {
+        "press": "중소기업신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaEdrcjdZVnBwUnUyZXZfTVAxd3Q0NVlLWlhjOVhhWDFRR0pNR2szMDc2XzJrRFVtZ1Y3ODZab2Fmc3RRT3pSc1lJT2tYZmJvTk5rbHQ2bVltb21waHVmWGR4WjZNZ2FOclRoaA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:27:29 GMT"
+      },
+      {
+        "press": "뉴스락",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xemN2ZnlkREVpcWwwQWF4MVk4Y21JTEplcHo5RWszQjhaaERyNHVscnhsc0JqWVE3MnZLLTE3TmhYdlFFTzNwZVJBb2FVZFEzMXBZVHJTOEdzOWFKYy1mRld6dFNxeURzZ1ZKTA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:51:53 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 8,
     "id": "000100-기타-5300-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5580,9 +5645,14 @@
         "press": "버핏연구소",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lenVOZ3l0d0p0amh4WTVSRFdRN2hLdVpsYkRqeE9KS2tvMElmUXlCVWRudk1YaHJJNFB0bHBHSzBNcjZvTjRyRllYcXFmMHNudGs4eUs3NE1JVmMybTQtcUtR?oc=5",
         "pub_date": "Mon, 31 Aug 2026 23:38:09 GMT"
+      },
+      {
+        "press": "버핏연구소",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GaWg1VDYzLWE3U1Fod1dkM1lySkdUYVczWmEzeEJjdlQ4U0RXencwVTltREZwcFJkcU5MWnlmUWpCN2tzMDdYRXhhVThNTkVrNHRIVVMtSk5PSjJN?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 23:38:09 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006400-기타-5324-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5753,9 +5823,14 @@
         "press": "한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LaWtPSDVOMUl6djN6UTMyclRtN0xxcjd0eGZTelpLZUt5ZkYzNGdoWHR2S3F4aTRoWU16dTdoWXdkRVZCX2FoSTlJLTkxa2JOSVcxbTdZQXQ1Zw?oc=5",
         "pub_date": "Tue, 01 Sep 2026 01:10:50 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdWliSmRXMnVpM1BZUlZXSU9wNkJWakg5eE5Cd0NweFhfZGduVmI5MXprcG05aHRZT0ZHVUxhNEgwVWZUVTg3aTlDaGtMTGRBRDhuZVZYV19DS0FvaDRNbjZxTFpMUWtE?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:53:14 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "009150-수주-5396-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5806,9 +5881,19 @@
         "press": "서울경제TV",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VSHh3V3U4NWpDM2hiWG1zME00bFVuTnRxZEhjeVFzX3hCVUJkSU5ybFdBWEJkX3ltN2FaU091U2VwdGJ6OU9LZHJ2WW9maW9sZTk1ZHdWaDZyQ0hqT25ERnFKYW0?oc=5",
         "pub_date": "Tue, 01 Sep 2026 01:04:20 GMT"
+      },
+      {
+        "press": "신아일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWHE3RFNkNTg5OTVBR1k2OHRnUi1OS2hmMXdtX09uTXRqd0JiaC1WT2psZHFXSnQ4YmNJZ2x5OFFpVVhhTGVYY3VQWjRpaXV5Undta0R5bW5hY19od1JxQ09reklBbENZSndheVdXLVk?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:22:54 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LaWtPSDVOMUl6djN6UTMyclRtN0xxcjd0eGZTelpLZUt5ZkYzNGdoWHR2S3F4aTRoWU16dTdoWXdkRVZCX2FoSTlJLTkxa2JOSVcxbTdZQXQ1Zw?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 01:10:50 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "009150-수주-5398-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5902,9 +5987,14 @@
         "press": "주간한국",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eFRnUV83Q2UzbWtzcER0ZktSMktvTDVTM3ZSQ2ZKQjA0T0dYWTVwV1VFTVJiS1NqMjE1ckdiRlRpTFQ2QVZCMzgxSjl6UjhNOC1FZGtRMzA4aEkwc3lJYWc1Nk9vT25Ib0JRYXBQTTjSAXRBVV95cUxOTVdSUDBST2hELWdTS3ZyZjNXQVhRYXA2bi02NnhnOFM3X2FLem1YZjk1N2R5M25RRnR3UzhiUE14WDVURHIxQlNldVRjekkzRkxnU1UwTVR0Zi14RGRJTEJJR2ZBaUJ0NTVFY0pPcWJ6cVE5Wg?oc=5",
         "pub_date": "Tue, 01 Sep 2026 00:33:33 GMT"
+      },
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NV1JQMFJPaEQtZ1NLdnJmM1dBWFFhcDZuLTY2eGc4UzdfYUt6bVhmOTU3ZHkzblFGdHdTOGJQTXhYNVREcjFCU2V1VGN6STNGTGdTVTBNVHRmLXhEZElMQklHZkFpQnQ1NUVjSk9xYnpxUTla0gF0QVVfeXFMTk1XUlAwUk9oRC1nU0t2cmYzV0FYUWFwNm4tNjZ4ZzhTN19hS3ptWGY5NTdkeTNuUUZ0d1M4YlBNeFg1VERyMUJTZXVUY3pJM0ZMZ1NVME1UdGYteERkSUxCSUdmQWlCdDU1RWNKT3FienFROVo?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 01:33:18 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-기타-5423-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -5989,9 +6079,34 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uT3FzWjdQb2NrazRITXFBUGRXY0pGcUZ6MWZMcUI5NjAzUGxUMy05Y2JhWW5McUVrbURCSV9zVjRRT3I1YnZNeTJRRjlLMFdNUGlvZ3pDclV1MS1sUlY2d1NLeFVIM3JUaG05ctIBcEFVX3lxTE5DdTFfTUJxTW9jN3p5U25qNUpZcnd2V0Y4UHBqS0lXbjF6a05XTVd6emxzVmVNaWFLVjdiU0Z3UlZ4STd3NFJFNDZxZHg5ckxzbjNwamNDZ1BMR21qR0hna0p6dFBsSFJfdnRBS0x5U3U?oc=5",
         "pub_date": "Tue, 01 Sep 2026 01:58:14 GMT"
+      },
+      {
+        "press": "MTN 머니투데이방송",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sRmNKSVVnT2pxREpqbTByQUg4QVJBMGRzanM2NWl5SWEtX0x4NGpPNFlpMngzR0dJd1dudHJyN081Zk4welNIVzhKbzJVM0F4eEN1QUtTaktFNjFYcVBwWEh3WS0?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:10:02 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBV3BIYlFIWkkyNmtoRkp1cml0dDd2bDhlMzdOSTVNaThuNHlpSlU5UmlQSVhxcHNvbWZfeW5STnhpbGN0a3drUVM2TWIxNnF3TUFrMmdUa2k4T2pnV2RqX2dyV3R5bVBlWXZZVXpXONIBb0FVX3lxTFBBV3BIYlFIWkkyNmtoRkp1cml0dDd2bDhlMzdOSTVNaThuNHlpSlU5UmlQSVhxcHNvbWZfeW5STnhpbGN0a3drUVM2TWIxNnF3TUFrMmdUa2k4T2pnV2RqX2dyV3R5bVBlWXZZVXpXOA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:10:38 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14Y1NQLWJLcW5WVzdVbGJpeFVQYlotODNxZ24zYXJiV194cENrS2ZZU0RLMm9lengzVEFMZTAydnNZRG1DTDJzUE12VGFKMWc?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:35:06 GMT"
+      },
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQRFJQTkRtbVh6LWdhSWI5UF9Pb1J0eUtrYnk4cXJwaDZqTlhwcEdzN2FISDBzSGNEczNqb0pQOEY1dzZfSXlEU1AxdUhHWkdQS3hpU2lVQko1V25HMEF0Si1WVkZWd9IBU0FVX3lxTE5ZS1hWSnpxbzVLMHgzSEl6QnVsdENHQWJtbkx2WnR2TVBKN0N2N0xkNVpEMVRVRm9oeHZtYUppNm1wWjd6TWRrbnhGdzdXZi1ZamFV?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:12:39 GMT"
+      },
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdTFfTUJxTW9jN3p5U25qNUpZcnd2V0Y4UHBqS0lXbjF6a05XTVd6emxzVmVNaWFLVjdiU0Z3UlZ4STd3NFJFNDZxZHg5ckxzbjNwamNDZ1BMR21qR0hna0p6dFBsSFJfdnRBS0x5U3XSAXBBVV95cUxOQ3UxX01CcU1vYzd6eVNuajVKWXJ3dldGOFBwaktJV24xemtOV01Xenpsc1ZlTWlhS1Y3YlNGd1JWeEk3dzRSRTQ2cWR4OXJMc24zcGpjQ2dQTEdtakdIZ2tKenRQbEhSX3Z0QUtMeVN1?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:05:50 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 9,
     "id": "226950-기술-5532-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6105,9 +6220,14 @@
         "press": "전기신문",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTVJ2TGhVU0ctRjlEWVpGSUtpTkN0TWZmT1hYc0tYVXlYeEhCOVJFdzFiQkRZV1ZUTFFtNjdjTC1MRFpWdmJtbVdfc0RLSm5VV0l5Q2R3LUtBcnNwWHZSdktkZmtvbjlOZm1RX9IBcEFVX3lxTE9KVW96eVFUaGhWaERZMFVUc0wxMFBjTGJzcFVBWHAtT0NObXJfT1VHY1JUb3JDV2Q4c0tiYWJfNHlOY0tEUEFVendYNWlCenI3bzJ4OVN0ZzdqVXQyaE1QRC0wVDJ0aEVaRl9ienRsMjc?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:00:12 GMT"
+      },
+      {
+        "press": "전기신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVW96eVFUaGhWaERZMFVUc0wxMFBjTGJzcFVBWHAtT0NObXJfT1VHY1JUb3JDV2Q4c0tiYWJfNHlOY0tEUEFVendYNWlCenI3bzJ4OVN0ZzdqVXQyaE1QRC0wVDJ0aEVaRl9ienRsMjfSAXBBVV95cUxPSlVvenlRVGhoVmhEWTBVVHNMMTBQY0xic3BVQVhwLU9DTm1yX09VR2NSVG9yQ1dkOHNLYmFiXzR5TmNLRFBBVXp3WDVpQnpyN28yeDlTdGc3alV0MmhNUEQtMFQydGhFWkZfYnp0bDI3?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:07:21 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "373220-기타-5550-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -6133,6 +6253,179 @@
     ],
     "source_count": 1,
     "id": "373220-수주-5552-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“역대 최대 1조원”…삼성전기, AI서버용 MLCC로 글로벌 큰손 잡았다 - 에너지경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13RWdjOGNNaGxvSGo0ZnNYVzNyMy13MXNFSDFMTmota192SktXT2lCS19UdDFoVmRfa3dxc0N5U25NR1FnZk5rVEJETE9aaU9NZVVxWmJBWHpORHBzLUdaMlZnOA?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 04:35:36 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-5634-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 해외 대형기업과 1조원 규모 MLCC 장기공급계약 체결 - 디일렉",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WeVhMUHpEdTEzTGpXNE5TS1pEOEE0UU53UHllWGhiQ2VVejg3ZzNfcld2OG9yZTZnSjdtb3ZnSUNqWFppMlE5WXJYZGVhMVdpR294UnJEOUc0cG5DUmhXN1ZoMVZKQQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:47:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-수주-5635-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대덕전자, 환율보다 중요한 AI향 매출 본격 확대 - mdtoday.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "mdtoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vd3Zrbll6TUlJanF3SVRwOWxSWjE0aTI3VHJBUExTcXg1OFlFLWVwaHoyQUxjdU1BUVNrTmNCS2M4T2dsQ1J2T3RXSW8tT1U3TUdreUJ1X05UWDhvSlhRVjY0TWYxdGFCWmRCMg?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:36:28 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-실적-5645-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에스오에스랩",
+    "stock_code": "464080",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 에스오에스랩, 71억원 규모 라이다 장비 납품계약 체결 - 뉴스티앤티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZldSYl9VRkpuWWgzSnlua2VGUURrN2dKUVlFd3lTQ3pwcTRkaHVFa3ZRZzNiUE9yc2tuWWdBbFlnMVJSTmp1TE10b3FwUWxJa3ZCX0lYdUg4SWRnZHdsblJmUE1mOGttT3c?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 03:02:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "464080-기타-5689-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "청담동 ‘휴젤빌딩’ 매수자풀 확대 나서는 코람코, 매각자문사 추가하고 경제지에 광고까지 - SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aUmEtR21CZUx6YjNYblNDUHM0R3Fqa00wVzJlandhMXlvckZLZ2wyUXFRczdxQXVUel9rTW11YXpjYTRrbE1jZW5TazRHaFVVZUhjRmVXWEpaOW8?oc=5",
+        "pub_date": "Mon, 31 Aug 2026 21:46:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-기타-5763-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "﻿파마리서치 “리쥬란 논문 철회, 효능·안전성 문제 아니다” - 데일리메디",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZlRqakM0UVlWREdKV3RteUkzU2Fmc2pvOUZhOTNGVnUyeFBiSkRGdEZsMmxhN3BrdVlOcWtOQWpiZE16T1NXNUVyUmlMWFNPNUtTN2thTUY2SmMyYTZSV3V3QlpGU2gx?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 03:32:00 GMT"
+      },
+      {
+        "press": "1conomynews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UNHE2cDQ0eWhXcmhTVVBZWVRxTWdLdE9URWV3Wk9acHBCcFhiaHZsaVlpSE1fRlRiQnJCV2pONmJsZVlpY2dnMkFMWFdjaXJFTUsxRGdrSExnR3ZKZFhoQl9QNjd3VnN0a21uRG1MUTI?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 05:19:08 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "214450-기타-5768-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "피엔티, 최대주주 김준섭 측 주식등 보유 비율 0.02%p 증가 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mRUsxWThwLWtnTTl1YVRMVlp4N1JXYWE2ZUljTkpuZkFwQjFNdmR1emswS2lsajd0bzV1N2tUQzBfRXpoZ0ZrcmFYN2R5TWZQSFRjY29tZXgtamtpZFB1aGpRSC12Q0Y0YV93TGNYaWpZc28?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 04:02:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "137400-기타-5795-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
     "status": "일반",
