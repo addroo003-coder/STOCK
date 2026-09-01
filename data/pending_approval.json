@@ -6199,9 +6199,14 @@
         "press": "한스경제",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qVkdnWUN3OUVTYXRTdUlLRlJiR1VIYXVHLWU1dEpBZEtzTFVBeW1OZG9oX2hSakZTWnVRd3hIMzV5YmdBUUJfR3hIOXdhc19DdmZnT3pOZlNXU1VCS0JFWDVsY1JiemRiWXpz0gFvQVVfeXFMT05oNG5WRFdxVDR2d2lYZlhBWF82azFPOVgtdGI4T2N4a3VOYTEyZDhKY2YyY3FteFZXQU4wdmpLNTVDZ2FFNVFHTXpxUEJIYzNQXzV3aENqOVA2YXB0ZGFlemtZbHlzVkN3MmFkYXJB?oc=5",
         "pub_date": "Tue, 01 Sep 2026 06:27:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hT3JRN00wRGdOemJPbTB5XzNLVUZXZUt3anFCWXlwUkthVTQyMUdIeDlfNmN6QjVXWUxEM2NCa0dhckhudHBLVW1TbHZyQ28?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 02:13:00 GMT"
       }
     ],
-    "source_count": 16,
+    "source_count": 17,
     "id": "226950-기술-5532-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
@@ -7608,6 +7613,40 @@
     ],
     "source_count": 1,
     "id": "105840-기타-6329-20260901",
+    "first_seen": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 中TCL에 소송당했다…'미니 LED' TV 허위광고? - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kTjdvR3lEcFlKTC1VbGlRSXYtWklLLWpOYzNmQ3hXbWxMUV9rVzk0eTU1Rm95UGQyTHRrMk13TnZqVnB6Z0hGWnhReU1wOVE?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 19:06:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nQ1Rnc2dncGlVSWxtSXpCVUF2b0dzaGpfenlCNHU2RkNaUng0aVlBb0h0RzRVM0wwb0FmSm5GTDI0emxtOHBTaXpwUThRODg?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 18:25:55 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhX1dLQ081V0x1dVM2MFlULUhnSzBlOTNrcGNSQ0FKd3o3akp5MGZ2bmx3RVIzWE5IRGNiWGZ6Q0t5d0lXY3lfbjJHdENVQlU?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 18:51:00 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "005930-리스크-6340-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-01",
     "status": "일반",
