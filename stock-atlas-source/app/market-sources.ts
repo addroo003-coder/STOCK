@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, '세미콘 타이완'서 메모리 기술 한계 극복 공개",
-      "office": "SBS Biz",
+      "title": "AI 훈풍에 2분기 글로벌 eSSD 매출 103%↑…삼성전자·SK하이닉스 점유...",
+      "office": "뉴시스",
       "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530596"
+      "url": "https://n.news.naver.com/mnews/article/003/0014162396"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자, 2분기 eSSD 시장 1위 수성…마이크론 매출 126%↑",
-      "office": "연합뉴스TV",
+      "title": "AI 훈풍에 2분기 글로벌 eSSD 매출 103%↑…삼성전자·SK하이닉스 점유...",
+      "office": "뉴시스",
       "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901691"
+      "url": "https://n.news.naver.com/mnews/article/003/0014162396"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
