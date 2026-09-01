@@ -96,6 +96,19 @@
     "sector": "AI 반도체",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260901800106",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800106",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "기타",
     "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
     "rcept_no": "20260831000803",
@@ -234,6 +247,32 @@
     "is_correction": true
   },
   {
+    "company": "에스오에스랩",
+    "stock_code": "464080",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260901900147",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900147",
+    "is_correction": false
+  },
+  {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주총회소집공고",
+    "rcept_no": "20260901000036",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000036",
+    "is_correction": false
+  },
+  {
     "company": "현대건설",
     "stock_code": "000720",
     "sector": "원전·SMR",
@@ -296,6 +335,19 @@
     "rcept_no": "20260831800641",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831800641",
+    "is_correction": false
+  },
+  {
+    "company": "우진엔텍",
+    "stock_code": "457550",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260901000033",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000033",
     "is_correction": false
   },
   {
@@ -504,6 +556,19 @@
     "rcept_no": "20260831001319",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001319",
+    "is_correction": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260901000014",
+    "rcept_dt": "20260901",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000014",
     "is_correction": false
   },
   {
