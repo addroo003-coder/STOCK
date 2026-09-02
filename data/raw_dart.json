@@ -221,6 +221,19 @@
     "is_correction": true
   },
   {
+    "company": "비에이치아이",
+    "stock_code": "083650",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260902900118",
+    "rcept_dt": "20260902",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902900118",
+    "is_correction": false
+  },
+  {
     "company": "두산에너빌리티",
     "stock_code": "034020",
     "sector": "전기·전력",
@@ -283,6 +296,19 @@
     "rcept_no": "20260831001369",
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001369",
+    "is_correction": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식소각결정              ",
+    "rcept_no": "20260902800179",
+    "rcept_dt": "20260902",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902800179",
     "is_correction": false
   },
   {
@@ -617,6 +643,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "투자판단관련주요경영사항              (재조합 인간 히알루로니다제 제품 ALT-B4 독점적 옵션·라이선스 계약 체결)",
+    "rcept_no": "20260902900182",
+    "rcept_dt": "20260902",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902900182",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "투자판단관련주요경영사항              (ALT-B4 라이선스 계약 파트너사 MSD로부터 판매 마일스톤 수령 예정)",
     "rcept_no": "20260831900176",
     "rcept_dt": "20260831",
@@ -798,6 +837,19 @@
     "sector": "이차전지·ESS",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "자본",
+    "title": "유상증자1차발행가액결정              ",
+    "rcept_no": "20260902900206",
+    "rcept_dt": "20260902",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902900206",
+    "is_correction": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "기타",
     "title": "효력발생안내( 2026.8.18. 제출 증권신고서(지분증권) )",
     "rcept_no": "20260818100017",
@@ -882,6 +934,19 @@
     "rcept_dt": "20260831",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001439",
     "is_correction": true
+  },
+  {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260902000026",
+    "rcept_dt": "20260902",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902000026",
+    "is_correction": false
   },
   {
     "company": "피엔티",
