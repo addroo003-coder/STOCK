@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import { scenarioText, sectors, type Scenario } from "./data";
 import { earningsByStock } from "./earnings-data";
 import { marketSourcesByStock } from "./market-sources";
+import { issuesByStock } from "./issues-data";
 
 const beta: Record<string, number> = { semi: 2, power: 1, robot: 4, nuclear: 1, space: 3, bio: 4, battery: 3 };
 
@@ -37,12 +38,22 @@ function formatNewsDate(value?: string) {
   return `${value.slice(0, 4)}.${value.slice(4, 6)}.${value.slice(6, 8)}`;
 }
 
+function quarterInfo(period?: string) {
+  if (!period || period.length !== 6) return { short: "", full: "", year: "" };
+  const year = period.slice(0, 4);
+  const yy = period.slice(2, 4);
+  const qNum = ({ "03": "1", "06": "2", "09": "3", "12": "4" } as Record<string, string>)[period.slice(4)] ?? "";
+  return { short: `${qNum}Q${yy}`, full: `${year}년 ${qNum}Q`, year };
+}
+
 function earningsEvidence(name: string, earnings: typeof earningsByStock[string] | undefined) {
   if (!earnings) return `${name}의 분기 실적은 공시 원문 확인 후 반영합니다.`;
   if (earnings.q2.status !== "확정") {
-    return `1Q26 매출 ${formatFigure(earnings.q1.revenue)}억원·영업이익 ${formatFigure(earnings.q1.operatingProfit)}억원을 기록했습니다. 2Q26은 예측치를 섞지 않고 확정 집계 확인 후 반영합니다.`;
+    const q1Label = quarterInfo(earnings.q1.period).short;
+    const q2Label = quarterInfo(earnings.q2.period).short;
+    return `${q1Label} 매출 ${formatFigure(earnings.q1.revenue)}억원·영업이익 ${formatFigure(earnings.q1.operatingProfit)}억원을 기록했습니다. ${q2Label}은 예측치를 섞지 않고 확정 집계 확인 후 반영합니다.`;
   }
-  return `2Q26 매출 ${formatFigure(earnings.q2.revenue)}억원·영업이익 ${formatFigure(earnings.q2.operatingProfit)}억원입니다. 매출은 YoY ${formatChange(earnings.comparisons.q2RevenueYoy)}, 영업이익은 YoY ${formatChange(earnings.comparisons.q2OperatingProfitYoy)}로 현재 실적 판정은 ‘${earnings.interpretation}’입니다.`;
+  return `${quarterInfo(earnings.q2.period).short} 매출 ${formatFigure(earnings.q2.revenue)}억원·영업이익 ${formatFigure(earnings.q2.operatingProfit)}억원입니다. 매출은 YoY ${formatChange(earnings.comparisons.q2RevenueYoy)}, 영업이익은 YoY ${formatChange(earnings.comparisons.q2OperatingProfitYoy)}로 현재 실적 판정은 ‘${earnings.interpretation}’입니다.`;
 }
 
 export default function InvestmentAtlas() {
@@ -63,6 +74,7 @@ export default function InvestmentAtlas() {
   const selectedStock = selectedSegment.stocks[selectedRef.stockIndex] ?? selectedSegment.stocks[0];
   const selectedEarnings = earningsByStock[selectedStock.name];
   const selectedSources = marketSourcesByStock[selectedStock.name];
+  const selectedIssues = issuesByStock[selectedStock.name] ?? [];
   const selectedScore = scoreFor(selectedSector.key, selectedSector.score, selectedSector.delta[scenario], riskBudget);
 
   const allStocks = useMemo(() => sectors.flatMap((sector) => sector.segments.flatMap((segment, segmentIndex) =>
@@ -92,7 +104,9 @@ export default function InvestmentAtlas() {
     if (scroll) window.setTimeout(() => document.getElementById("stock-detail")?.scrollIntoView({ behavior: "smooth", block: "start" }), 60);
   }
 
-  const memo = `[성장산업 투자지도]\n시장 시나리오: ${scenarioText[scenario].label} / 위험예산: ${riskBudget}단계\n섹터: ${selectedSector.name} (${selectedScore}점·${scoreLabel(selectedScore)})\n세부 산업: ${selectedSegment.name}\n핵심 종목: ${selectedStock.name} [${selectedStock.style}]\n밸류체인 역할: ${selectedStock.role}\n핵심 투자모멘텀: ${selectedStock.note}\n왜 지금인가: ${selectedSegment.catalyst}\n실적 근거: ${earningsEvidence(selectedStock.name, selectedEarnings)}\n모멘텀 훼손 조건: ${selectedSegment.risk}\n다음 확인 지표: ${selectedSegment.check}\n최근 리포트: ${selectedSources?.report ? `${selectedSources.report.broker} · ${selectedSources.report.title} (${selectedSources.report.date})` : "공개 리포트 없음"}\n최근 관련 뉴스: ${selectedSources?.news ? `${selectedSources.news.title} (${formatNewsDate(selectedSources.news.date)})` : "관련 뉴스 확인 중"}\n2026년 1Q 실적(억원): 매출 ${formatFigure(selectedEarnings?.q1.revenue ?? null)} / 영업이익 ${formatFigure(selectedEarnings?.q1.operatingProfit ?? null)}\n2026년 2Q 실적(억원): 매출 ${formatFigure(selectedEarnings?.q2.revenue ?? null)} / 영업이익 ${formatFigure(selectedEarnings?.q2.operatingProfit ?? null)} / ${selectedEarnings?.interpretation ?? "검증 대기"}\n시나리오 대응: ${selectedSector.actions[scenario]}\n※ 산업 분류와 상대평가를 위한 정리이며 개별 종목 매매 신호가 아닙니다.`;
+  const q1MemoLabel = selectedEarnings ? quarterInfo(selectedEarnings.q1.period).full : "1Q";
+  const q2MemoLabel = selectedEarnings ? quarterInfo(selectedEarnings.q2.period).full : "2Q";
+  const memo = `[성장산업 투자지도]\n시장 시나리오: ${scenarioText[scenario].label} / 위험예산: ${riskBudget}단계\n섹터: ${selectedSector.name} (${selectedScore}점·${scoreLabel(selectedScore)})\n세부 산업: ${selectedSegment.name}\n핵심 종목: ${selectedStock.name} [${selectedStock.style}]\n밸류체인 역할: ${selectedStock.role}\n핵심 투자모멘텀: ${selectedStock.note}\n왜 지금인가: ${selectedSegment.catalyst}\n실적 근거: ${earningsEvidence(selectedStock.name, selectedEarnings)}\n모멘텀 훼손 조건: ${selectedSegment.risk}\n다음 확인 지표: ${selectedSegment.check}\n최근 리포트: ${selectedSources?.report ? `${selectedSources.report.broker} · ${selectedSources.report.title} (${selectedSources.report.date})` : "공개 리포트 없음"}\n최근 관련 뉴스: ${selectedSources?.news ? `${selectedSources.news.title} (${formatNewsDate(selectedSources.news.date)})` : "관련 뉴스 확인 중"}\n${q1MemoLabel} 실적(억원): 매출 ${formatFigure(selectedEarnings?.q1.revenue ?? null)} / 영업이익 ${formatFigure(selectedEarnings?.q1.operatingProfit ?? null)}\n${q2MemoLabel} 실적(억원): 매출 ${formatFigure(selectedEarnings?.q2.revenue ?? null)} / 영업이익 ${formatFigure(selectedEarnings?.q2.operatingProfit ?? null)} / ${selectedEarnings?.interpretation ?? "검증 대기"}\n시나리오 대응: ${selectedSector.actions[scenario]}\n※ 산업 분류와 상대평가를 위한 정리이며 개별 종목 매매 신호가 아닙니다.`;
 
   async function copyMemo() {
     await navigator.clipboard.writeText(memo);
@@ -272,7 +286,7 @@ export default function InvestmentAtlas() {
         {selectedEarnings && <section className="earnings-panel" aria-labelledby="earnings-title">
           <header className="earnings-heading">
             <div>
-              <p className="eyebrow">2026 QUARTERLY EARNINGS</p>
+              <p className="eyebrow">{quarterInfo(selectedEarnings.q2.period).year} QUARTERLY EARNINGS</p>
               <h3 id="earnings-title">1분기 → 2분기 실적 추세</h3>
               <span>분기 단독 · {selectedEarnings.basis} 기준 · 단위 억원</span>
             </div>
@@ -283,7 +297,7 @@ export default function InvestmentAtlas() {
           </header>
 
           <div className="earnings-content">
-            {[{ label: "1Q26", quarter: selectedEarnings.q1 }, { label: "2Q26", quarter: selectedEarnings.q2 }].map(({ label, quarter }) => (
+            {[{ label: quarterInfo(selectedEarnings.q1.period).short, quarter: selectedEarnings.q1 }, { label: quarterInfo(selectedEarnings.q2.period).short, quarter: selectedEarnings.q2 }].map(({ label, quarter }) => (
               <article className="quarter-card" key={label}>
                 <div className="quarter-title"><strong>{label}</strong><span className={quarter.status === "확정" ? "confirmed" : "pending"}>{quarter.status === "확정" ? "확정" : "확인 중"}</span></div>
                 {quarter.status === "확정" ? <div className="metric-grid">
@@ -296,7 +310,7 @@ export default function InvestmentAtlas() {
             ))}
 
             <article className="change-card">
-              <div className="change-title"><span>2Q26 CHANGE</span><strong>성장률 비교</strong></div>
+              <div className="change-title"><span>{quarterInfo(selectedEarnings.q2.period).short} CHANGE</span><strong>성장률 비교</strong></div>
               <div className="change-list">
                 <div><span>매출액 YoY</span><strong className={changeTone(selectedEarnings.comparisons.q2RevenueYoy)}>{formatChange(selectedEarnings.comparisons.q2RevenueYoy)}</strong></div>
                 <div><span>매출액 QoQ</span><strong className={changeTone(selectedEarnings.comparisons.q2RevenueQoq)}>{formatChange(selectedEarnings.comparisons.q2RevenueQoq)}</strong></div>
@@ -311,6 +325,48 @@ export default function InvestmentAtlas() {
             <div><a href={selectedEarnings.sourceUrl} target="_blank" rel="noreferrer">재무정보 원문 ↗</a><a href="https://dart.fss.or.kr/" target="_blank" rel="noreferrer">DART 공시 ↗</a></div>
           </footer>
         </section>}
+
+        <section className="issues-panel" aria-labelledby="issues-title">
+          <header className="issues-heading">
+            <div>
+              <p className="eyebrow">ISSUE TIMELINE</p>
+              <h3 id="issues-title">핵심 이슈 타임라인</h3>
+              <span>공시(DART)와 뉴스를 자동으로 모아 최신순으로 정리합니다. 신뢰도·카테고리 배지는 자동 판정 결과이며 참고용입니다.</span>
+            </div>
+          </header>
+
+          {selectedIssues.length ? (
+            <ol className="issue-list">
+              {selectedIssues.map((issue) => (
+                <li key={issue.id} className={`issue-item${issue.needs_review ? " needs-review" : ""}${issue.stale ? " stale" : ""}`}>
+                  <div className="issue-meta">
+                    <span className="issue-date">{issue.last_updated}</span>
+                    <span className={`issue-badge confidence-${issue.confidence}`}>{issue.confidence}</span>
+                    <span className="issue-badge category">{issue.category}</span>
+                    {issue.status === "정정됨" && <span className="issue-badge correction">정정됨</span>}
+                    {issue.is_mere_mention && <span className="issue-badge mention">단순언급</span>}
+                    {issue.needs_review && <span className="issue-badge review">검토 필요</span>}
+                  </div>
+                  <p className="issue-headline">{issue.headline}</p>
+                  <div className="issue-sources">
+                    {issue.sources.slice(0, 3).map((source, index) => (
+                      source.url ? (
+                        <a key={index} href={source.url} target="_blank" rel="noreferrer">{source.press}{source.pub_date ? ` · ${source.pub_date}` : ""} ↗</a>
+                      ) : (
+                        <span key={index}>{source.press}{source.pub_date ? ` · ${source.pub_date}` : ""}</span>
+                      )
+                    ))}
+                    {issue.source_count > issue.sources.length && <span>+{issue.source_count - issue.sources.length}건 더</span>}
+                  </div>
+                </li>
+              ))}
+            </ol>
+          ) : (
+            <p className="issues-empty">아직 자동 수집된 이슈가 없습니다. 매시간 공시·뉴스를 확인하고 있으니 곧 채워집니다.</p>
+          )}
+
+          <footer className="issues-source-note"><i /> 규칙 기반 자동 분류 결과이며, 방향성·카테고리 판정은 참고용입니다. “검토 필요” 배지가 붙은 항목은 핵심 투자논리 반영 여부를 사람이 확인합니다.</footer>
+        </section>
 
         <footer className="site-footer">
           <div><p>산업 방향 참고자료</p><section>{selectedSector.sources.map((source) => <a key={source.href} href={source.href} target="_blank" rel="noreferrer">{source.label} ↗</a>)}</section></div>
