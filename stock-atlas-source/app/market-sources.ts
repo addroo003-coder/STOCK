@@ -357,10 +357,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
-      "title": "국민성장펀드 주목한 'ADC'…리가켐, R&D 집중 투자로 기술 가치 ↑",
+      "title": "K항암신약 임상 성과 '세계의 눈' 쏠린다",
       "office": "머니투데이",
-      "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407921"
+      "date": "20260903",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408673"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/141080/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 가전 넘어 ‘AI 리빙’ 제시",
-      "office": "세계일보",
-      "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/022/0004155911"
+      "title": "[단독] 삼성전자 20조·하이닉스 5조… 정부, 5년치 전기료 선납 제안",
+      "office": "조선일보",
+      "date": "20260903",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996421"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -931,10 +931,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298380",
     "news": {
-      "title": "[K바이오 돈의 경로]① 30조 몸집 커진 K바이오…넥스트 플로우 AI",
-      "office": "블로터",
-      "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089812"
+      "title": "K항암신약 임상 성과 '세계의 눈' 쏠린다",
+      "office": "머니투데이",
+      "date": "20260903",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408673"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/298380/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "첨단 HBM 성능 경쟁… 맨 아래 받침대가 승부처",
-      "office": "조선일보",
+      "title": "더 빨라진 중국 '메모리 추격'…HBM·낸드까지 넘본다",
+      "office": "노컷뉴스",
       "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996367"
+      "url": "https://n.news.naver.com/mnews/article/079/0004185394"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
