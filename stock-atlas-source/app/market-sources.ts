@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "SNT에너지, 하동 LNG복합발전소 HRSG 수주",
-      "office": "파이낸셜뉴스",
+      "title": "두산에너빌리티, 네팔 홍수 실종자 수색 총력…헬기 3일 연속 투입",
+      "office": "디지털데일리",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570246"
+      "url": "https://n.news.naver.com/mnews/article/138/0002239991"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -483,11 +483,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "009150",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "[NDR 후기] 수급 불안을 먹고 자라는 중",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260811_company_927724000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95429&page=1&searchType=itemCode&itemCode=009150",
-      "date": "26.08.11"
+      "title": "MLCC 수주 공시 코멘트: 플랫폼 단위로 확대..",
+      "broker": "iM증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260902_company_151846000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95975&page=1&searchType=itemCode&itemCode=009150",
+      "date": "26.09.02"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "강성희 오텍그룹 회장 “히트펌프는 신성장동력…상업·산업용은 대기...",
-      "office": "헤럴드경제",
+      "title": "삼성전자, 가전 넘어 ‘AI 리빙’ 제시",
+      "office": "세계일보",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692024"
+      "url": "https://n.news.naver.com/mnews/article/022/0004155911"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -931,10 +931,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298380",
     "news": {
-      "title": "HBM 경쟁 판도 바뀌나…삼성전자 웃고 SK하이닉스 울었다?",
-      "office": "서울경제",
+      "title": "[K바이오 돈의 경로]① 30조 몸집 커진 K바이오…넥스트 플로우 AI",
+      "office": "블로터",
       "date": "20260901",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657250"
+      "url": "https://n.news.naver.com/mnews/article/293/0000089812"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/298380/news"
   },
@@ -1351,10 +1351,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=080220",
     "news": {
-      "title": "삼성전자, AI칩 한계 돌파 승부수…‘CUBE 전략’ 꺼냈다",
-      "office": "서울경제",
+      "title": "금리 치솟을 땐 투자전략 달라야…‘고ROA’주, 16개 종목 리스트는? ...",
+      "office": "헤럴드경제",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657717"
+      "url": "https://n.news.naver.com/mnews/article/016/0002692037"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/080220/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KAI 노조 \"공정위, 한화 지분 취득승인 재검토해야\"",
-      "office": "SBS Biz",
+      "title": "KAI 노조 “공정위, 한화 기업결합 승인 재검토해야”",
+      "office": "KBS",
       "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530880"
+      "url": "https://n.news.naver.com/mnews/article/056/0012249918"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'SK하이닉스 특허 양수' 미미르IP, 미디어텍 상대 미국 특허소송 제기",
-      "office": "지디넷코리아",
-      "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436031"
+      "title": "첨단 HBM 성능 경쟁… 맨 아래 받침대가 승부처",
+      "office": "조선일보",
+      "date": "20260903",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996367"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
