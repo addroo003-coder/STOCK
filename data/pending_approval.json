@@ -7279,9 +7279,14 @@
         "press": "매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55TEhQRnZnZXREZ3ZETGRGWGZONFFxOEJBQlBody1qZFhoQXI1OEVNSWg0VGRZSXBuaXE1emhRbms3VnFGTk5pd0lpaXdOeU5adkE?oc=5",
         "pub_date": "Tue, 01 Sep 2026 08:56:43 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPdnhjcm16NjlZVlBLUUNiZHdVZkRGaWFrQTh4a3p1WVI4Ni1JYWNhYXBMTUNqazFSa05ISzV5ZTlpQ1RBSllCRFJ2anE1ZUwzUTZJ?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 06:30:00 GMT"
       }
     ],
-    "source_count": 19,
+    "source_count": 20,
     "id": "000100-수주-5953-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-03",
@@ -7752,12 +7757,17 @@
         "press": "기계신문",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN1dwOUVIZ0JXRDlTbEVLOHlZVVd4UXBiOHJ1VF9BU3A4LUxSdHhFaC1MTHlGZTZ2cUxCQ3JOTEtuTUlnSGpHajJzWXRTYk0zTU9qemJYNTlzS253ZkNUTDRielMwRUU?oc=5",
         "pub_date": "Tue, 01 Sep 2026 02:05:58 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qOURYLVJuSEhnR0pBLVFEYVB0M1BwazM5YnhwckYzZFowX0ZUbXdCb2xGZjduWEpqY0hnNUtJYzl5WlBqTWFYSDNTNHJVRU4zNUMtN1dENFlhdkU5S2ZLZVZ2Z1ZQTGxkVUt5TkNfTTJlc1VLYVNR0gF3QVVfeXFMTWo5RFgtUm5ISGdHSkEtUURhUHQzUHBrMzlieHByRjNkWjBfRlRtd0JvbEZmN25YSmpjSGc1S0ljOXlaUGpNYVhIM1M0clVFTjM1Qy03V0Q0WWF2RTlLZktlVnZnVlBMbGRVS3lOQ19NMmVzVUthU1E?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 12:27:53 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "373220-수주-6250-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-09-01",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -8808,7 +8818,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "가온전선, 반도체 공장서 검증한 저마찰 케이블 AIDC로 확대 - dailian.co.kr",
     "source_type": "news",
@@ -8822,9 +8832,14 @@
         "press": "dailian.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NalJFQjhYb281TkhUc0wxem1DSTYxd1VsRnh1Q0gyTXRJUkVrcXlVRnlxb2lRTzhnbUI2YVhSMEJ1ajhOYWdzTTJBTWJ2WVdNalFv?oc=5",
         "pub_date": "Wed, 02 Sep 2026 01:05:00 GMT"
+      },
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GQ25TSktlUVdEWFZfV1B5Y3RjSEN6TUg5MUEtcGpDMnluRzhYWjFubDN0VENZVjNfWjNGdFVwRWRUdWRkT0VFSkhsNUNxR2REZnhncg?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 01:05:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "000500-기타-6703-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -9855,7 +9870,7 @@
     "source_count": 2,
     "id": "222800-기타-7053-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -10022,9 +10037,19 @@
         "press": "프레스뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82cjBGSlVFREYwcm5nUC00Y2JDRjlUNUt0RlhnbkZrYXJ4WFlJWlduMWxiSG96X1FrZm9oSy1SZ0ZJODVKdExVTXFzZHZvSU82bW00SHFFQXRJaUt6Vzl1LUpMSEhaakIwMzRISWpxWTV3dw?oc=5",
         "pub_date": "Wed, 02 Sep 2026 09:00:07 GMT"
+      },
+      {
+        "press": "모빅경제",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qUU9jaXBLSVMwcFVqMVhUZjNRbjg0S0VRclJJTGVxa2hBVGtoWG8tZ3FBOFBrS1RRdWtELXBuZlZoeEFjTXFieGo3ZG1NS0hRYVJCZkFtWG84N0haWWtUM0t2NUJDakJIdjR1V0daZ3k?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:35:19 GMT"
+      },
+      {
+        "press": "충북데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vb2NvcUpmcWgyTy1SYjRYYjlYZl9GLTJ5RXNfbzdCeEVFNGFHQUtXM3Nta2gyY2ZWYTc1SmtpUDlGaVNmSThHVXlhbmxpeDQ0YW1xUG5LQTNBV3BpbEJRTzJsRlg?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 03:28:33 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 6,
     "id": "222800-기타-7057-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -10440,9 +10465,14 @@
         "press": "네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fdFJzdFMzdWcyeW9OMHNQTE9oTFkySzdDajNLdTFyc3pKLUpUM1VwTnFVUWdKYnBtbmxkWWtkY1N4ejFyU21wUVJydUV2S0JQMTlZ?oc=5",
         "pub_date": "Wed, 02 Sep 2026 06:29:07 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ndTNnOTA2MHFadzZBM3pDdl9JMF9iR3J5eURiTUg2Zzd1cms3c0Jkc0JNSXNHZkV3SDNocHZHUjAzRHBtSWc?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 06:29:50 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "247540-기타-7304-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -10541,7 +10571,7 @@
     "source_count": 1,
     "id": "247540-자본-7315-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -11182,7 +11212,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온, ‘스테키마’ 등 신규 제품군 미국 시장 처방 확대 - 약업신문",
     "source_type": "news",
@@ -11196,9 +11226,14 @@
         "press": "약업신문",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qWUlLZGsyZFNMVVN2cGt4bHdBN1ZFZUozaVVMeEpYTVNldGJYZ1pEaFAxNmlOclBRUENwNEJaZVRRd0VTdTgzazNrZmd0UGlYSFpCX0dSdUljRDJMd0xfUlFmQm5MV1ZNaWgtbVY5RQ?oc=5",
         "pub_date": "Wed, 02 Sep 2026 23:55:27 GMT"
+      },
+      {
+        "press": "마일드경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SVk1zZ0xDZU9HLUZKR0dnRHoxWkNfcU9oNzVCV2RCbGtRSnp4ek12TzY3WklEVzJmdW1tcVJUb3BVbDNSd2dETU13bVFyQnlZbUhvZnNfTDVsbWpaOVRwN2dpOTk0OHBfMjkw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 11:36:09 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-7934-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -11366,7 +11401,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "대신증권 \"알테오젠, ALT-B4 플랫폼 재평가.. 목표가 상향\" - g-enews.com",
     "source_type": "news",
@@ -11375,9 +11410,14 @@
         "press": "g-enews.com",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmw2YlFOMEhubmRUQ2lCV3NxSjRvUW9uOVBVSU5hZVZSMFlpRnplb3ZQcW53ZXgzMWNhQ0hTUC03LVpILWZ1NGNpZzJGX3Mza21RMDJ2OW1MN0M0ZjVHalNjSWJXZHVkME1YazFxRGJJbV9MZlR4cUpZYWxJcmh0eWd3bWpMaXMz?oc=5",
         "pub_date": "Wed, 02 Sep 2026 23:50:45 GMT"
+      },
+      {
+        "press": "ajunews.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3S1hSNlF5TUE5MjZzbk1iaEhWUFNfcWFkOFFJcV9sZjJBdXhuZnJkWUtkZzFIZWEzN2dKWEI5OU95dDZBOXh5SHE4SXUzeEJXR2RWZmZLajjSAVhBVV95cUxQN0tYUjZReU1BOTI2c25NYmhIVlBTX3FhZDhRSXFfbGYyQXV4bmZyZFlLZGcxSGVhMzdnSlhCOTlPeXQ2QTl4eUhxOEl1M3hCV0dkVmZmS2o4?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:12:12 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "196170-기타-7947-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -11639,9 +11679,14 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mcnBUamdLdGNPV0tQNEpBdFJPRE1xYWNEdFc3ZWp6Y1M0NGl4UXE1ZGJVNG5QTzQwbk5oOXBqMmxPZ1Nsam9aWmQtVkRZRHNVTTlLeWFGaDlQSFRtV05KZ1ViNWN0SmhO?oc=5",
         "pub_date": "Thu, 03 Sep 2026 02:16:55 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FdElseGtYSnlaWTB1MVBSc2hXMkRZQ182NDQzemluY0JPVUNYUHpIX1NyWVVqVkFjYWM5ekxMVGdpWWZPeEVpVUoxTGxPcHJpcGM0YjJndDVQeTZUeHJhUlRSdTVReFk?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 02:16:55 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "108490-기타-8101-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -11835,6 +11880,399 @@
     ],
     "source_count": 1,
     "id": "416180-기술-8281-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "주요사항보고서(자기주식취득신탁계약체결결정)",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000301",
+        "pub_date": "20260903"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20260903000301",
+    "id": "399720-자본-8283-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 유럽 최대 가전전 ‘IFA 2026’ 이모저모 - 중부일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중부일보",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BYWctMXlaNVNHa1RQdzViekZfelViUDRCT0xRSHRITjcwekh5N2RBMmx4SjgyQ2NvdFk2WGRCa0xwQ0tOTlpYZDhKOWp0Qk9nLXI1SnljOUU5YTVNNTAwOWZjbGduczNZVzIxVjZn?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-8295-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성전자 HBM 점유율 33%로 급등…SK하이닉스 50% 1위 - KBC광주방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "KBC광주방송",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNTdQWC0tQ0pRb1pFcHpnSjF2bWxEUGN3Vzh3LVZkemhZMEY2UmJuVzJKenZZR3hGWi1wcmxmUzlTLXdrOVFyYl9JeXJuMDB1X09UYzNFN0JZTkZYUGp2Yw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:55:02 GMT"
+      },
+      {
+        "press": "KBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OR2VJVGVFUkhrZFcxMjJaYTQtS191bG9sZ0VGVDlDb1dZNkRWWm1YZnR4ZWx6T2hIODZ5cW9LMkZmMkJQeEtfbG04WklzTERxNzhJTFVxUjBDMU0?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:26:00 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtRjZnZEJsSmV6QjJBdVBPUGhMQmZac3czam9IWVRoMGg5NFVXR3NBU3BDWF9oLVJTMVZMWFdDOGRZOEVKNTQtUkstdVUyRmxrR3hSM2lMNXBXRGN6WFJsOQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:03:57 GMT"
+      },
+      {
+        "press": "지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sSXd1ZTM4QzRsVWNwejRxa0hxbHRsTmpoMXZGUDBGdHNoN2R5eF9KQzc3VTQtWXlhSzFVZGdVYV9hbjczOW9UYVlWdENoYkI5dlBZRnZR?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:43:39 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05QkF4OGxhWW5XX05vSmxKck9tUTY0YkhDSFEzZm15Y2ZWaDFqWlpqVjlmektKYWZyV05BOGQ1VUhNODVlZFB1RFRWaFZMQQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:45:56 GMT"
+      },
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEJKTVNwYURZUm81RTM5Q1JXdmxrUTJ3RFJmeWg1ZW5ERXRpTUgtT3BVeFBmT0p6VFRzRTk0ZU5vMzdEQjM3WEhLa0ZoSmtMenVMbXZvQ0hzeER2RGtLWm9jNGFZOGRxazR0dy11SVRwU3UwNGxsWlJPWVRZODB1eW1ncFlZQQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:18:27 GMT"
+      }
+    ],
+    "source_count": 6,
+    "id": "000660-기타-8298-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온칩스, 자기주식 취득 신탁계약 체결...13억 원 규모 - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NZnZmdUY0R3NFY3hQd1NIQmFpc251V29jMEp1emhjQ2tMTzNwUWplcUhWLWx6bTZpaVpvSGhVVlNCZG42YkRBeFhPQXlDN1NraXJlblRBd0NfMHhiZ1Q4UkdjWUlnTFI2TWRHQWY1MVNiMjg?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 08:37:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "399720-기타-8325-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온칩스, 자기주식 취득 신탁계약 체결 결정…삼성증권에 13억원 위탁 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PMXBaU3NzanFOajJ5ZkprcVEySGVONEFsRmR0M2hRQWtHYjBPYU5OcWNzWDU4N0xxZldjeFFsT0UwOWlTeVhnVTdqcXQtaUdjVV9GUkNvVnpfaVhVcTVGa3huX1ZRUFcya0d0SWY3am5menM?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 08:32:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "399720-기타-8326-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "심텍, 청주에 4000억 투자…AI 반도체 PCB 생산기반 확대 - 블로터",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "블로터",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14WVVIRkdDc0RtWEd0TmxMSjA4WFJVdTVOZ0hWaFVKN3ZfeVFROU0wYTh4dTZ1V2Y0MTBPVHUyRnB2Z3FPdGZUcEdfUTVOZm1hRm9RYVktN3JVRXhqUnpHakRxRlhiTnhWcGVoQ9IBbEFVX3lxTE14WVVIRkdDc0RtWEd0TmxMSjA4WFJVdTVOZ0hWaFVKN3ZfeVFROU0wYTh4dTZ1V2Y0MTBPVHUyRnB2Z3FPdGZUcEdfUTVOZm1hRm9RYVktN3JVRXhqUnpHakRxRlhiTnhWcGVoQw?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 07:59:20 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-8345-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "산일전기",
+    "stock_code": "062040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]산일전기, '과도한 저평가 영역 + 8월 2개 Big Momentum → TP 상향' 목표가 290,000원 - LS증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFMGtWQy04UDJqWE1LdFVHTm9XdTY1N1pSTjFYNlBsejFtc3dudTBDX1A0bFlTUG9FRFF1OG5LdGwxbjViYlhydHQzelNVMTdHNUV2Y25ZQ3FUOV9x?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:35:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "062040-기타-8364-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS마린솔루션부터 가온·LS에코까지…LS전선 자회사 '최대실적' 릴레이 - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VVHRjTXVoMmFSTGNKODVSZGVZaGc4VlBVV3hYU0RpS0RjbnQzMGQ3YlI5UDctZ21USWNLTVZYMXBHV3VTTi1MSHJqMmZUTHdGQTdz?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:13:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060370-실적-8386-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, 네팔 수색 헬기 다시 띄웠다…강 하류까지 범위 확대 - ddaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "ddaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zODlUY29sdGZwN1ZCZC1vR09pT29Sa2trSlRtMFhJVVhreFlTQ3FkQmoweGJlS01BbmhNVHpfdjY5SEtIM1pEMkRyYVpKOGZOUlRnX3Ffak1mS2xPd3pIbjdjOHE?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 09:58:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-8397-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온 \"미국서 스테키마 처방 확대…7월 점유율 16.2%\" - 연합뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zQWhtNktXTHd0OEV0NVFydjlPa2VNNGlfWVRzM0JoV0ZaeWhfc1dLM1ctZTdiNDM5bEFEb3A3azJaelUzbkE3bE85SEpjcnN5cC0tVmNTZld0RENCbVBRRtIBYEFVX3lxTE0zQWhtNktXTHd0OEV0NVFydjlPa2VNNGlfWVRzM0JoV0ZaeWhfc1dLM1ctZTdiNDM5bEFEb3A3azJaelUzbkE3bE85SEpjcnN5cC0tVmNTZld0RENCbVBRRg?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:19:22 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tOG1EWTRNV0x3ODhzLXlXaUVtcXlaS1hRM3p4S1NWT1pma0tDZVRFMFBsVlNtSGZadzdfTS1qTnNtYkNrWnUyRDUwd2FLWlUyMUZKV1NJM2duVUcxY3ZmNzVRWjJQMVU?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 06:39:28 GMT"
+      },
+      {
+        "press": "중소기업신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LV3ZRR3YxRWx6Y3hBcHZJNThkY2JBYUZxNXVneXZUMUNKRVphVnI3NHJZNks3Mmp3dUV5VGNTNGpJYnBBM3pPS0ZIYURwVElaWjNlamNSS1RTS1JPRVJyWUdiQ0U2dEpob2swYg?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 02:26:01 GMT"
+      },
+      {
+        "press": "파이낸스스코프",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YzJvLXBFVnNIX2c0OUlTNHpOcTA2TDl4UWJjVmZzVFA0RGN2QlVmWkl2WkVKcHg2U3hYUFE5czhqcFZvZ1FwSXNwS2dQeXA2VlV6ZEVjWDEzVHlJcDB2aU9rNkJfb29GOUE?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:14:00 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kcy1PcjhUUDlBeWI5SVA1ZU95N0JncFRGOThwQjF3YUtfaENvSWU5RS0xMmFvZHZTRmJ6MGlfcDJjUmhubTRWbHNnR1NWMjN1Q29yU2NEUEd5TVpmOGRPYWpPeWR0OFNpLUFQaA?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:58:13 GMT"
+      },
+      {
+        "press": "SBS Biz",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PdDhNd0xEcjhqNXRHTHdfTnNOenlMTWVzNnZLWEVEY1VweWczTUJyaWhkVUVYX25mYmc1bUZ2cU0tdEFYN0YwNWdBUVk5YmtiNzFN0gFYQVVfeXFMTnN0TUpuRnpnNzR1UEdnTTRtNDdSYWhTbGs1cUhLZXlORDFHblgyTXRvTDhEa3NFanJ5Q3g5d1I4WU5SVVA2anNxT25mcUlvU3pWM1Z1N2o1MQ?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:02:00 GMT"
+      },
+      {
+        "press": "인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vX2hIcE9WT1NGVlNXWVdlU3NuTG92eTFKVEUtZXFtSnlCS29wbkdNTTMyRmEyM3d2Z2poQzIyY1hhV2p6XzRma0I2RU81MC1PeDJyR1JyRzZ5ZlRkYkh2eDJ5a0F6OWdScVhlZmwwbUxlQ3RIUWc?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 02:53:12 GMT"
+      }
+    ],
+    "source_count": 7,
+    "id": "068270-실적-8492-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 美 제품군 외연 넓어진다…신규 바이오시밀러 처방 확대 - 메디컬투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디컬투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BWFFJREIyX0dwN3ZVUGFfV0ZSZjlMWnFiY05ldUE0dzd5UzFpN3Bic2ZXOVhJaU1ZSUctei1TUHpBWW94a2VIRTROQks4NHQ3VTdUaGhnOUVOZHZxT2lRTHJtdlV3RVRueE5ocA?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 02:55:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-8495-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "‘항체 넘어 ADC·핵산까지’ 노바티스가 찍은 ‘ALT-B4’의 가치…알테오젠, 최대 32억 달러 대박 - 뉴스퀘스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFdjY3BiNEd1dWo3Nzg0V1U5bEVFXzJ6dFh1WXh6czVhQ2h1ZjEyZm94Ty12dWY3ZWludG9rNWh4Sm1Xd2xYUzJNeEQzYkc1TXFrX3VXZG5JUUNvbVJHd1FKNUMwOTd0ZVYxQU9nZw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 08:21:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-8505-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, ‘단일 제품 회사’ 이미지 벗을까…뇌전증 시장 지배력 확대 추진 - ER 이코노믹리뷰",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "ER 이코노믹리뷰",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkdC0tR0tNM1ZKWEZFWTV0aWtsdVdraTNjaXZFaGJTR0NvMUduQ2I3QUdGeldqTWlzbWJNOUluRzZEZEpYUjVpUERGeTdXcVV0T19KcXgxYVlYVkJnTHAxMVl2VzNTcUM2TU1YZw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:14:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-8527-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "글로벌 시장 넓히는 엔켐, 전해액 수주 확대 모멘텀 부상 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DZTVvMDhpcGRBdERFOGRiRnpLR0JwQ1ZkVnQzNDZjemJhZWFSTG9KZG1NczJCaERZdEJHa18tRHhVWlI4VFVkREZNUzFPSVJxckZIU1B6d1otUWk1UGZuYlhGckdfclp3ejdEZG81VlV0RUlzN0xv0gF3QVVfeXFMTkNlNW8wOGlwZEF0REU4ZGJGektHQnBDVmRWdDM0NmN6YmFlYVJMb0pkbU1zMkJoRFl0QkdrXy1EeFVaUjhUVWRERk1TMU9JUnFyRkhTUHp3Wi1RaTVQZm5iWEZyR19yWnd6N0RkbzVWVXRFSXM3TG8?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:54:20 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "348370-수주-8557-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
     "status": "일반",

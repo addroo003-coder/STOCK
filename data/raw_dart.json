@@ -13,6 +13,19 @@
     "is_correction": false
   },
   {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+    "rcept_no": "20260903000301",
+    "rcept_dt": "20260903",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000301",
+    "is_correction": false
+  },
+  {
     "company": "동진쎄미켐",
     "stock_code": "005290",
     "sector": "AI 반도체",
@@ -270,6 +283,19 @@
     "rcept_no": "20260901900543",
     "rcept_dt": "20260901",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900543",
+    "is_correction": false
+  },
+  {
+    "company": "한국항공우주",
+    "stock_code": "047810",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260903000298",
+    "rcept_dt": "20260903",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000298",
     "is_correction": false
   },
   {
