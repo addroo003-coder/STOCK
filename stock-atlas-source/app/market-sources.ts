@@ -471,10 +471,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오 \"조달 자금 M&A·6공장 건설에 사용\"",
-      "office": "파이낸셜뉴스",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570795"
+      "title": "삼성바이오 '3조 유증' 결단… \"장기투자 완주 위해\"",
+      "office": "머니투데이",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409294"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "가족 습관 챙기는 AI… ‘가사노동 종말’ 보인다",
-      "office": "동아일보",
+      "title": "삼성 갤럭시 S26 FE 국내 출시…100만원대 초반",
+      "office": "서울신문",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745617"
+      "url": "https://n.news.naver.com/mnews/article/081/0003676673"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -531,10 +531,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "현대모비스 ‘전기차 심장’…전기차 2위 유럽서 만든다",
-      "office": "중앙일보",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549027"
+      "title": "엔비디아, AWS에 GPU 200만개 공급…피지컬 AI 공략",
+      "office": "서울경제",
+      "date": "20260903",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658141"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KAI, 협력사와 품질향상 세미나 개최…\"상생 협력으로 품질 생태계 강...",
-      "office": "디지털데일리",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240094"
+      "title": "네이버 컨소시엄, 정부 '보안 특화 AI' 사업 따냈다",
+      "office": "머니투데이",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409291"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "조정장에 빛난 K뷰티… 탈중국·호실적으로 순환매 주도",
-      "office": "국민일보",
+      "title": "AI핵심 ‘메모리 공장’ 노리는 미국…전문가 “대미 설득 병행해 국...",
+      "office": "한겨레",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/005/0001870847"
+      "url": "https://n.news.naver.com/mnews/article/028/0002821583"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
