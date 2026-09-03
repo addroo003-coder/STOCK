@@ -221,6 +221,32 @@
     "is_correction": false
   },
   {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]주주총회소집결의              ",
+    "rcept_no": "20260903800330",
+    "rcept_dt": "20260903",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903800330",
+    "is_correction": true
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "지속가능경영보고서등관련사항(자율공시)              ",
+    "rcept_no": "20260903800388",
+    "rcept_dt": "20260903",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903800388",
+    "is_correction": false
+  },
+  {
     "company": "우진엔텍",
     "stock_code": "457550",
     "sector": "원전·SMR",
