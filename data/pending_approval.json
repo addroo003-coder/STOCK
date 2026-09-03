@@ -7284,9 +7284,14 @@
         "press": "네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPdnhjcm16NjlZVlBLUUNiZHdVZkRGaWFrQTh4a3p1WVI4Ni1JYWNhYXBMTUNqazFSa05ISzV5ZTlpQ1RBSllCRFJ2anE1ZUwzUTZJ?oc=5",
         "pub_date": "Wed, 02 Sep 2026 06:30:00 GMT"
+      },
+      {
+        "press": "이로운경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hazc5Mkx3cmhhVTV4eG1zaWRiV2ZpVzFNZ3BtWHZUS0RfdVMxdEVNNDdXcWdLUTFhY1ltQkk0YmcwTEhlbG9ncTZJYXlkTTJFeGNRdmJxU2lYVDl2TXV3VTRoZDA4NlE?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 11:00:00 GMT"
       }
     ],
-    "source_count": 20,
+    "source_count": 21,
     "id": "000100-수주-5953-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-09-03",
@@ -8173,9 +8178,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dk9CY0tmWmoyWnZDQ1dwNHdsNkEwWXlpSldaWGhXT3Qyakp5WGYySXFEdHFqcjRnU3JVSTZ0Z2xMUElLT1lVTWNfZkdRY0tZTzlEaA?oc=5",
         "pub_date": "Wed, 02 Sep 2026 00:24:00 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fM3ZLay1TZF9PdGwtb0xZUTBqNnotN3FoMjhPdWxDRjFEbFc3LTFyMnJWSWVSVHktX3ppeG5nd09kV0VyUFZDRDVfODZSNXBDaGZWUUhNQlNKd1HSAWBBVV95cUxNN3lwQklrdFBvMmd1WEN2MXNnU24wcWhzekxGbUZmX2JrZlVsYk5xcUdpaGNseWR5WFRwLXdzYTBLMy1Gd2MyeEZxVUNGRmtoZ0FDOVduM1lmdnp4d0QwZEY?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 23:51:01 GMT"
       }
     ],
-    "source_count": 21,
+    "source_count": 22,
     "id": "000500-기타-6472-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -9421,7 +9431,7 @@
     "source_count": 1,
     "id": "000100-수주-6862-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -9812,12 +9822,17 @@
         "press": "모빅경제",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNzB3WUlUM05qRWpkYV9XWVE2enQ1Q2RxVFcxbkZqMjNhT0w4VGZMLVNBdW5YZWNfbDN0MjlKOGpTZHU2cFM4X3Z3ZElyYlo0bFo5a1VwWjBEVGVsMktIcmYtYWhDcjVyNTZtajZIVUo?oc=5",
         "pub_date": "Wed, 02 Sep 2026 11:52:03 GMT"
+      },
+      {
+        "press": "충청뉴스라인",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Qdnh3TVZBOE1kenhQZENKRHJNeFVHcUdQa3QzaC1QMWsyaGw4UWxWVTJ2TURuYk9adnlWazljbTlfVzBKYjVEMjgzcmxVOFpVd1NqTV9CQ19nbDBTajQxV2hhdDV0TDFoM0VWYjRod2ZLemfSAXNBVV95cUxOUHZ4d01WQThNZHp4UGRDSkRyTXhVR3FHUGt0M2gtUDFrMmhsOFFsVlUydk1EbmJPWnZ5Vms5Y205X1cwSmI1RDI4M3JsVThaVXdTak1fQkNfZ2wwU2o0MVdoYXQ1dEwxaDNFVmI0aHdmS3pn?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 12:45:36 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "222800-기타-7051-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -9895,9 +9910,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fWE5hVnNXVmxnVV9menRxSldzVTVRemFrOXFDRFZJOGhxRk9Bd05lRWFJendkaFV6LW0wbGtmYXl4S01SbHhIMWtpcXc4T0U?oc=5",
         "pub_date": "Wed, 02 Sep 2026 07:27:03 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiNzlBakp3QjYyRkFhOGhnR0g4bDJ3eFh1M2lXWUhsekc5eXNJbjVsYllPc0dpYXVqV3JZVXY3S1MybEdRYlBFcHhXdw?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 07:27:03 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "222800-기타-7053-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -10837,7 +10857,7 @@
     "source_count": 1,
     "id": "247540-자본-7504-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -12811,7 +12831,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "리스크",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "로보티즈, 액추에이터 고성장에도 신사업 적자 '숙제' - 동행미디어 시대",
     "source_type": "news",
@@ -12820,10 +12840,164 @@
         "press": "동행미디어 시대",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KQ0RZRmZjNXk3VzAtTl9kQVNQOHFJNWJjVW9IY1hIZ0ZHRUtLMzVZa05Ld3Ytb21CM085X2NGOVZVbmJ0bl9pcHUxY2ZKTGVuTnM2bVFmSVFTTm56YlE?oc=5",
         "pub_date": "Thu, 03 Sep 2026 21:00:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xWVcxVHRyNGRDRE1aNW5wLVk1eDlJY01CQlpVUnpzSGFVN3B2TXJjSTZZd0h0cFQ1SWYwUDdEYnBjWmFTRUZYaDdlTkFIamhlUDA0?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 21:02:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "108490-리스크-8853-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS \"현대오토에버, 미들웨어 넘어 SDV 개발ㆍ검증ㆍ운영까지 역할 확대\" - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGelpZT2l0eTIxNDR4c2Y1MTlXVEt0Ymo0QkNHa0JYRmF5ZUFaRmhDMWUtWFBRVXc4a0JVc2xFel9vcEF1ZmJzbGRBY2QtX00?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 23:04:03 GMT"
       }
     ],
     "source_count": 1,
-    "id": "108490-리스크-8853-20260903",
+    "id": "006260-기타-8994-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "KB證 \"로보티즈, 2Q 흑자전환…중국 매출 3배 급증\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KM1g4end5NkNsZDdvRWRvOW5Hd3FGTFRGbzItNWxOOHIwd1JOd1ZKc3B1QWNRRmRIc0twcHhwSERXZzRsYm9UYzBmSU4ySTRiZ2dZZA?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 23:02:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "108490-실적-9007-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 알테오젠, 노바티스와 최대 4.4조원 계약 소식에 강세 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BV2VVS2g0aVJLc1U2bG1PVlZYaWRPX2JwUWdEdktIeWR6UkY3MDc3cHdYZjJ2ZWFCZUFPa3Q3X2dFb2t6Wm9BRHpxbWxwXzA?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 00:08:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-9045-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "큐로셀 ‘림카토’, 약평위 넘었다…국산 1호 CAR-T 상업화 초읽기 - 서울경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwSFNIRU9Sd2t4NnNQcDM4SmVPbWJpZFVxSWttZFI1dFVKSGhGUjVnOG5ta29QaDk4R203UW5iaDctcExNeG1HcFExejNzQzREc0lHemRGNHRsU2hsb09ON1JhMm8?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 22:36:21 GMT"
+      },
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91NnBsd1k2VVNHWDZFdzY0Tm9oNjV5RGhycVVpLUtNN2dOdTg1VmpSaFI5bHBtYXl5QUktUUJsdkd4OTlHa0pCYVBlUm1DeWpoYS1qUjN4WHhDTUJmZDZZaHpvZkRVb1M1aGE0YWs1OEYwVkUx?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 20:47:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "372320-기타-9058-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[IB토마토]에코프로비엠, 유증 규모 26% 축소…국내 투자재원 2850억 '공백' - newstomato.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "newstomato.com",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JeWU4azhDYWFCcWlfS3BmX1BiTzlnX0Z0SWxHX3BHSVFSZFREX3lCeGVPV3hTdXFVRThha0FZc2o2ODA1Rmk2QjBxa21iWlNnbUstNTB5azRWZXJQXzBPVQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 22:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-9077-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에코프로비엠, 유증 축소 속 투자 우선 배분...'성장 자신감' - fetv.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "fetv.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LZXZqSGFEWGRuYWpFRHN4M2tRay1yeHRVVWEyRVFjVC1kd3ZZeTdydndfbF8zVVNkZjR0YmNHM3JfYy03RjJLd0xqWTVQeWdfTnNaYVV3NGZqY2N6VVdLdHBZRDB5b1pv?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 22:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-9079-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
     "status": "일반",
