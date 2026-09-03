@@ -483,11 +483,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "009150",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "MLCC 수주 공시 코멘트: 플랫폼 단위로 확대..",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260902_company_151846000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95975&page=1&searchType=itemCode&itemCode=009150",
-      "date": "26.09.02"
+      "title": "3Q 영업이익 상향. 환율 악재는 상쇄, AI 부..",
+      "broker": "대신증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260903_company_679023000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95989&page=1&searchType=itemCode&itemCode=009150",
+      "date": "26.09.03"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 디자인 수장 \"로봇, 휴머노이드 넘어 형태 다양해질 것\"",
-      "office": "아이뉴스24",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055309"
+      "title": "가족 습관 챙기는 AI… ‘가사노동 종말’ 보인다",
+      "office": "동아일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745617"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -531,10 +531,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "엔비디아, AWS에 GPU 200만개 공급…피지컬 AI 공략",
-      "office": "서울경제",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658141"
+      "title": "현대모비스 ‘전기차 심장’…전기차 2위 유럽서 만든다",
+      "office": "중앙일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549027"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -783,11 +783,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "196170",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "QLEX 순항, 확장되는 플랫폼",
+      "title": "반복되는 기술수출, ALT-B4 가치 재평가",
       "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260814_company_264964000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95628&page=1&searchType=itemCode&itemCode=196170",
-      "date": "26.08.14"
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260903_company_359168000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95988&page=1&searchType=itemCode&itemCode=196170",
+      "date": "26.09.03"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
@@ -951,10 +951,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "코스피, 장중 6440선까지 급락 후 반등…롤러코스터 끝 0.3%↑",
-      "office": "디지털데일리",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240148"
+      "title": "현대모비스 ‘전기차 심장’…전기차 2위 유럽서 만든다",
+      "office": "중앙일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549027"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -1371,10 +1371,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "코스피, 장중 6440선까지 급락 후 반등…롤러코스터 끝 0.3%↑",
-      "office": "디지털데일리",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240148"
+      "title": "'성장에만 눈멀었나'…신호철 카카오페이증권, 민원 829% 폭증에 금감...",
+      "office": "더팩트",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/629/0000530595"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -1703,11 +1703,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "064760",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "전방 시장 호황과의 필연적인 동행",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260520_company_95912000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93170&page=1&searchType=itemCode&itemCode=064760",
-      "date": "26.05.20"
+      "title": "SiC 포커스링, 두 번째 성장기 진입",
+      "broker": "IBK투자증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260903_company_624070000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95983&page=1&searchType=itemCode&itemCode=064760",
+      "date": "26.09.03"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=064760",
     "news": {
@@ -1877,11 +1877,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "166090",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "너무 싸다",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260826_company_181312000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95881&page=1&searchType=itemCode&itemCode=166090",
-      "date": "26.08.26"
+      "title": "노이즈보다 다가올 호황에 조명",
+      "broker": "SK증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260903_company_378701000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=95986&page=1&searchType=itemCode&itemCode=166090",
+      "date": "26.09.03"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=166090",
     "news": {
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화, 美 안보 공급망 공략 본격화…\"육·해상 사업 동시 확대\"",
-      "office": "뉴시스",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/003/0014167294"
+      "title": "‘우주 향한 꿈’ 한화에어로스페이스의 도전",
+      "office": "국민일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/005/0001870836"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자 HBM 맹추격…SK하이닉스와 격차 17%p로 줄었다",
-      "office": "머니투데이",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/008/0005409247"
+      "title": "조정장에 빛난 K뷰티… 탈중국·호실적으로 순환매 주도",
+      "office": "국민일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/005/0001870847"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
