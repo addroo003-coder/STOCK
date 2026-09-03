@@ -297,10 +297,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "삼성전자 디자인 수장 \"로봇, 휴머노이드 넘어 형태 다양해질 것\"",
-      "office": "아이뉴스24",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055309"
+      "title": "\"정부가 로봇 200대 사준다\"…증권가가 찍은 수혜주는? [분석+]",
+      "office": "한국경제",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328601"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -337,10 +337,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "\"로봇이 올리브영 상품 포장\"...CJ대한통운, 휴머노이드 로봇 현장 투...",
-      "office": "이코노미스트",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102590"
+      "title": "\"로보티즈, 중국 매출 증가 긍정적\"-KB",
+      "office": "한국경제",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328611"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성 갤럭시 S26 FE 국내 출시…100만원대 초반",
-      "office": "서울신문",
+      "title": "삼성전자, 추가 주주환원 기대…강력한 재평가 국면-KB",
+      "office": "이데일리",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676673"
+      "url": "https://n.news.naver.com/mnews/article/018/0006363478"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -531,10 +531,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "엔비디아, AWS에 GPU 200만개 공급…피지컬 AI 공략",
-      "office": "서울경제",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658141"
+      "title": "현대모비스 ‘전기차 심장’…전기차 2위 유럽서 만든다",
+      "office": "중앙일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549027"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1191,10 +1191,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
-      "title": "코스피, 장중 6440선까지 급락 후 반등…롤러코스터 끝 0.3%↑",
-      "office": "디지털데일리",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240148"
+      "title": "반도체 장비·소재(밸류체인) 10개사 법인세비용 2205억원…1년 새 2.5...",
+      "office": "조세일보",
+      "date": "20260904",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389584"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/240810/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "네이버 컨소시엄, 정부 '보안 특화 AI' 사업 따냈다",
-      "office": "머니투데이",
+      "title": "K방산 성장에 채용도 날개…LIG 세 자릿수·KAI 전 직군 모집",
+      "office": "디지털타임스",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/008/0005409291"
+      "url": "https://n.news.naver.com/mnews/article/029/0003046143"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "AI핵심 ‘메모리 공장’ 노리는 미국…전문가 “대미 설득 병행해 국...",
-      "office": "한겨레",
+      "title": "‘점유율 10%’ CXMT 공세에…韓, 하반기 HBM4 승부수 [biz-플러스]",
+      "office": "서울경제",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/028/0002821583"
+      "url": "https://n.news.naver.com/mnews/article/011/0004658503"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
