@@ -8158,9 +8158,24 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOaklsMmt0Sy1xWlpieXNDS0c3VHRBTGpxcmd4c2Zqclo2UmtkYlFwa0Vici1OVTVfOWYzeVhGU05ieEdwOXc?oc=5",
         "pub_date": "Tue, 01 Sep 2026 23:38:02 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcUljc3g3TW53TGszWmpZQ1V4MHBZYkVhLUNRRjRlWDlrS0ZoOS1FbnlwMW1TU0JCUlJrSkM5LURySDMwUVFsd0RwOUdVX3JNVzktR2dUOFJ1b2xnYlpkLQ?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 00:57:08 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13Q0tYUzFQdTB5ZU9CeFBINFFFdUpzaFVBQzVZVUZScGt6OHZqY0FfR2x0WDRsX3RyLUJjSUtOekUybnJ1YXpMMVItbnpwbExIN1JHVQ?oc=5",
+        "pub_date": "Tue, 01 Sep 2026 23:38:02 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dk9CY0tmWmoyWnZDQ1dwNHdsNkEwWXlpSldaWGhXT3Qyakp5WGYySXFEdHFqcjRnU3JVSTZ0Z2xMUElLT1lVTWNfZkdRY0tZTzlEaA?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 00:24:00 GMT"
       }
     ],
-    "source_count": 18,
+    "source_count": 21,
     "id": "000500-기타-6472-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -9685,7 +9700,7 @@
     "source_count": 1,
     "id": "319660-기타-6981-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "status": "일반",
     "stale": false
   },
@@ -9870,9 +9885,19 @@
         "press": "아이뉴스24",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SMWdGRzNzTjdFeWl4c09sWDdRbXZRS0htZ1JkN3UwVUd1VFFHN0VobkozYjluWG5aUEJSeS1IYXN6UWpFdTA1OGZlMmI?oc=5",
         "pub_date": "Wed, 02 Sep 2026 08:34:52 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbnFBLXFqT05jOXNrSFlobzlIRUNEbDdoLVFEdHdzcnBIR2FHdk42dVBuU1FLR1BUT0xuVFlHSU5hMWs4MUpPeFA5NXV2UkYyb1pBVA?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 08:36:40 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fWE5hVnNXVmxnVV9menRxSldzVTVRemFrOXFDRFZJOGhxRk9Bd05lRWFJendkaFV6LW0wbGtmYXl4S01SbHhIMWtpcXc4T0U?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 07:27:03 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "222800-기타-7053-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -10485,9 +10510,19 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpUThhbWIwVWNwam93Ymt5X3RGb3NCTmVMQklRcmNtT2JyeF9zQV90XzhkSlJsWWFudW1CT2dpem1HTGZqc1JDcngwODJ1ZWUzU1d1dw?oc=5",
         "pub_date": "Wed, 02 Sep 2026 07:20:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hLTY3TjVodW5Ed2hZNDQyWldLZHJCOHNtcjZGNFBjZWR0ZlhxcmhwY2dEbFFkM2R1d1BRaHNjejRXSjBocW0zclduUQ?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 07:27:11 GMT"
+      },
+      {
+        "press": "biz.sbs.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SWmdmQ01JR1luTEo0RDVhQVVSd1NrSUVTRjNtWEEtQjNla3Q3MDRRd0l4NDlqVk9ma1FRaE1LQmp3R1JrQWJsS0ptQ3B2SE1ER3lRMjNfNy3SAVhBVV95cUxPUlpnZkNNSUdZbkxKNEQ1YUFVUndTa0lFU0YzbVhBLUIzZWt0NzA0UXdJeDQ5alZPZmtRUWhNS0Jqd0dSa0FibEtKbUNwdkhNREd5UTIzXzct?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 07:03:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 8,
     "id": "247540-기타-7304-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-03",
@@ -11261,9 +11296,14 @@
         "press": "마일드경제",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SVk1zZ0xDZU9HLUZKR0dnRHoxWkNfcU9oNzVCV2RCbGtRSnp4ek12TzY3WklEVzJmdW1tcVJUb3BVbDNSd2dETU13bVFyQnlZbUhvZnNfTDVsbWpaOVRwN2dpOTk0OHBfMjkw?oc=5",
         "pub_date": "Thu, 03 Sep 2026 11:36:09 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RZGswVkM5eTMzMUNNbllKdDZzSUx0ZUlIWEhiaE1jQ3pkZndBdmJWLW5lUWZiVXlPZWdXeVhSLXRLSF81YlVKYmo0YUljdFFS?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 05:26:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "068270-기타-7934-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -11547,9 +11587,14 @@
         "press": "etoday.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzVzh2WWJ1Q2k2RjlUbEpYNExNNm03b0Q4WGRxd2lqZVRORnFNdUlFazBDbElGb21aZDNWXzhqaXZOLWdZZWdFRktQc2hyc3VSM1FfUw?oc=5",
         "pub_date": "Wed, 02 Sep 2026 23:19:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pSWVOU1BXZldhNHZqam01dkJBQ0dpN0NCSVBsSHlUTmZJR1FKOE10d21YUUZXY3E5NEV4TDB5UnJpRjRsZTI2STVRODNCZFU?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:23:03 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "006400-기타-7970-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -12050,9 +12095,19 @@
         "press": "한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zT0JUbjh6OWVjWDVTMG96aThteGpncW5IOGxzWVFlODBTQ3daQWtHaldmakxISGRDRmZ1NVo1dkhxc3RxSU1pd0wwX1lpOWFxRlR6YXlMbzFSUQ?oc=5",
         "pub_date": "Thu, 03 Sep 2026 09:03:19 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEhtV2tiLWdIYVd3ZzJUMmF6aG94LUs1eTl5bUR6djFjaUp3TEV2MVliLUtCUlViV01SYklzcUE4VGZiYmNZMjlTeG9vbWtNc0Q5TnBaTHNNTVJvSkRsYzl1X1U2ckxPbVVOMm5CN0NpS19xdWZmdXM2azdlSGtNZ3Z30gGWAUFVX3lxTE85Ym8yUlJRYzVuUEE3MnFwMU9pZXg4aHJSemJXczdvQnZkd0NlZU1Ldi1uWjhLbFZOelB5M3JzWkJ1OTdIcUNLQk1lQ0JNNlB6bUh1XzFfYTc4N2dJaXc4dFpKMS05WXlVR1dGU2xzNFQ2bmhLcDBkbkRiWlZDRDRyRjZpVk1ma05EVnk1SnE0c2hZbVhCQQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 08:04:00 GMT"
+      },
+      {
+        "press": "테크수다",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMlVHSEl4SzVtd3RYVWxDSzJJWWtLVmg2QTBvOElTdFBYaEZ3cVQzTHNONllMeWZtZFhMYkp6QWVLQnR4M2MxT2YtNEFubVFIdUNIc3p3RDVmTUFsckRzRmlWWU90QmdM0gFuQVVfeXFMUDRSaHB6MXRsNk1pbTU2aXRSTEk2OVpLNG1KTG9NNDI3bjQ5MlhTYzF1Zk44N0t4LWNXdmFleGxBOWNkWlpXMkQ0cTVWY0tJVGhCZmptZDc3LWtTY0J2ZzZ6aG1WM1l4dE1KUUZ1blE?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 14:13:51 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 10,
     "id": "000660-기타-8298-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -12288,9 +12343,19 @@
         "press": "ajunews.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12LWxFN2ZYRFd0TWtyMXV3YmNTRVREVWJ0alpKc2M3eDJIWWpVbEM0TFlHODlHS3l0OUZ2NE85bVEzNkJONnlIejNybmpEeEtDSGJzQzU5T0LSAVhBVV95cUxNdi1sRTdmWERXdE1rcjF1d2JjU0VURFVidGpaSnNjN3gySFlqVWxDNExZRzg5R0t5dDlGdjRPOW1RMzZCTjZ5SHozcm5qRHhLQ0hic0M1OU9C?oc=5",
         "pub_date": "Thu, 03 Sep 2026 01:17:01 GMT"
+      },
+      {
+        "press": "더구루",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83SzNSdFlMZjBULVhtQTdsNWZtWnIwRFYzTThOSW9BVzVNMjV2eW0zYWZuNHRqZGl0dF9COC1jd0VGanBsN0pEM1A1T3RSRkZRVnlhUU0zYTAyUk40ei1QR2l0OA?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:25:48 GMT"
+      },
+      {
+        "press": "dt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EMmZLNzNHeEh4RDJWX0VsbnBaRnlWNHhuMU5BSnRVNWJfZmhLeWdnRkRrX0doSEZOWHdPWWhvMWhJV0JsRG9yQlJrNVZPUQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:18:08 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 12,
     "id": "068270-실적-8492-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -12553,9 +12618,19 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BV2VVS2g0aVJLc1U2bG1PVlZYaWRPX2JwUWdEdktIeWR6UkY3MDc3cHdYZjJ2ZWFCZUFPa3Q3X2dFb2t6Wm9BRHpxbWxwXzA?oc=5",
         "pub_date": "Thu, 03 Sep 2026 00:08:41 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TNk11ZklESzhER0x2Uk5kWmt6Zy1VeDdRc1doRU5zZmdkNUtnSUpnZV9yRFNVRGFwQ2dHMFZoYmVnb2pOWV95R2plcHFzempFSUtyeFhrcTQ2Vk5PSEpBLdIBYEFVX3lxTE1TNk11ZklESzhER0x2Uk5kWmt6Zy1VeDdRc1doRU5zZmdkNUtnSUpnZV9yRFNVRGFwQ2dHMFZoYmVnb2pOWV95R2plcHFzempFSUtyeFhrcTQ2Vk5PSEpBLQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 06:41:44 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SNGxpcERCdEZIMUpSWTRTZU54YThneVl6SENwZmZveXN5a3BIUk5uZFdCTFNuQUVSR3dsRGVEWlV2Rkl2VGttSE5ubWxvZw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:42:37 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 5,
     "id": "196170-기타-8740-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
@@ -12701,6 +12776,54 @@
     ],
     "source_count": 1,
     "id": "416180-기술-8784-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "호반그룹 편입 후 사상 최대 실적 견인한 송종민 대한전선 부회장, 해저케이블로 글로벌 전력망 시장 선도 - CEO저널",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO저널",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSGNLZWttbVF2Z3JiemFQV3BpVVdja1RrTk5nOG5rY3l1T3Z2ekdsTTNlY1NpbFZDMkV6S2tLOUdnOWdmTWtqNU0yMDNRUVF0MzVTY2FSbU1BbFhFaFlfT2FlNHdRQdIBakFVX3lxTE1GMTJzSU83SEVqU2ZLTjVvdTV0X0NxcXBLckNkTWV3cWp2R25ZaTBIXzBjaEdwSEFxSzVGUDVySWFOSTZiOHlVdVo2RmM4VmRJVUFJQS11WjZ6dVZ2M0tMWUJnVGFvdy1YcHc?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 02:08:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-실적-8844-20260903",
+    "first_seen": "2026-09-03",
+    "last_updated": "2026-09-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "로보티즈, 액추에이터 고성장에도 신사업 적자 '숙제' - 동행미디어 시대",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "동행미디어 시대",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KQ0RZRmZjNXk3VzAtTl9kQVNQOHFJNWJjVW9IY1hIZ0ZHRUtLMzVZa05Ld3Ytb21CM085X2NGOVZVbmJ0bl9pcHUxY2ZKTGVuTnM2bVFmSVFTTm56YlE?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "108490-리스크-8853-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-03",
     "status": "일반",
