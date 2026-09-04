@@ -97,10 +97,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=348340",
     "news": {
-      "title": "로보터블, 한국로봇산업진흥원 휴머노이드 운영 용역 수주",
-      "office": "지디넷코리아",
+      "title": "냉장고가 식재료 인식하고 로봇이 집안 연결…IFA의 'AI 일상'",
+      "office": "뉴스1",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436258"
+      "url": "https://n.news.naver.com/mnews/article/421/0009152247"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/348340/news"
   },
@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "네팔 대홍수 10일째…두산에너빌리티 \"헬기 투입, 강 하류 수색\"",
-      "office": "디지털데일리",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240303"
+      "title": "스페이스X까지 가스터빈 부품 진출…전력난에 두산에너빌리티 주목[종...",
+      "office": "이데일리",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364006"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -297,10 +297,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 뛰었다",
-      "office": "한국경제",
+      "title": "\"정부가 직접 200대 산다\" 겹호재에 '들썩'…단숨에 29% 뛰어올랐다",
+      "office": "한국경제TV",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328827"
+      "url": "https://n.news.naver.com/mnews/article/215/0001264942"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -317,10 +317,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=090360",
     "news": {
-      "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 뛰었다",
-      "office": "한국경제",
+      "title": "“로봇 수요 들썩” 골드만삭스가 찍었다",
+      "office": "한경비즈니스",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328827"
+      "url": "https://n.news.naver.com/mnews/article/050/0000110479"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/090360/news"
   },
@@ -337,10 +337,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 뛰었다",
-      "office": "한국경제",
+      "title": "휴머노이드 첫 일터는 물류센터…CJ·롯데·한진 '로봇 전쟁'",
+      "office": "아이뉴스24",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328827"
+      "url": "https://n.news.naver.com/mnews/article/031/0001055564"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -491,10 +491,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성전자, 스마트폰 주 기판 'HDI' 조달 골머리",
-      "office": "지디넷코리아",
+      "title": "\"지금보다 두 배 오른다\"…삼성전기 '슈퍼 사이클' 진입하나[종목e슈...",
+      "office": "이데일리",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436316"
+      "url": "https://n.news.naver.com/mnews/article/018/0006364005"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
-      "office": "경기일보",
+      "title": "카카오페이證, 카톡 친구 추가 10명에 삼성전자 1주 증정",
+      "office": "뉴시스",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/666/0000122023"
+      "url": "https://n.news.naver.com/mnews/article/003/0014170688"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -791,10 +791,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "반도체 오르자 개인 3.7조 던졌다…삼전 2.2% SK하닉 3.2% 상승[시황종...",
-      "office": "뉴스1",
+      "title": "“호재라는데 주가 왜 이래?” 삼성전자·알테오젠도 못 피한 ‘셀온...",
+      "office": "헤럴드경제",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/421/0009151922"
+      "url": "https://n.news.naver.com/mnews/article/016/0002693095"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1551,10 +1551,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=372320",
     "news": {
-      "title": "큐로셀 '림카토' 연내 건보 급여화 가속도…약평위 통과",
-      "office": "더팩트",
+      "title": "큐로셀, CAR-T 치료제 ‘림카토’…연내 건보 등재 기대",
+      "office": "데일리안",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/629/0000530887"
+      "url": "https://n.news.naver.com/mnews/article/119/0003129306"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/372320/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
-      "office": "경기일보",
+      "title": "삼성·SK하이닉스 찍어 \"반도체 관세\" 협박‥파병이 협상카드?",
+      "office": "MBC",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/666/0000122023"
+      "url": "https://n.news.naver.com/mnews/article/214/0001522133"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
@@ -2505,10 +2505,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=011790",
     "news": {
-      "title": "SKC, 앱솔릭스에 2810억원 출자…유리기판 상업화 가속",
-      "office": "한국경제TV",
+      "title": "SKC, 드디어 글라스기판 생산하나…2810억 투자",
+      "office": "비즈워치",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264935"
+      "url": "https://n.news.naver.com/mnews/article/648/0000050497"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/011790/news"
   },
