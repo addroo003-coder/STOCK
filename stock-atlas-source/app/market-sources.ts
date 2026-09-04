@@ -337,10 +337,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "휴머노이드 첫 일터는 물류센터…CJ·롯데·한진 '로봇 전쟁'",
-      "office": "아이뉴스24",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055564"
+      "title": "“돈 버는 로봇기업 나왔다”…‘흑자 전환’ 로보티즈에 로봇주 ‘랠...",
+      "office": "서울경제",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658796"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -491,10 +491,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "\"지금보다 두 배 오른다\"…삼성전기 '슈퍼 사이클' 진입하나[종목e슈...",
-      "office": "이데일리",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364005"
+      "title": "1조 수주에도 고점서 38%↓…'비싼 몸값' 갇힌 삼성전기[종목현미경]",
+      "office": "뉴스1",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152370"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[IFA 2026] LG전자 ‘최고 브랜드’·삼성전자 혁신상 4개… 韓 가전 나...",
-      "office": "조선비즈",
+      "title": "삼성·LG전자, IFA 혁신상 11개 휩쓸어…AI·디자인 기술력 인정",
+      "office": "세계일보",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190503"
+      "url": "https://n.news.naver.com/mnews/article/022/0004156517"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화 '천무', 유럽 시장서 존재감…크로아티아와 6800억원 규모 계약 ...",
-      "office": "시사저널",
+      "title": "한화에어로, 협력사에 ‘AI 역량 강화’ 세미나…“실질적 지원 확대...",
+      "office": "문화일보",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/586/0000137528"
+      "url": "https://n.news.naver.com/mnews/article/021/0002816427"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\"",
-      "office": "지디넷코리아",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436322"
+      "title": "LG전자 \"로봇, 다음 먹거리로 고민\"…'원 LG'로 클로이드 키운다",
+      "office": "아이뉴스24",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/031/0001055674"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"HBM4가 진짜 승부처\"…삼전·닉스 시장 주도권 가를 변수는",
-      "office": "뉴시스",
+      "title": "[서울데이터랩] SK하이닉스 ADR 8% 급등… 반도체 강세에도 美 3대 지수...",
+      "office": "서울신문",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/003/0014170769"
+      "url": "https://n.news.naver.com/mnews/article/081/0003677072"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
