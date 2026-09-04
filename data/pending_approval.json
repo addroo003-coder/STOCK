@@ -10019,9 +10019,14 @@
         "press": "글로컬타임스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hXzFKN3UwZVJfZFVZd3FJMTJBN29QS0hyelBFdWVGQktVaVNVc2d1aUFXYmNyYi1GZC1wR3pwckFDQ1JfeGdCOEZpVGd5eFp3WHdUVF9nMjl2VjlKZzZyRl9vSUtuZTZK0gFsQVVfeXFMT0o0Z2ZsYmtib2hwVTJ3czJicmNTMjNoalpNWG4yV3YxZzhxY19uOHQxZ3loMWZGSUlLeVN5eE50M2Z5LU9mUWlhTVJsVENRLTRVWjFKdjdSSVpPYkpMWU5tTFB1RXkycnc0d3Q3?oc=5",
         "pub_date": "Wed, 02 Sep 2026 13:05:59 GMT"
+      },
+      {
+        "press": "cc.newdaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMFBPV2JtREthVVQxRFo1RFpUcjNGNmVFZ2hrTDNmRFlvUllpYlEwcnpTeExDSHJTQ1daU3Ryc0l0M2gwcnV6VXMyOUN0ZVpJa3hRaVpCbmxFN3JDQ01NWFd0d2w2WTFnLWllUkVDampQTWd6SUFIOVJkTHdVTk3SAX9BVV95cUxOajBQT1dibURLYVVUMURaNURaVHIzRjZlRWdoa0wzZkRZb1JZaWJRMHJ6U3hMQ0hyU0NXWlN0cnNJdDNoMHJ1elVzMjlDdGVaSWt4UWlaQm5sRTdyQ0NNTVhXdHdsNlkxZy1pZVJFQ2pqUE1neklBSDlSZEx3VU5N?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 00:03:45 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 12,
     "id": "222800-기타-7054-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-04",
@@ -11425,9 +11430,14 @@
         "press": "경기일보",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CMkdMaE1WLWN0QXMzVnBPdUdpQ1hkQ05YdC1qaEZwYVdUWTZRZHowYWZka25VekRlekg3ZjBjdE5CSWIyNkpLM0xkVlRJZHphMW9NVGtLVV9jXzQ?oc=5",
         "pub_date": "Thu, 03 Sep 2026 05:49:01 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQX2pLbGhfSTB2SGdmZ3lzbmVTSWhwWGd2SU96VUl5eGZubGZqV25zaDdUT0U0dzliVHlSLW81bXVXajg5RnozWUYxRnVmM1IwRTlBQVBPdlNHYmlfVURnU3BEN2ZqSEtPaWpqQ2F0YTlfdw?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 22:55:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "068270-기타-7936-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-04",
@@ -13056,7 +13066,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[IB토마토]에코프로비엠, 유증 규모 26% 축소…국내 투자재원 2850억 '공백' - newstomato.com",
     "source_type": "news",
@@ -13065,9 +13075,14 @@
         "press": "newstomato.com",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JeWU4azhDYWFCcWlfS3BmX1BiTzlnX0Z0SWxHX3BHSVFSZFREX3lCeGVPV3hTdXFVRThha0FZc2o2ODA1Rmk2QjBxa21iWlNnbUstNTB5azRWZXJQXzBPVQ?oc=5",
         "pub_date": "Thu, 03 Sep 2026 22:10:00 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TbUI2dW5lVndwTHNtdHdBY09VQkJyOWRQWFF3d281OGhXcEh4YjJaSS1OWHlWTFpCbmlGdUlIWTF4WWgtV0FWZHlwVjFscG1Gc0draDhETE0zdXgxZGtwcA?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 22:10:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "247540-기타-9077-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-04",
@@ -13402,7 +13417,7 @@
     "sector": "바이오",
     "category": "바이오",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "알테오젠 32억달러 기술수출…美 FDA 허가·약가 개입도 확대 - 네이트",
     "source_type": "news",
@@ -13411,9 +13426,14 @@
         "press": "네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TkllZTdET0NHTUEyQlRmQkJ1bnU2X3haRXkyUHFrbmhla3YtQjl2bHc4Mmg4QlltOS0tOWgyRE5neWxiQ0Y0dGZLSVNTaVJrdms4?oc=5",
         "pub_date": "Fri, 04 Sep 2026 01:25:00 GMT"
+      },
+      {
+        "press": "조세일보",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keGNPWElwMVVxWVBTUUI1blhGUXhidDlZaG9Ua2VTakZXYnh1YWdhcWFLM2RFbDlUUzZoT0VtN1FVMmVTelA5SHFJM0REQWtWbkZrNjZuV1FFbTU4UWNv?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 01:25:05 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "196170-바이오-9285-20260904",
     "first_seen": "2026-09-04",
     "last_updated": "2026-09-04",
@@ -13917,6 +13937,54 @@
     ],
     "source_count": 1,
     "id": "247540-자본-10003-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "전남대-한전KPS, 차세대 에너지 산학협력 확대 업무협약 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14Sl85VlcybFBvSXVBZjRlN0pXT2VhWk94b3FjYVlQbmRUNFBvaHIycEpiaERodTRwcHlTSERpeHNDQzVkS29KTWVMLWtVdw?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 14:45:18 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-기타-10106-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[공시] HLB이노베이션·우리기술투자 '공매도 금지', 엑시콘 '투자경고' 등...22건 - 뉴스티앤티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WGp6b0JISEY5dFpNUmo3dlRucU94dFloaFp3b21DMjdYN0RMdUdobUpKNU5ldmlYQnpWdmdVUXBnTWRpUGJNUGZRc3RCaVlWZzdSWlVkR184QkNLNDMxd3REN3EzX25YUlE?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 11:57:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "032820-기타-10111-20260904",
     "first_seen": "2026-09-04",
     "last_updated": "2026-09-04",
     "status": "일반",
