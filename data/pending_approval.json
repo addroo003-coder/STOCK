@@ -11150,9 +11150,24 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YMzZaSzZpV2JPSU02a1FNWTNsWUlfUmN6bVBBRHRJcnJVeTlaTFpVWHJ3VlVRN3U2Y2VULWV1akFJNWFXY2c?oc=5",
         "pub_date": "Wed, 02 Sep 2026 23:06:02 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12LWxFN2ZYRFd0TWtyMXV3YmNTRVREVWJ0alpKc2M3eDJIWWpVbEM0TFlHODlHS3l0OUZ2NE85bVEzNkJONnlIejNybmpEeEtDSGJzQzU5T0LSAVhBVV95cUxNdi1sRTdmWERXdE1rcjF1d2JjU0VURFVidGpaSnNjN3gySFlqVWxDNExZRzg5R0t5dDlGdjRPOW1RMzZCTjZ5SHozcm5qRHhLQ0hic0M1OU9C?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:17:01 GMT"
+      },
+      {
+        "press": "파이낸스스코프",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YzJvLXBFVnNIX2c0OUlTNHpOcTA2TDl4UWJjVmZzVFA0RGN2QlVmWkl2WkVKcHg2U3hYUFE5czhqcFZvZ1FwSXNwS2dQeXA2VlV6ZEVjWDEzVHlJcDB2aU9rNkJfb29GOUE?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:14:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13SlRVenI2enM2QjgwZW5CSS1mRC14dk50cjVsTGJhVENta3JURFhJTFBfVS1FRDNWUDdfU2dwaE9UNlI3bHJSdC0tR2FScDFhLVdDLW5WcUJEd0dFYXZlV1ZoUWxVTkYyN2fSAW9BVV95cUxPNXlsV041cmlEcFNhZktlN29tYVhFTjJnYmxjVkIyV2hzbW9XRGZnR2x3UnoyVmpzaU4xSHdhbDFfYnpEdFRYWDYwNnEyYTNKTl9qWjM3M3dMb2M1aUdlQ2kteUZWa0VwTGY0dmxud0U?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:46:10 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 13,
     "id": "068270-기타-7749-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-04",
@@ -11722,9 +11737,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pSWVOU1BXZldhNHZqam01dkJBQ0dpN0NCSVBsSHlUTmZJR1FKOE10d21YUUZXY3E5NEV4TDB5UnJpRjRsZTI2STVRODNCZFU?oc=5",
         "pub_date": "Thu, 03 Sep 2026 01:23:03 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QZXJ5eHRGZ2hqa0tWaWpSZUxQVjY2dEZnSmdLTXNkNHJ6QnNCOGFUcy1MdEYwazNkWTNsTHdWMUJQZUpoY3c?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:23:03 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "006400-기타-7970-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-04",
@@ -12768,9 +12788,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PcjN5b01hNlotTG9pTXo1NEk5dkVJVUl3U01oTjBBRE4wMFBDQlFjY3hURGwxRDdhRVJESjVWT3hxdm16Q3duenJvU3NJSmM?oc=5",
         "pub_date": "Thu, 03 Sep 2026 06:44:11 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZlh0OWNnNkc1bjUtZVZCS19YREtZWTh5eGhGUk5LQjlQc2p6eEtuRnhZNVU5aEV3U0Nkc0cwOG16M2hWVUUxdElPMA?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 06:44:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "196170-기타-8740-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-04",
