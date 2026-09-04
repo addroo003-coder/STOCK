@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "카카오페이證, 카톡 친구 추가 10명에 삼성전자 1주 증정",
-      "office": "뉴시스",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/003/0014170688"
+      "title": "[IFA 2026] LG전자 ‘최고 브랜드’·삼성전자 혁신상 4개… 韓 가전 나...",
+      "office": "조선비즈",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190503"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화에어로, 협력사에 ‘AI 역량 강화’ 세미나…“실질적 지원 확대...",
-      "office": "문화일보",
+      "title": "한화 '천무', 유럽 시장서 존재감…크로아티아와 6800억원 규모 계약 ...",
+      "office": "시사저널",
       "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/021/0002816427"
+      "url": "https://n.news.naver.com/mnews/article/586/0000137528"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성·SK하이닉스 찍어 \"반도체 관세\" 협박‥파병이 협상카드?",
-      "office": "MBC",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/214/0001522133"
+      "title": "\"HBM4가 진짜 승부처\"…삼전·닉스 시장 주도권 가를 변수는",
+      "office": "뉴시스",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/003/0014170769"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
