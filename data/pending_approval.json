@@ -4237,7 +4237,7 @@
     "source_count": 1,
     "id": "267260-기타-4415-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-04",
     "status": "일반",
     "stale": false
   },
@@ -11504,9 +11504,14 @@
         "press": "finance-scope.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YzJvLXBFVnNIX2c0OUlTNHpOcTA2TDl4UWJjVmZzVFA0RGN2QlVmWkl2WkVKcHg2U3hYUFE5czhqcFZvZ1FwSXNwS2dQeXA2VlV6ZEVjWDEzVHlJcDB2aU9rNkJfb29GOUE?oc=5",
         "pub_date": "Wed, 02 Sep 2026 23:14:00 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxNQVhuWUtCMXdLR2tIYzRrRHh0X3Z3cVlSQ3ZyWUV5SzhPYS15S0VXYTFVRzlhc3ZHOVVabDA2cG1qaTREdE5OTlZXY21aWEtlenhGS2FmQjd5a2FqbTZiNG1LSm1GRXRCWENCMG1jNFpJRldQLVlBWTdCZ0tmZzhqcnJXcHhwR1lGUW5DdW1PTjBROWtwclpKTzZrZTFTaVBPZlRqRVFMQmxDeEpwRGFyTFlWQnc3bklmdzg1NnlmU3JaWjlZWFQwLXZ2amMzWWhPZkhzNlUxMVo1UDJ4OE5kZ0hjVkJxcERKbW9QVHlJallJYW9EWTRGTko3Y1pIMW92RWJvOFFIZThpMEpidEhkYy1vQXFjdDlTcFpEbWdfUkp6TXVTVHR3SHZCUFdQYjdVdTlENVdxVHI5c05HNy1VNmF5QXpaamFJblpmd2VmTlFFR1ZwVXZvdEpHR2pzYi1DMHR5cTVZOHVaSnBDa0dpTUI4dkVfMUxLWEJid3JGcUQzN0J5SUlHMmdva3J1MUhsRkFENkMwcjY1OUk1QVdkeUVQc0VfYWNSNEZZbVoyNzNmSjd5LU84NEU3WUZDdkUxUUNMY2Y3WXUtLTdkRkFFa2s3RGlsRTlnSGdUMUs1cDVrU1JhMlhzZnJZZkpjQzF3RzkwcXI1aXhHdm1vNU4tMDBTM3NOTms0X1YwbWlSaTBwVVN2dWtuZWU4bmpqaVhKeEhUbFphVThJYTFGdzM0Mk1ic3g2bndCcER5Z0dtZXI1RTBLeV92aGdWR3dLekI1SU1qaWlsNlFYdTNXUV9Cdms3dkROb1M2X3R6MF9UMndKUmJiaEtMWHZnQ1RaSVptaFNnV2ktUzVhdkp5S2dpMEJaTkd2Wl9TMzVHV3ZtXzdTVjZ2M3VjODRlbGtHcGw2QlRKLWFnMWlQRk5WUnd5bXhvekFIbUlEajJ4LWxDU2dVTjZlRHk0UWVESVo4cDdkanExbHBRS1ZNSjhLb09lSFVwWm54VGJfSFhOc0pXRmFRRkZlaWtr?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 04:21:02 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 11,
     "id": "068270-기타-7937-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-04",
@@ -11519,7 +11524,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온, 美서 ‘스테키마·유플라이마’ 처방 확대 - fetv.co.kr",
     "source_type": "news",
@@ -11528,12 +11533,37 @@
         "press": "fetv.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84STN0ejJMRzZTY3dnLVBrYm9STklGNkpCelpOMy03VWpISE5HVnRvazZSNlY5WE1lc09HM015bmVMRFFXcFF6OGJlMHdOZEw5Q21XWGFxWWlMX2VVQ2hUZ2dxN1hLNTdh?oc=5",
         "pub_date": "Thu, 03 Sep 2026 00:14:03 GMT"
+      },
+      {
+        "press": "yna.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zQWhtNktXTHd0OEV0NVFydjlPa2VNNGlfWVRzM0JoV0ZaeWhfc1dLM1ctZTdiNDM5bEFEb3A3azJaelUzbkE3bE85SEpjcnN5cC0tVmNTZld0RENCbVBRRtIBYEFVX3lxTE0zQWhtNktXTHd0OEV0NVFydjlPa2VNNGlfWVRzM0JoV0ZaeWhfc1dLM1ctZTdiNDM5bEFEb3A3azJaelUzbkE3bE85SEpjcnN5cC0tVmNTZld0RENCbVBRRg?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:19:22 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YMzZaSzZpV2JPSU02a1FNWTNsWUlfUmN6bVBBRHRJcnJVeTlaTFpVWHJ3VlVRN3U2Y2VULWV1akFJNWFXY2c?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:06:02 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12LWxFN2ZYRFd0TWtyMXV3YmNTRVREVWJ0alpKc2M3eDJIWWpVbEM0TFlHODlHS3l0OUZ2NE85bVEzNkJONnlIejNybmpEeEtDSGJzQzU5T0LSAVhBVV95cUxNdi1sRTdmWERXdE1rcjF1d2JjU0VURFVidGpaSnNjN3gySFlqVWxDNExZRzg5R0t5dDlGdjRPOW1RMzZCTjZ5SHozcm5qRHhLQ0hic0M1OU9C?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:17:01 GMT"
+      },
+      {
+        "press": "파이낸스스코프",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YzJvLXBFVnNIX2c0OUlTNHpOcTA2TDl4UWJjVmZzVFA0RGN2QlVmWkl2WkVKcHg2U3hYUFE5czhqcFZvZ1FwSXNwS2dQeXA2VlV6ZEVjWDEzVHlJcDB2aU9rNkJfb29GOUE?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:14:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13SlRVenI2enM2QjgwZW5CSS1mRC14dk50cjVsTGJhVENta3JURFhJTFBfVS1FRDNWUDdfU2dwaE9UNlI3bHJSdC0tR2FScDFhLVdDLW5WcUJEd0dFYXZlV1ZoUWxVTkYyN2fSAW9BVV95cUxPNXlsV041cmlEcFNhZktlN29tYVhFTjJnYmxjVkIyV2hzbW9XRGZnR2x3UnoyVmpzaU4xSHdhbDFfYnpEdFRYWDYwNnEyYTNKTl9qWjM3M3dMb2M1aUdlQ2kteUZWa0VwTGY0dmxud0U?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:46:10 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 6,
     "id": "068270-기타-7939-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-09-04",
     "status": "일반",
     "stale": false
   },
@@ -13985,6 +14015,54 @@
     ],
     "source_count": 1,
     "id": "032820-기타-10111-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알테오젠, 인간 히알루로니다제 기술수출…최대 32억2300만달러 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwaUdiUGludy0yeE5FSUZ0SFV4bXBhN0hqUlRoX2g1ZGJmMVZUd0VYcEJBODlsQTV3bWhYMVZINl9Ic05SSXZnM2tkSkRQU2NoX3pHSW9zTWhCN0wwWGNBRWtNUkZxdDg5?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 14:47:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-10197-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG에너지솔루션, 미국 스맥오버 리튬과 계약 체결…북미 핵심 광물 공급망 강화 - 주간현대",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간현대",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9kMEV2amN6SlNrbWVXTE1Mb2Q5Y004Umg0UGhPYWpLYm52RUYwTlNtVTNqUm45eXlNVm5PMVA4QU11ekk?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:45:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-10207-20260904",
     "first_seen": "2026-09-04",
     "last_updated": "2026-09-04",
     "status": "일반",
