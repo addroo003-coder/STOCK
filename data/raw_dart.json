@@ -1,5 +1,31 @@
 [
   {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+    "rcept_no": "20260904000161",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000161",
+    "is_correction": false
+  },
+  {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임시주주총회결과              ",
+    "rcept_no": "20260904900170",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900170",
+    "is_correction": false
+  },
+  {
     "company": "피에스케이",
     "stock_code": "319660",
     "sector": "AI 반도체",
@@ -39,6 +65,32 @@
     "is_correction": false
   },
   {
+    "company": "티씨케이",
+    "stock_code": "064760",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260904900155",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900155",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260904000177",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000177",
+    "is_correction": false
+  },
+  {
     "company": "비에이치아이",
     "stock_code": "083650",
     "sector": "전기·전력",
@@ -75,6 +127,19 @@
     "rcept_no": "20260902800049",
     "rcept_dt": "20260902",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902800049",
+    "is_correction": false
+  },
+  {
+    "company": "한중엔시에스",
+    "stock_code": "107640",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260904900292",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900292",
     "is_correction": false
   },
   {
@@ -143,6 +208,19 @@
     "is_correction": false
   },
   {
+    "company": "LIG넥스원",
+    "stock_code": "079550",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "[기재정정]주요사항보고서(유상증자결정)",
+    "rcept_no": "20260904000208",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000208",
+    "is_correction": true
+  },
+  {
     "company": "삼성바이오로직스",
     "stock_code": "207940",
     "sector": "바이오",
@@ -179,6 +257,19 @@
     "rcept_no": "20260903900076",
     "rcept_dt": "20260903",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903900076",
+    "is_correction": true
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]투자설명서",
+    "rcept_no": "20260904000248",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000248",
     "is_correction": true
   },
   {
@@ -309,6 +400,19 @@
     "rcept_no": "20260818100017",
     "rcept_dt": "20260902",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818100017",
+    "is_correction": false
+  },
+  {
+    "company": "코스모신소재",
+    "stock_code": "005070",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260904000123",
+    "rcept_dt": "20260904",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000123",
     "is_correction": false
   },
   {
