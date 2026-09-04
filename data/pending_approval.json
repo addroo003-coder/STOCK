@@ -11300,7 +11300,7 @@
     "source_count": 1,
     "id": "009150-실적-7815-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-09-04",
     "status": "일반",
     "stale": false
   },
@@ -13635,9 +13635,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iYmctX1c4eUEwd2VhN3R5alhHdXAweTJUVGVKWEFzb1ZKTng4NVhWRnZpQ19EZmdXMTdCZmlQTi1DX0JCYjU2aGc0Wi05MGc?oc=5",
         "pub_date": "Fri, 04 Sep 2026 00:30:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXa1VIM1R3TFI4TEZsRC1XVzB3UTRjTnZpZ1ZYaGExUElaYzhTX3RoX0lSMG1GTlRRbmNwLUZmNEJMOWoyc0VoQmFlSG1HZHZjcWdfag?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 00:30:43 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "399720-자본-9384-20260904",
     "first_seen": "2026-09-04",
     "last_updated": "2026-09-04",
@@ -14088,6 +14093,117 @@
     ],
     "source_count": 1,
     "id": "373220-기타-10207-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 1분기 사상 최대 실적…AI 수요에 고부가 제품 판매 확대 - 데일리뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리뉴스",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQblZUNlVkQlA0WlJaWENmWWM1ZUVtOXFZZDFWQVFEQUhjWUVHbnFTYWhOb1loTTctMU5GMmJYWnd2djB2eUtZSDdrcjlhRWYwc002WjdRXzVBSWF3TlU1SDZrdDVCUDU0Mlp2TldIVTNWS0s2WVBRbUNHbGdfeEhKQ0g2c09tQ0lZczVFdFJMMTBjTzVsNEZVVl9IbmFkeHdxdzNuMWFQVm1TdGxEekFOakRDUVJoSUpmY1ZmSWxXM2kyUU43NHowdlVpU1BUdWlMazd4Wm5BbHQwdDJoRGZXUkU4aTEydExoenQzVEVnakRQaHUzQ0pPQ2ZaWGNyNHdUTDR2a1pOTEFGS3lOaWs2bzlISnk4Vy05ZnROOF9ZNEl2SlJjT2xvYVUxR2Y3UFU4YzNzVm1KWmRyeXBZVW9saTc4cFNaLVV1VExHUG91RXlJOWd4QUpuOS1aY2diVlNad1U2Wk84TTJYd1ZacjRzWDB4TE1rdXJQSEwtc3hFc1FLWVNRMF9UTlB5WGxuc3V1MVRyazRTOA?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 14:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-10257-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "서울과기대와 두산에너빌리티가 업무협약을 체결하과 관계자들이 기념사진을 촬영하고 있다. - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMi6wdBVV95cUxPWlItSUt1Y2RkRjJXdGtYaGNqcWdyVU9qMnROanhiVnFYVWlXakJsWlRmdVNzQ0pMR1Q5Vm9iTkJ3X0ZFRlMyUF9ITE8wX1FiclBuLUpDLVliVzU5WXVSM1B6T1Vub2owSDBWM1hBeVBfMmdwQk9JTzB3NlpEYUdRdTQxZldWd3hPYWxOeVktSm1MTWl4bU03dW1aTEYtREswai1hdnY5UTg5WUNzNm1uRDFUSU1OMzVkVG91TTNpbFFta0NCQ3BPM21kWGd6aEVWRVVkWFBLcU5wTEZMY1lxWVBwWlZ2cjhMR1hzYnU4a1FublZiSVlFdzAtSzZ1Q3ZrT0JHdlFRdGVpeXhjTUNPOXB2NEtxUXRqbENqUkhHaFI1OUdSSm5RT3Y2VExSdkU0ckNXWFROeDU3QUg0bi0teHNuQzJVdk5xVUhjOFlSN082OE5meVJJam9sWG1rR0Y3V0tpQzRVRDMzUGpRMC1aMndDMEd6azRlVEZRRlI1eDJhVVZBcFdxNm9XWUVBb2xhODAzNVVrTy0wdVpCVEpJMWVMVi1TVHNjUVU0bkpZUzdTeHEyeEhLb1lGYlo2M21WN0VLX19EWVdoT1hhYXFjQjY3NFl5M0dtVGRqdjNIaVVubnFsRVhQZEJvZWw1WnE5SHZLaWtQeHN4YW54SXp2S3RidElPcjllVWxBdmJJbzJlYWlJczdfa1AzT1h1WXZhRWJjU1hmdmtDMTZYZlNPdlhsMlM0TEFzWGdxRmVFNTJzSGs1NkNoSGhjY3l5d2R3TEZkdWdPMC1rY3RpejRsMXdfX1A4VkpUejMxRTU5VXhmaTJ3ZWlLTFZOdkgxVkhlOFZObllJVXRyVVdHd1JqT0lWNDhJeVlUam1yS1N3Yl9mV2s1Q2NNS3NNZTVNd1Q2RjNJNHRhbkFYMzhjOGFWNXp4MGJoMG1TZFhWUXFQTG1sR1NMcVdlSDdZeVZid19GVnhlREk5Wkxnd1lsN2UzUGc3Wm1yNWRhdkxiZmNLc3FZQWctZ1FxSWtzd1liVV9xQjZha3MwMm5tYWNiQlh3REhwTFdRM0NwQ2xackNMc1dFQmNkQkh0N0x1alJza0xYSzhXUDZPd1J0ZzZuZDRyMXlDY3RrTWVUN3JTY3hZMmUyRkZlRlBmWk0tajVxQTRRNFhrSnNhTWQ4b2ZNdDZEZDV1aDhNNGxob2ptRWdUdDVvdzBxTGhYQWh3dThpN0VpaFViR2oyYndrNGhrRDUwMzhTOWpUeWZZdFUyU1dZU1dJVU9QVnM1Zk94dkNBclhNLV9mb0VWcnMzTDlqUnpScE9DVmxVLS1nSTdB?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 18:42:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-10289-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온 '스테키마' 美 점유율 16.2%…신·구 제품 '동반 성장' - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWcjFkbDlwVlVzekE2Z0gxY1ZFYW9kTHltZHVyNmkzMU5tSUtpUS1KcG9wMFk5a2Z3ZzIwYXcxeUtKUGctLWZhZHA3ck53dw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 00:45:22 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12LWxFN2ZYRFd0TWtyMXV3YmNTRVREVWJ0alpKc2M3eDJIWWpVbEM0TFlHODlHS3l0OUZ2NE85bVEzNkJONnlIejNybmpEeEtDSGJzQzU5T0LSAVhBVV95cUxNdi1sRTdmWERXdE1rcjF1d2JjU0VURFVidGpaSnNjN3gySFlqVWxDNExZRzg5R0t5dDlGdjRPOW1RMzZCTjZ5SHozcm5qRHhLQ0hic0M1OU9C?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 01:17:01 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13SlRVenI2enM2QjgwZW5CSS1mRC14dk50cjVsTGJhVENta3JURFhJTFBfVS1FRDNWUDdfU2dwaE9UNlI3bHJSdC0tR2FScDFhLVdDLW5WcUJEd0dFYXZlV1ZoUWxVTkYyN2fSAW9BVV95cUxPNXlsV041cmlEcFNhZktlN29tYVhFTjJnYmxjVkIyV2hzbW9XRGZnR2x3UnoyVmpzaU4xSHdhbDFfYnpEdFRYWDYwNnEyYTNKTl9qWjM3M3dMb2M1aUdlQ2kteUZWa0VwTGY0dmxud0U?oc=5",
+        "pub_date": "Wed, 02 Sep 2026 23:46:10 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tOG1EWTRNV0x3ODhzLXlXaUVtcXlaS1hRM3p4S1NWT1pma0tDZVRFMFBsVlNtSGZadzdfTS1qTnNtYkNrWnUyRDUwd2FLWlUyMUZKV1NJM2duVUcxY3ZmNzVRWjJQMVU?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 06:39:28 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "068270-실적-10315-20260904",
+    "first_seen": "2026-09-04",
+    "last_updated": "2026-09-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "큐로셀 ﻿국산 1호 CAR-T 치료제 림카토 ‘조건부 승인’ - dailymedi.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "dailymedi.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91NnBsd1k2VVNHWDZFdzY0Tm9oNjV5RGhycVVpLUtNN2dOdTg1VmpSaFI5bHBtYXl5QUktUUJsdkd4OTlHa0pCYVBlUm1DeWpoYS1qUjN4WHhDTUJmZDZZaHpvZkRVb1M1aGE0YWs1OEYwVkUx?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 20:57:13 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "372320-기타-10328-20260904",
     "first_seen": "2026-09-04",
     "last_updated": "2026-09-04",
     "status": "일반",
