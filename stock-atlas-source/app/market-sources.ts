@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
-      "office": "주간조선",
+      "title": "\"원화 강할 때가 기회…달러 계속 분할 매수해야\" 전업투자자 '손주부...",
+      "office": "뉴시스",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061271"
+      "url": "https://n.news.naver.com/mnews/article/003/0014171533"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "노무라증권 “삼전닉스, 저평가…반도체 공급 부족에 환율 악재 딛고...",
-      "office": "세계일보",
-      "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156601"
+      "title": "\"원화 강할 때가 기회…달러 계속 분할 매수해야\" 전업투자자 '손주부...",
+      "office": "뉴시스",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171533"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
