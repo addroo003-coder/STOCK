@@ -13049,7 +13049,7 @@
     "source_count": 3,
     "id": "006260-기타-8994-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -14339,6 +14339,78 @@
     ],
     "source_count": 1,
     "id": "373220-기타-10556-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 동행노조, 뉴욕 한복판에 띄운 한마디…‘사람 줄이는 AX’에 공개 경고 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAySXdmS3kwQ0R1cHFiNm9aNUE5d1NDUHB1ckpGNEtSOFNzMHlkakQ2MTV2XzlZa3E0TF9KWkwwaDN3M2p6SUZXTFRXeEw1UlE?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 07:09:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-10575-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, FC-BGA·MLCC 동반 호황…분기 최대 실적 또 경신하나 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVVgyZk95d0lKYXBBQmRLZWY2V0ZlaW5sUk9pLWswajk1bjUxcFhTbmZycHhTbnpISHFlcUdYLW5ReGhzLXVOcHV6TWZ6ZWJ6OUs3SzBzVTNGOFBreGdqWm1qVmtOclNtckROaEgwTXJwZk3SAXdBVV95cUxQUXRraFZ4RmtocVJTdmRVZ3psTWxuaUJlR0ZFaWJ2QUQxVjQwaDNmMzFUdXZMc2RROFEwOTEzVEhKQ19JXzc0NGsyQ1lfaHpiWUpnZVBnMWVoOHdNM0JYcE8wWTUxV3RFZVlaeElVVEdOQi1NazNhSQ?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 02:46:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-실적-10592-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG에너지솔루션, 장중 소폭 하락…뚜렷한 악재 없이 주가 부진 : 기업주식정보 - news.jkn.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "news.jkn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tNFlsczEzT1diOERQQUlYQmxWUzM5RkxIY0dLdk5qand4YS1kbVl2VmxmMHJQbGVPaV83T09FakhvLXZHWWk5U3Rn?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 01:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-10665-20260905",
     "first_seen": "2026-09-05",
     "last_updated": "2026-09-05",
     "status": "일반",
