@@ -13429,7 +13429,7 @@
     "source_count": 1,
     "id": "108490-기타-9181-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -14225,7 +14225,7 @@
     "source_count": 1,
     "id": "372320-기타-10328-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -14440,6 +14440,30 @@
     ],
     "source_count": 1,
     "id": "006260-기타-10686-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 DX 노조, 타임스퀘어 전광판 광고로 단체행동 확대 - 중부일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중부일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3ODB2clVxdW1SdHRqWDBHemtYUFBFOTZ4bzk3WEgtUUhyZXhoaHQ0bnhXa2oxM0EzcFVfTTNSYjluM2h0Rzl2SzUyUGMtalZLY2V6QVVVbEFXZ0FLT0xXeXdkYlVTR041NzVTSjlhYw?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 11:20:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-10725-20260905",
     "first_seen": "2026-09-05",
     "last_updated": "2026-09-05",
     "status": "일반",
