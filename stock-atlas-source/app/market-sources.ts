@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 ‘빠진’ 초대형 전시장…중국 기업이 채웠다 [IFA 2026]",
-      "office": "헤럴드경제",
-      "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693226"
+      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
+      "office": "주간조선",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061271"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
