@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, IFA서 'AI 리빙' 전면에…TV·냉장고·세탁기가 생활 맞춘다",
-      "office": "뉴스1",
+      "title": "삼성전자 ‘빠진’ 초대형 전시장…중국 기업이 채웠다 [IFA 2026]",
+      "office": "헤럴드경제",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152720"
+      "url": "https://n.news.naver.com/mnews/article/016/0002693226"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
