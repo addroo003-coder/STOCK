@@ -4237,7 +4237,7 @@
     "source_count": 1,
     "id": "267260-기타-4415-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -5141,7 +5141,7 @@
     "source_count": 2,
     "id": "207940-자본-5160-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -11578,12 +11578,17 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13SlRVenI2enM2QjgwZW5CSS1mRC14dk50cjVsTGJhVENta3JURFhJTFBfVS1FRDNWUDdfU2dwaE9UNlI3bHJSdC0tR2FScDFhLVdDLW5WcUJEd0dFYXZlV1ZoUWxVTkYyN2fSAW9BVV95cUxPNXlsV041cmlEcFNhZktlN29tYVhFTjJnYmxjVkIyV2hzbW9XRGZnR2x3UnoyVmpzaU4xSHdhbDFfYnpEdFRYWDYwNnEyYTNKTl9qWjM3M3dMb2M1aUdlQ2kteUZWa0VwTGY0dmxud0U?oc=5",
         "pub_date": "Wed, 02 Sep 2026 23:46:10 GMT"
+      },
+      {
+        "press": "dt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EMmZLNzNHeEh4RDJWX0VsbnBaRnlWNHhuMU5BSnRVNWJfZmhLeWdnRkRrX0doSEZOWHdPWWhvMWhJV0JsRG9yQlJrNVZPUQ?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:18:08 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "068270-기타-7939-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -11612,7 +11617,7 @@
     "source_count": 2,
     "id": "068270-실적-7940-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -11954,7 +11959,7 @@
     "source_count": 2,
     "id": "108490-기타-8101-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -12518,7 +12523,7 @@
     "source_count": 12,
     "id": "068270-실적-8492-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -12744,9 +12749,14 @@
         "press": "금융경제신문",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wN19YVlNTSjhHZWNXUFVKR0oxLVh3WGtwV1hkSTlyTnVFWWlHbEVjdTRHVHZHNkRnNTBESEVFLTVPSkpiSXA1SzR0cGlUWkx4aXNXMG1TbjZRMU00MGZadTl2b0ZrTXIyNkZGN9IBb0FVX3lxTE9QTkZyblhSWHRBMWtvRGlTb2NRU1NMeGRqbk9TeVpqTlNWcDlndm9KT1dEajVEUWFaWFlUanFoRnc5R0NzQkhoYzlRVnk0dGV4aWNiNFZfUkRQYWZpaUprN0lnVHN2TVBWOUFidTI2OA?oc=5",
         "pub_date": "Thu, 03 Sep 2026 06:09:33 GMT"
+      },
+      {
+        "press": "금융경제신문",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QTkZyblhSWHRBMWtvRGlTb2NRU1NMeGRqbk9TeVpqTlNWcDlndm9KT1dEajVEUWFaWFlUanFoRnc5R0NzQkhoYzlRVnk0dGV4aWNiNFZfUkRQYWZpaUprN0lnVHN2TVBWOUFidTI2ONIBb0FVX3lxTE9QTkZyblhSWHRBMWtvRGlTb2NRU1NMeGRqbk9TeVpqTlNWcDlndm9KT1dEajVEUWFaWFlUanFoRnc5R0NzQkhoYzlRVnk0dGV4aWNiNFZfUkRQYWZpaUprN0lnVHN2TVBWOUFidTI2OA?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 08:21:28 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-8735-20260903",
     "first_seen": "2026-09-03",
     "last_updated": "2026-09-05",
@@ -14257,6 +14267,78 @@
     ],
     "source_count": 1,
     "id": "000720-기타-10393-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "제주반도체",
+    "stock_code": "080220",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최근 5거래일 제주반도체 주가, 변동성 확대 속 반등 - 톱스타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYkhJOFdDMTlGY1JFUzRvUm5xbGpFaEhzRDJwa3pOV2FpMzcxTXBtQWE2MXJ4M1Nyc1U4Z1o2RjhZdVFubmhvRTBBY0FVU1dZeldEZzBwWDZoNmVrUE03bmlmVTVyamlQRmlzNFZKODViUQ?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 03:00:49 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "080220-기타-10459-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS마린솔루션부터 가온·LS에코까지…LS전선 자회사 ‘최대실적’ 릴레이 - 브릿지경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "브릿지경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVE5SdHdjT3dIM1BoQ2JOQTdLOEV6R0w5YWVUT01Yalc4elpoZFg5OFB5VXdRWnZjRjVGUDRfTVJ3VU1TTkZUYVlCYTVELUxTNzJnSDdXeGR4Zw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 07:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-10481-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "9월 1주차 LG에너지솔루션 주가 35만원대 마감 변동성 확대 - 톱스타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1heFMwSG12V2I3MENpUnB4ZkxoV3BDczZJVHRxQ1p6VGl1RjFjWXZ6dVpxWXNaTGpJNmF5UFdpWEF1MDh4dXN2V0FveDNYU3JMcjZ6M0lRSTdQcUZkQmJYSE9OdHJKTlFVejNON1I0dUg3Zw?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 04:01:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-10556-20260905",
     "first_seen": "2026-09-05",
     "last_updated": "2026-09-05",
     "status": "일반",
