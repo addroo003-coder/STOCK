@@ -14468,5 +14468,29 @@
     "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "전남대는 한전KPS와 '차세대 에너지 분야 산학협력 활성화를 위한 업무협약'을 체결했다. - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxNMWszLWtGek1idUNkQXVHc2dFeU5PQ3luZk1hZzNTbkhTV2JHTXotMWhJVThpamRTeXpDY0pwaWdMUzctWTVSYWNnSldpdHE5aW52UXVWTkZucHJzRG1NTVlsNE5QYXQ5R2drOEZyRC11VS1wVlNZVjduRmJSNWpXWEFMS1NhVnYtOFVhbXYtQUNoNExVc3lGTDlBcGNDd2FMa1pkVDk3ckxJb3U4NkZIdjVuTWdjdUkyLXpaaGV4YmJxSGVrWEpGMkdHQUx0cGRHZTdfeC01d3MzMWFZaGU2V2pjSndUOERUTVFzTnhCb0YwaUlrWlB6X3o5Ymc3VWRfSFRzWnYxMldkZFhvRVJUdC1WYno1eW9JWjZEZEl4RUtGYUJZX3VnZk1FdmpVTGtLVW54OS1XRjZ0YlVkZWNzSWZzZkhoRmhCNDNDRGhRLUNJSDAwdEJKS1RGVGozRTlyR0JjMXc1SFlsTnRfV0l5LTVNdHBfREFJaU9uU3ByVmhSZXJhLUpqeHFfS0JxTHBYeHdDSy16cmxnT2gta2NIR0lzekJqN21ZdnhCWEVneHVscUQ5YmZrTFdKSmRFWHh3V3dxU2o0ZllZUjFWOGo2ODQySXBZdnlSdEFaTVVJVzNMNHJLMWlNZnFwTExEcGJnTUxsLTkxbXZvOG01dHRtRWxtbGFadkNjczNMeUNPTWJwWVBzQ2swTjZxTmJscmw0SWFsMzlTT3duOXcwZzFsaGFIYmktS29OTDVxU2h3Zml1TlZpUGVoMWtZMGtPNWotNFEwcWFCXzFCRVUtYXpaQ21COVVNcHpfQW5yTUZUdjRYQ2pWUlo3S2RZQTdpY05yd2pKbS1EdGZqLXQzR2d2UjNacVMzenR2WTB1YzF1SXJxYzA2ZlA5ZUYwdzgxSlRwTDNnY0xlSHRmaWJ6Q0VBVmxvdFAyUEpBS1BsdXRHMEhnR0dGRHUwVUQteEg3ZUdYcHVqOHBBWjNrM2RuVkxncHF6cDViQ0pqV3NnLTRtN21rOFROWVVQbFI0eDRvcTE0aFllWFhJQ095R3Ita0tZcEhSS2lReXc2SEFfajlKdG9XcW9sTWR0VDBRdl9mcjBiUXJVTjZ0VzFTSy1wYnRQMzh3N0gycHZnQjFxWWhUVk1IWkR6aDJUTTFnVVdGX3BPa1FzTWVwZ3NTX3F3RDRmbUFUTzhCNC1HRVdYZE9BU2pERUFaVjJRNXJVWldIcFlsdU1SSkpoN0YyMVFyLUNNbVhzc3BIWDZLOUExczFOWjhueDNnblJF?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 23:33:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-기타-10806-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
   }
 ]
