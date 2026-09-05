@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성·LG전자, IFA 혁신상 11개 휩쓸어…AI·디자인 기술력 인정",
-      "office": "세계일보",
+      "title": "삼성전자 DX 노조, 18일부터 이재용 회장 자택 앞 집회",
+      "office": "TV조선",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156517"
+      "url": "https://n.news.naver.com/mnews/article/448/0000637572"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "[서울데이터랩] SK하이닉스 ADR 8% 급등… 반도체 강세에도 美 3대 지수...",
-      "office": "서울신문",
+      "title": "엔비디아·오픈AI 격돌…고래싸움에 반도체 웃었다 [빈난새의 빈틈없...",
+      "office": "한국경제",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/081/0003677072"
+      "url": "https://n.news.naver.com/mnews/article/015/0005328974"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
