@@ -13951,7 +13951,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "전남대, 차세대 에너지 산학협력 확대…한전KPS와 지역 미래 성장동력 확보 나서 - hkilbo.kr",
     "source_type": "news",
@@ -13960,12 +13960,17 @@
         "press": "hkilbo.kr",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SOTJTQVhNQnEzbE5XZFRGaG5ZR1FPeVdNT2VNX3pOaml3bmFEcUFyazVzbDlzRTVLUWVHbUhYRGo0QTFJTlY0cHdUenNJZmRqZWxQNFJKMUNBaFlQYXR3cVlEZW56eDQ?oc=5",
         "pub_date": "Fri, 04 Sep 2026 10:31:35 GMT"
+      },
+      {
+        "press": "뉴스라운드",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hMjBVdWk1SzFaVmttd2RRWmJNR0FIekJqR0dNS1oyVmNxYW4tZ2tJdS1TdENsem5VbnJDdzBKVng2MEhwOHNQakhoR1lQUzlzYnF4TW1KM2c3Vkk0RnBWcFNKLXU0VWd0LTJ1ZFhTVi3SAXBBVV95cUxOYTIwVXVpNUsxWlZrbXdkUVpiTUdBSHpCakdHTUtaMlZjcWFuLWdrSXUtU3RDbHpuVW5yQ3cwSlZ4NjBIcDhzUGpIaEdZUFM5c2JxeE1tSjNnN1ZJNEZwVnBTSi11NFVndC0ydWRYU1Yt?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 03:59:31 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "051600-기타-9886-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -14411,6 +14416,30 @@
     ],
     "source_count": 1,
     "id": "373220-기타-10665-20260905",
+    "first_seen": "2026-09-05",
+    "last_updated": "2026-09-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 북미 AI 전력 인프라 확대…핵심 파트너 입지 굳히나 - 민주신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "민주신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMY0ZKN01abl9TQmdleGNabnhQNGtEbkhzM2FOSXZId3pYRVA0Q3BiTHNyLU5acjVTbEVpT3FpV29XVlg2MmNwYUZJbzkzY09hWm05Vk1rM3VSa1pILW9WOWRieG5LNl9WV1c40gFrQVVfeXFMUExjRko3TVpuX1NCZ2V4Y1pueFA0a0RuSHMzYU5Jdkh3elhFUDRDcGJMc3ItTlpyNVNsRWlPcWlXb1dWWDYyY3BhRklvOTNjT2FabTlWTWszdVJrWkgtb1Y5ZGJ4bks2X1ZXVzg?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 02:05:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-10686-20260905",
     "first_seen": "2026-09-05",
     "last_updated": "2026-09-05",
     "status": "일반",
