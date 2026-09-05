@@ -97,10 +97,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=348340",
     "news": {
-      "title": "냉장고가 식재료 인식하고 로봇이 집안 연결…IFA의 'AI 일상'",
+      "title": "가전 전시장 주인공 된 로봇…IFA 흔든 '피지컬 AI'",
       "office": "뉴스1",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152247"
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152761"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/348340/news"
   },
@@ -297,10 +297,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "\"정부가 직접 200대 산다\" 겹호재에 '들썩'…단숨에 29% 뛰어올랐다",
-      "office": "한국경제TV",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264942"
+      "title": "로봇에 정부 자금 쏟아진다…수혜 기업은? [주末머니]",
+      "office": "아시아경제",
+      "date": "20260905",
+      "url": "https://n.news.naver.com/mnews/article/277/0005812317"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 DX 노조, 18일부터 이재용 회장 자택 앞 집회",
-      "office": "TV조선",
+      "title": "삼성전자, IFA서 'AI 리빙' 전면에…TV·냉장고·세탁기가 생활 맞춘다",
+      "office": "뉴스1",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/448/0000637572"
+      "url": "https://n.news.naver.com/mnews/article/421/0009152720"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG전자 \"로봇, 다음 먹거리로 고민\"…'원 LG'로 클로이드 키운다",
+      "title": "현대차그룹 대미 투자⋯자동차 이어 배터리·철강까지 '현지화'",
       "office": "아이뉴스24",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055674"
+      "url": "https://n.news.naver.com/mnews/article/031/0001055687"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "엔비디아·오픈AI 격돌…고래싸움에 반도체 웃었다 [빈난새의 빈틈없...",
-      "office": "한국경제",
+      "title": "노무라증권 “삼전닉스, 저평가…반도체 공급 부족에 환율 악재 딛고...",
+      "office": "세계일보",
       "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328974"
+      "url": "https://n.news.naver.com/mnews/article/022/0004156601"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
