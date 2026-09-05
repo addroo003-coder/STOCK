@@ -7468,12 +7468,17 @@
         "press": "minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56R3VJbGlaNU5EUHpyZjJJTVU2cXRvbDlzREhkRFdkNG9qSXhMcUhCWXQ2dlgxV2h1akhMYnRObWFzT3ZqbDUtc2l0YXNwX3U0S0ktV1phVVJpRmY1LTRIaF9Ld1pzTlVuMURIbw?oc=5",
         "pub_date": "Mon, 31 Aug 2026 07:31:06 GMT"
+      },
+      {
+        "press": "minsimnews.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdHFLSjFPWGF4Zlp2bWhFUmt1dUFUWHBNZlNDRnNuYjVpcGJnY1FBZG1VMGI2bElib1RxLWpsZnZVVjFOYUtfUDJmMkhTdG1MdmNvUlhOdWVYdGxfUkZIeGpWczhHVHNnOVRVdA?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 07:44:51 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "010120-기타-6047-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-09-01",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -10024,12 +10029,17 @@
         "press": "cc.newdaily.co.kr",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMFBPV2JtREthVVQxRFo1RFpUcjNGNmVFZ2hrTDNmRFlvUllpYlEwcnpTeExDSHJTQ1daU3Ryc0l0M2gwcnV6VXMyOUN0ZVpJa3hRaVpCbmxFN3JDQ01NWFd0d2w2WTFnLWllUkVDampQTWd6SUFIOVJkTHdVTk3SAX9BVV95cUxOajBQT1dibURLYVVUMURaNURaVHIzRjZlRWdoa0wzZkRZb1JZaWJRMHJ6U3hMQ0hyU0NXWlN0cnNJdDNoMHJ1elVzMjlDdGVaSWt4UWlaQm5sRTdyQ0NNTVhXdHdsNlkxZy1pZVJFQ2pqUE1neklBSDlSZEx3VU5N?oc=5",
         "pub_date": "Thu, 03 Sep 2026 00:03:45 GMT"
+      },
+      {
+        "press": "pinenews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE81cnlwUThpRDU1My1nRHVRTFkzb0NSbERzcGZNUkJwUi1RWmpZVEVkN1dVM0E1LXVjYS1vWEVaR0NDMEk3RGJF?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 14:17:00 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 13,
     "id": "222800-기타-7054-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -13059,7 +13069,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "KB證 \"로보티즈, 2Q 흑자전환…중국 매출 3배 급증\" - 이투데이",
     "source_type": "news",
@@ -13068,12 +13078,17 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KM1g4end5NkNsZDdvRWRvOW5Hd3FGTFRGbzItNWxOOHIwd1JOd1ZKc3B1QWNRRmRIc0twcHhwSERXZzRsYm9UYzBmSU4ySTRiZ2dZZA?oc=5",
         "pub_date": "Thu, 03 Sep 2026 23:02:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03Z0Zham1LbVdrR1ZnOXFWY1JoeWhjVjY0d2lOTWgxbTJsalE1eDRjdEdwWFpZRU5NU0cwZU1KenUzWjV0RlB2dnY1aC1CUHZDRnpnQw?oc=5",
+        "pub_date": "Thu, 03 Sep 2026 23:03:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "108490-실적-9007-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-05",
     "status": "일반",
     "stale": false
   },
@@ -13655,9 +13670,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXa1VIM1R3TFI4TEZsRC1XVzB3UTRjTnZpZ1ZYaGExUElaYzhTX3RoX0lSMG1GTlRRbmNwLUZmNEJMOWoyc0VoQmFlSG1HZHZjcWdfag?oc=5",
         "pub_date": "Fri, 04 Sep 2026 00:30:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTc25qLWxGSlhGbk84SmRVX0lXNENWWDl6d0daYUtoX1FjWTROSkRpbEZVSGxUbzZsSHdWYzlrWWxFWnlRRkd0LU81Yw?oc=5",
+        "pub_date": "Fri, 04 Sep 2026 00:30:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "399720-자본-9384-20260904",
     "first_seen": "2026-09-04",
     "last_updated": "2026-09-05",
