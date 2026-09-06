@@ -14581,9 +14581,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NVGNsd01jUGdOWWhyeFBKbEp5bWhTYVRRUWV3RjJ0TGRuNVJUaFBhM190d0J6eloxRUlDZFBvSUpldzNJUFIyVmtvRVZXSTAzT0x1QzJCeDJUNGlvdU1DTlV1Vk9DQ2JvZ3BOMnZ0SFdmaHfSAXdBVV95cUxOSHFGWWR6R2xuZ2NHZmdYR0EtTVRyU0FPbXN4ZWFlcDdudW9rR2d0QV8xUDhyVktvZ2hFall4SEROeHE0QV9BdU5sSWQ1OU1GSmNjWXN1MUNwTkYwd2tvLXZMeDhrenpTYnFyVTNVd2VjMWpBV1c2MA?oc=5",
         "pub_date": "Sun, 06 Sep 2026 06:03:14 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IcUZZZHpHbG5nY0dmZ1hHQS1NVHJTQU9tc3hlYWVwN251b2tHZ3RBXzFQOHJWS29naEVqWXhIRE54cTRBX0F1TmxJZDU5TUZKY2NZc3UxQ3BORjB3a28tdkx4OGt6elNicXJVM1V3ZWMxakFXVzYw0gF3QVVfeXFMTkhxRllkekdsbmdjR2ZnWEdBLU1UclNBT21zeGVhZXA3bnVva0dndEFfMVA4clZLb2doRWpZeEhETnhxNEFfQXVObElkNTlNRkpjY1lzdTFDcE5GMHdrby12THg4a3p6U2JxclUzVXdlYzFqQVdXNjA?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 06:09:55 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "012450-수주-11170-20260906",
     "first_seen": "2026-09-06",
     "last_updated": "2026-09-06",
@@ -14705,6 +14710,30 @@
     ],
     "source_count": 1,
     "id": "207940-기타-11425-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 단독 전시관서 유럽 판로 확대 '밀착 상담' - 파이낸셜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zcXpRZEEzQXZSbXJrcXg1UzJ1VVJ4OTRnTFJsbjc0NGt5Sk9rYjFxT3VMMUwxM2Rpb0tTZHB3ajNmVVBodTRxa2lfM2I4YWNPd1NPSGViSGFFUQ?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 09:25:57 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-11484-20260906",
     "first_seen": "2026-09-06",
     "last_updated": "2026-09-06",
     "status": "일반",
