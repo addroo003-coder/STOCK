@@ -14738,5 +14738,53 @@
     "last_updated": "2026-09-06",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "산일전기",
+    "stock_code": "062040",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[ET특징주] 산일전기, 2분기 역대 최대매출 · 데이터센터 수주 기대감… 주가 16% 상승 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMipAdBVV95cUxQT09PYW14QVVBVy15MVVpTXEtbTVqZVhMNXR0bC1zbVBZeERhc2VWNTE2RWNCanZQcUstXzVLdDNOMTZLeGdLTkg0UjliVkF0em5tb1lyZk41YWV3Tmt6aTZsUHF0SFkzeEZUWWJxZjVSaEF6NkJOZ3U4ZmFKSXJBVlFFN2w4SUliTmFiLXVrSE83QVowVU9zQmttc0RkZ29vSWxGcFZDd3RSSmRhQXVGSW1RZHd6X0FqV2ZvRFN4UGwwY2QtX0dSSWdyOGFmbjNrRTdYaFlyODBGX0dLQnI5SVRVckNpcWMtYWxIbU1McVpXUXdNSENkS25ZVTROQVB0ek40dHlkQjM4WHBDN0RlWk94S2RkUGJ3Ty14TzBKMTZBT255OVZRZHg2R2Z2X28zMm9HXzJZYWVoNGdneThVQlJDYzAzTVV2Rm5ZbTVrMV8tRFJNeE00U0Rkb1VQX05wNUpjd1pUNWNlb1RmdmRmUmgwS0liLUNTME01QXFDOGstaGFnLWtac0ZTZ3BhVDZlMGllQ0UzY2tRZmlESFhJTGdwUzZrWHpyZlF5bkxiZmEzY0ZBZks2N1I3V0ZSRUxlNkJsZVFYYVU2YVpBU2VUWHJmT0wwVVA1WEMwUnVteDlIRnA4YnVNRmpLUUMzR29JY2FVU3FqT1pZNGpVeHB5d2NuNk5fYW9TcVU4bk85ZUQxQWQ2SFN1OWV5cVJ3WFp4bzNNNzQwZVYyQlBTWW82c0VjLUdtbUlPUkhFdzhyR3ZReElKdEtqNjd0V0NjVE8wU05fTFE3UktZb0dUZDVlRlpvbmNwX04xaDROYU1DU0xmWU93aG5GNC01NXZiOU9OWjgzaWFNcWx3aHVQZmJhaVVQbjdmcndkYlAtQkJNUWlYdDY3aDJtS3lKNXdyeXg1OWlfS2hmczVzNUlsVHNPUV9GcGJlOHJqU1JUcEJVOFpTOXZScTdzUngybGxORXJRdW9ubFpGdzZCR0JNSUhUbEs1UE9sc0JBbWlSbFl2aFo1TVdLNURNOGNrVW8xbTd5andPMjFLWENrcEthQUNzS2dyWlNxOXNMYW0wb1NkY04xcUtpM1ZUZktJVkt2MW1aSTBRbGgwZEtVMFgtMzJUcFJIZzFOckt5WXFpM1dzVHd3ald2MkVCNlZhdVVqZHhpTXNsUTd4TF9wSEZoc0d4WVZHUXQ5LTZ2QnFCSUlDSjdNcW8xQ3QtMFNVWVpEUXlCTHE5Nw?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 08:26:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "062040-실적-11611-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "바이오니아",
+    "stock_code": "064550",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[ET특징주] 바이오니아, 분기 최대 매출 · 탈모 연구 성과… 주가 上 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMisgZBVV95cUxPWGJJUTdIdnliT2R4dVJhN1NPSDdSay1hMW1CU2dTeWxHZE5fRUtLMEpjM1RVVGVsX1hDRGt6VF8ydkJfYXVLMFlndU94UVQ2Z0JvS3BTc011bVdIbDNrdjlUaFdESjc2ZlVlVUxVMG1FNGtmelNfY1JIbk12d0N6X2FNcjl0VF9qSXRwMXV1ZC1Hakd4TFhheHphZTVrSzJrWDlJYWIwaGQ2UWtMU0llb0pPMUhnQmNUZ25SdUhLaE1iZTQ5QzV3cmdGeFAtdnppYTRBa0lzX1h6emhxY2hibzNqTS1maXVqSDhlZkl0VWJTcFUxY2xfLWdfc3ZNdmt0UC11czBwVEVsRll2WUo5elVsZHFqUm80UWFXd016bFRnakF6UXZPRXhlSkV0ZmtKeW5NSlFTb0JzOU0yMElfb2syLUp5T1Nxb1NQeWsyUWZXTlQtTHFFbDlOOVptbzVucDZlTlEwV2RtQmoyTkR0X2QtVnBGbGtMd2lULW1CYTVzT2RTd0hLMC1VVGZxSVo5bXN2cGV6N0lOMW03cjE5b3Flb0ZZUWhVdmxKNm4zRElCSnpSdkUzcGY1ZGxZWGFaZnRoU2hQSmk0UVB1VkRILXpRdEJudTd1TlhBX2FxNnNHd256akhVaTFhVlpLWDhXRzduVlBGbFFGZlNCT09VRS1kb0pVZXNPOG1feWQ1anV1MGdacVVZckJ0eEdnQi1qTzlGNkRTWVE0YkRqSEsteWJCVDd5QWFIYzlrVTVING5fUWl2WmItYnduM3l2M3hlZnZtWXAxcEpwVU1oNzlnS21RUVNFTVJscm1sZTAxdkRJZ2FlV2lBQTFiQzhYTjB0MDZOQWJDNGc3RmhrVnV5WGhQMlBZZGtpODRkRFlfUGcxcUN0X2Z6MWh3MFgzMDVkSkRQSXA4M0FUWmJLdUNqT2tvM3F5SWZ5U1NKVG9RbUd6ZUNnMW13aG95YzJST0NVQ1EwV0FYVjNacndhekxUdEZldmtfOF90ekV2aTI5YW54dW5WSXcwVkdHYWRSQmY2X0JPM20wQUVrQ2xlLTZkaERSTFpEeGRTOFo2OXd1Y1hwdw?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 17:14:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "064550-실적-11646-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
   }
 ]
