@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "정부 “2000억 달러 對美투자와 반도체 공장 건설은 별개”",
-      "office": "조선일보",
+      "title": "美 공장 건설은 공세적 생존 전략… 관세 넘어 공급망 동맹으로",
+      "office": "한국일보",
       "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996960"
+      "url": "https://n.news.naver.com/mnews/article/469/0000952422"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "“두발로 걷는 홈 로봇 준비중… 안전 검증 위해 공장 우선 투입”",
-      "office": "동아일보",
+      "title": "美 공장 건설은 공세적 생존 전략… 관세 넘어 공급망 동맹으로",
+      "office": "한국일보",
       "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746083"
+      "url": "https://n.news.naver.com/mnews/article/469/0000952422"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "정부 “2000억 달러 對美투자와 반도체 공장 건설은 별개”",
-      "office": "조선일보",
+      "title": "[인터뷰] 美 인디애나 주지사 \"AI 인프라, 주민에게도 이익 돼야\"",
+      "office": "한국일보",
       "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996960"
+      "url": "https://n.news.naver.com/mnews/article/469/0000952429"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
