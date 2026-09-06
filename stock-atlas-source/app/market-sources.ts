@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 단독 전시관서 유럽 판로 확대 '밀착 상담'",
-      "office": "파이낸셜뉴스",
+      "title": "AI가 메모리까지 빨아들였다…스마트폰·PC 덮친 ‘램 대란’",
+      "office": "이데일리",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571631"
+      "url": "https://n.news.naver.com/mnews/article/018/0006364575"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -951,10 +951,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "에코프로 \"로봇 승부처는 배터리\"…삼원계·전고체 소재 개발 속도",
-      "office": "뉴시스",
+      "title": "\"휴머노이드 로봇 배터리 시장 선점\"...에코프로, 전고체 소재 풀 밸류...",
+      "office": "파이낸셜뉴스",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/003/0014171907"
+      "url": "https://n.news.naver.com/mnews/article/014/0005571491"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "[기획] 환율 2년만 최저… 이젠 실적방어 초비상",
-      "office": "디지털타임스",
+      "title": "AI가 메모리까지 빨아들였다…스마트폰·PC 덮친 ‘램 대란’",
+      "office": "이데일리",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046424"
+      "url": "https://n.news.naver.com/mnews/article/018/0006364575"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
