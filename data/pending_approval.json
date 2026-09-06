@@ -13990,7 +13990,7 @@
     "source_count": 2,
     "id": "051600-기타-9886-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "status": "일반",
     "stale": false
   },
@@ -14288,12 +14288,17 @@
         "press": "데일리팝",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRdllDbV9ERjRGeHltUTI0ZXBoQm03MzJiM09lRXg0TFNsb1BCbW9zeFVFLVBvSFpScTdsMGZvWjZ5aDVwbEJWS2h4Sk5RVE1xZW5MMmJDM2hiZzFwYkppWG9kb2J0ZHkx?oc=5",
         "pub_date": "Sat, 05 Sep 2026 00:31:00 GMT"
+      },
+      {
+        "press": "데일리팝",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQW5odEZzLS1YUFJNejBfUUEzZ2tTZHV3Qk5RYW16M0dfSFJNSHp1VzdZTXhFRHFVZnBJVF80UDNLZEZEQnhKX2VPLVQ4VjVrLTR1ZmVqRkVMNm1ILThLcmJWYkJjX0xXaHc?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 00:31:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-10393-20260905",
     "first_seen": "2026-09-05",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "status": "일반",
     "stale": false
   },
@@ -14604,6 +14609,102 @@
     ],
     "source_count": 1,
     "id": "137400-기타-11334-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 1조원 계약 하나에 증권가 목표주가 줄상향… 무슨 일? - 금강일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "금강일보",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRGZTRnVHNXBrS1psMG1XRHZXcGlCa3hiNWs3T1o3WnMwSHRTNHg0TDVtdEJIbFZkd1ZPOXNKdzNHQ2JaSnpad1RQVnU4cWpUSzVQQUlmTlhUcEo1YVRXNkZEbUpjdnpjMFE?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 10:25:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-11352-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[조상권의 경제이야기] 한화에어로스페이스, 크로아티아에 ‘K-239 천무’ 다연장로켓 수출 계약 체결 - 뉴스N연합",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스N연합",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54dWNFUTg1aTREYlhkeTNoS0pNdEdudWUtN25mem03NFZNdzJzTzcyWjQ3MlA5N1RQUENkT2lxYmJ5akJtRGk3aVNn?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 12:49:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-기타-11411-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LIG넥스원",
+    "stock_code": "079550",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LIG넥스원과 프랑스 탈레스가 피아식별장비(IFF) Mode-5의 기술협력생산을 위한 LOI를 체결했다. 피에르 에릭 탈레스 IFF사업총괄 부사장(왼쪽)과 김지찬 LIG넥스원 대표(오른쪽) 등이 사진촬영을 하고 있다. LIG넥스원 제공 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMipAxBVV95cUxOOGlJME16aXhCV2gwRUdENVhjSEJpSENSNTlFNXJwc0lzUXFFektEVTdCeUxHZF9JbGZyNUViMmVXazM5NHBjZlFFRzZUd2F2VE10enlRS0tkampMLXhKVWl2bWRuTWJtV1M1eU55eGp3RHFXSFRkTkdlVWo4Zk5DazJ2cF9raXV6Y29UckMwQ09taGpfOW5YTzBaOW5NSmczcktidldmcVRRXzBIZlV0QVFMTDJ6UHZQaGNlT1I0dENkbFpjcDQ2UEdXcWpKN0hNdTdSQnpVa0FWd1IwQXBHY2NIcUlXMGZYa3hQVkY2VmNFUDR2MnFhQ3NRSWlJZ1ZkZGY2Uk9rNGxsMU9Mb1pCN3hEVkg2LW5qMmZQMl9Rb0xNXzg1T0ZmcXJCMk9EMGotNkdVVWI3WXc3MS1Ldm41T01tSm0zYU9nN1NDdGZJZTRBOXptVWQyeUczTGJVbFYxZkZmZUZQWkxjZHd1clctaGJZQmRsV0QxU2IzYkM0R1p4OEJSVFZMVEgtRDJHZUxyb1NKUmtjdkFUMlVUXy1yc0RIUng3OV9ObDZhVEZ3Y1FWNWZUb3JQSnkzaXBJaUpqalJUeDM0QjNnODhaWnFFQjRmMkxoTVNaYXRZQ0VXOENtcTJTYm5ULUpDa0hCVkVjdUVhQ25yNEVKd3RFcWYxNUdHTnpOUXhidDhZY25GV3FqSEFKZ2JnaXk3TTNZcVMxTTM4VW54cWw1UF9IcGtsOVdwY0pyeWVjOXk3c1lXZTZ3b2s5eXp0QTJSUWZHQk8xU1AxTTBYQ0VUR0R2ZWVFZmN4T0ZYRXNkeEdFTFA4aVlqOHAtMjdsQXU2TW92QWhxbko0ZmhDdVdiSDNGSHlhRU4xdWt5WFk0cmJFNHotVlVWMVpFRkFPbENiRGoybWZqZ2s4M1hKSHk0NVNJY3JLUlhXbjl3WUNKRnp6elQtQi15dURmODh4cXp1RWZfM3V3SVpfYnEwTmQzQzVBYWpza1pFNkZIbU9sVjN5S1RVektzVXNOU0Z0VUhHMG1IX05tQ1J6Nlo0V2liLUl6c0pSVXl5Nlg2YWI2MTBBTmpUdnNxNjJvNG9FTDdiNlljZVhVMEItNlMtLWFIWk5sUnU0TDIybi1XX2E2S1FmemhMbHl1UnNDZUlqdE45STdGYTRvYnBZdDk3a05CTmZYUDNwckF0UldZVUpCektHSVEwbHNGbElsQmVNRU9zc19kT2tZN2VZUmU0SFJwMkNpR3dueUk3cFJiVGYyRHYybXFwak5sQ1lHdFpER2xiMXVlM2Vzci1jR1YtNV96SllJaHUxenZMUTc4ZnpJNzNsaHFHYlUyLTVHeDhxWTgtTVBUcjdETTF5ZTcxVkpseS1Vbi1pWDF2ZHlubWRRZ0cxNWJ5Wmx2M25xdEJVeVFWVHJQc3dpLUU5WDFGdFdKTUc3V2hMblIwaGFhYlh5ek9QRklGVEw0QU9nVlBMMDB5b0U0eXhRUEFkckZRMnRSTDVtT3dEcE5WRG9SQmFmRTVFdTdjSEJhM2NzQ1lTYWpiMngtX2tHSlVWRGFpaUQwQzRZN2pZazc1czdQTTI3LVJrTmE0MWpfS0htckowaFVBQkZPc2k3Y1RReVlNRURrNktiSUNOZDJwdmVYaERZblgta3NLWEtlR3E4Q3o5SkhuejNQVmtwbWFaMXptS1hIekdUWFV2VlFPbXBYSGJQOEdUZ3VFNWRwaVBOODc2UXUyckNNS2dEUndJTDFVcXRHZ3RkdkMzSXdnaGdWOWpjZGk2OVV2djVMdW9iWDRQaFVrOHBYQm04d2gtTXRYN3dUekQ5czN0bWE2dG9yNFJJOHVxNVZzUGNZVXVxaDZYanVoVThYYzYzamJwUm9NaDR4eXlNTkFlX1VpX216ekt0YVpyck5BMUdBTmxhdjJmOWJBOFdJUXJWVVI2MHJqTE5wRVJmYnVrUWlFSzlvZzhnblE5WEN5dXdZelZhVW8wMUNqYk5Xd19QdUNEZ3MtMnE0QXYxY3RuRzZVUG0zMllvZUpDRmhTQ3ZvT1dNVnNtQ3dncmV2WHplMFdiLVZYbUhkam9DNGFIZUZpZ2M?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 02:30:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "079550-기타-11417-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "노사정 만나는 삼성바이오로직스…갈등 확대 속 ‘합의점’ 찾을까 - kukinews.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "kukinews.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BNmVaR0puanF1bEVCVFM0T1EyWnZrU1VOUEktOHVFZkRFQkptRnowVlpBWHBPNXB3WGxCczBfOU9Dd29FT1VjZ2RVMGRLckFIWkZTUERYQzVCTkFmeEhtdmRRaw?oc=5",
+        "pub_date": "Sat, 05 Sep 2026 21:03:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-기타-11425-20260906",
     "first_seen": "2026-09-06",
     "last_updated": "2026-09-06",
     "status": "일반",
