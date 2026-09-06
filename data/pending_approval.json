@@ -14536,5 +14536,77 @@
     "last_updated": "2026-09-06",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 이사회 승인 전인데…한전 ‘25조 선납’, 김칫국부터 마시나 - 이코노미트리뷴",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이코노미트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PVGdFMlZabzNnMENtZjdYbFRqSEdsUGNvUnVIZ2IxRm10V3JDaDN2MTBfcEU3MmFGcjdQTkVTeUdJdEtFRnVZYUZ3MFpTSW9OM0xGN2JzTVhZTHVkaF93VG5lbXQ5M1pVbU5GOG0xVmNVTThYX20w?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 04:27:33 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-10962-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한화에어로스페이스, 스페인까지 뚫었다…K9 ‘현지화’로 수주 확대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NVGNsd01jUGdOWWhyeFBKbEp5bWhTYVRRUWV3RjJ0TGRuNVJUaFBhM190d0J6eloxRUlDZFBvSUpldzNJUFIyVmtvRVZXSTAzT0x1QzJCeDJUNGlvdU1DTlV1Vk9DQ2JvZ3BOMnZ0SFdmaHfSAXdBVV95cUxOSHFGWWR6R2xuZ2NHZmdYR0EtTVRyU0FPbXN4ZWFlcDdudW9rR2d0QV8xUDhyVktvZ2hFall4SEROeHE0QV9BdU5sSWQ1OU1GSmNjWXN1MUNwTkYwd2tvLXZMeDhrenpTYnFyVTNVd2VjMWpBV1c2MA?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 06:03:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-수주-11170-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "미국·유럽 비중 60%로 확대…피엔티, 배터리 장비 판도 바뀐다 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMzF6dmtYa2FjY3lLc3VaRjIwSVNyNzFFck93WnlvX0tRczJyX0VWRzJwQXQtZHNHNTlid0QyUXRtMmEzR3RLTlVvMi1rdWtfSDhKR1Zoa2FEMkNhcldOR0hxcktJR09yNG9VVXh3Z0J2X1HSAXdBVV95cUxPRU10bEZ1bDVIb1lWcFQtRXdHMzMtZTQxRXBIcElubFBIY1ZrMGRmVjFobFBCdkxIMG9qS2ZyN0JkMnl6c0tuUTAycUdiOXVSMUd2eEE3djJaMGpobEZiNEU0V1RVRXNZVm41ZE9iT1UxNVVDa1JQaw?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 07:40:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "137400-기타-11334-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
   }
 ]
