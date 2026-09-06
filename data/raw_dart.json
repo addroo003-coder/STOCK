@@ -65,19 +65,6 @@
     "is_correction": false
   },
   {
-    "company": "가온칩스",
-    "stock_code": "399720",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
-    "rcept_no": "20260903000301",
-    "rcept_dt": "20260903",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000301",
-    "is_correction": false
-  },
-  {
     "company": "티씨케이",
     "stock_code": "064760",
     "sector": "AI 반도체",
@@ -195,32 +182,6 @@
     "is_correction": false
   },
   {
-    "company": "한전기술",
-    "stock_code": "052690",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]주주총회소집결의              ",
-    "rcept_no": "20260903800330",
-    "rcept_dt": "20260903",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903800330",
-    "is_correction": true
-  },
-  {
-    "company": "한전KPS",
-    "stock_code": "051600",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "지속가능경영보고서등관련사항(자율공시)              ",
-    "rcept_no": "20260903800388",
-    "rcept_dt": "20260903",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903800388",
-    "is_correction": false
-  },
-  {
     "company": "한국항공우주",
     "stock_code": "047810",
     "sector": "우주항공",
@@ -231,19 +192,6 @@
     "rcept_no": "20260904800618",
     "rcept_dt": "20260904",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904800618",
-    "is_correction": false
-  },
-  {
-    "company": "한국항공우주",
-    "stock_code": "047810",
-    "sector": "우주항공",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(약식)",
-    "rcept_no": "20260903000298",
-    "rcept_dt": "20260903",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000298",
     "is_correction": false
   },
   {
@@ -260,19 +208,6 @@
     "is_correction": true
   },
   {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20260903800071",
-    "rcept_dt": "20260903",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903800071",
-    "is_correction": true
-  },
-  {
     "company": "에이비엘바이오",
     "stock_code": "298380",
     "sector": "바이오",
@@ -284,19 +219,6 @@
     "rcept_dt": "20260904",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000494",
     "is_correction": false
-  },
-  {
-    "company": "펩트론",
-    "stock_code": "087010",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "증설",
-    "title": "[기재정정]신규시설투자등              ",
-    "rcept_no": "20260903900076",
-    "rcept_dt": "20260903",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903900076",
-    "is_correction": true
   },
   {
     "company": "툴젠",
