@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "스페이스X까지 가스터빈 부품 진출…전력난에 두산에너빌리티 주목[종...",
-      "office": "이데일리",
-      "date": "20260905",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364006"
+      "title": "두산에너빌리티, 네팔 현장에 韓서 공수한 드론 투입…\"열화상 카메라...",
+      "office": "뉴시스",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171842"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“AI·방산 끌고 금융 밀고”…국내 10대 브랜드 가치 2000억달러 육박",
-      "office": "디지털타임스",
+      "title": "\"휴머노이드 로봇 배터리 시장 선점\"...에코프로, 전고체 소재 풀 밸류...",
+      "office": "파이낸셜뉴스",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046288"
+      "url": "https://n.news.naver.com/mnews/article/014/0005571491"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -951,10 +951,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "반도체 오르자 개인 3.7조 던졌다…삼전 2.2% SK하닉 3.2% 상승[시황종...",
-      "office": "뉴스1",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/421/0009151922"
+      "title": "\"휴머노이드 로봇 배터리 시장 선점\"...에코프로, 전고체 소재 풀 밸류...",
+      "office": "파이낸셜뉴스",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571491"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -1231,10 +1231,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "폐기물 181톤 줄이고 종이설명서 디지털로⋯유한양행, 대통령 표창",
-      "office": "코메디닷컴",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/296/0000104472"
+      "title": "큐로셀 국산 CAR-T 급여 ‘성큼’…유한양행 API 수주도 순항 [바이오...",
+      "office": "이데일리",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364319"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000100/news"
   },
@@ -1551,10 +1551,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=372320",
     "news": {
-      "title": "큐로셀, CAR-T 치료제 ‘림카토’…연내 건보 등재 기대",
-      "office": "데일리안",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/119/0003129306"
+      "title": "큐로셀 국산 CAR-T 급여 ‘성큼’…유한양행 API 수주도 순항 [바이오...",
+      "office": "이데일리",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364319"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/372320/news"
   },
@@ -1945,10 +1945,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KAI, 출자회사 6곳과 AI 동맹 강화…미래 공중전 핵심 기술 확보",
-      "office": "디지털데일리",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240268"
+      "title": "우주항공청, 한국로봇항공기 경연대회 개최…인하대 DOK4팀 대상",
+      "office": "이데일리",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364413"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "“AI·방산 끌고 금융 밀고”…국내 10대 브랜드 가치 2000억달러 육박",
-      "office": "디지털타임스",
+      "title": "KAI 민영화 시계 다시 돌까?…2대주주 한화에게 쏠린 눈 [헤비급브리핑...",
+      "office": "디지털데일리",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046288"
+      "url": "https://n.news.naver.com/mnews/article/138/0002240360"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2105,10 +2105,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "현대건설, 목동10단지에 '디에이치'…단지명은 '디에이치 목동 에세르...",
-      "office": "TV조선",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/448/0000637509"
+      "title": "현대건설, 목동10단지에 ‘디에이치 목동 에세르’ 제안",
+      "office": "한국경제",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329070"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보",
-      "office": "아이뉴스24",
+      "title": "북미 ESS가 당긴 LFP 전환…K-배터리 3사 양산 경쟁 본격화 [위클리배...",
+      "office": "디지털데일리",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055726"
+      "url": "https://n.news.naver.com/mnews/article/138/0002240351"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2345,10 +2345,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "LS마린솔루션, 상반기 영업이익 전년比 61%↑…LS전선 3개 자회사 나란...",
-      "office": "전자신문",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/030/0003463495"
+      "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도",
+      "office": "블로터",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/293/0000090068"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
@@ -2365,10 +2365,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "KT·LS일렉, AI센터 파트너십 구축",
-      "office": "한국경제",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328445"
+      "title": "GS건설, 데이터센터에 모듈러 접목…AI 인프라 '속도' 승부",
+      "office": "머니투데이",
+      "date": "20260906",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409948"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보",
-      "office": "아이뉴스24",
+      "title": "공모 10.5만→합병 1.5만…SK이노베이션, SKIET 재합병 금감원 ‘제동...",
+      "office": "부산일보",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055726"
+      "url": "https://n.news.naver.com/mnews/article/082/0001397014"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“AI·방산 끌고 금융 밀고”…국내 10대 브랜드 가치 2000억달러 육박",
-      "office": "디지털타임스",
+      "title": "삼전·닉스 브랜드 가치 ‘껑충’…삼성, HBM5 성능 2배 정조준",
+      "office": "조세일보",
       "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046288"
+      "url": "https://n.news.naver.com/mnews/article/123/0002389673"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
