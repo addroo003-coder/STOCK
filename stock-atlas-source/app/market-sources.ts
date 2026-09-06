@@ -471,7 +471,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "한화·신세계도 쪼갠다…대기업 사업재편 우회로로 뜨는 인적분할",
+      "title": "한화·신세계도 쪼갠다…대기업 사업재편 핵심수단 된 인적분할",
       "office": "한국경제",
       "date": "20260906",
       "url": "https://n.news.naver.com/mnews/article/015/0005329212"
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "AI가 메모리까지 빨아들였다…스마트폰·PC 덮친 ‘램 대란’",
-      "office": "이데일리",
-      "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364575"
+      "title": "정부 “2000억 달러 對美투자와 반도체 공장 건설은 별개”",
+      "office": "조선일보",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996960"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -951,10 +951,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "\"휴머노이드 로봇 배터리 시장 선점\"...에코프로, 전고체 소재 풀 밸류...",
-      "office": "파이낸셜뉴스",
-      "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571491"
+      "title": "에코프로 “로봇 승부처는 배터리”",
+      "office": "국민일보",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871221"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "KAI 민영화 시계 다시 돌까?…2대주주 한화에게 쏠린 눈 [헤비급브리핑...",
-      "office": "디지털데일리",
-      "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240360"
+      "title": "“AI 데이터센터 발열 잡아라”… 정유사 ‘액체냉각’ 새 시장 경쟁",
+      "office": "동아일보",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746074"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "국내 3차 ESS 수주전 임박…사업 규모 2조원대 커질듯",
-      "office": "이데일리",
-      "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364432"
+      "title": "“두발로 걷는 홈 로봇 준비중… 안전 검증 위해 공장 우선 투입”",
+      "office": "동아일보",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746083"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "AI가 메모리까지 빨아들였다…스마트폰·PC 덮친 ‘램 대란’",
-      "office": "이데일리",
-      "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364575"
+      "title": "정부 “2000억 달러 對美투자와 반도체 공장 건설은 별개”",
+      "office": "조선일보",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996960"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
