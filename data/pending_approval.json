@@ -14786,5 +14786,29 @@
     "last_updated": "2026-09-06",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "에이비엘바이오",
+    "stock_code": "298380",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에이비엘바이오,면역항암제 'ABL503' 임상1상 IND 미국 FDA 변경 승인 - 약업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczJrOGNxWWVRZ1pVX2FNM0RvYWE3ek0yallBQy1oY2V1bUJnQlNUcTNqSGdNc3FvcTNNWUhNbkFYYVd2Tm1jZ3BUY2JKN0NEV2lONmxwZ2g5aVZqUTdtdkJLakNjRUk4bTJQMk9hTGdIaEdua2JCYjV0SWY3c0pUNUFTMVNZc2tOWHV0MHJmY2ZaTEs1UjVBdDd1RTFrQQ?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 12:04:18 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "298380-바이오-11697-20260906",
+    "first_seen": "2026-09-06",
+    "last_updated": "2026-09-06",
+    "status": "일반",
+    "stale": false
   }
 ]
