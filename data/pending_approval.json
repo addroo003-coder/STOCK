@@ -450,12 +450,17 @@
         "press": "재경일보",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81d1ljQ3RGbTRWaXlQTlJHdGNaNjAwb2xoV09pdnNxUFRiYUM0cEQyZ1hsdVRsSDk1NTRENkQ1ZnhMYzhkTWlOcXRB?oc=5",
         "pub_date": "Thu, 27 Aug 2026 07:32:00 GMT"
+      },
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6NEFmTXBsQjBKQlNPOG9nV0hRT1dnVWd0MHRjVjhTNVh6a015NzFLYUtqWUNUSGNoajJwZmY3S0Z3Q09wOVI3SVp3?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:34:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "103590-기타-642-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14901,7 +14906,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[애프터마켓 리뷰] ‘흑자전환’ 로보티즈 강세에 국내 로봇주 ‘동반 랠리’ - SBS Biz",
     "source_type": "news",
@@ -14910,9 +14915,14 @@
         "press": "SBS Biz",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUXNyMDdER1Z2TnFEM21Ha3Mya08tY0U3Y3NsdjJvOXZsdmlRT3JjRW12Z3BxUmNOMWREaVZaQUItSzVuSVRuTFUxVlRGVW9kekVR0gFYQVVfeXFMTVdyVzk4SDVPSE5pcjR1NzQxWE5PcmZZMi01U0ZkNHlWS3lGckJVYVRfcDJHNy1FQWVTSTVTZVpRcWc3dnFzdUZqRUpYSkN4WmU4VDZlU0x5WQ?oc=5",
         "pub_date": "Sun, 06 Sep 2026 21:35:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nY1o3TmVIT1pNbGdFS2NZeGhrbVZkUTZFX2Voa1BmM2ZIMUVkTkpROHJpUVdwYUNQa25GbHdid3ZlOXVpVHhIR1ZTQU1RbjQ?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 22:55:08 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "108490-기타-11904-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -15141,9 +15151,14 @@
         "press": "매일일보",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10TExHSVNwWkFyN3VBS2t6LWZhSW43dHcySWdXdHFNUzRxQWZydVNua1pfZ3NhM0Z2czdOcXBGcEpMMnROcndib1pOazJCdjViVzFONmRTZFd2LU9KcVJRb011OXbSAWhBVV95cUxOWWt3MG1vNzhqdXljQkVaMkZQcm5KTGdPQmx6bElPVEZVdGJIa3c3ajNIWmVUeGFkN3JHMTE0cFVka2tjQzBaLXFwaV9OT19jT3dBUWhncjNhR1BoQUx5Q2dVWm5PYW85NA?oc=5",
         "pub_date": "Mon, 07 Sep 2026 00:14:45 GMT"
+      },
+      {
+        "press": "더나은미래",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LUFU4S1BfUDhVU01ucGd3bExqS3BKOVh0UHpNaXdySFQ0UjZBaTBxdVQwVWVvMjRoMzd6clp2M1pHeTk3WVdVZ1psTk9JZjE3ZWc?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:33:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "000100-기타-11960-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -15200,9 +15215,29 @@
         "press": "더트래커",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ibGJybzRTeUYyN2ktNVk3dzZfcnIwZ3JGNld3aV9OUG0yX2M5NlBkcTdVWjBGZl9GaDZjTFZqZVRMUzRBR09NYUloMG9mLS04MkRwNmdoaHM?oc=5",
         "pub_date": "Mon, 07 Sep 2026 00:35:53 GMT"
+      },
+      {
+        "press": "펜앤마이크",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwNjU3bWZ2T0VVcjg4WTRlR3BLWnpfOWVwb1gtUmZiVkROMno3QkJXOVV3X21Vc3dPNlBJYmlJRHVhWUljNWxKY3NZdGhqd0lOMmNNRHdyZlFEY052WWVzQy02VjBFS0ppSUNSaW45MNIBb0FVX3lxTFAwNjU3bWZ2T0VVcjg4WTRlR3BLWnpfOWVwb1gtUmZiVkROMno3QkJXOVV3X21Vc3dPNlBJYmlJRHVhWUljNWxKY3NZdGhqd0lOMmNNRHdyZlFEY052WWVzQy02VjBFS0ppSUNSaW45MA?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:15:49 GMT"
+      },
+      {
+        "press": "lawissue.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wT1AwcU83VHJlaTViV3pxSmlwM3JUbkYyd09FMGFkM3NILUpOQVkyOWpLQVdVRVhyY1NFRkVjSHJNd2x0X2JEME1Ta0hnb0dHY3lEREJjdnZSelFLZjZJd2tvZnU1Zk1XazRBZGZrbWdYbU9GNWNaSXFB?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 10:52:17 GMT"
+      },
+      {
+        "press": "대한경제",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2WERHNENxcmt3N3NCMkVOSjJYNlNZSmNjX0FHTmpMUmZiZ25YbnI5ZXJYSTF3cGtZZ1FJSzhlSkZ5ZlRMUjNzcEN4YWtzXy1ubnVLS2dRbnVIWnRpN2k5cW5uSUFjTGZLdTdpbEVydUdiQWNj?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:45:58 GMT"
+      },
+      {
+        "press": "중소기업신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nR2tRVWtiT3lqb2F4YktDQUlvRkF4N00tT2JmVmVUemVmVTRoZEowZ01oQkp6dld1V05WdFlzSjJIcnJOWjBUdGQ0Q3ZwclpDUFh1dm56OE1Jd1pZUzRpazVGZm5NdF9Ta081dm5n?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:37:36 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 12,
     "id": "000100-기타-11961-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -15784,9 +15819,14 @@
         "press": "news.mt.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04OXg5ZVkxVlVYb2pMY3JpUTE5MDBNR2JMal9rbzM1dlA2dGhrT0JQTUFEam9RYndnWUNvNTRHd2JkMHNUaGdWU2JFWFhpR3VPNkFoNTdfWjdIVFpIcU9fWXRxTEpoUdIBbkFVX3lxTE8wV1A2MHUzbW1NVWtiZDhXbUtFeFdRZXA5R2p5WDRFWGlzTHZta2xnVTBvb25TbGZ6SlN3OU16azNVTFJYdVNsMngwelQwaU9UOVVsalFtMHVOQTVxeWl2REpwa0N2TzlYSjgxZDNR?oc=5",
         "pub_date": "Mon, 07 Sep 2026 04:01:12 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wV1A2MHUzbW1NVWtiZDhXbUtFeFdRZXA5R2p5WDRFWGlzTHZta2xnVTBvb25TbGZ6SlN3OU16azNVTFJYdVNsMngwelQwaU9UOVVsalFtMHVOQTVxeWl2REpwa0N2TzlYSjgxZDNR0gFuQVVfeXFMTzBXUDYwdTNtbU1Va2JkOFdtS0V4V1FlcDlHanlYNEVYaXNMdm1rbGdVMG9vblNsZnpKU3c5TXprM1VMUlh1U2wyeDB6VDBpT1Q5VWxqUW0wdU5BNXF5aXZESnBrQ3ZPOVhKODFkM1E?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 04:01:12 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "005070-기타-12510-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -15812,6 +15852,397 @@
     ],
     "source_count": 1,
     "id": "005070-기타-12513-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "최대주주등소유주식변동신고서              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800372",
+        "pub_date": "20260907"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20260907800372",
+    "id": "207940-기타-12535-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 3분기 실적 전망 상향…주가도 동반 반등 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RYjZxMWdZRElNbTRHMmVwanpLWWFYSjVXR0w5ZVpTcUdoeXpIdkV5cVo4NTBCSlZBZDY1eFdjdS1vZHNMdWtObHV5X29lUkU?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:12:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-12545-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 목표가는 230만원 '상향'...삼성전자는 '유지' 왜? - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3dWWnJYN0d5bFdtamoyTGpxX2VROFk1MTgyYjlKSWM0UXNSVDlpRXptc1JUZDhaUGhObW9GaTFxdGJUcUptVFpHWjNkb2g1bDZPYllZeW1KbnRlMTg5R0J1Wm1tTkFXeTA3aHpaaXo3Y1NvQ215MGNRRU81eW5uMA?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:46:17 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-12560-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 114조·SK하이닉스 78조… 3분기 '역대급' 실적에 주가 솟구쳤다 - 파이낸스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸스투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQXR1QUhnYVFDQnlGU0RMd3laUDFpajNnTnNYWng0RTZNVUdkY1BscTAwSzlZbDBMaWVWRTIxUXV5NmM2Q3ZOeWloTUc0MGRwNWVXb0RzVTZZMUZZN1Z0cEEwUjdIb244N3BIaw?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:34:27 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-12568-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 3분기 실적 전망 상향…주가도 동반 반등 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RYjZxMWdZRElNbTRHMmVwanpLWWFYSjVXR0w5ZVpTcUdoeXpIdkV5cVo4NTBCSlZBZDY1eFdjdS1vZHNMdWtObHV5X29lUkU?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:12:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-12569-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 최대주주 등 지분율 22.88% 유지… 삼성생명 특별계정 주식 매매 - 파이낸스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mdmdHSTNJQm55VkpiLXI0bWl3bTJ5RFRrcWtBMUR3S0NhaHpjNy1fYVBucDhhcXUzRGZ3cUxGWVBScTBSNGJTZjA1WWQ2MjFHVjdHQm5wT0VGbGEwajhEUDJURFVSVGc?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:27:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-12629-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 대규모 계약 체결 소식에 3%대 상승 마감 : 기업주식정보 - 재경일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ub0hDQXlYbWY2djR3VFBKcFdMbU03Rk5YUXlhR25pLUQ1U0ZCeTVmR0ZGc3NhdmR5cl9Xd3BNOHBOVkhtUWlNNUpR?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 06:47:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-12632-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[분석_바이오테크 ⑪큐렉소] 이재준 대표 체제의 큐렉소, 의료로봇 흑자전환의 착시... 인도 파트너 의존·사모 CB 논란에 주주가치 흔들 - 뉴스워커 인사이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스워커 인사이트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HLTc2cm4wWC1MQnoxSThOZVcyaGhNREF0dFZLRDhfU1JKT05GQWN1S3k1NGQ4VTYwQzBIRnpUZDA5WF9ZNjBOeXZwa0UyRHBKaHJFdjhncjVqSk1vcmFsbWhjTkl2NlNnUFlKc3VSQVJYT201?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 04:51:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060280-기타-12780-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 삼성생명 특별계정 장내 매매로 최대주주 지분 3094주 소폭 변동 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WeW1uUFlRMlEwdE1DRTFkVHJ4OC11WW9mYk4wT3U0Q1o1dk5kTlp6R3ZzS2RPc0JCZkNwTUJKZDB1UG9sQk9rN2twQjF5aXFobnpGTzhfRlhMSU41ZVhrTjJhVDJkazM2ODhzLWtwempDSHM?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 06:42:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-기타-12872-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 키트루다·다잘렉스 시밀러 3상 환자수, 기존 계획보다 44% 축소 - 메디코파마",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디코파마",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wcXJwOFN2MGpxbkd5c1EwTFJiRkdTdmVZYmdSb2RXZXAyRTVyZVZnZDllNS1Ja1FIRnp3QWpPVWpWeHB4alZlU1cwVW9mQ1NxTm9MZDg3X2N3VGFDQ1pVSlNGLWxGcUlHRjdLcVU3dnYyQQ?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:37:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-12882-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온, '다잘렉스'·'키트루다' 바이오시밀러 3상 변경 승인…항암 파이프라인 확대 - youthdaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "youthdaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xbWpYRmNhQ01vVHR4dFZUOWd1RGZmWW5fY05yVnhOVG9ZZ3BTelVWZGV4N0IwUGt0enZPdFRkMnI1WVoxc2lVRktMYmpKX0VaWGhwUDFScHR6dUxBOFp1bnJSSzRkMzg?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:52:16 GMT"
+      },
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rT1NoNEFncDdfdDBBTHZNS1FKaTh3YkQzT1NRZTdBVzFSaFo0TTBOZzhpMUhIRU9YMi1QdFBJejFuNnQ2SjIzY083bw?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 06:12:29 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "068270-기타-12883-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국노바티스, 유한양행과 랩시도 유통ㆍ프로모션 파트너십 체결 外 - newsmp.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "newsmp.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40MGxpeHFrbXFFX3FIU0RPX1VObEdFLTRGZUswaTRSclp1X3JFRVdSX29qdGVmMEh2bDVrVmg4Ym9XajZtV05vQU5Rbzl3TE04RnRvYW81dWZGSlhNeDRYaFVwZmgxSlk?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:57:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-12912-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행·동아ST, 글로벌 파트너십 확대...의약품·디지털헬스 사업 강화 - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5aUhDQlpzWi1OdHU1Uzc1YmVtMXp6ZW0zNE54SWVUczBwY3Njc1d6TTlLcFg3dUNlbmhMclVEZnJuV1ltcklrZ3NLZGpTQ0hPS0lXYmRKQmFLZjhOYlE?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:17:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-12914-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행, 글로벌 신약 유통 확대…랩시도로 피부질환 시장 공략 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ibUU4d1lhblprZFdfT1FpUU9IWDlPZi1MRU1jZUdESGRKMnN5WUhOdVN2bjdfVE1DRGV1TjVqTzFDTlFFYzA1MUVNLTJ2ZjA?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:51:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-12915-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독]적자 누적에 투자비 부담…엘앤에프, 10월 중 3000억 규모 CB 발행 검토 - 동아일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43SHdxd1dHOXU3UmVELUFXNzBIZ0l5dHVrSGs4YVFGcjlwaF9xbGI4di0ycTJSU2hYZDEyQVRLUEkxRG9RN0pkanlBZE5laWp5dHNSSUhPN29YUVRQLU5FSTZUUVFRRWcyWlB6Y2k4dUZFMXhBY2fSAWZBVV95cUxPMWNoYkZkQXJTTVd5d2c3b1o4aFpoMFY1eXZQd1ltN1JLcWNRRXdVNjVjWkgyTXRVUWtEWlhOYUVDVFFld3JIM1pjRFhoNU5OQkdqa21xdWhGTTJxdDRNS21SVS0wY1E?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 05:32:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-리스크-12955-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "코스모신소재",
+    "stock_code": "005070",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "코스모신소재, 피노와 150억원 규모 신주인수계약 체결…소재 시너지 확대 - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xWms3eGJZajVOQkNxYWpncjVtQVlLeHl0X0g0MWc1QUVOMDJzVEJ1eEd3ZFE3ZXZfNjQwRFU2WUI4dWx4UF9ZSGtGOUtnbjlDV0lr?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:37:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005070-기타-12961-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
     "status": "일반",

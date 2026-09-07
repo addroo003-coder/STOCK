@@ -1,5 +1,31 @@
 [
   {
+    "company": "HPSP",
+    "stock_code": "403870",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "[기재정정]주요사항보고서(자기주식처분결정)",
+    "rcept_no": "20260907000328",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000328",
+    "is_correction": true
+  },
+  {
+    "company": "테크윙",
+    "stock_code": "089030",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260907000214",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000214",
+    "is_correction": false
+  },
+  {
     "company": "삼성전기",
     "stock_code": "009150",
     "sector": "AI 반도체",
@@ -10,6 +36,19 @@
     "rcept_no": "20260907800230",
     "rcept_dt": "20260907",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800230",
+    "is_correction": false
+  },
+  {
+    "company": "이수페타시스",
+    "stock_code": "007660",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260907800463",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800463",
     "is_correction": false
   },
   {
@@ -52,6 +91,19 @@
     "is_correction": false
   },
   {
+    "company": "하이젠알앤엠",
+    "stock_code": "160190",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260907000192",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000192",
+    "is_correction": false
+  },
+  {
     "company": "한전기술",
     "stock_code": "052690",
     "sector": "원전·SMR",
@@ -78,6 +130,19 @@
     "is_correction": false
   },
   {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "최대주주등소유주식변동신고서              ",
+    "rcept_no": "20260907800372",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800372",
+    "is_correction": false
+  },
+  {
     "company": "셀트리온",
     "stock_code": "068270",
     "sector": "바이오",
@@ -101,6 +166,58 @@
     "rcept_no": "20260907800004",
     "rcept_dt": "20260907",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800004",
+    "is_correction": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260907900454",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907900454",
+    "is_correction": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260907000274",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000274",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260907800340",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800340",
+    "is_correction": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260907000312",
+    "rcept_dt": "20260907",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000312",
     "is_correction": false
   }
 ]
