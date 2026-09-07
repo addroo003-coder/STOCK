@@ -10039,7 +10039,7 @@
     "source_count": 13,
     "id": "222800-기타-7054-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -13990,7 +13990,7 @@
     "source_count": 2,
     "id": "051600-기타-9886-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14322,7 +14322,7 @@
     "source_count": 1,
     "id": "080220-기타-10459-20260905",
     "first_seen": "2026-09-05",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14418,7 +14418,7 @@
     "source_count": 1,
     "id": "009150-실적-10592-20260905",
     "first_seen": "2026-09-05",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14538,7 +14538,7 @@
     "source_count": 1,
     "id": "000100-수주-10919-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14591,7 +14591,7 @@
     "source_count": 2,
     "id": "012450-수주-11170-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14615,7 +14615,7 @@
     "source_count": 1,
     "id": "137400-기타-11334-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14639,7 +14639,7 @@
     "source_count": 1,
     "id": "009150-기타-11352-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14663,7 +14663,7 @@
     "source_count": 1,
     "id": "012450-기타-11411-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14687,7 +14687,7 @@
     "source_count": 1,
     "id": "079550-기타-11417-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14759,7 +14759,7 @@
     "source_count": 1,
     "id": "062040-실적-11611-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14783,7 +14783,7 @@
     "source_count": 1,
     "id": "064550-실적-11646-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14807,7 +14807,413 @@
     "source_count": 1,
     "id": "298380-바이오-11697-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "투자판단관련주요경영사항              (CTP44(다잘렉스 바이오시밀러) 한국 임상 3상 시험계획 변경신청 승인)",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800002",
+        "pub_date": "20260907"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800004",
+        "pub_date": "20260907"
+      }
+    ],
+    "source_count": 2,
+    "is_correction": false,
+    "rcept_no": "20260907800002",
+    "id": "068270-바이오-11814-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스·대덕전자 주가 급등… SOCAMM 규격 채택 확대 수혜 - pinpointnews.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "pinpointnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ERVdQRDNEaEw5cHpkOWhlZFFrNldwME5FQ2dwYURoUzhPVEczWFdUaUdYcjNLMVpYNThrS0JoRnZETmhwQTZ4RlhENE92dEpuUXVYckFEZkY4Z1pid3lDRDlFQ1hhMHRaalY5cDZIeDlZZ1HSAXdBVV95cUxQWEhWR1pJcjZMNURsbG5rVWpzOHZnT2djSXRuZDZGY3k2ekY5S3VmY2xyVUhVVEhxRkY2VURmNk5JbXBJM1FySnhIRFo1dnFKWW9HNENPVExlRnZqTWZWdE5ITEpCcXh1Z3RKODBzNEhwaVA0Vm1Baw?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:15:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-기타-11880-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "신한증권 \"심텍, 소캠 등 고부가 제품 확대…목표가↑\" - 연합뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PbWpuTE5uV0lHYVR2VVM4Z1dRN1hBWGFfakQyZEkyNUxzWjJIRmtORlNWSGhzNldlcUhtcnZMWlJCMTl1eUhoWTdjTzdkX2s2RWlUX1piWHJwelHSAWBBVV95cUxOel9rMVR1ajF0X2pvd1RkOFloVVEtRms0dXhQMENxdzJscDM4VmpsTFhydmJpd3ROT2taS1RySDEyZDlVWWNHQ2dUV0pHNHVkMDRSRDQxTzl1eDRZWm84Zks?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:42:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-11882-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[애프터마켓 리뷰] ‘흑자전환’ 로보티즈 강세에 국내 로봇주 ‘동반 랠리’ - SBS Biz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "SBS Biz",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUXNyMDdER1Z2TnFEM21Ha3Mya08tY0U3Y3NsdjJvOXZsdmlRT3JjRW12Z3BxUmNOMWREaVZaQUItSzVuSVRuTFUxVlRGVW9kekVR0gFYQVVfeXFMTVdyVzk4SDVPSE5pcjR1NzQxWE5PcmZZMi01U0ZkNHlWS3lGckJVYVRfcDJHNy1FQWVTSTVTZVpRcWc3dnFzdUZqRUpYSkN4WmU4VDZlU0x5WQ?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 21:35:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "108490-기타-11904-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]큐렉소, '의료 로봇 수출 국가 확대, 매출 성장 지속' Not Rated - 상상인증권 - newspim.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "newspim.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SaEZuVV9UWjlCQ0Mzd19ESTF6aTBhWmNCVmhiZXlZQWFQamtlSHMtUUNoTmlocjBzWW9RZko4X0piN2dQRVV6TVZoejBjSjZ1X1ZqMWxic1czTEc1?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:31:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060280-실적-11921-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[모닝 리포트] \"큐렉소, 의료 로봇 수출국 확대\" - 네이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14b0wwRno4bDZINGtFNjZjWmxHZUJyb2JiRVZxZW53MjZHQVZ1c05KWTNSVWlQM2xoczd1YUozZmIzX2o5RmRWNzF0bFdfOVA4OFNv?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:34:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060280-기타-11922-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "상상인증권 \"큐렉소, 의료로봇 수출국 확대…매출 성장 지속\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3T2tLV25CVjNGaGs5cjdubXNHa1cxR1FPbEpZb2hmMGdJOUJsZ0tZVlFkUUV0Mmw3endPaGxaYTZER0NTSWthNm90a1VRdEhfSHdpRg?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060280-실적-11923-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대건설, 성수서 힐스테이트 20주년 팝업…리브랜딩 고객 접점 확대 - 핸드메이커",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핸드메이커",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2M2hkU2Zhc0pyeHRpd1pRN0w0bEo0dGZDYm9Nak11MDdIeWxCMWtvU0FzSll0SXR4RDRBbElKZzJoVDk5cGNMZEYyTlh6bnZrTkkxdm9uSGpPU3I3SVpLb0s0TmI5V03SAWtBVV95cUxPdktGVV8tUFdEenlPcnl5dG5qcDFDRzRlRG83Y1h0ZXZpTTdyM1VhV0dqRXFlSUxfTGowMUFndFdWTGpTdU1wbHJLZDl0SU9JMUhoQWNHU3lSOE5JVjlueW1IbzNLOXBEMTY3WQ?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:23:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-11927-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 'CT-P51' 미국 임상3상-'CT-P44' 한국 3상 IND 변경 승인 - yakup.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "yakup.com",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YaUFPcG9uUk8yQjZKaENDazduWUcybzhJa0hFVFlVRllwRWp5UmRBX1RFeVJWM2hUOG40dDZpV3RCOGlhZGE0YWQwT19HU2Vya3FlUEU3X2x4SjM5U3RZbVJMZHMwNWtld0EzSkZ1ZVJBUQ?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 22:52:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-11946-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 CT-P51 미국 임상 3상 변경신청 승인... FDA 심사 기간 경과 기준 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNWloxWG1wb0pZTVVyb3p5V1NybVRDaFZ1R1hNNXVyWF9zQUtxUnE0XzY0cU1nTlZueThzUXdWUmkxelU0UVNBcUx3MGRWczJSTzBzRDZhcGxTdXQ5MkFiU0RMZVI3emJ5eF8zaVpaYmJsbGM?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 22:39:39 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-11947-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 글로벌 면역항암제 바이오시밀러의 임상계획 변경 승인 - fnnews.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "fnnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GYUxncnFmN21RZFV4YXFocFBiQ2NzbUl2bHZLYkN2X0R5X3BBc281RlFzSEN1SlVjZlp2dVZlYTl2cUJZdkdKQkM3d3J0VlVCakx3YldhRTVuZw?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:33:17 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-11948-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 'CT-P44' 국내 임상 3상 변경 승인…다잘렉스 복제약 개발 속도 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUzg1ZHZIYm9ZY0x2Nlo0WjdnMzhJRVpRb050VlVURENxN0NFUkw1dFd6aVl5VlE2RFJ6cU1zOGJkbWVfd1lNVzhDUFhieDdsb0dWajYzVGtCaTQ5RHBFdzdXd1pRSnhSTEplSDR2SGpjV2c?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 22:40:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-11949-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "유한양행-한국노바티스, '랩시도' 전략적 파트너십 체결 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1dy03ZlRNNjA0X0NQWG9vQk9pNTdJblY5RE5RMExWTU5fWHFUbnZjLVVDbU1ucjUtanRMYjA5ekpMNTlUbU52Q0ZiT3dkeEFFZHVxN2dxVTdFQ0RxUUhWdA?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:18:07 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10TExHSVNwWkFyN3VBS2t6LWZhSW43dHcySWdXdHFNUzRxQWZydVNua1pfZ3NhM0Z2czdOcXBGcEpMMnROcndib1pOazJCdjViVzFONmRTZFd2LU9KcVJRb011OXbSAWhBVV95cUxOWWt3MG1vNzhqdXljQkVaMkZQcm5KTGdPQmx6bElPVEZVdGJIa3c3ajNIWmVUeGFkN3JHMTE0cFVka2tjQzBaLXFwaV9OT19jT3dBUWhncjNhR1BoQUx5Q2dVWm5PYW85NA?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:14:45 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000100-기타-11960-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "한국노바티스-유한양행, 두드러기 치료제 '랩시도' 공동 프로모션 - 히트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bkt1MU10M2w1b3VyWGV1djdBRUx4dDlaYk13TmFUdzVtOWpSQllLNDdLNWJQdng3MXMyZlB2WUxrS0RZOFB4SG5YdkVjNFU5Y0F6SG9aamRIZ0FGZk5fLUJFQXNFUHBRLWpZ?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:26:17 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMUVwb1IxZy1XMDJwc2I0dHNkV1RWak5tWlJJbGNMek5TeU1RWDhBVmdCYmY4SjNNcW53djJXOTZ2c0hGamRveHNJcC1lcHhKYVZ1UG84X25fQQ?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:06:39 GMT"
+      },
+      {
+        "press": "fetv.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNaTVFYlVjOUsteE1na2pDc1dEaFJfVXhEd0FHUU9mVGdYdUt0WkZwSlhjUHZDa3dydjBYMHNYN09uVDFyX1B5bnB3QmFQY3dzQ01rWm82VmsteXRGQTFCSXdTSzdvMlRr?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:09:45 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "000100-기타-11961-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "노바티스-유한양행, 만성 자발성 두드러기 신약 ‘랩시도’ 파트너십 체결 - yakup.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "yakup.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56UE02TWx3S0RFaThwNlh4ZHJMdWVBU3pqaGNRZW5Yazk1WTJPd1hkMkVlclo2S2xVVGp4SmhidWhXWWUxRzJ1RDJ5YzFDcm5RT3lTcWdITUxVZmZQZXZtQXBDaFFjVk9pQ21SUlVaNkxNdUFBMEJV?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:14:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-11963-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행 ‘렉라자’, 스웨덴 1차 급여 시장 진입…유럽 접근성 확대 - 헬스코리아뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헬스코리아뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qX2V2WWFySkhkdFdfbDRub3Jyck9uQzlJY1dXVFp6czVaWlJESTRxUUdjaUFlZTFhYy1YUzRYZ1A0X2dvNW9LUkhEUXpRQTduMUtXcEhWLTM5S25FbWc3anRrVWQxZ1U?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:12:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-11965-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   }
