@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "대미투자 프로젝트로 대형 원전 8기 건설 추진 중",
-      "office": "조선일보",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997119"
+      "title": "[애널리스트의 마켓뷰]한국의 원전 및 가스발전산업… 성장 내러티브...",
+      "office": "동아일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746345"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -397,10 +397,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=064550",
     "news": {
-      "title": "투심 돌아오나, 실적·개발 성과 입증된 바이오 신라젠·바이오니아·...",
-      "office": "이데일리",
-      "date": "20260821",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355377"
+      "title": "바이오니아, 에이즈 진단키트 'CE-IVDR Class D' 추가 획득…글로벌 HI...",
+      "office": "한국경제",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329346"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/064550/news"
   },
@@ -491,10 +491,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성 19개사 신입 6000명 채용…반도체·AI 등 통합형 인재 선발",
-      "office": "서울경제",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659411"
+      "title": "오픈AI ‘아스트라’가 끌어올린 삼전닉스… 7000피 탈환하나",
+      "office": "국민일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871493"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -503,18 +503,18 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "005930",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "공포가 클수록 중심을 잡자",
+      "title": "HBM으로 매크로 우려 극복",
       "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260826_company_822457000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95868&page=1&searchType=itemCode&itemCode=005930",
-      "date": "26.08.26"
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260907_company_868953000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=96027&page=1&searchType=itemCode&itemCode=005930",
+      "date": "26.09.07"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "2분기 글로벌 D램 시장 60%↑…삼성전자 선두",
-      "office": "데일리안",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/119/0003130031"
+      "title": "中 화웨이·샤오미, 애플 폴더블폰 공개 앞두고 신제품 동시 출시",
+      "office": "블로터",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/293/0000090138"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -931,10 +931,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298380",
     "news": {
-      "title": "K항암신약 임상 성과 '세계의 눈' 쏠린다",
+      "title": "韓기술수출 21조… 신약·플랫폼 빅딜 행진",
       "office": "머니투데이",
-      "date": "20260903",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408673"
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/008/0005410061"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/298380/news"
   },
@@ -1191,10 +1191,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
-      "title": "'오픈AI 아스트라'가 붙인 불, 반도체 소부장까지 번졌다",
-      "office": "파이낸셜뉴스",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572197"
+      "title": "오픈AI ‘아스트라’가 끌어올린 삼전닉스… 7000피 탈환하나",
+      "office": "국민일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871493"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/240810/news"
   },
@@ -1371,10 +1371,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "‘칠천피’ 회복까지 단 ‘4.61포인트’…오픈AI 훈풍에 돌아온 외인...",
-      "office": "헤럴드경제",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693962"
+      "title": "오픈AI ‘아스트라’가 끌어올린 삼전닉스… 7000피 탈환하나",
+      "office": "국민일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871493"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -2085,10 +2085,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "\"덩치 키우면 경쟁력?\"…KAI 노조, 한화 인수 움직임에 제동",
-      "office": "한경비즈니스",
+      "title": "\"수출 정조준\"… K방산, 홀대에도 국내 무인전력 수주경쟁",
+      "office": "파이낸셜뉴스",
       "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110573"
+      "url": "https://n.news.naver.com/mnews/article/014/0005572298"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -2105,7 +2105,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "대미투자 프로젝트로 대형 원전 8기 건설 추진 중",
+      "title": "대미투자 1호는 가스발전소... 대형 원전 8기 건설도 유력",
       "office": "조선일보",
       "date": "20260907",
       "url": "https://n.news.naver.com/mnews/article/023/0003997119"
@@ -2185,10 +2185,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=145020",
     "news": {
-      "title": "대웅·휴젤 나란히 1조…국산 톡신, 수출산업 됐다",
-      "office": "동행미디어 시대",
-      "date": "20260904",
-      "url": "https://n.news.naver.com/mnews/article/417/0001157365"
+      "title": "휴젤, 임시주총서 자사주 활용계획 승인…\"개정 상법 반영\"",
+      "office": "연합뉴스",
+      "date": "20260821",
+      "url": "https://n.news.naver.com/mnews/article/001/0016262990"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/145020/news"
   },
@@ -2325,10 +2325,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "KF-21 '한국판 미티어' 잡아라…한화·현대로템·LIG D&A 제안서 제출",
-      "office": "디지털데일리",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240497"
+      "title": "‘K2’ ‘천궁-II’… 유럽 시장서 파워 과시하는 K-방산",
+      "office": "동아일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746360"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -2339,16 +2339,16 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": {
       "title": "내러티브가 실적으로 증명되기 시작!",
       "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260831_company_229496000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95940&page=1&searchType=itemCode&itemCode=006260",
-      "date": "26.08.31"
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260907_company_373596000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=96030&page=1&searchType=itemCode&itemCode=006260",
+      "date": "26.09.07"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도",
-      "office": "블로터",
-      "date": "20260906",
-      "url": "https://n.news.naver.com/mnews/article/293/0000090068"
+      "title": "[단독] 쏟아지는 빅테크 발주에…LS일렉 美공장 증설 검토",
+      "office": "한국경제",
+      "date": "20260907",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329676"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
@@ -2365,10 +2365,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "[단독] 쏟아지는 빅테크 발주에…LS일렉 美공장 증설 검토",
-      "office": "한국경제",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329676"
+      "title": "오픈AI ‘아스트라’가 끌어올린 삼전닉스… 7000피 탈환하나",
+      "office": "국민일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871493"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "3차 ESS 입찰 앞둔 배터리 3사, 수주전 재점화",
-      "office": "동행미디어 시대",
+      "title": "SK온 수주 잭팟…SKIET 주주는 씁쓸 [재계톡톡]",
+      "office": "매경이코노미",
       "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/417/0001157593"
+      "url": "https://n.news.naver.com/mnews/article/024/0000108060"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2477,18 +2477,18 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "000660",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "짙은 안개속 선명한 성장",
+      "title": "HBM 고객 다변화 본격화",
       "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260826_company_157764000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95869&page=1&searchType=itemCode&itemCode=000660",
-      "date": "26.08.26"
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260907_company_806609000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=96025&page=1&searchType=itemCode&itemCode=000660",
+      "date": "26.09.07"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "대미투자 1호, 텍사스 가스발전소 유력…원전 8기도 후속 검토",
-      "office": "국제신문",
-      "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/658/0000154840"
+      "title": "오픈AI ‘아스트라’가 끌어올린 삼전닉스… 7000피 탈환하나",
+      "office": "국민일보",
+      "date": "20260908",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871493"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
