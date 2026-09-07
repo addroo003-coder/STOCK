@@ -7478,12 +7478,17 @@
         "press": "minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdHFLSjFPWGF4Zlp2bWhFUmt1dUFUWHBNZlNDRnNuYjVpcGJnY1FBZG1VMGI2bElib1RxLWpsZnZVVjFOYUtfUDJmMkhTdG1MdmNvUlhOdWVYdGxfUkZIeGpWczhHVHNnOVRVdA?oc=5",
         "pub_date": "Fri, 04 Sep 2026 07:44:51 GMT"
+      },
+      {
+        "press": "minsimnews.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qODFzNk1pdmRpdTBmWGhaRXV4VlNNc3N0X2c0NFVSamNCVldGdDRuWFdoYXZRbjlmNEIteWVkbl9MY2o1MFpRck9XeGdHbVNBOUVhX1NkY0x5b3JtTUd6aDJMTWhEWWhENFA5bQ?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 07:25:59 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "010120-기타-6047-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -14721,7 +14726,7 @@
     "source_count": 1,
     "id": "207940-기타-11425-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "status": "일반",
     "stale": false
   },
@@ -15002,9 +15007,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KZXRZMXpuZk1la0dTZzF1QnRlMmhYZnllTzBtaURUZWIycXVDS0R2OXF2aDNoX3hxbDJ5TlNNcUd1VWtTSVdtWnIxQmlqMzlSbTRJY2QzZUFYeGY1ZGVHOVdBWld0WUhPOFdDSERWekI5QQ?oc=5",
         "pub_date": "Sun, 06 Sep 2026 23:22:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nUFBGdVVZajZSZTVGZE5fZUFTR2dXRzlMUmE5eWtqYk9JdXZTXzdRVHRaYlhUVEVxUjQtNE14V1hFUHBraDBaV1g3RQ?oc=5",
+        "pub_date": "Sun, 06 Sep 2026 23:23:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "060280-실적-11923-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -15017,7 +15027,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "현대건설, 성수서 힐스테이트 20주년 팝업…리브랜딩 고객 접점 확대 - 핸드메이커",
     "source_type": "news",
@@ -15026,9 +15036,14 @@
         "press": "핸드메이커",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2M2hkU2Zhc0pyeHRpd1pRN0w0bEo0dGZDYm9Nak11MDdIeWxCMWtvU0FzSll0SXR4RDRBbElKZzJoVDk5cGNMZEYyTlh6bnZrTkkxdm9uSGpPU3I3SVpLb0s0TmI5V03SAWtBVV95cUxPdktGVV8tUFdEenlPcnl5dG5qcDFDRzRlRG83Y1h0ZXZpTTdyM1VhV0dqRXFlSUxfTGowMUFndFdWTGpTdU1wbHJLZDl0SU9JMUhoQWNHU3lSOE5JVjlueW1IbzNLOXBEMTY3WQ?oc=5",
         "pub_date": "Mon, 07 Sep 2026 00:23:05 GMT"
+      },
+      {
+        "press": "ppss.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuRnpCMU91OXA5dmJ5Q2l3Yk94aklaZzZZWjJGNV9OMV9YLU9EYXRkVkNybW5OVEY3Mk5vTGNtSXJ0MEE1SURCenRUYzZmV0dWOFNxY1BrZktPcXhEUTRYWE5nU2o?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-11927-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -15235,9 +15250,14 @@
         "press": "중소기업신문",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nR2tRVWtiT3lqb2F4YktDQUlvRkF4N00tT2JmVmVUemVmVTRoZEowZ01oQkp6dld1V05WdFlzSjJIcnJOWjBUdGQ0Q3ZwclpDUFh1dm56OE1Jd1pZUzRpazVGZm5NdF9Ta081dm5n?oc=5",
         "pub_date": "Mon, 07 Sep 2026 05:37:36 GMT"
+      },
+      {
+        "press": "펜앤마이크",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PTzl4V2c1dmI0NEJGOWZ4bllYZ2RBVk14ZFQyRnU0MVRUTVJLckFoSFZQQlFNVWpRRGZWak03and1RXhMb0QwSWZxak1GbHF3d1hGS1MzZWhHRWhxSWFhUTFMaHZuLV85c1pF0gFvQVVfeXFMUDA2NTdtZnZPRVVyODhZNGVHcEtael85ZXBvWC1SZmJWRE4yejdCQlc5VXdfbVVzd082UEliaUlEdWFZSWM1bEpjc1l0aGp3SU4yY01Ed3JmUURjTnZZZXNDLTZWMEVLSmlJQ1Jpbjkw?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:05:34 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 13,
     "id": "000100-기타-11961-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -16134,7 +16154,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한국노바티스, 유한양행과 랩시도 유통ㆍ프로모션 파트너십 체결 外 - newsmp.com",
     "source_type": "news",
@@ -16143,9 +16163,19 @@
         "press": "newsmp.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40MGxpeHFrbXFFX3FIU0RPX1VObEdFLTRGZUswaTRSclp1X3JFRVdSX29qdGVmMEh2bDVrVmg4Ym9XajZtV05vQU5Rbzl3TE04RnRvYW81dWZGSlhNeDRYaFVwZmgxSlk?oc=5",
         "pub_date": "Mon, 07 Sep 2026 09:57:05 GMT"
+      },
+      {
+        "press": "의약뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pM2xKWXhzVHhRUDdNNWdXRy1FUGNzV1gzM2xVbnNCRFhFc0RFYl9WRmgwTlVDQzFTd000U3V4SWVUeFJLSEk1OEZhd3M1M05YdFpuRTdJWXBDN2hEc0ZGSG55ZGZKZXJ0?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:57:05 GMT"
+      },
+      {
+        "press": "메드월드뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kc3Fmd2NWdEdOdS1vd1M4ZEJtdXdFeXFLY2VvTTBQNTBpQkc3VXctZFlmb0hSVEFnVVdtek5VWEswMHJIQmIyMmxyZFJjWHhLanNJNjlPTk5Sa0JZd0tkYXowTENJT281VjlZYkRR?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 12:27:42 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "000100-기타-12912-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -16243,6 +16273,78 @@
     ],
     "source_count": 1,
     "id": "005070-기타-12961-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, CMA CGM에 1억8600만달러 청구…팬데믹 운임분쟁 ‘초대형 소송’ - 해사신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "해사신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1OUloQ29rS2RrQWZHUnBDZTdoMnF2NUdISUIzTklZb3lLUEhXdVp5N3VuSlU5b2xBRFlXZnlnbnNVaUJSNWtLdUdMR2I3MXMxRkdwOE5PTUw5R1ZLUlN4Q3V4SVlkMkZFb1BB?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 11:36:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-12985-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "ISC",
+    "stock_code": "095340",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[증권言言] 하나증권 \"ISC, AI·범용 메모리 수요 확대…테스트 소켓 수혜\" - 마일드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "마일드경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9seWFZeEptVEVYcVY3QVZvM1NNZGM0b2F0RldHU2stZ0dicmJWM3kxaUNBOUFDMVBGYVNWX182SDhsclAwcDNLVS1GX1pDNWUzbXVZRWlUNFhZbG9lbUFRbTRBRDRjbGRsUFJ3?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 11:35:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095340-기타-13009-20260907",
+    "first_seen": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행-한국노바티스, ‘랩시도’ 국내 유통 맞손…'두드러기 치료' 옵션 확대 - 100ssd.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "100ssd.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rbkxPSWJCOUppc3RvcnAyeGRMTExNeVU0M0kwSHFDUlgyYkFUc2hLbXYyQkFFRHRDNnpmZVhhWXE2Vi1iNDFqYVN3WmlTNktXd2NaZ1NMN0FWZ08xbUZHUW9IcGdhR3dvZkpR?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 09:17:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-13107-20260907",
     "first_seen": "2026-09-07",
     "last_updated": "2026-09-07",
     "status": "일반",
