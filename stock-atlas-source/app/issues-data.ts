@@ -1545,6 +1545,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "036930-기타-6369-20260901",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "[마감영상] 9/1(화) 관심종목 10선 — 실리콘투 55,000원 돌파 지지 확인 - 네이버 프리미엄콘텐츠",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcE9YTmtFeVdYVENoM3VJVDZXYmFRWGM4djhxMWdJRHpMZVJvaWFSUHhqV292LWJvVDFtVEpXallfRFpwZlZjU2hJeEozR1ZtVldNWEJubnpIdURZaXF5T1F1VW1DbnkzeGlmdlI1YUdTbE1YbmtuT1ZWZlRrX1ptTVV1NzV3Y0piYUFmdTgyYmY?oc=5",
+          "pub_date": "Mon, 31 Aug 2026 13:55:00 GMT"
+        },
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVBubmMtemcxZENPaUlKQXl1QXp0QVpSc1ZkWEJ0ck84Nll5akk1OE5jX1V6VkdmM0k4U21nRGdIcUhvM1NPSWlTaUIzRXpqVUJwNGhZNlJseFY2QkRTWE9qdW84SEJrbHMzcm9jVndZSFdzbGplTVAzenQ5RjRIR1B4MkRHQ1JQUDdQVE5BWDk?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 13:14:00 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "036930-기타-6614-20260902",
       "category": "기타",
       "direction": "중립",
@@ -1600,33 +1627,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 3,
       "first_seen": "2026-09-02",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "036930-기타-8312-20260903",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "美 국채금리·유가 급등에…코스피 3%대 하락 출발 - 조선비즈 - biz.chosun.com",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "biz.chosun.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFpmS1l2WWNCWkpXQmhvVUJtVjZWTmd5eHFadGN5NDZWenA2al9EMFRUZ1VQSW1GNHd3TVg1ZGhPaDVxUEYtRnFMckIxSG5VUmZVN2hIdFdPYzBtVXd3a0NhQmNiNkQyXzZubW5Na0VKVndLMmpROFpYWU9yNVhjUnJWVm1RaDlo0gGcAUFVX3lxTE5NVzBnMkdQcVVxbkhMcHBXYW9UODVSUkRWWXUzUDBDUTZBV2NMcTVkbWlvTFNLUnBmTXhqbGZwUlctbmx5NTVvYTlWMl9ESEhCbU1KODZDM25adUFOcWloVGNlY2QyQjlpTTEzY0lFSnlRWXRaYmphOFpoSUQ4VzR5blRfMmtsdVZ0ZElUZ3doRGpKMGNlM2lETUN1RQ?oc=5",
-          "pub_date": "Wed, 02 Sep 2026 00:37:00 GMT"
-        },
-        {
-          "press": "biz.chosun.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWk9VNTg3OC1rV2NTVEpaYXAydjQ2ekRNTGxSWWNpakY5TzNreDRURkZRenJsTFBpbHkxbXNWa3pnOUpwR1VlM1djcnllc096cHlxWTdQc3JNNm5IeG5ZX01QLWRCOUtraWRPRUwxczdCZUlHWDVrQU5yS0JRcUxfZUVUSGFYcFhL0gGcAUFVX3lxTE1DOWwzelEzN3NfdklDbGJFYWV3cVRGTzRoZkl0YlRBRkhHdDBHbHNEMGJ2UUM2NmhoS1BxbThmVG13WC13TnBKdEVneWNocTNDdXdHMFVZeGFSMkdkaFlqTWNuMHM5TERYenF0MmlFYWNkWEN4N1ZWSnQ2bmg2MXZwYWRIdHpMQTdvMDlXREp2bDg1X09sOUIzeTNnag?oc=5",
-          "pub_date": "Mon, 07 Sep 2026 00:11:00 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-09-03",
       "last_updated": "2026-09-07",
       "stale": false
     }
@@ -1706,9 +1706,19 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "histoire-pour-tous.fr",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTIzSHlUMFpQUWplMEFZbzNNcVIzOGJndDhPN3hQMlNrX0ZRQW8xdFlaeTJtNnJUWmRjRGlSWkRJT3lfck9EUVE2NWVQSHlScFUwSjJfc0RmLUh3TnVlRG1MRUhsdS1yMFNsMXp1NngyZENjSTRYVm9NWTEzeXc3dERUT2tESXMtam1DdzVxUFJkS0pPbTNyYUtpZTIyR0VuWTJzLVpwNTR1eTZTa0ZBeWtTcjlCd3o4Q1Fn?oc=5",
           "pub_date": "Sun, 06 Sep 2026 02:58:50 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1ZYaFhxNFJUb2dUNWZKLXExdkMwMjItS0xoSFEycGIyaE9tWENxbUNqWGhtM2VpcGNsNDlUbzk4aVIwTEk3bzJ1RXJpTmJQWU1WaUtGbURMdjFaVlRGbVJZOU5fUDRFZHdXMThUbUpTUU5pYUxnLXVfMUJvV1lBM1lrNjJtMm4wWGN1YjVBNTJnMFFYTTFBSFdfUQ?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 10:49:17 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHlnWEpucHBvWWg1X2k0dnI3NW04TWxLZmh5Sk1lNTl3N0cxa3lzd2dPalA2VjVZTTE5OERMQTBmdmwzZy0yWGhoMEhhd2RGd2JSU2k2UFZ3MFhhN3psWTBjdUNBSENfZnVmamlNQkIyd293aEhsRXlKQ3pDX3JSVEtkN2VtQTRBbGY0WmdtMVVEbXczN2EyY3I4aUEwUFlmT0U4bw?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 07:00:00 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "first_seen": "2026-09-04",
       "last_updated": "2026-09-07",
       "stale": false
@@ -2524,6 +2534,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "200710-기타-13259-20260907",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "카지노워 확률 을 위한 필수 정보 및 팁 - Histoire pour tous",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZEtLR3dZMW51MUxNS1ZwUjJRNzBpODhGZDRkVEFxZnFFUGt6LW9XX0xSTDNYMVVtSHFlUHo2TW95VWhZbHpJWTlzYkltWi1RdThERTUtdzZLZ1RIcXlLWUtIWmpUb1UxWGJsWUdCNVBkRDh1b0RwaHVsZ2xCanR0WmNrMl90b2g5NnJJLXJmU0hKSGpNYkJtdm1qNmM3SHY5d3BSVU1yb1ZXVHI1VHBrekJJU043MFRqZ0M0U2FZaFhSRHowN2xVZzdYVGVTWnZCODRjX0t6dUxrSjgtU0dzcWJCdm15bnBHRGo4Y2ZwVkc0RzI4SHd0Mi1hUGRDMFBsVG9fNHg4NXJtTGhMN1dsTjJlRQ?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 09:18:39 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "200710-기타-10052-20260904",
       "category": "기타",
       "direction": "중립",
@@ -2538,28 +2570,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Histoire pour tous",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnhETm96LXg0bmxyR09la3cyci1iV1I1ZXNqdXNvM3pfa2tteUV4MjYycjZVaEFmWGJackhJRnpKdG14UDlkaVJsQjRrSWlSdk15WFJMYnN3RmZIbVZERlQwQTh5TGluVmRUUEtaZnc0cFEwSmlXZmJKNGZOaHRURml1cWlhWjAyNmhKMVdVWGRkcVFtQ1FqZGRROHZvM1RXdDh3cDdrZ1phR3hKbXlz?oc=5",
           "pub_date": "Fri, 04 Sep 2026 04:53:23 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-04",
-      "last_updated": "2026-09-06",
-      "stale": false
-    },
-    {
-      "id": "200710-기타-10265-20260904",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "암·삼성전자 2나노 AI칩 협업 보도 나왔다 - tokenpost.kr",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "tokenpost.kr",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ydFRYdXBpOFVveGhPSjFOd294YnBhTzZmUmxXZndqSmdfX3FjMnV5cUlqRkRWVE0zckxzVnZEUlZnOUFNVnBRSWlXa3I4ekNhOTZ0aXZn0gFWQVVfeXFMTTJ0VFh1cGk4VW94aE9KMU53b3hicGFPNmZSbFdmd2pKZ19fcWMydXlxSWpGRFZUTTNyTHNWdkRSVmc5QU1WcFFJaVdrcjh6Q2E5NnRpdmc?oc=5",
-          "pub_date": "Fri, 04 Sep 2026 19:50:54 GMT"
         }
       ],
       "source_count": 1,
@@ -2665,6 +2675,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 11,
       "first_seen": "2026-08-27",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
+      "id": "357780-기타-503-20260828",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "솔브레인(357780) - 씽크풀 AI",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "씽크풀 AI",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uYVZjUWxoRW93WDFnUGpGcjJZbk5lT2JoVlNZNFBFamhXLTI0THhEUm02cHhSSEFYMmFVNGw2emRYd2pVZ29NNFFJdHdGb1Fxd2pKYW94RWFteXFKZ0pmcg?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 01:16:00 GMT"
+        },
+        {
+          "press": "씽크풀 AI",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcklzcnFCeWhZNkIwYUt3SS01Z2kxYmdWYXpPRWg1R19BSVFuRlhaUTlDaGJ3SEpiM25wYkpJYkJVelV5Wm8tRmlWWVk0cmlYeWpMNHpxZ3dvYTFyeFdqQw?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 01:16:00 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-08-28",
       "last_updated": "2026-09-07",
       "stale": false
     },
@@ -2801,28 +2838,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NHNIRTBBUFdyQ1VLa3VEZlprUDVhMTFIWTRRX1MtcVhaRVE4OV9ma0FDZjdtRS16ZUFIdnVKLUZtTGdzRDE0ZXRZdWwyV09KR0poeXcwaGN2RENyRWJMMtIBYEFVX3lxTFB1NHNIRTBBUFdyQ1VLa3VEZlprUDVhMTFIWTRRX1MtcVhaRVE4OV9ma0FDZjdtRS16ZUFIdnVKLUZtTGdzRDE0ZXRZdWwyV09KR0poeXcwaGN2RENyRWJMMg?oc=5",
           "pub_date": "Sun, 06 Sep 2026 01:09:24 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "357780-기타-11512-20260906",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "fc온라인 다운로드 의 혁신과 미래: 기대할 수 있는 변화들 - 장단점 비교 분석 - Histoire pour tous",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "Histoire pour tous",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVnNvLTF6TWxGbVg3ZVdvQVFITm5faEhLUHlrVDFmUmt4WG1lSWpIZVI0aUs0Wjh2clFZSG9NRnk1c0RmTGpXT3ZyUDNoTTVUX1h1UUJxSExIeUVaOE9Kd01WQ0ZEVVNqemJQSGVCNU1jTnBEOUNNWTdaSHRIWE1ocjN5TW1IUWdYdTFCcjZUNDZzUm9JaTZPTC00QTIwWk5fSWNOU1JnYTUtcmRZRnRuYm1DazZVOTNkTmVxZ0xyREdndmxUWFAzVGFMQ3QxVmdUd1QzeS16LTZ0U2hyb0VWNlZUWDRBZWFYS0JLSTV6UF9TM0pxX1E?oc=5",
-          "pub_date": "Sat, 05 Sep 2026 23:04:06 GMT"
         }
       ],
       "source_count": 1,
@@ -4671,9 +4686,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aYWZPQ3FOcVF2ZDRJT1NHdmtUTnhYd2ZUdXRNMUFqSGhKZE1XUWtWeWFwbTBPTjhCUVpfRzFLSUhLZTBuRkZLV3ZFMXdFbE12RlJF?oc=5",
           "pub_date": "Mon, 07 Sep 2026 06:44:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QcndXRllld3lSaUV3bmlYSE83M3hudExGWGVHdFJ3bzlUQXVFOFZLaURUTFl5TWk4YzYzejR1MnJoaV9iaEE?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 00:36:59 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -5056,9 +5076,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "전북중앙",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scGVqSEROQkFwcndXRmE5LUVjaVp5c1ItNlVZZ2dHLU1SVzh6clNRcm5wY3o1cXBpYVQ5VF93OXZ0ZlZHeU1TenVJc3ZyVFhBWW1KTkRJNlV0R3BMdWVfWHdUWXU0Tk3SAWtBVV95cUxPVU95UFZlUGhaZ2x1WXJYUnZuQWRxVjdmN194MkFSUGZpRk9pMF9QV2d3TmpueGU1UDJNc2NnTXJ5aUV6RkJWRmdXM0txQ2VzY2wtZXJBcWZnNllWYW1TdkZQZ2dPZmZ2MHI4Yw?oc=5",
           "pub_date": "Mon, 07 Sep 2026 08:49:49 GMT"
+        },
+        {
+          "press": "전주일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2anZnb3QwZzN0dHpyWi1TZGtGZ1NVUFBFdlZLdXRjR3JHTWFVZS1wejhhSFNzX3pNQUh6YVdkSVZ6N3p3T2ZnMUh0VWpZTm9lbUpSVUNkZWwzRURKMEZSYWN0dmk4MXR0bXIw?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 03:58:12 GMT"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "first_seen": "2026-09-04",
       "last_updated": "2026-09-07",
       "stale": false
@@ -5274,6 +5299,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "267260-기타-10602-20260905",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "동방 환상 마작 스팀 시스템 아키텍처의 입문 가이드: 사상, 행동 및 결과 - Histoire pour tous",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUktMl9vTVlTWk9pX0JlN2ttdVZOLW5NalhkS1VJcWZDUk81dmNWR1RISFMyLTlRSGZZMjJNMHJmcnhqUFZrUVdLS3V2a3BwVzN2MWlSemNIYW1ZaHZzRTNVY0Y0VS1JSHpRRVpCQ0tHdTFqb3h6Q2FGb0oySWo4THJDN052bXBoVnhRUlRiS3RBbGJOeEpWcmRuTUlQRm9keVE1OTZiUjliVkpHelRWODVPSmlUZW5BWS01VVc0RlQ?oc=5",
+          "pub_date": "Fri, 04 Sep 2026 16:33:28 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXR6ckp6UDVBbUpxZkxhandWOGJfWnVEbjA3MUg5d1FSS3ktdFl5aXlHSjdnS2psWDhwTHVEajJjYmdYUXZqX3BNd1psc0ZvUWJpZFdWb2laYnVLVjJYeHpPdEx2d1hydnMxMUV4SjJ1d1hiMXBRTFY3REJpczJ1WkRtZHFhQms2SzRWdTJ2VlpQeTQxSHV1cVI2dw?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 11:23:36 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-09-05",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "267260-정책-10872-20260906",
       "category": "정책",
       "direction": "중립",
@@ -5382,28 +5434,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 3,
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "267260-기타-11031-20260906",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "카지노 데모 건강한 생활와 정수: 입문부터 마스터까지 - Calgary Roughnecks",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "Calgary Roughnecks",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnRsZkNfM0o1YXRqNmNfQ2s3SVZoYzZnODZheVByeVN6Zm5TV2xTRHQ5SlBmbkpQcEVNbDh4bUhxY3BDc19nU1dSV0hJLVhteDY3SjhadmltLThNekNCZTF1bTlXd1lOS01saGc0VVZPT3NpWUt5a3ZLZmlzTl9fRjAwZVhZbDBmblpiMVloQmdETjQ3NnJGSnRhX2lCZFdBR2ZVZElZV2Fjdl9LWVQ3S3F4Y3gyOWZBeEMyY0ZNS09KV0lySXdHU1hvZkdibkdrcjZ3ZkJIakt2anJSbzlZ?oc=5",
-          "pub_date": "Sat, 05 Sep 2026 21:43:03 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-07",
       "stale": false
@@ -5596,6 +5626,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "298040-기타-10824-20260905",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "글로벌 카지노 산업 디지털 시대 웹사이트 구축: 기초 지식과 고급 기술 - Histoire pour tous",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OTVZJUGtCUGxXU2hqNUFsN21BckdoSUY5S1NSNjVEZUJ4S3RlYmYyVl9yYk1BOVRxZ1hmTHctZ3VxYW9hbmZrRV9lRkROTnNuaDhac3NBY3owQTJkb18tYVBpbEE3WlBpTTVlWC1R?oc=5",
+          "pub_date": "Sat, 05 Sep 2026 13:14:11 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEZPcW1CcEVQX0F2RkJ6bVJZVlVmWkNoQUdvdEp1WkdWY2hqcXVUVnFwRjNyTWk1X1UyOXE5Q2R4ekM2azJRQ2swNExWbDZhWjEtY085LXd6dWhPSy1UTFN5N1BlVTFsbDdhMUtwQVdscVR6V0ZsekNZcm5KeUlwaGNzbVdqUEFDS1lXcmRxWlVDOU1zenVWX25nX1NfaGxKbmFiMVo3VGJyNUhfcVUwRkg3N0NNbEJnXzdZeFlpOA?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 15:51:32 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-09-05",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "298040-정책-10875-20260906",
       "category": "정책",
       "direction": "중립",
@@ -5645,33 +5702,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "298040-기타-11035-20260906",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "[주간증시] 코스피 한주간 1.50%↓...이번 주는 상승 출발 기대감 ↑ - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yaVNuR2dfcS0tWkhycE54QXA5c1FHRERRN2VxNG1KY1hiMktXamdlVWpkeWVFNnZHbVVKQ0RTU1VYTXpySk0xYU8zUTMtTFhLTjM5TlM0SUVnX3NySW5TcUx4aTV5eG05M0YzczU3RHRiSEpDSlg00gF3QVVfeXFMTXJpU25HZ19xLS1aSHJwTnhBcDlzUUdERFE3ZXE0bUpjWGIyS1dqZ2VVamR5ZUU2dkdtVUpDRFNTVVhNenJKTTFhTzNRMy1MWEtOMzlOUzRJRWdfc3JJblNxTHhpNXl4bTkzRjNzNTdEdGJISkNKWDQ?oc=5",
-          "pub_date": "Sun, 06 Sep 2026 01:44:50 GMT"
-        },
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80V0NpZGNYVDBqVHZBV3I4MWtTazBVVUZIOXBCaUVFN0ZFUDVrT0wxRldLdXFrcVQ1X2hDWUUzcHFCaEpzQmltMUhqc2pzVEZQREx1RmxGQU5GYTVNaFVKNFlsanhnUllvMHFXMGFZV2NHSHfSAXdBVV95cUxNcmlTbkdnX3EtLVpIcnBOeEFwOXNRR0REUTdlcTRtSmNYYjJLV2pnZVVqZHllRTZ2R21VSkNEU1NVWE16ckpNMWFPM1EzLUxYS04zOU5TNElFZ19zckluU3FMeGk1eXhtOTNGM3M1N0R0YkhKQ0pYNA?oc=5",
-          "pub_date": "Sun, 06 Sep 2026 01:43:31 GMT"
-        }
-      ],
-      "source_count": 2,
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-07",
       "stale": false
@@ -8001,7 +8031,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "130660-기타-12812-20260907",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
@@ -8012,9 +8042,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "인포스탁데일리",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxZE9PQ3MyOVNPSGM5QmFXREM0YmV6SUo5a1p2ejlCdFgwUm43dE1mQ2RRa1NRd1JnMHRoYzNLcVNlaHlzM2xaM3ZESDQ2ZFFpQzVvVkI3THQ2bG83dVQyLUQ4X1hMay10SXJ1eFNLeXF5TWRqNUE?oc=5",
           "pub_date": "Mon, 07 Sep 2026 08:18:00 GMT"
+        },
+        {
+          "press": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSU1QxTTQtajdmN2xzWElEaDdoOWVFOWFXdEFZUjZhSHFWb290ZTZnQk1mczBIckZMMHpBNjBxMTlHSjI5dUxiRENBNExueVRBdEUzRWtsVjBNQzh1WFBTN3VpamhaOHVialV4VVpRV0c?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 09:19:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -8262,9 +8297,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15bFdiZk9lN09yb1M4Q0FmZmNwZnJFZGxvUWpDVVVaT3QzUURXUllvYWNxZzRMYUN2UDRWek1NLUhxS0VKQ3pkZkRmX0Z3Q1dFQnNz?oc=5",
           "pub_date": "Mon, 07 Sep 2026 01:04:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGZW9iRDJJam9YLXlkcENlbGNBVzBrQ0RsY05wdTdCQ1hLeHU5aFdXTGhWcFlYSjdJMzRNNWJpSXhDMzdoU3pzem1taw?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 23:28:07 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -8395,7 +8435,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "046120-기타-12830-20260907",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
@@ -8406,9 +8446,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "인포스탁데일리",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxZE9PQ3MyOVNPSGM5QmFXREM0YmV6SUo5a1p2ejlCdFgwUm43dE1mQ2RRa1NRd1JnMHRoYzNLcVNlaHlzM2xaM3ZESDQ2ZFFpQzVvVkI3THQ2bG83dVQyLUQ4X1hMay10SXJ1eFNLeXF5TWRqNUE?oc=5",
           "pub_date": "Mon, 07 Sep 2026 08:18:00 GMT"
+        },
+        {
+          "press": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSU1QxTTQtajdmN2xzWElEaDdoOWVFOWFXdEFZUjZhSHFWb290ZTZnQk1mczBIckZMMHpBNjBxMTlHSjI5dUxiRENBNExueVRBdEUzRWtsVjBNQzh1WFBTN3VpamhaOHVialV4VVpRV0c?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 09:19:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -8436,6 +8481,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "046120-기타-13311-20260907",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "원전주 일제히 강세…한전기술·두산에너빌리티 급등, 향후 추이는? - CBC뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53b1JER3cyeXM0Xy1UNEJud0dPS093cTlMWVVpMkVFbEVucDNhRC1TbERnWlI0RUNTRmJOb1hvMjZpOUdkcWx0NlNPWW1lQnRQUjlfZm4yUG5DQkUwUGd3ZVdjZU44dm1n?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 21:25:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "046120-실적-9549-20260904",
       "category": "실적",
       "direction": "중립",
@@ -8455,28 +8522,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-09-04",
       "last_updated": "2026-09-06",
-      "stale": false
-    },
-    {
-      "id": "046120-기타-9550-20260904",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "AI 데이터센터가 불붙인 원전株…두산에너빌리티·한전기술 주목 - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3S0RMaFJYZ3hsRUdmZms1VlZxN0dIVUMwMFdqTVdtWDdGdGtYNjhnN09xaTE2TjdFS1pnMGdwSVRzT0IteUw4TVNHd0RqckEwaVV6UlA1WWg1a01MYVBrN1k1X1FZOFdheEdhLVhTTFF6ZmvSAXdBVV95cUxPNm1yYkxYQ2tPcjhWVFl1ZFJuUWlfc2lKZTl3T1JHZGtRcWpoejh4Z0U0Skwxc3pHeDEtaG5xdW51Qy1uLXB3QjVuVzh1R25uMDdtX0tnenVnLUZ5dkREOWRUdk5yWjZsZzNhTmNjZENMYWtWMm9fSQ?oc=5",
-          "pub_date": "Thu, 03 Sep 2026 01:35:48 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-04",
-      "last_updated": "2026-09-04",
       "stale": false
     }
   ],
@@ -9848,9 +9893,19 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Histoire pour tous",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEEzYm50SkVMdDhPQ0p5VE1CZW9hWUxWLV9mZW5fTG5mUURRMFFLTVg0cTZ0UG5KbFJRU0lzc2dBS3VvOC13UHRNRnFlVE5QVExoazc3VUN0TUNHNUZSWXVnRlhwYjhjZERFRl9tZjhZanlIUzczQ0tUdmFOWHVpNFhkSlBiUW9nengxOThyTDR0bmQ3NEx0ZktB?oc=5",
           "pub_date": "Sun, 06 Sep 2026 18:37:13 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSV95Mk02NE5kbTN5a1VQZk9oU0kwd0k4ZUlmMUM2QUdJSkVMeE1kaFR0Ym9LWXIxR3dzSURIdktxZDVBZ2doTXBmS0ptd3V6bHVPQjFvcUV5S25PSXZJbDdrdWFZN1RoaUpNUklhMTk3cFluYkJhaWNaa0cxYU9FVHpoVlFLQ2tCTmQtNFBrYmpmdGprMU9TXw?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 20:11:25 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNHNIR2RhX3I0b2lRVmYzRVdNY0g2NlVEcmIzM0U1QlBlVUdhRVdRVnpScjBoNS1BU0RoOVpmV0NiRUNtYUI2UmpqNGlOQ2hZWTJ5YWllUm8zN1VOeEkwa01BQ0pqLVRUUzUxRndUdlIyLWNObHJLOHVLZTdJanpZSGdiWDN0VnBCRjVacWlvYUlqMzBMeDh2SE9ERHZJX1NLOUNkQUdPdTB6NFp3YURVSDItWnp1VGlU?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 05:42:57 GMT"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "first_seen": "2026-09-04",
       "last_updated": "2026-09-07",
       "stale": false
@@ -10262,6 +10317,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "326030-기타-11247-20260906",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "파워볼게임픽 디자인 분야 자산 배분의 고급 기술와 혁신 - histoire-pour-tous.fr",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "histoire-pour-tous.fr",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlrVURyS0pSZThoZl95OGV5em1pQTNxQ0x0bnBLREpIYXRPdk15X0NXWkhfQmtyYnI2ME5ad2hhTVdBN0VsM25ZbW5QZzE4V3M0ZGpncDhya0pEYWFzNlRwd2FaYUtvT1ZTc1NvNTVtV1ozVFJTYnNyU2VuVjB5SUJZNkJEN0hGZGkzam9oblp6ZFZvWEVNN0JxTjRmaF8za0Nyc0JFcUcxRU5wUkIxNw?oc=5",
+          "pub_date": "Sat, 05 Sep 2026 06:32:13 GMT"
+        },
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oSUd1QnJyUk9zR0ZVMFhpQkcyU0lSaUM1LUZEdHFDenctT3dWMkxZYUl5WVlqVlc3YTJza3VCODQ5ZHFwMktFTHc5Z3NXOEozWWtSRzZmdHFtb1hheUtkaG1rY3VWc0E?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 12:27:56 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "326030-기타-11444-20260906",
       "category": "기타",
       "direction": "중립",
@@ -10347,28 +10429,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Histoire pour tous",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjNCQlJWUF9sd2JXeHRPaUx0LUhYUk9QWG5CTGtsdWl6ZzVKVkFSRW9TczlUeEI1aUFZZFpBRVJuREV2OVJRY0phOXdLMFlveTFRR2gzUkpnVmJwYTlpZ1dHV0J2Wmh3NkNfZGFJeERndFVVUk9mWXJCUkNycC1hcFN5a3dxZnRFRmJlTGdGNVJUMVFScWJER2hjRGxVcEdhTUNCTGFtdDAwU3pEVFIwemhHaXB2Q3hVaS1B?oc=5",
           "pub_date": "Sun, 06 Sep 2026 02:50:53 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "326030-기타-11572-20260906",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "소방관 카지노에서 음료는 무료입니다 제조업 분야 클라우드 컴퓨팅의 해독하기와 트렌드 - Histoire pour tous",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "Histoire pour tous",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHFKVDRiWmplRXZNMFlJSkhiTzFYR0tBSkp1WGM1V1MzR09nYVhmUkl6TGR4TGZJbndIZ3NVdS1USElPM2xyQXBRSGVRcnlLaUlkelFaTURtdEZYbzZneGZ6SUdmMEptNHlVM2pvRUstX3VxbWxJZTlEU09rWjM4djRUdWZGaU9CQUszeHN1SEp3TXRtOXVtUko2ejdZVGNuLUJuTVlRSjV5d0lz?oc=5",
-          "pub_date": "Sun, 06 Sep 2026 04:46:43 GMT"
         }
       ],
       "source_count": 1,
@@ -14052,6 +14112,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "054450-기타-13260-20260907",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "토토 실시간 중계 놀 검소 : 최신 방법론 - 스텝 바이 스텝 가이드 - Histoire pour tous",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcnlJdjN2OVVzNW5XZ2c5RjNJRkxUMVhkMlYxX081UEdiY1l5dHNuVzFTZERmMXl3NXJQWGlJbF9pSlpYemJtd2dvakR0RlhocXl1ZXhPZ0RnQ3hmUXRmSV9HYjhtNjNDeGRlUXN6RXRCYWhZRjZ6eHY0VTk4VWFHek1mcy1mV1FjZ25jZmdmeHFZYXl6OWNZbjJ2OFVLdG1pY3lWNVBwQy1IaXBlWlRNSWV1V2NES2k5eHIxQnpMbVhkazkwRzFpWXlnRWxVOGMxLXUzSE9KVUJGbDA5XzMzUVRHajVtRXhVeDdNUWZOVThsVTVlWkNnNUxsRWhZSmZlelZqZW5VQURTZy1CcTdqQ1l5S3pNTGtpQ2N2VnhNc3lJbFgza2hCeUJwMm9Kc2c?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 05:55:02 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "054450-기타-8030-20260903",
       "category": "기타",
       "direction": "중립",
@@ -14088,28 +14170,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXQzhYQnZvdEdSbzJQdUZRR1F1VXY0N1FFamp6c0tFMnpRU0dXemYyRmlpQ1NuaExtbElzSjEzU2hFN1ViZmx1UXN3WndSSEFJV1JjeklHT2JBNUJOZ1NTeW1vZ3VsWm9UQlZtNC16Z0hNZmvSAXdBVV95cUxQTTRmeFZIN1JraEpCUk5GcHdIT2Qybjk4cmN3LU5MdFlYSVJGU2R2SFJmTlA0c1BSSkNYcUFLR0lBNDQ0U09Edzk1Y2xTekZqY1RSZ01iZUs4aXl0dDV1ZUYyN2lfQ1lwRm9ENVFId2hXMWJSemtZaw?oc=5",
           "pub_date": "Thu, 03 Sep 2026 05:51:27 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-04",
-      "last_updated": "2026-09-05",
-      "stale": false
-    },
-    {
-      "id": "054450-기타-10053-20260904",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "자율주행차 테마 흔들… 상용화 속도 우려에 관련주 희비 - pinpointnews.co.kr",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "pinpointnews.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iTjJvVGNtNnRiMmJMVnRJSjBJSnVHV0NudmpiSThQN3J5RGU1MU51MExFQmVrRDJuSldXS24yVjdjSVBWMTdIaVBUTEwyYVU3QjdMNkdsYkhySzJhVDJIZGxia0xCdGc4cmhyX0wwZ2Y3anBDeDJj0gF3QVVfeXFMT2JOMm9UY202dGIyYkxWdElKMElKdUdXQ252amJJOFA3cnlEZTUxTnUwTEVCZWtEMm5KV1dLbjJWN2NJUFYxN0hpUFRMTDJhVTdCN0w2R2xiSHJLMmFUMkhkbGJrTEJ0ZzhyaHJfTDBnZjdqcEN4MmM?oc=5",
-          "pub_date": "Thu, 03 Sep 2026 06:46:38 GMT"
         }
       ],
       "source_count": 1,
@@ -14583,6 +14643,43 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "166090-기타-8039-20260903",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "2026.09.03.(목) 장 전 뉴스 Check - 네이버 프리미엄콘텐츠",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXlNeWVrWHpha19aaFpjMU9RQXY3V2RmdWMya1hKV0NrNmdTRHV4RklCemJCNnFnNVNXMUh3LUN4aXNheUNQV0JjVFVGbHd5YXIzX09RaVdNdkZZNWdYY1lZMDliS3FRTkV5OTNXVDRjWU1LazVRUXlGRWN0elVNakpn?oc=5",
+          "pub_date": "Wed, 02 Sep 2026 22:42:00 GMT"
+        },
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd244ckEwVDlwYTdsZmdrZHNnWnVDR2twSmpLOFQ5ODVJdG96eVM2TzlzQ2RBNVVCZC1xVEZUeTFfbzlYaE1NTmJVUUVYdWw0X3VkNlRfMDFyMUhQeXc3VVpIcjRlVjVfT09FS0x6dGZLNk1pMXpISmIzellNQVZaSDhR?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 08:10:00 GMT"
+        },
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFZTdy02UGdhUVZMX3Zvd2RfUnpBSDRSa3lvXy1pZXdTTW5tQnlSejdTUXNoZHRseVFmNFVQNHM4YzFpUG1uYXhYMjlGWExnT2VRV2M5cVZTQlhsQUN0OXVmRko3b0RNZ3RnMk1ReGRQWTFGVW1wZEw0dEpjWGlOc0R3?oc=5",
+          "pub_date": "Wed, 02 Sep 2026 20:09:13 GMT"
+        },
+        {
+          "press": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0x5YlVuWm9fQkMyTGRGMEFqcXl0SDlteHFBVldsaFRFUGwxSHR1MGNTQWF5VXVvUFI3eWE0VnEtWFR2bVhMYWluLWN2RUdfR1RXOTNIUVM5bU9xMTNfUTRRNEd3V3VwNWJrNVVvTFpsM0tEOHF5akt0UUt5QlhISzNB?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 22:40:00 GMT"
+        }
+      ],
+      "source_count": 4,
+      "first_seen": "2026-09-03",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "166090-기타-10589-20260905",
       "category": "기타",
       "direction": "중립",
@@ -14705,9 +14802,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MZktId2xLZVZXbDVKbEVBSGFyZUZLaGdCRmZZTWR1RVpOaVFiN19qeTktQVNrM3BhRmVtZk9VX2FCUE16VUxPOFVqVQ?oc=5",
           "pub_date": "Mon, 07 Sep 2026 00:05:06 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mTE9MaDZSdmMxMTRiQXpxcEtnOExSM1Zwak4wbExVcV9Yb3N1T1pReERVNEt2MnJDOEZFb2RhSWtHM2hqQjFFQl8takZfaVRMc0NKSQ?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 00:05:06 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -14727,28 +14829,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "numbers.co.kr",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJZmU0a2RRYWlvMS1EWklEWC14WGg4d1NjRmYyWWRtU0pJMWdldjJjYmd1Z2h6a2NxVjRDTTctenRxVW5OZUFIcE10em4yZUNOZmE0U05BNmljX2xTMDZuX3BrajlJM1ZENVN3?oc=5",
           "pub_date": "Mon, 07 Sep 2026 00:04:25 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-07",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "166090-기타-12155-20260907",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "하나머티리얼즈지회 “끝까지 손맞잡고 반드시 승리하자” - ilabor.org",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "ilabor.org",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjQkJDYUdyMW1tYlROUTdsalRBZGwtanlydUI2cWRnbElzZG44eVBrUkIyX0F4c2FtODlaa05KME5JZ0R4VkFiY2tNVDUzcWRhZGNfMkw3ckVJZTJNNllnNjN1bGpyRnc?oc=5",
-          "pub_date": "Sun, 06 Sep 2026 19:16:50 GMT"
         }
       ],
       "source_count": 1,
@@ -14998,9 +15078,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "네이트",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjYXRsd2ZQTmhOeGJNZG9faXpSTDF6SWg3RXhCc3hZcmpDRHBNSkF5V0kxVkFoOHlvUEIxcUtMTmlHNmFrb3BxaWNOYVRhTXZmS3Jz?oc=5",
           "pub_date": "Sat, 05 Sep 2026 23:30:00 GMT"
+        },
+        {
+          "press": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwak5mc3JIVEZ3M3ZIaVl1RGtSSlp3c1laaWZJczVxcUJBV2RrZ2JLbTBJWFBZWGY1UW93X2Qyc2ozMHNfTEFzRXpyNERyUFB6VkZxeGpCQVFuOGfSAWBBVV95cUxPTEpiWE5ib0NwX083a0czN1dvUWV3Mk54cmdxX2RCVzdLV292TUFmXzIyLUFWOGdqbUp0X3JGWXQ5SG1ZN3lsZTdhN0NvZ3pkZXg0UF9zMkJ5ZGZfeE5ieXc?oc=5",
+          "pub_date": "Sat, 05 Sep 2026 23:30:00 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-07",
       "stale": false
@@ -15336,9 +15421,19 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "아시아경제",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kSEN3eW84SkhXQ2JwcHJ3TGV4WGpReFJzb0FGel9qVG9KSWlKbU9EYzJUaFBHX0VaV0toWGd1U25oU2RrX1p3clg0U0FQX1duYjNHQ014R25QTFAxV20wNg?oc=5",
           "pub_date": "Mon, 07 Sep 2026 01:05:32 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQng2Rkl5bDlRVlFzQ2JSc2pselR1MkFBQ3JoSzMwTm5NdWpEUTJnSF9DYTVxdG52U0RuZmc5blJJNEJEXzU0eG01cnhfTkE?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 22:54:32 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UWWVxdlZQUzZ6bGJrT1JzNjZDQldpSktlT2IzdnE4aks2UGo0Nk90ZTZzY2xCbzhuQmNJbV90emJlSm9JVjJxc3E3ZnFvbnc?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 04:02:03 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -16325,6 +16420,38 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "두산에너빌리티": [
     {
+      "id": "034020-기타-6056-20260901",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[속보] 두산에너빌리티 민간헬기 1대 이륙…실종자 수색 - yonhapnewstv.co.kr",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "yonhapnewstv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rb0RVNkJVT2RjcWFOMHpDTkVXT3BHblltY1VSVjhXd1RaMEpSVGlmSkY1OGJlZmpPcHlMNGUtTDMzdkNjaDhVNnpCSzNrYjJoT3B2WV9YTlZ2alNHUEpZb0RhQ0NnUkE?oc=5",
+          "pub_date": "Tue, 01 Sep 2026 10:18:00 GMT"
+        },
+        {
+          "press": "yonhapnewstv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zOEpoY0pNTzBLdHBoM2JrOUg4aVVxOUJjZkI3WG03Q1I4YjB5ZVc2V2NQSVI5cDA2am1zWVVrbGhrSnZVZ3Z5QlB3TEtJMWpZNEhiUnpUVHRaaWcyS0wwSWRWRXZ0ZWc?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 20:20:00 GMT"
+        },
+        {
+          "press": "yonhapnewstv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DcHZvdTk5VFpsZWdITnJJZ3ZnUFJ6U2RfbjRIZlZxdEg5S3EtX2Q3RVpqV2hFNUh4NUV5VE4yYndrNDBVVTVteklkaFZRaXQtNVlGeU1odGZJbkZPWnl1d0FBTlRDUkE?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 07:45:00 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "034020-기타-6481-20260902",
       "category": "기타",
       "direction": "중립",
@@ -16519,28 +16646,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 2,
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "034020-기타-11078-20260906",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "[네팔 대홍수] 기업대응팀, 46명 투입해 육상수색…헬기·드론도 - 연합뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtVmFZS1lOMHNTOUlmTEpBTUFWazdVNThKQ0RPQ29Ncy1BRDZXMDRQb0xhOUt1M01YNnotUXFIZERZMTFFTHgwS3ZQQXJTUWhXRUQ5ZXVITE5TZ2tSQ21JWtIBYEFVX3lxTFBtVmFZS1lOMHNTOUlmTEpBTUFWazdVNThKQ0RPQ29Ncy1BRDZXMDRQb0xhOUt1M01YNnotUXFIZERZMTFFTHgwS3ZQQXJTUWhXRUQ5ZXVITE5TZ2tSQ21JWg?oc=5",
-          "pub_date": "Sun, 06 Sep 2026 07:23:45 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-07",
       "stale": false
@@ -19019,9 +19124,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "nwww.newsis.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBITjVNZy02WlQxRHF3aEp6aFJ6OF9FY2FiYXF5RUtUcTcwZmdFLUVtTjVHT01YR01XRzkzTngxZE45ZUtMNzlYVHFEUnJxNXY4ZmhvNF9RRnNWZU1LOEtiMEdn?oc=5",
           "pub_date": "Sun, 06 Sep 2026 23:53:06 GMT"
+        },
+        {
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jRkU4VWZLT0lIVy1RYm1nSUNtNE1Xc0dFckFDeDNuVnppLWZZOTJQM21hUG11ZnE2ZEZVcU9VYnpRWUxNeFR3anVNUjZ1NXRLTVE4?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 23:54:00 GMT"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -19635,9 +19745,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nUFBGdVVZajZSZTVGZE5fZUFTR2dXRzlMUmE5eWtqYk9JdXZTXzdRVHRaYlhUVEVxUjQtNE14V1hFUHBraDBaV1g3RQ?oc=5",
           "pub_date": "Sun, 06 Sep 2026 23:23:00 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5va0JTNnlId1VmdjI5b3g1czFQTkhubE1pc2ZrV3lMbGExSGlLNEpTdTdXMGFwZjAyMlBrbG1ZSklLeTdyV0E?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 23:23:03 GMT"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -20988,6 +21103,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "457550-기타-13310-20260907",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "원전주 일제히 강세…한전기술·두산에너빌리티 급등, 향후 추이는? - CBC뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53b1JER3cyeXM0Xy1UNEJud0dPS093cTlMWVVpMkVFbEVucDNhRC1TbERnWlI0RUNTRmJOb1hvMjZpOUdkcWx0NlNPWW1lQnRQUjlfZm4yUG5DQkUwUGd3ZVdjZU44dm1n?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 21:25:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "457550-실적-9547-20260904",
       "category": "실적",
       "direction": "중립",
@@ -21100,28 +21237,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 2,
       "first_seen": "2026-09-02",
       "last_updated": "2026-09-03",
-      "stale": false
-    },
-    {
-      "id": "457550-기타-4791-20260831",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "한수원-하청업체 노조 '원청교섭' 시작 - 경주포커스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "경주포커스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUlFhdkZVRnk5akdXQVBBR2s0aDlrdmlZUVlwNFpsc285V3E2Ym1uZHdXZGtBbjlDNG02eTF4Umttb0Zpa0NhVEl6bk1zT3dtM2tkZWJyMi1vNUhfWTJLMTVUTWRNUC1qMDY4?oc=5",
-          "pub_date": "Mon, 31 Aug 2026 08:00:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-08-31",
-      "last_updated": "2026-09-02",
       "stale": false
     }
   ],
@@ -23064,6 +23179,38 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "리가켐바이오": [
     {
+      "id": "141080-기타-8907-20260903",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "[서울데이터랩]코스닥 시총 상위주 혼조…이오테크닉스 7%대 강세, 알테오젠·펩트론 약세 - twig24.com",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "twig24.com",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZSG5Ed190ZkI2TnVoaTVUcTd2Tnh0dGNtckM0TkoxYmxweUt0UnV0cjdQQWpOajB6b0o4VEdaT3o5bUhlOEhKcUNFcEt3TXFvcWs3Q2VsdVY0aGJnck1KS1BEUQ?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 04:33:00 GMT"
+        },
+        {
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rQXJQajhkZXA3aGlkX1FqUWMtbC0wcXJQRVVqZHY5SldqSW04LVA1cXJRMzJGeE82Z0RmQng4VWtKYXBBOG0wYS1BRXN4VTBZY3l3YXhHTVVoUHNPWUxqaQ?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 04:35:00 GMT"
+        },
+        {
+          "press": "twig24.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lcEpZWVRSSm5iLVBSSzY1b29YeHpqd3gtODVXUFBVUmsxWEJnbnI2QkVfN2tkdlJzWU56YVRCMTItdjhmcU41X3c2SUw2eEJ3bWJEOWs1VktSUnFFWXphd21qWFhpTHhieFMtRE5YTHo2czBjTEE?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 04:48:00 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-03",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "141080-기타-11231-20260906",
       "category": "기타",
       "direction": "중립",
@@ -23220,33 +23367,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
-      "stale": false
-    },
-    {
-      "id": "141080-기타-3268-20260830",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "[표] 주간 코스닥 기관 순매수도 상위종목 - 매일경제 마켓",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMUt4Y1hCSG53NEtqSXZKaEQ2cDVmTnE0TUZMUDktTnBTRF90blRwR0dHUW45b0hYVkpMSVJ3VElOc29MX3JIVXkxSVRnaFZpSHc?oc=5",
-          "pub_date": "Fri, 28 Aug 2026 09:25:08 GMT"
-        },
-        {
-          "press": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLXJDZGdJeUNVNUJscHJpaGpCUXF5THBCOHFxVk1HZTNNcExIclRSNDBxbXp2VzdRLXhYdWJyRTdBU2VNZkptZmRNcEFOOE15V3c?oc=5",
-          "pub_date": "Fri, 04 Sep 2026 09:39:02 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-08-30",
-      "last_updated": "2026-09-06",
       "stale": false
     }
   ],
@@ -23411,35 +23531,25 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "087010-기타-2047-20260829",
+      "id": "087010-기타-13331-20260907",
       "category": "기타",
       "direction": "중립",
       "confidence": "미확인",
       "status": "일반",
-      "is_mere_mention": true,
+      "is_mere_mention": false,
       "needs_review": false,
-      "headline": "[표] 코스닥 외국인 순매수도 상위종목(28일) - 매일경제 마켓",
+      "headline": "삼성부터 경보·유한·펩트론까지…K제약바이오 '케파 경쟁' 사활 - 네이트",
       "source_type": "news",
       "sources": [
         {
-          "press": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xaWNHT3VqakJSZGNGWkJJZlFKMUkwVElWWlo3UFZ0TzlsbkQweTA5WVlzR2tHVmtfNmpEOE1YZGhpRmZsdFFEVVY3Q0ZnSWJoX3c?oc=5",
-          "pub_date": "Fri, 28 Aug 2026 06:47:23 GMT"
-        },
-        {
-          "press": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lNmtqVzVwQWJiZm5NNklVYUx6UjZsWTRad2dJdzljVGdkajNGbFlESF9JTFFESFdpbXFrWEt0TmNoYkNYWnhNTUd0VlY1X2d5Nmc?oc=5",
-          "pub_date": "Mon, 31 Aug 2026 06:45:32 GMT"
-        },
-        {
-          "press": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zQ3ZOZFpnNF9OeTVqZi1VdzhLcDh0a09RUGVOQVF3UVlKU2VxaU84STNyN1VTcXZyajhnQlBKWFVnNjRDY2hHUmZMaGdzSjJzQ3c?oc=5",
-          "pub_date": "Fri, 04 Sep 2026 09:38:52 GMT"
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MTklVRElpb1lFbExZWUh1RVg2clNOLXQ1cjNIWElTNnhxYXdicTJHeFhUMll0Zm9IWlBtZW5pRUdyTDRLbTNBMTZzS0ZNaUhRdTVv?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 21:01:00 GMT"
         }
       ],
-      "source_count": 3,
-      "first_seen": "2026-08-29",
-      "last_updated": "2026-09-06",
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
       "stale": false
     }
   ],
@@ -24490,9 +24600,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "약업신문",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pWThTSzRrZFdpTUU3UlJnYU83LUo1UV9QS3RMM3ltYkVYNWZqSlB4Q1NQU2lxU3AwX3RNbW1Td09pZnVlcEhEeUFONmluUDdnUERkdHRsQzVQTnZTSTh6S3JVbXlWNEk5?oc=5",
           "pub_date": "Sun, 06 Sep 2026 21:01:00 GMT"
+        },
+        {
+          "press": "약업신문",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rVEQzYTBOMmsyQ1IzWmF1cjAwejNuT0xYRlVOOE12NEV2VHRCZ1A0VWRoQlZ3WkxRVFVnXzFXUWs5V2ZHSmEtTnR0NmNqZDBHekZNSWJIeGRRSXdjbkV2R2x5UjBldw?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 21:01:00 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-07",
       "stale": false
@@ -24740,6 +24855,38 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "큐로셀": [
     {
+      "id": "372320-기타-9059-20260903",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "큐로셀 ‘림카토’, 약평위 통과…연내 건강보험 등재 절차 본격화 - PRESS9",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "PRESS9",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YRVI2c3BwX3ZYSnZkaFFYUERfVjNwTUctZXBaMnJZSWVfS2dOckdGU3VLS3IydjRLTDB0YzM5ZW53NHlzUm5CYjU4MHI1WEdsZmpxV3kxa3B4NjhQbzBlWjdlNVU?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 23:21:29 GMT"
+        },
+        {
+          "press": "e-의료정보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYTRsb0FrN1REWkxaUVo3UmZ4N1FlVVZtaTBlMi1JRFhLWnpENV9jbWtLMUMtUjRhSHJNTjRxOFNBZ3phOHRBNUJ4M2h1UmQzN0dnWm5uR3lPUmhwc1F1MUJyNllRVzM0SW4w0gFvQVVfeXFMUHZ2bjNMZUZEVW4zWklEZ1hVR0hJV0puUGhBSUZpOVFXZkNWUnVtN1J3YkFKWHV0em5pSkVSd3NVc3RiUVhnUFZ2emN5VWxZcjJHbWFfU196VkxLbnQzdVpJemJIbFhXeld0NUxQMlNj?oc=5",
+          "pub_date": "Fri, 04 Sep 2026 00:02:16 GMT"
+        },
+        {
+          "press": "리얼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTUFwMC1pMW1ZSGtGZGg2R2Y1TEZyZWdWb1dZeFl5dDNMb1BmTlBzLU04NTdDM0RVZG9BOExvNVlYRlV2dmMyR2k4Q1NqcWtLdXE2cFZZUVNpazllSVpsU3ViVGRqX2EzR185bA?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 03:42:00 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-03",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "372320-기타-9060-20260903",
       "category": "기타",
       "direction": "중립",
@@ -24947,28 +25094,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-07",
       "stale": false
-    },
-    {
-      "id": "372320-기타-11261-20260906",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "오늘 트윈스 새 역사 도전, 임찬규 \"100승 달성하면 감동, 전혀 생각 못 했다\" - 일간스포츠",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "일간스포츠",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VR0t5YkNHaFBqZkVXTnZOai1sQVBlZWhQYTVxOWllcDlLZk01TEYyR1NRZUJxZnpJcThQZlhwdGpsRzJUMTJJak1sLXZwS0VxVHhXTi1GbDY1bFZoMlV4dDZB?oc=5",
-          "pub_date": "Sat, 05 Sep 2026 23:42:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-07",
-      "stale": false
     }
   ],
   "지씨셀": [
@@ -25093,6 +25218,50 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "144510-바이오-13336-20260907",
+      "category": "바이오",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "FDA 문턱 넘고 빅파마 딜까지…K바이오 '글로벌 인재' 확보전 - 네이트",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDTGVZX01GdThTenBrUXBOc2NwNHZ0SXVkeW9Hb3dlWmJONG1aM281RWdjU2dscmhyLW9zRGl0QWhNeTRKUmhkN0xVZ0hwS2o3al93d01hOFc1endhUDRnaUZURUlxbUdoQW1Lb2JZczloTS01cFRvTQ?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 21:05:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
+      "id": "144510-기타-13337-20260907",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "이상균 크레오에스지 대표 \"면역항암제 개발 속도…난치성 고형암 치료 가능성 확인\" - v.daum.net",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSRTFRaFp5a0JyV2Q2Q0gwMEhjNmpKUGd0NTdpYmVKanBjMEsxMFdWRklPVDNBVENaQkxMS0gtNHlPM0hiemtmSHB6V0FDZnc?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 22:37:49 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "144510-기타-9061-20260903",
       "category": "기타",
       "direction": "중립",
@@ -25116,50 +25285,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 2,
       "first_seen": "2026-09-03",
-      "last_updated": "2026-09-06",
-      "stale": false
-    },
-    {
-      "id": "144510-기타-9305-20260904",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "K-조선 8월 점유율 7%…'85% 차지' 1위 中과 격차↑ - v.daum.net",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocnJaMUxFTFptaExTX0p0aV9ySUZqamxwVDNfNElxVUZORk5xQzVwNlhUT25vcUdldTV5TW54OGZGcW9jYUJNS2d4NUVuMzg?oc=5",
-          "pub_date": "Fri, 04 Sep 2026 00:48:50 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-04",
-      "last_updated": "2026-09-06",
-      "stale": false
-    },
-    {
-      "id": "144510-수주-9637-20260904",
-      "category": "수주",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "뷰티 넘어 건강기능식품까지… 코스리거글로벌 수주 대박 예고 - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHX3B0NVJ5cmVPVlNCZFdzc0FWN0c0YkZSWEc2dFhVcVMwOXE3R2Fka2lFbmdfN1JsMExnWm5WYkRZU1lGcXZseXpSMXFvWTlNSzlXWjdlejZJZFpSaFRxRUV5QldsSm9fdl9BWms1WVhFZDdOZ2xN0gF3QVVfeXFMUEdfcHQ1UnlyZU9WU0JkV3NzQVY3RzRiRlJYRzZ0WFVxUzA5cTdHYWRraUVuZ183UmwwTGdablZiRFlTWUZxdmx5elIxcW9ZOU1LOVdaN2V6NklkWlJoVHFFRXlCV2xKb192X0FaazVZWEVkN05nbE0?oc=5",
-          "pub_date": "Fri, 04 Sep 2026 01:20:28 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-04",
       "last_updated": "2026-09-06",
       "stale": false
     }
@@ -25564,9 +25689,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "중앙이코노미뉴스",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54bHBQMk94OEhBNVZrbjNKWGR0VHEtUUwyUmNCMHJnSkJWTDRwVmhQZTI3eGNjVWVudGJ5MWRaOFJ0ZFN5Z3pDQ0lOTmE1SG8zbTZBajNJWW1oNVdJV3RZa1o5YjdfVnlCVG5KUUFKeFBFUQ?oc=5",
           "pub_date": "Mon, 07 Sep 2026 00:49:34 GMT"
+        },
+        {
+          "press": "seenews365.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54V2l3dW9OY3RheGZLSVNFV2U1UEdNLV9zMlhac2VrbWNCa3dQZUpnZnE0T2xzMHFzelJVWUVCYkZJSjIxQkJXQkFmT253Y0RUSFFIODh5d3cxUXdabE1YLU95R2pGQ0hneGFFWS1oRDfSAXBBVV95cUxOeFdpd3VvTmN0YXhmS0lTRVdlNVBHTS1fczJYWnNla21jQmt3UGVKZ2ZxNE9sczBxc3pSVVlFQmJGSUoyMUJCV0JBZk9ud2NEVEhRSDg4eXd3MVF3WmxNWC1PeUdqRkNIZ3hhRVktaEQ3?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 01:37:00 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -25910,7 +26040,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "278280-기타-13233-20260907",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
@@ -25921,9 +26051,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "OSEN",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OZ2xVX2Z3VTBwOUhKN214NUpEbTl2Qmt1NVloYXRlcDhuTnNqM2hXWWoyZW0zMWEza1Q2R2tLZzlZemJtMURvZ0pQZThnSG1WUUtXdg?oc=5",
           "pub_date": "Mon, 07 Sep 2026 19:30:00 GMT"
+        },
+        {
+          "press": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xdl8yXzVxR1dkTmIwYnVaTHh6bWs1MmRnZS1PT0N3azZFNWd6czNoWjZKc1hqdU1SUVBUVlJ5dF9YMFoyWGQzRWFFMlB5U0hibWtORGlBX0pEMjVDdW8teHhrVGVqUzAyM3FzQ2V2RdIBb0FVX3lxTE5Xdl8yXzVxR1dkTmIwYnVaTHh6bWs1MmRnZS1PT0N3azZFNWd6czNoWjZKc1hqdU1SUVBUVlJ5dF9YMFoyWGQzRWFFMlB5U0hibWtORGlBX0pEMjVDdW8teHhrVGVqUzAyM3FzQ2V2RQ?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 19:30:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -26198,6 +26333,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "393890-기타-13350-20260907",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "우주 슬롯 프로모션 코드 제조업 분야 클라우드 컴퓨팅의 해독하기와 트렌드 - Histoire pour tous",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13RnZhS3F4RFIwamlZbjhVRERaSl9XRjVOaFVRQ3dUS09mZHR3Z2hTTGVleUNXelF5aHFBSWNreXV0U1RMQTExWVFhVjM3LVRtM3NHdmg4dGRxUGE4VEpXRjhoRWpOZWN1TElZOGtnX3Vuam1MWWFv?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 17:24:54 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "stale": false
+    },
+    {
       "id": "393890-기타-1516-20260828",
       "category": "기타",
       "direction": "중립",
@@ -26253,43 +26410,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 2,
       "first_seen": "2026-08-29",
-      "last_updated": "2026-09-06",
-      "stale": false
-    },
-    {
-      "id": "393890-기타-6140-20260901",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "01일, 기관 코스닥에서 카카오게임즈(+12.15%), HPSP(+1.59%) 등 순매수 - 네이트",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "네이트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jUVFWQnJJbW5TYTZ6ZWhrTC15YWdUVENXbFU2OVMtWkNSQXNJbkR3MGpod3JmYVJ5MjlnVGdRLUNkblRMci1jczB0MXp4NlBPb1IwYU1ESExOQVU5R3l0dg?oc=5",
-          "pub_date": "Tue, 01 Sep 2026 09:36:00 GMT"
-        },
-        {
-          "press": "씽크풀 AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Udld3djhOVFlyM1BBOUk4dmU1NmI4YjdNQ3RBUFRETHUxaHR2SGhwMnEzLUhJZUhKVW5QMVB3WGJad0k2ZWQ4SDFIWVB6MGlHRk1OUmhkRC1OV2t1bkxZemtMcDZteXdX?oc=5",
-          "pub_date": "Tue, 01 Sep 2026 13:05:39 GMT"
-        },
-        {
-          "press": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN0JRM24zT2hlSV9OcmR3NUdwWGF1VU9KOC1zWGpfVmxZaW5rYWNhQi1PRVlQLThPX1RZT25HYlgxTnkxTHNyamt2TzdaOTVwczlWNV9RU2h5dw?oc=5",
-          "pub_date": "Tue, 01 Sep 2026 09:35:25 GMT"
-        },
-        {
-          "press": "씽크풀 AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9za3YyZ3hxcXIzZE1URzZOVnBhQkFDNjN5RWNvc2VvdUdKOVF5d3lkX2ZuX0lhdG9GMEt2RERKU1R1NENVQkFSSUlyUEk2TzNpT1hPX0RKOWxkdnlGQ1pNVjIxTDFQVWIw?oc=5",
-          "pub_date": "Fri, 04 Sep 2026 20:14:35 GMT"
-        }
-      ],
-      "source_count": 4,
-      "first_seen": "2026-09-01",
       "last_updated": "2026-09-06",
       "stale": false
     }
@@ -26416,9 +26536,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2ak5tQ2t5OHFkSXZ5N0JzcVZSMEIwVVhpQTltSWZadk0zdjdIbF9mQXpURkJmWEZlTUVKNVBMR0U2MFZ1OUdObUZlRS1RdGdJenlhUg?oc=5",
           "pub_date": "Sun, 06 Sep 2026 23:39:00 GMT"
+        },
+        {
+          "press": "파이낸스스코프",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02QVA0VTJST2lKeVpSSk1Odi1PVS1EMHZXYUN4ZWVyNFRDWVlPTjZTVDZxYjRuWVNabFVCcXNhVmVCRWRYZTZzbERTVzNvbTVIUHBITmNucXNxN3gzT0RKcHk2N25hM3FYc0tv?oc=5",
+          "pub_date": "Sun, 06 Sep 2026 23:15:27 GMT"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
@@ -27419,9 +27544,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OeFZQcldKR2RGNG5MUVpVRHlxSlhlX3RVOUdaRV85OEdQUkN5bTZrWk9FcHRUQjczbldZMTFiUlpFOGVPTHE0WGRMQ0t3OTUzVU91WFZ3NlBZd3RacHRibXVaOUZ4Sk5BREV3NWFOVnhuT0pWSVVN0gF3QVVfeXFMT054VlByV0pHZEY0bkxRWlVEeXFKWGVfdFU5R1pFXzk4R1BSQ3ltNmtaT0VwdFRCNzNuV1kxMWJSWkU4ZU9McTRYZExDS3c5NTNVT3VYVnc2UFl3dFpwdGJtdVo5RnhKTkFERXc1YU5WeG5PSlZJVU0?oc=5",
           "pub_date": "Mon, 07 Sep 2026 05:29:23 GMT"
+        },
+        {
+          "press": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CYVlGQjFHa0U3cExKRGlvUXlxd083MkNxUzFGTms5dDNIRGNoTURCS3haYXhEcmt2SHBwb05aTWM0V0hTZDc3aDFFR20zX1ZfME5vTkRHNmVtM3RCdkpvUGVLNno5QlAyZnhHeVpPTnhxc2fSAXdBVV95cUxPTnhWUHJXSkdkRjRuTFFaVUR5cUpYZV90VTlHWkVfOThHUFJDeW02a1pPRXB0VEI3M25XWTExYlJaRThlT0xxNFhkTENLdzk1M1VPdVhWdzZQWXd0WnB0Ym11WjlGeEpOQURFdzVhTlZ4bk9KVklVTQ?oc=5",
+          "pub_date": "Mon, 07 Sep 2026 05:19:52 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "stale": false
