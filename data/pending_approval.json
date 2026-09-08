@@ -16702,9 +16702,14 @@
         "press": "노컷뉴스",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jdGxabk5mc1F1VWthM0VwbG9tTy14N1piSXhBWHRQNWFPREtUOG1UdjR1b0RQeks3Y2tWWXp5Slp5dWR1M0l0bWFXZHo5MGx4akE?oc=5",
         "pub_date": "Tue, 08 Sep 2026 05:44:42 GMT"
+      },
+      {
+        "press": "비즈월드",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrRTc1X3BBOUU0UHEtQjFTbEtIUlhsQ1VUUXZnbU9xTHdtQnZBMjJPZFJXSGdTVmxOTm1pTVZfZW1hNWpzRkRjMFE0SW5xZ0VyNV8xV1Jvck05d0NsWFFkeW5ETW9fUVI1TWhZ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 11:22:00 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "068270-기타-13590-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17215,7 +17220,7 @@
     "sector": "AI 반도체",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "온디바이스 AI 인프라 확산…에이디테크놀로지, 시스템반도체 수주 확대 기대 - pinpointnews.co.kr",
     "source_type": "news",
@@ -17224,9 +17229,14 @@
         "press": "pinpointnews.co.kr",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yanMwWU9XMExuZEIxODh5eGI4MzJiTGJCZEh5VmFlYktlSmR4RGE5MHdmQjZYbk54aGdwNUdpX1hfMjlnOXBNNzFkSTBpM3BSZUJaeENob0N0NnVBOWJjaDhsa0V5TVF0c3hKSGJtbm5pTG_SAXdBVV95cUxOYjN4R2NOdFFRT1d5U2E5S2daX2sxTS1heUlCaEpZX0FPaHc4dXJUUTZXMmY1TlNhQTA2SmhGMURJcXJCYnhMTWxGMjBFcFBZSTRPclN5cUNlVm56Rm13QW1ocWFRZ1R6dVZmMXVYLXhzVUszYzdfMA?oc=5",
         "pub_date": "Tue, 08 Sep 2026 05:52:34 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iM3hHY050UVFPV3lTYTlLZ1pfazFNLWF5SUJoSllfQU9odzh1clRRNlcyZjVOU2FBMDZKaEYxRElxckJieExNbEYyMEVwUFlJNE9yU3lxQ2VWbnpGbXdBbWhxYVFnVHp1VmYxdVgteHNVSzNjN18w0gF3QVVfeXFMTmIzeEdjTnRRUU9XeVNhOUtnWl9rMU0tYXlJQmhKWV9BT2h3OHVyVFE2VzJmNU5TYUEwNkpoRjFESXFyQmJ4TE1sRjIwRXBQWUk0T3JTeXFDZVZuekZtd0FtaHFhUWdUenVWZjF1WC14c1VLM2M3XzA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:01:30 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "200710-수주-13754-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17489,9 +17499,14 @@
         "press": "press9.kr",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95SmZfT3NlTkRTVlVMcmpnWHZtQ3lQV3ZNX0N1UlB4OXdsSnFwQ3N4Qi1jMnVuY3ljX000V2dGZVpkRDRTV2Zwc3lHYTIxS1h1dWJORWExdG56VVRDeVNCMUJlMHQ?oc=5",
         "pub_date": "Tue, 08 Sep 2026 06:31:56 GMT"
+      },
+      {
+        "press": "press9.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAya1hLem9NWkpQS3JWaFV6dFg5UjBPcm9PdEZtYWtEMVRzTEkwcG9TUFhnV3lmQWJKZWFKZ0xpeFNUbGxhRjZoRHlxRnpXS2xSQ1JsQVFuYTRlR3A1WHMxYnBnM19Hdw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:31:56 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "226950-바이오-13977-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17789,9 +17804,14 @@
         "press": "시사저널e",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ERnRHRklHOUhyY0lDdUtJWDZ3aE1DXzZTOFZ5TXo4VklmNm52SmZDdXdETWNWSUtMMmVWbldCcW9iZHEzc25PLTZHNUdDa1RBY1otd2N5aGt2VHhnUURLd1NCQ2RKa21fT2RWN3BkNUxoZWlsNXfSAXZBVV95cUxPREZ0R0ZJRzlIcmNJQ3VLSVg2d2hNQ182UzhWeU16OFZJZjZudkpmQ3V3RE1jVklLTDJlVm5XQnFvYmRxM3NuTy02RzVHQ2tUQWNaLXdjeWhrdlR4Z1FES3dTQkNkSmttX09kVjdwZDVMaGVpbDV3?oc=5",
         "pub_date": "Tue, 08 Sep 2026 08:22:12 GMT"
+      },
+      {
+        "press": "시사저널e",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91ampRNUtYaGNNQWp3UnBBMGwtUmFuNUZVUjZnWXVzMnIyVHlFZTB1STROQlBtelA3X1czZ21kdTFQeGNxWHd3UmlCNmNQaGlPejd0ODFrSzBYSno0c1dWS0poU2V3WC0teG5lVXNEaHlsd9IBdkFVX3lxTE9ERnRHRklHOUhyY0lDdUtJWDZ3aE1DXzZTOFZ5TXo4VklmNm52SmZDdXdETWNWSUtMMmVWbldCcW9iZHEzc25PLTZHNUdDa1RBY1otd2N5aGt2VHhnUURLd1NCQ2RKa21fT2RWN3BkNUxoZWlsNXc?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:56:32 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "207940-실적-14233-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17924,9 +17944,19 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rdHRBMTZvRTFKNC15cG9sZHVEQjFZNXk3RDZMSmoyTk9nVGdHdERjS19sdl9wVGhqTFdUUjlvdWFRTzIyRUZqTVhhOTdTcklCRTZzWkNyLUVIcUQzLUJ3U0RYb25GUGhJRGhnSmFlSlY3OXpCb3pudjk2Y1jSAXxBVV95cUxPa3R0QTE2b0UxSjQteXBvbGR1REIxWTV5N0Q2TEpqMk5PZ1RnR3REY0tfbHZfcFRoakxXVFI5b3VhUU8yMkVGak1YYTk3U3JJQkU2c1pDci1FSHFEMy1Cd1NEWG9uRlBoSURoZ0phZUpWNzl6Qm96bnY5NmNY?oc=5",
         "pub_date": "Tue, 08 Sep 2026 07:03:03 GMT"
+      },
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zOUFYTktuUW9xck12LXYwRWpqNWNEcFRkbTNpOEhzTHBlOTk4cUNTREl2RVVlNlJoLURUOEhwNTg5T01CdWY0T3VGcTQtX255WEJONVVaa1d3M0pMbWxEaVI0TDJhSTc5aFBR?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:50:29 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdFhFcjdVakIzbGNndzZIQWhHRnNPN0ZPN1FoRnpSaGZFa3FnMXpXYnBqTHVmSEJpV2tTbFJRMVR0SkJZU2FNd1I4TDFzcjQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:40:08 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 6,
     "id": "226950-바이오-14280-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -18011,10 +18041,140 @@
         "press": "네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfZWFYbjVJclpCcndSSkx4SkJQV1NaaDdVaHdPM0EtTHRxaWtoS3VVLTlsNFpteDdYdzNyeUctbmVfOHF6VXJaUlNLNjl4MmhocGxR?oc=5",
         "pub_date": "Tue, 08 Sep 2026 09:57:00 GMT"
+      },
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEZWNUdTNmY5NGE0OEUzVW83YTJVTjJLWTFTZElDYXljLUMwUXdVcU9QT0JvY1h0WUFWRldQOGVOX2NYcl9pSzRqeEZjUkhCbUx1TVVEa1ppejl3M0lCd1dibnBTTWtDdU1nd3V1V0JmTjVjc0pJV3UzOHlmanlCMw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 13:00:56 GMT"
+      },
+      {
+        "press": "Nate News",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZnJuRE93aVFaM1FIUGpJR0JVNzRUZmVFNEhwLXVFY0JPWE15OWtnakpxMzFIendfWGlEX0VzamlJSC1sVFo1NjZHRWpKZTNBR3RR?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 11:10:07 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 6,
     "id": "066970-기타-14315-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "미스트랄, 삼성전자 주도로 4.7조원 시리즈D 투자 유치…‘주권형 오픈 웨이트 AI’ 본격 확대 - aitimes.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "aitimes.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fcUMxLU9vQ0NLSW5aVDNCek9zclFMTjY3UlNqQ2dZQnFoRUVVcFc1d1FTaVlEZnd5SnhNSUttLW44RXRrT3ByZHZudGhjUzFkOTZBUklRVzZ4cW5TWUEtSHNWSXR0U0E?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 14:02:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-14341-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온제약, 황새 서식환경 보호 나서…생물다양성 보전 활동 확대 - 약사공론",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "약사공론",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XMDVFbGdzMTR1YVR4Tmt6RTJ0VERZWmpSWFFKdm5IQUs3NGJQYkp6bV92cGJWQXU2YVlRX3RCdUZqbXJmM2pmRm95Zmd2YWZJS0xGb3hCeGhnSU1URFBrVFRQNFJzR3Bia2l4Rw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 08:18:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-14390-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "올릭스 \"탈모치료제 임상국 확대…뉴질랜드 추가\" - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CZDgwUVRPamRsRkhFSlFwOTZnYUcyUzRJZENVcmFOOHhDN29xMEVsc2ZCSGg2Tzd0LVNiOHFsQnY3bU5iT2Q5dkdPTC05QVY5U1JsNkRmY2hlVUlmdHp6bdIBeEFVX3lxTE9UcE1LeWxjTTByQlJvRFhocndDWk9KZW4zbEdrTkVJMlY3OUdoV0JBaFg2aGJiWC1oNDUxZVhidmVIME9lQXduSk9KOEVRR3pZd3JvdVh1SnZXUVRHQndmVjBobUltdkhJaXZaSE9PMmNWd3JvTk1xVA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:22:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-바이오-14393-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행, 레이저티닙 처방 확대…기술이전·API 수주 주목 - 메디파나뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41djFTZks0dzFqckFfOFh0azhmQmRFNHdubFZZS25nWDB2dGNVZHduQV9QazRBUmpFSWRlVlM0YUF0MU5HSmZBcTBiVVh4bjluVVhJNHpWT2tHOUdPMmVhMnlWMVpua3d2TFI4?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 01:22:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-수주-14396-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[뉴스락 주식네비] 유한양행, 레이저티닙 매출 확대 기대... 기술이전·API 수주도 '주목' - newslock.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "newslock.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WM0J2RzRPdkh2ZW9lUU5tWm5iQThtNERKMFpZTktaemZ2Zi1mb1ViRTFnV3B4aG04czgwMlp0Mm5wSVJtbzZxRzE0WWxMWjRRM2JrN3RZUlpHNVZ3Yk1Pa0RrX3YySE1DLXJvSg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 01:43:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-실적-14397-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
     "status": "일반",
