@@ -17634,9 +17634,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYm0zZnNrSU53UWJlTmtBNGF0TjhpUTdXdEtGcFREbkZBblBZOFp5NmxZalVhbTYyUmswcnJwX3pNOUd5Z3lfODU4YVRybTdLT3BacQ?oc=5",
         "pub_date": "Tue, 08 Sep 2026 05:46:06 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wdWtqeE5McENGYkl3OWtNcWZ6OUw3Q0RUOWVmZjNYczRvVHgxMEQ0R0ZlWFNZVW1QdVNfRDB6Z2sxSkltZFFHTWNXYlZxLTQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 05:46:06 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "011790-리스크-14034-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17723,7 +17728,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "美 원전·가스발전 동시 확대…두산에너빌리티 ‘양쪽 수혜’ 기대 - v.daum.net",
     "source_type": "news",
@@ -17732,9 +17737,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0YmxqRmlxTGh2S0xqS3phTWVSalpORW9la3pYS3lVTF96Q01ncGJ4eXBwTjRWRk03eXg5bnNZelRncjREc0NlSGZMRkZfTzA?oc=5",
         "pub_date": "Tue, 08 Sep 2026 07:51:00 GMT"
+      },
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zOXRiVS1WYTRtZ1NxcEJkQjN1WFZ4WU9ham01LURpclNzWnNKVEEtdkZYcTU2SEJQeHF6ZUdnWmtUd1BZTjI2dDktemZMaDc3TE15UkZkM3RPLVlHTGhQb1hZQVRxcnQtQVlhclQwX1lPS2pB?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:50:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "034020-기타-14153-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -18002,9 +18012,14 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wS1J1R0FGZER5U0g2ZnIxMDhDdnh6cFkwcEZxV0VIcGtWU05SVnkwMExCQnZiREhWQUU0eEVyRmhLVGE4V3VlRWZLbkdVWkl0ejMxLU5JWi1tTjVfaFhPMmlXX3pmS3lJZVFodmREdTfSAXBBVV95cUxOMEtSdUdBRmREeVNINmZyMTA4Q3Z4enBZMHBGcVdFSHBrVlNOUlZ5MDBMQkJ2YkRIVkFFNHhFckZoS1RhOFd1ZUVmS25HVVpJdHozMS1OSVotbU41X2hYTzJpV196Zkt5SWVRaHZkRHU3?oc=5",
         "pub_date": "Tue, 08 Sep 2026 07:23:32 GMT"
+      },
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xLUFrR2Z1TmVkX0EzUmdqMXdaaHJFVGF3Y3VrVFFRVS1YUHFiLVdMUUVlWTNXa0lDOUZJTzVCN1Bkbm1nY0xET2U2MGlTb2lCTFZXcDZVWlJOOHBFNUk1U1h4TmVPSnppSHV5OdIBcEFVX3lxTE4wS1J1R0FGZER5U0g2ZnIxMDhDdnh6cFkwcEZxV0VIcGtWU05SVnkwMExCQnZiREhWQUU0eEVyRmhLVGE4V3VlRWZLbkdVWkl0ejMxLU5JWi1tTjVfaFhPMmlXX3pmS3lJZVFodmREdTc?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:20:46 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "226950-바이오-14282-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -18175,6 +18190,88 @@
     ],
     "source_count": 1,
     "id": "000100-실적-14397-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결 - Samsung Global Newsroom",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Samsung Global Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZE5RR29ubmp2TldxejEwT3ZLMmJQcHFBT3JxWno4ZHhXd1RtY0JaSnJaVU1wQzBEOXpxb0VaX0xwcHhJckNoRUE2ckdZcjV1OGo4b3JraDJzNjVYYjk1S1phVUNJX3VIN3N1OVl4OWhLemVvTjZ1MmpQZFRKUVJwcU96RWZTTC1vSUxYSjhBYTA3czlYQUZKTWJmSkstWkJyS3B1ekdYal9lNU8waXdJZzVVQ2RnclR5NmwxdGhMMVFOeTFsc1pHZk1uYzNFZVAwem9SUEZpZkxsLVp6MUtXOGdVWGZhc1IzektHa1djRERrOFZUV3B1YmpobGxnMjNwX2syYlBnTWN3LVFRNnpYMnBKVTZqMjNzQ2cwMEY1clZQZ0k?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 16:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-14404-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "K 반도체 프랑스 AI로 만든다…삼성전자, 미스트랄과 전략적 파트너십 체결 - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WZUZyN0ZuOTVUb3VZUWNTcWhHMElZRkZTdEwyRzNFR3BfUzdRWDltdm9fd3hlTEVSVFpSdThSdUxxVWFKOUZkd05oQmxjN3l6SkRVUjZMSEdoZ3Y3V2RZcEQ1RFRDcHhrSTE1T0ZJYTFiOFdx0gF0QVVfeXFMTVZlRnI3Rm45NVRvdVlRY1NxaEcwSVlGRlN0TDJHM0VHcF9TN1FYOW12b193eGVMRVJUWlJ1OFJ1THFVYUo5RmR3TmhCbGM3eXpKRFVSNkxIR2hndjdXZFlwRDVEVENweGtJMTVPRklhMWI4V3E?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 16:50:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-14407-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "유한양행, 레이저티닙 처방 확대…기술이전·API 수주 주목 - 메디파나뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41djFTZks0dzFqckFfOFh0azhmQmRFNHdubFZZS25nWDB2dGNVZHduQV9QazRBUmpFSWRlVlM0YUF0MU5HSmZBcTBiVVh4bjluVVhJNHpWT2tHOUdPMmVhMnlWMVpua3d2TFI4?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 01:22:32 GMT"
+      },
+      {
+        "press": "뉴스락",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WM0J2RzRPdkh2ZW9lUU5tWm5iQThtNERKMFpZTktaemZ2Zi1mb1ViRTFnV3B4aG04czgwMlp0Mm5wSVJtbzZxRzE0WWxMWjRRM2JrN3RZUlpHNVZ3Yk1Pa0RrX3YySE1DLXJvSg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 01:43:06 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MaXhVVnlJdFlxSXNvNVRxRVlKZnQ3YkFrZzR6c2plQm01YzlYeGV2Q1NtY29WemEzZ3hzUHJVQnNKa3JYby1MQ0U4WXNTLVlKX0FjM1JiZ0Ztb2g3bmdXaURGeHA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 00:37:05 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "000100-실적-14450-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
     "status": "일반",
