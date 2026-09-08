@@ -7488,12 +7488,17 @@
         "press": "minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qODFzNk1pdmRpdTBmWGhaRXV4VlNNc3N0X2c0NFVSamNCVldGdDRuWFdoYXZRbjlmNEIteWVkbl9MY2o1MFpRck9XeGdHbVNBOUVhX1NkY0x5b3JtTUd6aDJMTWhEWWhENFA5bQ?oc=5",
         "pub_date": "Mon, 07 Sep 2026 07:25:59 GMT"
+      },
+      {
+        "press": "minsimnews.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBadmpDN3VoNmdVaVR1LW9oV2luOUctSEJveWhtSFNMRXZIWG96cnloSlRRMnJndy1xbjBwU1JVY0wzWlNCWkdkdE5EcllZSXRnc3pzTTYzaHF0MU1Vd1VZMWpwNlNLMW9BZ3NvYQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:50:56 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "010120-기타-6047-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "status": "일반",
     "stale": false
   },
@@ -16876,7 +16881,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "유한양행, 만성 자발성 두드러기 치료제 '랩시도' 한국 노바티스와 유통·판매 계약 체결 - 팍스경제TV",
     "source_type": "news",
@@ -16885,9 +16890,14 @@
         "press": "팍스경제TV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMm5iOW9nTERuOWg4OUtOTGlIa3FGMFFRYjBpMGkyRHdkb0xTWFUxR1pLU0hmYW8wTjVGX0NlUXVseGJRVE55S1UtaEt3X1FIRUhIaEhUUXRLZkdSdXFwRFRTU0hHTi1f?oc=5",
         "pub_date": "Mon, 07 Sep 2026 23:20:39 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UVmJfc19RS0RvWUlybHYyaFo2Q19IcWFhQWc0S2Z6OGRJbFU4OGFfemZ1SjIydVdjd3M3Vmh2eU05MnZfLWNtZlFGVVZWbUZuSTJCZ245SzFES3c0OFdSdtIBYEFVX3lxTE5UVmJfc19RS0RvWUlybHYyaFo2Q19IcWFhQWc0S2Z6OGRJbFU4OGFfemZ1SjIydVdjd3M3Vmh2eU05MnZfLWNtZlFGVVZWbUZuSTJCZ245SzFES3c0OFdSdg?oc=5",
+        "pub_date": "Mon, 07 Sep 2026 00:26:19 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000100-기타-13642-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17349,7 +17359,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "펠라카르센 3상 실패…에스티팜, 내년 상업화 물량 확대 전략 차질 - 뉴스핌",
     "source_type": "news",
@@ -17358,9 +17368,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tdzJfcDk1TU9KN29idWRXWEFicUM0TXFfdmRaR1g5ZTUtajZ2Q2dNT0FPYzhOdm45SXAzZE0wQ2dnRmFHOXhRS2tJWWczSkFEZUFMRmhMbGgxVlFI?oc=5",
         "pub_date": "Tue, 08 Sep 2026 06:38:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pLWY2X2VMdHNkSFQ1dHBNeGRSUjFsTkJOTExaUU9MNlVqZXVvVlBVOWhSQUQ5a3UzVnlnSjFrX1hJeHNxWndSeTRNTER3bm8tRXEzUkc4ZEtmUUppUGg5Z05UMy1LdmZaZFRneXlYUEx3T0RaWDNOMA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:41:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "237690-기타-13965-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17411,9 +17426,19 @@
         "press": "newsis.com",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CZDgwUVRPamRsRkhFSlFwOTZnYUcyUzRJZENVcmFOOHhDN29xMEVsc2ZCSGg2Tzd0LVNiOHFsQnY3bU5iT2Q5dkdPTC05QVY5U1JsNkRmY2hlVUlmdHp6bdIBeEFVX3lxTE9UcE1LeWxjTTByQlJvRFhocndDWk9KZW4zbEdrTkVJMlY3OUdoV0JBaFg2aGJiWC1oNDUxZVhidmVIME9lQXduSk9KOEVRR3pZd3JvdVh1SnZXUVRHQndmVjBobUltdkhJaXZaSE9PMmNWd3JvTk1xVA?oc=5",
         "pub_date": "Tue, 08 Sep 2026 06:22:31 GMT"
+      },
+      {
+        "press": "MEDI:GATE NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQeERtcV82SHpuZU1iNDJ3Tzl6Y2JTWlVaWTJYZlBRalRuMTBxUXBDbS11R3ZQZnNwV09RYjI1OTZQb3NKdk9sTEZuNGZRdkY0NDZqYk1LOA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:09:00 GMT"
+      },
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zOUFYTktuUW9xck12LXYwRWpqNWNEcFRkbTNpOEhzTHBlOTk4cUNTREl2RVVlNlJoLURUOEhwNTg5T01CdWY0T3VGcTQtX255WEJONVVaa1d3M0pMbWxEaVI0TDJhSTc5aFBR?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:50:29 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "226950-바이오-13975-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17426,7 +17451,7 @@
     "sector": "바이오",
     "category": "바이오",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "올릭스, 탈모 치료제 2a상 뉴질랜드로 임상 지역 확대 - MTN 머니투데이방송",
     "source_type": "news",
@@ -17435,9 +17460,14 @@
         "press": "MTN 머니투데이방송",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pdllxWGF5TlBlcVJ6WTRNd1pMNkNZemduV2tuY0dCcTZEWV8wS3JsQThoa0ZxTHZHeWJFSkJSbG1UakRYZ1pHXzUwUkcwYUt0bzVsOUlJLVEyRlcwWHB6clphWjA?oc=5",
         "pub_date": "Tue, 08 Sep 2026 06:41:25 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5MEU2bmlfbGtjQUR4OW4zSUoxOXZCdFEzNzNYRlVtWVh6dzl0dU9ha1pRR0U5aUNMVnB5UFE3R3RlaXpNQVZPTFJXS1lCTWc?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:43:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "226950-바이오-13976-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17546,7 +17576,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[AI 대전환 리딩 전략] 엘앤에프, 하이니켈 넘어 LFP로 외연 확대 - 네이트",
     "source_type": "news",
@@ -17555,9 +17585,14 @@
         "press": "네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQkpFSGlQb2N1b1JIWG85djZwUFI5X1JfYktCMWpFaFRSUUFhZG5aUy1kOFFkSUJTMlNDLXNRYm5zRVJMalNxM0w4M2l4THBXbm5B?oc=5",
         "pub_date": "Tue, 08 Sep 2026 05:01:10 GMT"
+      },
+      {
+        "press": "블로터",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEd0NlM0JlWXdROUxpNFNwY2g0LXRFcVZhdVdjeG51ak9ZZDB0MF9fMjZZbWZMbTBSSmFkTTFKUzgtRzhpbVFoUENCdTlXcUVxRk1lZjBCa1AwdmM3Y1FDWFRLUUJkSF9wX3RBTtIBbEFVX3lxTFBEd0NlM0JlWXdROUxpNFNwY2g0LXRFcVZhdVdjeG51ak9ZZDB0MF9fMjZZbWZMbTBSSmFkTTFKUzgtRzhpbVFoUENCdTlXcUVxRk1lZjBCa1AwdmM3Y1FDWFRLUUJkSF9wX3RBTg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 05:22:14 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "066970-기타-14026-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17570,7 +17605,7 @@
     "sector": "이차전지·ESS",
     "category": "리스크",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "'3년 적자' SKC에 무슨 일이···동박 반등·유리기판 '투트랙' - 뉴스웨이",
     "source_type": "news",
@@ -17579,10 +17614,407 @@
         "press": "뉴스웨이",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBQnRXUFROZlI5Y1dYT2J1dm82VklGUzgxTU5nVEhfYUlHMmg5N2NObFNlek1IeGRwSXZjX2JNU242eml1UEg0dlFKaUhQb25Yel9IV2c2aHZKQXhpbVdwcC1KY1lpc1Fp?oc=5",
         "pub_date": "Tue, 08 Sep 2026 05:45:05 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYm0zZnNrSU53UWJlTmtBNGF0TjhpUTdXdEtGcFREbkZBblBZOFp5NmxZalVhbTYyUmswcnJwX3pNOUd5Z3lfODU4YVRybTdLT3BacQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 05:46:06 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "011790-리스크-14034-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "최대주주등소유주식변동신고서              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800624",
+        "pub_date": "20260908"
       }
     ],
     "source_count": 1,
-    "id": "011790-리스크-14034-20260908",
+    "is_correction": false,
+    "rcept_no": "20260908800624",
+    "id": "005930-기타-14047-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, ASML과 High-NA 협력 확대…2028년 D램 양산 적용 추진 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93TWRHcGZsRW5EQlhBbTZLdGdXU0pMUTZNa1VmT3Itd3NleGpBbXJPM2dVemdPWjVxNUltWlpCNnZvNFRRTm02STgtZXB5QQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:57:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기술-14065-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 북미 AI 전력 인프라 확대…“데이터센터에서 전력망까지 풀 라인업 구축” - CEO스코어데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO스코어데일리",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UNnFlYUVyZUx5T0V6ZHhFQ1NUR2lsZUJEVnBmY3dqSFQ4N3ZMOVl5VlZuYXhsbU9idWNmRUY3LXVnYWFWaTJJUlhiMUZhcUxkQ2ZEb29NWENGTTFnRzN1eDEzYlhOdVVu?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 08:35:13 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-14138-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "美 원전·가스발전 동시 확대…두산에너빌리티 ‘양쪽 수혜’ 기대 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0YmxqRmlxTGh2S0xqS3phTWVSalpORW9la3pYS3lVTF96Q01ncGJ4eXBwTjRWRk03eXg5bnNZelRncjREc0NlSGZMRkZfTzA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:51:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-14153-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "로보티즈 10%이상주주 김병수 대표이사, 소유 주식 수량 36만6525주 감소…소유 지분율 2.53%p 하락 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HVGRWU0ktcFNhMWFlQWE2b1V0em1TVjJ5UFF2SFJBazlUWUZvVkpuZ0lVc3N1QWdBUHNYWEtEeldHYTlGYXdmSVNzZzYxdElHWWZQYmcwNmpmYVJJN1RuaEdsUGRDWEx5dGNza1ZDaUd1cDQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 09:02:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "108490-기타-14170-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전기술-인애이블퓨전, 핵융합에너지 사업협력 MOU 체결 - esnews.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "esnews.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2TTA4aE5jR29JaHc0R0VHY1VTeUxadHJkbmllaDdOYmZSR2szY01RMmljMm1fQnQxcEtBTUloWXJxd2lpSE41Z2FvN0x2ZmNfWjBLMzRzN3NBOVhEaUVnZEJhUlo?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 08:18:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-14191-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "파업에도 최대 실적···삼성바이오로직스, 달라진 협상 셈법 - 시사저널e",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "시사저널e",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ERnRHRklHOUhyY0lDdUtJWDZ3aE1DXzZTOFZ5TXo4VklmNm52SmZDdXdETWNWSUtMMmVWbldCcW9iZHEzc25PLTZHNUdDa1RBY1otd2N5aGt2VHhnUURLd1NCQ2RKa21fT2RWN3BkNUxoZWlsNXfSAXZBVV95cUxPREZ0R0ZJRzlIcmNJQ3VLSVg2d2hNQ182UzhWeU16OFZJZjZudkpmQ3V3RE1jVklLTDJlVm5XQnFvYmRxM3NuTy02RzVHQ2tUQWNaLXdjeWhrdlR4Z1FES3dTQkNkSmttX09kVjdwZDVMaGVpbDV3?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 08:22:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-14233-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "바이오시밀러 '임상 완화' 수혜…셀트리온·삼성에피스 \"파이프라인 확대\" - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JSnRMSjJZNy1ub0s3V1R1TkVneTR0YjdudEk5UHhmOWg1cEM5SjFHOVRrMnowZDNuVlRtZUxVSWM0dkN2TUVaVHN4ZXBNTFo3c19qVjRmYklDVjZvdUlJQ21ZbmJISnRxbEF3Z19DQdIBb0FVX3lxTE1JSnRMSjJZNy1ub0s3V1R1TkVneTR0YjdudEk5UHhmOWg1cEM5SjFHOVRrMnowZDNuVlRtZUxVSWM0dkN2TUVaVHN4ZXBNTFo3c19qVjRmYklDVjZvdUlJQ21ZbmJISnRxbEF3Z19DQQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:47:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-14245-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 바이오 스타트업 발굴 日로 확대...차세대 기술 찾는다 - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FWGVaVlYtZDNHQUU5Z0lSUFBZZm1Gck1ZbVhxUFN1YjR5ZldUOTFBRjY1dnZiVVZQUjlMMHlLczR4eDdBZDdzSlJBVG45NWNTNk1TQmdoNnZudC1RR3c?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:57:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-14246-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알테오젠, 기술수출 명가 입지 구축…조 단위 대형계약 체결 실적 ‘청신호’ - ER 이코노믹리뷰",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "ER 이코노믹리뷰",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yU1ZYTGotQnlaS0ZMcXdtQmk1cDhTNk1nNW81bnctSEFLWGhUQms1Y0h1cjdxZVV4WW9BdUE1NGN3M0l2ZUVTVkNGTV9zbnRCTEZKR2ZNT1BWNXFjNmNDTVNHQU40MXRJMnkxUg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:54:09 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-실적-14259-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[HIT알공] 올릭스, 탈모치료제 OLX72021 뉴질랜드 2a상 승인 신청 - 히트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51RFVEVFJXSmozc2FjYzYwSG9iVXBtSnRwXzFKVlUxb3laS1VZaUlsQkpiZGc1WWFtTFBia3h1YjZoclJwUmJQRTRfQm50QmVoMWViNXNOS3ZRQUxjTUI5N2NzdHhhX2h0N2ZJ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 09:07:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-기타-14279-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "올릭스, 탈모치료제 임상 2상…뉴질랜드로 확대 - 비즈워치",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈워치",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VGp6U0dsVTRZSlV0TFJuTnRrYjBWOTZtM2ZIeW81YWZoLXI0bHRScGVQX01zZ0IwVnpqV2NPQ3hqSUV1cmdYaDZXOTZEd2pOX2tjakVueVA5ZXpuY3hFRWdCaDFINTd0aDA0UlVjZw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:38:09 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWnZEN2xIWlRTS1dGcGw4VHpvVDJtRS00cGNJeDdzeEJuV2thMWg3a0Vjb2VIQ2ViclJya21ON1U5ZWFCWmo0dVl0bTcxejBuOHpnLV9HaDRYbGgwa293RmM1OVQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:49:31 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAya1hLem9NWkpQS3JWaFV6dFg5UjBPcm9PdEZtYWtEMVRzTEkwcG9TUFhnV3lmQWJKZWFKZ0xpeFNUbGxhRjZoRHlxRnpXS2xSQ1JsQVFuYTRlR3A1WHMxYnBnM19Hdw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:31:56 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rdHRBMTZvRTFKNC15cG9sZHVEQjFZNXk3RDZMSmoyTk9nVGdHdERjS19sdl9wVGhqTFdUUjlvdWFRTzIyRUZqTVhhOTdTcklCRTZzWkNyLUVIcUQzLUJ3U0RYb25GUGhJRGhnSmFlSlY3OXpCb3pudjk2Y1jSAXxBVV95cUxPa3R0QTE2b0UxSjQteXBvbGR1REIxWTV5N0Q2TEpqMk5PZ1RnR3REY0tfbHZfcFRoakxXVFI5b3VhUU8yMkVGak1YYTk3U3JJQkU2c1pDci1FSHFEMy1Cd1NEWG9uRlBoSURoZ0phZUpWNzl6Qm96bnY5NmNY?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:03:03 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "226950-바이오-14280-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[공시 Pick] 올릭스, 탈모 치료제 임상 확대 소식에 강세 - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NmlNVENkQ05DTlRMVXB2TWJ0RnppbGs3MklzTXJjbmY0VUFxcnNzTXBDMlk2cDI0SEZRUU8zNGJKRVI4a3lFUkxJU3pGMDctVFFYX3JOdHpEbkZHa2c?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-바이오-14281-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "올릭스, 탈모 치료 후보약 ‘OLX104C’ 2a상 뉴질랜드까지 임상 국가 확대 - 더바이오",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wS1J1R0FGZER5U0g2ZnIxMDhDdnh6cFkwcEZxV0VIcGtWU05SVnkwMExCQnZiREhWQUU0eEVyRmhLVGE4V3VlRWZLbkdVWkl0ejMxLU5JWi1tTjVfaFhPMmlXX3pmS3lJZVFodmREdTfSAXBBVV95cUxOMEtSdUdBRmREeVNINmZyMTA4Q3Z4enBZMHBGcVdFSHBrVlNOUlZ5MDBMQkJ2YkRIVkFFNHhFckZoS1RhOFd1ZUVmS25HVVpJdHozMS1OSVotbU41X2hYTzJpV196Zkt5SWVRaHZkRHU3?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:23:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-바이오-14282-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "엘앤에프, CB 발행 검토…하이니켈·LFP 성장 대응 재원 확보 - 디지털데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WTERmZFI1bFdaVGsxUnJXNW5KcUpuS3JKcVdjTWpDa0RzTnBza20tc2xpTU9IZ0YtQ3VPUmxvZmIxZDg3MGM4cU9scl9DV3YzajVmRlBqemNkOS1IRS1CaHdZR2Q?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 11:09:22 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSnFIbDFzYkdBZUtsVG9Iend4VU1QM3BwQUhTanY1eU9BXzVnR1AyUDIySy0zTGd3RVY1cDBqNnNfQnZtT2d6VWdLVDIyZGMtdWdyMWF6aVVjZDBRSzBSLXdGZTZQWFE2TGfSAWpBVV95cUxPWEpxSGwxc2JHQWVLbFRvSHp3eFVNUDNwcEFIU2p2NXlPQV81Z0dQMlAyMkstM0xnd0VWNXAwajZzX0J2bU9nelVnS1QyMmRjLXVncjFhemlVY2QwUUswUi13RmU2UFhRNkxn?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 09:56:50 GMT"
+      },
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd19wWW5WQWRRSENKMDR0QjFvZl9sd3hPdU81dllWQTV0WXRQUG1ENXAzdVZneThib25HZVhxdDZMMFhud0JmaWxsVGRnNmliQ3duNWo0a3o4cnRLUEdNSlhhTGROWW11MVV3ZTBrT1NOMFF2dG5LVGdnTGlJM2J0VERNMVU3QkdnMEhGUnpvS0ZlQlhQRlkwSUJCclpQeUZ2TEpPY3c4QmE4VWNaenRVaWMxYU16MXBTMnRTN09IbkZQWnhMNTdwSDFVbDNDWnhPQjVaM0R3VkNPYWhFN1JSenNNMWJTRUxRMWJETXJn?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 10:10:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfZWFYbjVJclpCcndSSkx4SkJQV1NaaDdVaHdPM0EtTHRxaWtoS3VVLTlsNFpteDdYdzNyeUctbmVfOHF6VXJaUlNLNjl4MmhocGxR?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 09:57:00 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "066970-기타-14315-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
     "status": "일반",

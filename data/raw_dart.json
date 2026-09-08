@@ -1,5 +1,18 @@
 [
   {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "최대주주등소유주식변동신고서              ",
+    "rcept_no": "20260908800624",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800624",
+    "is_correction": false
+  },
+  {
     "company": "HPSP",
     "stock_code": "403870",
     "sector": "AI 반도체",
@@ -65,6 +78,32 @@
     "is_correction": false
   },
   {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+    "rcept_no": "20260908000386",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000386",
+    "is_correction": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임시주주총회결과              ",
+    "rcept_no": "20260908800531",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800531",
+    "is_correction": false
+  },
+  {
     "company": "대한전선",
     "stock_code": "001440",
     "sector": "전기·전력",
@@ -88,6 +127,45 @@
     "rcept_no": "20260907900233",
     "rcept_dt": "20260907",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907900233",
+    "is_correction": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260908800422",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800422",
+    "is_correction": false
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260908000413",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000413",
+    "is_correction": false
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260908000406",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000406",
     "is_correction": false
   },
   {
@@ -136,10 +214,75 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260908000428",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000428",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260908000415",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000415",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260908000412",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000412",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "주식등의대량보유상황보고서(약식)",
     "rcept_no": "20260908000138",
     "rcept_dt": "20260908",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000138",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260908800440",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800440",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260908800423",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800423",
     "is_correction": false
   },
   {
@@ -335,6 +478,19 @@
     "rcept_no": "20260908000125",
     "rcept_dt": "20260908",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000125",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "풍문또는보도에대한해명(미확정)              ",
+    "rcept_no": "20260908800619",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800619",
     "is_correction": false
   },
   {
