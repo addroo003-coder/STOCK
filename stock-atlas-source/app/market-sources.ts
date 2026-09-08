@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "전기설비·산업환경 급변… AI로 전기안전 가치 높인다",
-      "office": "파이낸셜뉴스",
+      "title": "한국의 ‘에너지 중심’ 투자, ‘AI 총력’ 미국 수요에 부응",
+      "office": "경향신문",
       "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572887"
+      "url": "https://n.news.naver.com/mnews/article/032/0003469216"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -297,10 +297,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "10대 그룹, 2년간 17兆 사업 처분…미래 투자보다 리밸런싱 치우쳐 [시...",
-      "office": "서울경제",
-      "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659829"
+      "title": "“AI 로봇 신기해요”… 삼성SDS ‘리얼 서밋’ 행사",
+      "office": "동아일보",
+      "date": "20260909",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746642"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -471,10 +471,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "‘제조’ 넘어 ‘연구·협력’으로… 송도, 글로벌 바이오 오픈 이노...",
-      "office": "디지털타임스",
+      "title": "삼성바이오 노사 1차 사후조정 마쳐…15일 2차 조정",
+      "office": "SBS Biz",
       "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046896"
+      "url": "https://n.news.naver.com/mnews/article/374/0000531857"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "미스트랄AI, 삼성전자 주도 투자로 4.7조 조달…기업가치 33조",
-      "office": "SBS Biz",
-      "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531854"
+      "title": "[속보]삼성전자-미스트랄AI 투자 협약…4.7조 투자 유치 주도",
+      "office": "문화일보",
+      "date": "20260909",
+      "url": "https://n.news.naver.com/mnews/article/021/0002817297"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -783,11 +783,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "196170",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "반복되는 기술수출, ALT-B4 가치 재평가",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260903_company_359168000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95988&page=1&searchType=itemCode&itemCode=196170",
-      "date": "26.09.03"
+      "title": "이제 계약 보다 실적으로 봐야할 때",
+      "broker": "하나증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260908_company_54288000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=96042&page=1&searchType=itemCode&itemCode=196170",
+      "date": "26.09.08"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
@@ -1785,10 +1785,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "\"나라를 위한 헌신 잊지 않겠습니다\" 포스코퓨처엠, 포항 학도의용군...",
+      "title": "임직원 봉사시간 두 배로… 포스코퓨처엠, 지역과 따뜻한 동행",
       "office": "파이낸셜뉴스",
       "date": "20260907",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572269"
+      "url": "https://n.news.naver.com/mnews/article/014/0005572268"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "中, ESS 신규 공장 승인 '전격 중단'…K배터리 반사이익 얻나",
-      "office": "이데일리",
-      "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365774"
+      "title": "불황에도 사람은 뽑는다…제조업 채용 키워드는 'AI 융합인재'",
+      "office": "더팩트",
+      "date": "20260909",
+      "url": "https://n.news.naver.com/mnews/article/629/0000531986"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "10대 그룹, 2년간 17兆 사업 처분…미래 투자보다 리밸런싱 치우쳐 [시...",
-      "office": "서울경제",
-      "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659829"
+      "title": "미·EU는 빗장 건 중국 스마트카, 한국 군부대·칩공장 누빈다",
+      "office": "중앙일보",
+      "date": "20260909",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550019"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
