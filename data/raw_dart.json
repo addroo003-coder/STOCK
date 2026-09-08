@@ -65,6 +65,19 @@
     "is_correction": false
   },
   {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260908800194",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800194",
+    "is_correction": false
+  },
+  {
     "company": "LS마린솔루션",
     "stock_code": "060370",
     "sector": "전기·전력",
@@ -114,6 +127,19 @@
     "rcept_no": "20260907000192",
     "rcept_dt": "20260907",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000192",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20260908000138",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000138",
     "is_correction": false
   },
   {
@@ -221,6 +247,32 @@
     "is_correction": false
   },
   {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "바이오",
+    "title": "[기재정정]투자판단관련주요경영사항(임상시험계획승인신청)              (안드로겐성 탈모가 있는 건강한 남성을 대상으로 OLX72021의 안전성과 유효성을 평가하기 위한 다기관, 무작위 배정, 이중 눈가림, 위약 대조, 다중 상승 용량 제1b/2a상 임상시험 계획 승인신청)",
+    "rcept_no": "20260908900218",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908900218",
+    "is_correction": true
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260908800264",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800264",
+    "is_correction": false
+  },
+  {
     "company": "휴젤",
     "stock_code": "145020",
     "sector": "바이오",
@@ -273,6 +325,19 @@
     "is_correction": false
   },
   {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260908000125",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000125",
+    "is_correction": false
+  },
+  {
     "company": "엘앤에프",
     "stock_code": "066970",
     "sector": "이차전지·ESS",
@@ -283,6 +348,19 @@
     "rcept_no": "20260907800340",
     "rcept_dt": "20260907",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800340",
+    "is_correction": false
+  },
+  {
+    "company": "더블유씨피",
+    "stock_code": "393890",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260908900154",
+    "rcept_dt": "20260908",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908900154",
     "is_correction": false
   },
   {
