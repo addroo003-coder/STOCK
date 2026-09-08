@@ -16663,9 +16663,14 @@
         "press": "yna.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mU001NEJrVWtWRGhGR2luYUlacHlBYmlKS3lVbGlyQ1RTd2lxMk5TRnd0ZXZkUEdwU245ZkE2OTNBVHU0RlE4bXlOay1YYkZXaUJnMEZ3UmJadlY5R1hwQdIBYEFVX3lxTE1mU001NEJrVWtWRGhGR2luYUlacHlBYmlKS3lVbGlyQ1RTd2lxMk5TRnd0ZXZkUEdwU245ZkE2OTNBVHU0RlE4bXlOay1YYkZXaUJnMEZ3UmJadlY5R1hwQQ?oc=5",
         "pub_date": "Tue, 08 Sep 2026 00:52:24 GMT"
+      },
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pQ0ZoR0VoMkRhSGdjZHpTWG5LSWlxR0E4VGhZUWlKaTBuNVBQNC1jY0IySjQ3TXE4TndtUEdsQU1ucnFmOGhiTTd2UlN4LVhzVkptb3dlU0hlZGdhQXk0elB5azdwUTJSTTE3MDBHc1hhSzVN?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 20:00:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-13589-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -17446,9 +17451,14 @@
         "press": "히트뉴스",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zOUFYTktuUW9xck12LXYwRWpqNWNEcFRkbTNpOEhzTHBlOTk4cUNTREl2RVVlNlJoLURUOEhwNTg5T01CdWY0T3VGcTQtX255WEJONVVaa1d3M0pMbWxEaVI0TDJhSTc5aFBR?oc=5",
         "pub_date": "Tue, 08 Sep 2026 07:50:29 GMT"
+      },
+      {
+        "press": "catchnews.kr",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bk1Uek5zckNNbVJZMEE2NmQ1Ym16VjBYSjhDN1dxczlNZFpEak5PLUdTZDhYWnMyTmJoT0h5SHZ4NFVBYk92cVViUERnckZiUHNtNmN0c24yUkM0NThrbnZGNS05clptQmZz0gFvQVVfeXFMUE50MF9HMW9ueXJQTlFwbVhBeWxHYnkwT191Vk5hV1VmZFhWMmxwN3k3bHRsajhNOU1YV1BTb1ZTcVBYZ2VNSUgtcnh4bGpOdTZtV290RU9LcmtFam5wOEl6b09qNUVXYW1nUWhTenJF?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 08:16:46 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "226950-바이오-13975-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
@@ -18272,6 +18282,30 @@
     ],
     "source_count": 3,
     "id": "000100-실적-14450-20260908",
+    "first_seen": "2026-09-08",
+    "last_updated": "2026-09-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "직접고용 앞둔 한전KPS 하청노동자 \"선별채용 철회\" - Nate News",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Nate News",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YYWlHeVlENmlCRnlsTlU5ellYRXdKOGtUVXpLY200U3JLMzRBRjZaVkx2NUhvV1NwV1JZM2Q1M2ZWdGFWa01sVjRRVld0Y0JXX1pZ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 21:33:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-기타-14488-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-08",
     "status": "일반",
