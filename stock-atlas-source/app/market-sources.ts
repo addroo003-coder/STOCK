@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[속보]삼성전자-미스트랄AI 투자 협약…4.7조 투자 유치 주도",
-      "office": "문화일보",
+      "title": "삼성전자·ASML ‘D램 동맹’… 日에 첨단 패키징 연구거점 구축",
+      "office": "서울신문",
       "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/021/0002817297"
+      "url": "https://n.news.naver.com/mnews/article/081/0003678193"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -631,10 +631,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "바이오시밀러 '임상 완화' 수혜…셀트리온·삼성에피스 \"파이프라인 ...",
-      "office": "머니투데이",
-      "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410985"
+      "title": "셀트리온, 日 바이오클러스터와 스타트업 육성",
+      "office": "서울신문",
+      "date": "20260909",
+      "url": "https://n.news.naver.com/mnews/article/081/0003678254"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "미·EU는 빗장 건 중국 스마트카, 한국 군부대·칩공장 누빈다",
-      "office": "중앙일보",
+      "title": "AI발 메모리 반도체 수요 급증, 2분기 D램 매출 60% 뛰어",
+      "office": "동아일보",
       "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550019"
+      "url": "https://n.news.naver.com/mnews/article/020/0003746722"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
