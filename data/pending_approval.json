@@ -14121,12 +14121,17 @@
         "press": "뉴스티앤티",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WGp6b0JISEY5dFpNUmo3dlRucU94dFloaFp3b21DMjdYN0RMdUdobUpKNU5ldmlYQnpWdmdVUXBnTWRpUGJNUGZRc3RCaVlWZzdSWlVkR184QkNLNDMxd3REN3EzX25YUlE?oc=5",
         "pub_date": "Fri, 04 Sep 2026 11:57:23 GMT"
+      },
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQOTRLVHpXSHRTVUt4a0RyVTZFNnpSZ1hyUWdmdi1mNE05bzNQc24ydVY3Y0p2UE10dnJfcEV1Mno2UEZyRFpCeXdldWNWTkxLYUdBOVRTQnJWakVMQ05lbWxBYWxvVURka2c?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 11:27:15 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "032820-기타-10111-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-09",
     "status": "일반",
     "stale": false
   },
@@ -17797,9 +17802,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zOXRiVS1WYTRtZ1NxcEJkQjN1WFZ4WU9ham01LURpclNzWnNKVEEtdkZYcTU2SEJQeHF6ZUdnWmtUd1BZTjI2dDktemZMaDc3TE15UkZkM3RPLVlHTGhQb1hZQVRxcnQtQVlhclQwX1lPS2pB?oc=5",
         "pub_date": "Tue, 08 Sep 2026 07:50:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VRFZpalVqYnRqQ3IyR3lWNUROYUNndFhpM2FVc1NQWGc1aDNLZXNSRjJYLW9ZekJobHRvVGhXblctYUUwX3J1UUw1NkRma1BYZU1DUg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:51:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "034020-기타-14153-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-09",
@@ -18969,9 +18979,14 @@
         "press": "파이낸셜포스트",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03ZnBQVHVYTDRvUlE2Y05xVVp5d3BmMUJTTWxMRDlua0gxZ0V1Zk9jamVWMmFvWHV6TDktbk4zSWYzUlc0My1VcVFOckdvcE9MVFdObjdCRmM1Q1Rnc0FvUzgxWlFzb19NZXA0cHdheGR5aGl3?oc=5",
         "pub_date": "Tue, 08 Sep 2026 22:53:51 GMT"
+      },
+      {
+        "press": "asiae.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yWTU3M1ZUOGFyaC1oUW1hb1RteFplTTk0OHBJdGpJd0hrM0MxVVhYdFV5ZnlEX2hpUFpkcm1qcVFqZGNMa2ZIdl9UN2U3aWhkREtSS0xhUzRSMURETHQ3Rg?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 00:23:54 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "196170-기타-14705-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19181,7 +19196,7 @@
     "sector": "AI 반도체",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "심텍, 소캠 매출 및 고부가기판 비중 확대로 실적 상향 - mdtoday.co.kr",
     "source_type": "news",
@@ -19190,9 +19205,14 @@
         "press": "mdtoday.co.kr",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XRy1RTlVfTFczYTZkU3VGWG5POWFqWjRuOXJXRExDaFNPY3lFZ0tvZzhqRnFsZW50M1FQekQ0Ml9PRkdFWndldHJBbWRyeG4tYWN6U0drX0hUYWZmYXhXdUZVVENkRkFPYkM1bA?oc=5",
         "pub_date": "Wed, 09 Sep 2026 01:21:17 GMT"
+      },
+      {
+        "press": "알파경제",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CdzlLUXRlX1lLUkFnWmJYLUNFYWEyTWZCSXhDaXpGUWtVamlQNTZfQTc0X2N0YUlfcWtGQkpiUUdjYW1zOFlUODFKSGliUXJoLW8tN1Fnb3Jqd2dtOTFwWC05clZmaVUweVI2aDBR?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 01:21:17 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "222800-실적-14861-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19608,9 +19628,14 @@
         "press": "주간한국",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9waUtzYWZZUnZkMXFFVWNrY3NJWDZqdmozYThqbllsNy1SblJwNU8wQ25hUl9CUkp3QTJDUm50WlZpdlBtb2NVNmpBaTJYRkZGbTdOWVIyWkNOS1Y1S0s2NDFEcUNLaXZ4Z1ZBdDd0eWLSAXRBVV95cUxOOUp0eUhEWThCUkVaR2pQQVRXQkhrNXF0WGgtemxBOVQ0OUNFaDc2QTZrbU9zcWZUM0F0ckhLN3I3WHU1VTFiMXdSRjE4RjZpeDdCNTBmX1Q1ZE5wTDlyS1dEOUQ0NHdRRWZjalpjZnNoWnVmRw?oc=5",
         "pub_date": "Wed, 09 Sep 2026 07:49:45 GMT"
+      },
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SnR5SERZOEJSRVpHalBBVFdCSGs1cXRYaC16bEE5VDQ5Q0VoNzZBNmttT3NxZlQzQXRySEs3cjdYdTVVMWIxd1JGMThGNml4N0I1MGZfVDVkTnBMOXJLV0Q5RDQ0d1FFZmNqWmNmc2hadWZH0gF0QVVfeXFMTjlKdHlIRFk4QlJFWkdqUEFUV0JIazVxdFhoLXpsQTlUNDlDRWg3NkE2a21Pc3FmVDNBdHJISzdyN1h1NVUxYjF3UkYxOEY2aXg3QjUwZl9UNWROcEw5cktXRDlENDR3UUVmY2paY2ZzaFp1Zkc?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 08:28:47 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-기타-15190-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19632,9 +19657,14 @@
         "press": "아시아투데이",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HOEdKYjJUWW5FRDJleGtnMTdzVXQ1VExrc2VKaG9YMTVBQnptQVlKbVVCOVZ3bVVpOGFtTzhfanp1cXhBNUJBR2xEdlRPV2FtSm5wampFejhlMzlVLTFYOEs4V2dRTEhjYjhsOHBR?oc=5",
         "pub_date": "Wed, 09 Sep 2026 09:07:26 GMT"
+      },
+      {
+        "press": "아시아투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IUjVINW5lYzl5TnF5dmlWTjZCOUlTc0xrVFQtaWdYRF9yZ2lGajhlWkdLRnVpRm44NlN2X29kX01OWUc2SXE0Nmt4UndlS2thVHBHUUpTdVlNZkpZYmVHX045WXg1bzNaYUlZeg?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 09:07:26 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-기타-15192-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19647,7 +19677,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "기술",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[급등수사본부] 액추에이터 양산 일정 앞당기는 방안 추친 '삼현' vs 대미투자 원전→ LNG까지 확대 가능성 '성광벤드' - supple.kr",
     "source_type": "news",
@@ -19656,9 +19686,24 @@
         "press": "supple.kr",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tdFNyQTVZXy1FVjRIZWJyVmprejI4OGV5dkJ6allDOUtpQ3NYZVJEYkFwWEQtVFVRZEQ2alBEa1ZjX3Z4cnVITEhZWWt5enpyV2xTZFRmLUJEaHlt?oc=5",
         "pub_date": "Wed, 09 Sep 2026 10:12:04 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFUDdrRDZQaUpOSWRPUkduZWs3V0Fsczk4UDZicnlzUnZnTGh6UGhCY0VjRFJLSkVla2Y1QTZjMFNtSjZaWFd4REgxUHhhTk9jV1RNZDNCS05vNC1MamlLdHlKN0oyQ0R4RVZfX2VB0gFuQVVfeXFMUEVQN2tENlBpSk5JZE9SR25lazdXQWxzOThQNmJyeXNSdmdMaHpQaEJjRWNEUktKRWVrZjVBNmMwU21KNlpYV3hESDFQeGFOT2NXVE1kM0JLTm80LUxqaUt0eUo3SjJDRHhFVl9fZUE?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 10:12:04 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnNWFkOE9nV1FUTVQxcEM2SDVZNkZQY1NXb1ZsUnJXTEI3Q1BEVU5sODJDTkVQUkdUZHJ2ZU9JYl9CcVExOHNzUzFwb0xVSGM?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 10:08:00 GMT"
+      },
+      {
+        "press": "Nate News",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GazQ5ZWxSdE96MndLaERQU1dpZHdoeWFlVE1ud0EwaXhTY0E0eGUzald6VDJqajdTYW5IT2hpbk0tQXpFdERtNDdTYk1UQ05lcjY4?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 10:13:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 4,
     "id": "437730-기술-15279-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19728,9 +19773,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OblYyVkRTR3lyZ05BX1RyZ294Ym1CRExIS0lseU9RQWl0SXl6RlFsMzJuTjNXNC1zTVFYY1FfWGdHOXd6QmhHY2IwXzdGRWs?oc=5",
         "pub_date": "Tue, 08 Sep 2026 22:47:04 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPZGFCZjd3eVFLNV9fUUNPTmJDaFBKZjJuenhJN0NoY3JWcHBIck00SVhxLXA4dDctNnVLYUZDdDRsWHBKdWc?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 22:47:04 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "196170-기타-15359-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19828,6 +19878,54 @@
     ],
     "source_count": 1,
     "id": "011790-리스크-15442-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "클로봇",
+    "stock_code": "466100",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "클로봇, 주주 삼성자산운용 측 주식등 보유 비율 1.37%p 감소 - digitaltoday.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "digitaltoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EeTk2djIxdWtnTnJfcExXM1ZNUDFTUWs2Q0JkaE41OXNKVERDVjdjeEVUa3hfLWlrLTdFOEtpUG5Fd2ZvQjhxaXlWbS1uTnJVZURIQ2x3RHJJYUJBemVVa0NncU1kdW5UR2tVdUl2Z1c5Ylk?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:44:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "466100-기타-15498-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에스오에스랩",
+    "stock_code": "464080",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에스오에스랩, WSCE 2026서 '3D 라이다 기반 실외 빈 주차 안내시스템' 선보여…\"1대당 최대 50면을 감지하는 특성!\" - Nate News",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Nate News",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9feHhsVGF2VTctNTh3OEpKZzNxWjBTV3ZTb3U2ZHZDNmRucFFnU0dra0lQTHNlYzl1UENSVlc5V01vZTFXVDNJTXFiRzBJRUs4VDdF?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 10:24:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "464080-기타-15500-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
     "status": "일반",
