@@ -237,10 +237,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "\"미국 원전 부활의 핵심 열쇠는 한국\"…현지서 확인한 'K원전' 경쟁력",
-      "office": "뉴시스",
-      "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/003/0014180271"
+      "title": "천문학적 자금 투입 한·미 ‘원전 빅딜’ 기대·우려 교차",
+      "office": "국민일보",
+      "date": "20260910",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871988"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "이재용 회장, 모친 홍라희 보유 삼성전자 718만주 매수",
-      "office": "조선일보",
-      "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997530"
+      "title": "이재용, 모친 홍라희 보유 삼성전자 주식 1.9조어치 매수",
+      "office": "동아일보",
+      "date": "20260910",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746982"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -683,11 +683,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "222800",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "시설 투자 공시 코멘트",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260826_company_798254000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95880&page=1&searchType=itemCode&itemCode=222800",
-      "date": "26.08.26"
+      "title": "3Q 실적 상향, 소캠2 매출은 예상 상회",
+      "broker": "대신증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260909_company_621219000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=96053&page=1&searchType=itemCode&itemCode=222800",
+      "date": "26.09.09"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=222800",
     "news": {
@@ -1403,11 +1403,11 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "code": "119850",
     "updatedAt": "2026-08-27",
     "report": {
-      "title": "기대 매출 4조 원, 대도약과 함께 재도약",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260703_company_505978000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93872&page=1&searchType=itemCode&itemCode=119850",
-      "date": "26.07.03"
+      "title": "AI데이터센터 수주 1번 타자",
+      "broker": "IBK투자증권",
+      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260909_company_996975000.pdf",
+      "url": "https://finance.naver.com/research/company_read.naver?nid=96048&page=1&searchType=itemCode&itemCode=119850",
+      "date": "26.09.09"
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=119850",
     "news": {
@@ -2045,10 +2045,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=051600",
     "news": {
-      "title": "한전KPS, 추가 원전 건설 기대감 확대…밸류체인 재상승 전망-현대차",
-      "office": "이데일리",
+      "title": "한전KPS, 안전·보건관리자 전문성 강화 워크숍 성료",
+      "office": "뉴시스",
       "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365370"
+      "url": "https://n.news.naver.com/mnews/article/003/0014176784"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/051600/news"
   },
@@ -2305,10 +2305,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "\"中企 첨단기술 지켜야\"…변리사 비밀유지권 도입 논의",
-      "office": "이데일리",
+      "title": "남는 것 없는 국내 시장…K-물류, 세계로 나간다",
+      "office": "경향신문",
       "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/018/0006366412"
+      "url": "https://n.news.naver.com/mnews/article/032/0003469487"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 노조, 다음주 임단협 재투표…추석 전 타결 시도",
-      "office": "한국경제TV",
-      "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265444"
+      "title": "국내 기업 2분기 영업이익률 16.9% 역대 최고",
+      "office": "조선일보",
+      "date": "20260910",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997573"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
