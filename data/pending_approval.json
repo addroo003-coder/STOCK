@@ -4252,7 +4252,7 @@
     "source_count": 1,
     "id": "267260-기타-4415-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-09",
     "status": "일반",
     "stale": false
   },
@@ -16620,7 +16620,7 @@
     "source_count": 1,
     "id": "051600-기타-13523-20260908",
     "first_seen": "2026-09-08",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "status": "일반",
     "stale": false
   },
@@ -17264,7 +17264,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한전기술-인애이블퓨전, 핵융합에너지 사업 참여 협력을 위한 업무협약 체결 - 전자신문",
     "source_type": "news",
@@ -17273,9 +17273,14 @@
         "press": "전자신문",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93R3E4T1dhcGEzTEhOV1dDbHpNOGZvSGVtUnRHb3RaWWZ1TEJUX01VOVpMcU1yV3N4RlVmZk11Q0Vlc3lBblVjUjFYYnFPZw?oc=5",
         "pub_date": "Tue, 08 Sep 2026 05:10:37 GMT"
+      },
+      {
+        "press": "전기공업신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XV0tZQkZsdnl4dE14RmVqdHhqZlFKa0xOZVJXX1VsbGc1UlE2akZVYVQ4N3lnaXNuRUhlLTFFNDhabHpvMDhyaHVKbUxSbU0yN0VtZmtlWW1PSDB5TkJFODFVd2JWd3RJS29v?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 06:48:24 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "052690-기타-13869-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-09",
@@ -17471,9 +17476,29 @@
         "press": "catchnews.kr",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bk1Uek5zckNNbVJZMEE2NmQ1Ym16VjBYSjhDN1dxczlNZFpEak5PLUdTZDhYWnMyTmJoT0h5SHZ4NFVBYk92cVViUERnckZiUHNtNmN0c24yUkM0NThrbnZGNS05clptQmZz0gFvQVVfeXFMUE50MF9HMW9ueXJQTlFwbVhBeWxHYnkwT191Vk5hV1VmZFhWMmxwN3k3bHRsajhNOU1YV1BTb1ZTcVBYZ2VNSUgtcnh4bGpOdTZtV290RU9LcmtFam5wOEl6b09qNUVXYW1nUWhTenJF?oc=5",
         "pub_date": "Tue, 08 Sep 2026 08:16:46 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWnZEN2xIWlRTS1dGcGw4VHpvVDJtRS00cGNJeDdzeEJuV2thMWg3a0Vjb2VIQ2ViclJya21ON1U5ZWFCWmo0dVl0bTcxejBuOHpnLV9HaDRYbGgwa293RmM1OVQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:49:31 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAya1hLem9NWkpQS3JWaFV6dFg5UjBPcm9PdEZtYWtEMVRzTEkwcG9TUFhnV3lmQWJKZWFKZ0xpeFNUbGxhRjZoRHlxRnpXS2xSQ1JsQVFuYTRlR3A1WHMxYnBnM19Hdw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:31:56 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rdHRBMTZvRTFKNC15cG9sZHVEQjFZNXk3RDZMSmoyTk9nVGdHdERjS19sdl9wVGhqTFdUUjlvdWFRTzIyRUZqTVhhOTdTcklCRTZzWkNyLUVIcUQzLUJ3U0RYb25GUGhJRGhnSmFlSlY3OXpCb3pudjk2Y1jSAXxBVV95cUxPa3R0QTE2b0UxSjQteXBvbGR1REIxWTV5N0Q2TEpqMk5PZ1RnR3REY0tfbHZfcFRoakxXVFI5b3VhUU8yMkVGak1YYTk3U3JJQkU2c1pDci1FSHFEMy1Cd1NEWG9uRlBoSURoZ0phZUpWNzl6Qm96bnY5NmNY?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 07:03:03 GMT"
+      },
+      {
+        "press": "모바일한경",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQlZrX1dKYUZvM0trQmlyZ3BfMThSdm9lSElPeUpzQmpLWjVaRW1LcjBCRXJSOTRydExQc21TVU9FVWVUQjQ0aUtFSE4tZ0QxVTEtT3RFdExQVEJvMVRRXzgwenp5UExUZWN6NW5SNHVXRWtxUTdfazFnVnZDblE?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:09:47 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 9,
     "id": "226950-바이오-13975-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-09",
@@ -18160,7 +18185,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온제약, 황새 서식환경 보호 나서…생물다양성 보전 활동 확대 - 약사공론",
     "source_type": "news",
@@ -18169,9 +18194,14 @@
         "press": "약사공론",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XMDVFbGdzMTR1YVR4Tmt6RTJ0VERZWmpSWFFKdm5IQUs3NGJQYkp6bV92cGJWQXU2YVlRX3RCdUZqbXJmM2pmRm95Zmd2YWZJS0xGb3hCeGhnSU1URFBrVFRQNFJzR3Bia2l4Rw?oc=5",
         "pub_date": "Tue, 08 Sep 2026 08:18:26 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54VGpWV3IzM2dfOThXWDVrdjRjdkZGRVpqZDVBa2MtM2RsYmJzQ2JmUFZzeG82cVdCSEZ3TXNlRGdrcll3ZGZvOWpBcExUVm1OQmIydFNDV1lLdmN1QlZ0ZzZ3VVpDYmNYSFVZTEVjMVYtYUt2VXlXUjNn?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 08:56:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-14390-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-09",
@@ -18755,7 +18785,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "현대건설 원전 파트너 美 홀텍, IPO로 최대 9억 달러 조달 추진 - 더구루",
     "source_type": "news",
@@ -18764,9 +18794,14 @@
         "press": "더구루",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YeXI2UlNWUExQU2cxVHppVXIwaTdPQkwzWWNENTNINzZUaWFaVkk4TGxpU3dMSFF6WUtESW9HeWFudnI4QzZocW0yVWRMVDVzTGY2aXJWSC1rLUVzN3RnbHNkVQ?oc=5",
         "pub_date": "Tue, 08 Sep 2026 23:02:57 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yQmUwWFAxZTFUVlA4SUJKdmsyZzY0TTM1VUxMdE54b1gxMWRMLTVSZUJlZkM4VzNwUVE0SmVVeXRDYlFpZkpwZTRhY3laTjhaUm5PcXUtRk1Cdw?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 06:20:19 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-14658-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -18924,9 +18959,19 @@
         "press": "Nate News",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ajNxc1VCa3lRTnZtU1JFMHVZaVo0anhOY2pwREpRMDQ5LWZPRzVZUDlPZ1Babm5yTXUwOTBQbkRyM3A3bWpPRV9Dcnh0NTM5RU80?oc=5",
         "pub_date": "Tue, 08 Sep 2026 23:44:00 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ZUFqRlhUNHl6djZpdGE0azVXZjRMWXB6NE1tSGMwMWtYenJIUC1BdnRUTEpWSTVGajZsM3J0TlYxNUVPMVRveEFvQ1lTak1RS0NDS2xiRDE0THRzOGZydNIBYEFVX3lxTFB4ZUFqRlhUNHl6djZpdGE0azVXZjRMWXB6NE1tSGMwMWtYenJIUC1BdnRUTEpWSTVGajZsM3J0TlYxNUVPMVRveEFvQ1lTak1RS0NDS2xiRDE0THRzOGZydA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:43:38 GMT"
+      },
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03ZnBQVHVYTDRvUlE2Y05xVVp5d3BmMUJTTWxMRDlua0gxZ0V1Zk9jamVWMmFvWHV6TDktbk4zSWYzUlc0My1VcVFOckdvcE9MVFdObjdCRmM1Q1Rnc0FvUzgxWlFzb19NZXA0cHdheGR5aGl3?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 22:53:51 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "196170-기타-14705-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19362,9 +19407,14 @@
         "press": "의약뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lRmVzYzEwYnhLTG5KQUdDWTQ0N2FwWW16a1Brb2lVeFFYSTNkTGtUeVVMdmJlYXNxQk9QLUZIbncxUWpOUzA4ZnBzTkJqOGE5Yi1nTHpkc2RsalJ2cmNrbl9EdVd6MWc?oc=5",
         "pub_date": "Wed, 09 Sep 2026 03:59:00 GMT"
+      },
+      {
+        "press": "의약뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4Uzl5ZklaNWhRWm11ajc2dHU3N2tjTXNvbTduNkp6QlBtR0lLMkhwN1p5SXdCN1R0ZW5YQ21ZbmFuQzVtOEF2OGtHTkd0N2swLWY4YTFsNHlpRDI2ejQ1NmdJRl9iWWNu?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 03:59:19 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000100-실적-15029-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19390,6 +19440,394 @@
     ],
     "source_count": 1,
     "id": "066970-기타-15058-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에이디테크놀로지",
+    "stock_code": "200710",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909900486",
+        "pub_date": "20260909"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": true,
+    "rcept_no": "20260909900486",
+    "id": "200710-수주-15086-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "정정됨",
+    "stale": false
+  },
+  {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909900442",
+        "pub_date": "20260909"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": true,
+    "rcept_no": "20260909900442",
+    "id": "137400-수주-15096-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "정정됨",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 갤럭시 워치 심장 건강 관리 기능 확대 - thelec.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "thelec.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55VFBVaUpoODJtT01nX3FHNUdsMm80SnFXRFhhNS13cWlpR3ZDMXdGY2RKSUZ1WG5GM3N4TGQtQnRqa3BNdzZEaFF1TWVHaXFvU0ZfUElwaTl2SDkzRk9sRzJnOG1kQQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 06:36:13 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-15107-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "2분기 기업 이익률 16.9% 역대 최고… 삼성전자·SK하이닉스 빼면 6.2% - 조선일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTVURk9TMzk5UGdsLU42ZkJFc0FXUzJhcW5fZGFGY2pvSHdNWEt6bDg2WmZTLWNYY2NRZlI1V1EwSmhDLXRTZzVtYms4VTdCaVpubDZveDJaSFM3X0lRZEFZNmNCeTR1LVBBd2FLSmVkTXctQ19rZi1uVUY0N19PeDZXYnBwSDhFQU1xQTJR?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 04:01:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-15113-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유진테크, 반도체장비 생산능력 확대에 864억원 투자 - 리드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "리드경제",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NNVItS2tuOF9BNW4wUVJCMjY5RU1fRDJwYTJYbW11VXJDTW04Qk9LMWlTeHpOYjdFcUV4a3A0eVo4bG5OWlF5LWNsRHZ0TkhVTzdrazUtMDNWQmhpZFNtTHV3ZGtFdlhSLVAwS0t0MA?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:40:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "084370-기타-15132-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한솔케미칼",
+    "stock_code": "014680",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한솔케미칼, 주주 베어링자산운용 측 주식등 보유 비율 0.6%p 감소 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNXJuTzJxWWZ0bTIzTGZSaGhHWjRFZ1J6OVo4N1p2UlBzZC1LMFBGOXpNejktUklsV3BYZW53SVFTVFB5X3Mtc3VDUjJhS3pad040T180NlQwTFdZUzRzMTh4bTFURnNscVJHcnNGd1diYVE?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:47:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "014680-기타-15177-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기·LG이노텍, 국내 최대 반도체패키징 전시회서 차세대 기판 선봬 - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9waUtzYWZZUnZkMXFFVWNrY3NJWDZqdmozYThqbllsNy1SblJwNU8wQ25hUl9CUkp3QTJDUm50WlZpdlBtb2NVNmpBaTJYRkZGbTdOWVIyWkNOS1Y1S0s2NDFEcUNLaXZ4Z1ZBdDd0eWLSAXRBVV95cUxOOUp0eUhEWThCUkVaR2pQQVRXQkhrNXF0WGgtemxBOVQ0OUNFaDc2QTZrbU9zcWZUM0F0ckhLN3I3WHU1VTFiMXdSRjE4RjZpeDdCNTBmX1Q1ZE5wTDlyS1dEOUQ0NHdRRWZjalpjZnNoWnVmRw?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:49:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-15190-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "국내 최대 기판 전시회 ‘KPCA Show 2026’ 개막…삼성전기·LG이노텍, 차세대 기판 기술 공개 - 아시아투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HOEdKYjJUWW5FRDJleGtnMTdzVXQ1VExrc2VKaG9YMTVBQnptQVlKbVVCOVZ3bVVpOGFtTzhfanp1cXhBNUJBR2xEdlRPV2FtSm5wampFejhlMzlVLTFYOEs4V2dRTEhjYjhsOHBR?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 09:07:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-15192-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼현",
+    "stock_code": "437730",
+    "sector": "피지컬 AI·로봇",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[급등수사본부] 액추에이터 양산 일정 앞당기는 방안 추친 '삼현' vs 대미투자 원전→ LNG까지 확대 가능성 '성광벤드' - supple.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "supple.kr",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tdFNyQTVZXy1FVjRIZWJyVmprejI4OGV5dkJ6allDOUtpQ3NYZVJEYkFwWEQtVFVRZEQ2alBEa1ZjX3Z4cnVITEhZWWt5enpyV2xTZFRmLUJEaHlt?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 10:12:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "437730-기술-15279-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "美 원전 최대 8기 건설 논의…두산·한전기술 노형 선택에 촉각 - 딜사이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "딜사이트",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRUGk5UjZJY0UtMmZhTXgwOXh3UWdXc2lLMUVkQU91S3NXcXF5djNuYmJCbUp1eGpvYkZDcUZ6UXgtMlpkcWtPZUhpNjVBcmM?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 06:03:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-15294-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "신한투자 \"알테오젠 목표주가 하향, 노바티스 임상 실패로 피하주사 제형 전환 기술 가치 낮아져\" - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZdFZ4dWRvNHRYOFhTWW5xTHI3RVlPRDlJdi1fT2dxbjB4QUZHM2tsQ29JaDkzQXhDRnU1TmhzUm5wdnFrUEg1ZlBGNkFSMjV6TzR4clN0eG5sNlBWdElVbksyUTNSUzhRbVNUWWJGYnRYelE?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 01:44:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-바이오-15355-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "신한證 “알테오젠, 노바티스 신약 1개 3상 실패에 목표가 52만원 하향” - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OblYyVkRTR3lyZ05BX1RyZ294Ym1CRExIS0lseU9RQWl0SXl6RlFsMzJuTjNXNC1zTVFYY1FfWGdHOXd6QmhHY2IwXzdGRWs?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 22:47:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-15359-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행 폐암신약 ‘렉라자’ 비소세포폐암 1차 치료제 확대 - catchnews.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "catchnews.kr",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SNWlmbVVWY1JTcXRoQ19KQzNjaDdyNWRSc00xMnlwRExDN1hfcWFxWWFDOTQ1anlvTFlSNkN2djFydk9mNkVCVUk5em9sUzdiQld0NENnZGxCa0FETWgzNFhCWkw2WVdQV2fSAW5BVV95cUxOWDFma3QwTERGNDBNSlAzcEdiMkRHLXhwNTVoVnM3M3M2d1VHTTlhd3c2b0dLX0hFTzFKWmpQNDhodVQ1OGxZU0dmaUhiMDVJTnFKT1lZUllEcmZTMEFSeDV5TUtyV1V4TW1tS1VEQQ?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 20:19:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-15374-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[공시]에코프로비엠 최대주주 에코프로, 지분 유지 - 한스경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한스경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92eXQwSnlQaWhhd1BRbk5NbXBjb3E2azlWdlVjNkQ2TmZWaWNVc2wwVVJ2a2syOWlyazZWeGJZREd1aEV6clZoRjBSOEtZMUxnNUF4bkwwM1o3TWcxVVROZUREd2dCaHFrbkhMONIBb0FVX3lxTE9iS1RUdjUxRzd2S3NITGhPRFdYRGpCTU5tOUlFdGZ4RVJJNWdOdkJxaXpLU0FpVDhzWHA1MnlEOG84NDFzUW5CdnBpRHl3ZUhJTzZ1cm9YbDVNRWJNZnlkenV3emFTQUFZdE96TWRZMA?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:53:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-15421-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SKC 사업별 투자 사이클 갈린다···동박 ‘효율화’·글라스기판 ‘투자 확대’ - 시사저널e",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "시사저널e",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93em9CdUZTSHBrY2R2bEdZQXhyVTNSTkFkSVFPVTlUTllUSjl4eWJIY3hQMFpaalIwNzZMSEtOR2VPNGpVakdQTXB3eTdUaDU2c1hyTnA4Y3dPNVVlb2FONlp6RXFFZDJUYnFiX2JqN1F0UdIBdkFVX3lxTE16WWtyUWMxd000TEpGUjU4amlMcnQtSGNobkwxdGhaSDRTUmd3eGNLRUQyc3dzdTE5X1pZU19VVTMwVHFRanJnck5ORHRyM0oxdEU3bmJCTW5tYUljWUx2MzVYWnVOc1lpbEl5YmJQS0JMSXhJcWc?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:58:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-15440-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SKC, 적자 축소에도 현금 유출…‘글라스기판’으로 반전 노린다 - 뉴스퀘스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WSktzcFZ4Z18ySlhjYjZMRVE4QzQtdk9vX1ctdmdseE5CTVE3eTNDYVRnakd1RkoyNFZKeXUyZ0s2TU5PWTRidGwzSnF3RVR4OG5Uemo4YlhhWjBoNC01dDRZWW81eW80ZzltVUxMYw?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 08:45:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-리스크-15442-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
     "status": "일반",
