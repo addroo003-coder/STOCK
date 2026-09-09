@@ -17535,9 +17535,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5MEU2bmlfbGtjQUR4OW4zSUoxOXZCdFEzNzNYRlVtWVh6dzl0dU9ha1pRR0U5aUNMVnB5UFE3R3RlaXpNQVZPTFJXS1lCTWc?oc=5",
         "pub_date": "Tue, 08 Sep 2026 06:43:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwMlZhdm9GS00wX2YtcnhRblNpSmhkUVJZOGtyMnc4aVdHQ2JEbUFZM1hFNDhRSlk5T3BGVm4tQW53QVVJTTdXbnlOaw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:43:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "226950-바이오-13976-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-09",
@@ -18248,7 +18253,7 @@
     "source_count": 1,
     "id": "226950-바이오-14393-20260908",
     "first_seen": "2026-09-08",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "status": "일반",
     "stale": false
   },
@@ -18761,9 +18766,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MTmhvdG03NFJrTjV2SkFhSVJDS2VQVTJyajFVd1d4cThmTVVfdm9lX09tTUNBSGtyZWZ3M1hqb1ZxeUxxLXFfT1c4VWlZc2w0ZzBGeQ?oc=5",
         "pub_date": "Tue, 08 Sep 2026 23:12:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yT29tNzh2YXRxTkRoM05jVFV6ZkRlVVZxTl9KR0N5SWNERnRfYmlJaTFNQ3R0OVBpRXVMVl9NQWFpSjE0MThaSkptWjVaNENHUlFqZg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:13:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "119850-수주-14633-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -18994,9 +19004,19 @@
         "press": "asiae.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yWTU3M1ZUOGFyaC1oUW1hb1RteFplTTk0OHBJdGpJd0hrM0MxVVhYdFV5ZnlEX2hpUFpkcm1qcVFqZGNMa2ZIdl9UN2U3aWhkREtSS0xhUzRSMURETHQ3Rg?oc=5",
         "pub_date": "Wed, 09 Sep 2026 00:23:54 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84cGlGMGJxRkloMjJQai1GSG5NQ2VWUXV5UUhST19IOU14QVVlNEJzUDRkeElUVTAzMm9PelZ0NE0xQVNhZllUd1ZVb2hIVzg?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:44:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41bE9rajc5dkFIUURIMGhWb3Y5M2czaFNMMjgyVngxZjNScEhJT3gtcHFKVFhGdEc1cElHY1pYYmRjYURYWU8tSmVseGx2SzB2TDR5cA?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 22:47:04 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 7,
     "id": "196170-기타-14705-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19941,6 +19961,78 @@
     ],
     "source_count": 1,
     "id": "464080-기타-15500-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한전선 8%대 급등, 전력인프라 투자 확대 기대감 반영 : 기업주식정보 - 재경일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TX2M2M1MzZ2txZVBBZXZnaUZzakU1TFRub0RxcWxvdUE5aGJ0MnN6NVFfcUlZSVJKSzIxSmFXT1k4elE4S0RUck1n?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:40:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-기타-15640-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "올릭스, 한소제약과 siRNA 서열 2종 글로벌 라이선스 아웃 체결 - 약업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0NmQVNVdlJONENHU3lEZkNydXNkR0UzUkVZcGZCRnAwT3NvWElBLUtscU40QW1SMnRnLUZ0MzZ0LUFYMWZTNTc0d3gwWXI2VTBxZm9ING03bzJRSFJOb09ibHAxUjV6cVBUVjBUMmRYRWdaT2ttem91X1dnMFdkRFJmRHpEME5fbmUyaHlWcW9DZ1VkdlJYTFdDV0s?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 06:51:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-기타-15669-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "올릭스, 탈모 치료제 'OLX104C' 임상 2a상 뉴질랜드 확대... 대상자 '158명' 증원 - The Pharma",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "The Pharma",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObk1FTi1Rcm1DQXFVUVJYc0czTlQ0blBoaDJxSHM2dHVIbG4xN0k4UTJiNlp5VmhldGc5cnp3b1E4X0VDQjB4RTRPV1lmTFJPVDJKMXVuRlZiYWswZlpNeTkzbTNMMEJCYzVUYU5QWXhRV29OcjZIaUZqNXo4X0FyQ1RR?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:33:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-바이오-15670-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
     "status": "일반",
