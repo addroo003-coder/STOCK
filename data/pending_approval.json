@@ -16973,7 +16973,7 @@
     "source_count": 1,
     "id": "000100-기타-13645-20260908",
     "first_seen": "2026-09-08",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "status": "일반",
     "stale": false
   },
@@ -18064,9 +18064,14 @@
         "press": "catchnews.kr",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bk1Uek5zckNNbVJZMEE2NmQ1Ym16VjBYSjhDN1dxczlNZFpEak5PLUdTZDhYWnMyTmJoT0h5SHZ4NFVBYk92cVViUERnckZiUHNtNmN0c24yUkM0NThrbnZGNS05clptQmZz0gFvQVVfeXFMUE50MF9HMW9ueXJQTlFwbVhBeWxHYnkwT191Vk5hV1VmZFhWMmxwN3k3bHRsajhNOU1YV1BTb1ZTcVBYZ2VNSUgtcnh4bGpOdTZtV290RU9LcmtFam5wOEl6b09qNUVXYW1nUWhTenJF?oc=5",
         "pub_date": "Tue, 08 Sep 2026 08:16:46 GMT"
+      },
+      {
+        "press": "모바일한경",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQlZrX1dKYUZvM0trQmlyZ3BfMThSdm9lSElPeUpzQmpLWjVaRW1LcjBCRXJSOTRydExQc21TVU9FVWVUQjQ0aUtFSE4tZ0QxVTEtT3RFdExQVEJvMVRRXzgwenp5UExUZWN6NW5SNHVXRWtxUTdfazFnVnZDblE?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 06:09:47 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "id": "226950-바이오-14280-20260908",
     "first_seen": "2026-09-08",
     "last_updated": "2026-09-09",
@@ -18771,9 +18776,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yT29tNzh2YXRxTkRoM05jVFV6ZkRlVVZxTl9KR0N5SWNERnRfYmlJaTFNQ3R0OVBpRXVMVl9NQWFpSjE0MThaSkptWjVaNENHUlFqZg?oc=5",
         "pub_date": "Tue, 08 Sep 2026 23:13:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZWGIycVpZeGZWTW15bHpxcnlIX2RZempVdzg5QkRHWFRhMXpmWlo1bi1fM2N2dmRYbFNIUExsM08wZWxFSVE?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:13:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "119850-수주-14633-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -19014,9 +19024,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41bE9rajc5dkFIUURIMGhWb3Y5M2czaFNMMjgyVngxZjNScEhJT3gtcHFKVFhGdEc1cElHY1pYYmRjYURYWU8tSmVseGx2SzB2TDR5cA?oc=5",
         "pub_date": "Tue, 08 Sep 2026 22:47:04 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90ZkV4QWc4ajg0R01XWmg0dENITGhvaEVHQzZSTHJRZkpkNWVwNDVIRXB3T3dQX2ZYNXYxSjBjWEFfb1FaZ1E?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:44:00 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "196170-기타-14705-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
@@ -20033,6 +20048,346 @@
     ],
     "source_count": 1,
     "id": "226950-바이오-15670-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, ‘EHS 히트펌프’ 전문 설치 교육 확대… 국내 전기 냉난방 시장 공략 강화 - Samsung Global Newsroom",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Samsung Global Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPV2wyN0xHdkpNVHFKNUkyV3JLMDFwUEE0dWlic1VnRnM1RUFLYmdjWE5NWXNGZkkxSTRuc2lucmF5a3BuYWdjYUdMbUdOdVZKY3Yyam5ZbVF3ZDNzcFlkbExoN1VuSnJLS2FnTEJWZkppZ2ZmbjJ1ajRCZEdJc0xnVjVkTS1DYVBzVzRJNFFnN1MxUFRObmRHa0lqblZocnB3YnZibHpQaVFXdHZ6Q2tScUh1RlJ4cWxMY1l5M0pPVC1jejZKZUtqRk1YMUh2OWhtOXpUcV9SaTdoRTNGUlVtYVY3RndLcGhGdW41cDlIT0lILW41ZXFBb28zUjN1dXN3R094blRuTEMyM0dmeEZ2MTNIdzAxcjJTaGR4YkRjZW9UWEcxMzlmSDBFbVA3WUJFT1Y2VA?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-15691-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"테스, 수주잔고 사상 최대…HBM·D램으로 장비 영토 확장\"-IBK - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSGhwRTZfV2FzWFNTMmYtSUwyMTFjUlQzYlRnRTRWbnYtY2dDX056Z3RGQ2dKVl9VRGM4YURJM3RaLW1ZQnd2MTBYZXZQTV90WlVLbkxuMjBZUQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:07:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-수주-15712-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "심텍, ‘KPCA Show 2026’서 차세대 AI 기판 공개…산자부 장관상 등 ‘3관왕’ 달성 - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43dnlETzVVVUlOUzNyekxWS0JITVRmZjRoUkVVV01faHB3UXM5eVM3ekpvbS1yNUlkYlczVE5McHdsT0NwTWlZelk0a19mSlRGZXVySQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:01:00 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5UFBoNThnT1lrRjRoc2lYSWkwc3ZGQkc2V0JBbXUwRmJjNlNPU2x1ZjJMVXJaRVhSMUN2LXVrWXduMEVVaG54ZDZBMDIzRVFBb3VTOTVPWHRJVk5Q?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 08:43:00 GMT"
+      },
+      {
+        "press": "블로터",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13VDBEMWljemxHS3NNeTNucmxlbnIyb1NjczJLN2pBdWhBbWJxZnpmTklHV1VwTk9iZ2w4SFlfdXdRbS1XUVFySDhTNGRGWEdTakNFN1Z0MHBuZTFQTWZXSEpxX2J3VWFF0gFsQVVfeXFMTWJuNWJCLWVVUUpUV2FUNWplS1h4RURnU00xd3phVW9FUWtLZlQ1eW5YWWZubWxONzVXR18xdzVlT2pBcGprUG92Nk5yN3NGOXl2c0V4SllGUVlaX1VIMm53X3h1UElfUkxoSUZv?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:07:13 GMT"
+      },
+      {
+        "press": "딜사이트",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pZ3NJWlpuRm94VElaQjJ0OHhlRTBEVjhxZTBZbUs3WEhxNk1WeU9mMU81X0tBVThLTjlKNHFzRUthNUwzeGlkSlVSWFRkeU0?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 08:06:29 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Qal93MmtWbTFUcmlENjFPbHdDWHRZQ2gxUjVNSWlqSUpYRlJqaDlWblVfZDdxWUIwZWdHbE5TbUVRa3dHaDJ5TUtCbDdQZTZDclppeVFTZFBRZHJ2czk1TQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 00:09:08 GMT"
+      },
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14YVZLWnFIbDU1ZmMwT01FVWkzaFRCRkRwVXFQaURoMUJIdTgzRW1md0xuM0E0dmx2VjFrSVN2UlhsbUpXQXZLM180cjJHdFQyMElSMzFTLXZac3U3MVhNOVliLWxZQQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 02:56:43 GMT"
+      },
+      {
+        "press": "파이낸스스코프",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BU1NFLWhIWVJ5NzE5OWM0bjZaanBTRVBxcF9ObDhhelZxcnZzcXlQdVJCX1JKX3dUSUdLd29RNE51U0toTkExTnVVZ2dUblV5VXpVdXFLNXZVMWFmempPVmFMMGRiS0hnN2c?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 01:07:00 GMT"
+      },
+      {
+        "press": "글로벌경제신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52bkJtbXVzYTFSV2twLXZXV1pveVEzU1FPRFJPUmtqN1luSDNScm1kNGRUTjVzRmdGUEZkZy1pb0VCRmxNMUpGMzRPd1dxUWlleHMzYnl0WDlTS3NQV050UDNGOUJ3Sjg5b0ZIdmw0c3jSAXBBVV95cUxOdm5CbW11c2ExUldrcC12V1dab3lRM1NRT0RST1JrajdZbkgzUnJtZDRkVE41c0ZnRlBGZGctaW9FQkZsTTFKRjM0T3dXcVFpZXhzM2J5dFg5U0tzUFdOdFAzRjlCd0o4OW9GSHZsNHN4?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 01:36:41 GMT"
+      }
+    ],
+    "source_count": 8,
+    "id": "222800-기타-15723-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“신규 사업 점진 확대”…중부발전, LS ELECTRIC과 재생에너지 전주기 협력 맞손 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JbndGY1psMVM0TWVOcEpKdzA3bzBkYVFNWl9EM1BMd2ZWTVVjR1o0b0V4TzFmajZPOXF5VzBrWE00UGYwYVFJdzlVVjVQZjQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:18:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "010120-기타-15735-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭 '기술개발인의 날' 과학기술포장 수상...KT클라우드와 AI 데이터센터 전략적 파트너십 구축 업무협약 체결 - 여성소비자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "여성소비자신문",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xVHlUaTQ0WFNuWXUyWW83RmF3eDJQUzB4QTkxMkJqQVpDQmc3emlLN1BQMFZvQUpYVlg4TzI5YWd3R1k1V2N3akRTemFYMGtLNDVoRDVOdzNtMHFHNnY2UGgyb3ppQQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:27:17 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-15741-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“신규 사업 점진 확대”…중부발전, LS ELECTRIC과 재생에너지 전주기 협력 맞손 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JbndGY1psMVM0TWVOcEpKdzA3bzBkYVFNWl9EM1BMd2ZWTVVjR1o0b0V4TzFmajZPOXF5VzBrWE00UGYwYVFJdzlVVjVQZjQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:18:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-15743-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "가온전선, 캐나다 전력 시장 첫 진출…북미 사업 확대 - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSeF9yOEVJTFlBQVY2QlJkWFNEMWo3UnVLZlBnOVo4VTBUdm5QVnNRakttYzlTbk5DOEU2VFFIYjBYUldtV2lsMU5iQzU4b1NqaklQcEFoLWg5bmo5bk91S3dYZ3RTamVHVlZIdjJhZFk1LWxu0gF0QVVfeXFMUFJ4X3I4RUlMWUFBVjZCUmRYU0QxajdSdUtmUGc5WjhVMFR2blBWc1FqS21jOVNuTkM4RTZUUUhiMFhSV21XaWwxTmJDNThvU2pqSVBwQWgtaDluajluT3VLd1hndFNqZUdWVkh2MmFkWTUtbG4?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 21:20:57 GMT"
+      },
+      {
+        "press": "파이낸셜신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Uam96RmlQQ2VYeXptM3BPNWpiS0p6X3d0TmhCbF9NYmItd01kekVueS1GeW5US3otU3BSMWlYNVY5cWRiU2JTblR1X2pLbFQ2M2d2UjJFVl9ldlVBNnlaaVBxeHpzVjc2Qktr?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 08:20:34 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LNUJlSXN0M3cySW1GZ19zMVlJVmhoRmw4d0oxbE0zMW9xWGFQTHVZSXZFc2dabk56eVZVWEZxbVlTaUF3bmhKRzFsTjk3clpKa19yUE1UdFJQT3oyVzJoYdIBYEFVX3lxTE5LNUJlSXN0M3cySW1GZ19zMVlJVmhoRmw4d0oxbE0zMW9xWGFQTHVZSXZFc2dabk56eVZVWEZxbVlTaUF3bmhKRzFsTjk3clpKa19yUE1UdFJQT3oyVzJoYQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 00:58:29 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZ2NCbTV0Vjc5dm12ZEczNjRYdjZxWFdMWTJFUV9GNlZtMlppa1U1UERaMnBSSVJvZEREdkd0bHlUVnZ5MGVNLV8tajQ5dTE3QndRNnFlUjHSAVhBVV95cUxOTGdjQm01dFY3OXZtdmRHMzY0WHY2cVhXTFkyRVFfRjZWbTJaaWtVNVBEWjJwUklSb2RERHZHdGx5VFZ2eTBlTS1fLWo0OXUxN0J3UTZxZVIx?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 02:08:35 GMT"
+      },
+      {
+        "press": "데일리한국",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZUV2OGNwVFV0eGNzU1ZUckc3aFIydUd6c3NLUFhjazNlNG9HS1NyMHJqeGhyWF9tc1ladXVUZGZkbllESXFNbHR3R0kySXMtTUdXZzNvbWdjdW13RkFuSnFMNEpERnp4d3FVekZOc9IBc0FVX3lxTE5WY0Q1STJoNEJPQ3RHeU5PaU9ILTllYzhMM3NQSHRnVWJQVU1PZ3pVcEh2TDNwOU1WT3ZhcUZDb2pSZ1NXR2p5OFBiTVRvbi03ZXdYdEdCNVR6cEJia045bVowYm5nc1pneWM5TmhyeUkxSG8?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:44:56 GMT"
+      },
+      {
+        "press": "metroseoul.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OWmVOYUhMMVgyeUZZRnBFRzNyejNBZURzbzAxVXF2d05qd0hKRXp4LWdQQzEwdWtXZHRqTmFheHFGTUdiR19ZRElNOFJ3VGNjQUNjU3piMjBaZDR4cWM5Mg?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 04:48:52 GMT"
+      },
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIbEVzdlp2eHhaTlh5TVVmNUIwbHlvTU83STlzTkhXVVJaRkEtZ0JwQzhRMTdKeU5KbDBLVjBkREF5c29kYndzWmxnX0tTMUh2MXlVLVM1MTN4NmlNMXExR2o4Qjl0Y0JjR3hRVVdOTXhmUdIBckFVX3lxTFBIbEVzdlp2eHhaTlh5TVVmNUIwbHlvTU83STlzTkhXVVJaRkEtZ0JwQzhRMTdKeU5KbDBLVjBkREF5c29kYndzWmxnX0tTMUh2MXlVLVM1MTN4NmlNMXExR2o4Qjl0Y0JjR3hRVVdOTXhmUQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 07:15:24 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nRXRDaWRSbGRSYzFaQTdWbi1sSlIwMjlNWV9xbHI0VVg2Sm41eS0tcnlxcEJQRmx0bGxJWEpocXl0TmdsSzZ3Qk9jSVBsOTQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 02:08:00 GMT"
+      }
+    ],
+    "source_count": 8,
+    "id": "000500-수주-15745-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온 '옴리클로' 스페인 점유율 90%…유럽 공략 속도 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56VTJOb1daX2ZFQXdpNW5rRXJ1QWNlQU9HQUxRcHZwdkFSOVhoYVh3RTRMOTN0NlgyTmh4X3hOZklWdUl3azZma0k4RzRmOFZpc2pOMGhDY1V4NGxuWGRtVw?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:02:39 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZGI4dU9aN2V6MllnVTBNUUIwTEJGQVZGaXhYWU5wTDg3OWQ5ZEYxNDIxb0t1a1d5cnRNOGlwMWtUTGFWNjgyekJWcjJkdGVtVE5ZaWdMb3otQQ?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:16:48 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tSEVaX1dSRlhONHNrUnFnY0NjalRkcFUzdHpVWHVYMTdXV3lwbTlMd1Y1Y2U5bWp1NldIRjBrUGtLWlBGbnNGdnVETGFIYk9JV0hNRE82cXQxNXhTRzdLcTVNeDc?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:36:00 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yX3lEdjk5SDFYR2o3ZVBGOXBvNDdaSHZlRjFPeXg4dUExZUJ1LWVrOWVUTnBlMWViRV81S0tpUGNMUFQ4b1ZaRkduUUhfR1ZDZ0RaUWUySXg2OExf?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:24:00 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91RTdhNEVta2FEMnVZTlJFVFQ5RGdhaTg0VVA5dHhkdmRPcWtRUE05a1ZQNFhaSTFLYnhUbXItUnlVaG05cHpFTFlTWFVkVTJMc0htY1l3M2xrdE5lMUNzaWlfNFjSAWhBVV95cUxPTGVaZUxoUkhCS2FTemJFSVZzdWtISUdQR2ZNbXBLSGcxbTVFRldTdS1FYWJ0Z3NJb3BfN0p0LTJrMldWUXJyaTBWRWNQTDJ5YjdwcklpRENqM2hVT2RXZDNJNEQybXN6UA?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:26:55 GMT"
+      },
+      {
+        "press": "thebionews.net",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpVnlLMTZ4a2VOMnZoQ3pmVWE2YkZOM0dLNzd3anU3dXJlV016dk45ZnJ3STBTVTZ2R3hTeVpPcDFCbmF3RnpCWjhwYlA0My15em9UUEZ6QnN1d0tLRkVhWlRsRFJhaGJmZUttS9IBcEFVX3lxTFAyX05nbnlUWUJMOUZyaVBZUC1FMkVwOUJOVFhkX3BwRDRVRGFDZ1VTSF9CbDRlU1MtZ2NTLU42RGNJWXVUWWh5RnBqczBZUFRacFBmanVscGNLa3Rtby1VNXlVRVp4b2MyMnp0ZGJUc2M?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 22:41:35 GMT"
+      },
+      {
+        "press": "키즈맘",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HWm5uc1pRTFBNcUZreXZJRUtWTWJPcjRhZW5kZkVGX3l6Q3BDd2RqT3lROWJJTThWZjVLcVc4TjFfb0lKS0YyTnNoSzJvR3NJZ0pqS1hoS194cVBxcGsxM3BNQUtVYy1F?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 22:52:49 GMT"
+      }
+    ],
+    "source_count": 7,
+    "id": "068270-기타-15773-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온,유럽 26개국 판매·스페인 점유율 90% 돌파…주요국 성장 확대 - yakup.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "yakup.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUEw0SS1zamtJc1U3V0lpOGJSQV9fbk5iVUI5ZV9mQmt6Q0JVbDdSa3NmWHRrMkhMRmxVbmMzVl9UbXkyS053R04xamg4YkJnLVR4TEVIand4dkY1WXFhQWEtZVI2M0Rzb0VSUHlRSzluY1ZFa05QNVJR?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 22:52:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-15774-20260909",
+    "first_seen": "2026-09-09",
+    "last_updated": "2026-09-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알테오젠, AOC 일부 품목 임상 3상 실패…목표가 52만원 하향-신한 - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmotZndoMWJfQlNMRTJoS19zTlFSaGpZc3JObVZlNFA2YjJYRmNMLUNSMGI5ZE90R2VVVTBUS1R3czRwUlpxODQ1akNuQTBUdHZpdnFvZkMtaktmQ21KcU5HU0d5VGRsTS0yN3JCNkd3dk1HUGhESVJ6cUVZdTBpXw?oc=5",
+        "pub_date": "Tue, 08 Sep 2026 23:06:09 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-바이오-15779-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-09",
     "status": "일반",
