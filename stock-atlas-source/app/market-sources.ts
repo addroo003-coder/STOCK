@@ -511,10 +511,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "이재용, 모친 홍라희 보유 삼성전자 주식 1.9조어치 매수",
-      "office": "동아일보",
+      "title": "이재용, 홍라희 삼성전자 주식 1.9조원에 매입",
+      "office": "서울신문",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746982"
+      "url": "https://n.news.naver.com/mnews/article/081/0003678754"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2465,10 +2465,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "피지컬AI 연구→사업화 잇는다…다임리서치·IBM·카이스트 맞손",
-      "office": "머니투데이",
-      "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/008/0005411679"
+      "title": "한·인니 청년 창업가들, AI로 기후위기 해법을 찾다",
+      "office": "국민일보",
+      "date": "20260910",
+      "url": "https://n.news.naver.com/mnews/article/005/0001872023"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2485,10 +2485,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     },
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "국내 기업 2분기 영업이익률 16.9% 역대 최고",
-      "office": "조선일보",
+      "title": "기업 실적 역대급인데 청년은 어디로…취업자 46개월째 내리막",
+      "office": "더스쿠프",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997573"
+      "url": "https://n.news.naver.com/mnews/article/665/0000008127"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
