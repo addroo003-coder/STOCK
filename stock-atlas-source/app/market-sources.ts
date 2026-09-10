@@ -8,13 +8,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "가온전선",
     "code": "000500",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "기대를 뛰어넘는 성장세",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260807_company_185177000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95204&page=1&searchType=itemCode&itemCode=000500",
-      "date": "26.08.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000500",
     "news": {
       "title": "가온전선, 캐나다 전력시장 첫 진출…북미 매출 50% 성장 전망",
@@ -28,13 +22,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "가온칩스",
     "code": "399720",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "삼성전자 파운드리 사업에 날개를 달아주는 ..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1675811223240.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=62595&page=1&searchType=itemCode&itemCode=399720",
-      "date": "23.02.08"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=399720",
     "news": {
       "title": "[오늘장 탑픽] 삼성 파운드리 흑자 전환…가온칩스·에이직랜드 주목",
@@ -48,13 +36,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "고영",
     "code": "098460",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "AI 혁명의 3D Frontier",
-      "broker": "IBK투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260820_company_422486000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95777&page=1&searchType=itemCode&itemCode=098460",
-      "date": "26.08.20"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=098460",
     "news": {
       "title": "고영, AIDC·반도체 수요 대응 위해 294억 시설투자",
@@ -68,13 +50,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "네패스아크",
     "code": "330860",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "하반기 모멘텀 본격화 주목",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260723_company_338483000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94354&page=1&searchType=itemCode&itemCode=330860",
-      "date": "26.07.23"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=330860",
     "news": {
       "title": "네패스아크, 반도체 테스트 설비에 667억 투자 결정",
@@ -88,13 +64,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "뉴로메카",
     "code": "348340",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "다수의 로봇 프로젝트 진행 중",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20251230_company_757524000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=88879&page=1&searchType=itemCode&itemCode=348340",
-      "date": "25.12.30"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=348340",
     "news": {
       "title": "포항에 주문형 로봇 생산시설 구축…1천800억원 투자",
@@ -108,13 +78,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "대덕전자",
     "code": "353200",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "순서대로 열리는 문, 순서대로 쌓이는 이익",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260811_company_317452000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95423&page=1&searchType=itemCode&itemCode=353200",
-      "date": "26.08.11"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=353200",
     "news": {
       "title": "‘제2의 HBM’ 소캠株 불기둥…대덕전자 상한가[특징주]",
@@ -128,13 +92,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "대주전자재료",
     "code": "078600",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "실적 차별화와 멀티플 Re-rating 구간 지속",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260515_company_976221000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92982&page=1&searchType=itemCode&itemCode=078600",
-      "date": "26.05.15"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=078600",
     "news": {
       "title": "대주전자재료, 북미 우주항공기업 협력 확대…음극재·CNT 샘플 공급",
@@ -148,13 +106,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "대한전선",
     "code": "001440",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "본질적인 성장이 지속되는 중",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260731_company_252014000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94904&page=1&searchType=itemCode&itemCode=001440",
-      "date": "26.07.31"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=001440",
     "news": {
       "title": "구리 없으면 AI도 먹통…K전선·전력기기 '동빛 슈퍼사이클'",
@@ -168,13 +120,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "더블유씨피",
     "code": "393890",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "고객사 및 제품 믹스 다각화로 턴어라운드 전..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260630_company_90142000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93604&page=1&searchType=itemCode&itemCode=393890",
-      "date": "26.06.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=393890",
     "news": {
       "title": "더블유씨피 2분기 영업손실 40%↓…\"3분기 실적 반등 전환점\"",
@@ -188,13 +134,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "동진쎄미켐",
     "code": "005290",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "독보적인 기술력과 생산력을 기반으로 한 전..",
-      "broker": "NICE평가정보",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1645657251767.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=58619&page=1&searchType=itemCode&itemCode=005290",
-      "date": "22.02.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005290",
     "news": {
       "title": "동진쎄미켐, 반도체가 끌고 中 매각 밀었다…상반기 순익 급증 이유 ...",
@@ -208,13 +148,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "두산로보틱스",
     "code": "454910",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "펀더멘털과 내러티브의 작은 변화",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260529_company_165621000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93362&page=1&searchType=itemCode&itemCode=454910",
-      "date": "26.05.29"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
       "title": "김민표 두산로보틱스 대표 “피지컬AI, 특정 작업에 집중해야”",
@@ -228,13 +162,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "두산에너빌리티",
     "code": "034020",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "하반기 원전 및 가스터빈 등 수주 모멘텀 가..",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260803_company_763810000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94949&page=1&searchType=itemCode&itemCode=034020",
-      "date": "26.08.03"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
       "title": "두 달 전엔 반토막…대미 투자 수혜 기대에 되살아난 이 섹터[왜웃株...",
@@ -248,13 +176,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "두산테스나",
     "code": "131970",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "가시적인 성장성에도 불구하고",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260820_company_833268000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95790&page=1&searchType=itemCode&itemCode=131970",
-      "date": "26.08.20"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=131970",
     "news": {
       "title": "AI의 네번째 분기점?…자극받은 투자자에 반도체 '활짝'",
@@ -268,13 +190,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "디앤디파마텍",
     "code": "347850",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "Best in Class를 향한 GLP/GCG 황금비율",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260615_company_906137000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93532&page=1&searchType=itemCode&itemCode=347850",
-      "date": "26.06.15"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=347850",
     "news": {
       "title": "디앤디파마텍, 중기부 AI 기반 신약개발 국책과제 선정",
@@ -288,19 +204,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "레인보우로보틱스",
     "code": "277810",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "K-Humanoid, 제가 해보겠습니다",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/1/20250530_company_677543000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=83548&page=1&searchType=itemCode&itemCode=277810",
-      "date": "25.05.30"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "AGI 다음은 피지컬 AI…K로봇주 동반 강세",
-      "office": "한국경제",
+      "title": "7000피 깨지자 강화된 기관 매수세…7030선 약보합 마감 [시황]",
+      "office": "데일리안",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331063"
+      "url": "https://n.news.naver.com/mnews/article/119/0003131384"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -308,13 +218,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "로보스타",
     "code": "090360",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "다양한 산업군의 공장 자동화를 위한 산업용 ..",
-      "broker": "NICE평가정보",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/69/20250801_company_722471000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=85102&page=1&searchType=itemCode&itemCode=090360",
-      "date": "25.08.01"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=090360",
     "news": {
       "title": "“로봇 수요 들썩” 골드만삭스가 찍었다",
@@ -328,13 +232,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "로보티즈",
     "code": "108490",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "업종 내 차별적 매출/수익 성장성 보유",
-      "broker": "한화투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/16/20260824_company_490615000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95846&page=1&searchType=itemCode&itemCode=108490",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
       "title": "젠슨 황·이재용·정의선 ‘치맥 회동’ 이후···‘산업 AI’의 시대...",
@@ -348,13 +246,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "리가켐바이오",
     "code": "141080",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "해 뜨기 전의 어두운 새벽을 지나는 중(NDR ..",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260805_company_35306000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95074&page=1&searchType=itemCode&itemCode=141080",
-      "date": "26.08.05"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
       "title": "90억 투자했는데 장부가 1억…롯데웰·농심·오리온, 신사업 '쓴맛'",
@@ -368,13 +260,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "미래컴퍼니",
     "code": "049950",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "디스플레이 장비 회사에서 수술로봇 업체로 ..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1703113377411.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=70188&page=1&searchType=itemCode&itemCode=049950",
-      "date": "23.12.20"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=049950",
     "news": {
       "title": "[인터뷰] 김준구 미래컴퍼니 대표 “외산 독점 깨고 수술 로봇 국산화...",
@@ -388,13 +274,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "바이오니아",
     "code": "064550",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[AI] 핵산 원천기술 기반 생명과학 연구 및 ..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260414_company_300990000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91499&page=1&searchType=itemCode&itemCode=064550",
-      "date": "26.04.14"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=064550",
     "news": {
       "title": "바이오니아, 검체 넣으면 PCR 결과까지 '자동으로'",
@@ -408,13 +288,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "비에이치아이",
     "code": "083650",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "어닝 서프라이즈, 하반기도 순항",
-      "broker": "IBK투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260818_company_577849000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95659&page=1&searchType=itemCode&itemCode=083650",
-      "date": "26.08.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=083650",
     "news": {
       "title": "리딩투자증권 “비에이치아이, ‘대미투자 1호’ 수혜 가능성…美 가...",
@@ -442,13 +316,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "산일전기",
     "code": "062040",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26 Review: 완벽한 실적, 리레이팅을 시작..",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260810_company_848239000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95390&page=1&searchType=itemCode&itemCode=062040",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=062040",
     "news": {
       "title": "\"산일전기, 美 데이터센터 수주 증가 수혜…목표가 30만원\"",
@@ -462,19 +330,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "삼성바이오로직스",
     "code": "207940",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "유상증자, 기존 주주 가치 희석 제한적",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260831_company_457219000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95945&page=1&searchType=itemCode&itemCode=207940",
-      "date": "26.08.31"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오로직스, 유럽 소재 제약사와 3508억원 규모 CMO 계약 체결",
-      "office": "코메디닷컴",
+      "title": "삼성바이오로직스, 유럽 제약사와 장기 위탁생산 계약…누적 수주 30조...",
+      "office": "동아일보",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/296/0000104709"
+      "url": "https://n.news.naver.com/mnews/article/020/0003747276"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -482,13 +344,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "삼성전기",
     "code": "009150",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "3Q 영업이익 상향. 환율 악재는 상쇄, AI 부..",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260903_company_679023000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95989&page=1&searchType=itemCode&itemCode=009150",
-      "date": "26.09.03"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
       "title": "AI 반도체 따라 기판도 재설계…삼성전기, MLC 복합화 방향 제시",
@@ -502,19 +358,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "삼성전자",
     "code": "005930",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "HBM으로 매크로 우려 극복",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260907_company_868953000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=96027&page=1&searchType=itemCode&itemCode=005930",
-      "date": "26.09.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "HBM 공급부족에…화웨이도 AI칩 가격 대폭 인상",
+      "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다?[박신...",
       "office": "한국경제",
-      "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331112"
+      "date": "20260911",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331165"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -522,13 +372,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "삼성SDI",
     "code": "006400",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "중국 점유율을 뺏어오기 시작할 것",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260814_company_301562000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95585&page=1&searchType=itemCode&itemCode=006400",
-      "date": "26.08.14"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
       "title": "삼성SDI, 성과급 산정 방식 바꾼다…'영업이익의 10%' 내년 적용",
@@ -542,13 +386,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "삼현",
     "code": "437730",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "NDR 후기: 로보틱스를 위한 성장통일 것인가",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20251211_company_72598000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=88690&page=1&searchType=itemCode&itemCode=437730",
-      "date": "25.12.11"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=437730",
     "news": {
       "title": "“성능 산포 줄여 양산 경쟁력”…삼현, 휴머노이드 액추에이터 성장...",
@@ -562,13 +400,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "새빗켐",
     "code": "107600",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "폐배터리 리사이클링 업체. 2/4 보호예수 해..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1675638985913.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=62508&page=1&searchType=itemCode&itemCode=107600",
-      "date": "23.02.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=107600",
     "news": {
       "title": "'안정된 캐시카우·신사업'…새빗켐, 투트랙 전략으로 실적 반등 노려",
@@ -582,13 +414,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "서진시스템",
     "code": "178320",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "악재 충분히 반영한 주가, 다시 내일을 논하..",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260827_company_754814000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95894&page=1&searchType=itemCode&itemCode=178320",
-      "date": "26.08.27"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=178320",
     "news": {
       "title": "[메자닌 투자파일] 서진시스템, 2000억 수혈…재무 안정화 과제",
@@ -602,13 +428,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "성일하이텍",
     "code": "365340",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26 Review: 12분기 만에 영업이익 흑자 전..",
-      "broker": "유진투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/63/20260821_company_844326000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95808&page=1&searchType=itemCode&itemCode=365340",
-      "date": "26.08.21"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=365340",
     "news": {
       "title": "디알티, 이차전지 재활용 고효율 BM 양산설비 본격 가동",
@@ -622,13 +442,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "셀트리온",
     "code": "068270",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26 Re: 수익성 개선 본격화",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260803_company_180761000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94974&page=1&searchType=itemCode&itemCode=068270",
-      "date": "26.08.03"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
       "title": "셀트리온 ‘옴리클로’, 유럽 26개국 진출…“스페인 점유율 90% 넘어...",
@@ -642,13 +456,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "솔브레인",
     "code": "357780",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "반도체 소재 실적 성장에 주목해야 할 시기",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260730_company_309729000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94723&page=1&searchType=itemCode&itemCode=357780",
-      "date": "26.07.30"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=357780",
     "news": {
       "title": "LS證 “솔브레인, 고객사 WSPM 증가·가동률 상승… 목표가 50만원”",
@@ -662,13 +470,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "신성에스티",
     "code": "416180",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "미국에서 존재감 드러내는 ESS 수혜주",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260806_company_459509000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95144&page=1&searchType=itemCode&itemCode=416180",
-      "date": "26.08.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=416180",
     "news": {
       "title": "신성에스티, 북미 ESS 양산 확대 본격화",
@@ -682,13 +484,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "심텍",
     "code": "222800",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "3Q 실적 상향, 소캠2 매출은 예상 상회",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260909_company_621219000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=96053&page=1&searchType=itemCode&itemCode=222800",
-      "date": "26.09.09"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=222800",
     "news": {
       "title": "심텍, '국제 반도체 기판 산업전' 참가…AI 기판 기술로 산업부장관상...",
@@ -702,13 +498,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "쎄트렉아이",
     "code": "099320",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[AI] 소형 지구관측 위성 시스템 개발 및 수..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260410_company_788596000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91398&page=1&searchType=itemCode&itemCode=099320",
-      "date": "26.04.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=099320",
     "news": {
       "title": "[스마트클라우드쇼 2026] 박원규 쎄트렉아이 전무 “AI 없이는 위성영...",
@@ -722,13 +512,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "씨메스",
     "code": "475400",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "휴머노이드 시대, 피지컬 AI 애플리케이션 강..",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260504_company_558251000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92299&page=1&searchType=itemCode&itemCode=475400",
-      "date": "26.05.04"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=475400",
     "news": {
       "title": "씨메스로보틱스, 상반기 매출 95.2억…역대 최대",
@@ -742,13 +526,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "씨아이에스",
     "code": "222080",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "이차전지 전극공정, 디스플레이 장비 기업",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260504_company_439964000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92349&page=1&searchType=itemCode&itemCode=222080",
-      "date": "26.05.04"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=222080",
     "news": {
       "title": "2차전지 상위 10사 법인세 529억…매출 줄어도 전년비 37%↑ [2026년 상...",
@@ -762,13 +540,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "아스트",
     "code": "067390",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "워크아웃 돌입과 B737 생산차질로 저점구간 ..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20240925_company_720681000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=77159&page=1&searchType=itemCode&itemCode=067390",
-      "date": "24.09.25"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=067390",
     "news": {
       "title": "아스트, 워크아웃 만기 앞두고 1분기 최대 실적…민항기 넘어 방산 겨...",
@@ -782,19 +554,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "알테오젠",
     "code": "196170",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "이제 계약 보다 실적으로 봐야할 때",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260908_company_54288000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=96042&page=1&searchType=itemCode&itemCode=196170",
-      "date": "26.09.08"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "알테오젠의 든든한 새 파트너 '노바티스' [한국주식 원포인트 레슨]",
+      "title": "K폐암신약 '렉라자 신화'… 유한양행·오스코텍 베스트 제약상",
       "office": "매일경제",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/009/0005733376"
+      "url": "https://n.news.naver.com/mnews/article/009/0005733653"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -802,13 +568,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에너토크",
     "code": "019990",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "기술력으로 시장을 선도하는 전동 액츄에이터..",
-      "broker": "한국기업데이터",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1606350061790.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=55389&page=1&searchType=itemCode&itemCode=019990",
-      "date": "20.11.26"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=019990",
     "news": {
       "title": "에너토크, 우즈베키스탄 'AI 스마트 열에너지 플랫폼' 사업 참여",
@@ -822,13 +582,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에스비비테크",
     "code": "389500",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "하모닉 감속기 국산화 1호 기업",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260824_company_31462000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95813&page=1&searchType=itemCode&itemCode=389500",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=389500",
     "news": {
       "title": "로봇 대세 속 적자 탈출 숙제…에스비비테크의 비밀병기는",
@@ -842,13 +596,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에스오에스랩",
     "code": "464080",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[AI] 3D 고정형 라이다 및 데이터 솔루션 전..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260123_company_570313000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=89417&page=1&searchType=itemCode&itemCode=464080",
-      "date": "26.01.23"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=464080",
     "news": {
       "title": "에스오에스랩, 경산시 강소형 스마트시티 조성사업 솔루션 공급",
@@ -862,13 +610,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에스티팜",
     "code": "237690",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "일시적 영향이지만, 돌다리를 두드리며 (2Q26..",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260729_company_384080000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94687&page=1&searchType=itemCode&itemCode=237690",
-      "date": "26.07.29"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=237690",
     "news": {
       "title": "[투자전략 따라잡기] 40조 소각 VS 110조 배당 왜 SK 오르고 삼성은 떨...",
@@ -882,13 +624,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에스피지",
     "code": "058610",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "국내 유일 정밀감속기 3종 full 라인업 보유",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260824_company_961022000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95811&page=1&searchType=itemCode&itemCode=058610",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=058610",
     "news": {
       "title": "에스피지, 휴머노이드 카이로스에 정밀감속기 탑재",
@@ -902,13 +638,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에이디테크놀로지",
     "code": "200710",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "변하지 않은 중장기 성장 여력",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260520_company_776589000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93168&page=1&searchType=itemCode&itemCode=200710",
-      "date": "26.05.20"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=200710",
     "news": {
       "title": "반도체 훈풍 탄 디자인하우스, 상반기 실적 ‘훨훨’",
@@ -922,13 +652,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에이비엘바이오",
     "code": "298380",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "Givastomig, 얼마나 효과가 있어야할까?",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260901_company_260206000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95963&page=1&searchType=itemCode&itemCode=298380",
-      "date": "26.09.01"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298380",
     "news": {
       "title": "'역대 최대 실적'이라더니…힘 못 쓰는 제약·바이오株, 왜?",
@@ -942,13 +666,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "에코프로비엠",
     "code": "247540",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[NDR 후기] 헝가리+니켈 내재화에 주목",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260810_company_2884000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95363&page=1&searchType=itemCode&itemCode=247540",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
       "title": "네 마녀의 날·반도체 리밸런싱에도 7천피 지켰다",
@@ -962,13 +680,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "엔젤로보틱스",
     "code": "455900",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "천사의 마음은 어디로 향할까",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/31/20250530_company_380483000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=83561&page=1&searchType=itemCode&itemCode=455900",
-      "date": "25.05.30"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=455900",
     "news": {
       "title": "엔젤로보틱스, 베트남 '로봇재활 심포지엄' 성료…아세안 네트워크 강...",
@@ -982,13 +694,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "엔켐",
     "code": "348370",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2024년 본격 성장 개시",
-      "broker": "대신증권",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1711582963859.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=72394&page=1&searchType=itemCode&itemCode=348370",
-      "date": "24.03.28"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=348370",
     "news": {
       "title": "엔켐, 출하 확대 효과 본격화…2분기 매출 22%↑·수익성 개선",
@@ -1002,13 +708,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "엘앤에프",
     "code": "066970",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "시작되는 LFP 공급",
-      "broker": "IBK투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260807_company_912875000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95244&page=1&searchType=itemCode&itemCode=066970",
-      "date": "26.08.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=066970",
     "news": {
       "title": "엘앤에프, 신산업 투자 앞두고 자금조달 속도…LFP·46파이 '초격차' ...",
@@ -1022,13 +722,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "오르비텍",
     "code": "046120",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2026년 새로운 시작, 기대되는 그림",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260430_company_472574000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92260&page=1&searchType=itemCode&itemCode=046120",
-      "date": "26.04.30"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=046120",
     "news": {
       "title": "미국 원전 건설 기대감에 원전주들 ‘불기둥’…오르비텍 상한가 기록...",
@@ -1042,13 +736,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "오픈엣지테크놀로지",
     "code": "394280",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "AI SoC 병목을 푸는 인프라 IP 기업",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260703_company_188418000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93859&page=1&searchType=itemCode&itemCode=394280",
-      "date": "26.07.03"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=394280",
     "news": {
       "title": "[이 시각 시황] 피지컬 AI·로봇주 강세…LG-엔비디아 협력 기대",
@@ -1062,13 +750,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "올릭스",
     "code": "226950",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "메마른 바이오 시장의 OASIS",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260819_company_783007000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95746&page=1&searchType=itemCode&itemCode=226950",
-      "date": "26.08.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=226950",
     "news": {
       "title": "올릭스, 탈모약 호주 임상 1b상 추적관찰 완료…연내 2a상 진입 목표",
@@ -1082,13 +764,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "우리기술",
     "code": "032820",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "K-원전, K-방산, K-철도 수혜주",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1713913715116.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=72963&page=1&searchType=itemCode&itemCode=032820",
-      "date": "24.04.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=032820",
     "news": {
       "title": "\"美 원전 짓는다\" 들썩…3일 만에 33% '불기둥' 뿜은 종목 [분석+]",
@@ -1102,13 +778,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "우진",
     "code": "105840",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "반도체용 온도센서, 다시 살아나다",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260519_company_912390000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93143&page=1&searchType=itemCode&itemCode=105840",
-      "date": "26.05.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=105840",
     "news": {
       "title": "우진, 한국수력원자력과 109억 규모 공급계약 체결",
@@ -1122,13 +792,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "우진엔텍",
     "code": "457550",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[AI] 원자력 및 화력발전소 정비 전문기업",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260413_company_317423000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91444&page=1&searchType=itemCode&itemCode=457550",
-      "date": "26.04.13"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=457550",
     "news": {
       "title": "우진엔텍, 원전 방사선감시계통 MI 케이블 어셈블리 국산화",
@@ -1142,13 +806,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "원익머트리얼즈",
     "code": "104830",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "뚜벅뚜벅",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260810_company_786070000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95381&page=1&searchType=itemCode&itemCode=104830",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=104830",
     "news": {
       "title": "“반도체용 특수가스 기업 원익머트리얼즈, 영업이익 올해 673억→ 내...",
@@ -1162,13 +820,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "원익피앤이",
     "code": "217820",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2023년 기대되는 합병효과",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1680562963113.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=63624&page=1&searchType=itemCode&itemCode=217820",
-      "date": "23.04.04"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=217820",
     "news": {
       "title": "원익피앤이·씨엘모빌리티, '충전 연동형 EV 플릿 통합관제' 공동 개발...",
@@ -1182,13 +834,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "원익IPS",
     "code": "240810",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "수주가 쌓이기 시작했습니다",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260807_company_439027000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95238&page=1&searchType=itemCode&itemCode=240810",
-      "date": "26.08.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
       "title": "네 마녀의 날·반도체 리밸런싱에도 7천피 지켰다",
@@ -1202,13 +848,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "유진테크",
     "code": "084370",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "올해 눈높이 하향",
-      "broker": "한화투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/16/20250519_company_237441000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=83354&page=1&searchType=itemCode&itemCode=084370",
-      "date": "25.05.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=084370",
     "news": {
       "title": "유진테크, 864억 규모 신규 시설 투자 결정",
@@ -1222,19 +862,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "유한양행",
     "code": "000100",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "성장의 뿌리는 단단해지고 있다",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260819_company_903879000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95751&page=1&searchType=itemCode&itemCode=000100",
-      "date": "26.08.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "'렉라자' 상업화 바람탄 유한양행…올해도 역대급 매출 예고",
-      "office": "비즈워치",
-      "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050601"
+      "title": "K폐암신약 '렉라자 신화'… 유한양행·오스코텍 베스트 제약상",
+      "office": "매일경제",
+      "date": "20260910",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733653"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000100/news"
   },
@@ -1242,13 +876,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "이노스페이스",
     "code": "462350",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "나 쏠 수 있어!",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260506_company_167844000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92485&page=1&searchType=itemCode&itemCode=462350",
-      "date": "26.05.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=462350",
     "news": {
       "title": "이노스페이스, 경기국방벤처센터 하반기 협약기업 선정",
@@ -1262,13 +890,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "이수페타시스",
     "code": "007660",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "캐파와 믹스, 이제는 P 사이클까지",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260825_company_424445000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95861&page=1&searchType=itemCode&itemCode=007660",
-      "date": "26.08.25"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=007660",
     "news": {
       "title": "[여의도단신] 삼성자산운용·우리투자증권·NH아문디자산운용",
@@ -1282,13 +904,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "인텔리안테크",
     "code": "189300",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "해상·지상용 안테나 모두 견조한 성장세",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260819_company_187412000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95762&page=1&searchType=itemCode&itemCode=189300",
-      "date": "26.08.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=189300",
     "news": {
       "title": "인텔리안테크, 2분기 역대 최대 매출…LEO·방산 성장",
@@ -1302,13 +918,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "일진전기",
     "code": "103590",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "투자를 먼저 끝낸 회사의 수확기의 모습",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260824_company_67255000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95826&page=1&searchType=itemCode&itemCode=103590",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=103590",
     "news": {
       "title": "AI 데이터센터 기대감에 전선·광통신·통신장비 '고공행진'",
@@ -1322,13 +932,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "제노코",
     "code": "361390",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "KAI를 등에 업고 우주로",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260506_company_599977000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92487&page=1&searchType=itemCode&itemCode=361390",
-      "date": "26.05.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=361390",
     "news": {
       "title": "'CB 오버행 변수' 제노코, 하반기 실적 반등 앞두고 물량 부담",
@@ -1342,13 +946,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "제주반도체",
     "code": "080220",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "IoT 및 엣지 디바이스용 메모리 반도체 전문..",
-      "broker": "나이스디앤비",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/72/20241220_company_578284000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=79413&page=1&searchType=itemCode&itemCode=080220",
-      "date": "24.12.20"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=080220",
     "news": {
       "title": "금리 치솟을 땐 투자전략 달라야…‘고ROA’주, 16개 종목 리스트는? ...",
@@ -1362,13 +960,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "주성엔지니어링",
     "code": "036930",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "메모리 반도체 투자 회복 국면, 저평가 해소 ..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260122_company_640038000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=88888&page=1&searchType=itemCode&itemCode=036930",
-      "date": "26.01.02"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
       "title": "네 마녀의 날·반도체 리밸런싱에도 7천피 지켰다",
@@ -1382,13 +974,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "지씨셀",
     "code": "144510",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "NDR 후기: 세포치료제 포트폴리오 확대",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260618_company_782614000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93582&page=1&searchType=itemCode&itemCode=144510",
-      "date": "26.06.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=144510",
     "news": {
       "title": "지씨셀, 라플레와 면역세포치료 예후 예측 AI 개발 맞손",
@@ -1402,13 +988,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "지엔씨에너지",
     "code": "119850",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "AI데이터센터 수주 1번 타자",
-      "broker": "IBK투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260909_company_996975000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=96048&page=1&searchType=itemCode&itemCode=119850",
-      "date": "26.09.09"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=119850",
     "news": {
       "title": "\"SK텔레콤, 14만원 간다\"…지엔씨에너지, AI데이터센터 수주 1번 타자...",
@@ -1422,13 +1002,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "천보",
     "code": "278280",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "NDR 후기: 실적 바닥 통과 구간, 북미 OEM 서..",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20260827_company_497301000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95888&page=1&searchType=itemCode&itemCode=278280",
-      "date": "26.08.27"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=278280",
     "news": {
       "title": "동화일렉트로·피지티·천보, '북미 배터리 순환형 공급망' 협력",
@@ -1442,13 +1016,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "칩스앤미디어",
     "code": "094360",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "안정적인 실적, 4분기 큰 성장 기대",
-      "broker": "한화투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/16/20260804_company_435559000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95040&page=1&searchType=itemCode&itemCode=094360",
-      "date": "26.08.04"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=094360",
     "news": {
       "title": "칩스앤미디어, ASIL-B 인증 차량용 IP 출시",
@@ -1462,13 +1030,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "컨텍",
     "code": "451760",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "A-Z 우주를 연결하는 인프라",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260506_company_544809000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=92486&page=1&searchType=itemCode&itemCode=451760",
-      "date": "26.05.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=451760",
     "news": {
       "title": "컨텍 자회사 TXSpace, '블루오리진'과 지상국 안테나 공급",
@@ -1482,13 +1044,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "켄코아에어로스페이스",
     "code": "274090",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "숨고르기에 들어간 PTF, 성장세를 이어가는 ..",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20251106_company_931970000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=87689&page=1&searchType=itemCode&itemCode=274090",
-      "date": "25.11.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=274090",
     "news": {
       "title": "켄코아에어로스페이스, KAI와 10년 장기 공급계약 체결",
@@ -1502,13 +1058,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "코스모신소재",
     "code": "005070",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "26년 MLCC 소재, 27년 다시 양극재",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260723_company_273262000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94362&page=1&searchType=itemCode&itemCode=005070",
-      "date": "26.07.23"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005070",
     "news": {
       "title": "코스모신소재, 150억 규모 피노 지분 인수계약 체결",
@@ -1522,13 +1072,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "큐렉소",
     "code": "060280",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "실적으로 입증된 대한민국 의료로봇 진짜 대..",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260402_company_906880000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91184&page=1&searchType=itemCode&itemCode=060280",
-      "date": "26.04.02"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=060280",
     "news": {
       "title": "큐렉소·에스오에스랩, 수술·의료로봇 공간지능 솔루션 개발 MOU 체결",
@@ -1542,13 +1086,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "큐로셀",
     "code": "372320",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2025년 CAR-T 세포 치료제 신약 림카토 출시 ..",
-      "broker": "유진투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/63/20241212_company_623162000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=79290&page=1&searchType=itemCode&itemCode=372320",
-      "date": "24.12.12"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=372320",
     "news": {
       "title": "큐로셀 국산 CAR-T 급여 ‘성큼’…유한양행 API 수주도 순항 [바이오...",
@@ -1562,13 +1100,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "클로봇",
     "code": "466100",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "챕터 2의 서막",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260618_company_361731000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93583&page=1&searchType=itemCode&itemCode=466100",
-      "date": "26.06.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=466100",
     "news": {
       "title": "클로봇, DLS 인수 마무리…물류자동화 시너지 낸다",
@@ -1582,13 +1114,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "태성",
     "code": "323280",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "PCB 자동화설비 1위",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1677539420473.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=63221&page=1&searchType=itemCode&itemCode=323280",
-      "date": "23.02.28"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=323280",
     "news": {
       "title": "태성, 9월 수주 2200억원 돌파…\"지난해 연간 매출액 5.8배\"",
@@ -1602,13 +1128,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "테스",
     "code": "095610",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "양호한 실적과 든든한 수주잔고",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260819_company_189634000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95776&page=1&searchType=itemCode&itemCode=095610",
-      "date": "26.08.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=095610",
     "news": {
       "title": "\"테스, 수주잔고 폭발적 성장…투자의견 '매수'·목표가 21만원\"-IBK",
@@ -1622,13 +1142,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "테크윙",
     "code": "089030",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "큐브 프로버 장비로 레벨업",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/2/20250220_company_35653000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=81152&page=1&searchType=itemCode&itemCode=089030",
-      "date": "25.02.20"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=089030",
     "news": {
       "title": "K-반도체 메모리 핸들러…테크윙, 美 마이크론 말레이·인도 공급 확대",
@@ -1642,13 +1156,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "텔레칩스",
     "code": "054450",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26P Review: 용역 매출 본격화, 실적 성장 ..",
-      "broker": "유진투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/63/20260807_company_554176000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95249&page=1&searchType=itemCode&itemCode=054450",
-      "date": "26.08.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=054450",
     "news": {
       "title": "하나證 \"텔레칩스, 개발 용역이 키운 실적…해외 확장도 가속화 긍정...",
@@ -1662,13 +1170,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "툴젠",
     "code": "199800",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "세계 최초 진핵세포 CRISPR/Cas9 특허 출원 ..",
-      "broker": "나이스디앤비",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1686870380890.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=65538&page=1&searchType=itemCode&itemCode=199800",
-      "date": "23.06.16"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=199800",
     "news": {
       "title": "툴젠, 심혈관질환 유전자치료제 개발 속도…\"내년 美 임상 신청\"",
@@ -1682,13 +1184,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "티로보틱스",
     "code": "117730",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "AMR의 확장에 주목!",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20251031_company_966895000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=87392&page=1&searchType=itemCode&itemCode=117730",
-      "date": "25.10.31"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=117730",
     "news": {
       "title": "티로보틱스, 美 ESS 자동화 모듈 추가 수주…누적 190억 규모",
@@ -1702,13 +1198,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "티씨케이",
     "code": "064760",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "SiC 포커스링, 두 번째 성장기 진입",
-      "broker": "IBK투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/40/20260903_company_624070000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95983&page=1&searchType=itemCode&itemCode=064760",
-      "date": "26.09.03"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=064760",
     "news": {
       "title": "티씨케이, 1분기 매출 954억…전년대비 22%↑",
@@ -1722,13 +1212,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "파마리서치",
     "code": "214450",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "아시아 견문록: 다각화의 힘은 더 강해질 것",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260818_company_30395000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95700&page=1&searchType=itemCode&itemCode=214450",
-      "date": "26.08.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=214450",
     "news": {
       "title": "'역대 최대 실적'이라더니…힘 못 쓰는 제약·바이오株, 왜?",
@@ -1756,13 +1240,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "펩트론",
     "code": "087010",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "GLP-1 전쟁의 캐스팅보트",
-      "broker": "키움증권",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1689636996262.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=66180&page=1&searchType=itemCode&itemCode=087010",
-      "date": "23.07.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=087010",
     "news": {
       "title": "카카오헬스, 'AI 네이티브 EMR' 만든다…'메디테크' 사흘 대장정",
@@ -1776,13 +1254,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "포스코퓨처엠",
     "code": "003670",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[NDR 후기] 2027년 가동률 회복 본격화",
-      "broker": "유안타증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/18/20260810_company_327295000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95362&page=1&searchType=itemCode&itemCode=003670",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
       "title": "[AI 대전환 리딩 전략] 포스코퓨처엠, AI 전력수요 LFP로 승부",
@@ -1796,13 +1268,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "피에스케이",
     "code": "319660",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "모든 고객들이 Capex 상향",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260605_company_189753000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93427&page=1&searchType=itemCode&itemCode=319660",
-      "date": "26.06.05"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=319660",
     "news": {
       "title": "[서울데이터랩]코스닥 시총 상위주 장중 강세…로봇·반도체 장비 급...",
@@ -1816,13 +1282,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "피엔티",
     "code": "137400",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "고객사 다변화. 소재 사업 방향성이 중요",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260901_company_88334000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95947&page=1&searchType=itemCode&itemCode=137400",
-      "date": "26.09.01"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=137400",
     "news": {
       "title": "미래에셋, 피엔티 목표가↓…\"3분기에는 영업이익 회복 전망\"",
@@ -1836,13 +1296,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "필옵틱스",
     "code": "161580",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[NDR 후기] 천천히, 꾸준히",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260323_company_728860000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91004&page=1&searchType=itemCode&itemCode=161580",
-      "date": "26.03.23"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=161580",
     "news": {
       "title": "2㎜ 두께 유리기판도 불량 ‘0’…필옵틱스, TGV 기술력 과시",
@@ -1856,13 +1310,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "하나마이크론",
     "code": "067310",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "사업 효율성 제고",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260610_company_894884000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93485&page=1&searchType=itemCode&itemCode=067310",
-      "date": "26.06.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=067310",
     "news": {
       "title": "제너셈, 하나마이크론과 119억 규모 반도체 후공정 장비 계약",
@@ -1876,13 +1324,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "하나머티리얼즈",
     "code": "166090",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "노이즈보다 다가올 호황에 조명",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260903_company_378701000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95986&page=1&searchType=itemCode&itemCode=166090",
-      "date": "26.09.03"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=166090",
     "news": {
       "title": "하나머티리얼즈, 메모리 증설에 Si 파츠 수요↑…내년 실적 가속-SK",
@@ -1896,13 +1338,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "하이젠알앤엠",
     "code": "160190",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "[AI] 산업용 모터 및 감속기 제조 전문기업",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260422_company_302902000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91755&page=1&searchType=itemCode&itemCode=160190",
-      "date": "26.04.22"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=160190",
     "news": {
       "title": "하이젠알앤엠 9만원일 땐 외면하더니… 타이밍 놓친 만년 저평가주 일...",
@@ -1916,13 +1352,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "하이즈항공",
     "code": "221840",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2025년 하반기부터 실적 턴어라운드 전망",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20250219_company_902250000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=81122&page=1&searchType=itemCode&itemCode=221840",
-      "date": "25.02.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=221840",
     "news": {
       "title": "하이즈항공, 대한항공에 보잉 치누크 헬기 부품 공급…51억원 규모",
@@ -1936,13 +1366,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한국항공우주",
     "code": "047810",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "실적도 수주도 하반기에 달려있다",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260731_company_39672000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94912&page=1&searchType=itemCode&itemCode=047810",
-      "date": "26.07.31"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
       "title": "글로벌 모델 성능 정조준…LG CNS, 토종 '보안 특화 AI' 띄운다",
@@ -1956,13 +1380,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한미반도체",
     "code": "042700",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q25 Preview: 하반기를 향해",
-      "broker": "유진투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/63/20250722_company_342086000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=84565&page=1&searchType=itemCode&itemCode=042700",
-      "date": "25.07.22"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=042700",
     "news": {
       "title": "곽신 작가, 한미반도체에 'ENDLESS LOVE' 5점 기증",
@@ -1976,13 +1394,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한솔케미칼",
     "code": "014680",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "1Q26 Re: QD 감소 아쉽지만 반도체 매출 증가..",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260519_company_41517000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=93153&page=1&searchType=itemCode&itemCode=014680",
-      "date": "26.05.19"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=014680",
     "news": {
       "title": "2차전지 상위 10사 법인세 529억…매출 줄어도 전년비 37%↑ [2026년 상...",
@@ -1996,13 +1408,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한전기술",
     "code": "052690",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "매출이 잠시 줄었을 뿐",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260810_company_493659000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95365&page=1&searchType=itemCode&itemCode=052690",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=052690",
     "news": {
       "title": "[애프터마켓 리뷰] 미 원전 건설 기대에 한전기술 등 원전주 급등",
@@ -2016,13 +1422,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한전산업",
     "code": "130660",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "대한민국을 밝히는 미래 에너지의 주인공",
-      "broker": "나이스디앤비",
-      "pdfUrl": "https://ssl.pstatic.net/imgstock/upload/research/company/1665011392112.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=60391&page=1&searchType=itemCode&itemCode=130660",
-      "date": "22.10.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=130660",
     "news": {
       "title": "한전산업, 광복절 맞아 독립유공자 후손 위한 ‘행복한 사진관’ 사회...",
@@ -2036,13 +1436,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한전KPS",
     "code": "051600",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "선행 지표가 없는 실적",
-      "broker": "하나증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/57/20260811_company_188279000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95428&page=1&searchType=itemCode&itemCode=051600",
-      "date": "26.08.11"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=051600",
     "news": {
       "title": "한전KPS, 조선대서 '탄소중립·ESG' 프로그램 운영",
@@ -2056,13 +1450,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한중엔시에스",
     "code": "107640",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "미국 시장 공략 속도, 사업 영역도 확장 중",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260806_company_126987000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95140&page=1&searchType=itemCode&itemCode=107640",
-      "date": "26.08.06"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=107640",
     "news": {
       "title": "[한중엔시에스 줌인]② 美 투자에 현금소요 확대…800억 신종자본 선...",
@@ -2076,13 +1464,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "한화에어로스페이스",
     "code": "012450",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "K9MH의 미국 진출, 단일 수주 이상의 의미",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260824_company_957228000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95841&page=1&searchType=itemCode&itemCode=012450",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
       "title": "'태국 호위함' 잡은 한화오션, 다음은 사우디·필리핀…해외 함정수주...",
@@ -2096,13 +1478,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "현대건설",
     "code": "000720",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "글로벌 원전 사업, 넓어지는 수주 기반",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260901_company_536305000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95959&page=1&searchType=itemCode&itemCode=000720",
-      "date": "26.09.01"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
       "title": "1조원대 마천5구역 재개발…현대건설 수주 참여 검토",
@@ -2116,13 +1492,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "현대무벡스",
     "code": "319400",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "수주의 양과 질이 달라지는 국면",
-      "broker": "유진투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/63/20250818_company_631974000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=85930&page=1&searchType=itemCode&itemCode=319400",
-      "date": "25.08.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=319400",
     "news": {
       "title": "[이 시각 시황] 피지컬 AI·로봇주 강세…LG-엔비디아 협력 기대",
@@ -2136,13 +1506,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "효성중공업",
     "code": "298040",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "잘하는 송전을 더 잘하고 있다",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260824_company_452384000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95820&page=1&searchType=itemCode&itemCode=298040",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298040",
     "news": {
       "title": "효성중공업, AI 데이터센터 고객 확대…목표가 400만원 유지-SK",
@@ -2156,13 +1520,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "휴니드",
     "code": "005870",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "항공전자와 방산 통신 기술 융합으로 글로벌 ..",
-      "broker": "서울평가정보",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/75/20251128_company_812801000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=88459&page=1&searchType=itemCode&itemCode=005870",
-      "date": "25.11.28"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005870",
     "news": {
       "title": "휴니드, 한 달간 美 보잉향 공급계약 3건 수주",
@@ -2176,13 +1534,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "휴젤",
     "code": "145020",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26 Review; 하반기 숫자 확인 필요",
-      "broker": "교보증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/62/20260810_company_346109000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95386&page=1&searchType=itemCode&itemCode=145020",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=145020",
     "news": {
       "title": "대웅·휴젤 나란히 1조…국산 톡신, 수출산업 됐다",
@@ -2196,13 +1548,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "AP위성",
     "code": "211270",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "위성 양산 전환과 통신 고객 다변화 주목",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260323_company_858951000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=91013&page=1&searchType=itemCode&itemCode=211270",
-      "date": "26.03.23"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=211270",
     "news": {
       "title": "​AP위성, 8000억 규모 '백두체계' 데이터링크 모뎀 공급",
@@ -2216,13 +1562,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "HD현대일렉트릭",
     "code": "267260",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "수익성은 유틸리티, 성장은 증설이 만든다",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260824_company_28043000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95818&page=1&searchType=itemCode&itemCode=267260",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
       "title": "HD현대일렉트릭, AI·전력망 슈퍼사이클에 전력기기 매출 비중 수직상...",
@@ -2236,13 +1576,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "HK이노엔",
     "code": "195940",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26 Re: 견조한 실적",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260731_company_308868000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94862&page=1&searchType=itemCode&itemCode=195940",
-      "date": "26.07.31"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=195940",
     "news": {
       "title": "HK이노엔, 매출 '1조 클럽' 이끈 국민 위장약 … 美시장도 뚫는다",
@@ -2256,13 +1590,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "HPSP",
     "code": "403870",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "로직을 넘어 메모리로, HPA 성장축 다변화",
-      "broker": "한국IR협의회",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/74/20260728_company_914862000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=94605&page=1&searchType=itemCode&itemCode=403870",
-      "date": "26.07.28"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=403870",
     "news": {
       "title": "[서울데이터랩]마감 직후 인기 검색 종목 20選",
@@ -2276,13 +1604,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "ISC",
     "code": "095340",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "AI 수요 확대와 함께 성장의 축도 넓어진다",
-      "broker": "한화투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/16/20260813_company_276466000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95567&page=1&searchType=itemCode&itemCode=095340",
-      "date": "26.08.13"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=095340",
     "news": {
       "title": "ISC, SK하이닉스향 테스트소켓 매출 14배↑…SK 편입 후 거래 확대",
@@ -2296,13 +1618,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "LG에너지솔루션",
     "code": "373220",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "명확한 방향성",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260805_company_890085000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95066&page=1&searchType=itemCode&itemCode=373220",
-      "date": "26.08.05"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
       "title": "구리 없으면 AI도 먹통…K전선·전력기기 '동빛 슈퍼사이클'",
@@ -2316,13 +1632,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "LIG넥스원",
     "code": "079550",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "2Q26 Review: 고성장에 변함은 없습니다",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260810_company_653831000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95352&page=1&searchType=itemCode&itemCode=079550",
-      "date": "26.08.10"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
       "title": "국방 AI, 기다리다 기회 놓친다…전력화 속도가 관건",
@@ -2336,13 +1646,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "LS",
     "code": "006260",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "내러티브가 실적으로 증명되기 시작!",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/15/20260907_company_373596000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=96030&page=1&searchType=itemCode&itemCode=006260",
-      "date": "26.09.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
       "title": "LS일렉, 중부발전과 재생에너지 동맹…육상풍력부터 태양광·BESS로 확...",
@@ -2356,13 +1660,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "LS ELECTRIC",
     "code": "010120",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "전력은 속도가 생명, 단납기 생산이 강점",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260824_company_690212000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95823&page=1&searchType=itemCode&itemCode=010120",
-      "date": "26.08.24"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
       "title": "구리 없으면 AI도 먹통…K전선·전력기기 '동빛 슈퍼사이클'",
@@ -2376,13 +1674,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "LS마린솔루션",
     "code": "060370",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "CLV 투자를 통한 중장기 성장 확보",
-      "broker": "키움증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/39/20250605_company_444209000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=83623&page=1&searchType=itemCode&itemCode=060370",
-      "date": "25.06.05"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=060370",
     "news": {
       "title": "LS마린솔루션, 상반기 영업이익 전년比 61%↑…LS전선 3개 자회사 나란...",
@@ -2396,13 +1688,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "LS에코에너지",
     "code": "229640",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "탈중국화 공급망 수혜 &rArr; 희토류 금속사업 성..",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260818_company_596204000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95669&page=1&searchType=itemCode&itemCode=229640",
-      "date": "26.08.18"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=229640",
     "news": {
       "title": "LS에코에너지 6.32%·국순당 5.57% 상승…강원 상장사 희비",
@@ -2416,13 +1702,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "SK바이오사이언스",
     "code": "302440",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "수익성 회복세 지속, PCV21가 임상 순항중",
-      "broker": "대신증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/2/20251104_company_429992000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=87589&page=1&searchType=itemCode&itemCode=302440",
-      "date": "25.11.04"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=302440",
     "news": {
       "title": "빅파마-K제약 '판매 동맹' 확산…똘똘한 품목, 실적 바꾼다",
@@ -2436,19 +1716,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "SK바이오팜",
     "code": "326030",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "드디어 등장한 2nd 파이프라인, 오파칼림",
-      "broker": "DS투자증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/66/20260827_company_361611000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95905&page=1&searchType=itemCode&itemCode=326030",
-      "date": "26.08.27"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=326030",
     "news": {
-      "title": "SK바이오팜, 1조원에 도입 예정이던 뇌전증 신약 임상 부분 보류",
-      "office": "조선일보",
+      "title": "美 FDA, SK바이오팜이 '1조' 쏜 오파칼림 임상 보류 통보",
+      "office": "데일리안",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997744"
+      "url": "https://n.news.naver.com/mnews/article/119/0003131465"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/326030/news"
   },
@@ -2456,19 +1730,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "SK이노베이션",
     "code": "096770",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "SK-On, NeoVolta ESS 수주 코멘트",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260901_company_188873000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95950&page=1&searchType=itemCode&itemCode=096770",
-      "date": "26.09.01"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK이노베이션 울산 찾은 최태원, 직원들과 현장 소통",
-      "office": "뉴스1",
+      "title": "최태원, 울산 AI데이터센터·울산CLX 현장 방문…“AI시대 선도”",
+      "office": "서울신문",
       "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/421/0009163894"
+      "url": "https://n.news.naver.com/mnews/article/081/0003679108"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -2476,19 +1744,13 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "SK하이닉스",
     "code": "000660",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "HBM 고객 다변화 본격화",
-      "broker": "미래에셋증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/56/20260907_company_806609000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=96025&page=1&searchType=itemCode&itemCode=000660",
-      "date": "26.09.07"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "HBM 공급부족에…화웨이도 AI칩 가격 대폭 인상",
-      "office": "한국경제",
-      "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331112"
+      "title": "SK하이닉스 성과급 현금 비율 40%→50%로",
+      "office": "조선일보",
+      "date": "20260911",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997779"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
@@ -2496,13 +1758,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "SKC",
     "code": "011790",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "동박, 가격(ASP)의 시간",
-      "broker": "SK증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/64/20260805_company_909208000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95060&page=1&searchType=itemCode&itemCode=011790",
-      "date": "26.08.05"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=011790",
     "news": {
       "title": "SKC 유리기판, 수율 안정화 단계로…\"첫 양산 인증이 핵심\" IBK투자증권",
@@ -2516,13 +1772,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "company": "SNT에너지",
     "code": "100840",
     "updatedAt": "2026-08-27",
-    "report": {
-      "title": "중동 복구&middot;재건 수혜 및 북미 LNG 프로젝트..",
-      "broker": "iM증권",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/company/61/20260831_company_760313000.pdf",
-      "url": "https://finance.naver.com/research/company_read.naver?nid=95931&page=1&searchType=itemCode&itemCode=100840",
-      "date": "26.08.31"
-    },
+    "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=100840",
     "news": {
       "title": "SNT에너지, 하동 LNG복합발전소 HRSG 수주",
