@@ -20326,9 +20326,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHTEl1eTdJS0tGU1dDVlNFU2c5UDlIY3VlVDBTRF8zTmI1Z0tULTNLbzBxd01oOWl1b0RjaTNXM05ZbXBHcmc?oc=5",
         "pub_date": "Wed, 09 Sep 2026 23:02:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fbUd4UWJOd0JBVWtwYlNOb3loQ05Ub0ZFOFVGRm9GM09KVzNPWndJeF9LekZZQ09hcU9KTjRxdTZTQkZzdnBWVHRKYw?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:02:08 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "id": "222800-기타-15723-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-10",
@@ -22149,9 +22154,44 @@
         "press": "팜이데일리",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wMWpZTmp0WF94YlVHX2ZGOXlPek1rRktFRWhDUHFiWkRJeFdvTV9pcmFqTXp5RllJWnF6Y180X3BxTV9nSVdXNXI0bWV2WFRtLTVpV09RUFMyNGtUOXdLUkRJeUFTYU9WLUVxMHNB?oc=5",
         "pub_date": "Thu, 10 Sep 2026 07:48:01 GMT"
+      },
+      {
+        "press": "메디칼업저버",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zd1hsZ2dkVDd0RW9jNW5GV0dKMWZpV3M1SkhTYzNKQmtTWkJGSG1oVE13QjlnNkx3RVpxbHlfY0lGdGhvY0twejgybjNTNXRFcHhfSzVoX0VYOHVORkUtQXVseEgySjRFbi13?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 20:59:33 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbDdqN2gtV3V0Y0ZXSEo0Ti1XVUY3ckU3dmZsN0RLRWRBZWdoeWlEZjJjWU9mNHk2QUlaeDNYYXZya2FuZC1COTk2ZlVob3pfaGRTV2RDbXI5RlRPVVZaRXlKNXBnck9aangzaQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 07:25:35 GMT"
+      },
+      {
+        "press": "뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkhMZEpFcFJoZkJONF9fUEF0Tl8tTnpmZG5lOUtQUzhKLXRkdVZlTWlKNkVPd0U5VjJxdVJJbHUwamZ5djFtS05CMGMwUWZweFRDcEYwcS1FRmM5Q3BLX0NiMUNtSExlYVYtc3pKTzFTZU1pQkt5aG5ZSWVPTlJQdtIBgAFBVV95cUxNTkhMZEpFcFJoZkJONF9fUEF0Tl8tTnpmZG5lOUtQUzhKLXRkdVZlTWlKNkVPd0U5VjJxdVJJbHUwamZ5djFtS05CMGMwUWZweFRDcEYwcS1FRmM5Q3BLX0NiMUNtSExlYVYtc3pKTzFTZU1pQkt5aG5ZSWVPTlJQdg?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 12:54:26 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HdWFkYjZmYXhwZkJMcngzVlZza1dpLV9hT2ctRlEwTDVJeGJLdDBIc2otM2N0SUREdWdVSVlDeThpU2xRUVNMMW42S016S2dQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 07:32:00 GMT"
+      },
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNlIzWWN0c3E0Ty1jLWJUS3pOV2VncEtSbHgxR3VOVXByb2hmdjdHNXBiR292Uy1yaEtEWk1taERoU25YQVpJend1R0VfZUdhX1AyTnBmRTVGMmlibnc?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 12:52:00 GMT"
+      },
+      {
+        "press": "ebn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nbjVPcU9NMDdwYXlLTjdmdG5fTjRJX0NhNU03cnRoVEtkSmtUWjQwR3hsV3JFMkZuRnh6V0gtZG1jTkNVZmpCam1qUVlDazlNZ25uMnhtalFHOE9yNDM4cXM1T1I2anpv?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 08:16:01 GMT"
+      },
+      {
+        "press": "news.bizwatch.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uaEloUjZCa2otYV9uUkhiR3I5bjV1b1hrMWl5VVNZamlpOFh4eHFRZlFxUnhMODBhVkdTbjZsQmQ5UWczZjhQYnQ5WG5DdXBicXFXRXE3akhMRDVZQ3lSQlV0Z0VUTHhwblhwTnVzRQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 08:08:09 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 9,
     "id": "207940-기타-16879-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-10",
@@ -22177,6 +22217,54 @@
     ],
     "source_count": 1,
     "id": "052690-기타-16953-20260910",
+    "first_seen": "2026-09-10",
+    "last_updated": "2026-09-10",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 역대급 배당에 삼성물산 주주 ‘방긋’ : 네이버 블로그 - Naver Blog",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Naver Blog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVBEekhId0FnWFprOXk4MEdIODk1M1c0a21kMEhpVVdJM0pZazBYZ3Y2ckxRVkFMaVpWN0RSZl9aTFhXOFFidzEyV0ljNGxKbHFBOXVLdkVqRTFHeVJzZkYwTTJoT2xycm5iLUpHZDhzck1yZHZucXVSN3cxVFl4aXRPQ29obkl1cDNrd0VYZw?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 18:00:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-자본-16982-20260910",
+    "first_seen": "2026-09-10",
+    "last_updated": "2026-09-10",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[공시] 아이앤씨·피델릭스 '투자경고', 액스비스·우리기술 '공매도 금지' 등...38건 - newstnt.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "newstnt.com",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQOTRLVHpXSHRTVUt4a0RyVTZFNnpSZ1hyUWdmdi1mNE05bzNQc24ydVY3Y0p2UE10dnJfcEV1Mno2UEZyRFpCeXdldWNWTkxLYUdBOVRTQnJWakVMQ05lbWxBYWxvVURka2c?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 11:27:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "032820-기타-17020-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-10",
     "status": "일반",
