@@ -52,19 +52,6 @@
     "is_correction": false
   },
   {
-    "company": "HPSP",
-    "stock_code": "403870",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "[기재정정]주요사항보고서(자기주식처분결정)",
-    "rcept_no": "20260907000328",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000328",
-    "is_correction": true
-  },
-  {
     "company": "유진테크",
     "stock_code": "084370",
     "sector": "AI 반도체",
@@ -88,19 +75,6 @@
     "rcept_no": "20260909000058",
     "rcept_dt": "20260909",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000058",
-    "is_correction": false
-  },
-  {
-    "company": "테크윙",
-    "stock_code": "089030",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(약식)",
-    "rcept_no": "20260907000214",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000214",
     "is_correction": false
   },
   {
@@ -169,32 +143,6 @@
     "is_correction": false
   },
   {
-    "company": "삼성전기",
-    "stock_code": "009150",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "최대주주등소유주식변동신고서              ",
-    "rcept_no": "20260907800230",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800230",
-    "is_correction": false
-  },
-  {
-    "company": "이수페타시스",
-    "stock_code": "007660",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20260907800463",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800463",
-    "is_correction": false
-  },
-  {
     "company": "HD현대일렉트릭",
     "stock_code": "267260",
     "sector": "전기·전력",
@@ -231,19 +179,6 @@
     "rcept_no": "20260908800194",
     "rcept_dt": "20260908",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800194",
-    "is_correction": false
-  },
-  {
-    "company": "LS마린솔루션",
-    "stock_code": "060370",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최              ",
-    "rcept_no": "20260907900233",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907900233",
     "is_correction": false
   },
   {
@@ -296,45 +231,6 @@
     "rcept_no": "20260909000408",
     "rcept_dt": "20260909",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000408",
-    "is_correction": false
-  },
-  {
-    "company": "에스피지",
-    "stock_code": "058610",
-    "sector": "피지컬 AI·로봇",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "현금ㆍ현물배당결정              (중간배당)",
-    "rcept_no": "20260907900152",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907900152",
-    "is_correction": false
-  },
-  {
-    "company": "에스피지",
-    "stock_code": "058610",
-    "sector": "피지컬 AI·로봇",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "중간(분기)배당을위한주주명부폐쇄(기준일)결정              ",
-    "rcept_no": "20260907900150",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907900150",
-    "is_correction": false
-  },
-  {
-    "company": "하이젠알앤엠",
-    "stock_code": "160190",
-    "sector": "피지컬 AI·로봇",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(약식)",
-    "rcept_no": "20260907000192",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000192",
     "is_correction": false
   },
   {
@@ -429,32 +325,6 @@
     "is_correction": false
   },
   {
-    "company": "한전기술",
-    "stock_code": "052690",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주주총회소집공고",
-    "rcept_no": "20260907000104",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000104",
-    "is_correction": false
-  },
-  {
-    "company": "한화에어로스페이스",
-    "stock_code": "012450",
-    "sector": "우주항공",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "풍문또는보도에대한해명(미확정)              ",
-    "rcept_no": "20260907800087",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800087",
-    "is_correction": false
-  },
-  {
     "company": "제노코",
     "stock_code": "361390",
     "sector": "우주항공",
@@ -478,45 +348,6 @@
     "rcept_no": "20260909000152",
     "rcept_dt": "20260909",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000152",
-    "is_correction": false
-  },
-  {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "최대주주등소유주식변동신고서              ",
-    "rcept_no": "20260907800372",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800372",
-    "is_correction": false
-  },
-  {
-    "company": "셀트리온",
-    "stock_code": "068270",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "바이오",
-    "title": "투자판단관련주요경영사항              (CTP44(다잘렉스 바이오시밀러) 한국 임상 3상 시험계획 변경신청 승인)",
-    "rcept_no": "20260907800002",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800002",
-    "is_correction": false
-  },
-  {
-    "company": "셀트리온",
-    "stock_code": "068270",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "바이오",
-    "title": "투자판단관련주요경영사항              (CTP51(키트루다 바이오시밀러) 미국 임상 3상 시험계획 변경신청 승인)",
-    "rcept_no": "20260907800004",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800004",
     "is_correction": false
   },
   {
@@ -624,19 +455,6 @@
     "is_correction": false
   },
   {
-    "company": "휴젤",
-    "stock_code": "145020",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최              ",
-    "rcept_no": "20260907900454",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907900454",
-    "is_correction": false
-  },
-  {
     "company": "툴젠",
     "stock_code": "199800",
     "sector": "바이오",
@@ -715,19 +533,6 @@
     "is_correction": true
   },
   {
-    "company": "포스코퓨처엠",
-    "stock_code": "003670",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260907000274",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000274",
-    "is_correction": false
-  },
-  {
     "company": "에코프로비엠",
     "stock_code": "247540",
     "sector": "이차전지·ESS",
@@ -751,19 +556,6 @@
     "rcept_no": "20260908800619",
     "rcept_dt": "20260908",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908800619",
-    "is_correction": false
-  },
-  {
-    "company": "엘앤에프",
-    "stock_code": "066970",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20260907800340",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907800340",
     "is_correction": false
   },
   {
@@ -817,18 +609,5 @@
     "rcept_dt": "20260909",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909900442",
     "is_correction": true
-  },
-  {
-    "company": "서진시스템",
-    "stock_code": "178320",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(일반)",
-    "rcept_no": "20260907000312",
-    "rcept_dt": "20260907",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000312",
-    "is_correction": false
   }
 ]
