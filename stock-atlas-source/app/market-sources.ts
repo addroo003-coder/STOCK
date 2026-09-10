@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "'태국 호위함' 잡은 한화오션, 다음은 사우디·필리핀…해외 함정수주...",
-      "office": "더팩트",
-      "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/629/0000532492"
+      "title": "한화에어로, 크로아티아에 ‘천무 18대’ 6400억 규모 첫 수출",
+      "office": "서울신문",
+      "date": "20260911",
+      "url": "https://n.news.naver.com/mnews/article/081/0003679188"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "HD현대일렉트릭, AI·전력망 슈퍼사이클에 전력기기 매출 비중 수직상...",
-      "office": "블로터",
-      "date": "20260909",
-      "url": "https://n.news.naver.com/mnews/article/293/0000090212"
+      "title": "\"AI 전력시장 뚫는다\" 정기선號 HD현대, 엔진·SMR로 '2030년 매출 100조...",
+      "office": "뉴시스",
+      "date": "20260911",
+      "url": "https://n.news.naver.com/mnews/article/003/0014183539"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "최태원, 울산 AI데이터센터·울산CLX 현장 방문…“AI시대 선도”",
-      "office": "서울신문",
-      "date": "20260910",
-      "url": "https://n.news.naver.com/mnews/article/081/0003679108"
+      "title": "최태원 \"울산서 AI풀스택 프로바이더 완성\"",
+      "office": "머니투데이",
+      "date": "20260911",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412288"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 성과급 현금 비율 40%→50%로",
-      "office": "조선일보",
+      "title": "'현금 50%·자사주 50%' SK하이닉스, 성과급 수정안 마련",
+      "office": "머니투데이",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997779"
+      "url": "https://n.news.naver.com/mnews/article/008/0005412298"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
