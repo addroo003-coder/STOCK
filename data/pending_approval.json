@@ -22384,9 +22384,14 @@
         "press": "비즈월드",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Q2FrTjBUdzdibElkd3JZUDhOV0VNZU1KZ2FCN0tPcFNaR19pUGtPWHZ6bGo0OUQ0WjJhWm1vV2I0UzBpdGVnTW1qTjFFZFhWQW11MWtKbEZCTU9NSkRQVlo3UDJwY0R2Z2tJ?oc=5",
         "pub_date": "Fri, 11 Sep 2026 01:12:00 GMT"
+      },
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzYUxDQURfWFBMWEFCeVZxYm1jLUM4WVhoeDg1UUY1SVN1WE1oRm9zSVZDeXI4YnVZSmNyVVQ1WVhZOFg3V1JsTFo5N0NtN3c0cW1PNXpZWVpEbHhFS0VmNFlIZ1FkaWhQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 07:45:00 GMT"
       }
     ],
-    "source_count": 16,
+    "source_count": 17,
     "id": "207940-기타-16879-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-11",
@@ -23485,9 +23490,14 @@
         "press": "팍스경제TV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mM1BxVUxCdzZLV3RyQS1Mcmkwd1R3LThUZng5N2tNNTBTRFFIQjZfWFpRZkwtakdvYXhmVlNWcU1xZjU2RXZfNnMtTGMtQzBqT2gycTFneDZFeFloZVV2dHZpR1FweE5L?oc=5",
         "pub_date": "Fri, 11 Sep 2026 05:00:56 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xWlpUZTBGUjJHLVNCVldxQkpmRGtCMWM1NnIzUGFpdnJWaEpZVk9jNHMtYy1qb3c5WkJOS0JRbFYwemg5MUdUeG1NLWlidlNFUzg0Q0RobW43c2Zad1o1aEVLNU9xMGc?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 05:00:56 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "451760-기타-17664-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
@@ -23702,7 +23712,7 @@
     "sector": "전기·전력",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "구리값 신기록 행진에도 풍산·LS 주가 숨고르기…증권가 \"하반기 실적 주목\" - 이투데이",
     "source_type": "news",
@@ -23711,9 +23721,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0TjZocEExVFBOcHlHM2NSTURxZHMxQnJGVzFaMDhQd0pfc1pvWE5wM1V3dFFEbzVXSS10TEFMOXhGUklKUGVPV093Y19pOFh6MUstMA?oc=5",
         "pub_date": "Fri, 11 Sep 2026 09:00:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84QjBmbVpjU3lrMUZyU1NCQjg5X01Yay1zMmNUMlBUODZXaGNnQXFzcVpPU3lCTkdnWUhrWTRNZlh2WjdOSnZEaUdaUk5qeTQ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 09:01:04 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-실적-17851-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
@@ -23859,6 +23874,54 @@
     ],
     "source_count": 1,
     "id": "226950-바이오-18161-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "인텔리안테크",
+    "stock_code": "189300",
+    "sector": "우주항공",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "인텔리안테크, 군용 위성 단말기 공급계약 체결…조건부 409억원 규모 - digitaltoday.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "digitaltoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tTUJyWEwxaklaSW5kRmQ3NmludTBnQWpSX0RCVGtWSS1PbzFUSUxIbkc3TjdCUGcxQ0tZOElyQlh6aHJfMHBOcE1BX05uZFdpSEdCSHBlaGhKdHVkZm1KM29LSWxrWWp3dXF1TFl6OVpZaE9GU014YjZGMA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 06:53:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "189300-수주-18197-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 “두드러기 치료제 유럽 판매 확대” - 조선비즈 - biz.chosun.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "biz.chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckRQeVZSSVAzQnBTUnRmWG5YSzVvdWhSY2lidTJyTmRSekpEWTdKSnJnRDZDWHhVYlJMRmhwenhvSTNQanFrZENheDRNT3NYbG0zMnJ3MEZzaGQwcXN2dlpnWWxueFBWS0dMaEF4SzZxZmRGRmRlVzg1cF9wRkNBYk5aYThTNS15bWlJMGpFb1UzUEVSZllqcmJud9IBmwFBVV95cUxOckRQeVZSSVAzQnBTUnRmWG5YSzVvdWhSY2lidTJyTmRSekpEWTdKSnJnRDZDWHhVYlJMRmhwenhvSTNQanFrZENheDRNT3NYbG0zMnJ3MEZzaGQwcXN2dlpnWWxueFBWS0dMaEF4SzZxZmRGRmRlVzg1cF9wRkNBYk5aYThTNS15bWlJMGpFb1UzUEVSZllqcmJudw?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 00:03:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-18204-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
     "status": "일반",
