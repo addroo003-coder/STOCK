@@ -23926,5 +23926,77 @@
     "last_updated": "2026-09-11",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, CMA CGM에 2499억대 손배소송 제기 - g-enews.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "g-enews.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEJLc3h4ZnEzeTJSX1d0dkIteWl6cTR0U2lQeTljMnNNb1h2QkxqWGZRUEZIUmdqbzh1TE52dUhIWkQtTmZsWWNjaXdoUnV0TFh6b0s5bGkwQTJxTzBkUXpZWW5NeGtnZUtsRjB5ZE90ems3Rml4SzY3UG0tN24tMEdNUkFzN19S?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 22:51:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-18225-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“반도체 호황 더 간다”…JP모건, SK하이닉스 ‘비중 확대’ - 서울경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0VmQ5UmlXdU9Vckk3V1BxRGpudk5VMVp2bUF1TGV5UUJ5QzN4MVhRbmItdlZBNkk1MkdSRHdWZm9walhkbXNRaWNaT3BTeHEwYVpDX0pGZXEwOVRLSmU0UVhfSS0?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 23:00:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-18231-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭과 한국중부발전이 9일 '국내 재생에너지 사업의 공동 발굴 및 개발, 사업경쟁력 강화를 위한 전략적 업무협약(MOU)'을 체결했다. (왼쪽부터) 박우범 LS일렉트릭 EA사업본부장(전무)과 김재식 중부발전 재생에너지사업처장. LS일렉트릭 제공 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMi1g5BVV95cUxObkRDRmcwYXVtTHVQSU5YMHhTZkJDZXJtZGdGclZiQTN3NFh1djdyY2R5Y0hnVExjcFU0LXR0d0lyZW9TV0FqTkQ5am1rNkpGb3ZVMEdNZ3hwTEgyMnhVNnFyS2lYT3R3U2dVZXV4ekt6dW5kYnFPUVFZUG12Qk5KYkVlRzE2ZW9kZTZrZ21fQmtpOHNjc2xKME9CTzIzMTlub183cTNBZmNpWU56YkQ0eE9ZYUV0eW9ZNHduQzExdkRKdUFueTdoSUpYdFBkSHdkaE43N1J5c3NlSXljUGpYRnNfckpWNTZIWWFJMnVYM2wwY0lfblhnWWJiQVJJSFhpeUxTTmRudkFKOTMxcnJlRGJoYjB1dEMwc2pMTnB2ejJZSWk3U09HRktlcUNXUmhyT2h3TVFFU2ZiOWtTWGVmRFB1NkhzSmhQMGZDbTFyUDZ3TkxKNUNjc3ByV1c4elZTTHRnVzBndXgwWHhSaGg2OXdpajg1ZGNVVXZoZ2xEVEEtbGFmMkVTcFVRcUVvMnBmQk5UNjBHMkZvZEltRWVmbWt2b2NPMGRqU2RTb2dhYkVfeU5LNnA4MTBzVk1xY0NKeGlaTGpnSnRKOGVUcXlTSzZHZTlwWXotd0E2WVhLUDFQWk1UQ05uWElMSnM5OUdGU0lQZUY0SjF1bnJOZnNyU3MzNDdHUUN3dXp5X285MUFIRnVMUHk0cWpLUldyX2U5aU56bkFtd0dfR21GZHI0ck9vVGh0V0pTYTJLYk13N3ZKS3JRem5tOEFFdDhvTVJmUkRrWTYxTXFwdnQwZ3hiSTFOUWJyUzNlMWxkMGt4V3JKNURaNVc0UmZ4QlZmakNsWEE5cUhtQjBBNTAwNnpScVZMSWp4aDVNWmlCd1RicmdTaTJFblFHYVRRMElDTXg5c1ZQOC1wTjZ2Y1pFNnUwTWdFeHdHSHNQZ1UtQ2dCMWo4bjVmcTJwUWgtTHNSVTJjdWNmRTJkMkVlUy1VUlQyUXA0TGxsYjBTdTdzakh3dFBKREF3X0hVdWc5M0pmb21MVlFJX2JISjZ2bDlrNVFOUVB6STM1ejk4ZjFjRWI1VThtbDFlVmlzMFd4ZE5nYXRSa0RieUhMdHlVX2ZjaU1xWU0zMk93NnJxNDBjSFRDMUV1cWx2MVYtc0MxaDdXWG1oRnlldG5jelBxZG8xZ3l4ZkRIYjRmenJ6N011ZGw2aldlaERrdkt2UE0ydUFtSDVRTUF1dllIYk9pOGk3MmVhN2lNX1BVWXhyejN2bmRWblpzbGEyMEtETVV3eU1rRENybHZPSXNkMUQwdWhHWEE4bjBWUUtiMlNWcDhRSlBKSnM5WFpzTm4yN01jUmJYenp6bU1PMHRhRTh4Z25MZDQ1RjFiUi1Ud3RsYUpkVWlmcktYT2g3UDNYR0xaZG9RV2pRVXE3WjJVUXY0ODhNZzJxY2dncjR4TUdoQzVFM0pVaXRfTVdacHIwZjJkRnBJUEtFLUdGaHNVRE9panJIeDJUNEo4TE9Cc3dETGVGMTd2R2ZzbWJ0RlY4NlBoQW8wOEV5RW9hUVRHaHZEU0hiUWJyODZIYnp2b1hIOURhSXNjWUo1MzVxTVlnOURyaUozQi1Wam5mWlV4M0dOdTNmZWdzRms4bFNEQVd5RGZGVV9IRWhtSUx4UXBNV2VoRGZCQVdaTlkwT2padlJnSDJST0FxM3hFQU9HTXY3anljUXFHQzNkNXlBSV9CUUJkdGl4MGJVaEpQOHFLQlZ1eEZtSEYxVFhZekpVXzE2Z0NaOE9Zc1FfNV8ySjVudnJPUkZyY1NvQ05KYU0xZHpZV0hscnZrZ0x4MzNUaDFxby1iNll5a3dOYXA2NXFobVJSQzdENVpFa2tadzRWOTBlWVVjeTJMQjhScGRqYko4Q3ZLRy0zQXNmSDlBdG9oejVxS21LdUJVckxrek1KR19nX21ZYklmbFpUYzdQUjk2SHJwMkZPMFJJSVYyd3BLeFJneUNSMkFXQmJqcGdDLUhWWVdaMWVUVmVMZ0pZbmp3d3RTZVM4N0FkVnJhd1h3QmpybFpsQUt3bkoxNmVuQVJVbXB1ZFR3anB5Q1YwYXZ6b3NkWnVsR2EzM3BkVDVZeEZDcnBFend6YXRYLWw5d09DYlY5bWdUbUd2RFBwNzU3OWlxYjlzNmRWTEliZjhRX0swMmJtb0NTckZKTjNzYnF6aU41UUdVU0J5N1hQRGZNeHlXbWhsc193bkYwSEp5Z2dudjNKbnNPMDlHYV9vdlBpZlJHd29DZFo3NnExaF82ZGNhUUhfSi1mclpNMXhLemc2X0NnQk8wd3pKc043NVEyeVEweTA4SUR3U19FVUhicTZnc21qOTNuMU5aQVNKdHhWWXNfN1FxX1dLMGpYekFLWG9HWjFFcDZ3bExyVnduTTh5bDdyQ0NyWUY0dWFqbHhVVzRtSUdySWZwMXpQaXpxbUVmODEzMDQ0d0tVYUtLaVdFX0Vyek5jaXhqY2c?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 13:43:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-18274-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
   }
 ]
