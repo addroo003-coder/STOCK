@@ -1719,10 +1719,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=326030",
     "news": {
-      "title": "SK바이오팜, 1조 신약임상 제동…\"11월께 FDA 보류 해제될 것\"",
-      "office": "한국경제",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331495"
+      "title": "[콘퍼런스콜] SK바이오팜, 오파칼림 독성 인지…계약 근거는 종특이성",
+      "office": "블로터",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/293/0000090370"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/326030/news"
   },
