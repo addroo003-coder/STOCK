@@ -235,10 +235,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "주가 4% 하락 ‘삼전닉스’…수익률 상위 1%는 집중매수 [주식 초고수...",
-      "office": "서울경제",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660869"
+      "title": "마이크로덕發 주문 폭주…로보티즈, 액추에이터 '공급 병목'[종목현미...",
+      "office": "뉴스1",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/421/0009165997"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 반도체 반격 시작되나…4분기 HBM 점유율 40% 넘본다",
-      "office": "헤럴드경제",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696193"
+      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 ‘자금조달 경고등’...",
+      "office": "한국경제",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331549"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "여름 관광株 반등의 이면…10.7% 상승 이끈 건 '현대건설'",
-      "office": "아시아경제",
+      "title": "살까 팔까 버틸까…기로에 선 부동산 투자, 여기 답있다",
+      "office": "한국경제",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815064"
+      "url": "https://n.news.naver.com/mnews/article/015/0005331426"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "셀은 살아나는데 투자는 ‘아직’…K-배터리 생태계 반등 언제 [배터...",
-      "office": "디지털데일리",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/138/0002241108"
+      "title": "파리서 'AI 동맹' 맺은 이재용·울산 간 최태원·1조 베팅 정기선 [재...",
+      "office": "데일리안",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/119/0003131875"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'반도체 호황' 삼전닉스 계약학과 지원 19.4%↑…경쟁률 역대 최고",
-      "office": "뉴시스",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/003/0014185535"
+      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 ‘자금조달 경고등’...",
+      "office": "한국경제",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331549"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
