@@ -11452,7 +11452,7 @@
     "source_count": 2,
     "id": "068270-기타-7933-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-11",
     "status": "일반",
     "stale": false
   },
@@ -21428,7 +21428,7 @@
     "source_count": 1,
     "id": "068270-기타-16306-20260910",
     "first_seen": "2026-09-10",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-11",
     "status": "일반",
     "stale": false
   },
@@ -22379,9 +22379,14 @@
         "press": "바이오스펙테이터",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41b3NxMzZBREh2WFlZdmw1SG1Pa0F4Zk1oSDRBSnVXMTlSOXBWZ1hJelZiNlBBUkpEMFR2QzY4aHZfSWcxaHNydWtSdFZORXpkMDdpWUIzWQ?oc=5",
         "pub_date": "Thu, 10 Sep 2026 07:47:00 GMT"
+      },
+      {
+        "press": "비즈월드",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Q2FrTjBUdzdibElkd3JZUDhOV0VNZU1KZ2FCN0tPcFNaR19pUGtPWHZ6bGo0OUQ0WjJhWm1vV2I0UzBpdGVnTW1qTjFFZFhWQW11MWtKbEZCTU9NSkRQVlo3UDJwY0R2Z2tJ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 01:12:00 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 16,
     "id": "207940-기타-16879-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-11",
@@ -23629,9 +23634,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPSzM1ZGdra3VmQlk0T1FIY3lHYnd0cmxsZVNkZVQwbWpQaGJwTDhPV1VPV0xoc2pWOHZJNWN1SXUxY1A2bk5RWG8zV3psZTQ?oc=5",
         "pub_date": "Fri, 11 Sep 2026 09:19:27 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ybHhFNjZQQ01HdjVFSG55TEJ3ZFdJUS1scWpMOVNpcXJWODBiQmJQOEVrV3dOSEhzSFNUbjVuWVBxMWNGVU00QmR0bWsyQVhGYmNEMzh1dW5SUW1XSXFxNQ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 09:17:41 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "005930-리스크-17766-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
@@ -23825,6 +23835,30 @@
     ],
     "source_count": 1,
     "id": "096770-기타-18113-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "올릭스 11만원선 눈앞…탈모치료제 다국가 임상 확대에 9%대 강세 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SWENCOGFPY0pqejBXdjE4UFFkemlLUl9tcGYzTTM4cC15bjRRSy1MWldsUjAyMURkb2NWNWR5UERYb0VObGxILUxzd0t4d25ORENkeHh4NWQ5cE1aYTRYUjRPTXBUX09wdVVCZS1n0gFyQVVfeXFMUFNONEcyZi1BaVBySGZJWEk5Y3ZvbnVXNE9fRUZWUG5NNy1aUzhxVWJNX1ZLNmgwM2ZBd2t4bVlXakpSU2Y2UjdKWmV5Tk9IelJENERPa3EyVVhuNDJ2NllnZnlLWm45WUJvbnMtMWtfY1Jn?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 05:42:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-바이오-18161-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
     "status": "일반",
