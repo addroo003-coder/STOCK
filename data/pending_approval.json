@@ -18818,9 +18818,14 @@
         "press": "ajunews.com",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZTENRY2FvTks5d28tZTJNMmd3b0l1dGUzT1V1MzBHU3JMVFpENGVsdUxjNFdUQ2FfeG1nRVdiai04eGN1T0ZSRXdUTzMyOFN2REVWX25XR3J4QdIBWEFVX3lxTE1vZFctS0s4c2cyYWl0N2U1TUkwNWRfZHpYaWlHUWpnWUR5QW5wdkpoei1NZWxXd1loSHRWWnNnWGtYWkRqRHBoaFFUSXhtdWtEOWZmOUI5QmM?oc=5",
         "pub_date": "Wed, 09 Sep 2026 00:58:11 GMT"
+      },
+      {
+        "press": "인사이트N파워",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IMDgzckN4dXhHZm5nRndjLUVab0tsMUx5T0luLVBuRnowTXk3OC1WbnVlMUtObUx3SS1zQ3BzRTNuTHYwNG1wRmRSNjNEXzI2emdLaThLV0tvWGtyRWZhWE1taWU5dw?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 06:32:54 GMT"
       }
     ],
-    "source_count": 17,
+    "source_count": 18,
     "id": "000500-기타-14621-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-11",
@@ -20385,9 +20390,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JbndGY1psMVM0TWVOcEpKdzA3bzBkYVFNWl9EM1BMd2ZWTVVjR1o0b0V4TzFmajZPOXF5VzBrWE00UGYwYVFJdzlVVjVQZjQ?oc=5",
         "pub_date": "Wed, 09 Sep 2026 23:18:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pV3VwVTZOVlZPdkluWnF3YU9ESFlEUDZNalU5b0p6UFdIMkh2clhCWmpDalc2Q1VtMEhBcVFiUml5LUgxQmhYdVRoOA?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:18:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "010120-기타-15735-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-11",
@@ -20851,7 +20861,7 @@
     "sector": "AI 반도체",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[모닝 리포트] \"테스, 수주잔액 사상 최대…목표가 21만원\" - 뉴스핌",
     "source_type": "news",
@@ -20860,9 +20870,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wWnh0a1FsNWJuWTY0aXpfSVpnVWtBTFdJR2hhYVlrTG1VQXE1NHp4cGloVWdibTVSWF9ZT0c2RWZxMFdCRFRWYXJPTnVNZ3B1LVgza3RWaFJlSlo3?oc=5",
         "pub_date": "Wed, 09 Sep 2026 23:47:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TMzFwQlhkc2NFNFdfdldrZHlDWjZCdXVXVm9IQ3llYldSTGI0YU1Sdk10eVU1dHhqN1dXZDNZaDRnaGJmZlY5RTFqWkc2MWJ3b0Rv?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:49:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "095610-수주-15828-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-11",
@@ -22349,9 +22364,19 @@
         "press": "아시아타임즈",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NV3RjZnBtbk1fMTJxYjB1VGRnT2NJZGo3V3dUVGN5VS1TZFE3NDRWN3Qzc2lDX09zYzJKMFB2WnpRSUpLdzJHdV9LcTJHSEJyMVd1ZEt2TTVmSGlqVXc?oc=5",
         "pub_date": "Fri, 11 Sep 2026 00:54:40 GMT"
+      },
+      {
+        "press": "글로벌경제신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTEJoY2xTRmJIMUFhaTBud3VxNGo2UG1YQ3gxNjUzd1hEUDRMWnhJOFM4U29VVU9vdzJ0WW45ZjY1X1IwbGhMMld3amFoU1lvcmVOcXRnQUYyY0xlWkFNSEJNdTRLQl9LR0MxadIBcEFVX3lxTE44ZUdHX0pTUUE4bkZZQTJyUWxFT3JVM1Z0REVMNFF5ZXNqZGRDY3Noc1B4R2JEV0JZUk9uQno0VlpadmkzYXpzWEtsR2EzRjZXR1I3RDJPejIzLXF0R3RPam9IWlpFM3pfYmRfckdEZmw?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 00:31:37 GMT"
+      },
+      {
+        "press": "바이오스펙테이터",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41b3NxMzZBREh2WFlZdmw1SG1Pa0F4Zk1oSDRBSnVXMTlSOXBWZ1hJelZiNlBBUkpEMFR2QzY4aHZfSWcxaHNydWtSdFZORXpkMDdpWUIzWQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 07:47:00 GMT"
       }
     ],
-    "source_count": 13,
+    "source_count": 15,
     "id": "207940-기타-16879-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-11",
@@ -23306,7 +23331,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "큐렉소, 브라질·파라과이 수술로봇 공급 확대…중남미 공략 - 데일리팜",
     "source_type": "news",
@@ -23315,9 +23340,14 @@
         "press": "데일리팜",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80UU0zUFpBQXR3ZUZ6Q0hyOUlzc2dEaXlMdjJBY1VoOU5qWFhVQjdBelJJTTlhX0U0ZGlUSGtKQ3RfdmZoWHdkSzhBblRqb0hxSzlFNmxB?oc=5",
         "pub_date": "Fri, 11 Sep 2026 02:46:51 GMT"
+      },
+      {
+        "press": "메디컬투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90YldEb09VY0FkNUFLNmt6TXBWSVI5RmNXQVlCN3BsSmV0RWVoTldCZmxDQWlOTldiVFp3Vmg2WnU0c2VFdHRxazFHTm1qNjgzelZDR2dfcVN5emdqOUg4VEYzMGhocWRYcncwUA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 00:57:34 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "060280-기타-17599-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
@@ -23402,7 +23432,7 @@
     "sector": "우주항공",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "인텔리안테크, 409억원 규모 공급계약 체결 - 데이터투자",
     "source_type": "news",
@@ -23411,9 +23441,14 @@
         "press": "데이터투자",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mc1BUbVNhN21ybVJUcXNyTlE4cUxUNmJ0MDl6RlBkSVVjWWhhMEZSemgtSkhhRHZnMUZCdkYxNGxMdmxRZmNaT1NLaWo4QTN3amlkeTNzcFFjZ25WVFVYQUJGZVZHYXJsWnRvQzl6RmdpbjA?oc=5",
         "pub_date": "Fri, 11 Sep 2026 06:32:43 GMT"
+      },
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tTUJyWEwxaklaSW5kRmQ3NmludTBnQWpSX0RCVGtWSS1PbzFUSUxIbkc3TjdCUGcxQ0tZOElyQlh6aHJfMHBOcE1BX05uZFdpSEdCSHBlaGhKdHVkZm1KM29LSWxrWWp3dXF1TFl6OVpZaE9GU014YjZGMA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 06:53:02 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "189300-수주-17662-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
@@ -23535,6 +23570,155 @@
     ],
     "source_count": 1,
     "id": "096770-리스크-17723-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 최대 노조 내분 점입가경… 이번엔 최승호 리조트 계약 배임 논란 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzYU1BbVZGalo0d2FFQ2YyUnZwRk02c2VhdTRJRGNZa3kxek41U3dXaGhNSGxiZzc2WHFjajJXNWxnampJcS1WMXJtaGhIbmc?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 08:35:29 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-17763-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성전자 직원 313명, 사측 상대 '전보 무효 확인 소송' 제기 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzVUdwVjlqbTFzbVFHQnRJNXVzX3Z5XzFhMUdCTFNaV240bk50TkxuOUpuazhlbnNoLVRxdF9aWHVnc2dBVWdfamVsUVh3QlBtcEVsYncxQzBPQUZBNHN2dNIBeEFVX3lxTE5KbG5pUkFIMXBlaUd0SGV6ZWJZTWUxSFR5YUJZdE9uZWpjN3c3NUdUdFNqM3BOXzdWdVBOS1RTSXRtOGFsTURKbnBxQ3V1S2c3ZkpFcWRjcDRrRzY1YUNFUEdtWmMzcUYwLW5wYlVUdWg2bzVGb0hQZA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 07:26:12 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPSzM1ZGdra3VmQlk0T1FIY3lHYnd0cmxsZVNkZVQwbWpQaGJwTDhPV1VPV0xoc2pWOHZJNWN1SXUxY1A2bk5RWG8zV3psZTQ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 09:19:27 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "005930-리스크-17766-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 급락에도 \"60만전자 간다\"…'역대급 잭팟' 시나리오 근거는 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10UzFmWkhySE5Dbm9fN3A4d1RrRTJLS0E2dG5iMGwzaE1wbXpORFdTRWVBVVJoNy1UaFNQRkZkdDl6bHlROHBQdjlqTE5ldFk?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 06:48:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-17769-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[가온전선 밸류업]LS전선, 북미·AI에 5000억 투입…생산능력 확대 - bloter.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "bloter.net",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2FketIBbEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2Fkeg?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 07:36:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-17846-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "구리값 신기록 행진에도 풍산·LS 주가 숨고르기…증권가 \"하반기 실적 주목\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0TjZocEExVFBOcHlHM2NSTURxZHMxQnJGVzFaMDhQd0pfc1pvWE5wM1V3dFFEbzVXSS10TEFMOXhGUklKUGVPV093Y19pOFh6MUstMA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 09:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-17851-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[가온전선 밸류업]LS전선, 북미·AI에 5000억 투입…생산능력 확대 - bloter.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "bloter.net",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2FketIBbEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2Fkeg?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 07:36:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-17859-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
     "status": "일반",

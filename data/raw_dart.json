@@ -143,6 +143,32 @@
     "is_correction": false
   },
   {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]교환사채권발행결정              ",
+    "rcept_no": "20260911800773",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911800773",
+    "is_correction": true
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "교환사채권발행결정(자회사의 주요경영사항)              ",
+    "rcept_no": "20260911800557",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911800557",
+    "is_correction": false
+  },
+  {
     "company": "대한전선",
     "stock_code": "001440",
     "sector": "전기·전력",
@@ -166,6 +192,19 @@
     "rcept_no": "20260910000167",
     "rcept_dt": "20260910",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910000167",
+    "is_correction": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등거래계획보고서",
+    "rcept_no": "20260911000445",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911000445",
     "is_correction": false
   },
   {
@@ -362,6 +401,19 @@
     "rcept_dt": "20260909",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000152",
     "is_correction": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]증권신고서(지분증권)",
+    "rcept_no": "20260911000480",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911000480",
+    "is_correction": true
   },
   {
     "company": "삼성바이오로직스",
