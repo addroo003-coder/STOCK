@@ -20395,9 +20395,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pV3VwVTZOVlZPdkluWnF3YU9ESFlEUDZNalU5b0p6UFdIMkh2clhCWmpDalc2Q1VtMEhBcVFiUml5LUgxQmhYdVRoOA?oc=5",
         "pub_date": "Wed, 09 Sep 2026 23:18:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uNlJPZGRaNWlra1UxdjdvTlFodXIza1RCMS1wak56RmxYWUlMVm9vczdHSXhuU0lndmtsRldlVlgxLXE3b0dwc0EzQkhmLXRSZ1h6Ng?oc=5",
+        "pub_date": "Wed, 09 Sep 2026 23:18:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "010120-기타-15735-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-11",
@@ -21194,7 +21199,7 @@
     "source_count": 2,
     "id": "068270-기타-15991-20260910",
     "first_seen": "2026-09-10",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-11",
     "status": "일반",
     "stale": false
   },
@@ -23369,9 +23374,14 @@
         "press": "오피니언뉴스",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsN2dhTGJyQmN0Um03UEkwUUE1dnI1U3BJT0NVTE1xcmczZUVwUTNkTnBFSFNHcERLNFBhTExMNWNKN3B0WUgxanRLaXdqSHI0Q3k4OUxxS2dDNmtvUW9Bc0w2Y2ZuVWc3RTFaLU5ZR3Y?oc=5",
         "pub_date": "Fri, 11 Sep 2026 04:03:06 GMT"
+      },
+      {
+        "press": "오피니언뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tUU5lTUdFd1RUamU0N0FuRXNXQ0tBZHJBbEphOGVfOVpTM2c0ZTBRZGVQMnFXcFdaVmoyNFJSTmEzQ0ZBeUdmUnVyUjZBcFUxTXlkUHpXaXZJMWZ4Y1lKbmNLODZFU2hPbnBYTnNESlNEZw?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 04:03:06 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-17604-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
@@ -23719,6 +23729,102 @@
     ],
     "source_count": 1,
     "id": "000500-기타-17859-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“삼성전자 HBM, 더 크게 터진다”…'역대급' 증권가 파격 전망 나왔다 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IN2tSZnhWVDdzdFY5bGdmVlBxOWFWOFRXbzJpa3hqYmpEdG56ZlR0ZkV4dWRzcVdnNlVIaFVxRUY2X2JRdzR5OTB5dkFjUQ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 12:08:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-18031-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 유럽 제약사와 3500억 규모 신규 CMO 계약 체결 : 네이버 블로그 - Naver Blog",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Naver Blog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1NNRi1IaEszZGwtVnBTTlpxVmNuZ2FHbmtxS0E5VkIzRzBBYS1VcVpoSHFnbzFfblhXSlBFU0g0T1FJX05sdE1DZThNXy1wVkpoalBwX1M1bWk5d2dwRDF0czJPajR0dFN2a2UyXzQ2ZlBVTzQ3SGlhclpFRkdPeGM1VDJOdkhkQS1ybXBiNA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 12:00:47 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-기타-18101-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI, 세계 EV배터리 7위→톱10 밖 추락…韓 3사 중 사용량 최대 29.4% 급감 - 필드뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "필드뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90TEhJQmVFS1JMMzFkenFKajF1ZHlXNE8xS3FmRE5qd2F4eGo0d2x6SFNoZkNRU0RBcUJvNklpYmRScDFEb3gtY1JEWWdRNVNPOHRFdEdIcjVnNE1LQW56Zzg3Q0JqaVNzYkllVNIBbEFVX3lxTE90TEhJQmVFS1JMMzFkenFKajF1ZHlXNE8xS3FmRE5qd2F4eGo0d2x6SFNoZkNRU0RBcUJvNklpYmRScDFEb3gtY1JEWWdRNVNPOHRFdEdIcjVnNE1LQW56Zzg3Q0JqaVNzYkllVA?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 11:33:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-기타-18111-20260911",
+    "first_seen": "2026-09-11",
+    "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "S&P, SK이노베이션 전망 ’안정적’으로 상향…정유 사업 강세 - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdjY2SXJQYmJGcFJRc25SZlNYZEZXRnFhNlNSTnhsS1NDSE05NFRKLXZncG9VZjhmcHpMZVo3dTVWTlUzTUZ4UWRHb1NyQllGRDJPQjd4c21JbzdjNFNCLVU5dTBFMWpRWUlyZVlsWWhqSHlvelRn?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 14:56:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "096770-기타-18113-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
     "status": "일반",
