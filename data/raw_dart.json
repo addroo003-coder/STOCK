@@ -226,6 +226,32 @@
     "sector": "원전·SMR",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "기타",
+    "title": "타인에대한채무보증결정              ",
+    "rcept_no": "20260911800322",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911800322",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "특수관계인에대한담보제공",
+    "rcept_no": "20260911000189",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911000189",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "수주",
     "title": "[기재정정]단일판매ㆍ공급계약체결              ",
     "rcept_no": "20260909800203",
@@ -296,6 +322,19 @@
     "rcept_no": "20260911900104",
     "rcept_dt": "20260911",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911900104",
+    "is_correction": false
+  },
+  {
+    "company": "인텔리안테크",
+    "stock_code": "189300",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260911900310",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911900310",
     "is_correction": false
   },
   {
@@ -479,6 +518,19 @@
     "rcept_dt": "20260909",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909800519",
     "is_correction": true
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "타인에대한채무보증결정              ",
+    "rcept_no": "20260911900268",
+    "rcept_dt": "20260911",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911900268",
+    "is_correction": false
   },
   {
     "company": "엔켐",
