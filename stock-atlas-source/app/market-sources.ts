@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "씨어스, KRX 헬스케어 지수 편입…\"국내 유일 흑자 의료AI\"",
-      "office": "머니투데이",
+      "title": "‘임금만 협상’ 옛말…AI·로봇도 테이블",
+      "office": "매경이코노미",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412626"
+      "url": "https://n.news.naver.com/mnews/article/024/0000108153"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "아이폰 듀오가 깨운 ‘경박단소’ 기술…한국·일본 부품사 폴더블 특...",
-      "office": "서울경제",
+      "title": "삼성전기, AI용 MLCC 집중한 사이…中, 글로벌 PC 공급망 파고든다",
+      "office": "이데일리",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660958"
+      "url": "https://n.news.naver.com/mnews/article/018/0006367903"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 직원 313명 '전보 무효 확인 소송' 제기 \"설명 의무 미이행\"",
-      "office": "아시아경제",
+      "title": "삼성전자 반도체 반격 시작되나…4분기 HBM 점유율 40% 넘본다",
+      "office": "헤럴드경제",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815281"
+      "url": "https://n.news.naver.com/mnews/article/016/0002696193"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "살까 팔까 버틸까…기로에 선 부동산 투자, 여기 답있다",
-      "office": "한국경제",
+      "title": "여름 관광株 반등의 이면…10.7% 상승 이끈 건 '현대건설'",
+      "office": "아시아경제",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331426"
+      "url": "https://n.news.naver.com/mnews/article/277/0005815064"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1719,7 +1719,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=326030",
     "news": {
-      "title": "SK바이오팜, 1조 신약 임상 제동…\"11월께 보류 해제\"",
+      "title": "SK바이오팜, 1조 신약임상 제동…\"11월께 FDA 보류 해제될 것\"",
       "office": "한국경제",
       "date": "20260911",
       "url": "https://n.news.naver.com/mnews/article/015/0005331495"
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "정부 \"빚 갚기보다 미래 투자\"…미래대응기금 두고 전문가들 \"설계 보...",
-      "office": "뉴스1",
+      "title": "'반도체 호황' 삼전닉스 계약학과 지원 19.4%↑…경쟁률 역대 최고",
+      "office": "뉴시스",
       "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/421/0009165850"
+      "url": "https://n.news.naver.com/mnews/article/003/0014185535"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
