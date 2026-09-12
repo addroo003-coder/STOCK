@@ -24232,5 +24232,29 @@
     "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유진테크, 864억 투자…반도체 장비 생산능력 확대 - 국민기자뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "국민기자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1Tl9yZFhwT185b0ZPSGp2dzFUTTBKNnFLUGdvNFdpZ2M0NmtRb3BTSXpqb05RcDlKU0M1RHN2UzRxbEp6RW10UG5GUmJSSThRNGp4WFVJQnR0WTdyTU1sQmtkSjlGRUXSAWdBVV95cUxQdU5fcmRYcE9fOW9GT0hqdncxVE0wSjZxS1BnbzRXaWdjNDZrUW9wU0l6am9OUXA5SlNDNURzdlM0cWxKekVtdFBuRlJiUkk4UTRqeFhVSUJ0dFk3ck1NbEJrZEo5RkVF?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 00:49:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "084370-기타-18789-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
   }
 ]
