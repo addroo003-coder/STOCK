@@ -23222,9 +23222,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBROVBIYmZBbWlwUk42amhCU3ZVTHpRck04cnpmaFpiOFRySk1aaG12Y0R4Qm1BZFU3eVZjdDAtaEJuYXF0VU5CdFpERjNlbnc?oc=5",
         "pub_date": "Thu, 10 Sep 2026 23:40:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pamFjUmNRNUZ6d2NqX09qYkVNQzd6MjhUUjV4VGNBRW9MeUNxQWZ6b054VFdsX1BpUS0tTl9mUHY0TUZ3cERTLUtzVl9BRnI4ZTBIag?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 23:40:52 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "214450-기타-17429-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-12",
@@ -24286,6 +24291,54 @@
     ],
     "source_count": 1,
     "id": "012450-기타-18865-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "주가 40% 빠졌는데...삼성전기, 3Q 이익 전망은 꾸준히 상향 - 메트로신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메트로신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQVVRTHBLMEFUZ04ySzlUR2VoNGJLTlZFR2NManp6TFUwMmdfQXA2YXNsMEVFSk1ZVjBKb01iVjMzUlk2SVpwZkc0ZnpFX09tYVRlajhvcXB3Y2ZyNjd3Ng?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 22:15:47 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-18917-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "역대급 수주에도 주가 흔들린 삼성전기…향후 이벤트 및 접근 전략은 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BM1owTi1RdHdNS3Z6ZnNfdGpWcGV4MHhnSFhOUlBHVlhjV2pkRzJyZExxMGhSbTFWaXlNak1tZnJQdW0tMnFlMXdULVNXbWN6TzgwdFowb09Fdw?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 07:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-수주-18919-20260912",
     "first_seen": "2026-09-12",
     "last_updated": "2026-09-12",
     "status": "일반",
