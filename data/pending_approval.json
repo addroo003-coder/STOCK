@@ -22444,9 +22444,14 @@
         "press": "문화일보",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTR3RDRUhUWk1QYkdYXzIyM2RpS1dVZWRpSEhGczhGRTZyakZWOENhbkwxRm9kYlhZZnJmc2liQVpNZGVjU3JVeUJNbEI0emJT?oc=5",
         "pub_date": "Fri, 11 Sep 2026 03:00:57 GMT"
+      },
+      {
+        "press": "뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12QzBqVFY0cjdJV0pwOWUzcXpQLU1xdHY2dlBkeUJHSUJScG9EZ08wTkliYXRNSVpWekpEWmpNMnA0NUJDU0FlMm5FT2NhbWNUSjRTd2ZHSm80amVsYzA1YVByMTl5dk5OeDFQUDRrUk5yUWxtN3JlTFpOMNIBgAFBVV95cUxNTkhMZEpFcFJoZkJONF9fUEF0Tl8tTnpmZG5lOUtQUzhKLXRkdVZlTWlKNkVPd0U5VjJxdVJJbHUwamZ5djFtS05CMGMwUWZweFRDcEYwcS1FRmM5Q3BLX0NiMUNtSExlYVYtc3pKTzFTZU1pQkt5aG5ZSWVPTlJQdg?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 12:54:26 GMT"
       }
     ],
-    "source_count": 18,
+    "source_count": 19,
     "id": "207940-기타-16879-20260910",
     "first_seen": "2026-09-10",
     "last_updated": "2026-09-12",
@@ -22995,7 +23000,7 @@
     "source_count": 1,
     "id": "006260-실적-17257-20260911",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -23082,7 +23087,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "정책",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "현대무벡스 2.91% 하락…정부 로봇 상용화 지원 확대 속 주가 숨고르기 - cbci.co.kr",
     "source_type": "news",
@@ -23091,9 +23096,14 @@
         "press": "cbci.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QRWljQlFHOVFFWXVVTGlYdFRqQmY2U201clE2UW0yaXhGZC1ER0lIZmtuNTZ2a3d6Z1ZoRDNYVWZnYmpQMmFLaWtpbFpOQjZLaEc3ejFQTm45cTdRTHZMcWhTWQ?oc=5",
         "pub_date": "Fri, 11 Sep 2026 00:54:53 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96NV9JRERtZHRZQjdQYVRiT0xDVU9mcGJLQTFodEVyTWVaOEpHWVkyaWhnQXNCU04yc2ZyNmVNeGNVa3A4V0xiV3k1dGtobkpKTGRlV05QSnVoOGMxWVk5OGtmOG1BT19m?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 00:54:53 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "319400-정책-17332-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-12",
@@ -23969,7 +23979,7 @@
     "source_count": 1,
     "id": "189300-수주-18197-20260911",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -24112,6 +24122,54 @@
     ],
     "source_count": 1,
     "id": "068270-기타-18540-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두아 리파 사진 썼다가 200억 소송당한 삼성전자…\"TV 콘텐츠 보여준 것\" - 데일리안",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZVhxT2FSVEd0aVY2Q1RtOXA2MTZwSlgxV1FDYmJsOFY1aWQ3dndwVTlpNU5Sd2taZ1p2a1pWTGM2dkFta0ZUQ0lkODIwUENqazRfOHV0SldBQ0cyU09iSkdGcDc5aHU0cE5KUFNVQnZadFg4aFg2T0d4cjNXR2tzR3ZIVzdCTUhrU3NEMG1SUDdud0wtUVREbkpneEY5UHRBM3llMEZkTWVCc0ExSDdvY1hKZHE4ZmtrU0xnalNuQlBlUC11TzFYeEI1bTQ4Vk1CVTVnVlFlT21KN2VscFVOX0lhVWx6R2UtNGlFMjhMYWhSM29MU2ZsNA?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 09:46:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-18563-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한전선 주가 최근 5거래일 변동폭 확대 2만9천원대 마감 - 톱스타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNXMxZk5TX1BDdFV1LWF6dm9xbTN2blNGcUMybkVLa29iRmJOMnBicFgyUEJCbDU3c2tMc1BZVHJyekJZY3YtbW90TjBvR0dBTTdZbGdNZ2FaWTdfSEZxS0dOWUVYVUFXb2tzU1haM1l4UQ?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 03:04:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-기타-18619-20260912",
     "first_seen": "2026-09-12",
     "last_updated": "2026-09-12",
     "status": "일반",
