@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "HD현대중공업, 2030년 엔진 매출 10조원 전망…대우건설, 팀코리아 원...",
-      "office": "파이낸셜뉴스",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/014/0005574433"
+      "title": "주말에도 실종차 찾기 계속...탐문수색팀 추가 투입",
+      "office": "YTN",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406094"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성전기, AI용 MLCC 집중한 사이…中, 글로벌 PC 공급망 파고든다",
-      "office": "이데일리",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/018/0006367903"
+      "title": "AI칩 커지자 '브리지' 뜬다…삼성전기·LG이노텍, 대면적 기판 승부[현...",
+      "office": "아이뉴스24",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/031/0001057769"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 ‘자금조달 경고등’...",
-      "office": "한국경제",
+      "title": "\"팀 쿡도 아이폰 안 쓴다\"...삼성전자가 공개한 '깜짝 반전'",
+      "office": "한경비즈니스",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331549"
+      "url": "https://n.news.naver.com/mnews/article/050/0000110779"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -725,10 +725,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=046120",
     "news": {
-      "title": "미국 원전 건설 기대감에 원전주들 ‘불기둥’…오르비텍 상한가 기록...",
-      "office": "매일경제",
+      "title": "[서울데이터랩]코스닥 거래상위 종목 강세 우위…빛과전자·오르비텍...",
+      "office": "서울신문",
       "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731875"
+      "url": "https://n.news.naver.com/mnews/article/081/0003677925"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/046120/news"
   },
@@ -837,10 +837,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
-      "title": "치솟는 유가·금리에 다시 '6천피'",
-      "office": "한국경제TV",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265685"
+      "title": "“3년물 4%·유가 100달러·환율 1345원…‘3高 트리플 쇼크’ 현실화...",
+      "office": "서울경제",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661113"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/240810/news"
   },
@@ -963,10 +963,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "치솟는 유가·금리에 다시 '6천피'",
-      "office": "한국경제TV",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265685"
+      "title": "“3년물 4%·유가 100달러·환율 1345원…‘3高 트리플 쇼크’ 현실화...",
+      "office": "서울경제",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661113"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -1369,7 +1369,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬...",
+      "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 ...",
       "office": "지디넷코리아",
       "date": "20260911",
       "url": "https://n.news.naver.com/mnews/article/092/0002437056"
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "\"항공엔진 독자개발 나선 韓 … 공동개발 거쳐 노하우 쌓길\"",
-      "office": "매일경제",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/009/0005734012"
+      "title": "이준석, “동관이형 재벌 중에 제일 똑똑…나라면 한화 주식에 몰빵”",
+      "office": "문화일보",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/021/0002818229"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG·엔비디아 합작 ‘AI 팩토리’ 시동… LG CNS, 3814억 베라루빈 확보",
+      "title": "중국 CXMT, 영업이익률 82%…SK하이닉스·삼성전자 제쳤다",
       "office": "서울경제",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661010"
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661116"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 ‘자금조달 경고등’...",
-      "office": "한국경제",
+      "title": "중국 CXMT, 영업이익률 82%…SK하이닉스·삼성전자 제쳤다",
+      "office": "서울경제",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331549"
+      "url": "https://n.news.naver.com/mnews/article/011/0004661116"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
