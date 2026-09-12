@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "두아 리파 사진 썼다가 200억 소송당한 삼성전자…\"TV 콘텐츠 보여준...",
-      "office": "데일리안",
+      "title": "“삼성전자, 40만원 전엔 절대 팔지 마라” 월요일 터질 게 터지나 ‘...",
+      "office": "헤럴드경제",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/119/0003131954"
+      "url": "https://n.news.naver.com/mnews/article/016/0002696337"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
