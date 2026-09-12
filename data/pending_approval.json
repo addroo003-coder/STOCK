@@ -14392,12 +14392,17 @@
         "press": "톱스타뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYkhJOFdDMTlGY1JFUzRvUm5xbGpFaEhzRDJwa3pOV2FpMzcxTXBtQWE2MXJ4M1Nyc1U4Z1o2RjhZdVFubmhvRTBBY0FVU1dZeldEZzBwWDZoNmVrUE03bmlmVTVyamlQRmlzNFZKODViUQ?oc=5",
         "pub_date": "Sat, 05 Sep 2026 03:00:49 GMT"
+      },
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CM2ltdUtJTWw3TlFNMjV3Njk4M3puZGY2N2dZdG0xelc3SnhmNnFNSUNQWHhOYUxJZ3Y4QTUzM1hteGZFYzQ4aGthNlprVmROdUpZUXdReC12dXJNMjZYV3dHTVBYdVA2eFFNLUd6VWpadw?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 03:21:20 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "080220-기타-10459-20260905",
     "first_seen": "2026-09-05",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -15659,7 +15664,7 @@
     "source_count": 2,
     "id": "034020-기타-12257-20260907",
     "first_seen": "2026-09-07",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -20731,9 +20736,24 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kSUpEZVdBQkhwOGpaUGJQdUJYakVwZmtiN0VZcUxsenVyZEluQzN0dmk2NDhhMlBMNTk1b3lLdXZtQ1ZhWVE?oc=5",
         "pub_date": "Thu, 10 Sep 2026 02:28:10 GMT"
+      },
+      {
+        "press": "데일리한국",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53MDA1YzctOC1fM3A2S3hSLTBQWTlDX25RckNyMjJuWG8tMENEcEV3RlZLOXpoLV8xQjhKdDZxdkdVWTRXMm1KeDNzSk5NU01zcHA5cUxvamYzZ3pOdEtXWFpNbW1uelROME94cW5qeXNOUVXSAXNBVV95cUxOdzAwNWM3LTgtXzNwNkt4Ui0wUFk5Q19uUXJDcjIyblhvLTBDRHBFd0ZWSzl6aC1fMUI4SnQ2cXZHVVk0VzJtSngzc0pOTVNNc3BwOXFMb2pmM2d6TnRLV1haTW1tbnpUTjBPeHFuanlzTlFV?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 08:51:06 GMT"
+      },
+      {
+        "press": "마이데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VWVh1c0tIVUs2LTd1RUJKYjlfN3lDdmE4OEZGdllvR2k0bG8wcEdncEpwTDdwZGZpZU9aLVJTRWp5VnpKS2JSYjhtT2UxNEpua3ZtS1FSV1hlQ3dxbW1MdGh1M1dJQQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 06:59:50 GMT"
+      },
+      {
+        "press": "dt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43Zkctb1R3NVdnQkE4cXVnS21SRmdzVFFLYVNrOGd6cmw2cXpfVXNXUWk4Znl2X1NYbmJUcDByTm45XzF6YlhQWHlETzhOQQ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 08:07:11 GMT"
       }
     ],
-    "source_count": 34,
+    "source_count": 37,
     "id": "068270-기타-15773-20260909",
     "first_seen": "2026-09-09",
     "last_updated": "2026-09-12",
@@ -22758,12 +22778,17 @@
         "press": "데이터뉴스",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81V016ekRodEtQeVgtdWNjQ201dk1yclZmVUhXdDdBX0FWM0JnbmYydnNaLTMySDVDdUNPT3VoRTBjMjFoUkNSVFpuSDF4ZWpHYU40cTdyNHliSWdicXJn?oc=5",
         "pub_date": "Thu, 10 Sep 2026 23:24:14 GMT"
+      },
+      {
+        "press": "데이터뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GYjhSaGZYb2ZDd3RtQ2syNEd0ZHZlVVN0R3dVQ21pbWJjMFEzREk1cjJTYTByR1lCLUhTWW9QSHhaRUJieGhUdEp5bmRrV1JmVmhpdWhSNFBXbU1YSWtoa1hBTmc?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 23:24:14 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006400-기타-17153-20260910",
     "first_seen": "2026-09-10",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -23684,12 +23709,17 @@
         "press": "아시아경제",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ybHhFNjZQQ01HdjVFSG55TEJ3ZFdJUS1scWpMOVNpcXJWODBiQmJQOEVrV3dOSEhzSFNUbjVuWVBxMWNGVU00QmR0bWsyQVhGYmNEMzh1dW5SUW1XSXFxNQ?oc=5",
         "pub_date": "Fri, 11 Sep 2026 09:17:41 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LVjFMNDlXb3NJbmk1SGtFWXNUbjQ1MHN3dFMzOWs1WnFYOWdZcjBKZUpDMlFwOGFzbVpTX1dpSWJhUGVjVHc?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 09:19:27 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "005930-리스크-17766-20260911",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -23723,7 +23753,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[가온전선 밸류업]LS전선, 북미·AI에 5000억 투입…생산능력 확대 - bloter.net",
     "source_type": "news",
@@ -23732,9 +23762,14 @@
         "press": "bloter.net",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2FketIBbEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2Fkeg?oc=5",
         "pub_date": "Fri, 11 Sep 2026 07:36:11 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TLTloSGwzVVRtS2d4RzVOeTU2Tmk5NWJYV1FyZW5qQ2NpRmVoOVg5VldoYlM5a1ZKSzNROXExcXc3WlBrSEhhN0I4WQ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 08:26:53 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-기타-17846-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-12",
@@ -24031,6 +24066,54 @@
     "id": "006260-기타-18274-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "컨텍",
+    "stock_code": "451760",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "이성희 컨텍 대표(왼쪽)와 필립 베르트랑 스카이노피사 대표가 프랑스에서 열린 인터내셔널 스페이스 서밋에서 민간 지상국 서비스 상용화 및 국방·우주 인프라 사업 협력을 위한 업무협약을 체결한 뒤 기념촬영을 했다. (컨텍 제공) - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMisg5BVV95cUxNWWE1LUFJNnFhM1dzU2pJLXFrS3l4Mmc0WXVEeG1PaG5RZExOcXJhWTNnOVA3dm9uZWdMbThSZ0lrVm5BcnF3cEV0RFNoU3pqQ0k1cGNHekRMeF81MURYU0NEemdTUG1MSW5aUS1XTFhDT1d1ZnMwZGVPMldmQlZoU1JLMVgyakFzaFVTQWNLYl9LVXNkR1NjcndGRTByT2owZVI5bG1GQjhJN3dhdFJhT2w4S2E0Qmx5Z0xfMG9aakJGc3cxR1FQbXpLSDdRdWJSTThYeUdxb1Fhd0x6d3lzSDNybjRWSDhPaGNlSldvZ3gyZ0E2bTg1M3RtUXBTamlXSnJjd0FmSEdmT1VLRlV5UTllRTlBc2FPZjRCSW5sSnpvWVh2MW0zbm03amp0LWVNa1B5b3VBZ2pjTnNrU3RCQkRtSGczZXJHLXljYWxZNEZKQ2lnNnhmR0dITTI5dFVtTmlOWEtuZUFmZmhBQXpKemRLQnYyaEdCbGVMbUpoQ0Fuc2VreE5iT3J2SHRNdlRvMFpaR2JpUVpsOUhMYzhKVmRQTzFBVmlaZW1GZ1FHUThFLTg4WTVCT3l6UHhNMmJ4dWJpbXR3bEI0T3JvVV9ZVHhrcmtoRU8xUnVYcHVjaGtCeF92Q21PQ1NPLUFvVWlEZUJmbEFmRUdfMnNRRmhhYTlfNWd4RE9jVmhVOWVtSXRPWHo0UW9RYno5bTNMV1RjVE5UUVlxMGVtaHAydmYzdGR6a05kYkI2VENOWERzeDVJVGF1dkFnV1VKSUhadnpMZDVFcE5XYWtvSVN5LXctVlJsc21xYmgxd1pWbzkzMGNUZ3FMeF9aZlJiUS13U0lfR0hrSzFwdHJBclZqRWNCM09fUEZHWjB1ME9NRmpaRDNDTmJYNmV6NjJHVG9WbDBuZ2lrRVBvYy05NDZ6a19HUzVRdHg5bk8zMDZpYWp1bzl2VktDSkpxOFhNZTJhS2NENm5PZFROUWl1azFtNUtRRjFSWG5fclJNdlFFVzlQbVo4LXZZNTU5QnJOOV9melhoWUU1X0Z6MHZOMzl4b3hIMWRQZ2tILUdzeWlhVmphRnpVQ3BlWWxUZ3laZVpmcXpuc1hDWUg3MV9CcWY3ZElYT2hIRWxvdkpGMmNBeW1vLVc2MFk0YTZrejBHaDJQOXNEQnBsUE56cFdUN0ZqOGs4bFlvXzdxUmQ5WW5leTU2NzR4eFg0QTMySzF2WW1RejdpeGplSE1rZzVtSWhCd2NFYm5jWkI2MXMxYnZUbkhLaDlaLW1rOWJXV05mc01OaXZCNW5lMTdTd2JGQWhMWndnbU1JUWRMSTlscU51MEFwdmhzNFBja01fcHNqbnJWU0RUWlhtR1VwSGUtUVJXWDdGQ1hJY2hyMS12NmJWMDVXUzdtSFkwTnpDZS1hM0dmb3drUzB0VHl0WGlBTXFRVmdKcGRWeDhLUGtlTGR2NHNaaW9FT2FqVDcwT2hFSTJLdjZ3Qy1zVzI4QmlVNGpNUFJIU0tVSjFWTXhFcjdway15NGRFUVRVZDR4cnliS2ZOR2N4MzlrQjhOM2E1Rzk0SUh6TGxyaDdOalRHM3MtODVkTW5qMXdSSXM2VkJqZ2lOc3JsRU8tS3liemoyQnJLSXBTcFBDbk1MMjBYbWRHczItaVVpa1FHZ2ltbVJjVFp6WmJQcHpndkk3cU9LcjE0bk9WSlZud1l4NlBJTkFkeld5THc1Z0lWd2VSQ1BqdDl1TThoOW5zam1Ma1JKR0JCbi1QMWJLLWhJX2hpQ1k0X1U3UGZMNUFacW5XWGg2S2JtTy04T0Q0RFUtc2xwaDZTU0cxLTBzSmRzazBQQWNZTmNFMWJsZ082UlRGeUpwN3JiZm5PdUpsM3IyQU8yVEl2U2VJWG9ERHEyaURFQ3NadTdfWjliYi04LWgzdHQ4Njd4Rm5FNU9VZlRFRDlZVEVJUm94ZTdvek5FTk9UMjlZQTlscnVDeFZUZHFZMHgtZXRsTUFmZWlaZTlOUHhOenFIaS1jb05tUll0UXFFOWFKdmpOOEQ2aGNueUtYT0M2ME5SSXZscWczeTQ0Z2FHMnJ4Ulluak13aUJJQnJQdTMyMlhyQlZNMUx6QnB3MjRValNtTERDZjlBNXYwZnZqYWFWd2JKOVIzTE1jZ1JMZE55dTJ4V2RYdzd2cHJ0MjdaN0JibHJJY0dFaUx3cjZzZVFlZVhLejFKRnlvQm9pMXluTFJNRWtfYmIyM3c2RVM5bVZWeUZGdGJ4VTlKX2FhNnZhUFFBUW9sQnBYS0V2cTkzWkxGSXZmV1pENHg1ZnlXX2JsUUN6R3JPWjRMWWoyeUJFOXlCR3dWQjBreGhydTRfVlY0aHRlU2IxMFRiOTdLNTR1UGJLYVc5LTZ6SF9qZHFuWTI5Sy0xX2pNSTBJRG9rX2s1ZUxoQndmdXNMNjFPUDZHVTRXVWc?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 04:14:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "451760-기타-18535-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽 최대 호흡기학회 '옴리클로' 경쟁력 성과 기록 - 마일드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "마일드경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXQWIzRFV1ODBwdVRXQXZleUFWb3FzbmNLa2tBa1pWZTJrSkFqaFZUNVlfRklJcnpNcWFNUndWWldZZmpMMjktalZHTU83WWE0ckNmVDFiS05FY0hHYXN5Y25EdWMtdTN2T0VZ?oc=5",
+        "pub_date": "Thu, 10 Sep 2026 07:26:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-18540-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   }
