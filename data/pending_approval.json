@@ -14729,7 +14729,7 @@
     "sector": "우주항공",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[조상권의 경제이야기] 한화에어로스페이스, 크로아티아에 ‘K-239 천무’ 다연장로켓 수출 계약 체결 - 뉴스N연합",
     "source_type": "news",
@@ -14738,12 +14738,22 @@
         "press": "뉴스N연합",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54dWNFUTg1aTREYlhkeTNoS0pNdEdudWUtN25mem03NFZNdzJzTzcyWjQ3MlA5N1RQUENkT2lxYmJ5akJtRGk3aVNn?oc=5",
         "pub_date": "Sun, 06 Sep 2026 12:49:41 GMT"
+      },
+      {
+        "press": "뉴스N연합",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43TmFTd2hidHdqZTRmVTdqWkJVUUJFWkNyZThUS0xwdU1SbkNUYzV3OWRfQzdfd2FwSHMtVGVOdUU1YTBCY2NNLW1B?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 11:31:09 GMT"
+      },
+      {
+        "press": "중기이코노미",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hXzhLeXhPeDZRSjFIM001OTlaVkUwZ0dJZGtYZTlJaUNvQnBvSDgwVnE3M1Rtb3ZxYnQtUnRpZGhWZHZtMW13Mmd3ckRsNm9HU3B3d25UbHNTS0JZWFdtWFBmMHhSaFYzVFE?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 05:14:35 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "012450-기타-11411-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -23024,7 +23034,7 @@
     "source_count": 1,
     "id": "006260-실적-17259-20260911",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -24170,6 +24180,54 @@
     ],
     "source_count": 1,
     "id": "001440-기타-18619-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반도체 수출, 역대 최고치 기록, 삼성전자/SK하이닉스 이익은 얼마나 증가할까요? - contents.premium.naver.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "contents.premium.naver.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5reGotWWRyb3FsdUdqX0lJWjJQR3RQdk1XM2ItRGd5UlFHUExyel9LbGViRmo0RXlDUllBOFE1cUVHNUY5ai1vTmFFV0FPV0htX0ZkU253WXBrbnFXQllCcjFVZndKUUJubmNXNzdVbmFVOVdfYXkzdGFXb21NcGc?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 07:08:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-18693-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "휴젤, 자사주 활용계획 승인…개정 상법 맞춰 지배구조 정비 - 약업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkdUOUVPSTV6bExmSHIySmQwcUJVdGwxOXdNdnNHOHBkek50MFJiYWZyWHR0NThrTFF2SHNEay1MM004T0pNV01PQ2pLRE5GNWpxSHM3a3d6OHZSRTJxQzBHRHZBY2ZXekotSlI3UjB6NnVPMzVFOXk0SWlZU1p1dWNTdGdaNkhPMndNRkYxS19pc2lYa19Qb1lubU8?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 20:35:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-자본-18733-20260912",
     "first_seen": "2026-09-12",
     "last_updated": "2026-09-12",
     "status": "일반",
