@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "주말에도 실종차 찾기 계속...탐문수색팀 추가 투입",
-      "office": "YTN",
+      "title": "네팔 긴급구호대 2진 현지 합류…두산에너빌리티도 주말 수색 이어간...",
+      "office": "디지털데일리",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406094"
+      "url": "https://n.news.naver.com/mnews/article/138/0002241158"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "빅웨이브로보틱스 \"글로벌 피지컬 AI 플랫폼 도약\"[IPO톡톡]",
-      "office": "한국경제TV",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265679"
+      "title": "삼성SDS 로봇 파트너사 어딘가 봤더니… 손·데이터 전문",
+      "office": "서울경제",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661135"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "‘임금만 협상’ 옛말…AI·로봇도 테이블",
-      "office": "매경이코노미",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108153"
+      "title": "삼성, '70년 전통' 공채 이어간다…\"첨단기술 인재 대거 확대\"[AI로 달...",
+      "office": "뉴시스",
+      "date": "20260912",
+      "url": "https://n.news.naver.com/mnews/article/003/0014185809"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"팀 쿡도 아이폰 안 쓴다\"...삼성전자가 공개한 '깜짝 반전'",
-      "office": "한경비즈니스",
+      "title": "두아 리파 사진 썼다가 200억 소송당한 삼성전자…\"TV 콘텐츠 보여준...",
+      "office": "데일리안",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110779"
+      "url": "https://n.news.naver.com/mnews/article/119/0003131954"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -725,10 +725,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=046120",
     "news": {
-      "title": "[서울데이터랩]코스닥 거래상위 종목 강세 우위…빛과전자·오르비텍...",
-      "office": "서울신문",
+      "title": "미국 원전 건설 기대감에 원전주들 ‘불기둥’…오르비텍 상한가 기록...",
+      "office": "매일경제",
       "date": "20260908",
-      "url": "https://n.news.naver.com/mnews/article/081/0003677925"
+      "url": "https://n.news.naver.com/mnews/article/009/0005731875"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/046120/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "이준석, “동관이형 재벌 중에 제일 똑똑…나라면 한화 주식에 몰빵”",
-      "office": "문화일보",
+      "title": "대기업 하반기 채용 본격화…\"AI 활용한 문제 해결 능력 중시\"[AI로 달...",
+      "office": "뉴시스",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/021/0002818229"
+      "url": "https://n.news.naver.com/mnews/article/003/0014185903"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "중국 CXMT, 영업이익률 82%…SK하이닉스·삼성전자 제쳤다",
-      "office": "서울경제",
+      "title": "\"자소서 대신 AI 활용 경험\"…SK하이닉스, 채용 방식 뒤집었다[AI로 달...",
+      "office": "뉴시스",
       "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661116"
+      "url": "https://n.news.naver.com/mnews/article/003/0014185968"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
