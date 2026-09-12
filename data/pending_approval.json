@@ -23493,9 +23493,14 @@
         "press": "에너지타임즈",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaZW1OSG16Zjl1WjVJeVU1MEsyM3dqR0lYMU95SkJaUjVQTDFtcng0bmpxU2twTzR1eW4tc1VycU5yY1ItOTFmaTZjck9nMkFucUFrS2I3eVIxSWxDVlBhYTBVZ0xlTC1iajc4Mg?oc=5",
         "pub_date": "Fri, 11 Sep 2026 03:58:00 GMT"
+      },
+      {
+        "press": "에너지타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0QUZ1Nk1iVXRUNTBOajQ5cS13RWZ3SGJ5MG8tcXUzV2N1WE5hQU5BWHM5RUtTS0JBbkdHZFVQampKcnhpMlRzc1M1b3BBQUhSVDdEblhHeHBtRnluZ21UUnFxQTdrZGc?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 03:58:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "052690-기타-17618-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-12",
@@ -23604,7 +23609,7 @@
     "source_count": 1,
     "id": "207940-기타-17672-20260911",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "status": "일반",
     "stale": false
   },
@@ -23831,7 +23836,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[가온전선 밸류업]LS전선, 북미·AI에 5000억 투입…생산능력 확대 - bloter.net",
     "source_type": "news",
@@ -23840,9 +23845,14 @@
         "press": "bloter.net",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2FketIBbEFVX3lxTE1xbEV5clgzRTZNODNYR0x6NDlIbjh3SEJtcWRjYU5KbW5LMEtQcWpUcVdjTy1vVUdScFJ2UzZyQXF4eGJLR2lCdmNiWUJaOTFYQW9LYzNUb0dOU1VISktyaU5Zekx5MlptT2Fkeg?oc=5",
         "pub_date": "Fri, 11 Sep 2026 07:36:11 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TLTloSGwzVVRtS2d4RzVOeTU2Tmk5NWJYV1FyZW5qQ2NpRmVoOVg5VldoYlM5a1ZKSzNROXExcXc3WlBrSEhhN0I4WQ?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 08:26:53 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000500-기타-17859-20260911",
     "first_seen": "2026-09-11",
     "last_updated": "2026-09-12",
@@ -24252,6 +24262,30 @@
     ],
     "source_count": 1,
     "id": "084370-기타-18789-20260912",
+    "first_seen": "2026-09-12",
+    "last_updated": "2026-09-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "지난 10일(현지시각) 크로아티아에서 열린 ″천무 수출 계약체결식″에서 이반 아누시치 크로아티아 부총리 겸 국방부장관(우측)과 이부환 한화에어로스페이스 사업총괄(좌측)이 계약서 서명 후, 악수를 나누고 있다. 한화에어로스페이스 제공 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMi1g5BVV95cUxPNlAzaVFJVzFfNGJlbTk5Nk5naTRLNHNVYUVoWVhIU205ZkQwSjI1SFV5NHFRRjVaS0doQlYyVWFQV3NuOHY4U19Yb1g1dWZxQi1sTl9kSnJ1SjZRVm9hVG1kcjItZk1SVy1XTUJfTFBSTDlLVGtPY2d1Z0xtczRVSF9mRUhoQ3ZRazNkSVZ5RVJ6Y1ZLWW5Idlh4SGprWDk2R0JwS3dxTnpmQ2ZfWHRwajhsSUwyNWdpX3pCamNDQ3AzZjJXVW81TnFMVXc1elFLc19Wa0NrZGdrdk1WM0tjWkpmbFFiZENsWjdTMTA2ZENWNExZMDZpNEQwSmNkZTY1TUdhUU1wV29XVFdlNklmcFNlb09wdU9mSDdRcmlWdGcxVTEzOTAwX05pWmhvekJNOTFMV2lHM2xMemxNX1BJLTM0dHJZSUd1TXJSMV96bU9WeVNSRjQ1eFhsVUlLUFByemVkWVRnVVdpNnJvMHBYLTZmN1FHMTBDNmxlNk8zUXVSbWR2cVgtVTdiUGlKeThzb3hqRXhia1J0dGpTZ1lVRlM3cnFncC0wVDNvMncyQ2Y2Mng1d2tmM3BYeU16ZVFxbnJfNjl6cVRuUFdMWkdTeEdUWVcteEJCbTZxeDktd3JUdW16VzVrTEJLMzdua2dlWmtZSm5vMTFvTlVCYS1aN2xsSGFWSXQwenV4LVJXZDkwSUtqSnJDQnh1bUV5ZzVMQ2U0QWlJUGV0VUM2SDNfZXhXdUNMUmIyN3ZLekpwMHR4a0pSbGxRZ2R2aEMtZC1sc2ZIN05fbzdhQUJqNUJIeGlLSDI1Vzh5b3g2aDRfVEdsTFZZMUlHNzBjc09lVmRzR20wdzZoU05yd01rQ0lFN1JsdTVjb09Mc2R1T2xoQ2xjVS1KcjI3My1SaloyYVVPb1l4QWRvUlVfczhvb2laNWZYb3I0YzFpMVFWWVQzQ3hFQWVnQWhQdmlkT0JTUzc5NVNNQ0kwQXZYVjZlaFNjY0ZFbDNudU9tZGQtVU8zSDAyZlZDSlBReW1zVmx1UEJfMUVWNWVYb181YS05WnFySVp3RU42VU1penZienZiaVpwdndELVl6WmpQTnlwMXlUM0hjaEs2UzAtSXd1UlRCX2RTbTl3Rjd1eGhKRS00Vmg2eFZ0X0ExSng2WU1uNDBoTDFHNEVRS2ZuTGhDRHBaMXdJOEFBZmwwZHpwR1YwZnpVWWs3OEl0SG1UcjJGODYzU3JPUW5MaTduMjk1RDY3M0xiSDRtR0lhbU16dWVoWmxkdGR6bDFiUkFDVHJWSXhQUHRHTEhfUFVha2FaLVBSeUtkNmczbVNhelR6Q054TmdDYmZkTkJpWTdCay16M240R2EzMmhPb2tMVllTTjlYZ0VkQXZGMUJEbGdkeHdmY2V5S2lmZHY5NFpxQW1mSF9YZmF4V183WXBGemU0UGFVZF9zT2dyV29aZjU1ZGthb3hadWQ0MlRNa1VLUWtYT3Vrb1NCQkgtQ0t6bXBTTHlFVEdlMTRvUzNQWjI1X2VCNE9IRHlJU1BVMks2V0RCWWZEeldLOGdlVnFmZnRhQzIyMHh6OWV1RnlBUDUwVlppVzBqWHV5RlJXLVJyV2NYNzMwSGJJZktiVmxZbGtFU3pMbGI1bW80UFhpeW8tdktGbi1DMDl6VWNrMmVuRThWZWtRdkRzMWNfRXFCSVU3bkcxdFFaQXZ5Wm1BSllzTkhsTmxvUkYxWEFQY3d0V1V2LXhCZTRheXVZdUJzbG1wd1BRMlQ3alRQSlgwaEFXaGxBTUxnTVVBRTd3RmN6OUNaREFWVnVOellfa0NOZmR4cmV2TnlLSk02MXN3bXQ1cjZ1dzRDMGxjTHVQV0JyTVByVm9OTEIteC00RmEtdjRIN1lfLU1NUjUzNHNOSzhfY3RaMlFDazV0SXZKRXJJQm1Zb2pXNXljLWY2dk9Kd19NU1N6bzZONnMzVVlDWTY3ZnNlcUhrWFg3MjRia0paTlpwTU5zeWJPajFNY2lBODRmZmdVZ3d4cnpLSTBaLWhYNVd2amg4cW9fVk03QmFzdGNFeUZJUE1xOFNJY2JudGsyeV9IV2xiVmN3TEVZcFc0R2k3a2NITWJOTktpcEdDdExtTUFoYzJhM0RFMnVoY2pKU0JqcWp5Y1NicGJhRWpfNm9naTJ5X3RUWXE3dXB5czU0ZkNXa2hYdy1rcl9xY1BySGlDNmlSbFJBV3JzZ1NELWNqVkRxT181Q3d6RTlFNmlTc2ROTVhLQm5KQmo2YjlWTnVObVprQi1NUUFILWN4T2tsU1hidlBlazBWVHZjT25YU29SdTc4ODZoNTBKSG1vR3c1REhncXBoVzBNTFNsa0RwUGxiZDZmRTR6UGJZRmhvR0J6QkM5U2c3V0ZRdGZMUE8tV0pTNWp4RU9iTExhLWRyTkVyUGJJc2t6WkRtUElILU54Vzl1dEVPQUlTRjM0YWNadm5ZOHFzQkVIb0xFM3NUOTNvVXRWdnc?oc=5",
+        "pub_date": "Sat, 12 Sep 2026 15:32:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-기타-18865-20260912",
     "first_seen": "2026-09-12",
     "last_updated": "2026-09-12",
     "status": "일반",
