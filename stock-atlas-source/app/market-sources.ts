@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼성전자, 40만원 전엔 절대 팔지 마라” 월요일 터질 게 터지나 ‘...",
-      "office": "헤럴드경제",
-      "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696337"
+      "title": "'월세 70만원' 때문에 삼성전자 해고 위기?",
+      "office": "비즈워치",
+      "date": "20260913",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050713"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "셀은 살아나는데 투자는 ‘아직’…K-배터리 생태계 반등 언제 [배터...",
-      "office": "디지털데일리",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/138/0002241108"
+      "title": "테슬라 메가팩 증설 수혜…LG엔솔·삼성SDI, 북미 ESS서 성장 가속",
+      "office": "뉴스1",
+      "date": "20260913",
+      "url": "https://n.news.naver.com/mnews/article/421/0009166489"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "살까 팔까 버틸까…기로에 선 부동산 투자, 여기 답있다",
-      "office": "한국경제",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331426"
+      "title": "대미 투자 합의 임박…건설주, 수주 기대감에 이달 상승률 1위",
+      "office": "연합뉴스",
+      "date": "20260913",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306259"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "중국 CXMT, 영업이익률 82%…SK하이닉스·삼성전자 제쳤다",
-      "office": "서울경제",
-      "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661116"
+      "title": "테슬라 메가팩 증설 수혜…LG엔솔·삼성SDI, 북미 ESS서 성장 가속",
+      "office": "뉴스1",
+      "date": "20260913",
+      "url": "https://n.news.naver.com/mnews/article/421/0009166489"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"자소서 대신 AI 활용 경험\"…SK하이닉스, 채용 방식 뒤집었다[AI로 달...",
-      "office": "뉴시스",
-      "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/003/0014185968"
+      "title": "\"한 달 -67%\" 아셴브레너의 귀환…SK하이닉스·AMD에 다시 베팅 [김주완...",
+      "office": "한국경제",
+      "date": "20260913",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331632"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
