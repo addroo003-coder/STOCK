@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "새우등 터진 韓 로봇, 美 수출 제동",
-      "office": "전자신문",
-      "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/030/0003466221"
+      "title": "“삼성·LG보다 빨랐다”…中 TCL, ‘티처 로봇’ 출시로 AI홈 시장 선...",
+      "office": "디지털타임스",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047759"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[경제 단신] ‘갤럭시 AI클래스’ 2학기 참여 학급 모집 외",
-      "office": "세계일보",
+      "title": "삼성전자, 日 패키징 R&D 거점 문 열어…TSMC도 택한 '소부장 강국'",
+      "office": "아이뉴스24",
       "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/022/0004158663"
+      "url": "https://n.news.naver.com/mnews/article/031/0001057916"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -963,10 +963,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "“3년물 4%·유가 100달러·환율 1345원…‘3高 트리플 쇼크’ 현실화...",
-      "office": "서울경제",
-      "date": "20260912",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661113"
+      "title": "주성엔지니어링, 흑자전환 분기 수주잔고 급증…매출 전환 관건 [실적...",
+      "office": "뉴스1",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/421/0009167624"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 ...",
-      "office": "지디넷코리아",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/092/0002437056"
+      "title": "[KAI민영화 분석 下] '우물 안 개구리' 벗어날 때…글로벌 수주전, '메...",
+      "office": "매일신문",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/088/0001028213"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "“출혈 경쟁 피하자” 잇단 단독 응찰…수익성 위주 선별 수주 뚜렷",
+      "title": "대미투자 수혜 기대에 건설주 ‘질주’…9월 업종 상승률 1위[코주부...",
       "office": "서울경제",
-      "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661317"
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661399"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "믿었던 HBM 마저…중국이 다 쫓아왔다 [中반도체 공습]",
-      "office": "중앙일보",
+      "title": "메모리 경쟁, HBM 단수에서 AI 가속기 효율화로 진화",
+      "office": "주간동아",
       "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/025/0003551102"
+      "url": "https://n.news.naver.com/mnews/article/037/0000038830"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
