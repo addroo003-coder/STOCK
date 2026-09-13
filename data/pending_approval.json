@@ -20488,7 +20488,7 @@
     "source_count": 2,
     "id": "006260-기타-15743-20260909",
     "first_seen": "2026-09-09",
-    "last_updated": "2026-09-12",
+    "last_updated": "2026-09-13",
     "status": "일반",
     "stale": false
   },
@@ -22345,12 +22345,22 @@
         "press": "경북매일",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ydU9qTEczdzdPWGZZUE5kZGJsUy1MUjFJLTFQY094S3lWai1HNzJGY3RqcVhTbUp3bnU1RTQxUjNNSmNoOGlBNTAwd2FON3JpRHJGU19QMEQ2QQ?oc=5",
         "pub_date": "Thu, 10 Sep 2026 22:34:00 GMT"
+      },
+      {
+        "press": "파이낸셜신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OMjdweHhxUnJXelQ2cWYtRXJKbkRkTGZGc2VheXdEMFhSUm5kTlB0dHRxVTZ2ZVgtU0FCRlVDNUJDeG1IaWtrMlhUNmtoRHlLX1BZdDFfNkdhaGRsUXdxeDRYUFNGcl9YOGFz?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 07:30:34 GMT"
+      },
+      {
+        "press": "BBS불교방송",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tbDZPOTdqbjd5S3VHRUx2RUgycG5vdW9TWURONXV5REhQS2duclp3ZGlBa2ltdUx6b2VKbTBSR2tFN2NSd2J5T2tmRDVYMmd2Vy1MaHpEb3hsTzNMSlptQWo2M2lhTTA0Ymlz?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 09:01:56 GMT"
       }
     ],
-    "source_count": 23,
+    "source_count": 25,
     "id": "012450-기타-16866-20260910",
     "first_seen": "2026-09-10",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-13",
     "status": "일반",
     "stale": false
   },
@@ -24363,6 +24373,78 @@
     ],
     "source_count": 1,
     "id": "005930-기타-19016-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, '갤럭시 AI 클래스' 확대…학생 25만명 AI 교육 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90d0ZNTENfaGxEQXQ2OWVLbU5VWFByTUFudGU3RGQ5QzlrRHJzWEhMTEhRcTRSb1Q0TmtSQkdVeHR5ZFFqbnJvWktkQjdEQzRwaW96dWtHcThNblZp?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 06:16:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-19184-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"박스 화면은 TV 메뉴일 뿐\"… 삼성전자, 두아 리파 200억 소송 기각 나섰다 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTBQcE5iUFp0Z1AwUFpNeVQ2UGZ1NWFiaTE2SkViNVpZeGg2V3lSUVhHSnBUVVRHUGdiS0UzeUZ1VTJTYUc0dHlKT05RaXBKSDROWElzWXVDdk1wQXozSUFVLU0yZkloUDNycGVwRXl1Rno3YlBvTzVNbWpucjJvQnA3ZkZNTVBm?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 02:39:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-19185-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "파마리서치, 산부인과 전문의와 여성 건강 해법 모색…홈케어 제품군 확대 - hankyung.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EUWFFSlI1dzFkLUhEbEU4WW8wWHVIWTRwS2p0R3p4bVlONjdtekYzRVk3eVM2NTNQM1EtcnBSY3pEVXRscjViVTR2QThId1pwTlhVNTFkYlhYZw?oc=5",
+        "pub_date": "Fri, 11 Sep 2026 08:05:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "214450-기타-19402-20260913",
     "first_seen": "2026-09-13",
     "last_updated": "2026-09-13",
     "status": "일반",
