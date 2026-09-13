@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "[이슈플러스]美 로봇시장, 최대 격전지 부상…韓 기업은 '조건부 승인...",
+      "title": "새우등 터진 韓 로봇, 美 수출 제동",
       "office": "전자신문",
       "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/030/0003466220"
+      "url": "https://n.news.naver.com/mnews/article/030/0003466221"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "애플 공급망 탄 K디스플레이… 실적 반등 청신호",
-      "office": "국민일보",
+      "title": "[경제 단신] ‘갤럭시 AI클래스’ 2학기 참여 학급 모집 외",
+      "office": "세계일보",
       "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/005/0001872616"
+      "url": "https://n.news.naver.com/mnews/article/022/0004158663"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "\"AI 전력시장 뚫는다\" 정기선號 HD현대, 엔진·SMR로 '2030년 매출 100조...",
-      "office": "뉴시스",
-      "date": "20260911",
-      "url": "https://n.news.naver.com/mnews/article/003/0014183539"
+      "title": "부유식 AI 데이터센터·차세대 LNG선… 미래 K조선기술 선보여",
+      "office": "국민일보",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/005/0001872628"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "빚만 168조원인데 주가 반등?…오라클의 ‘AI 도박’ 통해야 삼전닉스...",
-      "office": "매일경제",
-      "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/009/0005734465"
+      "title": "믿었던 HBM 마저…중국이 다 쫓아왔다 [中반도체 공습]",
+      "office": "중앙일보",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551102"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
