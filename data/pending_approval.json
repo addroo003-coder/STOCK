@@ -4876,7 +4876,7 @@
     "source_count": 1,
     "id": "006400-실적-4980-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-13",
     "status": "일반",
     "stale": false
   },
@@ -24618,6 +24618,150 @@
     ],
     "source_count": 1,
     "id": "000660-기타-19843-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "‘파업조끼 장인 납품 논란’… 삼성전자 최대 노조 분열 양상 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aX19GZnc1NW10N01MejNNMjladXNlcmQ0WG45R3J2VXNvVTViRTE5WXhzcVFFTGh0LUlmZEliQ05rb21taDVZd05ZSTJNNWc?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:02:37 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-19903-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최대 노조 분열에 노노(勞勞)갈등도 확산…삼성전자 임단협 '안갯속' - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80c1QtWjJPVldmYmw5bXdpQzNGWHZPMFgzamVPTUlnOFlDRGhhLWEzSHlkSVN2X1VCSFBleHZqUGVxbUlnMFMtYi00ZjBYelJoQjZxemtWOEdHbWRDNUJ6anZTU0I5eGpkbUpRUjZReEluZVZnMHlEVdIBeEFVX3lxTE80c1QtWjJPVldmYmw5bXdpQzNGWHZPMFgzamVPTUlnOFlDRGhhLWEzSHlkSVN2X1VCSFBleHZqUGVxbUlnMFMtYi00ZjBYelJoQjZxemtWOEdHbWRDNUJ6anZTU0I5eGpkbUpRUjZReEluZVZnMHlEVQ?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 20:32:49 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-19905-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독-메가특구법 노동특례?] 삼성전자·SK하이닉스, 기간제·파견 확대 ‘관심 없다’ - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tcE4yS3ozeEd6U1NRLW5CN3F3QkpqQVBfMnFsa3ZrM0RwaEJuazFDSHhUdmhuMWRxZnlpaDhKWXc3bS1pYWJEdjRWY2Vkd2s?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:32:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-19909-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독-메가특구법 노동특례?] 삼성전자·SK하이닉스, 기간제·파견 확대 ‘관심 없다’ - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tcE4yS3ozeEd6U1NRLW5CN3F3QkpqQVBfMnFsa3ZrM0RwaEJuazFDSHhUdmhuMWRxZnlpaDhKWXc3bS1pYWJEdjRWY2Vkd2s?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:32:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-19915-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "주성엔지니어링",
+    "stock_code": "036930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "주성엔지니어링, 흑자전환 분기 수주잔고 급증…매출 전환 관건 [실적why] - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jY2JGY2g0dGVJZHV4YUo2YzBUbVpKby1zdGxXSVhsdEVrRTUzcU5MVk9mMHdrczRvLWduT0RXQl9KX212cGlxQ3NfTDBwUEV0Y1NWQ1BPZWRQaktU0gFiQVVfeXFMT3JGSkNCd0RvcWR3c0U1b2RSb2gxWGRrVi0zUXZRdlhzdlh4TERDU0piMHBJMmc1U1RIM1pYczVQalpYRk9JWHpYOHhIZENyUldmUFpEUXJneV9wVDVQYXRxTEE?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "036930-실적-19919-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 4분기 MLCC 최대 30% 올린다…수익성 개선 ‘정조준’ - dt.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "dt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uYUxsRi1UdDR1Ym53bG5ESjc5dm0yRTRCaGJ0cWlZeDltaGdYWlJXNU44VHB4UnVMUU4xV0ZLNm45eUU0dDN1RlVHWlRvZw?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-19930-20260913",
     "first_seen": "2026-09-13",
     "last_updated": "2026-09-13",
     "status": "일반",
