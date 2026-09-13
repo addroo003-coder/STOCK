@@ -14801,7 +14801,7 @@
     "source_count": 1,
     "id": "207940-기타-11425-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-13",
     "status": "일반",
     "stale": false
   },
@@ -24528,7 +24528,7 @@
     "sector": "우주항공",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "컨텍, 광통신 위성데이터 수신 상용화 나선다…전략적 협력 확대 - v.daum.net",
     "source_type": "news",
@@ -24537,10 +24537,63 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05S3N3a3h6SThPSlBiUjlkeTZhQzZEOVhTMURiRDhvc3E2eERSaFM2dWhIbmlaakFPa1piZ09uUWNEUkdudk9Qb212YWVWT1U?oc=5",
         "pub_date": "Sun, 13 Sep 2026 09:28:00 GMT"
+      },
+      {
+        "press": "중도일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zVVg5MTZGUjRQRUhqcndFNUJnU1ZBUWhRb1hWQ1BKX1hPVVZpcTBtdUlXRHYxb0p1azdMdkV1Zng2RDF3NnNyaWFoTUpjUjQ1YlNJVmJaQ1IzNlB0cVN1WDVnWVg?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 09:28:31 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "451760-기타-19613-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전기술-포스코이앤씨, 4세대 SMR·HyREX 협력 확대 MOU 체결 - gukjenews.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "gukjenews.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsbFY4NGt5QUw5Q1pwQnpST0pYNnRybzY0dDlZT0ZUT0tOaW8tSDdXLVZHWUpvckZkMHhTYzl1TkFCTUpRaFJVUjI0Zk05WC1MM1p2OFV0eDNsbWVSWTlmVXhveEp3LTBFbG1kQTdR?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 11:23:54 GMT"
       }
     ],
     "source_count": 1,
-    "id": "451760-기타-19613-20260913",
+    "id": "052690-기타-19773-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[현장] '해풍밭' 확대 노리는 SK이노베이션… 신안군 \"국가기간망 지정 필요\" - 한국일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국일보",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUjQzdFNxUHlsajZLVV9HRTdFeW8wT2pfUnhacUpEZzNYSW9IQ3lmNFVrY2E1SThWclVTR0dpVWtETXMxY2xPeDgwTGNfUmE2NVN5aFZwbmY1cXNxcTNEOWVZVDhhU1hEcGtmWmR1bjZXUmvSAXNBVV95cUxQY1I0M3RTcVB5bGo2S1VfR0U3RXlvME9qX1J4WnFKRGczWElvSEN5ZjRVa2NhNUk4VnJVU0dHaVVrRE1zMWNsT3g4MExjX1JhNjVTeWhWcG5mNXFzcXEzRDllWVQ4YVNYRHBrZlpkdW42V1Jr?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "096770-기타-19832-20260913",
     "first_seen": "2026-09-13",
     "last_updated": "2026-09-13",
     "status": "일반",
