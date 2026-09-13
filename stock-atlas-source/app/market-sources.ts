@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "새우등 터진 韓 로봇, 美 수출 제동",
+      "title": "[이슈플러스]美 로봇시장, 최대 격전지 부상…韓 기업은 '조건부 승인...",
       "office": "전자신문",
       "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/030/0003466221"
+      "url": "https://n.news.naver.com/mnews/article/030/0003466220"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 김호윤 셰프와 ‘비스포크 AI 쿠킹쇼’…AI 주방 경험 선봬",
-      "office": "서울경제",
-      "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661337"
+      "title": "애플 공급망 탄 K디스플레이… 실적 반등 청신호",
+      "office": "국민일보",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/005/0001872616"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "최태원 “AI 버블 우려 깨려면 스스로 벌어 투자하는 구조까지 가야”",
-      "office": "서울경제",
-      "date": "20260913",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661339"
+      "title": "[현장] '해풍밭' 확대 노리는 SK이노베이션… 신안군 \"국가기간망 지...",
+      "office": "한국일보",
+      "date": "20260914",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953789"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
