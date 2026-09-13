@@ -24110,7 +24110,7 @@
     "source_count": 1,
     "id": "006260-기타-18274-20260911",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-13",
     "status": "일반",
     "stale": false
   },
@@ -24445,6 +24445,102 @@
     ],
     "source_count": 1,
     "id": "214450-기타-19402-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "AI 속도 조절론, SK하이닉스 등 무기한 선물상품 강타…오픈AI 최대 13% 급락 - 블록미디어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "블록미디어",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KdkttcDFHWkZzZngxVzdLNXEyeGFJVzdnN3NhWDRvS253VE1iQ3NfUmZYN0JxYVE3TjdJNTBIeE00NGo4ZTBwalk2M3FxSWlaSlBaaUhEUTQ?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 10:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-19468-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 중부발전과 재생에너지 공동개발 협력… 태양광·BESS로 협업확대 추진 - biztribune.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "biztribune.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56UnNtR002MDhVU29mN19GUEtfOHRDV3ZXenp3aFVGRUFOSTh3VmFCR0NfTlNBZkRXNHVpVWp2SWptVTVPOC1YcWdZNmtTaGt3OXFmTk9ZNGdsMExKMUtZaktHYlhsU1hhbEpnTG12dTY?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 03:13:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-19521-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전기술·포스코이앤씨, 차세대 원전·저탄소 철강 협력 확대 - kyongbuk.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "kyongbuk.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtSjdnRzhIaThQUk9xNWYwbGFPUUJmMUQ2TVpKaHA2MlNEZFJPMk9wT0tvTDJCck1meGlmNWd3d0xBeVJzWlQ3Z3J2ZjZVYi1Pelc2eXFmOUJJSzdBUU5paUhQdmxsWXpiZ0xBQzY2SQ?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 06:47:49 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-19573-20260913",
+    "first_seen": "2026-09-13",
+    "last_updated": "2026-09-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "컨텍",
+    "stock_code": "451760",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "컨텍, 광통신 위성데이터 수신 상용화 나선다…전략적 협력 확대 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05S3N3a3h6SThPSlBiUjlkeTZhQzZEOVhTMURiRDhvc3E2eERSaFM2dWhIbmlaakFPa1piZ09uUWNEUkdudk9Qb212YWVWT1U?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 09:28:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "451760-기타-19613-20260913",
     "first_seen": "2026-09-13",
     "last_updated": "2026-09-13",
     "status": "일반",
