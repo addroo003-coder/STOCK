@@ -235,10 +235,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "\"인간처럼 움직여라\" … 로봇관절 액추에이터 65조 시장 격돌",
+      "title": "\"반도체만큼 중요한 액추에이터 기술… 로봇·인간의 안전한 교류 도...",
       "office": "매일경제",
       "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/009/0005735098"
+      "url": "https://n.news.naver.com/mnews/article/009/0005735099"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한...",
-      "office": "세계일보",
-      "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/022/0004158955"
+      "title": "\"환율 200원 빠졌다고 美주식 샀다간\"…전문가가 꼽은 '뜻밖의 변수'",
+      "office": "뉴시스",
+      "date": "20260915",
+      "url": "https://n.news.naver.com/mnews/article/003/0014189750"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "추격 30년 넘어 세계 경제 리드…AI 시대, 한국의 새 도약을 묻다",
-      "office": "헤럴드경제",
-      "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696887"
+      "title": "에스투더블유, 정부 주도 ‘보안 특화 AI 파운데이션 모델’ 개발 사...",
+      "office": "스포츠경향",
+      "date": "20260915",
+      "url": "https://n.news.naver.com/mnews/article/144/0001138160"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "데이터센터·AI 힘주는 건설업계, 하반기 젊은피 대거 수혈",
-      "office": "파이낸셜뉴스",
+      "title": "현대건설, 서울 정비사업 착공물량 기준 33% 담당",
+      "office": "헤럴드경제",
       "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/014/0005575629"
+      "url": "https://n.news.naver.com/mnews/article/016/0002696883"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "‘주가 반등’ 시동 건 배터리 3사… 美 ESS 시장 ‘정조준’",
-      "office": "조선비즈",
+      "title": "\"SK이노, 전기화 앞세워 AI 에너지솔루션기업으로\"",
+      "office": "아시아경제",
       "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/366/0001192270"
+      "url": "https://n.news.naver.com/mnews/article/277/0005815898"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한...",
-      "office": "세계일보",
-      "date": "20260914",
-      "url": "https://n.news.naver.com/mnews/article/022/0004158955"
+      "title": "\"환율 200원 빠졌다고 美주식 샀다간\"…전문가가 꼽은 '뜻밖의 변수'",
+      "office": "뉴시스",
+      "date": "20260915",
+      "url": "https://n.news.naver.com/mnews/article/003/0014189750"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
