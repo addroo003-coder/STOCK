@@ -24895,7 +24895,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "메리츠證 LS마린솔루션, 해저 전력망 확대 수혜…목표가 4만원 - 아주경제",
     "source_type": "news",
@@ -24904,9 +24904,14 @@
         "press": "아주경제",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwUVEwY3hPV0VNUWtMYkJhVEt2N01RbG4xYmFCQVFrRmJOOU5abk43Z0VkbHJva1gwWG9wYzdxUzE2T0Z3Szl5Wkw1eDBnV1k0RGl0N1pUTkrSAVhBVV95cUxQMFFRMGN4T1dFTVFrTGJCYVRLdjdNUWxuMWJhQkFRa0ZiTjlOWm5ON2dFZGxyb2tYMFhvcGM3cVMxNk9Gd0s5eVpMNXgwZ1dZNERpdDdaVE5K?oc=5",
         "pub_date": "Sun, 13 Sep 2026 23:26:10 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tRWZDYWhuNFpnN1laLXV1NVN5R2VuYXBmSnRlSjRRWGd3ell5WGJlVXd2NEo0RlFzekdIQjVkZ1BxbDdLRjJjMkZhcWc4ZUZiRFRuaw?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 23:26:16 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "060370-기타-20114-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
@@ -25568,6 +25573,30 @@
     ],
     "source_count": 1,
     "id": "105840-기타-20909-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 물 절감·재이용 지속 확대…하루 평균 17만 톤 절감 - 이천설봉신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이천설봉신문",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aNEhma2Q0cHhKNEJLN2stZEZUM2xDV3BCdGRBdEsyR1k0enlZeUp4RlBlSmk4S1REY1Y2UzFWWlJxOTVDSmhKTGFscGhlbkk0NktCZDY5X1oxY1hEcndTYmFJaGd3UnNyeHc?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 14:18:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-21002-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
     "status": "일반",
