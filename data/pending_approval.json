@@ -4742,12 +4742,17 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZWdfUUFoVTRIdmtYUF92VTROSEd2SC1PcW5lTjByNkptNHlvMDdFT1dhRDlzNGtiamJxYk1uMHd6bjdRODMyVGhOQ3lUUWRpRG1BZ2Y1c2ctREdVNmNFakFlRV9mRHZf?oc=5",
         "pub_date": "Mon, 31 Aug 2026 07:03:12 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ST3JtZUc2aE9Od09XbC04YXFxaThLLWZkMmh1dlJ4Zl85ZkhHR0RJMm5qRWhBbDBhQzNEemtNR1hOVFhGZTB3T1pXa0RMWHl1dUdROHl2QlVIM2t4dzltTEdUc0NONHNM?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 21:05:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "222800-기타-4662-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-09-14",
     "status": "일반",
     "stale": false
   },
@@ -25597,6 +25602,126 @@
     ],
     "source_count": 1,
     "id": "000660-기타-21002-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 3분기 영업익 전망치 급상향… “HBM4 성적은 삼성 우세” - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFpkSGdsTFFkcG9vNHhJTVpTZE1feEZNTmVvSFRsajB0YXh4Nlg0YVlPREhOWHFhMUxmREs5OGFHa0kzeEs4bTBwRVdIMGlrODcyOG5oOVNaakk4b2F4SmpiVlItNUZkcG9CbngwMzJtS1ZqcDdISWNKd0NFd0N1UHVR0gGWAUFVX3lxTE9kUmJlcUlwZkR0SE9CbmIzbmFkdjdsd2x3U0RwbW1YYTFfSE9vajd0VV9rYndvbGd4T1pocWxGYlJuZWFQOGNLcEo5V2xyYjl1dmlINVcwQnJ6dVBOUHlLSXg4ZmNid3NhdHc3aWUtTVN0aWNoSlZOaHFONTRRSHZUMFQ5SE1NYXQyNldMR0c0NnZzSkd1QQ?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 21:04:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-21084-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 3분기 영업익 전망치 급상향… “HBM4 성적은 삼성 우세” - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFpkSGdsTFFkcG9vNHhJTVpTZE1feEZNTmVvSFRsajB0YXh4Nlg0YVlPREhOWHFhMUxmREs5OGFHa0kzeEs4bTBwRVdIMGlrODcyOG5oOVNaakk4b2F4SmpiVlItNUZkcG9CbngwMzJtS1ZqcDdISWNKd0NFd0N1UHVR0gGWAUFVX3lxTE9kUmJlcUlwZkR0SE9CbmIzbmFkdjdsd2x3U0RwbW1YYTFfSE9vajd0VV9rYndvbGd4T1pocWxGYlJuZWFQOGNLcEo5V2xyYjl1dmlINVcwQnJ6dVBOUHlLSXg4ZmNid3NhdHc3aWUtTVN0aWNoSlZOaHFONTRRSHZUMFQ5SE1NYXQyNldMR0c0NnZzSkd1QQ?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 21:04:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-21088-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국우진학교 주차장 공사 3년째 지연‥학부모들 “올해 안에 완공하라” - 에이블뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "에이블뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZlRncDBPS0VuTHo4OEdISHlPQkFQdUwxM1BCNWhMdnVaYXlORktLSC00dkdleVhJWUJlWXlJMEd3TkN5R3EwaGNiR3VYQlVkNEFHX3IxNm9sUHJ3V1RWeGd1X1JoWEdyWDVCcUZB0gFyQVVfeXFMUHBmSUgtNmNhOWU0OEM4Z1JiemRIM3EzUWlJMFJvWWVaZ2ZaRzU2a2taU3d1Ymt3M2I0Y1h3UkwxOUhFLU5RSXFseXVFaC03NGRhVVJoU0VraVdyZ3BlNHpCdmtpODVpU012cDFHZWlKeTNR?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 14:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "105840-기타-21166-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI, ESS 수주 가시성 확대…목표가 22%↑-NH - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnBiRUlnOEd4U2JZNGRLYmNERHpEa3F0RGVCaFo5cnlpZ0thQ1dFZmFCOUY0Z1JJMy1uSElkUFAzOVprZDdmamhnakh1aDRtT3BrR3U2RzZqdTB2cldWSkxFQk9rY2FaVDVXS09Sb3VrZUduZjNlMElEMW1QYXJ1Vw?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 22:49:37 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-수주-21200-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유안타證 “SK이노베이션, 3중 호재로 영업익 10조 예상…목표가 20만원 상향\" - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3dWaHRFbkF4MlFVbVN1VzRYZlFqb0hPQVk2bFhOOXdvNVpaMTY3X3hqOTFSenJ6ZGZHMi1CWGJ5WjQyVjM0eW1fTS0zTU5VYTgyMVBWVjljSUhhZG1KS3Y2b0NBM0lsS080SmhYZF9WUzZ3eFFpUnpGY0gyNFRTYmVycE5QNkdL0gGcAUFVX3lxTE9iSWVXUS1RbFR1YVd2QzVSV2tfdzhnNVJ6Ymt4dXF1eHV5T3VoZGlOdW1SOTZZWTdCVnNVRXZyb3NJZGRqQVpPeFJjWVZESFRmNVNDQURaUHpPdWpsS0JFUEFhVTg5ZWRqZHZHUVBhZGRSd3drNk83Z2YzcTZzSGU0ZDlhbkd1MDM1TzYta3hxdy05RUNLMXdVT0VfNA?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 22:32:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "096770-기타-21202-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
     "status": "일반",
