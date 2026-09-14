@@ -325,6 +325,19 @@
     "is_correction": false
   },
   {
+    "company": "씨아이에스",
+    "stock_code": "222080",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260914900531",
+    "rcept_dt": "20260914",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914900531",
+    "is_correction": true
+  },
+  {
     "company": "서진시스템",
     "stock_code": "178320",
     "sector": "이차전지·ESS",

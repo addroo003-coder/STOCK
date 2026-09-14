@@ -19864,12 +19864,17 @@
         "press": "디지털투데이",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNXJuTzJxWWZ0bTIzTGZSaGhHWjRFZ1J6OVo4N1p2UlBzZC1LMFBGOXpNejktUklsV3BYZW53SVFTVFB5X3Mtc3VDUjJhS3pad040T180NlQwTFdZUzRzMTh4bTFURnNscVJHcnNGd1diYVE?oc=5",
         "pub_date": "Wed, 09 Sep 2026 07:47:01 GMT"
+      },
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LVC1mTmZzbUN4SVhfQVBMaWJ1SW5TVnJSUU8zTmJFYzhkZS1lTWdzZEVFbWVuN3dTakJkSVpVRXFOVHBDSThEcGZNcUh1Q1RXRlhjeUJRdjljT1A5dkxBVGIwT0RDRDltdWdYV05faXB3UHpsWi1ENlBuRQ?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 08:44:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "014680-기타-15177-20260909",
     "first_seen": "2026-09-09",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-14",
     "status": "일반",
     "stale": false
   },
@@ -25119,9 +25124,14 @@
         "press": "디지털투데이",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FNnRyV0FhblhabU13bkNoM1V0NFhtNkhGdmJRek5lSFdmaXRpZ3pfc0ZiLURSTWlaWkJsZ1BIMG5YSlhHTENkeVRyeHNhekRIWjBxYjZmdEZSdzJFQWp2Y2RJSnBoaFVTZXhDVWNvZUR1Q05VZW9VakpmNA?oc=5",
         "pub_date": "Mon, 14 Sep 2026 06:44:03 GMT"
+      },
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZQUhXVU9OWF8yTWNncnVCX1Vld05VTlJrdlpnSlY2ZVJHNmg0aXFBcnltb0RtdUx6NjhUamZkNHkyc1ZFaFl6dW1taXp0cVhERXJTVXYxUlp1X3NsN2h1M1dHN3h1aXhHdDJQTmdtc1VKZVE?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 06:44:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "353200-기타-20420-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
@@ -25268,9 +25278,14 @@
         "press": "서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82OTdrYXp5OHRDZXoyT25mVG9QVkJiUkhDemtwbzBDVkdmTkd3cy1xR3lTUHFhbWNVa1BKV2JESDFWMl81Q3pLcFlCRE5GbThmLUHSAVNBVV95cUxOSWVySFp4RnhNN2NwTEhEYmlxQ1NqaHpjNzhGVGZUbGtFRy1JTDNQNzRETW9RMGxsQW5aUnR2a2NGa2RhdVZpUWgzRF9weklYRmJkWQ?oc=5",
         "pub_date": "Mon, 14 Sep 2026 06:47:40 GMT"
+      },
+      {
+        "press": "한국일보",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEVTBJOUZtSlBXelk1ZTlHWk4tdmhUa09BOHIyaUwyUUd4SWVWaXRBMlJJalFlYWRucTlabWF1MGNPelMteC1vSVBNLWM0NW14ODVHVnZiSlllcGpOTURBeDd5S0xhR2l2WE4wcXZ0bVllNnfSAXNBVV95cUxQRFUwSTlGbUpQV3pZNWU5R1pOLXZoVGtPQThyMmlMMlFHeEllVml0QTJSSWpRZWFkbnE5Wm1hdTBjT3pTLXgtb0lQTS1jNDVteDg1R1Z2YkpZZXBqTk1EQXg3eUtMYUdpdlhOMHF2dG1ZZTZ3?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 06:21:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "100840-기타-20516-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
@@ -25307,7 +25322,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "\"유럽 시장 공략 확대\"⋯삼성바이오로직스, 네덜란드 거점 영업 가동 - v.daum.net",
     "source_type": "news",
@@ -25316,9 +25331,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVkZzenNOQTJqczJNN1hfbVdCTU9nS2xFRlNkcjRpX2FBcFAtNG85WWYtWnJsOHJ1YWFzVVZKQXZRZ0hNMVJjU2JZMnVWMFk?oc=5",
         "pub_date": "Mon, 14 Sep 2026 05:50:07 GMT"
+      },
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qY0cyNDZxT1VrdC00R0Z5c2NacHZQUmx0ZTlvcGJXY2djZE4xWG04Qmp4OC1td242UVVYSkhkd0dOQjhQemNR?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 05:47:53 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "207940-기타-20633-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
@@ -25392,6 +25412,162 @@
     ],
     "source_count": 1,
     "id": "348370-기타-20749-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "씨아이에스",
+    "stock_code": "222080",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914900531",
+        "pub_date": "20260914"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": true,
+    "rcept_no": "20260914900531",
+    "id": "222080-수주-20764-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "정정됨",
+    "stale": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온칩스 최대주주 정규동 등, 41만 5132주 담보로 84억 5000만원 대출 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tYWIyX0ROYjhXT1RIdVVFRXppSXgyZnFYWl9CaXZrdTZNdFBwcEdyWWoyME1PVHBWMi1mcFcyX2ptWEJxMUNza3hsTnJ2cXdvbzBqWjlPb3JPUzlvS2FiSm05YktSMkx6RjFGc3p3elZ1bXM?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 08:12:36 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "399720-기타-20808-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, MLCC 가격 30% 올린다… 사상 최대 영업익 ‘정조준’ - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdWZxNjlRbVNUWk9ycFJwSF8zbmtLeS1vTERDQzQ1clZvdl9HMjlmRVFkb1VTZDNvWnRBclpTNWt1X0UySHBTQTZ5aFBqcVU?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:01:29 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1za2RRS0pqVnF2azBHSzVRYnZ0Zk15d2V6NTJjRnZGTDZrZDRxN3gtTGxfR2JLWkpmRjYxTC12aVdJN1lHWFhrcXc0b2pDUnBabjUtbA?oc=5",
+        "pub_date": "Sun, 13 Sep 2026 21:01:29 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "009150-기타-20818-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온전선, 미국 전력 인프라 확대에 현지 생산 강화 - 동아일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aa3N2ZFNOeFZkLXY4dUFsV0RHWkNBaFhTTnc3aGxhRGNlenpvQWluWElLbnZjNm9vM1hnVDVVN243eFRMdW82SkF5U1FRX3h5emJtMFlJZklMcGpEWkF4VWlGYUNYZ9IBZkFVX3lxTE5aa3N2ZFNOeFZkLXY4dUFsV0RHWkNBaFhTTnc3aGxhRGNlenpvQWluWElLbnZjNm9vM1hnVDVVN243eFRMdW82SkF5U1FRX3h5emJtMFlJZklMcGpEWkF4VWlGYUNYZw?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 08:33:58 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-20848-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비에이치아이",
+    "stock_code": "083650",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "비에이치아이, ‘비웰 공익재단’ 설립…경남 대표 기업으로 ESG 경영 확대 - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jbW5vVnF0ZF9XWkxWMUc4NVNqbjFOQlRwNG9aREJxMXJkNjdEZUpMVlJBWUZoNHFOWW1lZmllTGN5cTItczRiZF9KU3E4M2twWXRyTGl1dThyb3puMEJPWjVhSmsyQW1adGNQMmZOQm1ucGJX?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 08:17:00 GMT"
+      },
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTh6VURHVVRVYy14NENsQVdwRGdlR2dWNTVyTTZJMjRad2d5aE5sUUd4dWpibTBHb29USUdHaXVDQVVZMjJPVDh4cldMWk9wdWt3YUdMNEtKSG5aZm02NnRzeTVDZkJBdHNIY1hfYnRrMjBHdy0tM2UzYjFvZXhpcQ?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 04:33:21 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "083650-기타-20858-20260914",
+    "first_seen": "2026-09-14",
+    "last_updated": "2026-09-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국중증중복뇌병변장애인부모회, 우진학교 주차장 공사 지연 조달청 조치 촉구 - 한국장애인신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국장애인신문",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtLTZtazdTaG9jTllrTS0zNmtpZUR3QTdBSFk1dFpPR3FSbEJ4ekJLaC0wODFNNVJXSmM4RVA5VGhQTzVPeS1UR0lNNmpDUFpQY2hsTGJfc00zTi1XcFU4c3NsNm5KMWhZeFp1Nkg2MDJ1OW9jQWfSAXhBVV95cUxQTF9lZDJsVEpjM1FMaVRSSGU0dU5lXzBxZUd5cFh0YnVkNU1MV3pMY3ExdkRoQ2NJSjVSSS1GQ0N3WUN6Qm1FYmcwdENmYmZJS05TdUN3ZVpLR3IwTWdIMDdYUTRpc2YzMzBGMkpmQ0tlS2JEaWFaY0Y?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 09:30:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "105840-기타-20909-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-14",
     "status": "일반",
