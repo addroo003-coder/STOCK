@@ -25243,9 +25243,14 @@
         "press": "전자신문",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfeEswVHhpLWk1M2ItLVlhY091blhPTFlkcTZfWWIyNk5uRXYwMDQtV1lBYkdzTV85Q1U2T0RSb204ajNNRjVBN2tDNjc?oc=5",
         "pub_date": "Mon, 14 Sep 2026 05:32:14 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aM1B2aWVERFE0aUtnZ1lfQ3ZCV0ppRkE3LXRWemJ0bDFhNmdIM3Q3cURMeUhrRXdkZWV1UnFEV3kzaUNYSE9MS0NrUzVrUQ?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 05:32:14 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "222800-수주-20425-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-15",
@@ -25431,9 +25436,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5cTVPWHFGMkhQM3JueV9fZHFIcVp0TEQwakVMQTlTN0lZZHpyTlpwMjdYMFEza09YWVU0aWh2Z1BDZ2I2STNtOVB0OU10RC01cnp4Tw?oc=5",
         "pub_date": "Mon, 14 Sep 2026 05:50:07 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JZnYzWUJ2MFJuZzlMTl9rd2htOTYtTEdibXlPYlJ3Q2RmNWJRNEtsRFAtRnNxbXV2ZTRtaHA0c0VZR21ialE?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 05:50:07 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "207940-기타-20633-20260914",
     "first_seen": "2026-09-14",
     "last_updated": "2026-09-15",
@@ -27284,9 +27294,14 @@
         "press": "프라임경제",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xVWstaG8tUmJSM0xid1JJbzRLZFJjMnBqUF80aTFTX201enk4RmpIVTFYcFFPRk1BRVVJTEdCUmk1eEh3djhIY3dfcEhjQ01PREN2cjRUZDRSaGZ3NU5pOHFmVWI4RGtGcktjc3NOczNzQQ?oc=5",
         "pub_date": "Mon, 14 Sep 2026 23:10:29 GMT"
+      },
+      {
+        "press": "프라임경제",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWenFpeWdZekJvOFdZS3p5eHVKb1l0bGkzcXhrekhFQzZkQ25VZE9JVkdFdkNsVEJOLTlha0VzOC1qSl9NSHRaXzRqN2EwejhmbjRiTm5BQ0pXcnpCR3JBTDZidw?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 23:10:29 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "373220-수주-22157-20260915",
     "first_seen": "2026-09-15",
     "last_updated": "2026-09-15",
@@ -27477,7 +27492,7 @@
     "sector": "이차전지·ESS",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "\"삼성SDI, ESS·소형전지로 실적 회복…북미·유럽 수주 확대 주목\"미래에셋證 - 파이낸셜뉴스",
     "source_type": "news",
@@ -27486,10 +27501,135 @@
         "press": "파이낸셜뉴스",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0M1RFZW14dlZmX1hvOWxZYlBuTmoxcGJHbTRVaGd1cEFGdjU0aHpyLVJwbUxSbFp6YTIzX3ROR1JwTGc3YjRvbGhnd3hQT3pVeGlyNzV1MS15QQ?oc=5",
         "pub_date": "Tue, 15 Sep 2026 20:29:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KM3NSMVJaSDlBOGYyVTVITGh1U3Z3NkZ5SUFLVG9YUUNDZ29rbHVsVnptUlJxMzRWbXV6bjVBODVqbTlvanAtYzFvQTZ2TDA?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 20:31:09 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "006400-실적-22327-20260915",
+    "first_seen": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "키옥시아홀딩스, 최대주주 도시바에서 SK하이닉스로 사실상 바뀌었다...도시바, 지분 일부 매각으로 2대주주로 하락 - 비욘드포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비욘드포스트",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05WmZ0UTcwQ2hQN3c5LXVJQm0zbFZVWm1Vd1ZUODJzZDZIcmdrNkktVGVzS1FTX1ctWHdEdEZaQ2NPdkpZd3ZnUlByTU9neVZhMEJ2Q2toaVM4T0xzc3pGQlZva3VxelJ1OGtwLWFhbmZyR1JZd2h3QlJ3amo?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 21:38:37 GMT"
       }
     ],
     "source_count": 1,
-    "id": "006400-실적-22327-20260915",
+    "id": "000660-기타-22353-20260915",
+    "first_seen": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "온몸 던진 3보1배 “상생협약 아닌 살생협약!”...SK하이닉스관련 상생협약 파기와 오폐수 직방류 철회 요구 - 시사안성",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "시사안성",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNM3RMM0RXTW1MNVFtemdaWC0wZHdqVTJ1Zzc2ZFFVc3BKUTB6YUh2aEtyX2xnV0NmMkxZYjA4ZXB3d0lLRWxyOXJfX1J3Y3VxUUdPQjBkTEoweHVPd0NmZHR6SnJTcWxmeC1hUw?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 21:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-22354-20260915",
+    "first_seen": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠증권, 셀트리온 목표가 30만원으로 상향…“옴리클로 성장 기대” - 뉴시안",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시안",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVEdtQzVhQ2FMQ0VXTkhtdktnVEtGZWFaR2o1WXdySWpibnNXTFFGeFllTG03RVgyRnN0cGxrd3VjY1hTbjJ4SzBUUk9CWmtVaTFKbzd1ZHdzTUFSSF9VZkE1N1U1YWltdmfSAW5BVV95cUxNaEF0UHNVTm1aaFVKbEZ3SjlZMlBjakhqZ2NQRER4bDJhcVpJTDFHeFdzYXB4RW1EVnJTcWh1ZGp0LU1VczVHRU9COHhJSGQzTkdDcW5ZUDNCZkdEemtucGFvY2Nodmpsc0RORUVuZw?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 22:20:58 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-22429-20260915",
+    "first_seen": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠, LFP 승인 획득이 주가 촉매…목표가 18만원↑-NH - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkUyZnc3UjlyVzRqQnotMl9zTThuekpUOC1oWF9HX2ZRcVEwVVRJeHdEcDB3UzNDSUpTNDB6RkNRTHllemZpR0R2NG1jalVjM2p4NVowTUhfZVZSbXVILWJPWldCVHlrRlhzajhKVi00aWZTLVBXcHNSZTJXMlZDTA?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 23:10:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-22463-20260915",
+    "first_seen": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "NH투자證 \"엘앤에프, 신규 고객·LFP 확장 기대…목표가 16만원 상향\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XUFhFUXhBbEVrOGE2eHYzWWxnUzdNV284Z2M2Y19QWllrck1GZnFxWGNiN0tjZ0FDWkJNYVF3aFBwQkwzYUV0WXVwSFBCR0JiYnNXZw?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 22:57:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-기타-22469-20260915",
     "first_seen": "2026-09-15",
     "last_updated": "2026-09-15",
     "status": "일반",
