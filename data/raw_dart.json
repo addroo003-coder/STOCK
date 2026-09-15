@@ -234,6 +234,19 @@
     "is_correction": true
   },
   {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260915800684",
+    "rcept_dt": "20260915",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800684",
+    "is_correction": false
+  },
+  {
     "company": "한전산업",
     "stock_code": "130660",
     "sector": "원전·SMR",
@@ -426,6 +439,19 @@
     "rcept_no": "20260914900137",
     "rcept_dt": "20260914",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914900137",
+    "is_correction": false
+  },
+  {
+    "company": "지씨셀",
+    "stock_code": "144510",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "공정거래자율준수프로그램운영현황              ",
+    "rcept_no": "20260915900667",
+    "rcept_dt": "20260915",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915900667",
     "is_correction": false
   },
   {
