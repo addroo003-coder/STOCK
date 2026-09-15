@@ -13,6 +13,19 @@
     "is_correction": false
   },
   {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(자기주식처분결정)",
+    "rcept_no": "20260915000194",
+    "rcept_dt": "20260915",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000194",
+    "is_correction": false
+  },
+  {
     "company": "테스",
     "stock_code": "095610",
     "sector": "AI 반도체",
@@ -221,6 +234,19 @@
     "is_correction": true
   },
   {
+    "company": "한전산업",
+    "stock_code": "130660",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260915800444",
+    "rcept_dt": "20260915",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800444",
+    "is_correction": true
+  },
+  {
     "company": "우진",
     "stock_code": "105840",
     "sector": "원전·SMR",
@@ -231,6 +257,19 @@
     "rcept_no": "20260914800368",
     "rcept_dt": "20260914",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914800368",
+    "is_correction": false
+  },
+  {
+    "company": "비츠로테크",
+    "stock_code": "042370",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+    "rcept_no": "20260915900441",
+    "rcept_dt": "20260915",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915900441",
     "is_correction": false
   },
   {
@@ -309,6 +348,19 @@
     "rcept_no": "20260914800220",
     "rcept_dt": "20260914",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914800220",
+    "is_correction": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260915800321",
+    "rcept_dt": "20260915",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800321",
     "is_correction": false
   },
   {
