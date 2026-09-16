@@ -156,6 +156,32 @@
     "is_correction": true
   },
   {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[발행조건확정]증권신고서(채무증권)",
+    "rcept_no": "20260916000467",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000467",
+    "is_correction": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]증권신고서(채무증권)",
+    "rcept_no": "20260916000455",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000455",
+    "is_correction": true
+  },
+  {
     "company": "비에이치아이",
     "stock_code": "083650",
     "sector": "전기·전력",
@@ -179,6 +205,19 @@
     "rcept_no": "20260914800073",
     "rcept_dt": "20260914",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914800073",
+    "is_correction": false
+  },
+  {
+    "company": "한중엔시에스",
+    "stock_code": "107640",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "타법인주식및출자증권취득결정              ",
+    "rcept_no": "20260916900193",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900193",
     "is_correction": false
   },
   {
@@ -258,6 +297,32 @@
     "rcept_dt": "20260915",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800684",
     "is_correction": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주총회소집결의              ",
+    "rcept_no": "20260916800424",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800424",
+    "is_correction": false
+  },
+  {
+    "company": "한전산업",
+    "stock_code": "130660",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260916800473",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800473",
+    "is_correction": true
   },
   {
     "company": "한전산업",
@@ -442,6 +507,19 @@
     "is_correction": false
   },
   {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "공정거래자율준수프로그램운영현황              ",
+    "rcept_no": "20260916900488",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900488",
+    "is_correction": false
+  },
+  {
     "company": "툴젠",
     "stock_code": "199800",
     "sector": "바이오",
@@ -531,6 +609,19 @@
     "rcept_dt": "20260914",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914900531",
     "is_correction": true
+  },
+  {
+    "company": "성일하이텍",
+    "stock_code": "365340",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20260916000311",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000311",
+    "is_correction": false
   },
   {
     "company": "서진시스템",

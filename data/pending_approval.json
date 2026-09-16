@@ -307,9 +307,14 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800125",
         "pub_date": "20260916"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800473",
+        "pub_date": "20260916"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "is_correction": false,
     "rcept_no": "20260826800502",
     "id": "130660-수주-346-20260828",
@@ -26513,7 +26518,7 @@
     "source_count": 5,
     "id": "006400-수주-21474-20260915",
     "first_seen": "2026-09-15",
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-16",
     "status": "일반",
     "stale": false
   },
@@ -26561,7 +26566,7 @@
     "source_count": 1,
     "id": "006400-기타-21478-20260915",
     "first_seen": "2026-09-15",
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-16",
     "status": "일반",
     "stale": false
   },
@@ -26734,9 +26739,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ORFdOOGYyNkdqdzNzX0lLc2hJZ2lvZ3c3dHdsNzdfTi0taWJyUTZCRHhlTkEyamxIaXY2eHd6ZUYwQzAtbkl4Vk9WbzdhbkE?oc=5",
         "pub_date": "Mon, 14 Sep 2026 23:00:06 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EQXVGbjRZMGd2R2psLXd5S2xtU1dfQ1lWOFJxanh4NGZvNU9FekxaLWxGZFh4OVlBQTRib1BoMHFicjJTYUlRVEduM2QtSkVqVG9mZQ?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 23:00:06 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "003670-리스크-21499-20260915",
     "first_seen": "2026-09-15",
     "last_updated": "2026-09-16",
@@ -27800,9 +27810,14 @@
         "press": "아주경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JRlotdzN2TzFvN3RYQldMRTg1X2hlVUZTOEpkMVhmVXRMcGdDbzFKdGZOMzJOMllzcnhIbVlobnViM3ZvQ291ZTNXTG0tNk9xRWNILWxidWN2Z9IBWEFVX3lxTFBUUlNKM29NdHVqQ1gwT1FqRU0tUnVSdG5qUHNRNE42dFRYQmxtYzlHNnQ4dVNRcXYyVFZVdV9KcndjUVJteTI0cm1IWlhCUE1oNlpuTzhyd1M?oc=5",
         "pub_date": "Wed, 16 Sep 2026 00:00:15 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUUlNKM29NdHVqQ1gwT1FqRU0tUnVSdG5qUHNRNE42dFRYQmxtYzlHNnQ4dVNRcXYyVFZVdV9KcndjUVJteTI0cm1IWlhCUE1oNlpuTzhyd1PSAVhBVV95cUxQVFJTSjNvTXR1akNYME9RakVNLVJ1UnRualBzUTRONnRUWEJsbWM5RzZ0OHVTUXF2MlRWVXVfSnJ3Y1FSbXkyNHJtSFpYQlBNaDZabk84cndT?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 00:00:15 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "298040-기타-22530-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -27839,7 +27854,7 @@
     "sector": "전기·전력",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "비에이치아이, 한국서부발전과 LNG 복합화력 발전설비 공급계약 2235억원 체결 - 디지털투데이",
     "source_type": "news",
@@ -27848,9 +27863,19 @@
         "press": "디지털투데이",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LN0JMQmJEQTlSblhDYnM3Z0lQOUwtNFMwQ19Hb2xGeGxNZUd3MzNzemNUZEszSHZiR1kyX1l5a2RxZzdtUmJhbFIyaXhGMEJHNjNyWEhnNGxBZGVaWFM0VVU1b2dVamg2NUVxcDRlcm5GbHBadXJqZXlUaw?oc=5",
         "pub_date": "Wed, 16 Sep 2026 01:41:01 GMT"
+      },
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1Y2tFUDdSUXR2ejRQdlZtd2x3TEd2MHVMVkg1NmtuNkRzSkdOZnZ0ZW9TemZOeDVrU0gtcHRGLTMxWG82OWlhQVQwbGl3VjJUVmZ5akhodmZzczFsUkw4RzBETXVMRXl2cUFiaE15ZjV4dw?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 01:26:39 GMT"
+      },
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNy0yMUR6WkRhUFJ0VTRnT0tURGU5aXpMUmxIcDZfdXppYlA5NUljWjRZNDByemphUTI0dWZvQjFmRmgzOWlxZ3RKSjdXUmN6MmNMcnduNVhIMk9LcU1taFdBeV92MGtUNkE?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 02:15:08 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "083650-수주-22570-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -27997,9 +28022,19 @@
         "press": "beautynury.com",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92QnhGZDZHSF9iS2Rra0UwMWIxU1paVUtFN0REQXdvRkV5VkRVZTFxSVo2R184cDA1WG84LTJpZzhDYm5uQ29hNVhpQTdYQ1hiVHB5SF9mSXBTT3p0Tzhz?oc=5",
         "pub_date": "Wed, 16 Sep 2026 01:11:00 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1US1BJbHQ3Q3IxODJLcjBoQmlWOWpqc0dGSElWeXlfVDZ4LVdxcTZ1SUk0RFMzRmJYOE1fWEkxMi1UMnBjWGE1OE8yTGlKQQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 05:14:52 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNnhOczc3ZXVrYVd2TGxtc2VkMzJHSVljZGxmbVV0cWt3YS10d2dOVXpuSEl0OVRDM2ZFbUVGeWRjclE4Ym1HVmtDYlVJN291cXF4Z3lwMG9VSmFmNzIyU0s0dGZac2tDNVNST0N4Rk5FTHBMQnp0RVFn?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 00:33:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "214450-기타-22738-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28041,9 +28076,24 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ESS1MdDlzNGlxZV9NeUV4Q0VyMHhVaWxla2k4Q2daWlhhZjJ0V0toU2M5OTBVRXhPM21IS3U1Q3BVcms4bXdZMGlVck53Q09lVGJ1UE9tNEVsQkRMR2VPV1pIMEFMMGlUbTJ6Nk1zNGVrblXSAXdBVV95cUxORFVZR0NyMWllTER4UkVKU0UyVXhPNzlSRzhVbEh3TnQxM1dKdGhfbFFrcnNxdEl3S3Ryam9ySjY3NHJyTEpXZ243M1BnamUzaXpJZ2I5dU40cUVPZ084Y2VTQzlDRFc4bndCOExkbUh4VWxueW1vcw?oc=5",
         "pub_date": "Wed, 16 Sep 2026 01:39:13 GMT"
+      },
+      {
+        "press": "한국NGO신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ybVpzOGI0SDlQVUFFb0QycWd6WDJ0MDBFendiQzRydU5ZQ2pPUmhFRGZsdFV4N2hnelNMX1hvMVRGM3BrYk85VGVTMUp3M1FTbjZJR1l0Qi13OWZhc1BTaU12UzQ3QzNE?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:43:51 GMT"
+      },
+      {
+        "press": "나눔경제뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50MXlORjREOUdZQ2VBSWl5ckhta3V2aFk0ZXZYNlpFTXlUN1Q5c0M1OWVLN0w3ZndjMUNxNkJaaEFfM1g0aGZnLXp6QlVrcmdkOGNIbjJPSVlfQXd4SDdJMHc0Y3ZPRExXOGdrUg?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 07:24:49 GMT"
+      },
+      {
+        "press": "직썰",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZlVaSW5XS2Z0MDhZVnZZMTlkRXJjRXNRS1g5NVJrXzFIcHh4SUJSbjliTGY4UnRCSHRWUHd3bVpTdGllRFJVcXpFcDk2TWZrVlZkOFZKQWZyWWlNVGJ3dUVXSlhPTUc2NTMzNtIBbEFVX3lxTE4yZlVaSW5XS2Z0MDhZVnZZMTlkRXJjRXNRS1g5NVJrXzFIcHh4SUJSbjliTGY4UnRCSHRWUHd3bVpTdGllRFJVcXpFcDk2TWZrVlZkOFZKQWZyWWlNVGJ3dUVXSlhPTUc2NTMzNg?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 05:36:06 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 8,
     "id": "144510-바이오-22747-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28128,7 +28178,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "엘앤에프, NCM 판매 전망 밝아…목표가 16만원으로 상향-NH - 머니투데이 - mt.co.kr",
     "source_type": "news",
@@ -28137,9 +28187,14 @@
         "press": "mt.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04QkhMM0Z0ZFFkVmZFdW1vUFZiV0JNdjRoY3hWSDFPRXZKb0Myc044V1Q2SDdJdnE3bEc5aFdXbWtmWVJZT1Y1eEFJZ2JWdnJsSmloT2h2VlhGSnZxS3RxcGhILXExZWI30gFuQVVfeXFMUE43V2RDQXpVZUxPb0tVMlUyMmNHY0kwRXRUUlAwb0FLSTVZQnJvMW1CallPWG1nMVFkREUzNk9Ja3hDeG9lTnJveTA1ZS1ZZWVlMTRDOGwwSTJEMU1uc1oxai16WVZacVhzVFAzYlE?oc=5",
         "pub_date": "Tue, 15 Sep 2026 23:39:36 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSGZlNExnNEZZcVVsLUdSejhQQi1sVUJZTEFXM0hIWWFYVlFNTzVlcGF6WUp0TmVQWU84VC1sdi0zdXRzdUFHVTVCdWpWcGw4M0R5MEVjRWhxM3hr?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 23:38:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "066970-기타-22778-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28213,6 +28268,198 @@
     ],
     "source_count": 1,
     "id": "066970-리스크-22783-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'조합비 2천만 원 투입?'...삼성전자 최대 노조, 최승호 위원장 선처 탄원 추진 - KBC광주방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "KBC광주방송",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByZG9nQ05sVmdWaDBhUzJxaG5RUFlyUjE4NmZ1eVVUVXJ3THRkR05BQ18yRHZkaWljZm5TN0hzUDdnZVd0Zjdfd21tdktLMGZ6UUVLdExFLS1pS2lWQUlycQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 03:35:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-22809-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한솔케미칼",
+    "stock_code": "014680",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[물에서 시작된 지속가능한 변화]한솔케미칼, 아프리카 식수위생 지원 확대…11년 동행으로 기후대응까지 - 전국뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전국뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42N3NnbHk5MUpOREt1VEo2Vmh3ZWlfMXhCbVRIRVVXdXhWeFc3YXd4cTNCcTVKY1c0SVlYN0wtNkhVb25McTBmZk94NmhhN2JNMUhNcWJwRGNKWXJFQWVPTlRqeHJ1U3h0ZUNIekhiWDM?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 02:59:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "014680-기타-22886-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에스트래픽, LS일렉트릭 철도신호 품는다…\"글로벌 사업 확대\" - paxetv.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "paxetv.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YZ2hKMHc0R3R1MjV6OS1NQ1ZjVnh6WnROa1RtMnFuRlA1b2wtWG94Ynp3OUFjYktjZ1k5WlhqSEpQbXJjUk9LZXJZcTFDbWxWSUtaY1ktdFNMS3hKT0FRQWdrZVlUaFhq?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 04:52:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-22951-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비에이치아이",
+    "stock_code": "083650",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "비에이치아이, 2169.9억 규모 공급계약 체결 - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXV4OW1wSU9ZLUN3OEZqTTFqMjBPZmNfX3ZidkV2OTdtZUh6ZXQ1a0o5SkVjc2JzeEl1VTF1TUU3dmh3cUVaRDJLekg1N3NxZHNDbUFGeTRVWkJzZ2ZXVm9ZVFJWQk5vcHNLZWp3Nmh2OVRZZkJBVnhFM3dycVQzSg?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:20:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "083650-수주-22974-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "세노바메이트 日 허가 넘어 상업화로…SK바이오팜, 환자군 확대까지 노린다 - 피플투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "피플투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50cXFDUU9uR3JHT2k4NzZWelF5Y0w3eEVwRVYwLU5BNUxhTjBlUFc2aVF3SVpRQVNIRmpjS3hLazk2dWpVbG16alI3MXhDaXp0RUVrWkFlTWJTb0NnTzd4X2xPZ3BXQndqZUhPazhJcw?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:48:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-23180-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행, 100년 역사 '렉라자'로 잇는다 … J&J와 신약개발 성공史 조명 - 뉴데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNVBCWE1TaU1EQWVKQ01nT283UzBrd2ZKVVA4eHBZMFVyUGhhMjlWSG5hTlRkWEd2RUpEM1lPOWZIX180UFJsZlpKejdOdUxpV013cDJlRTZJcXR2UTVFSEc1c3N3OENhbkxaUnZQSEt5QU9kNHJsZllOY9IBgAFBVV95cUxNeGM1RkFSaXRrakc2YzhrQUlnYnQ3X3BDU1dqQjdXaWctY2VwMW56dW04OTZsYTN2Z0JHbGxXbzNhLTVDY0ZicE5USGxGVlNtNW5nS1AxRTJyU0lmQXZIMmkzOWw1eUN3dVQ3R01XcUd0OXVPRFQ2emNSMThVNXFXaA?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:37:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-23188-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[버핏 리포트] 포스코퓨처엠, 리튬인산철 진입 본격화...'원화 강세' '양극재 부진' 발목 - NH - 버핏연구소",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "버핏연구소",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5id0QydDNtdi1wTVl5MEZ6UXZpNnJLMXdUMm94Rjl3UWY0d2dPZnFMcnhLbkt0Q0R1T3R0aUlFekloYUs5TXF1NDdOekRmRVNuSmE3enkwRlJfVHpEQVYtbnpR?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 00:04:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-23225-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[키-리포트] NH \"엘앤에프, LFP·NCM 판매량 전망치 상향\" - 뉴스드림",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스드림",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iYy1UOWhuSk51UDRoX2FzbE1Cazd3dUZfVUpNQ3ZRWnRBdWxOZTIxakdWeWk3SFJEdVRIcGhhZVUxTTBFV05JRm9TckgweEJhN2lZeTNBaXByMWtFYnlqRFU5RzFaeVMxMlE?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 22:38:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-기타-23235-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
     "status": "일반",
