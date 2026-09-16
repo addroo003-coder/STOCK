@@ -429,6 +429,19 @@
     "is_correction": false
   },
   {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "바이오",
+    "title": "투자판단관련주요경영사항(임상시험계획승인신청)              ",
+    "rcept_no": "20260916900679",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900679",
+    "is_correction": false
+  },
+  {
     "company": "SK바이오팜",
     "stock_code": "326030",
     "sector": "바이오",
