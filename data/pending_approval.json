@@ -25834,7 +25834,7 @@
     "source_count": 2,
     "id": "006400-수주-21200-20260914",
     "first_seen": "2026-09-14",
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-16",
     "status": "일반",
     "stale": false
   },
@@ -27440,7 +27440,7 @@
     "source_count": 1,
     "id": "001440-기타-22238-20260915",
     "first_seen": "2026-09-15",
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-16",
     "status": "일반",
     "stale": false
   },
@@ -27546,9 +27546,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KM3NSMVJaSDlBOGYyVTVITGh1U3Z3NkZ5SUFLVG9YUUNDZ29rbHVsVnptUlJxMzRWbXV6bjVBODVqbTlvanAtYzFvQTZ2TDA?oc=5",
         "pub_date": "Tue, 15 Sep 2026 20:31:09 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HdjVINzZZNU1jcHZNT1ZrV3ZsY1pXQWM1MGhzNGd2cXZjdzRobFpmWWNDME1SbVpOYjNEMURuMEMzWXVtT2tVZlhYbXlhVUZtTjhsSQ?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 20:31:09 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "006400-실적-22327-20260915",
     "first_seen": "2026-09-15",
     "last_updated": "2026-09-16",
@@ -28648,9 +28653,14 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3TXhwbVZ1RXk0aER5TktaVVFvTVAwcklyTXo3ZnZEWXdPcUxOZEFDZ0xwUDZsWFlSSjlXR1Nkem44di1wek5heERBRWlqQTNKai1JTUtyTW4wNlZ2T0g3V2Mwb1hMSnIy?oc=5",
         "pub_date": "Wed, 16 Sep 2026 09:16:59 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DcnFYci03LVRVT0xYa2xtQ0NHbTYyeDNxaVA2X2NEYUpQdm8zSVlFYlh0cDFCN3VtQ3JIUGZmZ0pfdGtKbFhEYjdKU25BRXBHSkZ1dW8wTHJlekNTY1NJbTNkb2U?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 20:54:37 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "226950-바이오-23445-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28842,6 +28852,54 @@
     ],
     "source_count": 3,
     "id": "144510-바이오-23594-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성證 “HBM 디스펙, 수요 감소 아니다⋯삼성전자엔 오히려 유리” - etoday.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "etoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10YkYwRE1JREJRLXVvTS0xaTlSVWJfYnZvRXVzYU1RNVhQQkw2LXUzbDZsSzRsWklOc293dkFXVU5idTZ1SlZOOWJYazlJajBlRXBQcQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 22:34:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-23694-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전KPS, 지역농산물 판로 확대 ‘앞장’…본사서 직거래장터 운영 - 에너지플랫폼뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "에너지플랫폼뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRXFwUUxJeDN4STRNcVV2NWhSUzVzT0FGcVVZcVNlNmxuNHUxenJhSEhjQlVPNkFncFloRkczVTVyaDJza0RHZGlXYWVpZHNCbVlKS0tlWEE2aE1GT21Fb2E3ck1PcV9CaW1DN1hRZmbSAXBBVV95cUxPWEVxcFFMSXgzeEk0TXFVdjVoUlM1c09BRnFVWXFTZTZsbjR1MXpyYUhIY0JVTzZBZ3BZaEZHM1U1cmgyc2tER2RpV2FlaWRzQm1ZSktLZVhBNmhNRk9tRW9hN3JNT3FfQmltQzdYUWZm?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 10:43:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-기타-23756-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
     "status": "일반",
