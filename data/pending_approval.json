@@ -26730,7 +26730,7 @@
     "sector": "이차전지·ESS",
     "category": "리스크",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "다올 \"포스코퓨처엠, LFPㆍESS로 양극재 돌파구⋯하반기 적자폭 축소\" - v.daum.net",
     "source_type": "news",
@@ -26744,9 +26744,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EQXVGbjRZMGd2R2psLXd5S2xtU1dfQ1lWOFJxanh4NGZvNU9FekxaLWxGZFh4OVlBQTRib1BoMHFicjJTYUlRVEduM2QtSkVqVG9mZQ?oc=5",
         "pub_date": "Mon, 14 Sep 2026 23:00:06 GMT"
+      },
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mem9ULUoxbWNpbGdpWGc2VXdaYzdIdDRCd0FGQlJpWU9ITFhvbjNnM3lXZHc2b0FfZjdsWFJYV0l1ZlF6T2s1Zkt3d3R5MzV2c0VNZg?oc=5",
+        "pub_date": "Mon, 14 Sep 2026 22:59:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "003670-리스크-21499-20260915",
     "first_seen": "2026-09-15",
     "last_updated": "2026-09-16",
@@ -28116,9 +28121,14 @@
         "press": "직썰",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TkN6TzY3eDBjQmhjUGV6M21OVG43Wl90bnBwY09qOUthU1duSFB3cmF3SmM3MDRIczJSWmFyOXNOQ0xlRHJhcWVqSUYteDJrYmlwX25Vd0p6VWdfdHJodE80aVpZZTlh0gFsQVVfeXFMTjJmVVpJbldLZnQwOFlWdlkxOWRFcmNFc1FLWDk1UmtfMUhweHhJQlJuOWJMZjhSdEJIdFZQd3dtWlN0aWVEUlVxekVwOTZNZmtWVmQ4VkpBZnJZaU1UYnd1RVdKWE9NRzY1MzM2?oc=5",
         "pub_date": "Wed, 16 Sep 2026 05:26:25 GMT"
+      },
+      {
+        "press": "중소기업신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84dUxpM01KSEFXd2ViN05yX0YyRy0xeEpCR0pEMHpCSlZad2RwSWFvNHV0dEpoOUFWTXN3Ql9zY2kxNlhfUmhKRzVDS2w0R0xodGVFU29oMTVmMW1HZTRXeXBDbnd4UE4zZkFVYlJ3?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 05:36:20 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "id": "144510-바이오-22747-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28486,9 +28496,14 @@
         "press": "뉴스드림",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iYy1UOWhuSk51UDRoX2FzbE1Cazd3dUZfVUpNQ3ZRWnRBdWxOZTIxakdWeWk3SFJEdVRIcGhhZVUxTTBFV05JRm9TckgweEJhN2lZeTNBaXByMWtFYnlqRFU5RzFaeVMxMlE?oc=5",
         "pub_date": "Tue, 15 Sep 2026 22:38:06 GMT"
+      },
+      {
+        "press": "뉴스드림",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZ2Nld3BzRHd4akZxeEFsY0I0Rk81SkR5TGEyV2pBbE02TE9ZdWJHQkhQQW5YbXJnVFY4ZU9YcVpxRGFSSTZtYmgta2diQ3JkYXlUTmFJcXVxWVIwbmRxVTdxSVpUUDZPMnlz?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 22:38:06 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "066970-기타-23235-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28731,9 +28746,19 @@
         "press": "메디컬투데이",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2MnY3azZHQTJ1MG9sNkRsYUhYaktjUk5lN3FnNlVjbXNIbUlBWXYySlJfTWI3djlWeExZTW9WYTlDNk5vM3k5am9hT0JOWnd6dlRVVEZrRWpqTkpMaGMzX2hpTVhWWXM0dHZlTQ?oc=5",
         "pub_date": "Wed, 16 Sep 2026 02:25:01 GMT"
+      },
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIYnA1ZmRVT3ZFbExFS1pULU9fZ2x0eG1vLUhIbUxVLVdPeW5yWkdZNTdHd2xMcnVmLV9PMWM5MUo1QWpfaE0wOVZpa2hOUVE1TjZUcDRQZkI4SVRON3B6anRtTGhVYnZPZmFF?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 01:58:56 GMT"
+      },
+      {
+        "press": "뉴스웨이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1b2hBWm5fa2pRM092NVhPc25YNUs0QklFam5nWkxoc2NhSmFmTXJReDZua0FZcnR2NnF1U2JIbWtzSENvdFFjN09xNzlpcHRBRXB3cjA5QXgzcXlqUklYaHQ2WERsbnZZUnc?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:22:58 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 13,
     "id": "196170-기타-23575-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
