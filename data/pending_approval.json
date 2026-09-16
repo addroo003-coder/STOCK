@@ -28037,9 +28037,24 @@
         "press": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFNIX01nd0xib3hSN2dleExWLVR4ZngxMTZSdDdoaEQ3YWZQUnBwM1prUmZiYy1HZjhNTW13eWtUUEc1VTNkNXliTlpPajFFVFpGNFdiNVl3TmxSTTQ3Z2hqX1ZwX3hsVTdpWFlPSi1IZDNFMzF6Rl9NZW8zNVR4aXM3N3VyV1Z1UzRaNzdxZTdFWHp1Zy15d2l6SdIBmwFBVV95cUxOdFNIX01nd0xib3hSN2dleExWLVR4ZngxMTZSdDdoaEQ3YWZQUnBwM1prUmZiYy1HZjhNTW13eWtUUEc1VTNkNXliTlpPajFFVFpGNFdiNVl3TmxSTTQ3Z2hqX1ZwX3hsVTdpWFlPSi1IZDNFMzF6Rl9NZW8zNVR4aXM3N3VyV1Z1UzRaNzdxZTdFWHp1Zy15d2l6SQ?oc=5",
         "pub_date": "Wed, 16 Sep 2026 08:35:00 GMT"
+      },
+      {
+        "press": "인사이트코리아",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaWlNelZxcEEtNkE5NktrYjBSYjlYeGIzZVBSaUxka1RhaEZpLWd2S0lwcWIyR21KeF9CVlJfTXA2bVJ6OHJFMDMtZmYyY3dROG02MFhDQ19vanpPUGROaUFXVmwwUm1WMUl6QW1JYXVFMlBpTjNN0gF3QVVfeXFMTkVpaU16VnFwQS02QTk2S2tiMFJiOVh4YjNlUFJpTGRrVGFoRmktZ3ZLSXBxYjJHbUp4X0JWUl9NcDZtUno4ckUwMy1mZjJjd1E4bTYwWENDX29qek9QZE5pQVdWbDBSbVYxSXpBbUlhdUUyUGlOM00?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 05:18:59 GMT"
+      },
+      {
+        "press": "보건신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tWnRyX09vR09LR0NDNXpaelhKZGJJd1QzWVJZRWxVbTBLaXhRWGhFamMteVdkTnpqeDEwdnhrOW4tazRTVXVrdXVWR3JIOGtBSWZ1LXpwMmxyemt1Y21XNkJqWQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 01:06:31 GMT"
+      },
+      {
+        "press": "마일드경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NRWxZdkJLX2EwZ0lvbWNkSG5SUWxfc3pmcHVmTzBkUW91WlRBdWZFeWJac0dPalRJbUdVbmU3LW5ZT0Q5a0VBZHhYSWN5UGRkc2VrZzdlaUtEWmp5ZFFKM0d5MmRYNklKczdF?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 09:11:00 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 8,
     "id": "214450-기타-22738-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28545,9 +28560,14 @@
         "press": "아주경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xWHlBNWNCYUMtbFFGdWV4RS1CYmZrVUU3eEVKNGVaNEJVSnZsYWw4cjNGbzZCbWlOX3hhczhyRGhfVTFiX215eThGUXlnOGt6WEY1UEl6blZpZ9IBWEFVX3lxTE1GRTV3MDZwX2E2UFVQNkpHbFhTU3VjcWdwY3p5SGtqOURIbDFucXlOWlhORzdTeUdUQW1RT1lfMjRseTBxRzU1NHU0UjgzM3Fmc2VtS0toMWo?oc=5",
         "pub_date": "Wed, 16 Sep 2026 12:45:41 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GRTV3MDZwX2E2UFVQNkpHbFhTU3VjcWdwY3p5SGtqOURIbDFucXlOWlhORzdTeUdUQW1RT1lfMjRseTBxRzU1NHU0UjgzM3Fmc2VtS0toMWrSAVhBVV95cUxNRkU1dzA2cF9hNlBVUDZKR2xYU1N1Y3FncGN6eUhrajlESGwxbnF5TlpYTkc3U3lHVEFtUU9ZXzI0bHkwcUc1NTR1NFI4MzNxZnNlbUtLaDFq?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 12:45:41 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "052690-기타-23376-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
@@ -28641,6 +28661,162 @@
     ],
     "source_count": 1,
     "id": "144510-기타-23454-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "알테오젠바이오, 의료기기 ‘파필로케어’ 국내 도입 - 바이오스펙테이터",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "바이오스펙테이터",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2by1TZUZzZmlaTDM3LVZtZjB3Y21nTjJMbDFkdDNOTVowYnlPV2czb3FWbWlqWW9aRHFoNTgxZDZnTzAweDhjam4xc3ktRksyVGlnS1pkRQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 02:22:00 GMT"
+      },
+      {
+        "press": "청년의사",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQU9XYjhsVmdTZ3hBaXZUWUx6OVE2Q0otUWdPZDdjRDBOMTVTdl9lOGY4aXBEMFFzUlJFeHJKN25IYWJ6R2luZkZLUkNrSXVlRVZGOWRUMkVKOG5IT0o1NjZSLVRzM2RVVGpzNFlIa9IBc0FVX3lxTFBWaGlMVTZTTkdiMXUtZHFwQzE0TVowdDY3cGdWa2RMSzFiVmVDa3YxalBVcUhrS3hEWExCdXJJVXhGa0lkRXVYSTZzcjZDUnNxUDZsS1BneUtGWXQ0UnVPS0taTXRINmhwLU5tMkNXbmhGR1k?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 04:29:08 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xYkxxTkdHczFpakttWl9BYnh6ZVdsRjg4YTVwSE9PSkxxMmJsbi00TkdtSHRxUFRLWFR4NGFMcXNYeEFqb05BVHptaVJTSUpiZHVRT0ZYRmRpNWN0SlZ3SFVWaDVfRU44?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:42:58 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MdXVOZ0lldHJXTEtTZm9TdUVxd0NhOFZKd2F4S21mUnFlLXUwUFpkMVpTeF9hLUxEeGRtaFhPSnZBTXltRkJXem4xY0k2ZC1mczFCUEZLX2plT3VBdllNedIBZkFVX3lxTE5hWngycEdHVFF6aUlKckhRMllmc0ZGWEdSa2tSVTVJTWY3clJPeFhnN2Q5N19ZQTZxcFVSV3FqWjJyS2xSUGV4ci0tSm9xWGNmSExjaVdVRVhPODRWNXlJcjBiM21odw?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 04:28:56 GMT"
+      },
+      {
+        "press": "팜이데일리",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzN6T2dvYUlBQzl0SWVteER6Y1FBejk5bGJCM2Q1cGczeURJYmh4WFZzQUJPd0ZEa2JnVTZDb2dVVi1BOV9WYVh4RndBSzZRRnROajRXSnBZYUg4SktXdEdHYnQ2OTFEZTQxbHBtckRlNFhva3lOU1FXaXZVd1FvYWpHd1k?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 03:13:11 GMT"
+      },
+      {
+        "press": "fetv.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Lbnd4SFZobjVvaW5jbGlXWmxjQWVKVHVyWVNodmxObXJKb2dodDRyRkxoRkl2QXoyLVd3SFVSdzcxX0QxNGFldkZ5eEdZcDZIcEJ3VzhsbG5kTW56b0FvcUsxTi1RY0pv?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 03:15:37 GMT"
+      },
+      {
+        "press": "스마트경제",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZ2hWUjVuN3I3eTRRUXpzSjl3M19ja3lSYlJHSHU0SnVzWk95a2wzWmpJN0RQc3FfLS1NNzg5Sms3c3JpUFFOWUEyYTFYblBxbXZDRUtLQS1GeEF0SktRckhXQWtyTU9PbXBNZ3JIQ2k?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 08:00:00 GMT"
+      },
+      {
+        "press": "더바이오",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2UC1MM3dPUjUyX0ZjTWZWRlhReGpwbWpSQ3cyOUVOZi02MHRUV0JwMzJZaVVHRmhGNnFTN014dzByVEZhdk1JT05QbkFQcVhEZEMwLWFaSFp5aEVydWFjc0tIbGc4cGhteC0wZ9IBcEFVX3lxTE9qWHQ5Z3R0VEZ0OF9YUDh5UnpSMGVqRHNncXY5YXJ6QmNMS0JxS1FxRS1zMTNQYTFMNU40dnIwRFo3YWZYSUJzV0dPX0NNWUF6NzBaV044VzZSNktMTzhrUHJpMk9nV0EyQjY3cWw5aWs?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 02:21:14 GMT"
+      },
+      {
+        "press": "직썰",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdEVGQzdIUnFpcHNRTjJGTEpBOHcycThNQXVIU1Y4YkdTMDU1ZFpieU5paEN6ckFrZzF0aFMyUTRtdlQ3bVhBbkRCeDJ2NTBmaFd1MWp0dkJycUluWmNyRUpGbENFUW4w0gFsQVVfeXFMTXZrR21uTHBEMy0wU1dCd0xsTE5rYWh2d25icU1HcVozZ21oSVRfbTlxWEx3VlBkMHNaeldPbFZORUhaMjBYTU1MRFYydUlrQ0dGZS1mYU5JV3Jtb1JlOEp2ZlVGX1dJd2kwdmFf?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 05:35:11 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UNUVGN05GVWdTZndQYnpKMGVva2hKNnBKeEI4X3UxRmY1aFRxQmR1SEF1SnFhWWhodlZjdjNsa1JTbGZuSXNmaFV4VQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 04:30:45 GMT"
+      },
+      {
+        "press": "메디컬투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2MnY3azZHQTJ1MG9sNkRsYUhYaktjUk5lN3FnNlVjbXNIbUlBWXYySlJfTWI3djlWeExZTW9WYTlDNk5vM3k5am9hT0JOWnd6dlRVVEZrRWpqTkpMaGMzX2hpTVhWWXM0dHZlTQ?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 02:25:01 GMT"
+      }
+    ],
+    "source_count": 11,
+    "id": "196170-기타-23575-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "펩트론 14만6200원, 3.05% 하락…릴리 기술평가 분수령 앞두고 변동성 확대 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55NlVOVGtrVEQtSG1LbzI1Mk94YmgyUmFyaG1lWmxERDlzRGlyRDRCWjNQdU5PVzhFRWh3cmxxcjhRSEZDWFZZenZQQW50WVNGVG1KS2Zna1FQcE9rdE5ydzh2bGRSZjBVd0NzenktbHlIZ9IBckFVX3lxTE55NlVOVGtrVEQtSG1LbzI1Mk94YmgyUmFyaG1lWmxERDlzRGlyRDRCWjNQdU5PVzhFRWh3cmxxcjhRSEZDWFZZenZQQW50WVNGVG1KS2Zna1FQcE9rdE5ydzh2bGRSZjBVd0NzenktbHlIZw?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 06:15:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-기타-23581-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, ‘세노바메이트’ 일본 허가로 동북아 3국 승인 확보 - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZWFsRURsRTZFYy03ZlN3OGMteTRUc0FNS1QxVFppbEx3YVFSUkp6Qms2cTQ5WXdobkZPQkF0YW84Mkg4RWE0V2ozZ25WamVNMlJCWGYzMnFRLXFqSHF0eTBpRHFrUW5GenZ6WHJ3S0ZjaXV50gF0QVVfeXFMTjJlYWxFRGxFNkVjLTdmU3c4Yy15NFRzQU1LVDFUWmlsTHdhUVJSSnpCazZxNDlZd2huRk9CQXRhbzgySDhFYTRXajNnblZqZU0yUkJYZjMycVEtcWpIcXR5MGlEcWtRbkZ6dnpYcndLRmNpdXk?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 12:11:58 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-23587-20260916",
+    "first_seen": "2026-09-16",
+    "last_updated": "2026-09-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "지씨셀",
+    "stock_code": "144510",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "지씨셀, 퀀트헬스와 GCC2005 연구 계약 체결 - 디일렉",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EMHBPQkwwWlp3d0FORHI4VlI5eXgwVXVwYWdWQlRoakE4WjM3cml2bmpqTmF2VWttM2xOUjI0b2JDaExmR1UzRmFJWkhMeVUwUXhfRkNiUWNiZkVKODcybGZfQ1VJZw?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 08:20:32 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCMENTZS03WmFOVWNmUjRvcHVMUU1GRWttQ3hycFNmRVFsZXoyVXg0YklLeHN1dW1jcWNYRnV1QndkVjBtNTdmQVh1MEEtQnJqemxmMDFpRmctdF9QZzJ0LUloclR1ejZwMER0dw?oc=5",
+        "pub_date": "Tue, 15 Sep 2026 23:58:43 GMT"
+      },
+      {
+        "press": "직썰",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TkN6TzY3eDBjQmhjUGV6M21OVG43Wl90bnBwY09qOUthU1duSFB3cmF3SmM3MDRIczJSWmFyOXNOQ0xlRHJhcWVqSUYteDJrYmlwX25Vd0p6VWdfdHJodE80aVpZZTlh0gFsQVVfeXFMTjJmVVpJbldLZnQwOFlWdlkxOWRFcmNFc1FLWDk1UmtfMUhweHhJQlJuOWJMZjhSdEJIdFZQd3dtWlN0aWVEUlVxekVwOTZNZmtWVmQ4VkpBZnJZaU1UYnd1RVdKWE9NRzY1MzM2?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 05:26:25 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "144510-바이오-23594-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-16",
     "status": "일반",
