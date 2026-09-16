@@ -156,6 +156,19 @@
     "is_correction": true
   },
   {
+    "company": "비에이치아이",
+    "stock_code": "083650",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260916900117",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900117",
+    "is_correction": false
+  },
+  {
     "company": "SNT에너지",
     "stock_code": "100840",
     "sector": "전기·전력",
@@ -254,6 +267,19 @@
     "confidence": "확정",
     "category": "수주",
     "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260916800125",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800125",
+    "is_correction": true
+  },
+  {
+    "company": "한전산업",
+    "stock_code": "130660",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
     "rcept_no": "20260915800444",
     "rcept_dt": "20260915",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800444",
@@ -309,6 +335,32 @@
     "rcept_no": "20260828100005",
     "rcept_dt": "20260914",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828100005",
+    "is_correction": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식소각결정              ",
+    "rcept_no": "20260916800015",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916800015",
+    "is_correction": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "자기주식취득결과보고서",
+    "rcept_no": "20260916000002",
+    "rcept_dt": "20260916",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000002",
     "is_correction": false
   },
   {
