@@ -104,6 +104,19 @@
     "is_correction": false
   },
   {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "풍문또는보도에대한해명              ",
+    "rcept_no": "20260917800618",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800618",
+    "is_correction": false
+  },
+  {
     "company": "한중엔시에스",
     "stock_code": "107640",
     "sector": "전기·전력",
@@ -413,6 +426,19 @@
     "rcept_no": "20260915900667",
     "rcept_dt": "20260915",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915900667",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260917800658",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800658",
     "is_correction": false
   },
   {

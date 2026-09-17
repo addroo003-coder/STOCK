@@ -28513,7 +28513,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[버핏 리포트] 포스코퓨처엠, 리튬인산철 진입 본격화...'원화 강세' '양극재 부진' 발목 - NH - 버핏연구소",
     "source_type": "news",
@@ -28522,9 +28522,14 @@
         "press": "버핏연구소",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5id0QydDNtdi1wTVl5MEZ6UXZpNnJLMXdUMm94Rjl3UWY0d2dPZnFMcnhLbkt0Q0R1T3R0aUlFekloYUs5TXF1NDdOekRmRVNuSmE3enkwRlJfVHpEQVYtbnpR?oc=5",
         "pub_date": "Wed, 16 Sep 2026 00:04:04 GMT"
+      },
+      {
+        "press": "buffettlab.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2N1NvTjJ4eVFwSDcyZlJtbVhmWWVvaHdPcGJWY2htTFdFZkFRRXJmY01HUU41alpXLXhkUHBEdFlOeFlzTXVOYU9LV0FyaU04Q1ZZYXJ6WXNKSnN4YXBBRUswYmZCdw?oc=5",
+        "pub_date": "Wed, 16 Sep 2026 00:04:04 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "003670-기타-23225-20260916",
     "first_seen": "2026-09-16",
     "last_updated": "2026-09-17",
@@ -28752,7 +28757,7 @@
     "source_count": 1,
     "id": "144510-기타-23454-20260916",
     "first_seen": "2026-09-16",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-17",
     "status": "일반",
     "stale": false
   },
@@ -29218,9 +29223,24 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DeU40OG1CMVV1UmZZUjZlRmtDSW9UYS1zUDR2MXV5OEgyYlBac2ZwUl9vMXlRVTJiVTM3VGpCa1ZfXzM2b0tsQzNUTGZWcjdiTDN4THdfOGJZYl9qUEtTQ1o1elU0a2xueFF3U2JIVE5MV0drVmx30gF8QVVfeXFMTTU5M0VmTXJNRjZnT1BrMzBMc1R3SEZtOGlFTm1KSXBvclZWNmc5RWU4a094R05JWXNrRnpwTW5PT1EzOW4xSWdWc0Y5WjJZSjNUN1F6c29NV1NUM1UwSVEtbVE0NXJ3UGwwMUxwbkVrWFFVcVVvYVNNTGNXVA?oc=5",
         "pub_date": "Thu, 17 Sep 2026 05:46:05 GMT"
+      },
+      {
+        "press": "파이낸셜신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SdXZDR1I5Wk1nQ0htMnpUR3JWeTdkUE9JcWpwek1oRHVpNXhpSFpNQnVDVVR6MkFoVDU0T2lfbVJZcGp6dWthc0R5Yk94N3FvQ24wVExibWoxZGpsdmNSbmtydFdhdDZMODZr?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 07:15:51 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CODF3SWhZN1lma3V6WGFsaFZBWmFYTVUwYndYM3pXN2taRC0zdXdkT0NMbGFjcXlqYThua2xPZW5RcVFwaGdDWmZNMDJVU08wQXFLQ25OcEU4d0HSAWBBVV95cUxPUHVGTjVZYzJSSHJ0ZEJvNmtVdHN3UnRSYy1QeEtQdmhRYjdleXhKdW9BdmlxQ3V6X19zbHBwdGxmaVJuSXRxZmZJQ1BRQmltR1pDN2pJXzNDM3V0VEZEQXE?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 01:13:34 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91Qi1NdUNwQlhUcjhPUk1xMTNWZ0dSdC12X1JIb0RHOS1RWk9OZHFIOUNDak1ZQjdoYnN5Z3V4NjNKdHVxNjZoLUR1LXJJei14QW9RMmdwNUxHY3EwYXZOS2xUUjljekhXRS0zaFJWWdIBb0FVX3lxTE91Qi1NdUNwQlhUcjhPUk1xMTNWZ0dSdC12X1JIb0RHOS1RWk9OZHFIOUNDak1ZQjdoYnN5Z3V4NjNKdHVxNjZoLUR1LXJJei14QW9RMmdwNUxHY3EwYXZOS2xUUjljekhXRS0zaFJWWQ?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 05:46:05 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 14,
     "id": "000720-기타-23956-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
@@ -29384,9 +29404,29 @@
         "press": "전자신문",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1US1BJbHQ3Q3IxODJLcjBoQmlWOWpqc0dGSElWeXlfVDZ4LVdxcTZ1SUk0RFMzRmJYOE1fWEkxMi1UMnBjWGE1OE8yTGlKQQ?oc=5",
         "pub_date": "Wed, 16 Sep 2026 05:14:52 GMT"
+      },
+      {
+        "press": "강원일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lMFdLckNtd0JOZWtQM2ZKd1RHYnIzcVV6Tk15S3lSVG1Vc0pRNzVBR2FzSmtnQ0MwVWJKQkRLbC1BcUh3OHJJWGV0cVM3NFFULUVKT18wZVRaVU0?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:06:26 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xeW00c09YcU9EMjVUT3JnbGc5OEkzWFU3YVc0Z2cwUEJmcFU4S2N2TUFvZ1M2Vk04TEVKNjNOeHNicC15Z19hcXE3UU1IUQ?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 08:17:22 GMT"
+      },
+      {
+        "press": "sentv.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZQnN1Ml9URGF3bUU3Ti1HTF9HWUZNZjVWVjIySXpEUkdtY3ZNUnV3S1BwMEh6ZnVWTmx3T19rLWwzVFdLbVZVUUJLc1NhZ0s2NTR0cnlnRUdhelNXYzExUGlVUWg?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 07:56:38 GMT"
+      },
+      {
+        "press": "todaymild.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RU3pMc2RKeUNVdEMzckJnUlZyR1lhZnZQNGxvZTJxbnJqYndSS191TEJ5NW9BTGw0THI1alpkcS1zQnZ6TEV6S1Vaa0Jqc0FQZ0diOG9zSTdXNHdUUjV0Y1NUekVjd0s0a09B?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:55:00 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 16,
     "id": "214450-기타-24089-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
@@ -29686,7 +29726,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "LS, 중앙亞 3개국서 신사업 확대…통신 인프라·핵심광물·희소금속 협력 - 스트레이트뉴스",
     "source_type": "news",
@@ -29695,9 +29735,14 @@
         "press": "스트레이트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SQmhjMl9lODdCOVoxWlRIVjZrQmd3blZ3WTl2eEowNXVvbVZMZG04V1dQdGt3OFpKa1hkYi00SWVqNGsteU9JekU5djFwQ2Z0LVhzWkxqQUkzeVVCMldXbm5EWVNpQ1FUNmJYUGZ4TU5QcGvSAXdBVV95cUxPTmZvMXcyYURPV1E4eTQ5RUhfRWt0WWxWWUtPZDZWSmVVajFWM0g0SExleFc4UWJLQWVSLVJKT2x4aVpfalljWHI4Q2E2MGluOXdrLTVVakJJaXd0a3BwdlVqNnhiNkxsb2RIOE8xWDFlNUVmcGZUTQ?oc=5",
         "pub_date": "Thu, 17 Sep 2026 07:35:25 GMT"
+      },
+      {
+        "press": "straightnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZm8xdzJhRE9XUTh5NDlFSF9Fa3RZbFZZS09kNlZKZVVqMVYzSDRITGV4VzhRYktBZVItUkpPbHhpWl9qWWNYcjhDYTYwaW45d2stNVVqQklpd3RrcHB2VWo2eGI2TGxvZEg4TzFYMWU1RWZwZlRN0gF3QVVfeXFMT05mbzF3MmFET1dROHk0OUVIX0VrdFlsVllLT2Q2VkplVWoxVjNINEhMZXhXOFFiS0FlUi1SSk9seGlaX2pZY1hyOENhNjBpbjl3ay01VWpCSWl3dGtwcHZVajZ4YjZMbG9kSDhPMVgxZTVFZnBmVE0?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 07:37:02 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-기타-24266-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
@@ -29956,9 +30001,59 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EaE5XcVJjSXZLOFJfNnpSOTdTSkFqR0dHVzVrN29QOWxSNnB3b3E4Uk9aZ18zQ3JsMHptdmZ2dW1VOWtPRVVoMzNjQ0FpbkZBMjZlcU56aWRtTDBi?oc=5",
         "pub_date": "Thu, 17 Sep 2026 06:37:00 GMT"
+      },
+      {
+        "press": "헬스조선",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGN2NSUzRra3NJWmJjck5RS2pQTFhQZWRzN3dZQUY4WWJ4NG1qOGVHLVN2VU9yX3FsN1FuVmduM3J1NUFsQ0ljTnVZQUMxUF9lN19VTk1XZUU4UHEyQWRLeGkwNzZOV3JIdTVUU3hLNEZoTXRINHBPS29FQzdiR2c?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 08:36:00 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TcmFLWXo1WjVPMWxRMzVFczdzakJnSmIzNXlidjFVMHBYaVMwdFZ2SHVHVUlqbGxOUmxaeEN1UVlWdFEzRkRrV1ZETjNITlk?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:51:00 GMT"
+      },
+      {
+        "press": "straightnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RTUUtSVFpUGkyT3hFZFBVN0MtU2Y5aWVwdU5USnJsNlVFNThvRElxY2x4bkcyQW1jU3ViS1lmY1p0SGVWRlN4VU8xVlhCVU1Vc2FrVUVEcnF5c3IwTG45ZnFIRmpndXB3UGNaUEt4SHBiYXQ2ZU4w0gF3QVVfeXFMTVFNRS1JUWlQaTJPeEVkUFU3Qy1TZjlpZXB1TlRKcmw2VUU1OG9ESXFjbHhuRzJBbWNTdWJLWWZjWnRIZVZGU3hVTzFWWEJVTVVzYWtVRURycXlzcjBMbjlmcUhGamd1cHdQY1pQS3hIcGJhdDZlTjA?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:30:08 GMT"
+      },
+      {
+        "press": "news.einfomax.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQTFVNU9hblQ0Z2UtNXh0Zk40Q2ROSEhxOS1nWnBBV19fblJDSzlnWWUwRFIzUlVTLWpnOHc3c29HNHBJemRqcWhvUjZKYlV6aGZQcjJGbE5NaHFoeDk5QTVmZy1QelQ2WTloOVBsZEZKVU5F?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 05:10:11 GMT"
+      },
+      {
+        "press": "DealSite경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaVhKMWU0X1k0SGEwQUpkR3lvVllYWWRvWmdFZEpfclJJeFFrUkZxaWdpZHpwN0JTSVdNWXdyRndnc0FKT000SUFFMXV2Zjd5Q2Z2NURR?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:10:07 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdEsxZHQ0ajB3TUdfVkNQeUZTcFBFd2ExQVc4TVNXbVJMNV9FNWZ4UkR3RE5QcGZXUUZJYjZsekxsQ3ZQZE9CclhMT2hmeUduV0hzckpjYWF6N2ZxY2I0VTU1XzRBRGVQQlHSAW9BVV95cUxPdXdlcWptTmg2QUl6WGxyUHk1QjI5V0Z6MkhhYjdCZ2NGX2JzY3F3aW0yWVRHZE5YV01BVFhwLTdGelBWb29BbWFXT1pUY1o1N1F2VmVuQmgyVFdZVnpsMFNWTE9qTWlSaEdfZDhncGc?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:07:08 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aVWx4VjJfeGtadFozS2dmdVNVM3FPUUdETkJLNkEtVFdEclZUZU9HVHo5OGJqUkduUk0tZGN2d3BRY2Flak5WRkV0al9fUjg?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:47:36 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIN3JkVF9zRENDTVYyRmxnRWFxSERwam40TThaX1dKQ05WYV93YURUeHZEZmVZaC05ZXprQ1cxdGQ1dDFCR2ZEWUJjU19ORnc0cDd4Zg?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 07:58:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzVCMWp2cmJjdU1CRWpsXzc5elh6RWpZVTI2VEpNMzVsbElSVEZnT3UxTHlSZXpTWi0zRFcwS0I1bjNVV183cS1Gdw?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 05:14:41 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kR0kyZkFnRnkzbzZ1X1hmSkktQmt0YWRmX3ZuQnVLcTZpb1QyNDFIdXlWVkhwTVY2VVY5a1lWNFVjdVNVY3lrcVVuQUdsbE01U1V3dUIyZU1rYUZXc24tcmo4dWhzd9IBZkFVX3lxTE1kR0kyZkFnRnkzbzZ1X1hmSkktQmt0YWRmX3ZuQnVLcTZpb1QyNDFIdXlWVkhwTVY2VVY5a1lWNFVjdVNVY3lrcVVuQUdsbE01U1V3dUIyZU1rYUZXc24tcmo4dWhzdw?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:36:14 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 13,
     "id": "326030-기타-24464-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
@@ -30117,10 +30212,182 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ueDZOQ1dMb1RscVVCLTFJYUphRmRrOTk3UUFPY1Znb25TeE42WFdMbk1oVGhXVHZ0TnpLY3BQaDBCaDFzZDRsWGJxSl82R0JMZVdmdThxb21vQ0c0TFNPVFRISmYzRXZZVXhKU2hTNzFsVE3SAXdBVV95cUxPRldXTnV1YW4xeGxXem1yQmRxSUtXT2dsQ20ycFFaQnJDLUxlajlBZUtoWkNnVmlVaHVMQTBjRWVMbkdZVkdJZG1VTTJkQlU1TFhkQ0Z6aWF0RTM4d3JiNmQ0bzl6WEUxUkZjNjA0dXFMajJveG9hZw?oc=5",
         "pub_date": "Thu, 17 Sep 2026 00:02:37 GMT"
+      },
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsaHJ4THU2QkV5aFlXNnUzQUdOaGg2Qld5T1FTX2hVS1A5TVBQZHVRVFhRV3RtcHp0REd5SXZVSC0wWEpRSWoxQjA5UEdINVdUMWh5X1h6amk5N0ZyempXZTk3RllTLTNhRk94RXNpdElzSUto0gF0QVVfeXFMUGxocnhMdTZCRXloWVc2dTNBR05oaDZCV3lPUVNfaFVLUDlNUFBkdVFUWFFXdG1wenRER3lJdlVILTBYSlFJajFCMDlQR0g1V1QxaHlfWHpqaTk3RnJ6aldlOTdGWVMtM2FGT3hFc2l0SXNJS2g?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:44:39 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWjlwRkpPS1k1OGZvSTVubHU5TGZmR1J5Z2I0dk5zbFJRYXVVdnNzdmgwYnFZVmhNY243VGw0OTNNMmxfNENGeUFnZFljU3kzR3VwUUNBS1lzZVMtQUY4UHdrdXhOaUdpWmFMRA?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 08:25:00 GMT"
+      },
+      {
+        "press": "인사이트코리아",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTHoxdVAtby1mazAtS2dtalljWXpUUUhHVDduVUlDb2tXOXFodzJPRHlKTERRa3NOc0xvcVJETWZNY1RwY1p6NEN2RUdaeEEwWC0xbEFWVm9QRlJlQ0wtU052V09NN0ZZc1l2ZzFEUlh6ckEzUUFz0gF3QVVfeXFMTi1MejF1UC1vLWZrMC1LZ21qWWNZelRRSEdUN25VSUNva1c5cWh3Mk9EeUpMRFFrc05zTG9xUkRNZk1jVHBjWno0Q3ZFR1p4QTBYLTFsQVZWb1BGUmVDTC1TTnZXT003RllzWXZnMURSWHpyQTNRQXM?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 07:38:20 GMT"
       }
     ],
-    "source_count": 13,
+    "source_count": 16,
     "id": "214450-기타-24477-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800658",
+        "pub_date": "20260917"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20260917800658",
+    "id": "066970-수주-24523-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "사천시, 한화에어로스페이스와 우주항공산업 협력 확대 나서 - 경남일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경남일보",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43ano3ek04aGFfR21oRnpTSFRXQnIzYV9CRmo2aHpaMDZwZ0lZNDZSWFM1XzZSSjlIQ1hSMHg4OHV2YTF4Q1VoYnZFVGJ0RXRWTHp6NUJ1b255czIwU1BVVnpIblFKenhqdGNJ?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:10:36 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-기타-24644-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, 파킨슨병 신약 후보 확보…최대 4308억원 계약 - ebn.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "ebn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bURVTkppZ1llRFFYRlNGZkFsOUc4ZFc4SUZkbTZGRGZTVHo0OE9sM0FlcmdoUFBLV3hWbjQtcS1uMi0xYUllS20tVEFFRHROd2NXR1pqVlU4cXQwTkV0Q21pLU93WDBK?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:00:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-24691-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "SK온, 엘앤에프와 LFP 양극재 공급 계약…1600억 규모 - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rTk1PRTBHRXZabk1ScDlGS3JCOXRzN0k4REJYdkQ1MGtfa21rSjZQR19WZ05aLVZSTmgxUTNoT1drcGJOaUFNMUtrTkxwa0pDWVJRRkQ0eGdJYklQTDA5TTlFcUt3N290eDFtZ9IBckFVX3lxTE9CVnl0MmZZTzFtUmUtQTY3WFBnLXNxR2hyUzRkMWxXb25QZTZBTndYM09mUWNGc0o5WXZFYkZRSjRDWWp4ZGNVLU5RYTdxc0V4NTlfc2JfOWJCVzg4QWZpWGZLanVkZkVGazdzd293SHBRUQ?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 10:30:28 GMT"
+      },
+      {
+        "press": "뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYU04R1NsSW1zd2FIQ204RnNvVnkyYTNNd3A4YVA0N1Z3UnNaaWRTMzNlSm5TZVlZVG5wVktrTy1TMV9XY3hXMWZjSi1OWTJab3p2dDY4YVp0QkVuSXdtejYtX2hZWWhxVnhCbXJQLXVzZ3pfOGtyNUs1UdIBgAFBVV95cUxOckQ0ZFhYU000ZWNzcXhzd0VDSV9VN2QzcFZlVTV5NzJ5U2ZrTFB6RlJJQWxUUmdUMXE1S0ZMYzV2UU9mOFl1M2Q2MTNSMHE5bm9sMEZYcnAxZEVqaXQ2aVduZkpCTGRDNzF5Q2JzdzJ5NWRBUElnQ0I4RG5WWnFueA?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 13:21:04 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FTXJaZHo2ZVJlVWNxZUhTZTRFREtKeC1UMVNsNjd3Y2R4bmF6T3k3a2Izb2xtc2g0TlFSd19pOG5kQi04TlpiTWZZaGxyaU1wRzdWelh2VVY1U1BEeDJFaQ?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 10:14:48 GMT"
+      },
+      {
+        "press": "MTN 머니투데이방송",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkbjQ3QUJ2cXFFRDRfd2dFU3hOSDNGd0dEX3hfYUdQYWZGNi15WUIwcGJWOVVISjZZbUt1VFJoQ3VtZ2d0SGZCNU01aldEbE1nbmZNczBZX3ZHaUFRaklpXzE3WWs?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 10:20:11 GMT"
+      },
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hMjhEak9sSWtPSk1Bd2k5OVVqN1NublJkWU9TNGlQTm1sSHJuR1p3ZTdzYndENFBBcy1XMWl0VTBSUFBfNXFRdlVscw?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 10:55:08 GMT"
+      },
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lcGJLaUpXS1RRUVRkWkx4MnU0Q29nY2I3MlRvZlZQZVM5TlhacXcxNlFKREtKb3hqRmR3R1RMN0x3VVVYMS1WT1VHZ3pQbEk3bEE?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:42:06 GMT"
+      },
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vWUQ4WTdZSEhHaXpmbldhYndhV3ZGQjRVT2ZQVUhRbHpwUFpkVXpyWnhzM0ZRT0twODU2cGM2eUNraDg1c05NMGtfNzBvbFJUX0d0NERuMWNRSUFBWkFTVGNGa3JDOGRKbUUtMzZGckZoVU0?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 10:59:47 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QTWFrcEQ4S2hiTjJJaDVRR29rZGQ0VlJ1UjhlaE9zNHJITjZRWlU0Y1B5OFhpd183TldweGJHUVdCR1JXWE5kcDhpU19EOUFpZl9odklwclBMeUxjczQ2cEZUUWxVNDEzWUVnZ1c1NzM4WWPSAXdBVV95cUxQbVpQZ3ZOWkNQZGV6MnhDX2ZwOUQwQkpBREcwZUNkTkhPT0h5aWcwSUNJT3FLdlNmTUt4OG5RN3RlWW15TlhfZmg3eVVVNFFJMnd0YXdERUUtRkwwRlJFNXNVSjZfYmlfWl9GUWx0ZTJnWmxoYnJPYw?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 11:58:20 GMT"
+      }
+    ],
+    "source_count": 8,
+    "id": "066970-기타-24716-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엘앤에프, SK온과 약 1600억원 규모 LFP 양극재 공급계약 체결 - 뉴스와이어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스와이어",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XbGc1clV5T2hxTUtUYkpMdHl6QldnYWVlR3JXVW5OS3BxbWF1OHIxMm95eWVZNU0xVWRtY1N6YXk5c1hfM3Y4RUZGb2R2R2ZWclNLNTQzYW84SXAtc0Nv?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:50:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-수주-24721-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
     "status": "일반",
