@@ -1,5 +1,31 @@
 [
   {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260917000097",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000097",
+    "is_correction": false
+  },
+  {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "자기주식처분결과보고서",
+    "rcept_no": "20260917000122",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000122",
+    "is_correction": false
+  },
+  {
     "company": "원익IPS",
     "stock_code": "240810",
     "sector": "AI 반도체",
@@ -104,6 +130,32 @@
     "is_correction": false
   },
   {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+    "rcept_no": "20260917000213",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000213",
+    "is_correction": false
+  },
+  {
+    "company": "큐렉소",
+    "stock_code": "060280",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임시주주총회결과              ",
+    "rcept_no": "20260917900282",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900282",
+    "is_correction": false
+  },
+  {
     "company": "한전기술",
     "stock_code": "052690",
     "sector": "원전·SMR",
@@ -114,6 +166,19 @@
     "rcept_no": "20260915800684",
     "rcept_dt": "20260915",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800684",
+    "is_correction": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주총회소집공고",
+    "rcept_no": "20260917000219",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000219",
     "is_correction": false
   },
   {
@@ -166,6 +231,32 @@
     "rcept_no": "20260915800444",
     "rcept_dt": "20260915",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800444",
+    "is_correction": true
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260917800466",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800466",
+    "is_correction": true
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
+    "rcept_no": "20260917800452",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800452",
     "is_correction": true
   },
   {
@@ -231,6 +322,19 @@
     "rcept_no": "20260916900679",
     "rcept_dt": "20260916",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900679",
+    "is_correction": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "투자판단관련주요경영사항              ",
+    "rcept_no": "20260917800227",
+    "rcept_dt": "20260917",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917800227",
     "is_correction": false
   },
   {
