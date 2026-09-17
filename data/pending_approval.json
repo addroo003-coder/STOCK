@@ -29929,7 +29929,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "알테오젠, 기술수출 결실 맺는다…상업화·생산으로 보폭 확대 - 이투데이",
     "source_type": "news",
@@ -29938,9 +29938,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDQ3BvLV9ydXNuVS1pVjdYR1JtRVo5UDJTMFBaMGNNZ2w2c2pxV0RDRFRxeGw3LXc0bTVTRW5ab3hJNUZPVDZQamZvemJYbzVvdmR1OA?oc=5",
         "pub_date": "Thu, 17 Sep 2026 02:30:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tdHVWRFhRS2hMZlZvMWFid0xfMkk0QmRxVlBIeW5LUFZyS1QtYW1jcE43Y3FsRVZLX3BZa3UwbEZZdTBOTXc?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 02:30:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "196170-기타-24447-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
@@ -30450,7 +30455,7 @@
     "sector": "이차전지·ESS",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "엘앤에프, SK온과 약 1600억원 규모 LFP 양극재 공급계약 체결 - 뉴스와이어",
     "source_type": "news",
@@ -30459,9 +30464,19 @@
         "press": "뉴스와이어",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XbGc1clV5T2hxTUtUYkpMdHl6QldnYWVlR3JXVW5OS3BxbWF1OHIxMm95eWVZNU0xVWRtY1N6YXk5c1hfM3Y4RUZGb2R2R2ZWclNLNTQzYW84SXAtc0Nv?oc=5",
         "pub_date": "Thu, 17 Sep 2026 09:50:43 GMT"
+      },
+      {
+        "press": "미디어데일",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0N2J4VXRUYXZqYjRYbVEtaUo3S1lpMG9EaS00Ry1vR2t3dTUzTTZvR1NpTDdNWjRPMU85bEQ4QUhNVmwzaUtsQzNsSjlrZjZ6MHcxeXU5YnNjRHRuSzZyVXNEdWRIMXJpQV9j?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 21:22:44 GMT"
+      },
+      {
+        "press": "오토뷰",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnTy1Pb0hWcGV5RmU0cmtWSXdyS3pVWEhXWDRzQXJvR0xyay16eUpfUFdrM29UODZlOGlGak5kQ3B6b1VkUlNhN0s5SXhURlZqV01WcUdPaGdYUW5y?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 09:58:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "066970-수주-24721-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
@@ -30487,6 +30502,84 @@
     ],
     "source_count": 1,
     "id": "052690-기타-24778-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "뇌전증·파킨슨…CNS 영토 확대하는 SK바이오팜 - 서울경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXLUdpM3JKMnRZaWV5aGc0cm12QjVScVBGbHphOEZORDhPWTBnY2ozV1RIemNtaWY2ejI5SExENFJ2VjRmdXVTRkdVeDI4b3RmVVHSAVNBVV95cUxQZVd3MVRqZnJwQ2tKSldid3NhR1NMZjdBUi1KZVhsR1pUdmpsY1Z5bkd3c2hlR3JhSWtKOHpxNUdUN2p5UDhHYXpQQ25zTk5Tanp3cw?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 22:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-24948-20260917",
+    "first_seen": "2026-09-17",
+    "last_updated": "2026-09-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, 파킨슨병 신약 후보물질 도입… 계약 규모 최대 ‘4300억원’ - health.chosun.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "health.chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGN2NSUzRra3NJWmJjck5RS2pQTFhQZWRzN3dZQUY4WWJ4NG1qOGVHLVN2VU9yX3FsN1FuVmduM3J1NUFsQ0ljTnVZQUMxUF9lN19VTk1XZUU4UHEyQWRLeGkwNzZOV3JIdTVUU3hLNEZoTXRINHBPS29FQzdiR2c?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 08:36:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aVWx4VjJfeGtadFozS2dmdVNVM3FPUUdETkJLNkEtVFdEclZUZU9HVHo5OGJqUkduUk0tZGN2d3BRY2Flak5WRkV0al9fUjg?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:47:36 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CZ1ZYck5FNDlyQnBneHJHOFNxRTA1Q1B1YVhzR005SnB3cGh0WUtBczZLN2dFVWNhdVFiYVhQU2xuTXluVXc?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 07:58:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wR0tNUHZoa3cxR0pqd183NWVLOEI5ZmdfUnRwb19WZnFxZE5SajJpN1M5ZkUzbnZhb1dzTUhPcjI5VHNycHc?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:38:36 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TcmFLWXo1WjVPMWxRMzVFczdzakJnSmIzNXlidjFVMHBYaVMwdFZ2SHVHVUlqbGxOUmxaeEN1UVlWdFEzRkRrV1ZETjNITlk?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:51:00 GMT"
+      },
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQTFVNU9hblQ0Z2UtNXh0Zk40Q2ROSEhxOS1nWnBBV19fblJDSzlnWWUwRFIzUlVTLWpnOHc3c29HNHBJemRqcWhvUjZKYlV6aGZQcjJGbE5NaHFoeDk5QTVmZy1QelQ2WTloOVBsZEZKVU5F?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 05:10:11 GMT"
+      },
+      {
+        "press": "DealSite경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaVhKMWU0X1k0SGEwQUpkR3lvVllYWWRvWmdFZEpfclJJeFFrUkZxaWdpZHpwN0JTSVdNWXdyRndnc0FKT000SUFFMXV2Zjd5Q2Z2NURR?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 06:10:07 GMT"
+      }
+    ],
+    "source_count": 7,
+    "id": "326030-기타-24949-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-17",
     "status": "일반",
