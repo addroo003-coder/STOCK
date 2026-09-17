@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "美 금리 인상에도 선방…코스피, 6700선 약보합 마감 [투자360]",
-      "office": "헤럴드경제",
+      "title": "수술실에 등장한 ‘새 조수’…도구 건네는 휴머노이드",
+      "office": "서울신문",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/016/0002698963"
+      "url": "https://n.news.naver.com/mnews/article/081/0003681191"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -235,10 +235,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "기업설명회·자본시장 행사 한데 모아… 3주간 ‘코리아 프리미엄 위...",
-      "office": "문화일보",
+      "title": "'휴머노이드 서밋 서울 2026' 22일 개막…글로벌 피지컬 AI 기업 집결",
+      "office": "전자신문",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/021/0002819483"
+      "url": "https://n.news.naver.com/mnews/article/030/0003467719"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 맞춤형 AI 가전 경험 선봬",
-      "office": "세계일보",
-      "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/022/0004159980"
+      "title": "“오디오 특허 침해” 삼성전자·애플·구글, 美 ITC 조사 받는다",
+      "office": "서울신문",
+      "date": "20260918",
+      "url": "https://n.news.naver.com/mnews/article/081/0003681455"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -557,10 +557,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "알테오젠, 초장기지속형 플랫폼 특허…월 1회 비만약 개발 속도",
-      "office": "노컷뉴스",
+      "title": "먹는 비만약 시대…'월 1회' 주사제 경쟁도 가열",
+      "office": "동행미디어 시대",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/079/0004190578"
+      "url": "https://n.news.naver.com/mnews/article/417/0001158655"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -655,10 +655,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298380",
     "news": {
-      "title": "“4조 계약 공시 전에 운 좋게?”…에이비엘바이오, 가족계좌 조사 착...",
-      "office": "매일경제",
+      "title": "'ADC 대장주' 에이비엘바이오, '어쩌다가 주저 앉았나'",
+      "office": "이코노미스트",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736399"
+      "url": "https://n.news.naver.com/mnews/article/243/0000103236"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/298380/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG사장단 “AI, 미래 경쟁력 좌우할 핵심 축”… 피지컬 AI 등 엔비디아...",
-      "office": "동아일보",
+      "title": "구광모, 사장단과 8시간 AI 회의…“승부처는 빠르고 집요한 실행력”",
+      "office": "서울신문",
       "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/020/0003749063"
+      "url": "https://n.news.naver.com/mnews/article/081/0003681468"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 인텔 손잡나?...\"투자 압박 해소\" \"기술유출 우려\"",
-      "office": "YTN",
+      "title": "SK하이닉스, 협력사 가족 3만명 서울랜드 초청",
+      "office": "서울신문",
       "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/052/0002408568"
+      "url": "https://n.news.naver.com/mnews/article/081/0003681449"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
