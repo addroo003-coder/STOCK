@@ -151,10 +151,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
-      "title": "두산로보틱스, 피크(peaq)와 손잡고 로봇 가동이력 검증 나선다",
-      "office": "동아일보",
+      "title": "두산로보틱스, peaq와 '피지컬 AI' 파트너십…로봇 데이터 금융 활용 ...",
+      "office": "한국경제",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/020/0003748913"
+      "url": "https://n.news.naver.com/mnews/article/015/0005333399"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/454910/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼전닉스요? 2031년까지 거뜬합니다”…공급난 전망 바뀌는 이유",
-      "office": "매일경제",
-      "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737527"
+      "title": "\"10월 코스피 7000선 돌파 가능\"…삼성전자·SK하이닉스 '주목'",
+      "office": "뉴시스",
+      "date": "20260919",
+      "url": "https://n.news.naver.com/mnews/article/003/0014200818"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“삼전닉스요? 2031년까지 거뜬합니다”…공급난 전망 바뀌는 이유",
-      "office": "매일경제",
-      "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737527"
+      "title": "\"10월 코스피 7000선 돌파 가능\"…삼성전자·SK하이닉스 '주목'",
+      "office": "뉴시스",
+      "date": "20260919",
+      "url": "https://n.news.naver.com/mnews/article/003/0014200818"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
