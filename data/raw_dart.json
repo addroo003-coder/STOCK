@@ -26,42 +26,16 @@
     "is_correction": false
   },
   {
-    "company": "원익IPS",
-    "stock_code": "240810",
+    "company": "한미반도체",
+    "stock_code": "042700",
     "sector": "AI 반도체",
     "source_type": "dart",
     "confidence": "확정",
-    "category": "자본",
-    "title": "주요사항보고서(자기주식처분결정)",
-    "rcept_no": "20260915000194",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000194",
-    "is_correction": false
-  },
-  {
-    "company": "효성중공업",
-    "stock_code": "298040",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20260915800149",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800149",
-    "is_correction": false
-  },
-  {
-    "company": "효성중공업",
-    "stock_code": "298040",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20260915800147",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800147",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260918800064",
+    "rcept_dt": "20260918",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918800064",
     "is_correction": false
   },
   {
@@ -89,6 +63,19 @@
     "rcept_dt": "20260916",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000455",
     "is_correction": true
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260918900068",
+    "rcept_dt": "20260918",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918900068",
+    "is_correction": false
   },
   {
     "company": "비에이치아이",
@@ -169,16 +156,16 @@
     "is_correction": false
   },
   {
-    "company": "한전기술",
-    "stock_code": "052690",
+    "company": "현대건설",
+    "stock_code": "000720",
     "sector": "원전·SMR",
     "source_type": "dart",
     "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20260915800684",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800684",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20260918000044",
+    "rcept_dt": "20260918",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000044",
     "is_correction": false
   },
   {
@@ -234,19 +221,6 @@
     "is_correction": true
   },
   {
-    "company": "한전산업",
-    "stock_code": "130660",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20260915800444",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800444",
-    "is_correction": true
-  },
-  {
     "company": "우진",
     "stock_code": "105840",
     "sector": "원전·SMR",
@@ -283,19 +257,6 @@
     "rcept_no": "20260917000030",
     "rcept_dt": "20260917",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917000030",
-    "is_correction": false
-  },
-  {
-    "company": "비츠로테크",
-    "stock_code": "042370",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-    "rcept_no": "20260915900441",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915900441",
     "is_correction": false
   },
   {
@@ -351,58 +312,6 @@
     "is_correction": false
   },
   {
-    "company": "SK바이오팜",
-    "stock_code": "326030",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "최대주주등소유주식변동신고서              ",
-    "rcept_no": "20260915800235",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800235",
-    "is_correction": false
-  },
-  {
-    "company": "SK바이오팜",
-    "stock_code": "326030",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260915000042",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000042",
-    "is_correction": false
-  },
-  {
-    "company": "SK바이오팜",
-    "stock_code": "326030",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20260915000040",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000040",
-    "is_correction": false
-  },
-  {
-    "company": "유한양행",
-    "stock_code": "000100",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20260915800321",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800321",
-    "is_correction": false
-  },
-  {
     "company": "HK이노엔",
     "stock_code": "195940",
     "sector": "바이오",
@@ -413,19 +322,6 @@
     "rcept_no": "20260916900488",
     "rcept_dt": "20260916",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900488",
-    "is_correction": false
-  },
-  {
-    "company": "지씨셀",
-    "stock_code": "144510",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "공정거래자율준수프로그램운영현황              ",
-    "rcept_no": "20260915900667",
-    "rcept_dt": "20260915",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915900667",
     "is_correction": false
   },
   {
