@@ -151,10 +151,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
-      "title": "두산로보틱스, peaq와 '피지컬 AI' 파트너십…로봇 데이터 금융 활용 ...",
-      "office": "한국경제",
+      "title": "두산로보틱스, 피크(peaq)와 손잡고 로봇 가동이력 검증 나선다",
+      "office": "동아일보",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333399"
+      "url": "https://n.news.naver.com/mnews/article/020/0003748913"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/454910/news"
   },
@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "외국인, 8거래일만에 '사자'…코스피, 2.66% 상승 마감",
-      "office": "SBS",
+      "title": "비관론에도…투자자 홀린 휴머노이드 로봇 [매니지먼트]",
+      "office": "매경이코노미",
       "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/055/0001389444"
+      "url": "https://n.news.naver.com/mnews/article/024/0000108324"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -235,10 +235,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "코스피, 美 '긴축 불확실성' 해소 2%대↑⋯'6900선' 턱밑 마감",
-      "office": "아이뉴스24",
+      "title": "비관론에도…투자자 홀린 휴머노이드 로봇 [매니지먼트]",
+      "office": "매경이코노미",
       "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/031/0001059793"
+      "url": "https://n.news.naver.com/mnews/article/024/0000108324"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/108490/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 DX노조, 이재용 자택 앞 집회…\"직접 대화하자\"",
-      "office": "아시아경제",
+      "title": "“삼전닉스요? 2031년까지 거뜬합니다”…공급난 전망 바뀌는 이유",
+      "office": "매일경제",
       "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818654"
+      "url": "https://n.news.naver.com/mnews/article/009/0005737527"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1411,10 +1411,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=052690",
     "news": {
-      "title": "한국전력기술, 신한울부터 체코 원전까지 설계…AI 입고 해외시장 넓...",
-      "office": "한국경제",
-      "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333452"
+      "title": "한전기술, ‘국가공헌대상’  산업부 장관상…AI 혁신 부문 성과 인정...",
+      "office": "부산일보",
+      "date": "20260918",
+      "url": "https://n.news.naver.com/mnews/article/082/0001399033"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/052690/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "[똑소리톡] 'AI 해고'는 핑계? \"진짜 이유는 따로 있죠\" 한·미 블라인...",
-      "office": "SBS",
+      "title": "“삼전닉스요? 2031년까지 거뜬합니다”…공급난 전망 바뀌는 이유",
+      "office": "매일경제",
       "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/055/0001389459"
+      "url": "https://n.news.naver.com/mnews/article/009/0005737527"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
