@@ -29592,7 +29592,7 @@
     "source_count": 2,
     "id": "214450-기타-24091-20260917",
     "first_seen": "2026-09-17",
-    "last_updated": "2026-09-17",
+    "last_updated": "2026-09-18",
     "status": "일반",
     "stale": false
   },
@@ -30407,9 +30407,24 @@
         "press": "뉴시스",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rak9BRWFqWTZ6Y1hiVlJyaWhpWEp3SWpaOUpDalhnX1ZEUGFiaWNRS3NqNmJWUVBHb1ZDcHVSSDlfQjZLaUd0azVwbVhEZmtpa3dZblFOMEZCbWpRYjJQY9IBeEFVX3lxTFAxQi1neGpoTThMc0FSVlQ5WklwYmxqUVI2M0J4TDBpRTNvdzFfdGdOd2k0NGxMZDFISWM0VThsSTRrNWt2QWl1WF9Ma2xpaFdpLW93ejNBdjhJTnNzR0Zhb19pZ2J5YkFTVjdGc21rWFZuUk5JcHlfOA?oc=5",
         "pub_date": "Thu, 17 Sep 2026 01:28:36 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VbXA1WVYxNDlEdERnTDBVb2o4T0xkaHVnUDdhRlVCLU4xeVM2WEttZjJZbE9tZmNaSlhycjdHWW1YT0pMa3pRazA5U1g?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 08:17:22 GMT"
+      },
+      {
+        "press": "장업신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yOXBOLXo5S0JBQlJzeVh3Z1dReG0wTnRIeDJQZHZTVlhSbGUyMnFrSHQ2V3ctNmFDbExNYWM4R04xVnZqT3JmZWxyWkFsZEplQ2xMRzUxeG9vemFoTUE2QncyMG04cFk?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 02:07:21 GMT"
+      },
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EdHlkal9TR0U3Z3dCbUhSakVDQnNsVENBTHhzNWxqTVc5WTAzemdaaTZ0TDdwcmZMazlDLWFwanRET0UzOERzdWJXM2ttX0xVU3VpZkRvbnNmdFQ1UDFoT1NxSlFXTGlfSTZJ?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 00:50:39 GMT"
       }
     ],
-    "source_count": 22,
+    "source_count": 25,
     "id": "214450-기타-24477-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-18",
@@ -31149,9 +31164,14 @@
         "press": "파이낸셜신문",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jZ0V1RVVib3VOX09ENUlPYzE0TFpvMVYzWFZsY3BlWjVONlpZNFAyVzlNbWx0bllJdWpHSmRYdDkySmJITHpOOFFOSkNTVTdDdXg0TEhKN1lid192RTRDaFk5cE41SnptWWxv?oc=5",
         "pub_date": "Fri, 18 Sep 2026 05:23:25 GMT"
+      },
+      {
+        "press": "팩트인뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX0MzczVBd2ZNN3cyM1o0V1JDWEN1bEVpSDR0NmwwZ0tBU0UxWklQVHZZV3ZhNkxNSFh6MTF6RWtlaHlFY01WSk1sQk51R1duMW84Ym9mQnM0NEoxVkJwRVpEYVlUUVE2Wjl0YVlCOGrSAXRBVV95cUxNclhmYXRjOVJZV0lHbEtXVHVIVHp6WXhmWDd0RkxMZDFUekxNXzJNVVJiTV9TcnlHMVB5aDRQVlhOT2piN1ROa01rNl9PMHVmR3BzV0VBb2t3ckhhS3YzWVJLNjY3Z3Q5RHdpZHJuRE1BamhXeQ?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 07:52:30 GMT"
       }
     ],
-    "source_count": 20,
+    "source_count": 21,
     "id": "060370-수주-25094-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
@@ -31525,7 +31545,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SK바이오팜 세노바메이트 ‘공급 규모 확대’ 어디까지…美 처방 확대 영향? - 팜이데일리",
     "source_type": "news",
@@ -31534,9 +31554,14 @@
         "press": "팜이데일리",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13RFA2eUNpR2ZtWE44UmFNNDVYbXh0RXlYWDFqTGUwd1RXNVJZS25WQzFOellTaFVVWjZxel9FdnlYQXU1OGgzRmtUTHNzZEdZd3JzQjNqR0puSlQ2WnQzYUZ6ZFJ2WlVXSC1ackVB?oc=5",
         "pub_date": "Thu, 17 Sep 2026 23:20:04 GMT"
+      },
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFF6c2ZoLXFienpDRkVBclJKV0dFdExJa2t1eUstSkZxcFpTbWc1X2g4ZnR5X3R2bXNFWWFjcC1mWjZNWkduLUFZVDNEV3VuejZnSDhPcERJbWVSY3Y1Sy1FOTBNSWlYaTczaTBvWUs4Z29ZZlJTWHJFM0l2NW5ZUA?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 23:21:02 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "326030-기타-25188-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
@@ -31855,9 +31880,24 @@
         "press": "메트로신문",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ybVNRNDhZVVFPckpiTEdvOWhBNUVXdU80YnFJTnZnVkRGNnUxVGUycmR3YjhsbEQ3TTY2TFZ0OWh6eTZSUkwweGI5NkxtZVgwOUsySXhwaG8zWVFUaFVxYw?oc=5",
         "pub_date": "Fri, 18 Sep 2026 03:55:26 GMT"
+      },
+      {
+        "press": "MEDI:GATE NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WT2hmYlNpMlkzZS15VnBEb0pxV3A3YmhGUXg2YjlGemhPa2g1blYtUlZoUEZFRDNqVV8zYktOYWQ2U3c2R01mWTVnZUxkaGw2SG1DNXBJOA?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 05:11:00 GMT"
+      },
+      {
+        "press": "docdocdoc.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEdUR1bTN2UERvODUtcHIzT3VEOUR2T2RvY0pSaW5CSjc2dlZUaG1zbko5X1RET0IwVXdqRFFGeHQ1Vk02czFSbm1ReWNaenk2M25tcXN2OUFOd2V1eEppMXo2V1N0M1J5ZkF4bTdmYUI?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 07:25:06 GMT"
+      },
+      {
+        "press": "메디소비자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zbERWbnVtNXlFOXRfLXRYUkxEMXZ0NGJLZi1KOXJBeGJBOTJCUUZmaGs4M2U4RHFHcnlNV2Vyam9kbVpCZER3OV9vdFk2czZvM1RBUm9uWnRpckVQSXUteXZjaHhqZThJVkdldFo5UzR4d9IBdkFVX3lxTE82dGQxSjNYUUVHLWdJVl9RMWVyaWptNTVtS1c2aUg2Umh2VEhhUjV3dGJhbGlPcWtwa3E0bURGdlB3el85ZTdmYW1maGF2Y2Q2X3RNX09HNUkwVUIxQWV0UHBwdWNReFhwUmppYjNWRjZILUdIaEE?oc=5",
+        "pub_date": "Thu, 17 Sep 2026 23:27:42 GMT"
       }
     ],
-    "source_count": 24,
+    "source_count": 27,
     "id": "144510-기타-25201-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
@@ -32391,9 +32431,24 @@
         "press": "biotimes.co.kr",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XSHNDZUd3bmczcm9NZVZMVXBKZkZockMzdHRxcG1SYndUTm1ZVmZsbTlzMGx1YmhNb2N6b216alZRbmlacEg0dml5VlBKd3YxaV9fZllVaEVIbURyZzIwU1habEhLQzZjYkNFZw?oc=5",
         "pub_date": "Fri, 18 Sep 2026 08:08:47 GMT"
+      },
+      {
+        "press": "시사캐스트",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tZFBmNHZDMWd1YWhPbHY3NFZkVVVhZVI1SDc3b0hycXY2dm5ubGlwX194QU5IQWd4QS1tMFNWVnA1cE1YOFdOemtvZFU2cFNKeVV1eW5ZV1JucFh0ZzFVRU8wX09aYzN3?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 22:06:51 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WMUZnRTVud2FEb243c195eTZnZDByS3A4T292R2szQXFOdnhJTWZ6Wk1BRE5hV1FsWk9FVVA0RThLTEMxYkNJcUNGd1ZFRmlx?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 07:52:00 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vaUI3b1duODdKSTg2MjdaUWF0WWEwNkstNmc5Wlh4VmZZTURHSUo1VU13YW9vbDE0Z2UxODNJVXgzT2dBVnNxMnZjeVhDdw?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 09:03:25 GMT"
       }
     ],
-    "source_count": 20,
+    "source_count": 23,
     "id": "237690-수주-25473-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
@@ -32406,7 +32461,7 @@
     "sector": "바이오",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "에스티팜, 올리고 핵산 치료제 원료 913억 수주…단일계약 최대 - 뉴스1",
     "source_type": "news",
@@ -32415,9 +32470,14 @@
         "press": "뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTWVIV3hmZnBkR0VjOWtlazRnTmhoZmtZQTlQZHVXSzBITUpvV0ZEMlFhN0lhaXRBdHdJN2lSSmtUSHowSUhxcWJvV0hmaFd4S1pwWXRJRE5aZklQTm5aM9IBZkFVX3lxTE9FdlgyUGJ0Nk5PT3lyYlItUWtZT1RTVndVdWxyclRZczJWY0FSc09Send1TzljUXN4NXJVNG5uSkRfTkluQnFCVm9DdkRhUFAzZlNhckJZNTdKandBNG92NS1SU244dw?oc=5",
         "pub_date": "Fri, 18 Sep 2026 05:54:36 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50SmU4QjFQRFVRYVNVZ2dWd2xvTmVNdWhPWnpNcmhXZDVHRlRWdjFQWVZsOXFZTUVrTXlZMmJyWUl3cEM0SDM1UjdPSTVLN0o5SDdBQg?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 06:51:04 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "237690-수주-25478-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
@@ -32926,7 +32986,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "美 전력망 투자 확대 기대감…가온전선, 현지 생산능력 2배 키운다 - insightkorea.co.kr",
     "source_type": "news",
@@ -32935,9 +32995,14 @@
         "press": "insightkorea.co.kr",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rb013U2FvSl9WbGRSbEotZ0EtaDM1WkNkN0tsWTJuaHYtQVJkRi1KbXVtRnNTbGxocFFqaUtDbWtZWkVMRjYxS25KQ2M5c09RNVJ2WHo0ZkEzb1RDbE1IRmFOOEZkYzJBOVV5UW9UZlh1Z3PSAXdBVV95cUxQeXMza05BOEdyTy1UQlFhUDRjRF9aSDEtYWJVUFJDd2xNVjJGOG4xNjNXTjF1a3ZPVjdYQUVIWlpyWVN3UU1HUkpIRWgzQ3liRjRGVGZjaDNfOG5vVmR4b0JkVEJLMG0wR0VHVWhQckVvazNHc3RObw?oc=5",
         "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
+      },
+      {
+        "press": "인사이트코리아",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5czNrTkE4R3JPLVRCUWFQNGNEX1pIMS1hYlVQUkN3bE1WMkY4bjE2M1dOMXVrdk9WN1hBRUhaWnJZU3dRTUdSSkhFaDNDeWJGNEZUZmNoM184bm9WZHhvQmRUQkswbTBHRUdVaFByRW9rM0dzdE5v0gF3QVVfeXFMUHlzM2tOQThHck8tVEJRYVA0Y0RfWkgxLWFiVVBSQ3dsTVYyRjhuMTYzV04xdWt2T1Y3WEFFSFpacllTd1FNR1JKSEVoM0N5YkY0RlRmY2gzXzhub1ZkeG9CZFRCSzBtMEdFR1VoUHJFb2szR3N0Tm8?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 03:08:35 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000500-기타-25646-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
@@ -33387,6 +33452,174 @@
     ],
     "source_count": 1,
     "id": "144510-기타-26001-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "아폴로 글로벌 매니지먼트(APO), 디퓨이 신테스 인수 협상 막바지에 자동차 대출도 확대 - simplywall.st",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNalFDVzdyRFJna1JuLWExRDhJQzhZb2dzbVlTZnlNYnY4bUE1RldoSXBXcUZFWksxSkpab2x3UWIyV0R0WjRpc2swWGl6ZzBpUVlmdkMteEdEdFk2dVdSSkhZYXNWSHZzRHhyQlotdTd4T1E5V2NBbGV2U0lGZHk3V1ZUZ2VMWXVuTjJJdVJnMHZ3a1BYMFZPWGZjWFcwNFJKRF9LeTFHZFowWDBKcU9oWWtGc9IBuAFBVV95cUxPSjZhT0JuaTlxU21pU3hzdlFfZGgwbDlKNHd6RVFuWk9uajZjcDlPYlkyWGRLcVBLR0U1b0gyTjFKS3N3QlJYQWN6SjBYeWlOQ0xxdmFmR2dZZmJpS3RPWFpRd3hnZ2xiOC1YOGx0Rk92cXptMlM4alRoLUpXbDQybmVVUHFEaDI4UVo4S1pwOF9yYjZWRThNamM4WFNKb3hfbUxBWjZOVUl0WE95em1IWG9pcjJzaFBn?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 21:49:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-26018-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“MLCC 시장 AI 서버 중심으로 이동”…삼성전기, 고부가 제품 확대 실적 고공행진 - CEO스코어데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO스코어데일리",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FR2ZrWEk3MGljY0xad0JzOHdOSldFekJKdGY2cGpiVWdXRjdwMVNFbkJ1MVNETHF1Ykk0R0c4bVBmQ0dTa3NSekxRNS1IRGVaaWFLN2xETWZ4LXAxUHZIVnFOTHNWUkhv?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 22:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-실적-26037-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS마린솔루션, ‘신안우이 해상풍력 해저케이블 시공 계약’ 체결 - 발전산업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "발전산업신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yaVFoUC1Oel9hWGxpMlY5MHdzcVBsanA4ZEhVUHd3anNucWY4TFdwcHl3NDlSSk1XSzBqYkNCOHd1Q3JGMVRUbXF5SDhVaHdSOXE4cFBITldQaEJpUFJLeG1nY0tnRnpC?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 15:43:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-26054-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온전선 31만7000원, 21.69% 급등…美 케이블 생산능력 2배 확대 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mQkt3S3NrY21RUU96cU96alpucERQYnFKN2FHc0NqbDlzZTVyWW9ta19OVGpVR1VBRmlQOTJhcEJqdnZKMVR2ZG9uNFg3XzI1ejg1MV91OWhHdGxTVzFFT3RFeW91X0R6RmEwczJldDFKZ9IBckFVX3lxTE9mQkt3S3NrY21RUU96cU96alpucERQYnFKN2FHc0NqbDlzZTVyWW9ta19OVGpVR1VBRmlQOTJhcEJqdnZKMVR2ZG9uNFg3XzI1ejg1MV91OWhHdGxTVzFFT3RFeW91X0R6RmEwczJldDFKZw?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 05:21:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-26060-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS마린솔루션, ‘신안우이 해상풍력 해저케이블 시공 계약’ 체결 - 발전산업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "발전산업신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yaVFoUC1Oel9hWGxpMlY5MHdzcVBsanA4ZEhVUHd3anNucWY4TFdwcHl3NDlSSk1XSzBqYkNCOHd1Q3JGMVRUbXF5SDhVaHdSOXE4cFBITldQaEJpUFJLeG1nY0tnRnpC?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 15:43:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060370-기타-26061-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에스티팜",
+    "stock_code": "237690",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에스티팜, 올리고 원료의약품 913억원 수주…단일 계약 또 최대치 - straightnews.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "straightnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjbEVkSFFnOV9xbUNCQTBkeGpScGNrcm0tN2VPN3lPVmtnNXZtX3dTU0R4WXZYbW1xT1ZPZHhoWldNYnp0bXF1c2hwMzZBTmp1NUdRV0RqNzhjUVpDLV9QZDVic05KM1AzbDZReHh0NUY4WjhfVldr0gF3QVVfeXFMUGNsRWRIUWc5X3FtQ0JBMGR4alJwY2tybS03ZU83eU9Wa2c1dm1fd1NTRHhZdlhtbXFPVk9keGhaV01ienRtcXVzaHAzNkFOanU1R1FXRGo3OGNRWkMtX1BkNWJzTkozUDNsNlF4eHQ1RjhaOF9WV2s?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 11:03:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "237690-수주-26103-20260918",
+    "first_seen": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "지씨셀",
+    "stock_code": "144510",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "광동제약·지씨셀, 불법 비교광고 행위 법적 조치 착수...GCC2005 치료목적 사용승인 획득 - 여성소비자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "여성소비자신문",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zLU9DZE1KRXN6NFdmTzE4bXMyTDgwdWZhSThidFpjTW01dzdUZ3FuZVJPRjV2S0FUNDc5NjRZNTdrc0VkeW9lcmRiekRhYjlpaDBUdFRScUFwMl9JQ21vZmZkeE9wZw?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 05:51:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "144510-기타-26121-20260918",
     "first_seen": "2026-09-18",
     "last_updated": "2026-09-18",
     "status": "일반",
