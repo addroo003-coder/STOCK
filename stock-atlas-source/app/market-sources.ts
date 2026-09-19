@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성전기, 고용량 MLCC로 'AI 전력' 잡는다",
-      "office": "매일경제",
-      "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737478"
+      "title": "삼성전기, AI용 MLCC 추가 수주 임박…올해 장기계약 4조원 눈앞",
+      "office": "연합뉴스",
+      "date": "20260920",
+      "url": "https://n.news.naver.com/mnews/article/001/0016322987"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
-      "office": "주간조선",
-      "date": "20260919",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061618"
+      "title": "삼성전자·포스코 노조 '휘청'…갈등 뇌관 '노조위원장 논란'",
+      "office": "뉴스1",
+      "date": "20260920",
+      "url": "https://n.news.naver.com/mnews/article/421/0009180775"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -753,10 +753,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=226950",
     "news": {
-      "title": "올릭스, 신약 임상 탄력…\"안과 2a상 이어 차세대 비만약 임상 준비\"",
-      "office": "머니투데이",
-      "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415370"
+      "title": "[임상 업데이트] 올릭스, 황반변성 치료제 ‘OLX301A’ 호주 2a상 신청",
+      "office": "이데일리",
+      "date": "20260920",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372755"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/226950/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "호르무즈 기여 밝힌 韓⋯美는 반도체·대미 투자에 집중",
-      "office": "아이뉴스24",
-      "date": "20260919",
-      "url": "https://n.news.naver.com/mnews/article/031/0001059921"
+      "title": "‘HBM 더 높이’ 속도전에도…SK하이닉스 “하이브리드 본딩 수율 90% ...",
+      "office": "헤럴드경제",
+      "date": "20260920",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699754"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
