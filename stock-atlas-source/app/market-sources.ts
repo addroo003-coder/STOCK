@@ -151,10 +151,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
-      "title": "두산로보틱스, peaq와 '피지컬 AI' 파트너십…로봇 데이터 금융 활용 ...",
-      "office": "한국경제",
+      "title": "두산로보틱스, 피크(peaq)와 손잡고 로봇 가동이력 검증 나선다",
+      "office": "동아일보",
       "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333399"
+      "url": "https://n.news.naver.com/mnews/article/020/0003748913"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/454910/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 실리콘밸리 CVC 출범…AI 스타트업 투자 본격화",
-      "office": "서울경제",
+      "title": "호르무즈 기여 밝힌 韓⋯美는 반도체·대미 투자에 집중",
+      "office": "아이뉴스24",
       "date": "20260919",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663589"
+      "url": "https://n.news.naver.com/mnews/article/031/0001059921"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
