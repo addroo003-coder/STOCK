@@ -179,10 +179,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=131970",
     "news": {
-      "title": "AI 속도조절론에도…두산 박정원, CCL에 1兆 증설 승부수 [비즈360]",
-      "office": "헤럴드경제",
-      "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/016/0002699138"
+      "title": "두산 'AI 전환' 속도내는 박정원의 승부수..젠슨황·머스크도 러브콜",
+      "office": "머니투데이",
+      "date": "20260917",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415418"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/131970/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "NPR, 해외 PR에 AI 검색 결합... 미국·중국 등 10개국 홍보",
-      "office": "파이낸셜뉴스",
+      "title": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
+      "office": "주간조선",
       "date": "20260919",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578238"
+      "url": "https://n.news.naver.com/mnews/article/053/0000061618"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1691,10 +1691,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=229640",
     "news": {
-      "title": "[기업이슈] \"SK하이닉스, 인텔과 미국서 메모리 생산 협상중\"",
-      "office": "SBS Biz",
-      "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533389"
+      "title": "[ET특징주] LS에코에너지, 美 태양광 케이블 공급 소식에… 주가 15%↑",
+      "office": "전자신문",
+      "date": "20260916",
+      "url": "https://n.news.naver.com/mnews/article/030/0003467298"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/229640/news"
   },
