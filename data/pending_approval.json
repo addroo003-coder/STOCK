@@ -33180,7 +33180,7 @@
     "source_count": 30,
     "id": "144510-기타-25510-20260918",
     "first_seen": "2026-09-18",
-    "last_updated": "2026-09-19",
+    "last_updated": "2026-09-20",
     "status": "일반",
     "stale": false
   },
@@ -34672,9 +34672,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9leHdfOS02U2htYUlmYXVYWE5ob2l3c0ZJUXRONEJTdzluNUs4TlktUTNEeTVha1hKRTF3dmJ3WlpnTUh3ckdpc281WQ?oc=5",
         "pub_date": "Sun, 20 Sep 2026 03:01:01 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnalloOHp2azNwbndZZWNEcUpNa1VkeGNDQ3VWVjVSNjdNZURtUkNlTGg0SzVTYlVVbHRuS052T0F4S1Ntcmc?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 03:01:01 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-27012-20260920",
     "first_seen": "2026-09-20",
     "last_updated": "2026-09-20",
@@ -34736,7 +34741,7 @@
     "sector": "우주항공",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "K방산 넘어 미국 하늘까지…켄코아에어로스페이스, 우주·항공 사업 확대 - pinpointnews.co.kr",
     "source_type": "news",
@@ -34745,9 +34750,14 @@
         "press": "pinpointnews.co.kr",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kUDRIN1NKUGdjaURhZk1yUV95UFdEeDFLZ1pXRFpoZHEzMVQ1eEtRR3JISEV1MWdGQmoydGV1VjZRY29CSTYxekVSTC1FOGNnTnhsX29QUzZNMnNkendDeWlvaXg5MGpIa2ZCcDhXbGF1X0XSAXdBVV95cUxNZGsteXFHWlJvTUlYUnBXNHZQS3VTN1Z4bEMycjVmOUZoVHpHYlB2RkVpVU9NTW52Y3JrUU94QzQ2RHhmRjZoSTFDQlpGaEt0aWtJdks4RkJ0SXpSOU41QkcyV1hNenpwU1JNOXpRQjdCMGxGOENEVQ?oc=5",
         "pub_date": "Sun, 20 Sep 2026 05:21:28 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kay15cUdaUm9NSVhScFc0dlBLdVM3VnhsQzJyNWY5RmhUekdiUHZGRWlVT01NbnZjcmtRT3hDNDZEeGZGNmhJMUNCWkZoS3Rpa0l2SzhGQnRJelI5TjVCRzJXWE16enBTUk05elFCN0IwbEY4Q0RV0gF3QVVfeXFMTWRrLXlxR1pSb01JWFJwVzR2UEt1UzdWeGxDMnI1ZjlGaFR6R2JQdkZFaVVPTU1udmNya1FPeEM0NkR4ZkY2aEkxQ0JaRmhLdGlrSXZLOEZCdEl6UjlONUJHMldYTXp6cFNSTTl6UUI3QjBsRjhDRFU?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 05:30:32 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "274090-기타-27162-20260920",
     "first_seen": "2026-09-20",
     "last_updated": "2026-09-20",
@@ -34821,6 +34831,107 @@
     ],
     "source_count": 1,
     "id": "066970-기타-27234-20260920",
+    "first_seen": "2026-09-20",
+    "last_updated": "2026-09-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 최대 노조 ‘반도체 노조’로 개편…최승호 위원장 ‘억대 개인혜택’ 의혹도 - 문화일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "문화일보",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EVDZWdlVwcENjUndPVVFLYTBHb1RMUlFlak9RaVAxeXBseGFWY3FPcWNrZGRLcW9UcF95OXNCM044cmNKTW52WEVPWncwSW5z?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 09:06:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-27245-20260920",
+    "first_seen": "2026-09-20",
+    "last_updated": "2026-09-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "실적은 ‘최대’ 안전은 ‘부실’···SK하이닉스 등 반도체 공장 안전규정 위반 무더기 적발 - khan.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "khan.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WUdiR2hPYjBrc1FBZkZjamR5VkdFZWQyT0dUZzdrcHVCbGpYMVFPSzRlMlZWNnEyVXhYY1lKYUNxa29TRmNqN3dKVGdRTjZvZVNValdZME1wd9IBX0FVX3lxTE8zSlVudFlaLUFKSFlsNk40STVobFNCdFR5Sm1TbzhWU09uLURHY1paZm1TLXBqNm8yX1JDLTJycUhIRGotVEVTR3dUZTFSODZaTTBjb2xHUkxtcWdkMTln?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 06:16:00 GMT"
+      },
+      {
+        "press": "khan.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbER1WDJiTVRZMVpzVGhuU0k2QVQzNUZKSmRPblkxaUFTWWlHUmEycENtMzNTdkYyZE91c01SRy1COTNNYmZBeFBOSlY1dDRVNU5nMVdmNjMxZFhXaXY4azdmeHFMdVMxQlh5ckctZ2lCdTRCT1hpZ1R6V0s4TVJaOFZJcHF2X0xRUkg1SnQxWGd2X2lReUhmbDZ2bnBfSGMwNm9TVjJacEd2UdIBX0FVX3lxTE8zSlVudFlaLUFKSFlsNk40STVobFNCdFR5Sm1TbzhWU09uLURHY1paZm1TLXBqNm8yX1JDLTJycUhIRGotVEVTR3dUZTFSODZaTTBjb2xHUkxtcWdkMTln?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 06:16:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000660-실적-27253-20260920",
+    "first_seen": "2026-09-20",
+    "last_updated": "2026-09-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "HD현대일렉트릭, 북미 이어 유럽 해상풍력서 수주 기반 확대 - 메트로신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메트로신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WTUxGN2hNbFliWU9qVDltY1J6cUZlY2s1NkpLc1VseUF1QWM1ZWQzQUg1cVpqZjB4dzQxV2VQa1RfSkd6eFN0MEJ1MUQ5NUhJMEpmeTdOT3VfOTREcmxpTQ?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 06:31:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "267260-수주-27286-20260920",
+    "first_seen": "2026-09-20",
+    "last_updated": "2026-09-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최근 5거래일 가온전선 주가 변동성 확대 - topstarnews.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "topstarnews.net",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNDlYTGkxdUR2MlZSOGgtVW80cFpxVmhGcGVvMEdfRVY4NldRTVVES3cxa19BUVdDaEtVV1A1X2hHRlhxSk5pRUV2ODMwNzRlb0hmY3drdDQzNHV4T2hBTV9NSEk2eldnWHg0dmtWRnZ2UQ?oc=5",
+        "pub_date": "Fri, 18 Sep 2026 23:47:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-27306-20260920",
     "first_seen": "2026-09-20",
     "last_updated": "2026-09-20",
     "status": "일반",
