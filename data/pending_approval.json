@@ -34495,7 +34495,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성전기, AI 훈풍 타고 '역대급 잭팟' 예고... 개미들만 모르는 300만 원 직행 시그널! - 얼리어답터뉴스",
     "source_type": "news",
@@ -34509,9 +34509,14 @@
         "press": "얼리어답터뉴스",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBjVkhUTlhJWDd1UU14SHpPMldHQTliWHppVXFtTi1zTUt0V3RMNFYtME9OYWZJQzBtUHVKZnRmZEFJYUtR?oc=5",
         "pub_date": "Sat, 19 Sep 2026 21:08:15 GMT"
+      },
+      {
+        "press": "유스연합",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iOTlwOWRMYjhrVkRUdWxnemJrQTBNaEF1b0R3U1NqLUdFcjRaSk9WTGdibjRDRjVYVnNjVDBhdG4zbzVBYWxBWnhsZk1Ma293Qjlr?oc=5",
+        "pub_date": "Sat, 19 Sep 2026 21:08:15 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "009150-기타-26679-20260919",
     "first_seen": "2026-09-19",
     "last_updated": "2026-09-20",
@@ -34990,6 +34995,30 @@
     ],
     "source_count": 1,
     "id": "060370-기타-27465-20260920",
+    "first_seen": "2026-09-20",
+    "last_updated": "2026-09-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS, 협력사와 기술·인력 나눈다…계열사별 상생 확대 [상생경영] - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wQmFSMW1mR0hYMkpONVAtQmsxNmpPQ2VsOFBEYVRxTm5UUEcxZ3c4S182dkJHcmhnQmgwX3A0MndpTjQ3RmZnOHB5am5ZUVdHNVFidQ?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 20:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-27564-20260920",
     "first_seen": "2026-09-20",
     "last_updated": "2026-09-20",
     "status": "일반",
