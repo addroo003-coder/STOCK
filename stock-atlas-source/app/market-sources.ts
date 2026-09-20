@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "반토막 난 '텐배거' 두산에너빌리티⋯대미투자에 다시 쏠린 눈",
-      "office": "아이뉴스24",
-      "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/031/0001059753"
+      "title": "엇갈린 원전 관련주…한전기술 39% 뛸때 한국전력은 6% 하락",
+      "office": "서울경제",
+      "date": "20260920",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663780"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "군 복무 대신 AI 연구…대기업 병역특례 14년 만에 부활",
-      "office": "중앙일보",
+      "title": "HBM 수출단가, 5개월 만에 내렸다",
+      "office": "서울신문",
       "date": "20260921",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552708"
+      "url": "https://n.news.naver.com/mnews/article/081/0003682039"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1649,10 +1649,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "구자은 LS 회장 “AI 변화 속도 즐기며 생산성·고객가치 높여야”",
-      "office": "서울경제",
-      "date": "20260920",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663705"
+      "title": "구자은 LS 회장 “AI 시대 변화 속도 즐기자”",
+      "office": "동아일보",
+      "date": "20260921",
+      "url": "https://n.news.naver.com/mnews/article/020/0003749578"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
