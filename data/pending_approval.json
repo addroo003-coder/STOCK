@@ -14941,7 +14941,7 @@
     "source_count": 1,
     "id": "207940-기타-11425-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-21",
     "status": "일반",
     "stale": false
   },
@@ -35512,9 +35512,14 @@
         "press": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVNmcFF2ZEJJd2p3M29OSHRYXzVuRXRvcG9fTGx4RXJGRFZhY3FDMjFDZnlVc3A0MVlJNWtQLWVFSFhwdy14WjZXcEU4MmpIMDVnWWFQbEdVRVgtYzdKT1owVHBQT1J6RmpRVDBHNlZzY1IwdUo4SVZIZ0NpLWtJXzJzbTlKNGYx0gGcAUFVX3lxTE8wQXhKMFpDUjFZZ2VObG0tS1hoM19vYXNubUpEMjVZaVFialJsLTZfMVdEQmROSlo1MHA0QmhkRENpZnFELWplZHdlcnYtb3hWRTFMbmgzTExoRFY4ZzZic3JOMXd2MTdyT1A3aXR5NmZLYUY1N2V0UW1VTGlTamlEMUpteGhheWZQZ2RPeVVTNGtkMnQxRW15NjRXVw?oc=5",
         "pub_date": "Sun, 20 Sep 2026 23:53:00 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEF4SjBaQ1IxWWdlTmxtLUtYaDNfb2Fzbm1KRDI1WWlRYmpSbC02XzFXREJkTkpaNTBwNEJoZERDaWZxRC1qZWR3ZXJ2LW94VkUxTG5oM0xMaERWOGc2YnNyTjF3djE3ck9QN2l0eTZmS2FGNTdldFFtVUxpU2ppRDFKbXhoYXlmUGdkT3lVUzRrZDJ0MUVteTY0V1fSAZwBQVVfeXFMTzBBeEowWkNSMVlnZU5sbS1LWGgzX29hc25tSkQyNVlpUWJqUmwtNl8xV0RCZE5KWjUwcDRCaGREQ2lmcUQtamVkd2Vydi1veFZFMUxuaDNMTGhEVjhnNmJzck4xd3YxN3JPUDdpdHk2ZkthRjU3ZXRRbVVMaVNqaUQxSm14aGF5ZlBnZE95VVM0a2QydDFFbXk2NFdX?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 23:53:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "096770-실적-27801-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
@@ -36028,9 +36033,34 @@
         "press": "경기일보",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzajZqZDJiUTA3YzVXcEE4WF9PaE5uZGxHZ0VhdjNDTWt4T2lSU3dkY2x3QjhpaEk0QU14cnZFZVl6YXpKWFRLUHRMRko5cUdhZUVRNVl2NDRNZDA?oc=5",
         "pub_date": "Mon, 21 Sep 2026 10:04:49 GMT"
+      },
+      {
+        "press": "문화일보",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mbEZQU25YTkJKTXB4Vm1lSXJ3aVA1UEc0TkhFZXpCbzdISF9XVmhWQVNKcnZHYkxsTHp6Z2RESk45c2FscTZ4cGExeGZUaHQ5?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 08:54:26 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44SzN0TFFlLUJaenRoZ2s1QXRzUW1nQkY2WE1fQXBXdXh5MHhQSzVEUmU0RHJ0STVWSUhrempQRV9FempjV2pVYmU4QzV0cjQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 10:04:00 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83SVdhcTktZ2Nob0tfQmczbjVWNEZqYkVJcG9XM0Q5Y0lPMW1qSk9tUWZRUDUxNlNVSEJlTFpSQkZPQmdWeUZJdllLLXprc0I1Yl9ucmc1UHctSUQtVVJEZQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 09:26:03 GMT"
+      },
+      {
+        "press": "JTBC",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXNzZmbEswZXRETk1HNm02OXRIeFB2bS1xalo0Q0RaN0psazN0RkxoZkR5Ul9rRjltYjdjN2syMXNiLUdOUm9yYXVkT28zbXFBb3c?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 09:09:14 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsQ1g0M0pNekc0VzBOVDVNdHNXUnpjU1MtUlJhcTBCRmllWEhTRS1xMEZKaW1jWnNtNTZ0WFZka05fRUNWeGc?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 03:02:00 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 20,
     "id": "009150-기타-28226-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
@@ -37007,6 +37037,54 @@
     ],
     "source_count": 1,
     "id": "096770-기타-28827-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온전선 3.06% 하락…수상태양광 프로젝트 전선 공급 확대 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JYXZZUzhTR25FeUp5ZzNzNkwxd0JBYWE2T3ZiN1hqZDZfNnJ3a3ZsUXNiLWJqSmhId3k4Sk8tQXYzS3dMRjRudU1TZVN3RDFEYy0yVnBlTkZQc3RvRnR3ejl1bmxLU3U1Y0dFT1Z5cEhzQdIBckFVX3lxTE5JYXZZUzhTR25FeUp5ZzNzNkwxd0JBYWE2T3ZiN1hqZDZfNnJ3a3ZsUXNiLWJqSmhId3k4Sk8tQXYzS3dMRjRudU1TZVN3RDFEYy0yVnBlTkZQc3RvRnR3ejl1bmxLU3U1Y0dFT1Z5cEhzQQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 05:34:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-28858-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "파마리서치와 CCM 관계자들이 업무협약을 체결한 후 기념 촬영을 하고 있다.(제공=파마리서치) - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMi6wdBVV95cUxQVk1kZjNmZHBZbldoVlh5YzBaTWlJNmhUdDNZVUN2ckNsQnI3M2swbmZNcmhscm5uN3AxX0JQbTQyTF9NQ1c0SHNhQ1l1dkpxOFdGbzlxanRjYXNSVGJqSVFfU3NXQU1WQnhJM1lpdXNNTS1oNXdaSzdlZTZLSGkyTnBGVFdKZzA5MDI5UEZCVTRYbkloSHRkaXV5QUxFZmQxMzVUaTcyVW0wWkZsbXRSYmNtaWR2TUJzLWdWZmp1ZTduLXFDcExXMDBRdEQxaGttMU0tZ0dQV2lCQWxmUkw1Um9qT0ItVEZZcTJybmFPWTc2RFlrSXpXeGRla0E4aEdZOHhJZWpVZWp1Q0FWV2NPSWZ1UFNIc18xSGU5YmxSeHRRckhPc0x6RnZyV0VMVHlCcGVUd3RXSXFTaWhSSHlfM2R1a3ppdV96cDZwQTE3MjUtRGFkYWZrZkU0dGpzQVdUOHQ0X3d4WExncjB0OEc5VFdBSXF2WnRIaC16dk90NFVJbDRvY1R5eVNJQWZPWFc5TFp0NzhrQVVEbEJ4Q2J0VnduT1AwSnFEaWk3YjhrbU11RWtNSEJIZ29TdGtJMEp4cV9sSHlYdWRzaEhxR1U2NTBWQklBeVVQMzh2bHRfVHV2ZFIxR3hydmptQU5zVXNXYi1kSnV1cG5OdnR1QjM4MlhTaFBiM0EzM2d3aFlCWWVjc2Jrc28wUnp4dDBuODVWY0FiYUJYOWpFVFh2U1hiRjVnbkhYb1RZZHdPTGk1X0dMdGhXOWtObzFMaVNQWVdsVEM4LVR3akc0YmdkUHpyMm1fU0pDNURfMWJTZEZCczB1VHVWcE95QUpLbDhBVENJMnUtSGd1ZWkzSlZGWjMwYWd0NC1NOHJSOWVNd1o1bndub2FXZlo1NzRDT1VHYkJjMnE4STdkVi0tczVpbnRjaUJhbkZFbGFKbnF0REtuaU5fd1phbzR0QWZqRG5rdlYxaFhjRWkwUl8zSmVwT29IN0JMcjZjZHJnR1VOYnllcjZZeWVoV3R5aWlCOC1yUDF1MTZtUkNmX2U2dkpXTmc3eUp3T0VOX2QtTWtyQTVsb0t1MFdaTXkyUWs4RXQzSFRxMExmd2tPa2JNWDhDb29Cc184dUZzMTM4UExPcS10bWM3Y3R0TjdfSEdMZ3pZRkUxNmx4Y0daNFI2ZmRVS0NITTlKczNQSm1mRnZjZjg2TktGN3FhcktleldHRmJ3OVJ4SnVBM1pLaVFUWHRNOVhxS2stc01fWldhX0I0SnJyQkZBaG91NHMxRHZadjIzQi1tYXYzUm9VZXBnVVo0cUdsdEI5eEtyS29HcEs0?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 14:46:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "214450-기타-28895-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
     "status": "일반",
