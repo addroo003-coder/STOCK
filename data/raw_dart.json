@@ -1,5 +1,31 @@
 [
   {
+    "company": "하나머티리얼즈",
+    "stock_code": "166090",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
+    "rcept_no": "20260921900498",
+    "rcept_dt": "20260921",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921900498",
+    "is_correction": true
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[발행조건확정]증권신고서(채무증권)",
+    "rcept_no": "20260921000404",
+    "rcept_dt": "20260921",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000404",
+    "is_correction": false
+  },
+  {
     "company": "비에이치아이",
     "stock_code": "083650",
     "sector": "전기·전력",
@@ -91,6 +117,19 @@
     "is_correction": false
   },
   {
+    "company": "아스트",
+    "stock_code": "067390",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "채권은행등의관리절차해제              ",
+    "rcept_no": "20260921900573",
+    "rcept_dt": "20260921",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921900573",
+    "is_correction": false
+  },
+  {
     "company": "셀트리온",
     "stock_code": "068270",
     "sector": "바이오",
@@ -154,6 +193,19 @@
     "rcept_dt": "20260921",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000504",
     "is_correction": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
+    "rcept_no": "20260921900526",
+    "rcept_dt": "20260921",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921900526",
+    "is_correction": true
   },
   {
     "company": "서진시스템",
