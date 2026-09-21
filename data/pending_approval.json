@@ -33463,7 +33463,7 @@
     "sector": "바이오",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "에스티팜, 913억원 규모 올리고핵산 원료 공급계약 … \"역대 최대\" - biz.newdaily.co.kr",
     "source_type": "news",
@@ -33472,12 +33472,17 @@
         "press": "biz.newdaily.co.kr",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3lGN2dwRWM3Y1p6QkhZeXJZQ0ZZcE1nREpEa0RrbFRDMzBOZFdDdTlsMzktVWk2QkQ0R2YtRFVETU1pbmd5bUlxVVNQTDZZeURFTEw3bWRnd3R0czNmeVNXRlQtcmlxb3dzbDJFVzVTWGg5eVU1Y1hqeUZDWllnbtIBgAFBVV95cUxPM3lGN2dwRWM3Y1p6QkhZeXJZQ0ZZcE1nREpEa0RrbFRDMzBOZFdDdTlsMzktVWk2QkQ0R2YtRFVETU1pbmd5bUlxVVNQTDZZeURFTEw3bWRnd3R0czNmeVNXRlQtcmlxb3dzbDJFVzVTWGg5eVU1Y1hqeUZDWllnbg?oc=5",
         "pub_date": "Fri, 18 Sep 2026 07:33:25 GMT"
+      },
+      {
+        "press": "보건신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ueEtKVEtOcTB4dWV0QTJzYjBqYWZ1M3E4MUU5QV9SQ1Bob1hidmcyc2tXTFRSclJyTlo0M2FCTUNQMGxXME43bGRYYXNJb05EdWlDLXdNMXdjaHh0YXhDbVNHbw?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:48:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "237690-수주-25753-20260918",
     "first_seen": "2026-09-18",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-09-21",
     "status": "일반",
     "stale": false
   },
@@ -35097,9 +35102,14 @@
         "press": "PRESS9",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NZHV0YnU0bXo1bW02OGxSNlotZFNyN1d4MklIWEFXZi1pYjlPdHJDWUFfMWU0Ul9KYktQUEdvMVdwdEhNdDdVdnlQa1VnSTZGbExqU2VXa1F3c2hTNk5vSUZhRGo?oc=5",
         "pub_date": "Sun, 20 Sep 2026 23:24:36 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xUzlaQ2RkTExXTGJ0R3dBZV80TW5rYmZ0alg2NkhfczVURy1WM1ljS3o3bnBwUVhhVUkyQ1BHZUcwSTE3dTB0d042S2doRjZsZGFrTW1DM1VFWC1OeWFBMFVvSGZWUQ?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 23:24:36 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "237690-수주-27744-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
@@ -35112,7 +35122,7 @@
     "sector": "바이오",
     "category": "기술",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "IBK증권, 알테오젠 기업분석 개시…\"장기특허 독점효과 확대\" - yna.co.kr",
     "source_type": "news",
@@ -35121,9 +35131,14 @@
         "press": "yna.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xMndHZDF4ZkhNeEFHaFlfQjhmQWo0R3BRNjRSRnE4Tk81aHN4YXVTWllrYXRJVWVYazNkMjBqc3NjUjBnY2xkU0d2UF9OMGI3ZTFFMS0wZ1ZSQzjSAWBBVV95cUxNTzh3VkRYYS0tZ1ZkUjJIY0ZQRVlXVE5fUmRuQ2s3TDFEbmNSODF3UnJwZDB1X2kwbHNIUHZ0cWpEYkhXT0hFOTR6Mk5MOHVoTkV1dUpYSWc5dkFiWWkxajM?oc=5",
         "pub_date": "Sun, 20 Sep 2026 23:39:03 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1POHdWRFhhLS1nVmRSMkhjRlBFWVdUTl9SZG5DazdMMURuY1I4MXdScnBkMHVfaTBsc0hQdnRxakRiSFdPSEU5NHoyTkw4dWhORXV1SlhJZzl2QWJZaTFqM9IBYEFVX3lxTE1POHdWRFhhLS1nVmRSMkhjRlBFWVdUTl9SZG5DazdMMURuY1I4MXdScnBkMHVfaTBsc0hQdnRxakRiSFdPSEU5NHoyTkw4dWhORXV1SlhJZzl2QWJZaTFqMw?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 23:39:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "196170-기술-27749-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
@@ -35194,9 +35209,54 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01RnVZdmdJMEtnWmRKUU1QSGI4SS1lRGlhZmtBOUF6VjQwQzZ4MHdmNlRfTGtsZnVCZEVOR1RPenBTYWFjVW1BNzl0bEdLYlhDcTRzYkNtRzRXbktDLUNzOFJoSG1VeFpmYzZ0VDN3?oc=5",
         "pub_date": "Sun, 20 Sep 2026 23:53:00 GMT"
+      },
+      {
+        "press": "인더스트리뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CTWhRMkdqc2dXSU91Y2ZFb0x1Wkh5NXVBd3Y2d2dSb29MeU81djZqQktRMDRTR0xtdUhCNmtQcE11UlhnZkc0Zi03NnplNDNUZklfQ3EzbW1OcnY3emRfMjRqazJHVjd3TXkxS3pjdEpCQQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:39:33 GMT"
+      },
+      {
+        "press": "의학신문",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pekRzaEpVbEpCR2xtWGl4XzJScXhib3BjLV9mWms2OHFyZXRWcXpSOGRjdDBDUlZ5b2tGc2h0RVVRT1NDTkhtWGNEbUlQZThITGVSWEdrbjBXU3BEekJKaFlmMkRCQmZFLVE?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:38:20 GMT"
+      },
+      {
+        "press": "etnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PcWlDalhOMjJtTExTb2FDeG9tRTZiV29FclFqTXZrNlUzVXVpRFZPYWRzOHlzdHJFSzhnbk5sV2wzQUpHSEtmMTNsaWFPdw?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:31:35 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtZ19WYVFEWEtIWVhrWk5kRVhlNzdhMkJOMHZKM0xaSkFadFBPaHBHcXNYdk5CZDlmUkN5MlE0TmlnLUQ5cm1jZ3RSU3gzWndWdDNmcDRKbnNldEhkNGxVbDRvM1RvOWtF0gFoQVVfeXFMUG1nX1ZhUURYS0hZWGtaTmRFWGU3N2EyQk4wdkozTFpKQVp0UE9ocEdxc1h2TkJkOWZSQ3kyUTROaWctRDlybWNndFJTeDNad1Z0M2ZwNEpuc2V0SGQ0bFVsNG8zVG85a0U?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 23:52:39 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQeE9EWVdFOHk5Wnd5bHJxZ1hkOWUwRzZxR0lTdjZ5SjIzaVgzRGtsMHVhTk00dElqT01zdjd0TEpjUE9NLWtpVXpBSzZhWE9Eb3p0SlNSbnBob3R3VUNoNDBRUzVDd9IBZkFVX3lxTFBQeE9EWVdFOHk5Wnd5bHJxZ1hkOWUwRzZxR0lTdjZ5SjIzaVgzRGtsMHVhTk00dElqT01zdjd0TEpjUE9NLWtpVXpBSzZhWE9Eb3p0SlNSbnBob3R3VUNoNDBRUzVDdw?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 23:52:53 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eExYeHpRTnR6OUdlcXUxVkFwZlJ2dGczT1dnMjRnQ0VSYVdFRU1zdDRSTEY3ZHBDUTA3cG9pRXJiX3RxYVpQVWsyUGZwYUk2dDMwSnNybkU1NDQyZnJMS0RlVjJGSDMwWmstSQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:12:52 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNzFUd3hXdVZwTVl2dTRXcEw1VF9LbEp2elJyclhkUWRRcUdOeGEzQkhnTlJybnJYbUI1cVc1YzlMaTYwcURvUFpkbTN2WEQ4ZElPMjNRNllUUXgwSi1NNUhjYzg?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:53:08 GMT"
+      },
+      {
+        "press": "viva100.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxVXFuS0lzSDdnTEYyQTJqaXNBOWR5TWgzQU9WVXZZZWwweTk0d3Q3Wndya1V5a25naEkzR3QzbENJazVFXzJJSU9xZmFEaHlhZXVLZDg4emJjQQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:33:00 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmJMMTNWYzR6Rk56M1BHdzQ1bW1HYm85SXNaNjhOV2lkUEZyNTlVR2IzdldCSklFSXpLcS1rdkdqcUpWZGxoaE5obmJvZ05KbWozNWVPdUhSOS1Fekp2OWIyczdvR2tScm9PZGxVdkJfRlF6NERGYnFSa2ZHazhqWFF3?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:20:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 15,
     "id": "000100-기타-27763-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
@@ -35209,7 +35269,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "유한양행, 기초과학 오픈이노베이션 확대…YIP 76개 과제 지원 - PRESS9",
     "source_type": "news",
@@ -35218,9 +35278,14 @@
         "press": "PRESS9",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qNVlUUmY1N0p6VWNIUFNEUlhrTzhQRUVaYzJfenB1Yk1vSUwwaEZZaGw2dGo2ZU5rVlFPc3AzQk5RZGktT1lndU56QV9Odmd0Q0lCQW9RSVg5aVNDOUM0dUdtd3k?oc=5",
         "pub_date": "Sun, 20 Sep 2026 23:56:30 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jMWE3NW16LXpIT2lGNkt5WU9FRXo5a24tSU5iVVZnUTI2eENRTzQtTDFvN2JaRUtoYmlrdU92TGoxcmNPVGIxTm9BRFg3TERyM092TkVMRjFhUzc0?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:21:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000100-기타-27764-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
@@ -35390,6 +35455,343 @@
     ],
     "source_count": 1,
     "id": "247540-기타-27804-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반도체 후공정 훈풍... 하나마이크론, 패키징·테스트 외주 확대로 도약 박차 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZ3M4N3lGUEw3alZPTVM1SzdCVEJIeFRpbmtXd1ZvMjVmbVNXSFlhMTFPV1ZzWHJQa3c2ZXZWNFhDaWhDMkozdDR3TjVCUTIyTTcwTDdMQzRhdFFGRUs3Um5jdUtsaDg4ZWpSaGNDb3FuUFXSAXdBVV95cUxOeFlFVGhWeHJSdWk0WmRUY1pwWE1heXJxX1kyQ0ItbHpnczEzMTdYVjlIZlM3cnEtYzA3QUVRX0dBZ2JyZC0xVlhMQzh1ZllNNllNQjMyTG5ZNUIzT2ZaLUYyM3BDWDNCcGR2STQ1VmpfNjBJU3dNcw?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:34:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067310-기타-27864-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "이노스페이스, 캐나다 기업과 위성 발사서비스 유통계약 체결 - 매일경제 마켓",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jaXlBQlNwYjNpUTNzY0hvVVpSV0ZDRU4xZlhjcEFHa3gwaXZSYThyaW1nall4RnNmczcxTlZKNHFBczljNnVhMldNcnBWLVE0aWc?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:55:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "462350-기타-28031-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "이노스페이스, 캐나다 '알샛 스페이스'와 발사 서비스 유통계약 - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmxDeVVJNHdlMWpDZ1hxMW1KZlJiZEl0aFMweWVibGFnN21FcTN6N1pGYkJ4R3N4LVppTFREOVFpQVdFNmJXUE93S0pOQ0dPWnJ6a1k0NUV0OFlMbkZDaUQyS3JMWUxDb2g0NW9IbUM5RUtFMTRfWmdIQXlRQ2ZaUw?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 02:04:13 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KaEJIUGhLWEtuZHI3TmYwRGxqbGk5LS01WU4tQWx5UWhzc1ZFMGZEV3h6TVA3UVVYWmlLbUp4YUY5dEhKSGluUi1URVRUbEk?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:07:13 GMT"
+      },
+      {
+        "press": "충청타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kUFk0OUdEYjlwNDU3Z1FnTUUyQkowT0J5VFdOem9rVHdINTJmY25JZ0YyWUQyNDB3RTFvMWE3NnlMX09vQ055Wm5wa1pReWFNcmRLWXVfZExlVlNLTmZMWVEtYy1YTUsz?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:13:00 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "462350-기타-28032-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "이노스페이스, 캐나다 한빛 발사서비스 유통망 확보…북미 영업 확대 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53R0JTN2Vub0VlcEM1dTI4a2RuMC1Jc1p4VEFDZ0pfcVpuemhYUDJsNVczNXd6TUdTX2Z2R1NoaWt0Vm9HOGNMM0VZM0dVRGdsZlNIME4xaE45YnY5aTlNX1pGYzRNUWhlYV9tdS11djFOa2pucUlXUdIBeEFVX3lxTE53R0JTN2Vub0VlcEM1dTI4a2RuMC1Jc1p4VEFDZ0pfcVpuemhYUDJsNVczNXd6TUdTX2Z2R1NoaWt0Vm9HOGNMM0VZM0dVRGdsZlNIME4xaE45YnY5aTlNX1pGYzRNUWhlYV9tdS11djFOa2pucUlXUQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:10:56 GMT"
+      },
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQc3F2SnZna1g5OUJuaGVETi1LTXFmQW5TRldmcmF0dkU5bzZqUjFsRUhoWFRDQXMxX3U5QmpLRVBINC12eVUyQ0VFckdSTnBFQkp1UjJVeXU4TEpQemtDTTlZMjdTRVBfQXhyWGpZWG5JbXFHSTJFbkNuM190WjlBeENwa3pkc2FmLVhnS2E4VmpOamN1SGdITmYyNFhlLVUxeHNXQmZYNGYyS3pzUUQyVWl6bkc2dHAybXM3VWRXdDJxeW12aTVMdzJkd0RpWmdlNXVwMldiN1FZb3RMYU5ZclNkQmVTNVVLazRBTkZ1UzlJN0FmSGNDM3Q2OHM5TlBSbDdDaUg5WjhJOWU3NFlpZXB1SUU2QVpibVQ0dWVWUlk2UQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:32:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "462350-기타-28034-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "IBK투자증권 \"알테오젠, 피하주사(SC) 제형 전환 수요 확대\" - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSm5DMjR4dFpoRmVhdGtYYS1kZGNUX0I4NW1GQ1pjalpiaTluUDhNX1pDc3dWREN1OHd0T29VWVQ5c0xRTGt4TF9rNy1pUFBFNDVGQVgwTGlqX0tVaE93VTVXZWtPcVZvUnlfODk3d0wzN1dSY2Y4eHRUYjBMSXVoWlRhaDZOWlh3?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:35:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-28042-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "휴젤, 대만 톡신 점유율 35% 노린다…의료진 접점 확대 - mdtoday.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "mdtoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ocFg1VTM5MF90UVBJQWNmOTREWGlBQ1dXdXNsTXMwU1lYZDN4c2tNZHhpVG4xdUxQTTNTNlc5MkxPeVc0UGw0blFNTmI0RVZEZUZ4S1p3OEllMnhtZUY4a0hScmpYU0ZKSnBseQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:27:27 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-기타-28063-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]휴젤, '인베스터 데이 후기: 미국 직판 확대에 힘을 싣는 중' 목표가 370,000원 - 유진투자증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjM1I4TmZ1REhNblZPR3B0TUhFdlRMbU5Xc2xTc0s5d3BUS2lqODhSbTlfZVptX05EOGtHN2tUWXRhaVl4WXBQMHp0bXhqQ1pnM3hfQlpmTmlNVmJW?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:11:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-기타-28064-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "파마리서치, 중국 화장품 기업 CCM과 MOU 체결 - 팜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVDBkd3RkemlMZ094eGdaUzFqQ01EUFpNWVcta0ZoZG42Z2F5Z0FmdmM1UGtfaEhPZ0JEUGlfbEN5Tnh3aFlXWnU3eE9yb09NZDBJWlNhcFNZVnNrS0FQb1kySW4xMU91RXpuUQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:50:00 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hVW93bURfZkFZYThvN3F0eDZCUlV3WFR6ajFXWEdrNDFwOGJScmVid2p6REpfWDFpbm5qRXdYNnBFVF9QajlpYTlINWJiYzB3YTZVeFNjMng5d1d3Yll0N0xEVE4?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:09:24 GMT"
+      },
+      {
+        "press": "로이슈",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYcXZ0THpnaU9URHh4dEVIZE5xdEREUjZQY1RZZHdIUkZ0WjNWUmtPZDZabTF0NGFIaG9VSEVWRmRuNFA5cFl0dlVUQ0FUQUdVOUdtY25mNWR5My10UmxaSzZWeUZNUGVtMkpBT2JjajlnbkJpdTNFTVFn?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:50:36 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "214450-기타-28068-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "파마리서치·CCM, 리쥬란 중국 시장 확대 MOU - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tM2FSUC1GalE5NFR0TGN6XzI5MXNybGllTjQtcm42ck0yWFBrUHVYUzVQdjJEcFJkbnUtQW4xSzJWQjR4endvZUcyQWxaSjBhRU9oZGdLQXhKVHRxa0dMQ0hQZlhQYmxWZml1bGkydnrSAXRBVV95cUxQbFNOLVFoYlNUVkI3REtVWFdSZG9tVVh6ajZ3V21vRkVsekdsZnE0VjctM2Jic2ZPbmxKSXZZLTlOZ3pldTVyREdKSWRucThvN3BDVVh6MEZwQjBsMTl0QW9KV2ZkUWwwMzMycDJMdnZ0b2FWcg?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 01:46:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "214450-기타-28069-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "지씨셀",
+    "stock_code": "144510",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "지씨셀 ‘GCC2005’, 임상 1a상 환자 8명 중 5명서 종양 감소·소멸 확인 - 주간한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXMDExdlVUYTc1eV9tQ3RMN3NNSzNRYzNTOFhlbW5TajJhQmcwYkw1MFRvYjFtei16OFRUbUItWjlzZ2FBQ1d3dkJiUy1oTnlKVWs0cDRVS1VBR3JhM1BOZWRBTzhScHZvdXpZTS1USnbSAXRBVV95cUxQNWIxRmE4WE9WdDY3TlF0M0NrZUVVeWd0TldOTFhPWm1GXzRRWENrYkI5QWY1Z0c1cnp4ajRpY1hLcWNVemM4MEFFOHE1cmIwU0JjYldTeGQyaWg2Sndnc3ladmNLMTV0NDRjLUg5cy1WcnNwcw?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:44:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "144510-바이오-28085-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK이노베이션, 올 영업익 사상 최대치 전망에 주가↑ - gukjenews.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "gukjenews.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hLVdHZkNoU2hHMGMxZUJpaFBiczl4ZThxbURqVF85TGpjZjlmWXcxUHczSy1jMkhCUzE3M2Q4TjVQVmU3eHRRbVBUVG9Da1lEVlo3X3N3Q2pjTTdTeEFNMmJtVjZDLVZiZE9aSVRR?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:55:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "096770-기타-28102-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에코프로 등, 에코프로비엠 지분 47.40%로 확대 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYWZ4bnhSc0thTWdkczRvbDNwVXAxemFMcWRaWXB5MzdIMHUxSHdsR3Y5TmhaMkk5NHdzSXc4TVNtOUhHcjhOSGJBLVBnejVUMy13LXRwcDFNN1UxZS16UDNnNXhBV2ZRZkxKSHFMVU9NdkU?oc=5",
+        "pub_date": "Sun, 20 Sep 2026 22:38:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-28110-20260921",
+    "first_seen": "2026-09-21",
+    "last_updated": "2026-09-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "중앙첨단소재, 최대주주 엔켐 측 주식등 보유 비율 14.53% 유지 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGLVdiTkE2Zkc3a25mcDRPZUFiYjVnT3FDeFNOd3FyOEYyNzRmZXlMbGxsdmd0aXZBS3FiY3dmdW5YeWlVRTU3QnZITklyREg5MGppYXdtNzMzMUpubmNBMVBEcE9KOC1iMzdKWm1adEtqSlZjcjZsZmJfUQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:32:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "348370-기타-28120-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-21",
     "status": "일반",
