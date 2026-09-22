@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[단독]“이젠 로봇… 작고 정밀한 기술이 엡손의 힘”",
-      "office": "동아일보",
+      "title": "[스냅드래곤 서밋] 돈 맥과이어 퀄컴 CMO \"에이전틱 AI 시대 핵심은 파...",
+      "office": "디지털데일리",
       "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750193"
+      "url": "https://n.news.naver.com/mnews/article/138/0002242469"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1257,10 +1257,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "포스코퓨처엠, SK온에 1.1조 LFP 양극재 공급",
-      "office": "동아일보",
+      "title": "[경제 단신] 포스코퓨처엠·SK온 LFP 공급계약 외",
+      "office": "세계일보",
       "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750192"
+      "url": "https://n.news.naver.com/mnews/article/022/0004161232"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "“K방산 주춤… 현지 공급망 구축해 돌파구 찾자”",
-      "office": "조선일보",
+      "title": "구미 한화시스템 찾은 김승연 “독보적 국방 AI 키우자”",
+      "office": "서울신문",
       "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999972"
+      "url": "https://n.news.naver.com/mnews/article/081/0003682940"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG, MS와 데이터센터 중심 AI 파트너십 강화",
-      "office": "조선일보",
+      "title": "열 식히고, 배터리 꽂고… LG, MS·엔비디아와 ‘AI 동맹’",
+      "office": "서울신문",
       "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999967"
+      "url": "https://n.news.naver.com/mnews/article/081/0003682934"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "포스코퓨처엠, SK온에 1.1조 LFP 양극재 공급",
-      "office": "동아일보",
+      "title": "[경제 단신] 포스코퓨처엠·SK온 LFP 공급계약 외",
+      "office": "세계일보",
       "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750192"
+      "url": "https://n.news.naver.com/mnews/article/022/0004161232"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"인생에서 가장 비싼 술\"…SK하이닉스 신입 4명, 연수 중 음주로 해고",
-      "office": "주간조선",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061702"
+      "title": "AI 업고 eSSD 질주… 삼성·SK '승부수'",
+      "office": "머니투데이",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/008/0005417620"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
