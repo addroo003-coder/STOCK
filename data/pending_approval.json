@@ -36696,9 +36696,14 @@
         "press": "ksdaily.co.kr",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BSEpmQWJ3Rmwtd19idjRTUXhCeGJUaDYxSEdVeVR4Wm1EeXB0TTFfSGZQQjZVT05DejhvLUFvai0wTGZKRHQxMVZqSjA1cTl4RVR6V2pDb3RrS0E5Y2lZSFlQY1A1NlV1N1ZnRw?oc=5",
         "pub_date": "Mon, 21 Sep 2026 03:43:03 GMT"
+      },
+      {
+        "press": "ksdaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CY0oyeEd0LWhiT09nUWR2M0JmanZfSWUtejVTZDRVUDdiQzNyZW9xcFhfem4taUNBQlpVU1dmZmtrdmpkdzNoWkp4a3VDRjRjNnVZVzhYaWFiN1hiWkZqOS1NWFBiRzFyR1Vr?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 03:23:22 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "196170-기타-28509-20260921",
     "first_seen": "2026-09-21",
     "last_updated": "2026-09-22",
@@ -36812,7 +36817,7 @@
     "source_count": 4,
     "id": "214450-기타-28547-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "status": "일반",
     "stale": false
   },
@@ -38410,9 +38415,29 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tYjk2SkRYbl9ibUN2bktwUm9LRDNaa0R6MS1hTk5UWXBKa0plaHpRVDhTeXdYQmdENjlaWEtMLVFqeHk0ZXJySFdqenczTXFQSnlxUWQ5X3dZT0FIM0RYUVB4S05XUkMtWDdfcNIBckFVX3lxTFBraF9zX25xTERxcndUV1VXeFdJek50MW9rdDB3SS1zaXF1M1otanVuMjZnRGExek9xSmJ4WDBCX0NVRU00cmJOUGpGaXl3NWJvYlVQckd2UkM1b21NRG95S1VaNERDdnlCbjdBLWIxR1BNdw?oc=5",
         "pub_date": "Tue, 22 Sep 2026 08:33:45 GMT"
+      },
+      {
+        "press": "mt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KTDVndHNjUVk4MElEYkFnODNqazhxcWdUWFQ2b0Rra2hpYkFza0dBYmZJN096Nmw1NnRPMFk1OTl0MkU0OElGVFRRUXVjMXZ6dFlIWms3SDZ0T1JMaUpuekVvLXlUVmJyamhLeWpDRVItZ9IBckFVX3lxTE1KTDVndHNjUVk4MElEYkFnODNqazhxcWdUWFQ2b0Rra2hpYkFza0dBYmZJN096Nmw1NnRPMFk1OTl0MkU0OElGVFRRUXVjMXZ6dFlIWms3SDZ0T1JMaUpuekVvLXlUVmJyamhLeWpDRVItZw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 18:48:00 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84QTR6Ylc3SW9Vc1RrRXJLckE4Vk1tTTFObVpmNFEzd08xSkhGWFVFQVBXVTRrNHprWThFUzgzRGdSN1haeDZiZmc1U3Nlb0hYRUo5bGJRb1N4RHRKNXVkQTJEel8yTjNoS2NhWWJDUnl2amp6UUHSAWZBVV95cUxOUVhEN21jd3VrU1NTaDYwWGlJOG9qXzZNOWJhU0tHekhvd0Y0aXhWbWk3dTEwTUFfWEdwcXVqZXZIZzB5UUJHX3YxYlctS1VDdGJCZm45ejRuckRfWHBNYzFOOHk3LWc?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 15:30:00 GMT"
+      },
+      {
+        "press": "SBS Biz",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBldHhsR05GUnJBN0IxMUlaUEp4TkRWUTFJb0oyelpQWmlBRi1teWVZVjJuSmx1MVV1dkhoUjZQLTJGSm50ZS1nYlZObmw1LW1PcFZJ0gFYQVVfeXFMTWZqano2ZTRyVjEwVjlfWHQwdXNaX1BOaXJMaHUtMjVJLVhycEtQWUFENGZwODVLTGJSUWs4dWh1QW5pSTdObVI4cjRUNW1oRGQ2NEVaclRIaw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:57:00 GMT"
+      },
+      {
+        "press": "mt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0RW0zOVlMS2VwNjctMlhQZE43VmpJYUcwc0l0WmV1cFdhM3pVeWdLRHgtb2I2Z0Nfd3laeTlPMVRrT2dBaU9oSkxYV0d3eVdSSG1XRHQ0eWxhRS00dUlQakdneFRzUmdSWWNYZtIBckFVX3lxTFBvODI2T1o5RzRxbFdaSDJidDNUbDYxaVBvWEZZX2FSNm1COXBqdURiSkRuZnMwR2xCdHkydzBrT0hLWk9iQW1GQlRtcEVGUVJiaHlUT1NoUUtXRzZWTl9KNUVBT05JdUp3LTVhSWJtUi1XUQ?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:16:14 GMT"
       }
     ],
-    "source_count": 14,
+    "source_count": 18,
     "id": "003670-수주-29804-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
@@ -38630,6 +38655,150 @@
     ],
     "source_count": 1,
     "id": "066970-기타-29946-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"삼성전자, 목표가 63만원으로 상향…조정은 매수 기회\"-유안타 - 머니투데이 - mt.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "mt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fS1NJVUg5bHpoSXZ6RGM5M2owQUpNN09GMkU2a2h1WnFvSUdqRXEyUW90ZXZGbEZOSGYtcmF4NndpeHhBaGE4dVZmeXZmRzhOOF82MUt5djdBV2FhOGd3bFJBVkFTUlZw0gFuQVVfeXFMT3IwNWxtZkhsZW9Cc3Ixb0pjUGpiV3N6T0RNekMyRGtKRTJIM3RQQ0YwZ25rS2paQW9pRkJ5YkZjdnpBQlBzSDJGYjJDSk5yWERYbnZTYWZ3OWdjZW9LdkdtcnFNSERjR3hoQWJPS1E?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 23:00:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-29950-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"삼성전자 배당 막차는 28일\"…1,000주 보유 시 최대 460만 원 - 서울경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpcWRyb1ZOWTFFSWN1ZTJ4dzJjLXVsMy1LUE5nd3liYnV6cEtHa3lVamN1QXNSczhrc1NpQTdmVkVlaXdQMjVvemNjY1J5M0pnYUppOUd6THJuT1gyT3JZbFRzU3U?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 22:54:56 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-자본-29953-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠證 “삼성전기, AI 가속기 넘어 CPU까지 수혜 확대…목표가 220만원” - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObElub2ZHUG5jLXZMZnFxSlFTUWFOMTVoOUFnblAyQ214YXdvY3FyMnFwUGRMX0l2SjRPTHRZVUN6RU1fTlhzTFVsNmNNNEhQLVhlTTdfdkVpWUh2VmJsVmtQOGt1TG5FbHowSmtDVFlBZlJaTW5BeVVBTmY4VFIzRU9YSWZjN0tu0gGcAUFVX3lxTE5XTFMwdUQ3aDh5VG1VckZBTW9UdUl6cEpPcl9BTE5sUU5yYkNpRFFRRHJtRVRwSXJ6WFl3S0UwZ245Ull1VGwyZHlpSHl0QzRiLTZHY25UOUlsSTNJUnF5b2c5a3c3aGE3REY1U2dEdkNIQTlickdubFNPOEsxbEVJTWEzYk44SVBPdzRVODF4NUFnT2J2N1c4LVdETg?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 22:52:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-29971-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기 AI 제품 확대에 수익성 개선 전망…목표가 220만원 ↑-메리츠 - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcWVtTGxIWW9YRG1EYWFMNTZtXzNCS0tFaWpjMVVfUjBLUS0zcTNzSldFT1BpanhSOTBiLWh6NnhjYW9VRDNGZUdoVmNtdEotODk1N1UtQnJjdlhMQnAxTVFjdEp3cnFSaDBDRGJ5V2d5X0hqdHhGNkV4UUhqbWZ3OA?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 22:43:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-29974-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠證 “삼성전기, AI 수혜 CPU로 확산⋯목표주가 상향” - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YNXZZMWpPMnUxSkFaWVVZUjQzU0I5X2ZTZUdKLWhvLVRYYmFlcTZiR01IbzE3RUNPcEJyZ2ZSUmxaWlR4LW1xbUlJWHNGWG5rXzZ6elE0Umk0bnVLX3ZGblJldkdQcnBaRHZ3VGVuOFdzdw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 23:11:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-29975-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SKC, 앱솔릭스 지분 82%로 확대…어플라이드머티어리얼즈 실권주 추가 인수 - 디일렉",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5dVpjMTVoa25FRWhyUWlxVGZXUml6bUpISDhZalhYSUJQdlI5eFRxTk1uc1pXR1FlMjg5Wi1MNEIteXdUTU95LVNMaU9UQUhGS3NiZDVmOXRYNUEzZGNPR2lOX01KZw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 22:45:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-30032-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
     "status": "일반",
