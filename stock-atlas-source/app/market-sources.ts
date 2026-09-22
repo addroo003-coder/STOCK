@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "49조 만기에 73조 투자까지… 한전債, 채권시장 변수로",
-      "office": "파이낸셜뉴스",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/014/0005579908"
+      "title": "[단독]“이젠 로봇… 작고 정밀한 기술이 엡손의 힘”",
+      "office": "동아일보",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750193"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -557,10 +557,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "'칠천피 지지력 테스트'…개인 1.6조 '차익실현' 7017선 마감 [시황종...",
-      "office": "뉴스1",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/421/0009186922"
+      "title": "\"추석 전 현금 20% 챙겨라\"…김구라 채널서 제안한 포트폴리오 재편",
+      "office": "뉴시스",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/003/0014209306"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1257,10 +1257,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "포스코퓨처엠, SK온에 LFP 양극재 공급",
-      "office": "파이낸셜뉴스",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/014/0005579900"
+      "title": "포스코퓨처엠, SK온에 1.1조 LFP 양극재 공급",
+      "office": "동아일보",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750192"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "국산 전투기 KF-21 첫 양산기 공군 인도",
-      "office": "동행미디어 시대",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/417/0001159078"
+      "title": "김승연 회장 “한화 방산 경쟁력 좌우하는 핵심은 AI”",
+      "office": "조선일보",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999968"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "'한화방산 두뇌' 찾은 김승연 \"AI지휘통제로 국방역량 강화\"",
-      "office": "파이낸셜뉴스",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/014/0005579897"
+      "title": "“K방산 주춤… 현지 공급망 구축해 돌파구 찾자”",
+      "office": "조선일보",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999972"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG, MS와 동맹... AI 생태계 확장",
-      "office": "파이낸셜뉴스",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/014/0005579938"
+      "title": "LG, MS와 데이터센터 중심 AI 파트너십 강화",
+      "office": "조선일보",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999967"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "홍지선 국토장관, 첫 행보 부천대장…\"주택공급은 계획보다 실행\"",
-      "office": "뉴시스",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/003/0014209027"
+      "title": "포스코퓨처엠, SK온에 1.1조 LFP 양극재 공급",
+      "office": "동아일보",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750192"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
-      "office": "한국경제",
+      "title": "\"인생에서 가장 비싼 술\"…SK하이닉스 신입 4명, 연수 중 음주로 해고",
+      "office": "주간조선",
       "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335368"
+      "url": "https://n.news.naver.com/mnews/article/053/0000061702"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
