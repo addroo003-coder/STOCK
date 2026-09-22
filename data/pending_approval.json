@@ -35359,7 +35359,7 @@
     "source_count": 21,
     "id": "000100-기타-27763-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "status": "일반",
     "stale": false
   },
@@ -36701,7 +36701,7 @@
     "source_count": 1,
     "id": "196170-기타-28509-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "status": "일반",
     "stale": false
   },
@@ -38078,9 +38078,19 @@
         "press": "나눔경제뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44M3UzRElmZHRDa2JOQWxEQk9ybXpWdDBCaFdmUnNhNHV0TEUzYjloSWVYaTZJTURwdUowLWxUZXpldkJMTXFVeko0akU2SG0zc2NSdjhiU25NMVN2N2t4U1FiQ1l4ZGM2bE43Xw?oc=5",
         "pub_date": "Tue, 22 Sep 2026 04:53:15 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNm5rUFRuWnhGN0dSZi1Zb0RmQkRPZUJHNXg2Vlp5NGNYM3FkczNKVFRLdXg2YS1icjNBcWtiaERqazl1QWhDTWZpbFlJNmlPS3dvRzRNZm16NjRPZ1NVbFR1NDdzZXNaN0ZDS1MtQlVNdG5haHhjWkZIaXZiUFNEakd2aGrSAZgBQVVfeXFMTmxsbkpySjE0Vk4tY2t5Zy1mRU5lR1Z3T1lBVHpnLU1PR3hxQ3FlQ0pZX3g2UmJiaU8tSkJ4dXFQZ2szUkZzUnV1aHlMUEZWLVItOVFua1lxUDhhZlpBNklpLWUxVTJfZl9mZjNhU1c1Q1pvYkUwNzRQa3hNdEJVbE9wb25yYmdkQVVsRlkwWVZtRURWZDBnbXg?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 00:15:00 GMT"
+      },
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KR0dLSlBPZldzbEVaUFE2bmR1VVBTLTVNUmZtbGNaeE5XUzZWeWduM29RUVhGRnltR0ZOdjdfQnprMUp3ZGtnanp3M0tNdXkwcEpFMWZQQmE3WkJJNE00am5GNHU4ajdselRhYm8xRU1pTmZJ?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 00:18:50 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 11,
     "id": "373220-기타-29539-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
@@ -38345,9 +38355,39 @@
         "press": "페로타임즈",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BMGlSc0hKNG5GTTJXR0FZRUhvVmNtYS1TX1NHV2thRmhnRWVIU2JsaDcwZDMwMUFqUEVKZGNHMzdidE9CTzQxNlkxOFFaLVY5dlZoWlFVM2ZQMDZtdnppWjJvMFFSVDg0WTVFYw?oc=5",
         "pub_date": "Tue, 22 Sep 2026 13:02:45 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWEQ3bWN3dWtTU1NoNjBYaUk4b2pfNk05YmFTS0d6SG93RjRpeFZtaTd1MTBNQV9YR3BxdWpldkhnMHlRQkdfdjFiVy1LVUN0YkJmbjl6NG5yRF9YcE1jMU44eTctZ9IBZkFVX3lxTE5RWEQ3bWN3dWtTU1NoNjBYaUk4b2pfNk05YmFTS0d6SG93RjRpeFZtaTd1MTBNQV9YR3BxdWpldkhnMHlRQkdfdjFiVy1LVUN0YkJmbjl6NG5yRF9YcE1jMU44eTctZw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 15:30:00 GMT"
+      },
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91aHA1bk5JMW9rdlNWTjgzVnYzYy11azZOMXpUZThRUkRPWmIxWkpuVVBYQXNPTmtaaXI5a21jNy1uODJ0NTBqTWV3YVN5U1dKV3c?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:51:21 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vY3ZrZkI3aGxPdzhuSVBHNV9nTk1yTWJRc0N1ZnJ3enM3UjRtVXB3S3VZOXR0cHp5c05ZYWF5QXpYcWtHTnltVk5WbkgzVHM?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:38:41 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0cGxRbDZnUmMtdmo0VWJrTU0wZFFKZUdmWEZKT0k2dXNlX0xDTmhsdHc4Rm11eHhyY1JhOU5EUEVoeFBfa2c?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:38:41 GMT"
+      },
+      {
+        "press": "한경매거진&북",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kN3U5S1pYZGdvbVctMDViQWJHXzJ3RU9INjhyZ1RvQWhTWVpLamJfZzNINC1hUWhER0FjMHgwejlrUHBHd3QxTU5IYjE3cnA4U3Z2bFg2NG5WRG5CRHhSQjdwNGVTYWxzRG15Mw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:37:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IZ2VwaUQwXzlFNlV4R0t6alNMNVpsd3dxTDJ2cWtsdktsMkJEWlpIZ1l3dUs1UmROaU4yUXN1QnZqakpEWmlzZC1TUVU5QzQ?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:47:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 12,
     "id": "003670-수주-29804-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
@@ -38397,6 +38437,126 @@
     ],
     "source_count": 1,
     "id": "003670-수주-29811-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "갤럭시S26 '원 UI 9' 업데이트 지연, 삼성전자 \"국가별 완성도 높이기 위해 9월 내로 일정 변경\" - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VLXRBd2g3Tk1CdkE3M3hvN0hjYk1iZ3l1U3UyQWs0NDQ5UDEtNFdaazFfVGlmSUdkUXFkQTVRT1FEamUtUlB1NXFOR0tvaUpYQnpNdzNaZ3pWSHhvTldMLWt6aTNDSkRyTlFMNkVzWmdSVkE?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 07:03:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-29835-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[반도체] 한미반도체, 베트남 법인 청산…3년 적자 후 사업 구조 재편 - 굿모닝베트남미디어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "굿모닝베트남미디어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZFhNRUNKcG5WSzBzOFBGQ3J2czVNMEcwekFEaHVoVXM3UWMtMUNlMzNRT1BrZVNKOE51ckNFT2RVM1JpQjQwbFh2YXlvSU5XeGxfODMzamkwRW4zMmlsaFZnLXF5cmNZWU9pb0dDMk8?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 04:53:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "042700-리스크-29839-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "이노스페이스, 캐나다 알샛과 ‘한빛’ 발사서비스 유통계약…북미 영업망 확대 - dailian.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "dailian.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQc3F2SnZna1g5OUJuaGVETi1LTXFmQW5TRldmcmF0dkU5bzZqUjFsRUhoWFRDQXMxX3U5QmpLRVBINC12eVUyQ0VFckdSTnBFQkp1UjJVeXU4TEpQemtDTTlZMjdTRVBfQXhyWGpZWG5JbXFHSTJFbkNuM190WjlBeENwa3pkc2FmLVhnS2E4VmpOamN1SGdITmYyNFhlLVUxeHNXQmZYNGYyS3pzUUQyVWl6bkc2dHAybXM3VWRXdDJxeW12aTVMdzJkd0RpWmdlNXVwMldiN1FZb3RMYU5ZclNkQmVTNVVLazRBTkZ1UzlJN0FmSGNDM3Q2OHM5TlBSbDdDaUg5WjhJOWU3NFlpZXB1SUU2QVpibVQ0dWVWUlk2UQ?oc=5",
+        "pub_date": "Mon, 21 Sep 2026 00:32:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "462350-기타-29883-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "증설",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG에너지솔루션, 북미 현지 공장 가동률 'UP'...엔비디아 등에 ESS 공급 확대 전망 - lkp.news",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "lkp.news",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxYXNwdEE2QTRRRUltNGN6N3Z3ZV81MFluOGR1MXdrZEFfM0F1NXlTaVduWGI1dU9aVG0yaW1aUHg3akV6TFp5dng2dlVKWmZGUV93ckw0eEprMDJxTHJsY2sxc2rSAWdBVV95cUxOUk5VRDdJUExPUVpvM2R5a19UVGpzSnBrVXBMZERPTnQ5U3FpS2Nxd0JUMF9LV0VPU1FlLTN3T25YYklfLVhKUE1UVUlUUXdaTHV1SjU0NUQ3S0s0MVhyaHNVczVaZzdR?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:06:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-증설-29897-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SKC, SK넥실리스 신종자본증권 유동화대출에 8500억원 규모 자금보충약정 체결 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iZm5uMl81aGxwRVlwUll1dUkxS0J6UjNZbDc3TEtDOUU1WWNwdHZOOHI0c2hsTHh0YU8yWUpCWUNFM2dRcUYwWGpqSjNnMUtTbzZ2ekdFY0pXQlR6MXhLUTdySWJmb3BfbmVZaVJTelpjSU0?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 09:41:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-29910-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
     "status": "일반",
