@@ -37119,7 +37119,7 @@
     "source_count": 2,
     "id": "000100-기타-28804-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "status": "일반",
     "stale": false
   },
@@ -37543,7 +37543,7 @@
     "sector": "AI 반도체",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[특징주] 이수페타시스, AI發 PCB 수요 확대…하반기 실적 기대에 강세 - 메트로신문",
     "source_type": "news",
@@ -37552,9 +37552,14 @@
         "press": "메트로신문",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1COW9SWmR3SV81ZGZoRmtGcXNETmFtdFNZRTBzeW9NUVY3Tm1CMkdGalpoSjFXRFphRXBwUFNIY3I1VVkwb1drd2J3MGJicTZnSWpKcGVuZXhmb3htN2o5WA?oc=5",
         "pub_date": "Tue, 22 Sep 2026 01:23:06 GMT"
+      },
+      {
+        "press": "etoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50OHBLN3lGeXB6TVRlWFhwX2VPM29GYk5McTBwSTFLaHptclRUbl9kd05iNUV2QnFsQ2cyVFR6dXZNMTVLV0d6b2VPejIweE55b2FZVUpvWmlZRkczMkVxOGlQbkZTV002MkJWallZRGtNdw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 00:11:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "007660-실적-29178-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
@@ -37820,9 +37825,19 @@
         "press": "뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSUkItd3llZDN0bUd5c1ExbWZteHdTX2FCUnlCckt1eldTTDdIcE5YYWJHb2M0X25mczJldmRXVEhXUkZhWEZKNHVmNjI3NUJEdDRuVWVJM2QxRHAzU1MxcNIBZkFVX3lxTFA1VV9lTGNpQ1kwWmZDcV9neGpKekZEbmQ1WkNwdTRET3hWR0JiSzM2UUVEdVk2QWVEbjRaN2gtMHZsenJIQ3FCaWJ3VXI3NGtqYk9LVHkxWFN2SlRsdF9SVWhUQ3Z2dw?oc=5",
         "pub_date": "Mon, 21 Sep 2026 23:23:17 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dWNydmxxYm5tdDREZmxaR2JpVE9ROG53S0lTRHVuaFZvSDc0bkNKc3p5SlA3TUVQNkc2OWtvTXBaYmVGYU9PSzdLSQ?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 02:15:37 GMT"
+      },
+      {
+        "press": "뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEZCN2p2UDMyNGZ0cHZGT3VpZ3ZncXEwZHJoX1NlVlgwZ01kdzFxQmNkZTctSW5lajgzcTdTUTVKZUNkS2c3ZW9vSzg2X2xzRy1IZkhDbmxmbDVMUmR5QW5fUVdYMXRSSDMwTEtYSXhGOHFURGR2QW80UUNoUkZMN9IBgAFBVV95cUxOOEZCN2p2UDMyNGZ0cHZGT3VpZ3ZncXEwZHJoX1NlVlgwZ01kdzFxQmNkZTctSW5lajgzcTdTUTVKZUNkS2c3ZW9vSzg2X2xzRy1IZkhDbmxmbDVMUmR5QW5fUVdYMXRSSDMwTEtYSXhGOHFURGR2QW80UUNoUkZMNw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 02:02:24 GMT"
       }
     ],
-    "source_count": 19,
+    "source_count": 21,
     "id": "068270-기술-29479-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
@@ -38385,9 +38400,19 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IZ2VwaUQwXzlFNlV4R0t6alNMNVpsd3dxTDJ2cWtsdktsMkJEWlpIZ1l3dUs1UmROaU4yUXN1QnZqakpEWmlzZC1TUVU5QzQ?oc=5",
         "pub_date": "Tue, 22 Sep 2026 08:47:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRUpGdFRZMVBHaEd4U1VIaGpIcUNVRjRPalM1ZTN2Y3ZLRmo1YVE1aTF2bEJ1WHJ2ektPWTN0MlR3RkF0Y2xIZjFPRmp4YzE5NjlpeVFOdHNkcHQzNUVMOXVjR3M3WlB1NTFoNNIBckFVX3lxTE1KTDVndHNjUVk4MElEYkFnODNqazhxcWdUWFQ2b0Rra2hpYkFza0dBYmZJN096Nmw1NnRPMFk1OTl0MkU0OElGVFRRUXVjMXZ6dFlIWms3SDZ0T1JMaUpuekVvLXlUVmJyamhLeWpDRVItZw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 18:48:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tYjk2SkRYbl9ibUN2bktwUm9LRDNaa0R6MS1hTk5UWXBKa0plaHpRVDhTeXdYQmdENjlaWEtMLVFqeHk0ZXJySFdqenczTXFQSnlxUWQ5X3dZT0FIM0RYUVB4S05XUkMtWDdfcNIBckFVX3lxTFBraF9zX25xTERxcndUV1VXeFdJek50MW9rdDB3SS1zaXF1M1otanVuMjZnRGExek9xSmJ4WDBCX0NVRU00cmJOUGpGaXl3NWJvYlVQckd2UkM1b21NRG95S1VaNERDdnlCbjdBLWIxR1BNdw?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:33:45 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 14,
     "id": "003670-수주-29804-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
@@ -38557,6 +38582,54 @@
     ],
     "source_count": 1,
     "id": "011790-기타-29910-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "효성중공업",
+    "stock_code": "298040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "효성중공업, HVDC 핵심기술 기반 글로벌 전력망 시장 확대…미국·유럽 공략 강화 - economist.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "economist.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NbHA1aFJ4SUU5UlFYTGxnU0hkVlVjNTllc1dYelFETEVqMjNNWTZDekhfbW5rZ2c4YUh1Ry1YbHVldC11SzN1MG9fVEhWeGNqSEtZSDlYUWR0dy1JakVESU1R?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 09:47:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "298040-기타-29925-20260922",
+    "first_seen": "2026-09-22",
+    "last_updated": "2026-09-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최대 출하 기록한 엘앤에프, 10만9300원으로 1.67% 반등 - job-post.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "job-post.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DSzVLVzdrbHJYVklMRnNhVTVsME1xR3B5VHlWdFFPRTZWdHVfYVZrRVVGTEt3dTJJZDVnZTl2SDNzVUdDWTQ2VFRrTzhxSXFrTFlKN3ZDYU93S19vR0Rpa1pxSkFyZS1rRU1vcUdn0gFyQVVfeXFMUEZIWW50d1ZORk9lTHBuVE5hV1FjdE9nR0plaEUzVTRTMkxyaE9XQ3Z4dkNIS3ZmOXVrRW5vR05YZGZjLWl0QXVIaDhIQXR1NmtWNzR0S1J1MWhDenkxY1JmUUdTeEE2QkhORzl3VVdVbkNn?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 06:11:39 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-기타-29946-20260922",
     "first_seen": "2026-09-22",
     "last_updated": "2026-09-22",
     "status": "일반",
