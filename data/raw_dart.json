@@ -208,6 +208,32 @@
     "is_correction": false
   },
   {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20260923800045",
+    "rcept_dt": "20260923",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923800045",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260923800033",
+    "rcept_dt": "20260923",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923800033",
+    "is_correction": false
+  },
+  {
     "company": "한전기술",
     "stock_code": "052690",
     "sector": "원전·SMR",
