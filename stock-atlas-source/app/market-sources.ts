@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "[CEO A to Z] 신동빈, 롯데의 멈춰버린 '성장 시계' 다시 돌릴 승부수...",
-      "office": "이코노미스트",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103490"
+      "title": "이 대통령 “트럼프와 군함 건조 얘기 나눴다”…월가 ‘큰손’에 소...",
+      "office": "경향신문",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/032/0003472359"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "추석 코앞에 냉장고 '먹통'...삼성전자 업데이트 오류",
-      "office": "YTN",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410655"
+      "title": "‘박스권 탈출’ 삼성전자…주주환원 타고 ‘60만전자’ 기대감",
+      "office": "디지털타임스",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049716"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "두 배 커진 ESS 시장…LG·삼성·SK '1.18GW 수주전' 격돌",
-      "office": "아이뉴스24",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/031/0001061087"
+      "title": "두 배 커진 ‘정부 ESS’ 3차전… 국산화·안정성 ‘승부처’",
+      "office": "국민일보",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874868"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -837,10 +837,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
-      "title": "한화운용 \"반도체 퓨어 플레이어 ETF 3종에 투자하라\"",
-      "office": "동행미디어 시대",
+      "title": "美 장기금리 5%에도 증시 버틸까…원화 강세 땐 환율 1200원대 가능성",
+      "office": "이데일리",
       "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/417/0001159170"
+      "url": "https://n.news.naver.com/mnews/article/018/0006375174"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/240810/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "두 배 커진 ESS 시장…LG·삼성·SK '1.18GW 수주전' 격돌",
-      "office": "아이뉴스24",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/031/0001061087"
+      "title": "두 배 커진 ‘정부 ESS’ 3차전… 국산화·안정성 ‘승부처’",
+      "office": "국민일보",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874868"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "두 배 커진 ESS 시장…LG·삼성·SK '1.18GW 수주전' 격돌",
-      "office": "아이뉴스24",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/031/0001061087"
+      "title": "두 배 커진 ‘정부 ESS’ 3차전… 국산화·안정성 ‘승부처’",
+      "office": "국민일보",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874868"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“연휴 끝나면 주가 오른다” 22번 중 15번…이번에도 통할까? [투자3...",
-      "office": "헤럴드경제",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/016/0002701518"
+      "title": "메타 '뮤즈AI'가 스테이블코인 키운다 [박신영의 개장전 요것만]",
+      "office": "한국경제",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335814"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
