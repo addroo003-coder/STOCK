@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "대미투자 1호 텍사스 가스발전소… 걸림돌은 ‘최대 수요처’ 데이터...",
-      "office": "조선비즈",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194235"
+      "title": "대미 투자 첫발…두산에너빌·포스코인터 수혜 '기대감'",
+      "office": "데일리안",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136127"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "이 대통령 “트럼프와 군함 건조 얘기 나눴다”…월가 ‘큰손’에 소...",
-      "office": "경향신문",
+      "title": "Lee touts shipbuilding cooperation with Trump at New York investment ev...",
+      "office": "코리아중앙데일리",
       "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/032/0003472359"
+      "url": "https://n.news.naver.com/mnews/article/640/0000094652"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "‘박스권 탈출’ 삼성전자…주주환원 타고 ‘60만전자’ 기대감",
-      "office": "디지털타임스",
+      "title": "“삼성전자 딜 하나만 따면 일년 농사 끝난다”... ADR 발행설·분할설...",
+      "office": "조선비즈",
       "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049716"
+      "url": "https://n.news.naver.com/mnews/article/366/0001194297"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -501,10 +501,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=099320",
     "news": {
-      "title": "[스마트클라우드쇼 2026] 박원규 쎄트렉아이 전무 “AI 없이는 위성영...",
+      "title": "[인터뷰] 박원규 쎄트렉아이 전무 “위성 AI 분석 운용 단계인데… 韓...",
       "office": "조선비즈",
-      "date": "20260826",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188504"
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194298"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/099320/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "“개발 11년 만에 납품” KF-21 양산 1호기 출격",
-      "office": "한경비즈니스",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111278"
+      "title": "한화·KAI “장거리 공대공 유도탄 국산화”",
+      "office": "세계일보",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161497"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화에어로·KAI, KF-21 무장 국산화 협력 강화",
-      "office": "파이낸셜뉴스",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580462"
+      "title": "KF-21에 국산 장거리 미사일 단다…한화에어로·KAI 협력 ‘수출 정조...",
+      "office": "서울신문",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683270"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "우리금융, 포항 AI 데이터센터에 6000억 공급",
-      "office": "한국경제",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335709"
+      "title": "“새 먹거리는 원전·데이터센터”… 건설사 비주택사업 키운다",
+      "office": "세계일보",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161485"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
