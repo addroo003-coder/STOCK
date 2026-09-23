@@ -39769,7 +39769,7 @@
     "sector": "우주항공",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한국항공우주연구원-항공안전기술원, ‘국가종합비행성능시험장 공동운영 MOU’ 체결 - jnnews.co.kr",
     "source_type": "news",
@@ -39778,9 +39778,14 @@
         "press": "jnnews.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vbmk2NVNnTVFpeVNoeTdwNVQxZV9MR211WUJmb0NNU3B3Y2Frbm53Zkd4dUNmV0l0NW8zaTdiRzUydzJaQzlmRTVUOEFsWm81a09nTkdMSGg2Wkoz?oc=5",
         "pub_date": "Wed, 23 Sep 2026 03:46:11 GMT"
+      },
+      {
+        "press": "전남인터넷신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWkpkWXVrendmWk5lcW5hdGpnaktyME9jczByeDQtSC1NeXZNT0pMeXYtRFZEYWFtLXJpVWlEbl9uUFE3Z2ZSWUVOVkpIeFpuaFZDdkVNX1FtRWxSN2MwUlkzMl9wZHNTeTZB?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 04:37:32 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "047810-기타-30517-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-23",
@@ -39837,9 +39842,19 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYVVBMDNKd21ReEM4WFdGYmZ1akx4SEpkVUZmQzRhcC1vdUtvNWZKaUdLLXQyVFNvYlhnUzhmaThEWW5qVHNNQWhTaHIxcmdINFI1WU9aSjVlUENDWEFsQUVsTGpCLUpYemx1WtIBcEFVX3lxTFBCS0NTbGJaUG51SkVNVEFaSVVvR01VdUJZaExmTENWOTg5cXVOT0owT1hrY3NMaVVUUEZUV1dYbkNnTXlXSnZTVG15bGpaWjBGVGRhSmNNM015V1A2RTUtZE1UZE1FOG9acl9oUUFyUDY?oc=5",
         "pub_date": "Wed, 23 Sep 2026 06:01:52 GMT"
+      },
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaHFYVWVMNW01OFg1Q0V5blp0bkxycG9DNF9Yc1Q0b05xbFpySmx5NlZDM1h5SXQ2Z1ZSNlZvZ1VfX2ZGZzlBQm5fMUdzNkNrV01GZExKVTRpbFltMk13ZDRRSl9nTHE0eUg4?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 09:14:19 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0QzlCLUppQUoyenh2b19PV3czRERoMkpWV1lnY1FJaWE5blhFMmw2U1ZISFlZLUxIQmpleW16ZXJyNmt5REhOa0JmQk5ZSEk?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 06:03:00 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 10,
     "id": "068270-바이오-30551-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-23",
@@ -39876,7 +39891,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온 짐펜트라, 美 류마티스관절염 3상 시험계획 승인 [공시pick] - 조세일보",
     "source_type": "news",
@@ -39885,9 +39900,14 @@
         "press": "조세일보",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80c3pmRDU2R3dMei1rdmJVdjY2dFllS1puZkVKREl4U3VDeUFNTTdFVGxHamFGQXpNVlNmN0VMenZUZ2RHUGdVLWllNXhZSzB5cXRJWFJWVGhSVHhvM3A0WmFORmYwTkFYVHU1MFZEUkZCM2It?oc=5",
         "pub_date": "Wed, 23 Sep 2026 05:55:03 GMT"
+      },
+      {
+        "press": "joseilbo.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vVmZEeWhhaU94bjlOdnRvYldDVWpYNmhwVU1wb0Y1a09fX2lfdWNaY3hOZmZkV3VaM3V1SUZESVNLM0xfOXRpTG9MZmxVZUpQRUNIRGFCX0lmS3IxbTk0?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 05:55:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-30553-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-23",
@@ -40149,9 +40169,14 @@
         "press": "잡포스트",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84UlpBcG1qWjdiRDRKZHhvd3Bmckd3aC1BQ3lTYzFZa1AzQnEtVFhXR05LYzVuSXhURm56SE0tQUkycUFCVVYxTzA1VTlpeHgxNndSVzMyZmdHSU42cEFIakZyaGxQSjJyMmtJakdn0gFyQVVfeXFMT1luTkY5M2dFS0M0bng1aFhzVEU0d0RKMjJ5ZEJqZ0JEQjltc0RiZHRKQkFvUkFrcXhtVjNvaG1FOXl4WG03eGVOUVZLcHVlM0YwM29yV2piLWFhQk40bUUxbTRGU2JYNjltR0RULTR5TnVn?oc=5",
         "pub_date": "Wed, 23 Sep 2026 05:33:55 GMT"
+      },
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zbk5GOTNnRUtDNG54NWhYc1RFNHdESjIyeWRCamdCREI5bXNEYmR0SkJBb1JBa3F4bVYzb2htRTl5eFhtN3hlTlFWS3B1ZTNGMDNvcldqYi1hYUJONG1FMW00RlNiWDY5bUdEVC00eU51Z9IBckFVX3lxTE9Zbk5GOTNnRUtDNG54NWhYc1RFNHdESjIyeWRCamdCREI5bXNEYmR0SkJBb1JBa3F4bVYzb2htRTl5eFhtN3hlTlFWS3B1ZTNGMDNvcldqYi1hYUJONG1FMW00RlNiWDY5bUdEVC00eU51Zw?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 05:33:55 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000500-기타-30749-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-23",
