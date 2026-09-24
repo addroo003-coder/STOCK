@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"삼성전자, 10년 보면\"…파운드리 점유율 30% 전망 나온 이유",
-      "office": "뉴시스",
+      "title": "“1000주면 460만원”…삼성전자, 28일 배당 막차 타볼까[김미정의 머...",
+      "office": "디지털타임스",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/003/0014212846"
+      "url": "https://n.news.naver.com/mnews/article/029/0003049782"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "\"방산·조선 넘어 우주·AI로\" 김동관 한화 수석부회장, 경영 보폭 '확...",
-      "office": "뉴시스",
-      "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/003/0014212097"
+      "title": "韓-멕시코 MOU 17건 체결…광물·AI·방산·우주 협력",
+      "office": "서울경제",
+      "date": "20260925",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665271"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1649,10 +1649,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "LS전선·LS마린솔루션, 유럽 풍력 전시회 참가…해상풍력 시장 공략",
-      "office": "강원도민일보",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/654/0000202272"
+      "title": "AI 호황에 성과급 갈등도 커졌다…삼성·LS·SK 노사 '동상이몽'",
+      "office": "데일리안",
+      "date": "20260925",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136263"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "작년 추석 용돈 '금 vs 삼전닉스' 투자했다면…1년 뒤 가장 많이 웃은...",
-      "office": "더팩트",
+      "title": "AI 호황에 성과급 갈등도 커졌다…삼성·LS·SK 노사 '동상이몽'",
+      "office": "데일리안",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/629/0000536790"
+      "url": "https://n.news.naver.com/mnews/article/119/0003136263"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
