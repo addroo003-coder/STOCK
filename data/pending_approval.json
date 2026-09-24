@@ -324,7 +324,7 @@
     "rcept_no": "20260826800502",
     "id": "130660-수주-346-20260828",
     "first_seen": "2026-08-28",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "정정됨",
     "stale": false
   },
@@ -4199,7 +4199,7 @@
     "rcept_no": "20260831800269",
     "id": "000720-수주-4357-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "정정됨",
     "stale": false
   },
@@ -4701,7 +4701,7 @@
     "rcept_no": "20260831900758",
     "id": "178320-기타-4560-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "정정됨",
     "stale": false
   },
@@ -8791,7 +8791,7 @@
     "rcept_no": "20260902900118",
     "id": "083650-수주-6582-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "정정됨",
     "stale": false
   },
@@ -24771,7 +24771,7 @@
     "source_count": 3,
     "id": "052690-기타-19773-20260913",
     "first_seen": "2026-09-13",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -25286,7 +25286,7 @@
     "rcept_no": "20260914800220",
     "id": "326030-수주-20333-20260914",
     "first_seen": "2026-09-14",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -30729,12 +30729,17 @@
         "press": "koreasprint.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtSzBDYTlqb0k0aXVMaVB4LWx2eDJOMDF6dWs0WmxCNTllOU85Nmx2RkUyNjhJVnNxeDJnUE04ZU84TFlwSl9aRm8tNG8xNUdFVzNjTWppZGFzVWpuZXRxd2J2RzVxcUZ4TGNXR0tB?oc=5",
         "pub_date": "Wed, 23 Sep 2026 00:41:00 GMT"
+      },
+      {
+        "press": "개미신문",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtdVBJd3pVdk1sQlJ5cDJRaEkxRHc1aXJEYlhia2ZKelotV3VRald1b19CZGMtQmpUVGQzcDAxbzV1MHNzT3k5bmx3?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 23:07:15 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "066970-수주-24721-20260917",
     "first_seen": "2026-09-17",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -35394,7 +35399,7 @@
     "source_count": 23,
     "id": "000100-기타-27763-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -35893,12 +35898,17 @@
         "press": "jangup.com",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR0J0bzVrVnROWmctdnpwT0FIbVBkVHJXX0VYN0lSTEp4V0RKX08wNDNlZ0d3d2pQSHpBalRZNk56SlBGYmRZRml2Y0hGMGRpejdCM09YUXpoWjc0enhpVkZGTlY1Zw?oc=5",
         "pub_date": "Tue, 22 Sep 2026 01:37:27 GMT"
+      },
+      {
+        "press": "장업신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUVlaQU9iYloySFVqSC14VFFWcTFvcllaM0hLVDFGV0ltSFRvS0hjN1JacnVjZ0IyZ2pLbzZDX2w4enlpc3BINzVqZXBIdFBsbjZMaU9OUjUwSkpBMlhxMGN2Ulowazg?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 01:37:27 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "214450-기타-28068-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-22",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -36183,7 +36193,7 @@
     "source_count": 21,
     "id": "009150-기타-28226-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -36260,7 +36270,7 @@
     "source_count": 2,
     "id": "298040-기타-28256-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -36717,7 +36727,7 @@
     "source_count": 2,
     "id": "237690-수주-28504-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -37530,7 +37540,7 @@
     "source_count": 1,
     "id": "403870-실적-29094-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -37554,7 +37564,7 @@
     "source_count": 1,
     "id": "330860-기타-29125-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -37607,7 +37617,7 @@
     "source_count": 2,
     "id": "007660-실적-29178-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -37684,7 +37694,7 @@
     "source_count": 2,
     "id": "001440-수주-29279-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -37708,7 +37718,7 @@
     "source_count": 1,
     "id": "277810-실적-29322-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -37732,7 +37742,7 @@
     "source_count": 1,
     "id": "454910-리스크-29339-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38055,12 +38065,17 @@
         "press": "메디소비자뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VWpha0tRNVVrVmhsUjZteWl6bUlhd0haYW5XbUxyaGtFRW82UUt0LXN1R29haWtCVVZfUm0zcWtBRElNRXZOanNFNldfUzNXMWxaMS0zSVYxQndFbkNfNDJxS094eHBUaHdLSlZRUGxtQdIBdkFVX3lxTE9XODFfVFUxS2dlczlDS0dBZ092S0xScVdfZHpSeWlYd0VwOHV3aFhHakVVYVRYWUJOY2xQdmQ5M3liY3hUMVBDd1ZqdmVZRUFpVzVheE1jRERvNjJoVmh4ZnZHSFFOaGt5MUtlWU1rV0VJTkg0bUE?oc=5",
         "pub_date": "Mon, 21 Sep 2026 23:58:39 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nclRKOWptby1fZ2NJLXN6dVZZU2xpNVNsZmlqYmZmWUd6cXFXeXkwbnlqMnQ4bmZNcy1hbE9zdnJnYWdxUTU3N3o1dmlSQkt2V05USkZtanhIdWdYRS1vY2IxeHdRaFg4dFU2Y25IdWNTWFpBeTkw0gF3QVVfeXFMTWdyVEo5am1vLV9nY0ktc3p1VllTbGk1U2xmaWpiZmZZR3pxcVd5eTBueWoydDhuZk1zLWFsT3N2cmdhZ3FRNTc3ejV2aVJCS3ZXTlRKRm1qeEh1Z1hFLW9jYjF4d1FoWDh0VTZjbkh1Y1NYWkF5OTA?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 00:16:12 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 13,
     "id": "214450-리스크-29529-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38084,7 +38099,7 @@
     "source_count": 1,
     "id": "199800-기술-29537-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38182,7 +38197,7 @@
     "source_count": 1,
     "id": "373220-기타-29540-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38232,7 +38247,7 @@
     "rcept_no": "20260922800581",
     "id": "003670-수주-29590-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38328,7 +38343,7 @@
     "source_count": 1,
     "id": "214450-기술-29786-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38352,7 +38367,7 @@
     "source_count": 1,
     "id": "373220-리스크-29793-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38711,7 +38726,7 @@
     "source_count": 1,
     "id": "066970-기타-29946-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38735,7 +38750,7 @@
     "source_count": 1,
     "id": "005930-기타-29950-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38788,7 +38803,7 @@
     "source_count": 2,
     "id": "009150-기타-29971-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38860,7 +38875,7 @@
     "source_count": 1,
     "id": "011790-기타-30032-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -38966,7 +38981,7 @@
     "source_count": 2,
     "id": "009150-기타-30073-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39000,7 +39015,7 @@
     "source_count": 3,
     "id": "009150-기타-30075-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39029,7 +39044,7 @@
     "source_count": 2,
     "id": "009150-기타-30077-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39117,7 +39132,7 @@
     "source_count": 9,
     "id": "006260-기타-30100-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39189,7 +39204,7 @@
     "source_count": 1,
     "id": "001440-기타-30113-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39213,7 +39228,7 @@
     "source_count": 1,
     "id": "000500-기타-30115-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39302,7 +39317,7 @@
     "source_count": 14,
     "id": "060370-기타-30122-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39326,7 +39341,7 @@
     "source_count": 1,
     "id": "117730-수주-30153-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39374,7 +39389,7 @@
     "source_count": 1,
     "id": "237690-기타-30216-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39497,7 +39512,7 @@
     "rcept_no": "20260923900334",
     "id": "475400-수주-30284-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "정정됨",
     "stale": false
   },
@@ -39523,7 +39538,7 @@
     "rcept_no": "20260923800359",
     "id": "068270-바이오-30288-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39571,7 +39586,7 @@
     "source_count": 1,
     "id": "240810-기타-30305-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39600,7 +39615,7 @@
     "source_count": 2,
     "id": "009150-기타-30367-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39629,7 +39644,7 @@
     "source_count": 2,
     "id": "353200-실적-30373-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39653,7 +39668,7 @@
     "source_count": 1,
     "id": "006260-기타-30398-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39677,7 +39692,7 @@
     "source_count": 1,
     "id": "006260-기타-30400-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39711,7 +39726,7 @@
     "source_count": 3,
     "id": "034020-기타-30435-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39740,7 +39755,7 @@
     "source_count": 2,
     "id": "034020-기타-30437-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39764,7 +39779,7 @@
     "source_count": 1,
     "id": "052690-기타-30483-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39867,7 +39882,7 @@
     "source_count": 11,
     "id": "068270-바이오-30551-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39891,7 +39906,7 @@
     "source_count": 1,
     "id": "068270-기타-30552-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39920,7 +39935,7 @@
     "source_count": 2,
     "id": "068270-기타-30553-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39944,7 +39959,7 @@
     "source_count": 1,
     "id": "068270-기타-30554-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39968,7 +39983,7 @@
     "source_count": 1,
     "id": "068270-기타-30556-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39992,7 +40007,7 @@
     "source_count": 1,
     "id": "298380-기타-30583-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40021,7 +40036,7 @@
     "source_count": 2,
     "id": "144510-실적-30597-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40045,7 +40060,7 @@
     "source_count": 1,
     "id": "373220-기타-30611-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40074,7 +40089,7 @@
     "source_count": 2,
     "id": "373220-기타-30615-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40098,7 +40113,7 @@
     "source_count": 1,
     "id": "348370-기타-30657-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40122,7 +40137,7 @@
     "source_count": 1,
     "id": "348370-기타-30658-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40146,7 +40161,7 @@
     "source_count": 1,
     "id": "095610-기타-30706-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40170,7 +40185,7 @@
     "source_count": 1,
     "id": "009150-기타-30733-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40199,7 +40214,7 @@
     "source_count": 2,
     "id": "000500-기타-30749-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40223,7 +40238,7 @@
     "source_count": 1,
     "id": "117730-정책-30772-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40247,7 +40262,7 @@
     "source_count": 1,
     "id": "105840-기타-30789-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40349,7 +40364,7 @@
     "source_count": 3,
     "id": "068270-기타-30812-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40373,7 +40388,7 @@
     "source_count": 1,
     "id": "068270-바이오-30813-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40397,7 +40412,7 @@
     "source_count": 1,
     "id": "326030-수주-30823-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40440,12 +40455,17 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhR2Q0Y2RjUFdXRUZibnRSMEJZWGdYVnJnOG1XbzdxdE1CUE9xTWNGRVJMN2l5VE5rYXV2bnV5ZklzRXBoYkx4WGxtZUJCX1k?oc=5",
         "pub_date": "Wed, 23 Sep 2026 21:00:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CM2lKYjZqeWJycWdkRnlpQl96MzhEaHFETjRQNVdvb2VGSnNHUTRSTEpocXczbXZybzBYcVlmcjhXWFB5UkE?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 21:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-30914-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40455,7 +40475,7 @@
     "sector": "AI 반도체",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "마이크론, 매출 또 신기록 쓰나…HBM4로 삼성·SK하이닉스 ‘맹추격’ - dt.co.kr",
     "source_type": "news",
@@ -40464,12 +40484,17 @@
         "press": "dt.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TZXMwTmtrREtnU2hsemJFQ0JRb0xDdkE5Z1l5V2hsQTdWVWNDYUdGR1lmeVQ1MTd4d2dFWjIycGtUN1pqSTUxLUlua015Zw?oc=5",
         "pub_date": "Wed, 23 Sep 2026 21:00:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rbkNVZGpvOFZRVEdWYXVGeGNSZF9FRHBnazdLN3VrSXFJZTBZLVNKUF9iYUJMQlBfamNDVzZrdkdaVHYzaFAzN2N5NjA2ZjVNeHgwRQ?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 21:01:30 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-실적-30918-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40493,7 +40518,7 @@
     "source_count": 1,
     "id": "083650-수주-30939-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40517,7 +40542,7 @@
     "source_count": 1,
     "id": "000720-기타-30947-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   }
