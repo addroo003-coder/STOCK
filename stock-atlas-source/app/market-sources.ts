@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"성과급만 6억씩, 의자는 300만원짜리로\"…삼성전자, 성과급 세부안 추...",
-      "office": "아시아경제",
-      "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820782"
+      "title": "\"삼성전자, 10년 보면\"…파운드리 점유율 30% 전망 나온 이유",
+      "office": "뉴시스",
+      "date": "20260925",
+      "url": "https://n.news.naver.com/mnews/article/003/0014212846"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1439,10 +1439,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=051600",
     "news": {
-      "title": "한전KPS, 남아공 케이프타운대에 장학금 1억6천만원 전달",
-      "office": "연합뉴스",
-      "date": "20260918",
-      "url": "https://n.news.naver.com/mnews/article/001/0016321705"
+      "title": "한전KPS, 인니 수력발전 지분 인수…“첫 해외재생에너지 투자”",
+      "office": "부산일보",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/082/0001399867"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/051600/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'빅쇼트' 버리, 또 반도체 공매도 확대…”2년 내 메모리 공급난 끝난...",
-      "office": "이코노미스트",
-      "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103512"
+      "title": "작년 추석 용돈 '금 vs 삼전닉스' 투자했다면…1년 뒤 가장 많이 웃은...",
+      "office": "더팩트",
+      "date": "20260925",
+      "url": "https://n.news.naver.com/mnews/article/629/0000536790"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
