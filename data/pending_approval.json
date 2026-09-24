@@ -26294,12 +26294,17 @@
         "press": "koreasprint.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dkRyN1hpV0RkRnI3WFpfOERWMnBZQ1R0YkVldlE1amlEWDE4M2RELUJGaE5GRld2ZjNhYTZ6VlVaQll6YmN2UG1Fd2VBZk4xa0pjdVR2TE14LUpkdHZWQ0dNeThmSEk2cnlkSnNB?oc=5",
         "pub_date": "Fri, 18 Sep 2026 16:18:00 GMT"
+      },
+      {
+        "press": "kmkj.kr",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwcDZSTlNObHdmVWNXTGZ0dlBKSDdaZ3dUa3YyVXFZdjZFNGY2ZjlwaHdXSlpPNklJR29zOTJIV016NUVsMFJkV2RhMDRYNzNQZTZMc1AzLUdsRlNlbllEV2p3WdIBZ0FVX3lxTFA3TktNVzAzTVpqSzFLYUpiT2RTMHljT1hmU0l5TXNxcFJtdGp0bUdYQ1RHYy1fczVncXFDdU9jRXV4OFNsWmpSQlJHSG9RSEpfV21FdDhqT1pJWXRXNFlPWlI2TFd2ckk?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 18:10:00 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 13,
     "id": "000500-기타-21334-20260915",
     "first_seen": "2026-09-15",
-    "last_updated": "2026-09-20",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -26431,9 +26436,14 @@
         "press": "kmkj.kr",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3TktNVzAzTVpqSzFLYUpiT2RTMHljT1hmU0l5TXNxcFJtdGp0bUdYQ1RHYy1fczVncXFDdU9jRXV4OFNsWmpSQlJHSG9RSEpfV21FdDhqT1pJWXRXNFlPWlI2TFd2cknSAWdBVV95cUxQN05LTVcwM01aaksxS2FKYk9kUzB5Y09YZlNJeU1zcXBSbXRqdG1HWENUR2MtX3M1Z3FxQ3VPY0V1eDhTbFpqUkJSR0hvUUhKX1dtRXQ4ak9aSVl0VzRZT1pSNkxXdnJJ?oc=5",
         "pub_date": "Wed, 23 Sep 2026 18:42:40 GMT"
+      },
+      {
+        "press": "kmkj.kr",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwcDZSTlNObHdmVWNXTGZ0dlBKSDdaZ3dUa3YyVXFZdjZFNGY2ZjlwaHdXSlpPNklJR29zOTJIV016NUVsMFJkV2RhMDRYNzNQZTZMc1AzLUdsRlNlbllEV2p3WdIBZ0FVX3lxTFA3TktNVzAzTVpqSzFLYUpiT2RTMHljT1hmU0l5TXNxcFJtdGp0bUdYQ1RHYy1fczVncXFDdU9jRXV4OFNsWmpSQlJHSG9RSEpfV21FdDhqT1pJWXRXNFlPWlI2TFd2ckk?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 18:10:00 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 11,
     "id": "229640-기타-21344-20260915",
     "first_seen": "2026-09-15",
     "last_updated": "2026-09-24",
@@ -30744,9 +30754,14 @@
         "press": "개미신문",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtdVBJd3pVdk1sQlJ5cDJRaEkxRHc1aXJEYlhia2ZKelotV3VRald1b19CZGMtQmpUVGQzcDAxbzV1MHNzT3k5bmx3?oc=5",
         "pub_date": "Wed, 23 Sep 2026 23:07:15 GMT"
+      },
+      {
+        "press": "대한청년일보",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJY29aTVRucEJHdUxvaUN2bXpKcUs4YXpERzYyTTZtTEtSZURKOHBKd09ZSnNzcldSLW5BNS00MXhmWkk?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 22:32:29 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "066970-수주-24721-20260917",
     "first_seen": "2026-09-17",
     "last_updated": "2026-09-24",
@@ -40850,6 +40865,54 @@
     ],
     "source_count": 1,
     "id": "006400-기술-31335-20260924",
+    "first_seen": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS그룹, 중앙아시아 사업 확대…통신 인프라·핵심광물 공급망 공략 - 웹이코노미",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "웹이코노미",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMQ1pYb3F1d2Z6V3VZS0tLaXotUzAzTWlnUjlXazJ1bUt1eW4tRHNJeURZZVBBVEVqbnFoRHpkaXlpMFN1THdiWW42WVRpOHVNa1dMZnkxTWFTdmNWQjNMdlhndVdKWFVKV0M0YUR5NXYtZw?oc=5",
+        "pub_date": "Thu, 24 Sep 2026 11:01:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-31381-20260924",
+    "first_seen": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, ‘짐펜트라’ 류마티스 관절염 적응증 확대 추진…美 3상 계획 승인 - asiatoday.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "asiatoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MT0lkbDJabnN1Y2l0UmdfTDJiVlZ1VHBQMUhMa1dXU3BPalRwd3R6TDNGOURCTmdyU2FobFY0OUlRbl80aTdOMTFpNXR2cmRjdEsyYlVFM20xcE5GaUExSEs1WHNCS05VMGRUMTFn?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 06:23:37 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-31414-20260924",
     "first_seen": "2026-09-24",
     "last_updated": "2026-09-24",
     "status": "일반",
