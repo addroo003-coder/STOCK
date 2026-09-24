@@ -25614,7 +25614,7 @@
     "source_count": 2,
     "id": "326030-수주-20682-20260914",
     "first_seen": "2026-09-14",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40356,7 +40356,7 @@
     "source_count": 3,
     "id": "068270-바이오-30810-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40385,12 +40385,17 @@
         "press": "fnnews.com",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VR1psekM4WC1neEJvYjQxOHYwdkh5N0JPZGtfMU5rN3VOYUgxT00tWE1UekZHakhJRnZ6SUpDR1kxbkR0Zkc3MUpKMkZqNFhwVHVJOWZzSmxfdw?oc=5",
         "pub_date": "Wed, 23 Sep 2026 06:01:11 GMT"
+      },
+      {
+        "press": "조세일보",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vVmZEeWhhaU94bjlOdnRvYldDVWpYNmhwVU1wb0Y1a09fX2lfdWNaY3hOZmZkV3VaM3V1SUZESVNLM0xfOXRpTG9MZmxVZUpQRUNIRGFCX0lmS3IxbTk0?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 05:55:03 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "068270-바이오-30811-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -40918,6 +40923,30 @@
     ],
     "source_count": 1,
     "id": "068270-기타-31414-20260924",
+    "first_seen": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, ‘짐펜트라’ 류머티즘 관절염 美 임상3상 승인…적응증 확대 나서 - thebionews.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "thebionews.net",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYVVBMDNKd21ReEM4WFdGYmZ1akx4SEpkVUZmQzRhcC1vdUtvNWZKaUdLLXQyVFNvYlhnUzhmaThEWW5qVHNNQWhTaHIxcmdINFI1WU9aSjVlUENDWEFsQUVsTGpCLUpYemx1WtIBcEFVX3lxTFBCS0NTbGJaUG51SkVNVEFaSVVvR01VdUJZaExmTENWOTg5cXVOT0owT1hrY3NMaVVUUEZUV1dYbkNnTXlXSnZTVG15bGpaWjBGVGRhSmNNM015V1A2RTUtZE1UZE1FOG9acl9oUUFyUDY?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 06:01:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-31536-20260924",
     "first_seen": "2026-09-24",
     "last_updated": "2026-09-24",
     "status": "일반",
