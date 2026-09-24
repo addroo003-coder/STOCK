@@ -37919,7 +37919,7 @@
     "source_count": 1,
     "id": "068270-기타-29481-20260922",
     "first_seen": "2026-09-22",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39156,7 +39156,7 @@
     "source_count": 1,
     "id": "006260-기타-30102-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39312,9 +39312,14 @@
         "press": "인더뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0T2hac3p4YWdzakxrbHUtSkZIbTQ2bkVfWHVIOW0zN19taXVKNUJYaWNXV2M1eDByN1ZvVkd5QjZKWG1MV0dBc3pydEptaW93d05PRmNtaXRvZlFveHZubEM1V3k?oc=5",
         "pub_date": "Wed, 23 Sep 2026 01:50:58 GMT"
+      },
+      {
+        "press": "일요주간",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84bzg1dlpEZk9zb0NyNGV4MXBMX1M3OU4tNGNEMXg1aElLUnJFbDFaUmtOWm5KTW5SbGxiSHAya1NUVlZvTUt3Z3hNclBjaU9FQVMyaG5zMHJLQzVLYzBrVDZvaVVqdW5UX215cTNwaWw0SVdMdUpvUQ?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 02:45:29 GMT"
       }
     ],
-    "source_count": 14,
+    "source_count": 15,
     "id": "060370-기타-30122-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-24",
@@ -39365,7 +39370,7 @@
     "source_count": 1,
     "id": "012450-기타-30192-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
   },
@@ -39663,9 +39668,14 @@
         "press": "매일일보",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLR1B5M3BKc2NvNjdOckJidndDdHJnNERWakZZbWc3ZDJaSGJjWlNmNURNd3FlTUd3MllXQzZoNUVXVjlMZmZ2ZEd1bzNXZVV0U3p1YXNzMVhnWUwwNG9fMWdJMljSAWhBVV95cUxQdFlIVXJlM0FvSFhid25SUXJqb05SSmphenJWWU1qY0tFS2RNaGJFN29UaWNvMnU5dXBDcEtBSnAzY3g3OGJOODIxZExYMXhHREdnQ2JNdVdRVUZsTi1ablY1aVFsRU5ldA?oc=5",
         "pub_date": "Wed, 23 Sep 2026 04:58:45 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0WUhVcmUzQW9IWGJ3blJRcmpvTlJKamF6clZZTWpjS0VLZE1oYkU3b1RpY28ydTl1cENwS0FKcDNjeDc4Yk44MjFkTFgxeEdER2dDYk11V1FVRmxOLVpuVjVpUWxFTmV00gFoQVVfeXFMUHRZSFVyZTNBb0hYYnduUlFyam9OUkpqYXpyVllNamNLRUtkTWhiRTdvVGljbzJ1OXVwQ3BLQUpwM2N4NzhiTjgyMWRMWDF4R0RHZ0NiTXVXUVVGbE4tWm5WNWlRbEVOZXQ?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 05:09:51 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-기타-30398-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-24",
@@ -39877,9 +39887,14 @@
         "press": "The Pharma",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmNuYjlLd1VvcVMwUVFKQi1nU1ZfbHVEemJqWTdZZ3p2V1lBV3JRWUhvM1p6c1BZMzZReVB5MEpCcXVXekpsMGF2d3IyQmNHUmVXTGNzYUx4QVpwMHRoWmtoREdhOEtGdTRXWTNFVDhNQVJTSWR0TV9nSUlWV0hLZk1vZHJzY2doeWNLMXBtUmFkS1JnNXM4eFlwQ3hTb3c?oc=5",
         "pub_date": "Wed, 23 Sep 2026 11:20:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBM1QxdkZzelhTdE1HOXlwdVpVNjI1VXVDaUFaZ2NKcWt2SjdnczBBcGJ1YndwZ2R6VlQ1cGh3R0xZOUhNMXc?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 06:03:11 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 12,
     "id": "068270-바이오-30551-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-24",
@@ -40489,9 +40504,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rbkNVZGpvOFZRVEdWYXVGeGNSZF9FRHBnazdLN3VrSXFJZTBZLVNKUF9iYUJMQlBfamNDVzZrdkdaVHYzaFAzN2N5NjA2ZjVNeHgwRQ?oc=5",
         "pub_date": "Wed, 23 Sep 2026 21:01:30 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EYjVkV1Z6Wk94ZVdnaWtXYS0wRlR2SzFnbUdXYVlwem1OV0lYZDA2VHNuLVhDb1VOa1hHbVN2LS1JYVJqWFE?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 21:01:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "000660-실적-30918-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-24",
@@ -40542,6 +40562,102 @@
     "source_count": 1,
     "id": "000720-기타-30947-20260923",
     "first_seen": "2026-09-23",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[초점] 삼성전기, 6월 고점 대비 주가 40%대 급락…실적 전망은 오히려 상향 - 경인방송 뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경인방송 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5heDRESDZVcHRFcVhjc3JEZEpzTU56dmF2MjRTODczMHVMd0RONF8wRF9LRG5nVHpuVE9ITTBEeGpWelBoWUswQVJXVTlhdFF0SlhraFZKd1BIbnB1XzNxMS16Vm3SAWhBVV95cUxNd0dMR0ZueXJCU2tSZlJMSy03QmxMNVBvV3k1Zzl6VV9vckwzSU0yN0tZZU1TNnhTQ1ZRdDRNRlo3d2NTRnJuS3RmeDU4VHlYbE8tX2RmNy1jcl8xbDF2NVRXZzRjQUFXMA?oc=5",
+        "pub_date": "Thu, 24 Sep 2026 01:26:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-실적-31068-20260924",
+    "first_seen": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, '짐펜트라' 류머티즘 관절염 美 임상 3상 계획 승인… \"296명 대상\" - The Pharma",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "The Pharma",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmNuYjlLd1VvcVMwUVFKQi1nU1ZfbHVEemJqWTdZZ3p2V1lBV3JRWUhvM1p6c1BZMzZReVB5MEpCcXVXekpsMGF2d3IyQmNHUmVXTGNzYUx4QVpwMHRoWmtoREdhOEtGdTRXWTNFVDhNQVJTSWR0TV9nSUlWV0hLZk1vZHJzY2doeWNLMXBtUmFkS1JnNXM4eFlwQ3hTb3c?oc=5",
+        "pub_date": "Wed, 23 Sep 2026 11:20:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-바이오-31134-20260924",
+    "first_seen": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 송도캠퍼스 25만ℓ 생산시설 EU-GMP 갱신…생산량 15% 확대 - efnews.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "efnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LNDctcFViMXVwQU1RQ3lNZ3lLZk1PYTVhbEtZM3FvZGxEM0ttYURVMVBPaEEtQW5DV1d5eWpnemtPUHFaLWtRVHJoVkdGN2pHUTFzTi1GUDRnaHpRWkgtWkZqcDR3NDctOVdZ?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 08:13:49 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-31135-20260924",
+    "first_seen": "2026-09-24",
+    "last_updated": "2026-09-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "펩트론 12% 가까이 급락…평가계약 기대 뒤 변동성 확대 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42aWVnemE1UlYyTVQ0M3MyUFc3MFRUcTZMb2pZaWJZeTJvQnFsQlVjaXppRk1FbGxpWnIzZkpMSi0tZHBUbGNVN1VreWticl9TY1dFR29DYmktQmFnVkxfZWZFVFFGZWg2d01QaEt30gFyQVVfeXFMT0FIaEtYdG1kV0FTYlJ6VEJwX05odldWWVNUOUIweTAyWld5MlJPcXUzckk2bmJqZGRzbDdrek9nWkNrbVhpQ0pIaUtnT3JLMXNqN0l3RFRiSF80dEF4dHJMVkotVzF0YklucHBFYmRPN3Bn?oc=5",
+        "pub_date": "Tue, 22 Sep 2026 05:50:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-기타-31137-20260924",
+    "first_seen": "2026-09-24",
     "last_updated": "2026-09-24",
     "status": "일반",
     "stale": false
