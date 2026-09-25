@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "[인터뷰] AI 시대 망설이는 기업들, 정부가 'AI 리더' 돼야",
-      "office": "지디넷코리아",
+      "title": "한화에어로, 미 아칸소에 ‘탄약 생산 거점’…3조 투자",
+      "office": "KBS",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/092/0002438752"
+      "url": "https://n.news.naver.com/mnews/article/056/0012263380"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "\"왜 원전 건물은 둥글까\"…돔에 담긴 원전 안전기술[짤막영상]",
-      "office": "뉴시스",
+      "title": "현대건설 정비사업 수주 10조 돌파…삼성·GS도 '대어' 확보전",
+      "office": "한국경제",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213364"
+      "url": "https://n.news.naver.com/mnews/article/015/0005336077"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
