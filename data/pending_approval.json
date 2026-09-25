@@ -41126,5 +41126,29 @@
     "last_updated": "2026-09-25",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“1000주면 450만원대?”...삼성전자 역대급 배당금 전망부터 배당락 변수까지 총정리 - 대한청년일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "대한청년일보",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBhczZLRTg5cGZha2pXNUJNMkVpaW1ubkxlU2Z5MlUzNWlFblJSWmxCOUYxelNrVHBRWEFrMkdWaU1pbEE?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 09:48:13 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-자본-32066-20260925",
+    "first_seen": "2026-09-25",
+    "last_updated": "2026-09-25",
+    "status": "일반",
+    "stale": false
   }
 ]
