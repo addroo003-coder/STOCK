@@ -41208,5 +41208,77 @@
     "last_updated": "2026-09-25",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 솔리다임, 美증시 상장 추진…\"기업가치 최대 200조원\" - 머니투데이 - mt.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "mt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6S0cwb3pqd0dxZVFNVHkxYzdQOFByODMwM1A3NlRDa3phMGZ3NjY4dEhMZFY5U3hIbXJjcFBibW9iVjIyc3RXeVB4SldwSkFzT01lNEJCUGE3Y3pIUUhST0lTTFZNT0JZblJOdW1B0gFuQVVfeXFMUHpLRzBvemp3R3FlUU1UeTFjN1A4UHI4MzAzUDc2VENremEwZnc2Njh0SExkVjlTeEhtcmNwUGJtb2JWMjJzdFd5UHhKV3BKQXNPTWU0QkJQYTdjekhRSFJPSVNMVk1PQlluUk51bUE?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 20:18:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32262-20260925",
+    "first_seen": "2026-09-25",
+    "last_updated": "2026-09-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 손자회사 솔리다임, 美 IPO 시동…몸값 최대 204조 전망 - 청년일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "청년일보",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVi1tQ3pIaU1iUWctNm5vLUE5Qm9VZHZhUkk0RHprTHVpTHFHOHVoSFNfUEJKX3d6cS1NamtaU250Y1NqbDFYenNobWt1Mk5IejhGYmlUS0NkbzR6RGV4ZTdvM1VrRTQ?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 19:59:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32263-20260925",
+    "first_seen": "2026-09-25",
+    "last_updated": "2026-09-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "소식통에 따르면 SK하이닉스의 자회사 솔리디그(Solidigm)가 기업공개(기업 공개)를 검토 중이며, 이를 통해 해당 사업부의 기업 가치가 최대 1,500억 달러에 달할 수 있다고 한다. - tradingview.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "tradingview.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abHlLVXgwTjl4aXROZTBjTFJXQ0tFbVVwY1ZmM0ZxaGVLSVMwYjBWN0luekRaYlNJeWF6SUY1dGh6TnliSGItaXRmbDVpRTlNSjFkdVRMZGd2LXQ5S1VWYkY1ZFNyMlVkX3cyeVgyUXNfenYyTnMxbw?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 16:47:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32264-20260925",
+    "first_seen": "2026-09-25",
+    "last_updated": "2026-09-25",
+    "status": "일반",
+    "stale": false
   }
 ]
