@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "추석 밥상 화두는 'AI시대 취업문'…대기업 하반기 채용 어디 남았나",
-      "office": "뉴시스",
-      "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/003/0014212144"
+      "title": "AI가 MLCC도 집어삼켰다…현물가 한때 10배 ‘폭등’",
+      "office": "디지털타임스",
+      "date": "20260926",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049855"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[똑소리톡] 삼성전자·SK하이닉스 현직자들이 원하는 신입의 '진짜 스...",
-      "office": "SBS",
-      "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391074"
+      "title": "\"추석 끝나면 30만전자?\"...삼성전자, '배당 낙수효과' 증권가 전망은...",
+      "office": "조세일보",
+      "date": "20260926",
+      "url": "https://n.news.naver.com/mnews/article/123/0002390836"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "[똑소리톡] 삼성전자·SK하이닉스 현직자들이 원하는 신입의 '진짜 스...",
-      "office": "SBS",
-      "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391074"
+      "title": "\"삼성전자·SK하이닉스 독주 체제 강화\"…증시 쏠림 속 AI 데이터센터...",
+      "office": "뉴시스",
+      "date": "20260926",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213922"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
