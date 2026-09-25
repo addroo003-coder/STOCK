@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "AI 서버발 MLCC 수요 급증…삼성전기·무라타 고부가 제품 확대 [반도...",
-      "office": "디지털데일리",
-      "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242661"
+      "title": "추석 밥상 화두는 'AI시대 취업문'…대기업 하반기 채용 어디 남았나",
+      "office": "뉴시스",
+      "date": "20260924",
+      "url": "https://n.news.naver.com/mnews/article/003/0014212144"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“전 부친 후 쌓인 접시는 누가 치우나”…명절 집안일 줄여주는 AI 가...",
-      "office": "서울신문",
+      "title": "[똑소리톡] 삼성전자·SK하이닉스 현직자들이 원하는 신입의 '진짜 스...",
+      "office": "SBS",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683492"
+      "url": "https://n.news.naver.com/mnews/article/055/0001391074"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "\"방산·조선 넘어 우주·AI로\" 김동관 한화 수석부회장, 경영 보폭 '확...",
-      "office": "뉴시스",
-      "date": "20260924",
-      "url": "https://n.news.naver.com/mnews/article/003/0014212097"
+      "title": "[인터뷰] AI 시대 망설이는 기업들, 정부가 'AI 리더' 돼야",
+      "office": "지디넷코리아",
+      "date": "20260925",
+      "url": "https://n.news.naver.com/mnews/article/092/0002438752"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "건설사 R&D 예산은 줄여도…로봇은 키운다",
-      "office": "아이뉴스24",
+      "title": "\"왜 원전 건물은 둥글까\"…돔에 담긴 원전 안전기술[짤막영상]",
+      "office": "뉴시스",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/031/0001061208"
+      "url": "https://n.news.naver.com/mnews/article/003/0014213364"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "호르무즈 봉쇄에도 끄떡없다?…SK이노, 사상 최대 실적 기대",
-      "office": "매경이코노미",
+      "title": "[AI 열폭주 잡는 K산업]下 \"기름에 서버 풍덩\"…정유 4사 꽂힌 새 먹거...",
+      "office": "비즈워치",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108472"
+      "url": "https://n.news.naver.com/mnews/article/648/0000051068"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "3분기 실적 시즌 임박…반도체는 ‘맑음’, 비반도체는 환율에 ‘희비...",
-      "office": "서울경제",
+      "title": "[똑소리톡] 삼성전자·SK하이닉스 현직자들이 원하는 신입의 '진짜 스...",
+      "office": "SBS",
       "date": "20260925",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665322"
+      "url": "https://n.news.naver.com/mnews/article/055/0001391074"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
