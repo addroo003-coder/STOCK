@@ -41133,7 +41133,7 @@
     "sector": "AI 반도체",
     "category": "자본",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "“1000주면 450만원대?”...삼성전자 역대급 배당금 전망부터 배당락 변수까지 총정리 - 대한청년일보",
     "source_type": "news",
@@ -41142,10 +41142,68 @@
         "press": "대한청년일보",
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBhczZLRTg5cGZha2pXNUJNMkVpaW1ubkxlU2Z5MlUzNWlFblJSWmxCOUYxelNrVHBRWEFrMkdWaU1pbEE?oc=5",
         "pub_date": "Fri, 25 Sep 2026 09:48:13 GMT"
+      },
+      {
+        "press": "투데이타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pR2x2TEdFUXVqS3d5M240cFpRczlaNzk4cUMtX0dJR0NRem9Zcm9wSC0tNzhydTRjRmt2VmxzZUZNUHJIY0J3N2Y3NS1Id0hLRHc?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 09:48:13 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "005930-자본-32066-20260925",
+    "first_seen": "2026-09-25",
+    "last_updated": "2026-09-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 자회사 솔리다임, 최대 1,500억 달러 가치 IPO 검토 - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aRjBZQktvVk84S0RCd0E3RkJuSEQ4V2dVeFRBTWp5MDlSaUFITnZITllUUVdLSGp6R29Ca2I4R0ZHdE94SHZFS3lRTXFpQ3dDVjl2LTFhelBKWXRCSlZIZzJNOWlhLUg2Zkd3TnVwbk8?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 17:58:00 GMT"
+      },
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QTlFKMTMtNFpaNmg2ZzR2eFVHSVpybFhPaVF2aTQ1bEJjd3JNLXFXUlBOUldMWXp4RENOd3JtN0pDWkotanZZODV6elc0RzZZWkRyRjBtUEotaHdxMzFDZWQxNU5tWmREWDB6Z2pNQTZxdVRIMnE4ZQ?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 16:59:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000660-기타-32201-20260925",
+    "first_seen": "2026-09-25",
+    "last_updated": "2026-09-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 솔리다임, 미국 IPO 검토…기업가치 최대 1500억달러 - 블루밍비트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "블루밍비트",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2RnZrdDdWMUJveFRoSXZxZl9kRElLcXN4dUk4N3FEdU1TdEpQRzJSV2UtTDdSeHEyRmZxMktxb0Y0WG5yRGV0R3EzUzVBWjNr?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 16:50:29 GMT"
       }
     ],
     "source_count": 1,
-    "id": "005930-자본-32066-20260925",
+    "id": "000660-기타-32203-20260925",
     "first_seen": "2026-09-25",
     "last_updated": "2026-09-25",
     "status": "일반",
