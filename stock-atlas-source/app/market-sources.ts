@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "AI가 MLCC도 집어삼켰다…현물가 한때 10배 ‘폭등’",
-      "office": "디지털타임스",
+      "title": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
+      "office": "헤럴드경제",
       "date": "20260926",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049855"
+      "url": "https://n.news.naver.com/mnews/article/016/0002702056"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"삼전·하닉, 저평가 구간에 있어…박스권 탈출 열쇠는 실적과 수급\"",
-      "office": "뉴시스",
+      "title": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
+      "office": "헤럴드경제",
       "date": "20260926",
-      "url": "https://n.news.naver.com/mnews/article/003/0014214467"
+      "url": "https://n.news.naver.com/mnews/article/016/0002702056"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -627,7 +627,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=058610",
     "news": {
-      "title": "'구경만 할래?'…\"돈 버는 곳은 따로\" 전문가가 꼽은 '찐 로봇 수혜주...",
+      "title": "\"휴머노이드 백날 춤춰봐야\"…돈 되는 '진짜 로봇주' 따로 있다[주末...",
       "office": "아시아경제",
       "date": "20260926",
       "url": "https://n.news.naver.com/mnews/article/277/0005820965"
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 손자회사 솔리다임, 이르면 내년 'IPO설'",
-      "office": "파이낸셜뉴스",
+      "title": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
+      "office": "헤럴드경제",
       "date": "20260926",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580962"
+      "url": "https://n.news.naver.com/mnews/article/016/0002702056"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
