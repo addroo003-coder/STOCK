@@ -41341,7 +41341,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "조현준號 효성중공업, 美생산확대에 3300억 투입…AI發 수요 선점 '집중' - 뉴시스",
     "source_type": "news",
@@ -41355,9 +41355,14 @@
         "press": "뉴시스",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iQkNjRHU1elV2dTU2V0Y1ZDhpUjY2cFF0YTJkZDJTNmV4RjU4bGk1WkJjWGFXTkJPRmd6VC16QS1YZHZPZHVtZl9fanZoRW5TZTdqMXdnTi1iN1FnWEh5ZnhIeUxqSFZkUWNaLVE2TThFZ1pGZW0yYtIBeEFVX3lxTE9iQkNjRHU1elV2dTU2V0Y1ZDhpUjY2cFF0YTJkZDJTNmV4RjU4bGk1WkJjWGFXTkJPRmd6VC16QS1YZHZPZHVtZl9fanZoRW5TZTdqMXdnTi1iN1FnWEh5ZnhIeUxqSFZkUWNaLVE2TThFZ1pGZW0yYg?oc=5",
         "pub_date": "Sat, 26 Sep 2026 06:00:00 GMT"
+      },
+      {
+        "press": "네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1adFZIQlFuRGlYSDkyVE5mMGpZc3U3cDJfdXBoUjhuZXpZVUZodVowaklRMFJ0WTdzQTZiUVd4X08xTGpyX2tBSWllQ0FtUTBWbzdF?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 06:00:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "298040-기타-32500-20260926",
     "first_seen": "2026-09-26",
     "last_updated": "2026-09-26",
