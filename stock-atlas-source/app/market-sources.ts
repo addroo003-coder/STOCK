@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
-      "office": "헤럴드경제",
-      "date": "20260926",
-      "url": "https://n.news.naver.com/mnews/article/016/0002702056"
+      "title": "원료도 웨이퍼도 칩도 다 오른다…반도체 공급망 '가격 인상 도미노'",
+      "office": "머니투데이",
+      "date": "20260927",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418541"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
