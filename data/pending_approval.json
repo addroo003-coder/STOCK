@@ -41300,5 +41300,101 @@
     "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“SK하이닉스 솔리다임, 美 IPO 추진…기업가치 최대 1500억 달러” - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0QVFibVJ2dUk4Um94eEtXeW1fbmV3eWVnUElyTTE1RUg1Z1h6WUFHYndRYUJRa2pjX2EySUJ3RjNGYlhlWXNLUlVoRHg4NjJuaWNqSzY0b1ZGc3ZVY0E?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 05:46:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32457-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "효성중공업",
+    "stock_code": "298040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "조현준號 효성중공업, 美생산확대에 3300억 투입…AI發 수요 선점 '집중' - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DakhtaVVsSmVZNHBDcFVzZXJFTjFXVUdiakxRb0hxbTVkaUVMaDRpYzRFcUdGRFg1aG9hRGZWX3h1RU9BM1Rfc25PTmFXc1dfTm9jSE5qOEJ6TUZobm1jetIBeEFVX3lxTE9iQkNjRHU1elV2dTU2V0Y1ZDhpUjY2cFF0YTJkZDJTNmV4RjU4bGk1WkJjWGFXTkJPRmd6VC16QS1YZHZPZHVtZl9fanZoRW5TZTdqMXdnTi1iN1FnWEh5ZnhIeUxqSFZkUWNaLVE2TThFZ1pGZW0yYg?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 06:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "298040-기타-32500-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "9월 4주차 두산에너빌리티 주가 변동성 확대 - 톱스타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IVDdadmItaDJNVy1PT1ltTE85NjJrRW1odk5rZGZ3TWQwT002a2Y2OUlaUXg2Q19jaFRTZkRBejd6TTFWV3BkTVpmOWNmU0NvNHJ0YWFUZk54OHJCc0QwUHI2NnNhdXBsc2tkSkRMbEZkZw?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 01:41:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-32509-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "9월 4주차 우리기술 주가 하락폭 확대 1만2980원 기록 - 톱스타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yRXNNSHZhdktrMDlmZXoxb21IMFlOdXI0UW4xMEk4MUYxTW1Id1p3SzVjNUNZczFaQ2xlVUQtWmdzLWhjVTBPRkViN3AyVzNSUUxRbGVhbHBjR2hHcEpqbVlWWV9kODFXMzllUURic0dvdw?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 01:52:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "032820-기타-32545-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
   }
 ]
