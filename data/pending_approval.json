@@ -41459,5 +41459,29 @@
     "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스 상반기 최대 실적… - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wOW5sZmhwSnJlM0tVWWtRckJ5N2hOVllvcmM5ejJ3MUcxNmJSQzE5RC1uTGVSTVROczhlRnF1TlVGODNLUE93VGdyOHMwN2Z3SHlsRWg4enFyQkgzZFo1QTFmN0o1Vlhl?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 01:49:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-32744-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
   }
 ]
