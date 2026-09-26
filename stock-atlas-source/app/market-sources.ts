@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"추석 끝나면 '30만전자' 진짜 오나\"... 외국인들이 삼성전자 풀매수 ...",
-      "office": "파이낸셜뉴스",
+      "title": "\"삼전·하닉, 저평가 구간에 있어…박스권 탈출 열쇠는 실적과 수급\"",
+      "office": "뉴시스",
       "date": "20260926",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580945"
+      "url": "https://n.news.naver.com/mnews/article/003/0014214467"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -627,7 +627,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=058610",
     "news": {
-      "title": "\"휴머노이드 백날 춤춰봐야\"…돈 되는 '진짜 로봇주' 따로 있다[주末...",
+      "title": "'구경만 할래?'…\"돈 버는 곳은 따로\" 전문가가 꼽은 '찐 로봇 수혜주...",
       "office": "아시아경제",
       "date": "20260926",
       "url": "https://n.news.naver.com/mnews/article/277/0005820965"
@@ -1383,10 +1383,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=042700",
     "news": {
-      "title": "한미반도체, HBM 넘어 AI패키징 시장 공략",
-      "office": "파이낸셜뉴스",
-      "date": "20260922",
-      "url": "https://n.news.naver.com/mnews/article/014/0005579851"
+      "title": "HBM 넘어 시스템반도체로…한미반도체, AI 장비 영토 확장",
+      "office": "비즈워치",
+      "date": "20260926",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051081"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/042700/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 솔리다임, 내년 美 상장 추진...기업가치 최대 204조",
-      "office": "매경이코노미",
+      "title": "SK하이닉스 손자회사 솔리다임, 이르면 내년 'IPO설'",
+      "office": "파이낸셜뉴스",
       "date": "20260926",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108492"
+      "url": "https://n.news.naver.com/mnews/article/014/0005580962"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
