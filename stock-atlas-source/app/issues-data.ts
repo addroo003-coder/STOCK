@@ -6247,9 +6247,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TOVE5dXdNTnJ3MUU4bEJ2TWZNbTBuZDluWDNXVDYtS3A0UHBFNVYxd2pmRlJhUHVneDhYUmVjd1VLWjNubklKb1FrVS1KbGc?oc=5",
           "pub_date": "Sat, 26 Sep 2026 03:02:07 GMT"
+        },
+        {
+          "press": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WTzJZM0hQanAyUlBaV1JpemJDVFc3MGRXRFFiZ2JGQUdyS1NFc1pIV0dhSVhqTEhYUFluV1c5Tmx6MHpoYWt6SDlqb2k?oc=5",
+          "pub_date": "Sat, 26 Sep 2026 03:00:02 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-09-26",
       "last_updated": "2026-09-26",
       "stale": false
@@ -7762,6 +7767,38 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "047810-기타-30890-20260923",
+      "category": "기타",
+      "direction": "긍정",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "한화-KAI, 장거리 공대공 유도탄 KF-21 통합 MOU 체결 - 머니투데이 - mt.co.kr",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "mt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBakxZVTlIbFJLQTVRS1J2em1nUllEVXVTVWJSY0loNHdLRFZsTVZJakgwVFJRTHh2cGp4Z21BWFlpdHBybGIyeWlYbXBvVVlCWDBNVG5FRXNjREdKQUtjOVlKM2ozUUg0cFVJYW13TXJad9IBckFVX3lxTFBBakxZVTlIbFJLQTVRS1J2em1nUllEVXVTVWJSY0loNHdLRFZsTVZJakgwVFJRTHh2cGp4Z21BWFlpdHBybGIyeWlYbXBvVVlCWDBNVG5FRXNjREdKQUtjOVlKM2ozUUg0cFVJYW13TXJadw?oc=5",
+          "pub_date": "Wed, 23 Sep 2026 03:07:58 GMT"
+        },
+        {
+          "press": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEdYOUtpUEdQSEZqUy1xODJkUWRJVTBQQ1M1RjAtMGNMbjcxX0FTb0txbEp1aGR5NUZPcG5DcHVXeWxKUHp6UExSTUxrMmNydlFBU1BNbVlzSFdsSlpQajg4RUlJVkd0N1VhS0ZSUzlGN25GN0VfM2l3ZWs4Wkc1bjhuRzBGcWNaN3A1dm44VXF1MnlPVnk2cdIBmAFBVV95cUxNWEdYOUtpUEdQSEZqUy1xODJkUWRJVTBQQ1M1RjAtMGNMbjcxX0FTb0txbEp1aGR5NUZPcG5DcHVXeWxKUHp6UExSTUxrMmNydlFBU1BNbVlzSFdsSlpQajg4RUlJVkd0N1VhS0ZSUzlGN25GN0VfM2l3ZWs4Wkc1bjhuRzBGcWNaN3A1dm44VXF1MnlPVnk2cQ?oc=5",
+          "pub_date": "Wed, 23 Sep 2026 00:51:00 GMT"
+        },
+        {
+          "press": "bbnnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45U05sYW0xRVozdXJybmc3ck5MQ3pteUVFRTFNUk5fOFp4QUZTRTNMUFFWWlc2VnpnX0QxNTViMGtwWlBhSk9aenk4U2ZpcS0zMUNZNGY3YnNSWkhySXhCUTdUbmRBY1BSeEpN?oc=5",
+          "pub_date": "Fri, 25 Sep 2026 23:31:55 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-26",
+      "stale": false
+    },
+    {
       "id": "047810-기타-31466-20260924",
       "category": "기타",
       "direction": "중립",
@@ -7821,48 +7858,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 2,
-      "first_seen": "2026-09-24",
-      "last_updated": "2026-09-26",
-      "stale": false
-    },
-    {
-      "id": "047810-기타-31531-20260924",
-      "category": "기타",
-      "direction": "긍정",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "한-멕시코, 정상회담 계기 17건 MOU 체결…무역협정·방산·국방 등 - v.daum.net",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8telBFdVFTc0hCNko5ZVBTYmpzLUIyU085Y3NWOWNxMldYSWRnazNkWXFtUmdkb1ZNVU15VmVMSnBEdENCNVE?oc=5",
-          "pub_date": "Thu, 24 Sep 2026 19:44:08 GMT"
-        },
-        {
-          "press": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfU3ZYLU9rWHlEa3llbWMyV1hHNDFBb3doc1BiMHVHSzc1Q1J3Rk4wRVpmSi1aWEdjWGo0QzRrMTBOTW4tTERxYUxtU0dvdWc?oc=5",
-          "pub_date": "Thu, 24 Sep 2026 18:57:00 GMT"
-        },
-        {
-          "press": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LRjgzWGlpZERuZ001NWtUdVRfbWZIejFhZ0tZTTNRU0pFdGdEYngzQl8zcmpseGRyUWdvcEhFblV3emFlYS1zVWtrSk56NzQ?oc=5",
-          "pub_date": "Thu, 24 Sep 2026 19:44:08 GMT"
-        },
-        {
-          "press": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Nb1lJUTJJRFNFYkdiVHNoTTJralFJaEwwckNRR2JzWTFQV2lWdnZsWEgwbGt5ZGZnTVVFWDc1M0ZLdmM1ZTlVMUNObw?oc=5",
-          "pub_date": "Thu, 24 Sep 2026 23:49:05 GMT"
-        },
-        {
-          "press": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UWXVKT2NxTS1MYk5UUDZZQWhlQ2lGRU5fVElHSU8xS1htRF92MzhzcFhId0piUFVlRXFsRDlZZ25aald3Z19Fd0RBQlktTjQ?oc=5",
-          "pub_date": "Thu, 24 Sep 2026 23:49:05 GMT"
-        }
-      ],
-      "source_count": 5,
       "first_seen": "2026-09-24",
       "last_updated": "2026-09-26",
       "stale": false
@@ -8222,40 +8217,25 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "099320-기타-29751-20260922",
+      "id": "099320-기타-32807-20260926",
       "category": "기타",
       "direction": "중립",
-      "confidence": "교차검증",
+      "confidence": "미확인",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
-      "headline": "국립중앙과학관, 상상이 현실 되는 국방 미래! '2026 테크콘E' 3일간 첨단 국방과학 향연 - 시민행정신문",
+      "headline": "위성으로 농업을 읽고, 우주에서 식량을 찾는다…농진청 첫 '인사이트 데이' - supple.kr",
       "source_type": "news",
       "sources": [
         {
-          "press": "시민행정신문",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGbTZWZXZvOERVVjV3eDJkMERBZjFZMFJFaDJkaERMZ0s1MG1UZEtia0RVenVUaVF4bGt0YmlqNmEyTVA5UjRfaVhMaFlNSzFnVnZZYVRkOS1MZDRnUFh2TUpZN3FlazZHd1BDYzlR?oc=5",
-          "pub_date": "Tue, 22 Sep 2026 11:30:40 GMT"
-        },
-        {
-          "press": "시사일보",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtMkd1eEFQWFJ0TV95dzRELVZYNXU4VExhREZlenh4bnMtUWE3d1ZCZVhMS2ZjQnI1eTVfVnI3bHNLYVlkbzBGMkRoRmg?oc=5",
-          "pub_date": "Tue, 22 Sep 2026 10:42:00 GMT"
-        },
-        {
-          "press": "글로컬저널",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NcGliSjlHYnhJWC1BM3YyRm4tNFFzaTJMX203ZjZpbUpRU3dfSTRMZU1oRy1UcUVzbS1WbGJYQ0hnbzcxQUktaHNDa2phRVc3cFYyRDc0U2VYUWtLT1hUaVdtUkE4eU9fQ2lFZ0NNSdIBb0FVX3lxTE9NcGliSjlHYnhJWC1BM3YyRm4tNFFzaTJMX203ZjZpbUpRU3dfSTRMZU1oRy1UcUVzbS1WbGJYQ0hnbzcxQUktaHNDa2phRVc3cFYyRDc0U2VYUWtLT1hUaVdtUkE4eU9fQ2lFZ0NNSQ?oc=5",
-          "pub_date": "Wed, 23 Sep 2026 10:03:15 GMT"
-        },
-        {
-          "press": "인사이드피플",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSUI2WTBnZE1WSEpmcENMaFpDR1VjMlBsVE10ZFFGV2NMUHNGLXhyZUpHYjkzWXRYczVkbXpvVWRpQ1dkYVNCZFI0WUlSaHlkYm1WbnotYm9FZENBNkFJakR0cEtrbC1FNUE?oc=5",
-          "pub_date": "Tue, 22 Sep 2026 11:30:28 GMT"
+          "press": "supple.kr",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaQ3JJR2RqSlM0N01DWS14enRDLVc0QVl2QW1qN2Y0VVdiSjR5d2tHSFVKUm1fbzRIR25tSjY2a3RyVzBubnJ5a3BwWlpWUG1WSHlRMHIxaGpiT0VH?oc=5",
+          "pub_date": "Sat, 26 Sep 2026 21:00:00 GMT"
         }
       ],
-      "source_count": 4,
-      "first_seen": "2026-09-22",
-      "last_updated": "2026-09-25",
+      "source_count": 1,
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
       "stale": false
     }
   ],
@@ -9304,9 +9284,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95N2lYemRJLVpLTGpucWxNclJjeW1hV3pLa2hmUzhZRE9tc3htYXBlcGZobDFVX2Q5VUFUb0FGYUJNN0l3X3JIc1g1UQ?oc=5",
           "pub_date": "Fri, 25 Sep 2026 06:03:30 GMT"
+        },
+        {
+          "press": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DQmdNaGV5cTVpTWpBUXdkcGUySEhRbkZ2b1N2dVV5UWtSdnFjbVhDUGR5bTY3enBtY3h5LURfclhjTy1tb0E?oc=5",
+          "pub_date": "Fri, 25 Sep 2026 06:03:30 GMT"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-09-25",
       "last_updated": "2026-09-26",
       "stale": false
@@ -15689,6 +15674,43 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "034020-기타-23913-20260917",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[특징주] 두산에너빌리티, 美 원전 8 - etoday.co.kr",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "etoday.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMkFnLVA4VlZKUnFCRlE5cUJ3ZHRTQXBCa0JVbDdHVHlpV2ZIdVlmbGJleDZuc3VOU19IS2xUUURDQnVVbXdmd3BxVFNlbE1paEg3RjRoaVRjTFc1ZF9vNmxudy1OUUFN?oc=5",
+          "pub_date": "Wed, 16 Sep 2026 17:29:09 GMT"
+        },
+        {
+          "press": "etoday.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CUUNKZ3VFdWh0WHhxQTc3cXpZNmlBUVpKN2FyQV9jTTE1cGVJZy0zei1FWHRndXVEOE4wWndQb2oyUWRRVEpnbkZKUGdEMzNjRE9iMW41WlI5dEswY3lmQTIwdGtMYTRLNmhhb2tn?oc=5",
+          "pub_date": "Tue, 22 Sep 2026 22:33:00 GMT"
+        },
+        {
+          "press": "etoday.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFbXZJcEEzUWRBYjFaaUVVYllHUndQQkFHM193V2NOdjJuR1FxVi1VMTBfMU5JWDQtVEZjbms3QnhXMG00OGlpTjIyYndmUzg3MUhkSA?oc=5",
+          "pub_date": "Tue, 22 Sep 2026 22:33:00 GMT"
+        },
+        {
+          "press": "etoday.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52QmNmSk1RakFXaDVqUHhRbzNSdEdiRk93S0t1UENMZWpUOTNiSjVQWGhwaEprMzdRZ3ZkZG5BSk9JUGFFZ0FuN2lHeDRnVHgtWUJFeWtzZi1SVDhPOUZkOVoyT1lDNWJF?oc=5",
+          "pub_date": "Fri, 25 Sep 2026 01:46:20 GMT"
+        }
+      ],
+      "source_count": 4,
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-26",
+      "stale": false
+    },
+    {
       "id": "034020-기타-26684-20260919",
       "category": "기타",
       "direction": "중립",
@@ -15801,28 +15823,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "이코노미트리뷴",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmV3loYmt6czYtQTFEUGVmamJ2OWh4WG1CZ3lIcUZZdkE2RVZEeElkdklFcVRRSTRqTjVpWG1jTVNYYkZmV3JFc0lhTFFJX21BQW94RExubjZ1U0phQmVKQUp0MDcxX3hSYWY1NDVjOERuaWJwSFRZ?oc=5",
           "pub_date": "Thu, 24 Sep 2026 08:52:20 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-24",
-      "last_updated": "2026-09-26",
-      "stale": false
-    },
-    {
-      "id": "034020-기타-31246-20260924",
-      "category": "기타",
-      "direction": "긍정",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": true,
-      "headline": "대미 투자에 원전 8기 건설 검토…두산에너빌리티·현대건설 美 사업 확대 기대 - 더트래커",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "더트래커",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Tb0RRZEZhRXZlSHhiYnI2WGFMLWR1YTRfOFdicFdUNmtFeXJkRnlkR0pxYjlPS0p4NlRkMktXT1FiUVJJbnBZNF85VXA1UmtwQW12bmRyZmo?oc=5",
-          "pub_date": "Thu, 24 Sep 2026 05:56:00 GMT"
         }
       ],
       "source_count": 1,
@@ -17050,9 +17050,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "서울경제",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42ajktcFZ0Nm1QSkZpanIwbl94YVRQZkNHTF9Na3NOVFFZOVZuVEJwbXV6SC1xaFQ1aHM4MkQxNjZ3SURHZGV2aU04aU9obGpYZ2U00gFTQVVfeXFMTjZqOS1wVnQ2bVBKRmlqcjBuX3hhVFBmQ0dMX01rc05UUVk5Vm5UQnBtdXpILXFoVDVoczgyRDE2NndJREdkZXZpTThpT2hsalhnZTQ?oc=5",
           "pub_date": "Sat, 26 Sep 2026 08:00:00 GMT"
+        },
+        {
+          "press": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NdWZSNVZxSnNZaDR5YUw4NVd2Y2pPZnB4NG1hME5CZU9JZzdjNHVienZuamRVM0hRNXVWZGsxQmpUQ05wMmdGVE1kOFQ1OTBTZ2dFWi1n?oc=5",
+          "pub_date": "Sat, 26 Sep 2026 08:00:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-09-26",
       "last_updated": "2026-09-26",
       "stale": false
@@ -24167,6 +24172,38 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "372320-기타-7494-20260902",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "큐로셀 ‘림카토’, 건보 급여 첫 관문 통과…하반기 상업화 속도 - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDVGZLTExNX3ZIVDF2dTZLV21BcHJXWFR4RTA4WlZKdWFOaW9hbWVtZk1HcmdFTmpYNzZTcjI0SFNaVlA0dlROYzRJYmtSaWcta01kREFMbVNPOUNDQklGVnc0WQ?oc=5",
+          "pub_date": "Tue, 01 Sep 2026 20:38:56 GMT"
+        },
+        {
+          "press": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcFh4SWY1bTNLUjBFeTB0LWFuRVYtazRrWHY2Y3dNRXRWdEtMck1LN21RaUszOXpmMTFuY211RDRBbmpyOU9INXFMMDJ3ZzE2MTA1WUtYZnFBejIwN0pCUw?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 23:35:50 GMT"
+        },
+        {
+          "press": "녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xU3RrMExWb0lFRlU5Wjdyb3JUZVZjM2RCVHhGR0Q0Rm8yNC1fZEhqbm9ENEstM2JWTkVacFhqWENnRnVhYjhGZFVoUXhoQ2dWdDM5TFhHTHJoTXlRVGVmUlR0TnFNSEdi?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 23:39:15 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-02",
+      "last_updated": "2026-09-26",
+      "stale": false
+    },
+    {
       "id": "372320-기타-31662-20260925",
       "category": "기타",
       "direction": "중립",
@@ -24291,28 +24328,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "medipana.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yeWswdGxTT1o4clhtM1BvS3JPRHg2V0ZVV3d4UDFLOThxZERTT1pGeGtCR1JtbXdLSmZpX1NlNC15dlpYa0szTTRXS01FSXB2QmdpY3IycFhPdU1JOUxNUnlheUVadElDV3E4?oc=5",
           "pub_date": "Wed, 23 Sep 2026 03:00:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-09-24",
-      "last_updated": "2026-09-25",
-      "stale": false
-    },
-    {
-      "id": "372320-바이오-31421-20260924",
-      "category": "바이오",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "서울대병원, 美 셀라레스와 PNH 세포치료제 제조 자동화…미국 임상 준비 - 메디코파마",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "메디코파마",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYjJ6VzFsMjAtMmRlYzh4bmdhQXhPbjlnM2M4ZlU3SlNIVnRTdS16VGctTEc4RVNtWFI1aDdQY01VcFBXeHBvVUJEbVJIT0ItV0FEV1Y2TG9WZ3pPMUMtUWFvTlB2d2dIZ3ZLOGxuNUNydw?oc=5",
-          "pub_date": "Wed, 23 Sep 2026 23:46:50 GMT"
         }
       ],
       "source_count": 1,

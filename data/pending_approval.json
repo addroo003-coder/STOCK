@@ -41488,5 +41488,53 @@
     "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독] 레버리지 ETF 후 삼성전자 장중 변동폭 41%·하이닉스 57% 확대 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oSXFSLUZvc1Q1Vm5lTWppY2Q0QUdTNTRwcUltMkl3N3pSZ2lJcU84MFYzZ2Jyejh4NXpvRkRFbUZyTm55a213clRMYkFQQjJ1V0VmdHFFSUZnNDAz?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-32771-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“SK하이닉스 미 손자회사 솔리다임, 기업가치 최대 204조원 美 IPO 검토”…반도체 사상 최대 가능성 - 아시아투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYQ2NZejFQUDFnMmlINXYxQjRHZnRhaXNsSC1wVzNpb3hSX180NWNGRnhSSVNXZUpDTlZXdFk2T0cxdURuZnhqMmNKMjIwUU5BdW5YU1lPTFVhaG1fcGVkR2lzN0o3N2FlOXE2akJn?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 21:22:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32780-20260926",
+    "first_seen": "2026-09-26",
+    "last_updated": "2026-09-26",
+    "status": "일반",
+    "stale": false
   }
 ]
