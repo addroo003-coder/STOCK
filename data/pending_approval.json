@@ -33127,7 +33127,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "지씨셀 GCC2005, 식품의약품안전처 치료 목적 사용 승인 획득 - 한국NGO신문",
     "source_type": "news",
@@ -33136,12 +33136,17 @@
         "press": "한국NGO신문",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UUzhWeHl3aGgyWmRkSERaczczaFY4VV8ybkpER1pVVnJsM0VBVHAtSjQzMmZOc1M5NWdndF85LUxGTVBaZDVGdk5kaVRob09NY0QzWXh6WDVEMGFLZmlOUHA2SWpYbFFV?oc=5",
         "pub_date": "Fri, 18 Sep 2026 04:25:46 GMT"
+      },
+      {
+        "press": "koreasprint.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93YVpXRnFnZ09qdm5na0xwZk5QQTh0NExfQVM0ekd2QTlxaEM0UUZ6bDIwYW5IMGNHRUNFa1Mtci1MWU1SdEh4blFRQnNnZno2TFJZeXJHQ2JkUHh4UUhVQXdkNTFoOWkzbUZXS3NB?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 00:14:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "144510-기타-25509-20260918",
     "first_seen": "2026-09-18",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -39992,7 +39997,7 @@
     "source_count": 16,
     "id": "068270-바이오-30551-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -40686,7 +40691,7 @@
     "source_count": 1,
     "id": "009150-실적-31068-20260924",
     "first_seen": "2026-09-24",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -40806,7 +40811,7 @@
     "source_count": 1,
     "id": "034020-기타-31245-20260924",
     "first_seen": "2026-09-24",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -40830,7 +40835,7 @@
     "source_count": 1,
     "id": "034020-기타-31246-20260924",
     "first_seen": "2026-09-24",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -40854,7 +40859,7 @@
     "source_count": 1,
     "id": "117730-리스크-31274-20260924",
     "first_seen": "2026-09-24",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -40878,7 +40883,7 @@
     "source_count": 1,
     "id": "000720-기타-31282-20260924",
     "first_seen": "2026-09-24",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -40950,7 +40955,7 @@
     "source_count": 1,
     "id": "006260-기타-31381-20260924",
     "first_seen": "2026-09-24",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41041,12 +41046,17 @@
         "press": "디지털데일리",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Ny15Nm5NN1dqWXRlZDRDWEs1Qll1X3E4NjJuTFo3VlVta3RqeWdSQi04Ym93QXE0ZW9kTmdxVmxpbThPcGN5T1RXVE53QnBsY0VCNXEyREw1T3BJZFNsamg5RXE?oc=5",
         "pub_date": "Fri, 25 Sep 2026 00:00:00 GMT"
+      },
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83cmgwWUZwSzV0eUJLbDFreU9DaTM0NUNKT3NyTmM3cDNUQlp3ejVtblhnSnRvRHpWTzF4U3ZZcko4VUh0cV9ZUUlzRG9KREwwWGxDRlZEazBqMm5wUTlQcVZR?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 00:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-기타-31586-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41070,7 +41080,7 @@
     "source_count": 1,
     "id": "000720-수주-31623-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41099,7 +41109,7 @@
     "source_count": 2,
     "id": "237690-수주-31644-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41123,7 +41133,7 @@
     "source_count": 1,
     "id": "105840-수주-31785-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41181,7 +41191,7 @@
     "source_count": 2,
     "id": "000660-기타-32201-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41205,7 +41215,7 @@
     "source_count": 1,
     "id": "000660-기타-32203-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41215,7 +41225,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SK하이닉스 솔리다임, 美증시 상장 추진…\"기업가치 최대 200조원\" - 머니투데이 - mt.co.kr",
     "source_type": "news",
@@ -41224,12 +41234,17 @@
         "press": "mt.co.kr",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6S0cwb3pqd0dxZVFNVHkxYzdQOFByODMwM1A3NlRDa3phMGZ3NjY4dEhMZFY5U3hIbXJjcFBibW9iVjIyc3RXeVB4SldwSkFzT01lNEJCUGE3Y3pIUUhST0lTTFZNT0JZblJOdW1B0gFuQVVfeXFMUHpLRzBvemp3R3FlUU1UeTFjN1A4UHI4MzAzUDc2VENremEwZnc2Njh0SExkVjlTeEhtcmNwUGJtb2JWMjJzdFd5UHhKV3BKQXNPTWU0QkJQYTdjekhRSFJPSVNMVk1PQlluUk51bUE?oc=5",
         "pub_date": "Fri, 25 Sep 2026 20:18:05 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YbEQzNGtCOThMZ18zd1ZuamdDVG4zOHNEbXZjbzc1QVUzOWM0c3I0SXh1MUNoQ1F5RXhodlRaU2ZES0ZybGl5SjcxdnhkMWl1b24ySi05LTFwN1hrclY5RNIBeEFVX3lxTE9aaHN4eEVmby1wZnpmMUdwenZ4MlJ4VU0tRmxJQUhRMzNmOTBlQmxvYjZJa1NXcUNpMTlnNzJqWGxEUlgxUl9na0o2cmplZTVUU01pMkkwN08wWUpFNVV4eUIyLWdqRDFkUnJzLUZLOWRTWlBvZG5xMA?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 00:51:01 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-32262-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41253,7 +41268,7 @@
     "source_count": 1,
     "id": "000660-기타-32263-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   },
@@ -41263,7 +41278,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "소식통에 따르면 SK하이닉스의 자회사 솔리디그(Solidigm)가 기업공개(기업 공개)를 검토 중이며, 이를 통해 해당 사업부의 기업 가치가 최대 1,500억 달러에 달할 수 있다고 한다. - tradingview.com",
     "source_type": "news",
@@ -41272,12 +41287,17 @@
         "press": "tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abHlLVXgwTjl4aXROZTBjTFJXQ0tFbVVwY1ZmM0ZxaGVLSVMwYjBWN0luekRaYlNJeWF6SUY1dGh6TnliSGItaXRmbDVpRTlNSjFkdVRMZGd2LXQ5S1VWYkY1ZFNyMlVkX3cyeVgyUXNfenYyTnMxbw?oc=5",
         "pub_date": "Fri, 25 Sep 2026 16:47:11 GMT"
+      },
+      {
+        "press": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fdnlHakp5SjhRWV9JU1ZXTXZrOG5LYmtONGQwTzBHSVkyMm5DSjVjVTl5SUtiZnlVYlhtVXJWSUNyYVZpQkZUV29tdVQxWmlMNndCNHhRMVlvS0pyV2Y1UmFkSVJFbloxX3NST2dDSUgtRDJHTkR3?oc=5",
+        "pub_date": "Fri, 25 Sep 2026 16:47:11 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-32264-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "status": "일반",
     "stale": false
   }
