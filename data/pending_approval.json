@@ -41969,5 +41969,101 @@
     "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“삼성전자 역대급 배당 막차타세요”…주당 4600원 배당금 오늘까지 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG80UnBQU19EZVQ1REhic2dkemtjQWZXTG1FWlBoVVk5RHFjUDdNUEFUV1gyTGtnZHNpY2VmM0lkSVlIbWhuX0hPSDRHZDhCSTV0YU4zNW1BdFVrOGFvWTJNQThQai0yUzdwRmo1aGVfek5fUHZTOHVTLVhTZkdObm9QSjBqdTgw0gGcAUFVX3lxTE1mblY5d2otVnFkRS1seDY5dlc5bUxtdHpMWVRZSzU0dkc1WXBIZTZKX2tKTGNCV0Fvb3YwOC02MDNvWHBHY0xzZm1ZREp5XzJXdUJhYm4yaTBzMWptQUZ1UlBrbHpua1NhMng2U2lZOW5jSjV3bEZVcnRLdC1kMEtCRDJ4VGRoVG1iQ21ZcFhIQ0hnRjdHdWFiS2tBcg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-자본-33325-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자가 이끈 '역대급' 호황...韓반도체·부품·에너지 기업 낙수효과 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51WE10THFPRnZld3R1a09KdElwRUhCcjNlRXVsaElSbFdvai1GYWR0eWZ3N1MyaWRDdEhJOVlpSTFXbWlkRG1ZbGppU1VVQUU?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 20:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-33326-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 3분기 영업익 '사상 최대' 100조원 기대…글로벌 2위 등극 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNGc2S0hlVHRpMUFrMk9tREVvbmUtNkE3bXg1V0xpWGU0OFhjaXJBZHkwaDFjZnZYaFRmMkVJQ2VJUkVNcS0zVEZEcWFhRzg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 20:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-33329-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "동박 부진에 8500억 조달한 SK넥실리스 …SKC 부담 커지나 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaF9USmdSel9MazFVZHFaSXBWa1RGMThUTURVQXhCeG5ia3V0RkVMV2VCWk5sZ1laMzlidE9hNzlpU2dDUE80THk4SDlXMEM0a1l4S1ZDLXUxSFpZNjFRUU5BaVgwdDgtLUNFdkNwUFBoc0syYjAyY3ZURWh3YVRnTkhhNUhReE9z0gGcAUFVX3lxTE5BSVhkVmhFUlA0Y1ZQeDB1MGcyZHBQYWFiMF9QUThQcFpmTVR1TWtBTGtkblhWUWF5TThwNVdGY184YUVHbzZIazJCSHdXSGZ0QldYWWJoUVFQOURsNlA0NHZKVFNmWWdmMkw1Nk9lcjlvc0RTYXFVak1iTUZRZUhDM2NXSDBkcDRiRmVDbHMxMnpfSWI3Z25ZdXpTeA?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-33398-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
   }
 ]
