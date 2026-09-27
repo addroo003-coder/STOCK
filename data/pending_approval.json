@@ -41755,7 +41755,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "'억대 성과급이 휴직도 막아'···삼성전자·SK하이닉스, 육아휴직률 나란히 감소 - 뉴스웨이",
     "source_type": "news",
@@ -41764,9 +41764,14 @@
         "press": "뉴스웨이",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOWY3YlhZUTQ0UlFZeFUzbFhhTUoyZjF3S1lrSG1CQ0M2ZVg0c2p1ZjFpT1haV05IbWpnQ29kZG5JN1ZFZlp3MEtITVpwZnV5TGhocE9CZldBTVdCMFVEUUpVY2w4WnBlWVE?oc=5",
         "pub_date": "Sun, 27 Sep 2026 01:06:12 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wOGpBQ2lXWjZSX1M5NTdSM045cV9RbE5zQU9sX1ZkYVlqNWViYUw3SUpiRTd6UG9FeEE1Y3BxdHJPMjIwdUxJZUxTU3hkZ1k?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 01:07:06 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-32906-20260927",
     "first_seen": "2026-09-27",
     "last_updated": "2026-09-27",
@@ -41864,6 +41869,102 @@
     ],
     "source_count": 1,
     "id": "000660-기타-33044-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“성과급 최대 6억원인데”…삼성전자·SK하이닉스 육아휴직률 줄었다 - 진일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "진일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83QmVVcUhiU3VkTzdsbncxMzhhdTZXUVNZdXRCM0NSTWNKYzVXVF82WGR5X3NCMHNaWDJHSy1KWEVlUkxhd1h6MXMtcDgyaUFZOHdSODV2OG5PSTNDTmtVZHBETWF6eGU2NFBsMHQ0Yw?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 07:38:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-33184-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "30만전자 눈 앞?...삼성전자 3분기에도 역대급 실적 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jcUhHd1oyNGpPdGJVVFBSQVJQUXdoRG9pVmpLUXgxZUt6c0dBVnJacHoya1YwY3dObXZHUnA0ZGxoVlBObWc?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 07:51:22 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-33185-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“성과급 최대 6억원인데”…삼성전자·SK하이닉스 육아휴직률 줄었다 - 진일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "진일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83QmVVcUhiU3VkTzdsbncxMzhhdTZXUVNZdXRCM0NSTWNKYzVXVF82WGR5X3NCMHNaWDJHSy1KWEVlUkxhd1h6MXMtcDgyaUFZOHdSODV2OG5PSTNDTmtVZHBETWF6eGU2NFBsMHQ0Yw?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 07:38:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-33187-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대웅제약·제일약품·HK이노엔, 당뇨 신약 개발 확대 - Traders Union",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXE5bVctOVFqaFY3TkNJeUpiRlRuRXBXZUotbkZRNEd4R0E0bUNFem1IYjN0andabTk2TVlEVEY5bjUtdWlvcHVBYnJwQjgxTzVhR3pJcnpYZUxhbzZOUktPcEM3RXNXXzB2QlRYdzMtak1hbjR3a2JlLUlLMWVoMG8ta3lnNkN3eFp0dXhRa24tM250UEYyOUxJenBqM1E?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 01:07:18 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "195940-기타-33272-20260927",
     "first_seen": "2026-09-27",
     "last_updated": "2026-09-27",
     "status": "일반",
