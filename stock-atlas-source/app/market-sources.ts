@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "'새 아이폰 나오면, 여기 실적 오르지'...'두근두근' 기대했더니 뜻밖...",
-      "office": "한국경제TV",
+      "title": "[스마트 산업강국 함께 하는 제조혁신 4.0] \"AI 시대 주인공은 나\"… ...",
+      "office": "매일경제",
       "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267301"
+      "url": "https://n.news.naver.com/mnews/article/009/0005740378"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 노태문, 다음 달 DX 전체 직원들과 ‘타운홀 미팅’",
+      "title": "[뉴욕 마켓] ‘반도체 풍향계’ 마이크론 실적 30일 발표",
       "office": "국민일보",
-      "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875198"
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875236"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "美 ESS 업계 ‘1테라 시대’ 예고…K배터리도 영역 넓힌다",
+      "title": "美 ESS 업계 ‘1테라 시대’ 예고… K배터리도 영역 넓힌다",
       "office": "국민일보",
-      "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875205"
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875247"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "한·멕, 무역협정 논의 본격화…광물·공급망 협력도 확대",
-      "office": "아시아경제",
-      "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/277/0005821208"
+      "title": "한화 KAI 경영권 확대 논의 계속…노조·공정위·국감 등 '촉각'",
+      "office": "더팩트",
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/629/0000537014"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "KAI, 매출 증가에도 수익성 악화… 한화와 손잡고 시너지 날까",
-      "office": "파이낸셜뉴스",
-      "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581207"
+      "title": "한화 KAI 경영권 확대 논의 계속…노조·공정위·국감 등 '촉각'",
+      "office": "더팩트",
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/629/0000537014"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "美 ESS 업계 ‘1테라 시대’ 예고…K배터리도 영역 넓힌다",
+      "title": "美 ESS 업계 ‘1테라 시대’ 예고… K배터리도 영역 넓힌다",
       "office": "국민일보",
-      "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875205"
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875247"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "한화에어로스페이스, KF-21 국산 미사일 수주전 앞두고 KAI와 맞손",
-      "office": "한국일보",
-      "date": "20260923",
-      "url": "https://n.news.naver.com/mnews/article/469/0000955780"
+      "title": "한화 KAI 경영권 확대 논의 계속…노조·공정위·국감 등 '촉각'",
+      "office": "더팩트",
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/629/0000537014"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
