@@ -39831,12 +39831,17 @@
         "press": "동아일보",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pTmZsWkNLdG8wREVuNUZXdU0zUldTRHF6S3M0aU5GdjFtVE1lMS1SWlNMVS1fTHJJejNnaW1leG5ITUVlb3lidEZFNWN2Y2IzTmowX1pSWlFkaVRpQkJCbTNWelhaUdIBZkFVX3lxTE9pTmZsWkNLdG8wREVuNUZXdU0zUldTRHF6S3M0aU5GdjFtVE1lMS1SWlNMVS1fTHJJejNnaW1leG5ITUVlb3lidEZFNWN2Y2IzTmowX1pSWlFkaVRpQkJCbTNWelhaUQ?oc=5",
         "pub_date": "Wed, 23 Sep 2026 06:40:00 GMT"
+      },
+      {
+        "press": "경남일보",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lU0lNUzRKUlI0TS1sZ2tIQWx0MVpHTml0c0lraWVkZUt5WTl6cVliZU9BTnA1Ni1PTEgyR21tWjBTMzFsaUJTcVZNMUVVbU8tUUgwNFJCV05CZDhOYU5hNjBfa2ZvSF9WVEZF?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 08:45:38 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "034020-기타-30435-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41706,9 +41711,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlVkJNbFIxN18zMDFmRzFOQnlEZVRoZ1hJc3drX0RpaG5YaEFQZnlCUGFtWGMtSEJ3SFFCdVBIbUdiOUlmREMycjVNUGkwY0E?oc=5",
         "pub_date": "Sun, 27 Sep 2026 00:35:28 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0td21JMnlLd0ctU1o0aWp2LWQ0ZXRTYlhsQ3BiXzA4TVJXcjd2Q3RhWkgySzdUNnNobk9zeVpLelNqVXEzbExNaXdwNUdNaGtZWDRZYg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 00:35:28 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-32899-20260927",
     "first_seen": "2026-09-27",
     "last_updated": "2026-09-27",
@@ -41782,6 +41792,78 @@
     ],
     "source_count": 1,
     "id": "237690-수주-32987-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 3분기 ‘영업이익 100조원’ 넘나…또 역대 최대 예측 - 한겨레",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한겨레",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XV2tYUUM3OVpXaXJiSTN4V1dIclNaazZfdjVyXzBNR0VTVzRfZFFGaXlET29LT2RpcHBRMWNXd0JGbmhUUTlQRVJrb1gwR0V5VzVvM2h3eHJ5YXF1WG54OFZGQ25NTFdIZ2c?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 06:13:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-33025-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 멕시코서 AI 생태계 알려…K-컬처와 접점 확대 - metroseoul.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "metroseoul.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuUGJtU3VnNzBPY2U5X1lwdFo2VHYtU2h6TzNCTGFkWGdmSXpodjhwNDJ4Y21td1N0cXJ2empCTW5zZUlTcmNHdXVNbUpOd0ZJTGpQMHA3M3Bid2RQcmY3Ng?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 06:26:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-33031-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "반도체 호황 속 삼성전자 SK하이닉스 육아휴직 사용률 동반 감소 - 2news.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "2news.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5heTZEakpYRWtWZ1I5N1FOZHpSUXNoRWEwN0F0NEplZ1JQMEdiU29sUUFwQTlBdHZpcmVHZ1NUSEJKNTl4UkdvcVBidXVYdzV1MmljbnYxOFdCU0loTkZmUmhwSGw1VGdJ?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 04:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-33044-20260927",
     "first_seen": "2026-09-27",
     "last_updated": "2026-09-27",
     "status": "일반",
