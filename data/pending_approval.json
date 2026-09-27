@@ -39202,9 +39202,14 @@
         "press": "엔지오프레스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kcGJQaWRlVDlhWHZORk05Y29SUmN5VG9KN2dDRGdiZlR4QnFTX0ZGbDJtNXUwZk5qdGs2VmVkaTB5TzE4YnJYX1hqX3VXMk9ZVmdLNE9fZmZMMDJBUGFSSkFKUkVQTks40gFsQVVfeXFMUHBQM3kyREdiMjk5Y3JYNEdJSmRHSEhDTGZUNHBndE84aEhnWEc5bXkwTHR1OV9QWlE4RFY5dFQzdG5WTVI2WXhXQll1WTJHc1V4QzctcEhSdzlNRkc0cFQ1UUZJYlZGZ3dfcThV?oc=5",
         "pub_date": "Sat, 26 Sep 2026 09:00:00 GMT"
+      },
+      {
+        "press": "강원일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV2pPWlVfYkNKbGJSZmFHUkUwMlhoRm1ZdGg1RUtlSnJBSjh2ZnRlWTBGZXZISGs0ZXNxTU0xWnhzUVRZZl93Rk84NFBEZWMweDVCcEdfbDEwRVU?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 02:53:41 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 12,
     "id": "006260-기타-30100-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-27",
@@ -39407,9 +39412,14 @@
         "press": "엔지오프레스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kcGJQaWRlVDlhWHZORk05Y29SUmN5VG9KN2dDRGdiZlR4QnFTX0ZGbDJtNXUwZk5qdGs2VmVkaTB5TzE4YnJYX1hqX3VXMk9ZVmdLNE9fZmZMMDJBUGFSSkFKUkVQTks40gFsQVVfeXFMUHBQM3kyREdiMjk5Y3JYNEdJSmRHSEhDTGZUNHBndE84aEhnWEc5bXkwTHR1OV9QWlE4RFY5dFQzdG5WTVI2WXhXQll1WTJHc1V4QzctcEhSdzlNRkc0cFQ1UUZJYlZGZ3dfcThV?oc=5",
         "pub_date": "Sat, 26 Sep 2026 09:00:00 GMT"
+      },
+      {
+        "press": "강원일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV2pPWlVfYkNKbGJSZmFHUkUwMlhoRm1ZdGg1RUtlSnJBSjh2ZnRlWTBGZXZISGs0ZXNxTU0xWnhzUVRZZl93Rk84NFBEZWMweDVCcEdfbDEwRVU?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 02:53:41 GMT"
       }
     ],
-    "source_count": 18,
+    "source_count": 19,
     "id": "060370-기타-30122-20260923",
     "first_seen": "2026-09-23",
     "last_updated": "2026-09-27",
@@ -41652,6 +41662,126 @@
     ],
     "source_count": 1,
     "id": "003670-기타-32878-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“한 분기 100조 벌어들일까”...삼성전자, 실적 신기록 정조준 - 에너지경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51cEhSamhENmlSbFpaRUJmWFNXdTNxNWhRU0ZFdy0xcDFzQU0zY0FOMUE1OXFUaXlOVFNvRmJhLTRYUmhLLS1LWVgxbFZseEdKN3VPQXRhb0ZZb1k?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 01:28:58 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-32887-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“지금 쉬면 몇억 날아간다”…삼성전자·SK하이닉스 육아휴직 동반 첫 감소 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlVkJNbFIxN18zMDFmRzFOQnlEZVRoZ1hJc3drX0RpaG5YaEFQZnlCUGFtWGMtSEJ3SFFCdVBIbUdiOUlmREMycjVNUGkwY0E?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 00:35:28 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32899-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성·SK하이닉스, 3분기 또 '역대 최대 실적' 경신 눈앞 - 미래경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "미래경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WYXNlX25kYVc0MllkckxxakZsVElFd2FySXlZekpseEJ3Smh4NkpLSXNxTV8zdm9SZTZVNUdrZkZqUWs4M0NoR25sQjNPbGRia3pLdmQ5ZFVIX1k3N0l1UFBjSFIwLWlUSUs3cA?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 01:20:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-32905-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'억대 성과급이 휴직도 막아'···삼성전자·SK하이닉스, 육아휴직률 나란히 감소 - 뉴스웨이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스웨이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOWY3YlhZUTQ0UlFZeFUzbFhhTUoyZjF3S1lrSG1CQ0M2ZVg0c2p1ZjFpT1haV05IbWpnQ29kZG5JN1ZFZlp3MEtITVpwZnV5TGhocE9CZldBTVdCMFVEUUpVY2w4WnBlWVE?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 01:06:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32906-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에스티팜",
+    "stock_code": "237690",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "RNA 치료제 적응증 확대에…에스티팜 올리고 수주 ‘쑥’ - 서울경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DeWlYc2xoMHoydGRVMEl1aXdsUy1qeFp2SUtaNkVTNUR4VUh5LVFpQ0tYRVh3eXVYcFdETWtNNlJMeTJacDdHdHBWOFdyaVkyNXfSAVNBVV95cUxQRy1CbDItaHNqU0MyNlRRUVpWZjl6LUY3ZzJfY2pVMmRDTENsVkI2bERWT0l5a0FMakpRNDBkRFR2dlo5MDl6Q2lYMXZYUW1fbWV4QQ?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 02:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "237690-수주-32987-20260927",
     "first_seen": "2026-09-27",
     "last_updated": "2026-09-27",
     "status": "일반",
