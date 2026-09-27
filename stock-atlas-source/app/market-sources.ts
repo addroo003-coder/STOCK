@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[뉴욕 마켓] ‘반도체 풍향계’ 마이크론 실적 30일 발표",
-      "office": "국민일보",
+      "title": "연휴 끝난 증시, 30만전자·200만닉스 쏠린 눈…삼성전자 오늘 ‘배당...",
+      "office": "디지털타임스",
       "date": "20260928",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875236"
+      "url": "https://n.news.naver.com/mnews/article/029/0003050061"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "美 ESS 업계 ‘1테라 시대’ 예고… K배터리도 영역 넓힌다",
-      "office": "국민일보",
+      "title": "美 ESS ‘1TWh 시대’ 막오른다… K배터리, EV라인 전환에 ‘올인’",
+      "office": "서울신문",
       "date": "20260928",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875247"
+      "url": "https://n.news.naver.com/mnews/article/081/0003683825"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "한화 KAI 경영권 확대 논의 계속…노조·공정위·국감 등 '촉각'",
-      "office": "더팩트",
+      "title": "AI·항공우주부터 라면까지… K산업, 중남미 시장 키운다",
+      "office": "서울신문",
       "date": "20260928",
-      "url": "https://n.news.naver.com/mnews/article/629/0000537014"
+      "url": "https://n.news.naver.com/mnews/article/081/0003683775"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화 KAI 경영권 확대 논의 계속…노조·공정위·국감 등 '촉각'",
-      "office": "더팩트",
+      "title": "한화 vs 현대로템·LIG… KF-21 '장거리 공대공' 수주전 관전 포인트는",
+      "office": "한국일보",
       "date": "20260928",
-      "url": "https://n.news.naver.com/mnews/article/629/0000537014"
+      "url": "https://n.news.naver.com/mnews/article/469/0000956241"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "美 ESS 업계 ‘1테라 시대’ 예고… K배터리도 영역 넓힌다",
-      "office": "국민일보",
+      "title": "美 ESS ‘1TWh 시대’ 막오른다… K배터리, EV라인 전환에 ‘올인’",
+      "office": "서울신문",
       "date": "20260928",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875247"
+      "url": "https://n.news.naver.com/mnews/article/081/0003683825"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "한화 KAI 경영권 확대 논의 계속…노조·공정위·국감 등 '촉각'",
-      "office": "더팩트",
+      "title": "한화 vs 현대로템·LIG… KF-21 '장거리 공대공' 수주전 관전 포인트는",
+      "office": "한국일보",
       "date": "20260928",
-      "url": "https://n.news.naver.com/mnews/article/629/0000537014"
+      "url": "https://n.news.naver.com/mnews/article/469/0000956241"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 손자회사 ‘솔리다임’ 중복상장 논란 재점화",
-      "office": "경향신문",
-      "date": "20260927",
-      "url": "https://n.news.naver.com/mnews/article/032/0003472682"
+      "title": "'바로미터' 마이크론 실적 발표 임박…삼전·닉스, 3Q 영업익도 190조...",
+      "office": "뉴시스",
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/003/0014216374"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
