@@ -33146,7 +33146,7 @@
     "source_count": 2,
     "id": "144510-기타-25509-20260918",
     "first_seen": "2026-09-18",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -39207,7 +39207,7 @@
     "source_count": 11,
     "id": "006260-기타-30100-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -39412,7 +39412,7 @@
     "source_count": 18,
     "id": "060370-기타-30122-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -40007,7 +40007,7 @@
     "source_count": 16,
     "id": "068270-바이오-30551-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41119,7 +41119,7 @@
     "source_count": 2,
     "id": "237690-수주-31644-20260925",
     "first_seen": "2026-09-25",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41365,7 +41365,7 @@
     "source_count": 3,
     "id": "298040-기타-32500-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41389,7 +41389,7 @@
     "source_count": 1,
     "id": "034020-기타-32509-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41413,7 +41413,7 @@
     "source_count": 1,
     "id": "032820-기타-32545-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41485,7 +41485,7 @@
     "source_count": 1,
     "id": "207940-실적-32744-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41509,7 +41509,7 @@
     "source_count": 1,
     "id": "005930-기타-32771-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   },
@@ -41533,7 +41533,127 @@
     "source_count": 1,
     "id": "000660-기타-32780-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 육아휴직률 첫 동반 하락…성과급 최대 6억에 휴직 포기 - 매일신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일신문",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOXZraEJPVjh6V1ZIVWY3TFBybVczNE5OT09VaS1XeEcwWEgxdWpuQXRXb0tHRTB5Q3NwZUFFdVVxUFBXb0dOMDVoUG1GczNXNW9QVS01M2NGaWd0YlRNR0Vn?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 21:44:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-32823-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 3분기 영업익 전망 3개월 새 상향…상장사 전체 4%↑ - 베타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "베타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RS3IyZ3lTOUdUS0o5MHB6c04yNVRtWlE3NWVhc3pUZHRGVmtrZWJLNkxOZG1CZlVaRGJocVhreUR2cXduZ3o1ZWR4UUJyNlB1bmVKRE51aF91Rm1LaXppd0ZkY3g?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 23:32:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-32828-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 육아휴직률 첫 동반 하락…성과급 최대 6억에 휴직 포기 - 매일신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일신문",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOXZraEJPVjh6V1ZIVWY3TFBybVczNE5OT09VaS1XeEcwWEgxdWpuQXRXb0tHRTB5Q3NwZUFFdVVxUFBXb0dOMDVoUG1GczNXNW9QVS01M2NGaWd0YlRNR0Vn?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 21:44:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32829-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 3분기 영업익 전망 3개월 새 상향…상장사 전체 4%↑ - 베타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "베타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RS3IyZ3lTOUdUS0o5MHB6c04yNVRtWlE3NWVhc3pUZHRGVmtrZWJLNkxOZG1CZlVaRGJocVhreUR2cXduZ3o1ZWR4UUJyNlB1bmVKRE51aF91Rm1LaXppd0ZkY3g?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 23:32:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-32830-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠, 확대되는 음극재 존재감…공급망 재편 수혜 기대 - 딜사이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "딜사이트",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOXhxOTh3clk2bWFhWGlsalRwQ2FDRXM4emhHRk5lM2pXNllHcnlETjJMV0k5eXlNSmhwZFczUlk1b2kyVWgwcHFieExYYmc?oc=5",
+        "pub_date": "Sat, 26 Sep 2026 23:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-32878-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-27",
     "status": "일반",
     "stale": false
   }
