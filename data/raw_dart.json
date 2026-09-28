@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "company": "칩스앤미디어",
+    "stock_code": "094360",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+    "rcept_no": "20260928000175",
+    "rcept_dt": "20260928",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928000175",
+    "is_correction": false
+  },
+  {
+    "company": "한전산업",
+    "stock_code": "130660",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260928800218",
+    "rcept_dt": "20260928",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800218",
+    "is_correction": true
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "전환주식의전환가액조정              (전환우선주)",
+    "rcept_no": "20260928900217",
+    "rcept_dt": "20260928",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928900217",
+    "is_correction": false
+  },
+  {
+    "company": "제노코",
+    "stock_code": "361390",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임시주주총회결과              ",
+    "rcept_no": "20260928900225",
+    "rcept_dt": "20260928",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928900225",
+    "is_correction": false
+  }
+]
