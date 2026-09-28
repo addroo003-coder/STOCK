@@ -4951,7 +4951,7 @@
     "source_count": 1,
     "id": "006400-실적-4980-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -15613,12 +15613,17 @@
         "press": "Investing.com 한국어",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlN2VtX2JwSEhkZWE4UFk2bTFHXzVMdFZ1bzFzZThvUi1XRi1obUp1UTlRdTJ4R2VOejR5QXpaNzlGSFZ6OE5tamFQWElMNzhudGdpX0hVSmVfM1cybFhpZTJfSVZJU04wS1owV0RWSWU?oc=5",
         "pub_date": "Mon, 07 Sep 2026 01:39:00 GMT"
+      },
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOczRUN0JhV0F4RG5naUVJUFVJS0lzckRWdXBTODlPeFg0bXZGamtLZm1wU0lkei1uZTFZWVlxUU1HT05XRExSN25nN3FSZ0lYRDZweW1JblhzYVItN2xCZ2JrUHVfa3BIU0l2dVB4UDg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:39:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "005930-기타-12024-20260907",
     "first_seen": "2026-09-07",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -33146,7 +33151,7 @@
     "source_count": 2,
     "id": "144510-기타-25509-20260918",
     "first_seen": "2026-09-18",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -39422,7 +39427,7 @@
     "source_count": 19,
     "id": "060370-기타-30122-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -39841,7 +39846,7 @@
     "source_count": 4,
     "id": "034020-기타-30435-20260923",
     "first_seen": "2026-09-23",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41380,7 +41385,7 @@
     "source_count": 3,
     "id": "298040-기타-32500-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41404,7 +41409,7 @@
     "source_count": 1,
     "id": "034020-기타-32509-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41428,7 +41433,7 @@
     "source_count": 1,
     "id": "032820-기타-32545-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41500,7 +41505,7 @@
     "source_count": 1,
     "id": "207940-실적-32744-20260926",
     "first_seen": "2026-09-26",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41668,7 +41673,7 @@
     "source_count": 1,
     "id": "003670-기타-32878-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41798,7 +41803,7 @@
     "source_count": 1,
     "id": "237690-수주-32987-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41822,7 +41827,7 @@
     "source_count": 1,
     "id": "005930-실적-33025-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41966,7 +41971,7 @@
     "source_count": 1,
     "id": "195940-기타-33272-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -41990,7 +41995,7 @@
     "source_count": 1,
     "id": "005930-자본-33325-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -42014,7 +42019,7 @@
     "source_count": 1,
     "id": "005930-기타-33326-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -42033,12 +42038,17 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNGc2S0hlVHRpMUFrMk9tREVvbmUtNkE3bXg1V0xpWGU0OFhjaXJBZHkwaDFjZnZYaFRmMkVJQ2VJUkVNcS0zVEZEcWFhRzg?oc=5",
         "pub_date": "Sun, 27 Sep 2026 20:00:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wSUxQNkQ0c3lYMDc0ZEtXUTI0Y2FJVHhFVDVCNzBSZnRLVnkzcGV1Ty1aR3NkN2o4a2xjdlZYc0toX3lXWmc?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 20:00:45 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "005930-기타-33329-20260927",
     "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   },
@@ -42057,12 +42067,445 @@
         "press": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaF9USmdSel9MazFVZHFaSXBWa1RGMThUTURVQXhCeG5ia3V0RkVMV2VCWk5sZ1laMzlidE9hNzlpU2dDUE80THk4SDlXMEM0a1l4S1ZDLXUxSFpZNjFRUU5BaVgwdDgtLUNFdkNwUFBoc0syYjAyY3ZURWh3YVRnTkhhNUhReE9z0gGcAUFVX3lxTE5BSVhkVmhFUlA0Y1ZQeDB1MGcyZHBQYWFiMF9QUThQcFpmTVR1TWtBTGtkblhWUWF5TThwNVdGY184YUVHbzZIazJCSHdXSGZ0QldYWWJoUVFQOURsNlA0NHZKVFNmWWdmMkw1Nk9lcjlvc0RTYXFVak1iTUZRZUhDM2NXSDBkcDRiRmVDbHMxMnpfSWI3Z25ZdXpTeA?oc=5",
         "pub_date": "Sun, 27 Sep 2026 21:00:00 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaF9USmdSel9MazFVZHFaSXBWa1RGMThUTURVQXhCeG5ia3V0RkVMV2VCWk5sZ1laMzlidE9hNzlpU2dDUE80THk4SDlXMEM0a1l4S1ZDLXUxSFpZNjFRUU5BaVgwdDgtLUNFdkNwUFBoc0syYjAyY3ZURWh3YVRnTkhhNUhReE9z?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "011790-기타-33398-20260927",
+    "first_seen": "2026-09-27",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 본주는 한 자릿수 하락···2배 ETF는 최대 '반토막' - 스마트비즈",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "스마트비즈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2eExkUUIxT1VSelk4MFNNd0VaOXFSb1pUVHk1TnliVkVLUElGZjRuWlZ6QXVJaTZrWmF6dHlDSUFkaWxuMXBvNENvVlczV3haQ0pRVE9ZM0VaNG9meThTOW1RNDlKTndhbmhOYQ?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 22:48:09 GMT"
       }
     ],
     "source_count": 1,
-    "id": "011790-기타-33398-20260927",
-    "first_seen": "2026-09-27",
-    "last_updated": "2026-09-27",
+    "id": "000660-기타-33406-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 3분기 실적, 3개월 대비 5% 상향 조정...SK하이닉스도 2% 올라가 - 비욘드포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비욘드포스트",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82N0EyemExYVhveG9VamRjNlJ6TXZPZjFUMUlheHhXR2ZUVWlRS2tTUlJvN3BGa3hqYU1JOG9iMkNtaGE3UEFJMzYwb3FIdTB3R3hMS2wyUkhPLWZod0w2VHc4S3NpT0xmYTRnWDJMVUJxOW9CVmJRQkNISks?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 21:46:28 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-33407-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "iM증권 \"대덕전자, AI 기판 수요에 2027년 이익 전망 상향\" - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ycVN4NlZ4Y2JlQ1RsT1JaY0VONFZ4RVZLUEJaRjZlaGJfekJndUlPd3pTa25MLW1uMDdvZ0dpYWlGVldHaXJ6T1pqeGc2RWM?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:05:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-기타-33442-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "iM證 대덕전자 성장세 견고…목표주가 15만원→19만원으로 상향 - 아주경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EMnlDMlFVdlRyTzNoNmM1YkJuajduRll2bEZBdFBrQnpURUg5cGZLaG1PM2daeHlDclppYmkzVzhBbEhpMWl4aTRnbVpaWDJFMlF1aWRDS1lpZ9IBWEFVX3lxTE12dERDa0dScmROdHdSdXRBT0RCRGVvMVFMTDM5SGhLR2tKNWZnZzJBNFVlM0VxWWR1TXItNFFRX0p3UTB6aUJmeW5rWUVDZzdEVTVldHRlZzg?oc=5",
+        "pub_date": "Mon, 28 Sep 2026 00:00:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-기타-33444-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“대덕전자, 실적 기반 경쟁사 주가 캐치업…목표가 19만원 상향”-iM - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFh1M0xQWVFveXhmUDVFZ3JiRmZJSy1pUmk0OEFtcWlvcERYRHFQbWFuV0tOX0l0MHRNZjNlWEFhWTZVVmFGZWwzcmxORS1ib2prNVhUWENDSnFJb0FJUEhTb2MtZmszcE1RRWNiRi1aZWVfZGdJTEQxN054MGFKZA?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:17:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-실적-33445-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 싱가포르서 데이터센터 전력 솔루션 공개…아세안 시장 공략 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hTU1PUXFDbjdJejRhYkNQc05zdkVvUF84WnhPcVVHb2puRDJ6TTJmM3dsc2I1OUVBTHpCVXN6OXN5VXQ0X21qblRyM0J2MmsxMWlFY1VSTDFBR1Ytak5SNw?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:03:40 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMnhPT2g4NFpBSVBseklXX2c4TWRydG1SUEoyYUhwamdkc0ZKcmREaV9rb2NsdjY4cGUwMDNWT1dfRFg4TVRyQ0kyVlA2NEk?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:40:31 GMT"
+      },
+      {
+        "press": "더트래커",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqSC1XOUV2eF9jaWRiSklycXJaUnpHcjVXcmdLdmc3dTUwbzdPbFVmdEo5d0RfSW9XZGpkSmJyX1F2cC1BLWtDUHpRRXNGTzB6YlliaUxsa1o?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:36:14 GMT"
+      },
+      {
+        "press": "한스경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEV25EbVUyVmN5X0Y4TlRvNkM2WHNSMmUxUjZvdXJ0YVlqSTZyV0ExNzZ6bmFIX2JfR21abG5xQnNxaWR5UDVqd1NiM0kzSy1PMllMMDFLdlBsakZURFVRVm1aUVNBakVOLVVxbdIBb0FVX3lxTFBnclpKWXdyWWNINGxJN1JxRDZtYXJ5eW9KSFFQNGF3cWxMRkVncVVEYTRpNjBfYVpwTDJ3c3NON0Eya0xPUVVRWHZHZ0diMzZ5ME9OUlRnYzlvbkpJS2xMWlpvQXh5anBCMzNlZGtZNA?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 22:55:01 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wMEVwUjluMWZCVXBjUHVPakFaWkI2TE16M3MzVVNocGZSek1oZHU1cFNOY2lZemV4eUQwbUN5N21NOGxMUzJnZG1uMXY3SXc?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:35:27 GMT"
+      }
+    ],
+    "source_count": 5,
+    "id": "006260-기타-33464-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 아시아 최대 데이터센터 전시회서 '풀 패키지' 솔루션 소개 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQUtGeWdOcTBkY29lVjhnS2V4dHNkOFNUdDhvdUxJOEdzTFFQbTRZbnJwRFQ3TE82cXNOUjFOOTlRa0V2WXZXQW5wa2wta0ZQMmlDbkdlNllFQXdDdG9ZWg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:40:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-33465-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉, 싱가포르 거점 4억 아세안 공략 속도…亞 최대 DC 전시회 참가 - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RzdhdXZCWFpmaTVhc2xuQy13b3VTZFVmT3l6ZFNGcEFOeVRvNEpmTmZXNDlvN210MW52blllV1ZzX3NHN2o3bXV6aXloMVBmN19sUS1Da1Q2VjloR056U0hraVPSAWpBVV95cUxQcE9HeWNHM0w4cUVXUFl2YnVFcGNVVm9qU3dremoyVG5BYWxNSGdJTEtzNk5xcE44SDNjRVc3MXJiWVlQdmx3cVBtckNrcTRpY3pmV1NKdmtBN2xmcE9lQkNHWGVkN2MtUkR3?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:55:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-33467-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉, 亞 최대 데이터센터 전시회서 전력 통합 설루션 전시 - 헤럴드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwa3I0S2dZMERIcmszOEE3SXExbWZJZGc5SndjV2JpY2tlVk9KN0pPTWpnbml3NUc4UjNrdHJfbkFKaVBVZTNrcFFfR3ZtRmZBZS1rMFlB?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:56:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-33470-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "이노스페이스원, 전자책 플랫폼 ‘페이지박스 2.0’ 10월 1일 출시… 콘텐츠 라인업 확대 - 공감신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "공감신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOTENHZm41TGd2bGZ2ZFBiODdfQUlOU1NZZzl4dmxPVjM2N1N3MldGVThtQTRIam96dWUwWE5obFY2TzJzenFqZ09sYmJzajlMSzBPXzVkOG1aWGs4SjUwSGJ3ZjlqNWxH?oc=5",
+        "pub_date": "Mon, 28 Sep 2026 00:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "462350-기타-33520-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "휴젤 목표주가 41만원→30만원 하향…“미국 직판 전환 과도기” - 강원도민일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "강원도민일보",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSnktSm12VVhUVWR1NnRzaGttUFFNUDlnVERsZWhCaWVWRE9rb0xPYXJ3S2kyVUk4Ui1xQnp4MDdvVTQ4MUtnSW14OFVvMmZFdllyVFNiWXdrV3BUZkYtQzlyNjM3bUk?oc=5",
+        "pub_date": "Mon, 28 Sep 2026 00:00:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-기타-33557-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "증설",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성證 삼성SDI, 북·미 ESS 증설 가시화…목표가 64만원으로 상향 - 아주경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMeDNGVHI4c28yYlhRaWs1ZmxUblVaUnRlb2d1Ulltek0xVlJrc0d1MUVhYllXTXJ5dmFIV01QZ19RenlmQ3FXSkV5aDMxX25iRGdLY0RwSXpkQdIBWEFVX3lxTE1tWkJrS3YwMVFsMTB0a2ZFVlI0LXRWYU10NldsNVV2Q1pwQ1RrdzdIMDh1T0o0RmMycGRYd1djbWJUVlI0OGFJVm9SWUtmZXFlZ29rYkRJakU?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 22:58:37 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-증설-33572-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"포스코퓨처엠, 추가 수주 기대감 확대\" DS證 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81ZkZCbWZNdFIzS3pEVTBILWJjRlBhNURhazJMZHpPdGR2MlAyOERtLTVfUG9WSC1jaUc1Q0FBRWU2VnZsN25WNVE3QVZvejA?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:32:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-수주-33579-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK證 “서진시스템, 반도체 장비·ESS 모두 성장세…목표가 7만원 상향\" - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnFrWkhyQkpua2VwUkN6SjVXLUU4bHZjejRRTjF4V0xsTVVReGNscG5DQW01TlhEUmxkcHlMczlNZDdTV1hqVGx6ZGpUOG5kWU1sbDQ4eG54M1AweUY4N1FBNUxydC1LSXRYTlJVaTRzTUhPdUlXNTlkTzJKeEI3emZUTnRvNnJU0gGcAUFVX3lxTE5EeFdkd1M4Mzhvb3p0aXBYRkI0RUlIQkN2LUtENUwtTktTRWN3R1R4WEpGV3pfWDA5UmNFLXlYOGpUQnA5ZHRqZ1JoUGNGZjRtMFVrRXdLZHdvNUtwNFZvR1ZjSFAwdl9RSDBnRVNRUVpGd3hmLVRyM2lCZFE4TjAyeHFlbmRNMFRuVFNkRDVrUUdzOGlXbG53RGpCeg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:36:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "178320-기타-33591-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[모닝 리포트] \"서진시스템, ESS 출하 정상화·반도체 매출 2배…3분기 흑자전환\" - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMR2JMRFFJdnZEczdjT0w2NV9nVzI4TW9qN0pTcndNSnAyY0ZXYXVXM2hPV2VNUmVLU0RmTW1QQjU1Mmx6azVsV0tRU3JhQWRsZHlCRy00LXpfWmc2?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "178320-실적-33592-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“서진시스템, 글로벌 AI 인프라 축 담당…목표가 7만원 상향”-SK - edaily.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenBUaUpzZkRRQmRFd1dGTk9USFZaMHR0bXVBaHdNRHVBOVdqVlF3Y1Q5dXBYNUtlZnkxTjFKT1ZSYVhXMVB4djVmVlJGdjUycV81RUszRUlVMGstN3NER1RjMlZFM1ozV3VwN2hSU1VpRW1xMGlUMm9jNGFwMEFITg?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 23:41:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "178320-기타-33595-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK증권 \"서진시스템, 하반기 ESS·반도체 반등 본격...목표가 7만원 상향\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwOVloRDM5MGV1bFU4dkRWaEtwWkYyM3FIYU8yV0hGUkdwVjRQSHk2cDE3RFJmd2VhQVZBRlR3d2VRTGZaYnVmQWJSZHZ6d3lwZGduZzNKR09ZczdVMkwyeU5odXB4SXlIZXJXbEt3?oc=5",
+        "pub_date": "Sun, 27 Sep 2026 22:42:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "178320-기타-33596-20260928",
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-09-28",
     "status": "일반",
     "stale": false
   }
