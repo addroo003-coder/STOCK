@@ -8810,9 +8810,14 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90ay1MV21hN0JiTFYzOE54N2tVWC1jVUU3Nk53QmkwNjFEQ2FCTVBCSExnOERpa05VZzBYVUlIV0M2N012TjEtd3FSeWdrOUhUTmdEaUNsZThya19ZRlppNnpnS3p3ODVN?oc=5",
         "pub_date": "Mon, 28 Sep 2026 21:31:00 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kN3hCOXF0RnBvUTdDbFRra2hVSXJaQTYzNllNVHhNSGVXYTRzbXpVejFRaDJ0ZDRSU0liY3dGX2MyTjR2WXNEVTBTbWpWSGtjdDdIMUQ2QkhfT29TdC1obFlWTGdJM1pF?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 21:25:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "247540-기타-6566-20260902",
     "first_seen": "2026-09-02",
     "last_updated": "2026-09-29",
@@ -43280,7 +43285,7 @@
     "source_count": 1,
     "id": "141080-바이오-33935-20260928",
     "first_seen": "2026-09-28",
-    "last_updated": "2026-09-28",
+    "last_updated": "2026-09-29",
     "status": "일반",
     "stale": false
   },
@@ -46283,9 +46288,19 @@
         "press": "ER 이코노믹리뷰",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZ0pOZTFJNTctX3I0SExvREtuaFJCVl9vX2d2SndlOWhyNHcyaHdnVTZvSkNhSC1DTl9iOTFXUDFPNkViS1hrRGh2bEFxTGxadVlDV1lubmgtQTM3aTVzWHZ4aWpRN3FoV1hySw?oc=5",
         "pub_date": "Tue, 29 Sep 2026 02:52:49 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SODBvbm5pR1F0V2pYQWxKM25KbmNkYkphTXI0ZkhMRnU1UTRvaHozRVhVeXRhckR4blZlcm91MGcwUkNpOURQSnUyQ0dQaVp3b3hLa0FwczJJY0poa21iVW9IMzhZa1VuUnRNONIBckFVX3lxTE5kWXp4SVpjLUFYcU1RcURTQzhkWDJUSGlscUJTeHZlejk3cU5VcnhMMVFwQ3NnM3Q2azdpZExDWXhDSEVsVDdkY2EyOGhHbmt1aGMwM2JVcmJJVzJmQUNoTEJoaEtoMzY1Z2toRzVKVWZwdw?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 19:01:00 GMT"
+      },
+      {
+        "press": "부산일보",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCMjZlb2sxUnFhREtBdkExWDFXTFRTaHNxWl9abTJqck5CbU5keEw4Y25QOXBWeDYxMVpvSnV5RnVqMXlOMHVScVhNN1l4dVpOU2NMRnBuOWhSWVpPY3Z1b203WHNrUldQTV93RTNzMXI5X054OTdjWA?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 02:54:35 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 14,
     "id": "006400-기타-35359-20260929",
     "first_seen": "2026-09-29",
     "last_updated": "2026-09-29",
@@ -46407,6 +46422,150 @@
     ],
     "source_count": 1,
     "id": "195940-기타-35460-20260929",
+    "first_seen": "2026-09-29",
+    "last_updated": "2026-09-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "적자 나도 더 판다…삼성전자, 점유율부터 잡는 이유 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Lc1NSeGx5MjFBaFB3cU5faTBoemtnc092WGdsNFVNYWFkdnhGQ29OeXptTFV2MksxRUtPNmR2Tmp2MDRmMHlPSzlyOTItc284MVJySW9GUkNlTnVu?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-35470-20260929",
+    "first_seen": "2026-09-29",
+    "last_updated": "2026-09-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 몰빵한 개미에게 \"이 가격 오면 비중 줄여라\" 전문가 경고 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nVThzZGpNX290WkpSWm0xZFJEelZoWm1iVzZwMG9kN1Y4ZW45dGU3QXNYYTBHM210X2U4d0RtakgycVNTaW9MS1M3bXRXbVhfWDNwWU9EYXc1eFNLVUVTU9IBeEFVX3lxTFBkUzljd0ZHWDdGekFxc1ZjU3drY2tzOWhSMmdaU3NPaDFoMjRHTGdXb24yeVo1VktUcFFFSTJHVG1IMXkxTkFOcUl4TDMxR0p6bzYxWEs2a1Zyd0szenFOb0xhMVRCSGRVVHRncVdlWlVFV25rQ1JYVA?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-35480-20260929",
+    "first_seen": "2026-09-29",
+    "last_updated": "2026-09-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 몰빵한 개미에게 \"이 가격 오면 비중 줄여라\" 전문가 경고 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nVThzZGpNX290WkpSWm0xZFJEelZoWm1iVzZwMG9kN1Y4ZW45dGU3QXNYYTBHM210X2U4d0RtakgycVNTaW9MS1M3bXRXbVhfWDNwWU9EYXc1eFNLVUVTU9IBeEFVX3lxTFBkUzljd0ZHWDdGekFxc1ZjU3drY2tzOWhSMmdaU3NPaDFoMjRHTGdXb24yeVo1VktUcFFFSTJHVG1IMXkxTkFOcUl4TDMxR0p6bzYxWEs2a1Zyd0szenFOb0xhMVRCSGRVVHRncVdlWlVFV25rQ1JYVA?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-35482-20260929",
+    "first_seen": "2026-09-29",
+    "last_updated": "2026-09-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "펩트론, CPHI서 ‘스마트데포’ 알린다…글로벌 파트너링 확대 - sentv.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "sentv.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvYlFuM2ZMU3hocTRzWlJubXJlaUc1dzMwMUlGUXBnSzFiTWJPQWdwcm5hNTZBRzJPUWNnX24wT3p3YnpsUURTVWhWZVVQeDlpd3prTldWSnJwbEo2OHdjbngxMGY?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 08:00:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-기타-35537-20260929",
+    "first_seen": "2026-09-29",
+    "last_updated": "2026-09-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI, 아시아 최대 데이터센터 전시회 참가…혁신 배터리 설루션 공개 - seoul.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "seoul.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFZV83Tk04bWt6WlJJWGtrNFZaYW9TWHBLRVNfSGRSZFdOYkVENmZDRFNTUVExTjZleWJVNkRkeXBCR0hjN2p6RUZrMmllMjV0UzBLSnMzQzFrTTdETEpZeGhQd2RnZ3MxMlowd3I5ZWZLSjV1cGRfaFBraw?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 06:39:29 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-기타-35549-20260929",
+    "first_seen": "2026-09-29",
+    "last_updated": "2026-09-29",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[이주의 관.종]SK이노베이션, 올해 사상 최대 실적 전망 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HMFROMWJxWHVpYkJGaFBKR1dMNlZhMFhiZ3pQWEk4ZnJRWExCclVTRTE2a3lWQkJIeVhOcTdEeUhOQzUyNnNVWGwybDNFcEk?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 22:42:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "096770-실적-35550-20260929",
     "first_seen": "2026-09-29",
     "last_updated": "2026-09-29",
     "status": "일반",
