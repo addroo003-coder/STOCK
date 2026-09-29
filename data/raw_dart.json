@@ -52,6 +52,32 @@
     "is_correction": false
   },
   {
+    "company": "한솔케미칼",
+    "stock_code": "014680",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "최대주주등소유주식변동신고서              ",
+    "rcept_no": "20260929800454",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800454",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260929800281",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800281",
+    "is_correction": false
+  },
+  {
     "company": "삼성전기",
     "stock_code": "009150",
     "sector": "AI 반도체",
@@ -89,6 +115,32 @@
     "rcept_dt": "20260928",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800218",
     "is_correction": true
+  },
+  {
+    "company": "LIG넥스원",
+    "stock_code": "079550",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "선급금지급결정              ",
+    "rcept_no": "20260929800468",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800468",
+    "is_correction": false
+  },
+  {
+    "company": "이노스페이스",
+    "stock_code": "462350",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260929900298",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929900298",
+    "is_correction": false
   },
   {
     "company": "이노스페이스",
@@ -143,6 +195,19 @@
     "is_correction": false
   },
   {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(자기주식취득결정)",
+    "rcept_no": "20260929000153",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000153",
+    "is_correction": false
+  },
+  {
     "company": "툴젠",
     "stock_code": "199800",
     "sector": "바이오",
@@ -193,6 +258,19 @@
     "rcept_dt": "20260928",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928000201",
     "is_correction": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타인에대한채무보증결정              ",
+    "rcept_no": "20260929900335",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929900335",
+    "is_correction": true
   },
   {
     "company": "SKC",
