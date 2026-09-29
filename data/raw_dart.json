@@ -1,5 +1,18 @@
 [
   {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자율공시)              ",
+    "rcept_no": "20260929800083",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800083",
+    "is_correction": false
+  },
+  {
     "company": "ISC",
     "stock_code": "095340",
     "sector": "AI 반도체",
@@ -88,6 +101,19 @@
     "rcept_no": "20260928900217",
     "rcept_dt": "20260928",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928900217",
+    "is_correction": false
+  },
+  {
+    "company": "AP위성",
+    "stock_code": "211270",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20260929900108",
+    "rcept_dt": "20260929",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929900108",
     "is_correction": false
   },
   {
