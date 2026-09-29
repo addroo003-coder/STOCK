@@ -151,10 +151,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
-      "title": "과기정통부, AI 중심대학 18곳·AX 대학원 15곳 출범",
-      "office": "데일리안",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/119/0003137596"
+      "title": "과기부, 서울대에 ‘AI반도체 혁신연구소’ 열어",
+      "office": "동아일보",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751501"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/454910/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성전기, 글로벌 대형기업과 2900억 공급 계약… 올해 다섯 번째 장기...",
+      "title": "삼성전기, 글로벌 빅테크와 2900억 규모 공급 계약",
       "office": "동아일보",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/020/0003751440"
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751508"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성, 美헬릭스에 10억달러 투자… AI 데이터센터 사업 확장 승부수",
-      "office": "세계일보",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/022/0004162776"
+      "title": "현대차 33회-에버랜드 32회 1위… 삼성전자 10개 산업 석권",
+      "office": "동아일보",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751590"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "삼성SDI, 원통형 LFP 배터리 최초 공개",
-      "office": "경향신문",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/032/0003473225"
+      "title": "삼성SDI 'DCWA 2026' 참가… AI 데이터센터용 배터리 공개",
+      "office": "머니투데이",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/008/0005419963"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -753,10 +753,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=226950",
     "news": {
-      "title": "올릭스, 美 FDA·DIA 콘퍼런스서 황반변성 RNAi 임상 성과 발표",
-      "office": "서울경제",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666303"
+      "title": "[임상 업데이트] 올릭스, 황반변성 치료제 ‘OLX301A’ 호주 2a상 신청",
+      "office": "이데일리",
+      "date": "20260920",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372755"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/226950/news"
   },
@@ -963,10 +963,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "증시 주인공 된 자산운용사…주가 최대 변수됐다",
-      "office": "한국경제",
+      "title": "\"개발비 50% 선제 지원\"…SK하이닉스, 협력사 지원 체계 확대",
+      "office": "아시아경제",
       "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337274"
+      "url": "https://n.news.naver.com/mnews/article/277/0005822165"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -1299,10 +1299,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=161580",
     "news": {
-      "title": "필옵틱스, 신규 고객사에 차세대 2.0㎜ 유리기판 TGV 장비 납품…글로...",
-      "office": "아시아경제",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/277/0005821922"
+      "title": "2㎜ 두께 유리기판도 불량 ‘0’…필옵틱스, TGV 기술력 과시",
+      "office": "서울경제",
+      "date": "20260910",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660439"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/161580/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KF-21 넘어 AI 전투 체계로…KAI, 미래 방산 정조준",
-      "office": "뉴스1",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/421/0009196593"
+      "title": "AI전쟁중 총수 또 줄소환 논란… 이재용-최태원 국감 증인 요구",
+      "office": "동아일보",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751545"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "대학 AI 교육 판 바꾼다…기업 참여 AX대학원·AI중심대학 출범",
-      "office": "한국일보",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956643"
+      "title": "과기부, 서울대에 ‘AI반도체 혁신연구소’ 열어",
+      "office": "동아일보",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751501"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 내달 2일 임단협 조인식…곽노정 참석 '노사 화합' 도모",
-      "office": "아이뉴스24",
-      "date": "20260929",
-      "url": "https://n.news.naver.com/mnews/article/031/0001062135"
+      "title": "삼성전자·SK하이닉스 몰빵한 개미에게 \"이 가격 오면 비중 줄여라\" 전...",
+      "office": "뉴시스",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/003/0014222204"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
