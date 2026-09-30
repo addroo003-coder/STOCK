@@ -14192,14 +14192,24 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904800540",
         "pub_date": "20260904"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801256",
+        "pub_date": "20260930"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801255",
+        "pub_date": "20260930"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "is_correction": true,
     "rcept_no": "20260904800540",
     "id": "006260-수주-9682-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-30",
     "status": "정정됨",
     "stale": false
   },
@@ -25343,14 +25353,19 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800147",
         "pub_date": "20260915"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800924",
+        "pub_date": "20260930"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "is_correction": true,
     "rcept_no": "20260914800537",
     "id": "298040-수주-20329-20260914",
     "first_seen": "2026-09-14",
-    "last_updated": "2026-09-17",
+    "last_updated": "2026-09-30",
     "status": "정정됨",
     "stale": false
   },
@@ -39770,9 +39785,14 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900698",
         "pub_date": "20260930"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901064",
+        "pub_date": "20260930"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "is_correction": true,
     "rcept_no": "20260923900334",
     "id": "475400-수주-30284-20260923",
@@ -46173,9 +46193,14 @@
         "press": "리버티코리아포스트",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZTk0xNlhhVEZIZGxQdmRvUDdaV01pUlJ6SjdiSzBXekY3Mnh3TWNHdm1xbGFVOFcxZ3pqbXB1eDlIRU1LeWtuRXB0NFR6bU9OVTY1UDhCaHNNVXM5RUFSYmVENFbSAWdBVV95cUxOaU5oMzF3REkxVHc3MVZxMDJKcHdIU0dmRVNyU0thVXd0Qm5nbjNWTDhSMUw1Uk1tMC1MMHJEUEZsendzWEtPM1IwdWczMXVseUZHS2lvYnQ2U0RoSmt4M2xiR2duU0FF?oc=5",
         "pub_date": "Tue, 29 Sep 2026 06:56:24 GMT"
+      },
+      {
+        "press": "리버티코리아포스트",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pTmgzMXdESTFUdzcxVnEwMkpwd0hTR2ZFU3JTS2FVd3RCbmduM1ZMOFIxTDVSTW0wLUwwckRQRmx6d3NYS08zUjB1ZzMxdWx5RkdLaW9idDZTRGhKa3gzbGJHZ25TQUXSAWdBVV95cUxOaU5oMzF3REkxVHc3MVZxMDJKcHdIU0dmRVNyU0thVXd0Qm5nbjNWTDhSMUw1Uk1tMC1MMHJEUEZsendzWEtPM1IwdWczMXVseUZHS2lvYnQ2U0RoSmt4M2xiR2duU0FF?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 06:57:24 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "051600-기타-35283-20260929",
     "first_seen": "2026-09-29",
     "last_updated": "2026-09-30",
@@ -47195,9 +47220,14 @@
         "press": "서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1udDlmVS1iczNnM3ZZRWlNVkpmR3owNXgwcE9ISDFCa0lLeVBnWVNrTFpoWExKbmYtaXFDT1hmNkxPcGpFMHZURnFUcW1ybkk2UmfSAVNBVV95cUxOSmlvcnNRNmpDWThVUE9ESmRPZjJxLWRDbGpDQXhOSXI0cGJJcUtVRGVvSzlKSVdRbG51ZFBNZnJ0aTBXZWRyTDIwbFhnWGhjQWhTQQ?oc=5",
         "pub_date": "Wed, 30 Sep 2026 02:12:50 GMT"
+      },
+      {
+        "press": "인더스트리뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wOHhhdDVVSFpHZy1ILWt3MDV1WFFkdktkOXY4WHk4M2VmUzBEc2NVSFRNTDJOZmF3Tl9OZEVFbFkzUTN4V3laQ011WDRua2pTQnZLV1JaMlF5aG9pTVYzRUgwVjFWU21FNDNvTXFlcVZ3dw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:51:42 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 9,
     "id": "277810-기타-36062-20260930",
     "first_seen": "2026-09-30",
     "last_updated": "2026-09-30",
@@ -47321,7 +47351,7 @@
     "sector": "바이오",
     "category": "바이오",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "리가켐바이오, 에이비온과 iADC 공동연구 및 기술도입 계약 체결 - 데이터투자",
     "source_type": "news",
@@ -47335,9 +47365,14 @@
         "press": "데이터투자",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WNFFMWDI3eXp1eFRhZ2JwNXI5T1VvalZUN0NOSjVIRWM4LURkRHZvR2FzOWNRWmJwdEk2UjhJSUoyZDF3MEJwUGNqd204RVoyWWY1eDg5RGQ0OVU2X1I0VmhnXy0zWXo0ZGZjeWUzRHY5c2s?oc=5",
         "pub_date": "Wed, 30 Sep 2026 06:57:36 GMT"
+      },
+      {
+        "press": "바이오북미디어",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PMVhscWZKU2U5MXZxalBVWVIwRmZ1bDZReVpELXM5ZFAzTDBpTl8yamJZdWhKTkpELTRLOGFwUWdWaUFVZUpSajZwaG9fSExCS25xQw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:05:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "141080-바이오-36214-20260930",
     "first_seen": "2026-09-30",
     "last_updated": "2026-09-30",
@@ -47411,6 +47446,377 @@
     ],
     "source_count": 1,
     "id": "011790-기타-36302-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, ‘AI 구독’ 개편… 고객군별 관리 확대 - 이코노미톡뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이코노미톡뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oWG01UHAtQmowWTA2cWVuQUlnSVduMTRMZnY4a29DdFRHQWNRSC1tdmZKcDFINHJneTVjeWVwcFo0LXFkWHpjMkc1elpIZEtPVEhqQW1kV2U2RkNxSC00SDFLRldMUDlJcmEtYg?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 06:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-36333-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 자사주 소각·실적 견조…SK스퀘어 주주환원 확대 기대감 고조 - 리버티코리아포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "리버티코리아포스트",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01UWxseWU3eEpJcDMweTR2ZDZJaldzMjhDbklNRFV3dUN1eXViV2FxdF9jb05fUjhoVzQ3YW5IRGgxQ2J2VkpYbzVFZ3hjWEhyNTZrRC1Rcng5VG5fRHc1S2k3cXBMTmPSAWdBVV95cUxNNVFsbHllN3hKSXAzMHk0dmQ2SWpXczI4Q25JTURVd3VDdXl1YldhcXRfY29OX1I4aFc0N2FuSERoMUNidlZKWG81RWd4Y1hIcjU2a0QtUXJ4OVRuX0R3NUtpN3FwTE5j?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:14:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-36342-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최창호 등, 하나마이크론 지분 26.08%로 축소 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsVndhTkZaMHB2V05qTWVjX1RGNDdpZzVZOUEyNkhkR2wwZGktOUlXSWNocDExZGJBRDY0cEc5ZWpiY3BEcUVsRWRrU3VCRlNGMm9lQ0hhVjlzakxGcmprd0FtX2RKTnljZ3p4VXZfRjJqM3M?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:32:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067310-기타-36364-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "레인보우로보틱스",
+    "stock_code": "277810",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SFA-레인보우로보틱스, ‘로봇 기술 공동 개발’ 업무협약 체결 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTBlVm9LN21DTExlTmY2RHNQcHYtbnVlekYtUnVpVlk0X3h4OXVHSHhIUk1Td0trcW0zNHdlZnlhWF8tRExDTnpZRGxtZnBYTU9tTGttQVpyVFNtZko2a3pkUnYwbU1ISWs5S3dUVl9IbWtuVk9TX2xqWVNub3BiSW5SMHhiaHlRM0ItdGpzdlFpOHFnMVBBY3BiRHjSAZgBQVVfeXFMTnRYLXB2ZHRDajJ3anhHdXVocmFyMjQ2d3k5RVhYU1U0ampmTWxHMGE1VHpuWjBaQkhMeVFkX1RlT2FNNzAxTkkzMnk5YzJYeFRfUG1obFlNY0x5VUEyRDM3WEZRN3R2QWVFZXpLSmZQWTZOb0JLTmRiUWcyemc5NDEzZ2N3Qi1fS2RFVGozSFU1dktVd21xSXc?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 05:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "277810-기타-36433-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "김태균 한전기술 사장 \"SMR·해상풍력 등 미래 에너지 기술역량 확대\" - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CUXg4U01Jd21tbnJ1Q24tN1NnVlRISVZER0RuQnhKbEswZHNVRkJDblR6Nmlqak55bXpOLXA4RnZUSXpHZWdDMjZtbm9VLVE?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-36468-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "홍평우 측, 우진아이엔에스 주식등 보유 비율 53.21%p 감소 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvbUU2R1poYVZBWGVHZ3dlUDBkbTF1cTBZY2diLWV1RE9OXzhiT3VDYzljYzZ5bjRaSkNrZDZ4WVFSdlRkeWRfdHpxVDN2ck5ZSElqMnp2UExBX2plTkNUQU84M2N5YUpiTUd2WllBTk9lVGptSDJMTS1lbw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:20:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "105840-기타-36480-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "우진아이엔에스, 최대주주 홍평우에서 홍경모로 변경 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NeGRMQU12UkhCYzM1RG05N1FURTNOdTRheDRlczZBVVpubHZaN0tNTXgwV2tBNmV5bGRhQWQwelZnbzAyUzZCc3JObUJ0bzVVNzcyVmpKc053YjQ2OEw0dEYyNGdNX21LRUw3OGFpZ2t6d29GLUJpYUVyWQ?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:35:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "105840-기타-36482-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "컨텍",
+    "stock_code": "451760",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "대전시, 컨텍스페이스와 우주산업 협력 확대···대전샛 프로젝트 추진 - paxetv.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "paxetv.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcFpVdm04WlZJcmhHQnVoTEpjNnZpaS1BNW83dVJYRElZWDdMQUJDMXFvcGxNZ2RELXowM0JsQ2hPQUhEd2FnYkhzWU1ZOXlCT3pZWXRLSzdYZ3dYYVB6VDlwMUFvZzQ?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 14:24:40 GMT"
+      },
+      {
+        "press": "메가충청뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3YXpBRUROX0l0QkJHRzdNZjN4NTRiX3dOZE5VTU0wZFhvMjJnREFJNlhwUkkwWmQxM3JxZWx5SkNTcGEzdi15ajRnRlhHd2VaUERvZlpuLURxS0lzTEZHOVdwTjAyaHY5MmFn?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:32:36 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "451760-기타-36513-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "컨텍",
+    "stock_code": "451760",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "허태정 대전시장, 컨텍과 우주산업 협력 확대…‘대전샛’ 10월 7일 발사 - 타임뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "타임뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwRElWeGQzQ19RQ1hhUnhEdFJreHVBbHpJcW1pSVlLN1dVdDhRbjBZZVVyNEJPRFR1dWRra2pnSGRreG9WcUhYbDhGRmxYLWJPWmsyag?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:52:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "451760-기타-36516-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "컨텍",
+    "stock_code": "451760",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대전시-컨텍스페이스그룹, 국제우주컨퍼런스·대전샛으로 우주산업 협력 확대 - 충청매일",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "충청매일",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqQ2Q3R3g3WDFzT0FTTldBOWtKTFVFTWR2TmlfaE1oUWhpd3ZSUnIxMmxqd0NtaENYTFU1cWxFMkdFN3FvSVUzWlJJdTBVU05tWXlKemFGZ2FtNWUwMmNLUnhNU0F6elVaQlE?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "451760-기타-36518-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "리가켐바이오, 에이비온과 iADC 공동개발… 최대 5개 표적 권리 확보 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb050M2EydWxlZnJtUF8zUHdsdTh5bTdkVXFlLVZQcldCanYxQWR0SFJkMUxxdFQ1NG5ZMy1MSU1nOXZtaURCMmtwS2JWWEJaUDh1aktqTlhINktNQnUxWlpMa0RoQWluOVBJbTNJZXpmQmtJS3Y4VjJ6enFhZlRZbEhTQm1qWWfSAZsBQVVfeXFMTXJJbFpyT0g1WnRPMW1vdmpvalBOc3N0ZWZrdUk1b09HLUhtRjh0d0VUYTljaXNUQm5NMU9yNFhzSEhsWlY3Z2FZZUtBdjkzcXZGZnRmcjhIMFAxT3dTYXpvbHlCMmI5LTNkVVlqazB2UWh6Q21Jdmk5ZmRCcVhFbGdTNUVWak1GSHEyZGtVXzlVVjdGR2V5anQwSzA?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 11:32:00 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHMWUxejR3SFV6R0dtX21tbWVBaHVlTHFUd3duWDVyMjQyRExlQ2ZkMjN2VHZ6UU8xSHJfVkVtdjBoVkRjRndPZVlfR1ZsQmhobFhuazZwME1FMHNFYUlKR9IBZkFVX3lxTE1VQ05aYlJHd3c1bnMwWWEwMHJSXzZnR0h3VWRLUEZldldCbmtuaHJSSllNSnNRQ25fak9QZ0xOc21lR3JNMW1vU29jcnJMOGdzZFZNZi1rU0x0TjA4ZlZnUzFTdVF4Zw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:24:50 GMT"
+      },
+      {
+        "press": "mt.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03dlZUR0tUSUZ4LUxTRmVyd01ORGg3OEJkLW5xaWFHZE5KdHh3TmxJQUw1Wkpxcm1acTJ2a2x1LW5SRXFZMEJoWG8wYThxUEhBVC1UWkY2MU9mNjNudDRXWUFOendBOWpsTjVMaU5vVdIBb0FVX3lxTE03dlZUR0tUSUZ4LUxTRmVyd01ORGg3OEJkLW5xaWFHZE5KdHh3TmxJQUw1Wkpxcm1acTJ2a2x1LW5SRXFZMEJoWG8wYThxUEhBVC1UWkY2MU9mNjNudDRXWUFOendBOWpsTjVMaU5vVQ?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:02:09 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hTFF4eXB4R0M4TVhhZ0IyV2VBMlYtVVpHYU0yVlBJZkZYQnVqbklkSk85S0hPTDdJdEdKNkVhRncybjNvRzMzXzFQeS1WU1pOSExWSzF2a0ZHSVN6NHNEcF9oRVc?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:11:43 GMT"
+      },
+      {
+        "press": "thebionews.net",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRnB4MmRTS1h1NnotMGQzM2QtSnZLWkJkZVB3Tnh5ckdPemVkQkcyMWRNb01EdUdtT3dGZVU5UnZrRU9QN0VqYTc5RFp4RVF3RjNyaHBVX2JPcnFEUVROLVEyWjZOUXdPTkJzLdIBcEFVX3lxTE5kaWswV29uRC1iLUtQTlVvUFlqRk9Udjd1dFBlNDVqenhIWVFwR2QzeTYwaG9TeERJMFotNkdVSXEzUmY5UzRCVy1FSUtNTk1fekpnOHk1LWZZQUg1UkFsWGJTOHduamllTmUxQlV3d2M?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:17:18 GMT"
+      },
+      {
+        "press": "리드경제",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9STDBlOTNaTnRiTXV6QjA5eTRFUHFfaTdhNTVzeldVQUJaa3hZckU1Ul9FRlh2MlNEY3ZPeFdWTWYydzc4N3EzZHA3QVA4REsyVmtRUXVZd21OVHVHc0N1U0lHRmpBa0IwY0tzRmozUGI?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:05:00 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OeHRUOTQzTXNWR0xBdzBPMHZWSFlpR3MtQkpqTEdJanZWaXVWU3JEb0xZYUx0S2lINHlKNDNIZzNtMDA5MF8xRHA1ajJ1Vy16V2VqRHc5ZlFMdlJBUloza2dXRUtzM01n?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 06:58:11 GMT"
+      }
+    ],
+    "source_count": 7,
+    "id": "141080-바이오-36536-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "리가켐바이오 에이비온과 차세대 항체약물접합체 공동연구 계약, 최대 5개 표적 독점권 확보 - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Yd1NTMGFPZmFNWXM3YXNMWEtKUUxyVWYyMEoyc2swb1Rwb0NnQkxtQkFNNlk3QTVtSzFZMm5pdk9rbUFlTUNTcElYcEtTVFp6bXhsbGVGbkFGT0JiSXloZHFOVllzTExhTV9sU3pMY2lXNEk?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:29:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "141080-기타-36539-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "리가켐바이오, 에이비온과 기술도입 계약 체결…차세대 ADC 개발 나서 - 서울경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HdVBITUwxUm41UG0tVVpTTngzaG5nbGRZdmxlS0tjSWZ5OGVpcVk4RFM3WHF3am82dVdyb1JRUGFnNEh1ZXhSLWpKVUVUY2VzUnRN0gFTQVVfeXFMT0d1UEhNTDFSbjVQbS1VWlNOeDNobmdsZFl2bGVLS2NJZnk4ZWlxWThEUzdYcXdqbzZ1V3JvUlFQYWc0SHVleFItakpVRVRjZXNSdE0?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:10:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "141080-기타-36542-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SKC, 종속회사 투자발 유동성 경고등…영업현금 유출 심화 속 재무활동 의존성 ↑ - 데일리연합",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리연합",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeWl5RXhZUEpfcmNWWUZ4YXpud3BxWDZZWlZPX0RzTWt3VEVkRUk2WVNqc21VbGpISjhuaUZESXBFaWEtQWt3RUQ5MW5zMF9RX0Z0WmlJUDVtR1lYSHc?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:50:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "011790-기타-36578-20260930",
     "first_seen": "2026-09-30",
     "last_updated": "2026-09-30",
     "status": "일반",
