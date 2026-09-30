@@ -44288,7 +44288,7 @@
     "sector": "AI 반도체",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "증권가, 'FC-BGA 증설' 삼성전기 실적 눈높이 잇달아 상향 - v.daum.net",
     "source_type": "news",
@@ -44297,12 +44297,17 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XLW9ROF9ZT05ISjBIYWJpQl9wVl9seFQ2MjRZYVI0aGkwTnBESGtwY0N1d0RLMzhlMkhTeFUxTk1FSU1pLWFzTnpBUjdPQ28?oc=5",
         "pub_date": "Mon, 28 Sep 2026 23:56:00 GMT"
+      },
+      {
+        "press": "yna.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRWnJfRnRObHp4VFRuaEp3WlJVVWNIcmJyTTQyTF9NVkdIdVJmZjFHX294aTRaaW85TWphTDJwT24tUmVfaERHbFdyVzh5YVMzaXJsZGRNUm81UGfSAWBBVV95cUxPYzhIenRrVDU3Q3pSMEJ3cER0dnN2TnJhMzdMenc3ZnJscUFkUXEwTHVRUmlFM2RLaXozQVdBSmNlWnkzemI5ZlcwZmZJMHkzOTVDY200b0ZhTmJEOUtGVl8?oc=5",
+        "pub_date": "Mon, 28 Sep 2026 23:54:53 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-실적-34611-20260929",
     "first_seen": "2026-09-29",
-    "last_updated": "2026-09-29",
+    "last_updated": "2026-09-30",
     "status": "일반",
     "stale": false
   },
@@ -45232,12 +45237,17 @@
         "press": "경기일보",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hc2NWX0ZVRDc2WFNNWXZLQkp1dkc2X0NfYzZRN3ljdVllaDF6ZU5ZdEV1OGFqS3RISDZyRG1aZkVDWnRMdi12QUxKbmlUNXJpRWpwLWVHN3d1ck0?oc=5",
         "pub_date": "Tue, 29 Sep 2026 07:50:06 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPcnJkdWNMZzAweUJqMUotSkNsaGtfOGFaWDhqMEhUSlQ3UlgzYkdyemNJQXFyOF83c09WaHhrUUQ4aUVRN1FjUEVwWlhlOXlKXzVjbTI3NmJXVjR3czY0UQ?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 05:53:39 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "009150-기타-34858-20260929",
     "first_seen": "2026-09-29",
-    "last_updated": "2026-09-29",
+    "last_updated": "2026-09-30",
     "status": "일반",
     "stale": false
   },
@@ -47110,7 +47120,7 @@
     "sector": "AI 반도체",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성전기, 글로벌 대기업과 2,900억 원 규모 AI 서버용 MLCC·인덕터 공급계약 체결 - KIPOST",
     "source_type": "news",
@@ -47119,9 +47129,14 @@
         "press": "KIPOST",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GeXZmR1YxRGtkVzlnUmg1QjNhdURWQkF2RnliWHB4Vjl4djJxc1d3R0FIT2lrZGtyUWtfVmpCb29BNVc5YU1BLTRnT0xFTlRVbm1VY3k4OHdtVExzdWVTRDlWbGowVDUw0gFsQVVfeXFMTUxsLTNPV0lhaURKRFZ3cGMxT2JWdWtBYmJfSFRFZTJldnI5NFJ4NHFKNG0zVk05NUxzQXpXdXdmX1VXMWRTX1N1OHMwV1NPcWgxdXVmd3BhUHZYb3J6MzFTRlNRZlRMOU1lU1BL?oc=5",
         "pub_date": "Wed, 30 Sep 2026 01:56:00 GMT"
+      },
+      {
+        "press": "edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3czbW1yMkxwMy02SkN6bkp6VFRXVzBSMUlGNVhNR2IyVktnRlhDd3BSWEwwTWxaakx5M3lGQTQ3Z05YVTFtSllxYWRsUktab3pLaUNFdUVUT0hYYkxacVBkMHhydWl4cTh5MEFoVDR1WVowbTJtU3ljaE16eFBORw?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 04:17:43 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-수주-35985-20260930",
     "first_seen": "2026-09-30",
     "last_updated": "2026-09-30",
@@ -47337,9 +47352,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15V1hNUjZPQXpoTTVfVDUtYkpsY0xFUFA1RmdBakhjM1pRMWk0VWJkNVI3aklyQ3JjTkNqRVZkSTV3a2dWcURQSHJYcnpaV0U?oc=5",
         "pub_date": "Wed, 30 Sep 2026 05:31:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VLWszeXlOWmZxQldockhoQkdCRVpuMzJUT2dsTnlRZVpCby1MQndLblRlZnBqVDNUSVJuS2UzUldDNVNHM3c?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 05:31:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기술-36196-20260930",
     "first_seen": "2026-09-30",
     "last_updated": "2026-09-30",
@@ -47945,6 +47965,314 @@
     ],
     "source_count": 3,
     "id": "141080-기타-36634-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "마이크론, AI 메모리 타고 ‘역대급 실적’…삼성·SK하이닉스에도 시선 - joseilbo.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "joseilbo.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mY0RfY20xQ1oxWVhPMVpzM0w3elpQalVhVEhQZEZmdUlnSXgteWxQd3lSN2tnencwNzNRM3FvQUNoOTQtR2I3MlBMQktaM24wSGtqOENYaHBOaXc4N1J3?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 21:04:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-36666-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "전남광주특별시 “민형배 시장, SK하이닉스 투자 철회 발언 사실무근… 발언 취지 왜곡” - 브레이크뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "브레이크뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aTkxabnpGOFVuV0ZtX0JOSDh4NFptbFRrcEladVo0RUFlNDFEcDN5bHM4Ymc0NDNLb3NPVEFLVU9JMTlwVmlqWA?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 20:26:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-36669-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[테마시황] 역대급 투자 단행한 삼성전기…기판·MLCC 밸류체인 훈풍 By 인포스탁데일리 - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fc3VNcWxkbGt1ZlpvUTJKeHBwVlZJMnNnWWFrRE85WEwzNHVqTEdKUFpUb2hiY1JtbXduWjFfZHlWd0xpbWwzZU5CbU8xSHhTZjRrUFVtVzJDX0ZBaURUN3BmekcxQmlreGI5TFVtZk0?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 05:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-36693-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[모닝 리포트] \"태성, FC-BGA 투자 확대 수혜…장비 수주 증가 전망\" - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tb0pOVTZZNklELU1zbXpMU3dFVFVxaGt3MThsdE5rOWdxZFFsNjJvZE5TWERzdEFsVl9KOVBhZnlXcmZRdzA4LTFvejhvQjBFc3J6YkhVNnZybGls?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 23:07:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "323280-수주-36696-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한미 원전 협력 확대 조짐 미국에 총 8기의 대형 원전 단계적 건설…두산에너빌리티·한전기술·우리기술·한전KPS 시선 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNUFMUUJsLUdKVEszUE5PWjQtYnNDSlA0NHFINk1Qa0d5Wk81MGpkUjB4VlRvMTYxMHN5a0c1OTlVeHpDSVhWNU1iYzBKWWI5ZVQyTjBMam9DbGdOaHZXd1pmaTc2VGRV?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 22:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-36708-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한미 원전 협력 확대 조짐 미국에 총 8기의 대형 원전 단계적 건설…두산에너빌리티·한전기술·우리기술·한전KPS 시선 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNUFMUUJsLUdKVEszUE5PWjQtYnNDSlA0NHFINk1Qa0d5Wk81MGpkUjB4VlRvMTYxMHN5a0c1OTlVeHpDSVhWNU1iYzBKWWI5ZVQyTjBMam9DbGdOaHZXd1pmaTc2VGRV?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 22:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-36722-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한미 원전 협력 확대 조짐 미국에 총 8기의 대형 원전 단계적 건설…두산에너빌리티·한전기술·우리기술·한전KPS 시선 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNUFMUUJsLUdKVEszUE5PWjQtYnNDSlA0NHFINk1Qa0d5Wk81MGpkUjB4VlRvMTYxMHN5a0c1OTlVeHpDSVhWNU1iYzBKWWI5ZVQyTjBMam9DbGdOaHZXd1pmaTc2VGRV?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 22:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-기타-36723-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한미 원전 협력 확대 조짐 미국에 총 8기의 대형 원전 단계적 건설…두산에너빌리티·한전기술·우리기술·한전KPS 시선 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNUFMUUJsLUdKVEszUE5PWjQtYnNDSlA0NHFINk1Qa0d5Wk81MGpkUjB4VlRvMTYxMHN5a0c1OTlVeHpDSVhWNU1iYzBKWWI5ZVQyTjBMam9DbGdOaHZXd1pmaTc2VGRV?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 22:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "032820-기타-36725-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽 중소국서 신규 입찰 확대…앱토즈마·옴리클로 수주 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tekl0N1U4SkRPblBLS3BnTWR0VDZWOGxvNEdua0xuYmhmZElSb1FSXzBIdjVrX05DY05UTlk4STBFWVFqSzB3Tnc2emh0SlVVdEF5Y0hDcHlaMUZzdl9YTw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 22:45:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-수주-36738-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 북유럽·네덜란드서 신규 제품 잇단 수주…직판망 확대 - 헤럴드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tTlIyWlNsc29Uc0hjSFN4NGQ1Ul9uS2l5T2E4ZGowSGIxWjhyQmtOSlo4NFJ3LVdMTFBjamxsbVQ0c1BfbGhRSGxaUXZnNmJfTVRqUGVn?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 22:41:36 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-수주-36739-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "리가켐바이오·에이비온, 차세대 ‘iADC’ 공동개발…최대 5개 타깃 독점권 확보 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtV3RTZVlzTm15ajYzNDctOFo2T3ZhN2lSaFY2TTNMbGpMQ2V6WnZBUGYtY2VyQ3VOZUFfWFVTRFBzNjNONUZtQWp4RXNMd3pkWkQ2UHhlY0l4Zw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:28:30 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHMWUxejR3SFV6R0dtX21tbWVBaHVlTHFUd3duWDVyMjQyRExlQ2ZkMjN2VHZ6UU8xSHJfVkVtdjBoVkRjRndPZVlfR1ZsQmhobFhuazZwME1FMHNFYUlKR9IBZkFVX3lxTE1VQ05aYlJHd3c1bnMwWWEwMHJSXzZnR0h3VWRLUEZldldCbmtuaHJSSllNSnNRQ25fak9QZ0xOc21lR3JNMW1vU29jcnJMOGdzZFZNZi1rU0x0TjA4ZlZnUzFTdVF4Zw?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 07:24:50 GMT"
+      },
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nbVkzUHVLc3Y0TnpWSDNKMmh6S2MyY05kV1RLZFVOYkRCcXdHOHpHQ29mU1IwZTkxTGRPWEtuVnhiNEVuLXlVRWViVQ?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 09:56:37 GMT"
+      },
+      {
+        "press": "리드경제",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9STDBlOTNaTnRiTXV6QjA5eTRFUHFfaTdhNTVzeldVQUJaa3hZckU1Ul9FRlh2MlNEY3ZPeFdWTWYydzc4N3EzZHA3QVA4REsyVmtRUXVZd21OVHVHc0N1U0lHRmpBa0IwY0tzRmozUGI?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 08:05:00 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OeHRUOTQzTXNWR0xBdzBPMHZWSFlpR3MtQkpqTEdJanZWaXVWU3JEb0xZYUx0S2lINHlKNDNIZzNtMDA5MF8xRHA1ajJ1Vy16V2VqRHc5ZlFMdlJBUloza2dXRUtzM01n?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 06:58:11 GMT"
+      }
+    ],
+    "source_count": 5,
+    "id": "141080-바이오-36745-20260930",
+    "first_seen": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI, AIDC용 배터리 라인업 확대…원통형 LFP 첫 공개 - 조선비즈 - biz.chosun.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "biz.chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGQyQUxtV1kxcUJKUDN6TnRoRzEtZTcxbnU5eU9xcVd3OUt1S2pNY2RJMjRmLWZSUUZlQ0dmSnJVSW5CR3JkQUJlc3FlOGJSblZ1MFpWZWV3TlRFdVlfbkZMSXFkODFLLS1KVGxJdjZna3o4aXhvdzhhUzh6SmFTLWNHeXVGWTRKU0hQT1dfME5tZjhIVHFnZ9IBmAFBVV95cUxQRGQyQUxtV1kxcUJKUDN6TnRoRzEtZTcxbnU5eU9xcVd3OUt1S2pNY2RJMjRmLWZSUUZlQ0dmSnJVSW5CR3JkQUJlc3FlOGJSblZ1MFpWZWV3TlRFdVlfbkZMSXFkODFLLS1KVGxJdjZna3o4aXhvdzhhUzh6SmFTLWNHeXVGWTRKU0hQT1dfME5tZjhIVHFnZw?oc=5",
+        "pub_date": "Tue, 29 Sep 2026 01:28:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-기타-36772-20260930",
     "first_seen": "2026-09-30",
     "last_updated": "2026-09-30",
     "status": "일반",
