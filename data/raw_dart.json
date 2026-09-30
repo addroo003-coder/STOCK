@@ -247,6 +247,45 @@
     "is_correction": true
   },
   {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "타법인주식및출자증권취득결정              ",
+    "rcept_no": "20260930800068",
+    "rcept_dt": "20260930",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800068",
+    "is_correction": false
+  },
+  {
+    "company": "현대무벡스",
+    "stock_code": "319400",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260930900139",
+    "rcept_dt": "20260930",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900139",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "[기재정정]주요사항보고서(자기주식처분결정)",
+    "rcept_no": "20260929000686",
+    "rcept_dt": "20260930",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000686",
+    "is_correction": true
+  },
+  {
     "company": "고영",
     "stock_code": "098460",
     "sector": "피지컬 AI·로봇",
@@ -271,6 +310,32 @@
     "rcept_dt": "20260929",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000545",
     "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "중대재해발생              ",
+    "rcept_no": "20260930800001",
+    "rcept_dt": "20260930",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800001",
+    "is_correction": false
+  },
+  {
+    "company": "한전산업",
+    "stock_code": "130660",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20260930800058",
+    "rcept_dt": "20260930",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800058",
+    "is_correction": true
   },
   {
     "company": "한전산업",
