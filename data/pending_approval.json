@@ -46579,7 +46579,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "HK이노엔 ‘케이캡’, 5번째 원료 제조소 확보 … 美 허가 앞두고 공급망 확대 - 헬스코리아뉴스",
     "source_type": "news",
@@ -46588,9 +46588,14 @@
         "press": "헬스코리아뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BN1c1bzNhckFIUk5fOEx1T1NLZktoT1pBWVg1QjNmUE52UXJ3VUxxNUQzRVVrLU0zNVhPYzdpNXU0VW1BY2JmT09tVWFPN24tM19GTGJWcEtIZFNKSTdDZmVtSGxWVk0?oc=5",
         "pub_date": "Tue, 29 Sep 2026 17:40:31 GMT"
+      },
+      {
+        "press": "헬스케어N",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBubUJFTDUydzRaNzE4cXlTUHN2a0tUbVc5ZDYxZFU5TkNuel9OWG1oR0E2YVRfaFllZTlWbTBLNEpkamRvLUhSbjZPNlJ5ZUhqcTNYNEpsOHZmTEV3NTVEYkJnSFh0STdza2tjUmNfT2RDSnRG?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 07:07:18 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "195940-기타-35460-20260929",
     "first_seen": "2026-09-29",
     "last_updated": "2026-10-01",
@@ -48881,9 +48886,14 @@
         "press": "dt.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92N0hmdlQzazNuYnM4WHZybF92VlFDNkEyUkZnaC1UdVpQd2tURHpBYlFmNS1PWnEzTGh1Rkt2WW5tdjNkdDRMUVhsdHctZw?oc=5",
         "pub_date": "Thu, 01 Oct 2026 08:17:46 GMT"
+      },
+      {
+        "press": "yna.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVjlFUy1VdHl3WTNKV2pTQV9FcFZPbVhfZ3Q2YWdrOXNvTThvcTcxNWFCS3NjeGhYampDMFV3eGI0TEtnNWJlR1Z2WDdpM1p4ejdQaU1pRVk5SnfSAWBBVV95cUxPdjBzaHoyNEwzWXRiXzZJRWoxLTZEdF9yQXpEczVuREV4UkMxbWVKb0hhUlE5TU9hM3ZjdWdOZUhtVC04cEszdW91NlRfWnhrZmcxb0F1OFBQYUE4T1Q3MVc?oc=5",
+        "pub_date": "Wed, 30 Sep 2026 23:25:23 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-37049-20261001",
     "first_seen": "2026-10-01",
     "last_updated": "2026-10-01",
@@ -49067,9 +49077,19 @@
         "press": "청년의사",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iT2NhbkV1V1JHTkRMaWtwWWN3Z3pPc0FhLVcyaXJiQjhYQVVUQTB5OHFlR19VUGRRenVTdDVQRmNtVjlodFZEUXJTNzZUem0zaUdzbC1Oclc5T2VTMzJnV241WHFXekZJd3g3SlcweWvSAXNBVV95cUxOQV9LbVNlRzlyWG53cFl3Znoyb1FITGUxYVcwZVUwc1FuSnZydkVXTS1TMktHYjBNWFROZ255eHlUWTg5cDVUYk5RTUd6VkJBQWp2Yjk3NFU5a21Qa2o1LVcxZktralZmQTM4SmVJbk5qaUs0?oc=5",
         "pub_date": "Thu, 01 Oct 2026 10:46:34 GMT"
+      },
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tUmFEMGs4T1d2UExvYnZ0Vno4UzVpYnJ3R1ZsNHc5RmJhQkxfOG9JSmcxRWdxVG1ma1RfU2p4UjRNVk80LWhOblNZcnQxSEdYX0lQLVFUS1ZRMXdyam5BZUNqbEhCQlNwaDRF?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 01:09:34 GMT"
+      },
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IdlRHMlFVcnhSQ01jQWJTR3dCR2locEN6MlNGaGVqTUo5dTVpM2dENXNMWGdEODJKZHRIX2FpVzlCTndZMUFuaXRhOVM3N25NQ21zOVRyeVlobHB4dFpuVVJscTVzRGF0WHc?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 07:45:10 GMT"
       }
     ],
-    "source_count": 18,
+    "source_count": 20,
     "id": "000100-기타-37083-20261001",
     "first_seen": "2026-10-01",
     "last_updated": "2026-10-01",
@@ -49276,9 +49296,14 @@
         "press": "주간한국",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ySWU1WVd3d2RWbjdpVEJMYnpQUThvdWdJcXBSTWIzMjVpRFJqeEtpNWR4NDhYQlJ2LWdScmVna3FJMTFZZkdmTGQxVk1WMm9yZnlJeDNUWFNKQXFhSnppT2hOVjhSckhKNjIwMWRoQVRwMzNK0gF0QVVfeXFMTTJJZTVZV3d3ZFZuN2lUQkxielBROG91Z0lxcFJNYjMyNWlEUmp4S2k1ZHg0OFhCUnYtZ1JyZWdrcUkxMVlmR2ZMZDFWTVYyb3JmeUl4M1RYU0pBcWFKemlPaE5WOFJySEo2MjAxZGhBVHAzM0o?oc=5",
         "pub_date": "Thu, 01 Oct 2026 02:39:10 GMT"
+      },
+      {
+        "press": "이슈투데이",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhU1gwRHV4WFllc1IzRzRkVnF6a2xEbjRHU0ZJVS1IRlZCSHZwOTlZTkEya0xYYzFkdllGRE9yVUFGUWsweGtnaEJoQlRwS0hmaXlaRXpKZElJNzhJblNrRlhtMTladw?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 07:26:07 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "373220-기타-37103-20261001",
     "first_seen": "2026-10-01",
     "last_updated": "2026-10-01",
