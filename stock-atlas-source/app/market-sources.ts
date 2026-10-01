@@ -235,7 +235,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "LG전자·카카오모빌리티·로보티즈, 로봇연합 확대…배송 넘어 휴머노...",
+      "title": "LG전자·카카오모빌리티·로보티즈, 로봇연합 확대 모색…배송 넘어 ...",
       "office": "지디넷코리아",
       "date": "20261001",
       "url": "https://n.news.naver.com/mnews/article/092/0002439590"
@@ -249,10 +249,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
-      "title": "리가켐바이오, 에이비온과 기술도입 계약 체결…차세대 ADC 개발 나서",
-      "office": "서울경제",
-      "date": "20260930",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666931"
+      "title": "리가켐바이오, 다발성골수종 치료제 ‘LCB43’ 임상 준비 완료… 학회...",
+      "office": "이코노미스트",
+      "date": "20260928",
+      "url": "https://n.news.naver.com/mnews/article/243/0000103612"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/141080/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "솔루엠 전성호 대표 “6년 적자 견디며 키운 ESL…국내외 유통사로 사...",
+      "title": "“전자가격표, 상품값 변화 자동 반영해 유통 판매효율 높여”",
       "office": "동아일보",
-      "date": "20261001",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752120"
+      "date": "20261002",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752190"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[데일리안 오늘뉴스 종합] 국민의힘, 美 '알래스카 LNG 투자' 일방 발...",
-      "office": "데일리안",
-      "date": "20261001",
-      "url": "https://n.news.naver.com/mnews/article/119/0003138781"
+      "title": "마이크론 ‘깜짝 실적’에 삼전닉스 ‘두근’… 거품론 꺼질까",
+      "office": "서울신문",
+      "date": "20261002",
+      "url": "https://n.news.naver.com/mnews/article/081/0003685440"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -669,10 +669,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "에코프로, 최상운·김장우 공동 대표 체제 전환",
-      "office": "전자신문",
-      "date": "20261001",
-      "url": "https://n.news.naver.com/mnews/article/030/0003471834"
+      "title": "[경제계 인사] 에코프로 공동 대표에 최상운 사장, 에이치엔 대표엔 ...",
+      "office": "조선일보",
+      "date": "20261002",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001641"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "엔비디아·MS 잡은 LG ‘AI 냉각’… 美버지니아에 대형 칠러 거점 구...",
+      "title": "엔비디아·MS 잡은 LG전자, 美에 ‘AI 열 관리’ 전초기지 구축",
       "office": "국민일보",
-      "date": "20261001",
-      "url": "https://n.news.naver.com/mnews/article/005/0001876236"
+      "date": "20261002",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876307"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "[이슈체크] 마이크론이 확인한 ‘메모리 호황’…삼성전자, SK하이닉스...",
-      "office": "SBS Biz",
-      "date": "20261001",
-      "url": "https://n.news.naver.com/mnews/article/374/0000535939"
+      "title": "마이크론 ‘깜짝 실적’에 삼전닉스 ‘두근’… 거품론 꺼질까",
+      "office": "서울신문",
+      "date": "20261002",
+      "url": "https://n.news.naver.com/mnews/article/081/0003685440"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
