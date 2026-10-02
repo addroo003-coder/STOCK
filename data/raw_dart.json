@@ -39,6 +39,97 @@
     "is_correction": false
   },
   {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000553",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000553",
+    "is_correction": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000543",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000543",
+    "is_correction": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000533",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000533",
+    "is_correction": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000526",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000526",
+    "is_correction": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000517",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000517",
+    "is_correction": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000192",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000192",
+    "is_correction": false
+  },
+  {
+    "company": "피에스케이",
+    "stock_code": "319660",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000262",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000262",
+    "is_correction": false
+  },
+  {
     "company": "하나마이크론",
     "stock_code": "067310",
     "sector": "AI 반도체",
@@ -49,6 +140,19 @@
     "rcept_no": "20260930000818",
     "rcept_dt": "20260930",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000818",
+    "is_correction": false
+  },
+  {
+    "company": "두산테스나",
+    "stock_code": "131970",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000148",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000148",
     "is_correction": false
   },
   {
@@ -70,12 +174,103 @@
     "sector": "AI 반도체",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "리스크",
+    "title": "신탁계약해지결과보고서",
+    "rcept_no": "20261002000388",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000388",
+    "is_correction": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(자기주식취득신탁계약해지결정)",
+    "rcept_no": "20261002000161",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000161",
+    "is_correction": false
+  },
+  {
+    "company": "가온칩스",
+    "stock_code": "399720",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "수주",
     "title": "[기재정정]단일판매ㆍ공급계약체결              ",
     "rcept_no": "20261001900382",
     "rcept_dt": "20261001",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900382",
     "is_correction": true
+  },
+  {
+    "company": "에이디테크놀로지",
+    "stock_code": "200710",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261002000497",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000497",
+    "is_correction": false
+  },
+  {
+    "company": "오픈엣지테크놀로지",
+    "stock_code": "394280",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261002900436",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002900436",
+    "is_correction": false
+  },
+  {
+    "company": "한솔케미칼",
+    "stock_code": "014680",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000485",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000485",
+    "is_correction": false
+  },
+  {
+    "company": "원익머트리얼즈",
+    "stock_code": "104830",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000197",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000197",
+    "is_correction": false
+  },
+  {
+    "company": "티씨케이",
+    "stock_code": "064760",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000177",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000177",
+    "is_correction": false
   },
   {
     "company": "하나머티리얼즈",
@@ -104,6 +299,32 @@
     "is_correction": false
   },
   {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000437",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000437",
+    "is_correction": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000233",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000233",
+    "is_correction": false
+  },
+  {
     "company": "심텍",
     "stock_code": "222800",
     "sector": "AI 반도체",
@@ -114,6 +335,32 @@
     "rcept_no": "20261001000429",
     "rcept_dt": "20261001",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000429",
+    "is_correction": false
+  },
+  {
+    "company": "필옵틱스",
+    "stock_code": "161580",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000531",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000531",
+    "is_correction": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000385",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000385",
     "is_correction": false
   },
   {
@@ -195,6 +442,19 @@
     "is_correction": false
   },
   {
+    "company": "산일전기",
+    "stock_code": "062040",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000427",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000427",
+    "is_correction": false
+  },
+  {
     "company": "LS",
     "stock_code": "006260",
     "sector": "전기·전력",
@@ -257,6 +517,19 @@
     "rcept_no": "20260930801176",
     "rcept_dt": "20260930",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801176",
+    "is_correction": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000402",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000402",
     "is_correction": false
   },
   {
@@ -361,6 +634,19 @@
     "rcept_no": "20261001900148",
     "rcept_dt": "20261001",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900148",
+    "is_correction": false
+  },
+  {
+    "company": "하이젠알앤엠",
+    "stock_code": "160190",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000559",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000559",
     "is_correction": false
   },
   {
@@ -494,6 +780,32 @@
     "is_correction": false
   },
   {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+    "rcept_no": "20261002000456",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000456",
+    "is_correction": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임시주주총회결과              ",
+    "rcept_no": "20261002800611",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002800611",
+    "is_correction": false
+  },
+  {
     "company": "한전산업",
     "stock_code": "130660",
     "sector": "원전·SMR",
@@ -611,6 +923,32 @@
     "is_correction": true
   },
   {
+    "company": "한국항공우주",
+    "stock_code": "047810",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000519",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000519",
+    "is_correction": false
+  },
+  {
+    "company": "LIG넥스원",
+    "stock_code": "079550",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000439",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000439",
+    "is_correction": false
+  },
+  {
     "company": "LIG넥스원",
     "stock_code": "079550",
     "sector": "우주항공",
@@ -647,6 +985,32 @@
     "rcept_no": "20261001900714",
     "rcept_dt": "20261001",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900714",
+    "is_correction": false
+  },
+  {
+    "company": "휴니드",
+    "stock_code": "005870",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261002000458",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000458",
+    "is_correction": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자율공시)              ",
+    "rcept_no": "20261002800830",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002800830",
     "is_correction": false
   },
   {
@@ -702,6 +1066,32 @@
     "is_correction": false
   },
   {
+    "company": "에스티팜",
+    "stock_code": "237690",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000241",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000241",
+    "is_correction": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000208",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000208",
+    "is_correction": false
+  },
+  {
     "company": "리가켐바이오",
     "stock_code": "141080",
     "sector": "바이오",
@@ -726,6 +1116,19 @@
     "rcept_dt": "20260930",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900334",
     "is_correction": true
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000286",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000286",
+    "is_correction": false
   },
   {
     "company": "휴젤",
@@ -754,6 +1157,97 @@
     "is_correction": false
   },
   {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000153",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000153",
+    "is_correction": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000152",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000152",
+    "is_correction": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261002000394",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000394",
+    "is_correction": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000392",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000392",
+    "is_correction": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000379",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000379",
+    "is_correction": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000371",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000371",
+    "is_correction": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261002000359",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000359",
+    "is_correction": false
+  },
+  {
     "company": "LG에너지솔루션",
     "stock_code": "373220",
     "sector": "이차전지·ESS",
@@ -765,6 +1259,19 @@
     "rcept_dt": "20261001",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800119",
     "is_correction": true
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000399",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000399",
+    "is_correction": false
   },
   {
     "company": "에코프로비엠",
@@ -806,6 +1313,32 @@
     "is_correction": false
   },
   {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000292",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000292",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261002000082",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000082",
+    "is_correction": false
+  },
+  {
     "company": "코스모신소재",
     "stock_code": "005070",
     "sector": "이차전지·ESS",
@@ -819,6 +1352,19 @@
     "is_correction": true
   },
   {
+    "company": "대주전자재료",
+    "stock_code": "078600",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261002000183",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000183",
+    "is_correction": false
+  },
+  {
     "company": "더블유씨피",
     "stock_code": "393890",
     "sector": "이차전지·ESS",
@@ -830,6 +1376,19 @@
     "rcept_dt": "20260930",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901087",
     "is_correction": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타인에대한채무보증결정              ",
+    "rcept_no": "20261002900759",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002900759",
+    "is_correction": true
   },
   {
     "company": "서진시스템",
