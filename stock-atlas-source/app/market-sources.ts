@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오로직스 2차 총파업…10월 26일 돌입 예고",
-      "office": "조선비즈",
+      "title": "삼성바이오로직스 노조, 26일부터 3주간 총파업 돌입",
+      "office": "아시아경제",
       "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195952"
+      "url": "https://n.news.naver.com/mnews/article/277/0005824263"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "없어서 못파는 하드웨어…2028년까지 칩·기판·전력 '공급 대란'",
-      "office": "한국경제",
+      "title": "“지금 시장 떠나면 백전백패…AI 병목·채권 투자 등으로 버틸 때”...",
+      "office": "헤럴드경제",
       "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338731"
+      "url": "https://n.news.naver.com/mnews/article/016/0002705061"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 자사주 계획 물량 초과 매입했는데…9000억 더 쓴다",
-      "office": "아시아경제",
+      "title": "코스피 7,000선 회복…연휴 후 삼성전자 실적 발표",
+      "office": "연합뉴스TV",
       "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824260"
+      "url": "https://n.news.naver.com/mnews/article/422/0000912085"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -445,10 +445,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "셀트리온, 청주 오송에 2조 투자…2단계 시설 단계적 구축",
-      "office": "뉴스1",
+      "title": "충청북도-청주시-셀트리온 2조 원 규모 투자협약",
+      "office": "KBS",
       "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/421/0009207324"
+      "url": "https://n.news.naver.com/mnews/article/056/0012267291"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -725,10 +725,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=046120",
     "news": {
-      "title": "오르비텍, 파인테크닉스 지분 180억원 매각…원전·신사업 실탄 확보",
-      "office": "머니투데이",
+      "title": "오르비텍, 파인테크닉스 414만주 매각 완료…“신사업 재원 확보”",
+      "office": "한국경제",
       "date": "20261001",
-      "url": "https://n.news.naver.com/mnews/article/008/0005420796"
+      "url": "https://n.news.naver.com/mnews/article/015/0005338135"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/046120/news"
   },
@@ -949,10 +949,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=080220",
     "news": {
-      "title": "금리 치솟을 땐 투자전략 달라야…‘고ROA’주, 16개 종목 리스트는? ...",
-      "office": "헤럴드경제",
-      "date": "20260902",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692037"
+      "title": "HPSP 등 반도체 소부장주 동반상승, 美 반도체 훈풍",
+      "office": "머니투데이",
+      "date": "20260930",
+      "url": "https://n.news.naver.com/mnews/article/008/0005420076"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/080220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'삼성맨'의 눈물겨운 SK하이닉스 '물타기'⋯\"석 달 월급 몽땅 넣어\" [개...",
-      "office": "아이뉴스24",
+      "title": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은...",
+      "office": "매일경제",
       "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/031/0001063266"
+      "url": "https://n.news.naver.com/mnews/article/009/0005743458"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
