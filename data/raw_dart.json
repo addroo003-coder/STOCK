@@ -6,6 +6,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "최대주주등소유주식변동신고서              ",
+    "rcept_no": "20261002800981",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002800981",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "임원ㆍ주요주주특정증권등소유상황보고서",
     "rcept_no": "20261001000251",
     "rcept_dt": "20261001",
@@ -843,6 +856,19 @@
     "rcept_dt": "20260930",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000266",
     "is_correction": false
+  },
+  {
+    "company": "우진엔텍",
+    "stock_code": "457550",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]거래처와의거래중단              ",
+    "rcept_no": "20261002901035",
+    "rcept_dt": "20261002",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002901035",
+    "is_correction": true
   },
   {
     "company": "우진엔텍",
