@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "대미투자 낙수효과 먼길 … 배트 길게 잡아야",
+      "title": "270조 투자 호재에도 원전주는 시큰둥…먼저 돈 되는 곳 따로 있다고...",
       "office": "매일경제",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743411"
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743482"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오로직스 노조, 26일부터 3주간 총파업 돌입",
-      "office": "아시아경제",
+      "title": "AI 인프라 선점 경쟁 치열…“금리 뛰기 전에” 딜 클로징 속도전 [시...",
+      "office": "서울경제",
       "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824263"
+      "url": "https://n.news.naver.com/mnews/article/011/0004667802"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "코스피 7,000선 회복…연휴 후 삼성전자 실적 발표",
-      "office": "연합뉴스TV",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912085"
+      "title": "솔리다임 상장설에 흔들린 SK하닉…실적 전망은 '이상 무'[종목현미경...",
+      "office": "뉴스1",
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207654"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "[CEO풍향계] '뉴욕 깐부회동' 이재용…'국방AI 강화' 김승연",
-      "office": "연합뉴스TV",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/422/0000911956"
+      "title": "\"이 회사들 주목\" 전문가 콕 집었다...우주항공주 투자법은[부꾸미]",
+      "office": "머니투데이",
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421771"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "[메자닌 투자파일] '80억 수혈' 엔시스, 풋옵션 행사·수주 대응",
-      "office": "블로터",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091188"
+      "title": "\"이 회사들 주목\" 전문가 콕 집었다...우주항공주 투자법은[부꾸미]",
+      "office": "머니투데이",
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421771"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "[메자닌 투자파일] '80억 수혈' 엔시스, 풋옵션 행사·수주 대응",
-      "office": "블로터",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091188"
+      "title": "\"이 회사들 주목\" 전문가 콕 집었다...우주항공주 투자법은[부꾸미]",
+      "office": "머니투데이",
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421771"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은...",
-      "office": "매일경제",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743458"
+      "title": "솔리다임 상장설에 흔들린 SK하닉…실적 전망은 '이상 무'[종목현미경...",
+      "office": "뉴스1",
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207654"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
