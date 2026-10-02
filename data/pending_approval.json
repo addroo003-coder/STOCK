@@ -5500,9 +5500,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtRXFUUnpDLThyTkp6X21pdWpLXzUydXhrYldIYUhTQVdlYkUtc3c3ODhJbElWTXlMVGQ1N0VEeTdvNjRyZ2JQTkNPN1dtZlk?oc=5",
         "pub_date": "Fri, 02 Oct 2026 06:57:43 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qenliQmFyMmFBcUVrazBSZTRLXzRUN0VmZ0MtTFN3RV9SenV3elB6Tmh0Rlk4U0V0aHRIaG1tMXNDMnlZV3c?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 06:57:43 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 11,
     "id": "006260-기타-5241-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-10-02",
@@ -49637,9 +49642,14 @@
         "press": "newskr.kr",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NLTFVaUVfaVBQVFZQSU9vZVV1WHJXWnpWNHZxendaOWlXN3ZkVFBVSTBCVF8xSm9Bd005eHE3RlRpeV9udmZhX3Z1ZzdXdjFkOWJaTDFCSmZXd3ZtNDNPckVTd0V6TFnSAWpBVV95cUxQTGtrZWdiXzRsNVR6NGx2ZnQ1LTFrNlhVTTBkM2Q1Nnc5UXU0SkIySDBSMUFLQ1l6SXhWMFFVajQ1T2Y0Wk1wMDZ2cERtTnF3Vk56QWF3LUQ1bi1fWFdRY1VOa1Z4QmUxTUZn?oc=5",
         "pub_date": "Thu, 01 Oct 2026 05:23:09 GMT"
+      },
+      {
+        "press": "newskr.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OM3k5VDRsZ0ZsTDlNcHo5VG9jWEkxclM5VTVFQWw5WGhXTGVCeG5CX0JkMXZXTzlZdVhtRzlIQmNNT3lvZVZkUW51cUlZbUl1TW5Famctd1gwVmpUbnB0TEVTY1UxQdIBakFVX3lxTFBMa2tlZ2JfNGw1VHo0bHZmdDUtMWs2WFVNMGQzZDU2dzlRdTRKQjJIMFIxQUtDWXpJeFYwUVVqNDVPZjRaTXAwNnZwRG1OcXdWTnpBYXctRDVuLV9YV1FjVU5rVnhCZTFNRmc?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 05:23:09 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "060370-수주-37305-20261001",
     "first_seen": "2026-10-01",
     "last_updated": "2026-10-02",
@@ -50318,7 +50328,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "일진전기, 영국 해상풍력 사업서 1871억 추가 계약…역대 최대 규모 - 전기신문",
     "source_type": "news",
@@ -50327,9 +50337,14 @@
         "press": "전기신문",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82MFZoZF9yZXNjWm5LUHpLZHNUZHZTaDVLNzhzTHo5eDUwa3NyR05ERUR2ZHZpNlZFcVFMQ04yakxKS2pmSm5CNUhkUG1kc2tpRWZSbk9WTVlDMGJkQXNkUzMwdGZ5d0JGOFZnVEZaUDbSAXBBVV95cUxPNjBWaGRfcmVzY1puS1B6S2RzVGR2U2g1Szc4c0x6OXg1MGtzckdOREVEdmR2aTZWRXFRTENOMmpMSktqZkpuQjVIZFBtZHNraUVmUm5PVk1ZQzBiZEFzZFMzMHRmeXdCRjhWZ1RGWlA2?oc=5",
         "pub_date": "Thu, 01 Oct 2026 23:59:25 GMT"
+      },
+      {
+        "press": "허프포스트코리아",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OaUVPc2c0Sm9pdDREMzB5RzlscF9RYzRlQXRDWnhaZF9zNF92TGIxSkdlRW9FVnpKc3hMQ2hRd19XUzZvbXJJTjlXODZTc0h4TlhxaG8zRQ?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 07:49:21 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "103590-기타-37928-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-02",
@@ -52163,6 +52178,30 @@
     ],
     "source_count": 1,
     "id": "137400-기타-38881-20261002",
+    "first_seen": "2026-10-02",
+    "last_updated": "2026-10-02",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'삼성·SK하이닉스' 용인, 'TSMC 日' 구마모토와 반도체·청소년 교류 확대 - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVWlLbkgyVUNTeUFNNTUyRm1jUk1YZGVjMDhvNHEwWnExMzFUWlRPVHZIemhfbWRoNlBhSXhSeHhfN0lEQ3psWmhpZHZ3TGE3YjhHdFB30gFbQVVfeXFMTl96aHJ3UlZFWHU2OHVHaWhqWktxRDVzNnhodkpyWjlscTF1Vk1jNDZReVRCXzdBR3M3V3BRMEJYTzQ5MzJPVjZ3T3ZtY29Nc0tWWDRxZUVYUnJTRQ?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 08:33:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-38890-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-02",
     "status": "일반",
