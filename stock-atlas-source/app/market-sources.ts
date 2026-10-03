@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "“지금 시장 떠나면 백전백패…AI 병목·채권 투자 등으로 버틸 때”...",
-      "office": "헤럴드경제",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705061"
+      "title": "단기 4359년 개천절, ‘애국투자펀드’ 성과는? [마켓시그널]",
+      "office": "서울경제",
+      "date": "20261003",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅...",
-      "office": "매일경제",
+      "title": "“삼성전자, 싸도 너무 싸다”…주가 46만 원 간다는데, 무슨 일?",
+      "office": "서울경제",
       "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743535"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668015"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "KAI 민영화 열쇠 쥔 정부, 국감서 입장 나오나",
-      "office": "디지털데일리",
+      "title": "단기 4359년 개천절, ‘애국투자펀드’ 성과는? [마켓시그널]",
+      "office": "서울경제",
       "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243586"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "삼전닉스 다음 타자 나왔다\"…AI 투자 늘수록 웃는 '이 종목들'[주末머...",
-      "office": "아시아경제",
+      "title": "치솟는 공사비에 분양가 상승 압력... 현대건설 ‘힐스테이트 선암호...",
+      "office": "한국경제",
       "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824355"
+      "url": "https://n.news.naver.com/mnews/article/015/0005338886"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "\"이 회사들 주목\" 전문가 콕 집었다...우주항공주 투자법은[부꾸미]",
-      "office": "머니투데이",
+      "title": "단기 4359년 개천절, ‘애국투자펀드’ 성과는? [마켓시그널]",
+      "office": "서울경제",
       "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421771"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "오건영 “금리 오르면 큰일? 이 생각 낭패…투자 포트폴리오 AI로 향해...",
-      "office": "헤럴드경제",
+      "title": "생산캐파 30% 차에도 마이크론 턱밑 추격, 'SK하이닉스 위기론' 실체는",
+      "office": "이코노미스트",
       "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705144"
+      "url": "https://n.news.naver.com/mnews/article/243/0000103833"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
