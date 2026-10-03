@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼성전자, 싸도 너무 싸다”…주가 46만 원 간다는데, 무슨 일?",
+      "title": "단기 4359년 개천절, ‘애국투자펀드’ 성과는? [마켓시그널]",
       "office": "서울경제",
       "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668015"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
