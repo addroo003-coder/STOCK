@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "AI 트랙터가 농사 짓는다...4단계 자율주행부터 온실용 휴머노이드까...",
-      "office": "지디넷코리아",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/092/0002439725"
+      "title": "실증 현장 찾아 지방으로…로봇기업, R&D·생산 거점 재편",
+      "office": "아이뉴스24",
+      "date": "20261004",
+      "url": "https://n.news.naver.com/mnews/article/031/0001063351"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "단기 4359년 개천절, ‘애국투자펀드’ 성과는? [마켓시그널]",
-      "office": "서울경제",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668004"
+      "title": "지루한 박스권 장세…삼성전자 3분기 실적에 쏠리는 눈 [주간전망]",
+      "office": "한국경제",
+      "date": "20261004",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338929"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "작년보다 3배 늘어난 분양 물량…서울만 ‘공급 가뭄’",
-      "office": "데일리안",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/119/0003139216"
+      "title": "[중화학ON]전기차서 은퇴한 배터리, ESS로 재취업…K배터리 '두 번째 ...",
+      "office": "아시아경제",
+      "date": "20261004",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824436"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "치솟는 공사비에 분양가 상승 압력... 현대건설 ‘힐스테이트 선암호...",
-      "office": "한국경제",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338886"
+      "title": "에이슬립, 현대건설·삼성전자와 '수면 오케스트라'…\"침실의 월패드...",
+      "office": "이데일리",
+      "date": "20261004",
+      "url": "https://n.news.naver.com/mnews/article/018/0006380610"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "글로벌 자원 무기화 대응…에너지 공급망 재편 총력",
-      "office": "연합뉴스TV",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912198"
+      "title": "[중화학ON]전기차서 은퇴한 배터리, ESS로 재취업…K배터리 '두 번째 ...",
+      "office": "아시아경제",
+      "date": "20261004",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824436"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "생산캐파 30% 차에도 마이크론 턱밑 추격, 'SK하이닉스 위기론' 실체는",
-      "office": "이코노미스트",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103833"
+      "title": "美는 260만원인데 왜 한국에선 180만원?…속타는 SK하이닉스 투자자들...",
+      "office": "디지털데일리",
+      "date": "20261004",
+      "url": "https://n.news.naver.com/mnews/article/138/0002243606"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
