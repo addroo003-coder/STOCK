@@ -49232,9 +49232,14 @@
         "press": "금융경제신문",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iOEoyV19yQ2oxUEplMTJTeHRvX0NtVDF4UnN2SnFpYTFDWlVNRkp1NjZZR2FxM3JKZVhFdXZ1SGRLQmtjaDAxbXpUZ01jUWhEc1RZZU9Tdy0yNk9FZ3k1VENVb2NxTVE3OXYzRtIBb0FVX3lxTFBuMlZHQlpYcUE5dXhZRlYtM3hCRENvTGthVDFIQ1B2X2szN3JFWVp4dWFhaS1YNnZUanlUSFZXNWtaMzladTNOR1lNajlycE1Za1hOV20zb3doSHVTdHdGeHlIdlZxUGFCVkZvdmw0UQ?oc=5",
         "pub_date": "Fri, 02 Oct 2026 01:31:16 GMT"
+      },
+      {
+        "press": "뉴스캐치",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QWxYc2Z1bEpmdXNoUU9CYnVhZjlueEtCR0tjVS1NQ3V0UzE3VmhtUHREMnQwdXBqNGZ2N29UeUJTRlMyblR0TGNMa1Zmdkt4TTVycTJVZGkzNmxHRjdTNE1zTDh3UGFhQlR5WmxzNA?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 03:49:53 GMT"
       }
     ],
-    "source_count": 23,
+    "source_count": 24,
     "id": "000100-기타-37083-20261001",
     "first_seen": "2026-10-01",
     "last_updated": "2026-10-03",
@@ -51617,9 +51622,14 @@
         "press": "다나와 자동차",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZmdCTGRXSkp1UDlIbDU2ei04YVNPYW00UzZVUUNRR3hYRFFQaDBCS3RCdXF0dFZTNzZrdjVfZVY5YWdBazVWSGRjRFgtZ0k3M0ZCTUhRaUFhYjVfZnA1VW1oajM4RDd4ZVB5eHkzNG1mVzRHS1lqbXFQQQ?oc=5",
         "pub_date": "Sat, 03 Oct 2026 10:48:07 GMT"
+      },
+      {
+        "press": "다나와 자동차",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WeXVMNTlpYUd0ZGI2N0hpWjJTdndxTWRpZUtES1k5Q284YkRseWpFVC1kSWszSXNwUVc5RVYxMUZVUkRBUHMzbXZXTFZJckZRMV9XVzZ2dkE4cnlQMW9LRjJrM0cwN2FTY1h1dGlpQ2tKUjlsS2YtMm5hVQ?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 10:18:45 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "373220-기타-38547-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -52079,9 +52089,14 @@
         "press": "민주신문",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yNEViMUhvQVo2Q25Vdm5Ib0xWTUVRUWlLZ1J6ajhOdXhOV0ppc1pSWkZDR21RbWlVczhiZXhSRk5hUmJVMUNUdlpZOHo3SDhNb015X09TcFE3emZBZ0RoTlppVF9ELUVUTjZz0gFrQVVfeXFMTnI0RWIxSG9BWjZDblV2bkhvTFZNRVFRaUtnUnpqOE51eE5XSmlzWlJaRkNHbVFtaVVzOGJleFJGTmFSYlUxQ1R2Wlk4ejdIOE1vTXlfT1NwUTd6ZkFnRGhOWmlUX0QtRVRONnM?oc=5",
         "pub_date": "Fri, 02 Oct 2026 08:11:32 GMT"
+      },
+      {
+        "press": "충북일보",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pN2piVjB6YTl6TUU0ajlBbEw2UlZFbU9GdlBfYnRYd2EyUWpGc0VNOFp3czZLX05xbXZHdXJCZjhoN1owU3FSNTZfYTJrSmFUdXZrY1dBUWtJQ3ZBTnJhMmhn?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 09:46:29 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-38798-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -52259,7 +52274,7 @@
     "source_count": 1,
     "id": "137400-기타-38881-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
