@@ -12679,12 +12679,17 @@
         "press": "Investing.com 한국어",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NZnZmdUY0R3NFY3hQd1NIQmFpc251V29jMEp1emhjQ2tMTzNwUWplcUhWLWx6bTZpaVpvSGhVVlNCZG42YkRBeFhPQXlDN1NraXJlblRBd0NfMHhiZ1Q4UkdjWUlnTFI2TWRHQWY1MVNiMjg?oc=5",
         "pub_date": "Thu, 03 Sep 2026 08:37:00 GMT"
+      },
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zS25sSm9uUkl5X0pDSjF4ZDZsUW1weFlrcVFhbTk0SGNlS0ptc2dNZ2w2UFhzUWVYZ2htRnJieFJUME5LZEJvMlkzd3MtTWptejA5WWl4MHd0QXEyX280YUdidU5YWEZrMjlaQ0F1aWRraTg?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 04:31:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "399720-기타-8325-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -50386,7 +50391,7 @@
     "source_count": 3,
     "id": "103590-수주-37930-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -50435,9 +50440,19 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JYkR0ZGh4MzhsVGxJamRmdVZXWEQzRzdBRm5MelJTZS1LaTkwd1E2Mm1URkF1WmpLZDA2TTN0dFloRTVZTWc2YmFqMXhRQ18tZGVsMw?oc=5",
         "pub_date": "Thu, 01 Oct 2026 23:06:06 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YU3IySU5GaF9iNnUzSkpKc2dacUgtVkpsQm0yOGVDRFFKUFE2d3VLVnU5eVo4Y0Z1VEdMZks4ckRGanBqRXlhMzZQbTlKRVBOaXZjaw?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 00:30:34 GMT"
+      },
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOHlMZlFyN0RGRmVlakpYRFh1QlhMei1zQ1BSa3phWjJtdmhEVU5TYTM3V1c4Tmk1T3UxSFV4ZmVraHZZRXNZSUp3TzRZLWpFbk1oQ3JaYw?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 23:33:48 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 9,
     "id": "103590-수주-37931-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -51124,7 +51139,7 @@
     "source_count": 1,
     "id": "103590-수주-38299-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -51519,7 +51534,7 @@
     "source_count": 1,
     "id": "326030-기타-38519-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -51562,9 +51577,14 @@
         "press": "다나와 자동차",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvVjY0ZzY0cGMzdUQtcVFOMl9TbGR2SkZnTUg1NXB5TUNnSTh6cWVtY2ZSZnVnSTAteU93V3U3T1JJbHh0SmJ6dHltal9zbGlLZmNjY0VjeUhhOHRmNTBMQ1FjNzZONmVTeGVpTg?oc=5",
         "pub_date": "Fri, 02 Oct 2026 04:47:33 GMT"
+      },
+      {
+        "press": "다나와 자동차",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQcGFkend3anBHaERBOXFMbVlDX3o4R01WeFpKWl9BU2wwSTFLOXdoQkphNW1YUVBValp6OVdaZ09VekJYYVk2c3FxTGtiLWpLQUQ2ODBZX09mS1NUSlR3OVVzVnVxdmlMeWE3bFk4MlRrNmJzYVFZVnJ4RQ?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 06:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "373220-기타-38547-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -51894,9 +51914,14 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwZE5MR192Sm1wanYzejV5U1d0RFMxSEZxX19VZU9iazBxcExpWFN3NnQyWmw0R3lOdGF2Z2VQdm04QU15WHRDNWlYTW9Mbmc?oc=5",
         "pub_date": "Thu, 01 Oct 2026 23:06:06 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04NkN5ZDBPQm1JZ1lUQ3l3MHhiN3o2amZBMG9jOFFzQnc1RWFTR1loSDZhdXZFV2JNQnBscDgxLU8tVFU0NFRLLTNVNlZlb1VsejhDWQ?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 23:22:57 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "103590-수주-38694-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -52318,6 +52343,54 @@
     ],
     "source_count": 1,
     "id": "096770-기타-39214-20261003",
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "공급난 틈탄 삼성전자의 베팅… HBM4 석 배 가격으로 파운드리 적자 턴어라운드 노린다 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONy1SdW8wYUEyRDZocHl4NEhFRHhWZUhacUZrUmd5SjNPN19wS3VIT3AyanJhNTl0ZEI4THhveTlMOHIzSk9yZHg3T2EyQWFKQm82MHdsYzgwQkdYMU9RZFFFeWZzdEUwcEE1Y201YnpuM19lVWFfbzdGUHhQX2Z1NmwyU0dqbkdG?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 02:51:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-39223-20261003",
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG에너지솔루션, 미국 전기 상용차 스타트업 ‘인디고테크’와 전략적 MOU 체결 - koreasprint.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "koreasprint.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5veFBGMi1UWjNIZV9YbzFKbTJnRTZmTVREMUM0b0FOTkQwSFRmVGhJTXhvWXktalUzalB3Y19EcV9WSDl4ZC1xY3ZGbVE2Sy1GQ1IyTV8tN0l3eDlGeGJzNGYwSHdEVEhyYmpNQjln?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 06:44:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-39384-20261003",
     "first_seen": "2026-10-03",
     "last_updated": "2026-10-03",
     "status": "일반",
