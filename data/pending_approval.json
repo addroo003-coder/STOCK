@@ -50386,9 +50386,24 @@
         "press": "mt.co.kr",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMeF9uYkd4UDRVVzN0QWUtbEMzMTU0a1ZPbjg0RTd3Uk1sU2hMak45T1AtVDROU1A5WVVobDR5T0UzUGFhcV85Y25zYjBYTTFYUUI2bUg4SFBnSHJ0LWZUNmVUUmREU3NDT3k0NmVtWWJOQdIBckFVX3lxTFBMeF9uYkd4UDRVVzN0QWUtbEMzMTU0a1ZPbjg0RTd3Uk1sU2hMak45T1AtVDROU1A5WVVobDR5T0UzUGFhcV85Y25zYjBYTTFYUUI2bUg4SFBnSHJ0LWZUNmVUUmREU3NDT3k0NmVtWWJOQQ?oc=5",
         "pub_date": "Fri, 02 Oct 2026 01:11:28 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JYkR0ZGh4MzhsVGxJamRmdVZXWEQzRzdBRm5MelJTZS1LaTkwd1E2Mm1URkF1WmpLZDA2TTN0dFloRTVZTWc2YmFqMXhRQ18tZGVsMw?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 23:06:06 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04NkN5ZDBPQm1JZ1lUQ3l3MHhiN3o2amZBMG9jOFFzQnc1RWFTR1loSDZhdXZFV2JNQnBscDgxLU8tVFU0NFRLLTNVNlZlb1VsejhDWQ?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 23:22:57 GMT"
+      },
+      {
+        "press": "mbiz.heraldcorp.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOHlMZlFyN0RGRmVlakpYRFh1QlhMei1zQ1BSa3phWjJtdmhEVU5TYTM3V1c4Tmk1T3UxSFV4ZmVraHZZRXNZSUp3TzRZLWpFbk1oQ3JaYw?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 23:33:48 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 6,
     "id": "103590-수주-37930-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -51376,7 +51391,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "‘고덱스’ 급여 살려낸 셀트리온, 글로벌 CMO 확대로 성장 가속 - medisobizanews.com",
     "source_type": "news",
@@ -51385,12 +51400,17 @@
         "press": "medisobizanews.com",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WTFVrazYwUGY5b3Q1SE9KdHY1blc4SVRfOE50OVctWUJiNXhDOGhDSkNXQXNGMUNPa0hvZFN4YTl5T0RsenBIRFRzWk9CYUhiRWd3UU5kZFVtSEpIbzNLZ2lpS2Rwb1lRMnZ5OW52UTFXLXfSAXZBVV95cUxOSUtUdjViN05PRkdzTDliY083Ty03UEJ6d0lLenFJNGNWMTRNVTZIam0wdWtNYnFzUlZDWnhZR0dpbWtmN0UzMm1XVnpjT2NWa1k5NTkya0FNTlptajdVNUozSFNBblFRSmNIQlZ4U3NwcU9TN2lB?oc=5",
         "pub_date": "Thu, 01 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "press": "메디소비자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqVmYzWm5fdkY4S0JycVlWT0dmQ0NneHRmbVQ4b3owaFNsdjdKLUROdzB5NlY3R0VzODNSUm4xd2F3ZlVwX3FhanYwRlhZYUdwN1pFLXZGcTJ4OWZhd3Q1VUZnWjl1cmMyYWRnQWJ2OWdzQdIBdkFVX3lxTE5JS1R2NWI3Tk9GR3NMOWJjTzdPLTdQQnp3SUt6cUk0Y1YxNE1VNkhqbTB1a01icXNSVkNaeFlHR2lta2Y3RTMybVdWemNPY1ZrWTk1OTJrQU1OWm1qN1U1SjNIU0FuUVFKY0hCVnhTc3BxT1M3aUE?oc=5",
+        "pub_date": "Thu, 01 Oct 2026 21:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-38470-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -51424,7 +51444,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SK바이오사이언스, 독감백신 스카이셀플루 광고 확대…이민정 모델 발탁 - PRESS9",
     "source_type": "news",
@@ -51433,12 +51453,22 @@
         "press": "PRESS9",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14X3Y4MV92ZlVzeEN1UDRBNkZCcEhPcjVTcG50QW9LVmszeWFUeTc1MHE2N1NUSzd4Tk5JRHJ5RmNJeVJFeTNHWUtlWWtkN2V3eEM5Q3FKcjJCR2V5MUg4SXIzU0Q?oc=5",
         "pub_date": "Fri, 02 Oct 2026 04:33:02 GMT"
+      },
+      {
+        "press": "m-i.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWFR4RzB2SUJ3ZTBrcWFvSkVOMGd1cFVFUEJnbG1uNmZiazExYzhCV0FGbTFya3VXQ2V3M2hQLVljdjU1UFBfVWpCTnotQkV5M1VHS0lkRGR5ZjFSbHBhNTgzVnA?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 04:38:02 GMT"
+      },
+      {
+        "press": "메디소비자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SWWw3LS1TQWJ1NFhIal9VOGlUai1fbGhyc3BnVjEyeVJnSnFzSnB2MnA2bER5YUZNY2JhSElraFNpWWk3cExQTURCaWlOMDhoWGhhWEtvOEhCR3NsdlVJRmgzak9VMEZjNE1uSUt2N0RWOEHSAXZBVV95cUxQM0NjSnJKVTZlYmRacmh2NjlnQ2xtS2FXbmVhaUtxeUpGVlZhZXQ2cXcxTXdGUXhSWEtnM3lIUVctREg4ZE1abWszQ01VczVhQWFKZlFGUjZwUlhRemdOZkVvWmpFSUw4bUY4c28wU0drUlZFRG53?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 04:45:22 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "302440-기타-38473-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -51582,9 +51612,14 @@
         "press": "다나와 자동차",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQcGFkend3anBHaERBOXFMbVlDX3o4R01WeFpKWl9BU2wwSTFLOXdoQkphNW1YUVBValp6OVdaZ09VekJYYVk2c3FxTGtiLWpLQUQ2ODBZX09mS1NUSlR3OVVzVnVxdmlMeWE3bFk4MlRrNmJzYVFZVnJ4RQ?oc=5",
         "pub_date": "Sat, 03 Oct 2026 06:00:00 GMT"
+      },
+      {
+        "press": "다나와 자동차",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZmdCTGRXSkp1UDlIbDU2ei04YVNPYW00UzZVUUNRR3hYRFFQaDBCS3RCdXF0dFZTNzZrdjVfZVY5YWdBazVWSGRjRFgtZ0k3M0ZCTUhRaUFhYjVfZnA1VW1oajM4RDd4ZVB5eHkzNG1mVzRHS1lqbXFQQQ?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 10:48:07 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "373220-기타-38547-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -51948,7 +51983,7 @@
     "source_count": 1,
     "id": "006260-기타-38703-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "status": "일반",
     "stale": false
   },
@@ -52083,7 +52118,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "충북도-청주시-셀트리온그룹, 투자협약 체결 - 충청신문",
     "source_type": "news",
@@ -52092,9 +52127,14 @@
         "press": "충청신문",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pMWxEWEItOW44SWF3RV9vRTFoX3hEbjlGV09TMXZNVVlLSnJUVXVSajlibTBUS3lvdzNzT3Zob1FuRnRaMk5OZVpMZzhCdUctdzdWM2gxSWNVSzlxVnVWVXpkNUlEdXFRSks5QTdB0gFuQVVfeXFMTmkxbERYQi05bjhJYXdFX29FMWhfeERuOUZXT1Mxdk1VWUtKclRVdVJqOWJtMFRLeW93M3NPdmhvUW5GdFoyTk5lWkxnOEJ1Ry13N1YzaDFJY1VLOXFWdVZVemQ1SUR1cVFKSzlBN0E?oc=5",
         "pub_date": "Fri, 02 Oct 2026 09:09:51 GMT"
+      },
+      {
+        "press": "모빅경제",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xdlNDNVM4cnRBUUtiUzhkUzJ0WWVyOWxUMDZjOVAwWGFWTUVFdkJpVXRjLV9sdElDcmtpdlJJNklyRTZnenRqeWc3Q0dRRjBuN2ZVSjhZU1doMTk3aFZ0U3A3Z1p2WlJCTFJpei05VDE?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 11:59:19 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-38805-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-03",
@@ -52391,6 +52431,54 @@
     ],
     "source_count": 1,
     "id": "373220-기타-39384-20261003",
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "기업가치 최대 1500억 달러… SK하이닉스가 ‘솔리다임 상장’ 고민하는 이유 - 비즈한국",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈한국",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51bDFrUWdVX1diX0hyVzgtQTZZUHF2NlZHRHZEZjlCei1kRHpHdFhYRDdvdnBrWndNUExUbUQwNUdpelJHZkc5VF9VZTVZMEt0NmhtbzlGVVA1U1oxNzY4NDVKUE8zWFdLTU5nNjU4YWNCVGt3bl9j?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 04:28:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-39411-20261003",
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "일진전기",
+    "stock_code": "103590",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "일진전기, 英서 '2716억원' 잭팟…전선 사업 역대 최대 규모 - m-i.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "m-i.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sTk5JbldXVmdBai12YzdVSnZLRFBSM0h6OVI1VXJPTmNMRnV6VnQ4RHZraDdEZ3NyTDMwYmFHdTBDZjUzdUpsUDFJQ0xGeWJ1RXZvdEE4dDctN0dxc2VYM19SUjM?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 08:17:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "103590-기타-39444-20261003",
     "first_seen": "2026-10-03",
     "last_updated": "2026-10-03",
     "status": "일반",
