@@ -52319,9 +52319,14 @@
         "press": "포커스데일리",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FcWd1N3FEeDhSQi1fb2dYd2Z6RFRCZkVfWEVZZVdVT1UtQXdmWkFvOUQ2eE9UZ3hfWktGMnR2U0hGMk10N0NDQ25TR1RwY2hMNVdBWUZHdUN0U1A0Z1paRFExbER3Zw?oc=5",
         "pub_date": "Sun, 04 Oct 2026 18:21:54 GMT"
+      },
+      {
+        "press": "구미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KcWhoUmVNc2xOM1NoTmdRa3BBWWkxcDBXdWRld05EbjJubnRyakFnNHR0VEJ2RFllYVNpY0xOR0wyNThvZzBsME1PcXVOdHFEd2E0N3lVSWFreTJYUnBJaGZyaDZac1BPYWpoVEFQQWRBY3hy?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 00:18:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "137400-기타-38881-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-04",
@@ -52789,6 +52794,30 @@
     ],
     "source_count": 1,
     "id": "373220-기타-40290-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 범용 MLCC 줄이고 고부가 제품 확대…수익성 개선 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBISUFDU0l6UzFRM3RBemRfYnpKZHRLT0RBZkprNkFkZkZsX2ZHZjZKbFVuX01YNmxxYXVXdTRlUFVpdlhfSGxqcGlnNWtQcnB1Q01TSkEtb0lqOVlSRU5XZWlCVnV0blhXRlp3d0R3ODNxcFHSAXdBVV95cUxObFFBMXNkMkNRSU1ES2VFLU5LZzlTaFZRSlNxR01iSTBrUThsSVpOTjJYZWhSX3hPdjgwajNzQmtfZ3g5bmIwY1ZzYkFDMTM4X3I0UTktYnZEcW1TX3JzZGlsVGZvSnRyUEVfT0tyOXNlMG4yR1BLWQ?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 23:20:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-40328-20261004",
     "first_seen": "2026-10-04",
     "last_updated": "2026-10-04",
     "status": "일반",
