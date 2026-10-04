@@ -52299,9 +52299,19 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5iVzc1TF85STVZdV9FTmtTTDJFdEZHNGVDUURVdnVlSXhNNXU5dmdaRDdiQnVJNXI3T3BJeDdBNEh5ZzNpYnc?oc=5",
         "pub_date": "Fri, 02 Oct 2026 07:17:58 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNmw3djZsTnU0RDNHdFhQT0lnRnhwc1hDUjkyazZZVWtIeFRDUXk0R081dzhMWnBIUjZ5d01KV2xUUjN0aVlVOGZyYVluYmc?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 07:20:18 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GT2NIdmtmTU1OTk9uWHZYWXp2MmQtWTRVY29MWmtYSGo4WTVWTVpISEt4d0VjdWpjUDlDdlc1clFpZFVmbTJGNXFGX01RMGc?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 01:03:31 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "137400-기타-38881-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-04",
@@ -52620,6 +52630,78 @@
     ],
     "source_count": 1,
     "id": "326030-기술-39909-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, AI 투자 확대에 솔리다임 자금조달 ‘고심’ - 뉴스토마토",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSEJFc0g2TExSVS1UUWhsU0RoRGJ2UXpEQlM1QjJ3Z3A2V3RDd2MyU2VYeTgzNnlVdEQtSUtIX0NmaHZ5bzBmcGRjdFh6N08xU3paLXU0SjRlUjM4RC1N?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 10:56:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-39980-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[위클리반도체] TSMC 2나노 인상⋅마이크론의 2028년 품귀 경고…삼성전기 4조원대 기판 투자의 의미 - 디지털데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKeUszWTR2NmFKU0lCVngtSUoydGtPLU8zQVVUaUJMb1BVcWRFMFowMTFYSDZ0TGhRRkw2dTZGQ3FLOVNKYXdXa19MRjlZQTVpRzdDcUozUldSY2hpLTVjeGZRSkY?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 08:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-40014-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "툴젠",
+    "stock_code": "199800",
+    "sector": "바이오",
+    "category": "기술",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "툴젠, 특허소송에 140억 배정…유전자 가위 IP 수익화에 올인 - IPDaily",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "IPDaily",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZkMxZFpfUUdKVXZLanFkbWZ1aTNiUU5uYWFiSFRPR3NvMHg2YXdKQzFSNzR1ZlYyZmFpcWlNdVU1NEN3NFprME5mdUlmMGtUMHJVRWZtV0VNTWtNZlc2Y1hOeXFBaTRkUUFybTJ4YUM2N0VHenFva05tMzhmM0RWaXI2Z1NDYk9zQnByUEZvSTl5TUNsTUVwWjdoV252MGFuWXVVcmpIQTlnQjhwZXVXYTQyRC1XMFBnYTNrWmRqU2s1Sml6RVN4dkJGNmhNRExVUHVsdDVGamZDd3QzTWd4SVRnRkR0NFJQaXM1ekViQ0x0ckRCVElDcEh2X1VndVg0ckk5UU5ORmZEalZxMnBqZXNQckJhUmZpNldUc3VxVFk5ZXlCUnVISjdLZ1lzUlphV1FuaDhmNDhpTDkyd3V3ZHE2N0dnc1ZkZ3hEaUdSaEJTeXFuZkE?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 09:30:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "199800-기술-40140-20261004",
     "first_seen": "2026-10-04",
     "last_updated": "2026-10-04",
     "status": "일반",
