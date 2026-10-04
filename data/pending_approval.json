@@ -51251,9 +51251,14 @@
         "press": "뉴데일리",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYS1rdkVjbTJ2V3AwLXJYaC1tOUh6bERScVdxUjRJaFdWaFY3WWFRVTlBeVlUUXQxV2pmX0c1Vm9kc2xvTDNBRmZ0QWF2TkozWmJMRzZRSWljT1g2UkpLQXlqYnhsckp1dWE5SHh0MS10RXlUMjlLVnEwZVpxeGwyY9IBgAFBVV95cUxOYS1rdkVjbTJ2V3AwLXJYaC1tOUh6bERScVdxUjRJaFdWaFY3WWFRVTlBeVlUUXQxV2pmX0c1Vm9kc2xvTDNBRmZ0QWF2TkozWmJMRzZRSWljT1g2UkpLQXlqYnhsckp1dWE5SHh0MS10RXlUMjlLVnEwZVpxeGwyYw?oc=5",
         "pub_date": "Fri, 02 Oct 2026 06:42:45 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yZUJUdERWNkkwYlVtXzVLdGRaT3RWSnd1QmxJbktQa3FYY1lWVWtPdnk5SmowVWJVbm1OSXFzWG5PSGJjWmc?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 07:28:11 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "006260-기타-38306-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-04",
@@ -51637,9 +51642,14 @@
         "press": "다나와 자동차",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WeXVMNTlpYUd0ZGI2N0hpWjJTdndxTWRpZUtES1k5Q284YkRseWpFVC1kSWszSXNwUVc5RVYxMUZVUkRBUHMzbXZXTFZJckZRMV9XVzZ2dkE4cnlQMW9LRjJrM0cwN2FTY1h1dGlpQ2tKUjlsS2YtMm5hVQ?oc=5",
         "pub_date": "Sat, 03 Oct 2026 10:18:45 GMT"
+      },
+      {
+        "press": "다나와 자동차",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZWFWTk1UblRTN0F0aVRCUXJYQ2dZdGowVHZVLXloRUNtaHhpZzBqTUpKVEtXTlJ3eU5LZlZVRzltNU5qdTFIMDJzeFAyUWZDay0tUEd4ODB1VmxqVDNfa2MxaWZOTGpjQ3lUb0hjTE5JOWJQRWJ2QU5aUGJQYkNxaXhKTmMxUnNjOXdvYUZpbWhYa3hmQzRPUnY3QlctMEV2YlZUSnBhYUNBdXNSWGwtNTZSOEd0WVZKMmVIbmFFVGtOSUNrM1o0NDUtcHF0Z2R6X0VVSmN4Y0J5QUN2OW9ITjh6bFZIZzh5dHZUOXJodzk3ckpILV9EaXAxY0xwWEIxT1QyaXdiQQ?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 10:39:01 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "373220-기타-38547-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-04",
@@ -52515,7 +52525,103 @@
     "source_count": 1,
     "id": "103590-기타-39444-20261003",
     "first_seen": "2026-10-03",
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한항공, LS증권 목표가 4만원으로 상향…3분기 이익 전망 주목 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DMVUwb2Y0UnA5V3ZzTUJod1BPTHRLdmRycHk5YkNGN1dRdDVXa3Rjak94cUFzME4yRlVNZ2FPM0JwUGdxS0pEblRDMi11aFBMT085Um5hTjlCaU5yQjZmRktWbHhwY3Ns?oc=5",
+        "pub_date": "Sat, 03 Oct 2026 09:33:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-39805-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "‘최대주주’ LS전선, LS마린솔루션 지분 추가 확보…구자은 회장 동참 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yZUJUdERWNkkwYlVtXzVLdGRaT3RWSnd1QmxJbktQa3FYY1lWVWtPdnk5SmowVWJVbm1OSXFzWG5PSGJjWmc?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 07:28:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060370-기타-39815-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'원전 건설 넘어 처분까지' 현대건설, 全주기 기술 경쟁력 확대 - 프라임경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "프라임경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GQ0NxLUZaWWFNUzRtQ1o4VHdfYVcyU1ltZEdKT0Y3LXBacHk1blBSVUY3RXFnMGpGU2Z5NHBqbzVzdlJPdlM1ZEZzdUZhbTRibGJ3MkJjVDJHRTVYemhLTTlLTmlqcFp1UVFjSQ?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 01:49:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-39835-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, 美 영업망 강화…신제품 확대 준비 - 팩트인뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팩트인뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoWG9ma3VqY0hvRWVvQTVxREtBR0w4NGxYZHFqRHhZRXZrYW5RZExIRURjeEdhS2JxaEw2MHktOHc1SmlYc0VZeVhPemZpTUNiNVdjZzFfbjRiWnlxQWNzbm9kcGxiTjEwVTNTWUJYR1HSAXRBVV95cUxQNTZod1VnaXVjOEcwMXlyTnp6RjdoTDdUejZ5WU1rM0luWU42czg0TTU3R0luWG9xU25sVWZHRWZnQmQ5ZWhwSml2RmlvMTdfMzJhWE5mUzA0SFliOHNwajZQS0l4U3hXTUxlQUZwOHZLNFNXbQ?oc=5",
+        "pub_date": "Fri, 02 Oct 2026 07:15:29 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기술-39909-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
     "status": "일반",
     "stale": false
   }
