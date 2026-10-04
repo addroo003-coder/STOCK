@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "올해 M&A 62조, 9개월 만에 작년 연간 실적 추월…AI 인프라 빅딜이 견...",
-      "office": "서울경제",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667959"
+      "title": "“기업 평판 관리에도 골든타임 있다… AI시대 핵심은 타이밍”",
+      "office": "국민일보",
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876723"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "메모리 공급 과잉 우려 다시 고개… “2028년까진 공급 부족”",
-      "office": "국민일보",
+      "title": "삼성전자 용인산단, 하수처리 고도화로 공업용수 총 45만t 재사용",
+      "office": "서울신문",
       "date": "20261005",
-      "url": "https://n.news.naver.com/mnews/article/005/0001876699"
+      "url": "https://n.news.naver.com/mnews/article/081/0003685983"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
