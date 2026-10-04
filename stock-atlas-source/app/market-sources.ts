@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "실증 현장 찾아 지방으로…로봇기업, R&D·생산 거점 재편",
-      "office": "아이뉴스24",
+      "title": "'기술 구루' 실험실 밖으로…KAIST 상반기 창업 107명",
+      "office": "한국경제",
       "date": "20261004",
-      "url": "https://n.news.naver.com/mnews/article/031/0001063351"
+      "url": "https://n.news.naver.com/mnews/article/015/0005339041"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "3분기 영업익 764%↑…삼성전자 ‘100조 클럽’",
-      "office": "파이낸셜뉴스",
-      "date": "20261004",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584784"
+      "title": "메모리 공급 과잉 우려 다시 고개… “2028년까진 공급 부족”",
+      "office": "국민일보",
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876699"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "마이크론이 먼저 확인한 메모리 호황…삼성·SK하이닉스는 '비용 변수...",
+      "title": "투자할 곳 많은 SK하이닉스…솔리다임 자금조달 '고심'",
       "office": "아이뉴스24",
       "date": "20261004",
-      "url": "https://n.news.naver.com/mnews/article/031/0001063411"
+      "url": "https://n.news.naver.com/mnews/article/031/0001063416"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
