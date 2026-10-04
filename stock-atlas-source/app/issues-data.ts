@@ -3761,6 +3761,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "009150-기타-32102-20260925",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "반도체로 89조 번 삼성…110조 투자 어디로 향하나 [삼성 AI 투자지도①] - kukinews.com",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "kukinews.com",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HSUpoWFNsQ1lRTF82Vkx0RUhQNHJ1Y1BnalpJNEs1M3dPcVVuS21BWUpVal9haTlkMzhpcFI0enpBTlpKY3ptcGRncFFtbk1xNkpSdDFQSmQtN2kxdzJ5V1F0RQ?oc=5",
+          "pub_date": "Fri, 25 Sep 2026 01:59:54 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-10-04",
+      "stale": false
+    },
+    {
       "id": "009150-기타-37915-20261002",
       "category": "기타",
       "direction": "중립",
@@ -3780,33 +3802,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Calgary Roughnecks",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9td1NqcU9hNkk0ZU04VFFQZDNRYWtlZkwxdl84bTZlRFVvZEg5TGZoTkJXNFNsTGlCSlQ2Yzd6MS1IT1h5SU8waWxZQkxBblp0X0JndHhVeVRPUG1iNEVDXzhxbmpKZFdUWTJjMVB0WEszeGhpdVE?oc=5",
           "pub_date": "Fri, 02 Oct 2026 16:43:08 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-10-02",
-      "last_updated": "2026-10-04",
-      "stale": false
-    },
-    {
-      "id": "009150-증설-38254-20261002",
-      "category": "증설",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "AI 기판 잡아라…삼성전기·LG이노텍, 베트남 증설 승부수 - 뉴스토마토",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "뉴스토마토",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zOE9vRnJXTjJkaGRhVDRqT3hWR1c2OGFBU1hkb01idGgyT1VWSm9nUUczdVJzdUFJX2NjdVVhOXlnLWtlajZRWFlPeFpjOUpUTXVabnJ6NGZPMVdMVHEyNA?oc=5",
-          "pub_date": "Fri, 02 Oct 2026 06:09:09 GMT"
-        },
-        {
-          "press": "뉴스토마토",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzempQcllXa1E0c3NJemYtVkthaklKWXQta2cxUDRic2N0TXVjTnY2eF9aME1mNjVlQ2xmYWZiRWQyUzlrOUFNaGZ0ZDBHalljZGYzX3BGNjNwcjhPdXFqNA?oc=5",
-          "pub_date": "Fri, 02 Oct 2026 06:09:09 GMT"
         }
       ],
       "source_count": 2,
@@ -10278,9 +10273,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "elec4",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13MEdRWkZPb0ZqYkN6MFhjeDlpMm5lNVRZbWVsQmtSaDA0TTBLRnloY0ZSVWM4X0RnR1gtSF8wNGlHRWdHWm1IZ0k1RW5ZbE5YT3JpYVhiWExLalpfUDl6bHFncWk3TlFtSGFHYmVR?oc=5",
           "pub_date": "Fri, 02 Oct 2026 20:09:03 GMT"
+        },
+        {
+          "press": "sisa-n.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OdHlhVG0tRjdNV3g0a1hKaHcwNkRHaWdFc2lwQ284dUtYVU10YTZRUm5leVg1RTYxNHRWeER6UTRHQzNCdjFJVFZ3REhzZ0FS?oc=5",
+          "pub_date": "Sun, 04 Oct 2026 17:00:04 GMT"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "first_seen": "2026-10-02",
       "last_updated": "2026-10-04",
       "stale": false
@@ -19354,6 +19354,28 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "두산로보틱스": [
     {
+      "id": "454910-기타-821-20260828",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "엔비디아가 찍은 K로봇 두산로보틱스, ‘피지컬 AI’ 타고 전고점 넘을까 - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tMlBIbGtMWHcwcWtLRHp6dlh0ck1xOWZ5NWItVTlGczY4SXFEaHJIMXRlZW5kUnpLX08wQ0ctN2JtYmcxNkIzcXdfeV9VbWU1XzJEb3lrSWNCRVJzeWxsUkYyMA?oc=5",
+          "pub_date": "Thu, 27 Aug 2026 03:05:40 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-08-28",
+      "last_updated": "2026-10-04",
+      "stale": false
+    },
+    {
       "id": "454910-기타-36067-20260930",
       "category": "기타",
       "direction": "중립",
@@ -19555,28 +19577,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "Calgary Roughnecks",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUFtVk9HLU5aenV2dnpwU3JwOHFna0NYcGp0R004bFBSazJzXy1fOXFJSVFVWEM3NWlTc1Z6OU5GZkZ3Qkc3ZFlqdllMak15amF0bGF6MVpxOU9VOGk0bzlrWW5GamhMNV9jb05IeDUxUDJ3c3c2QzVqSzgyZUU5MklCLWJTQmlVMGpGY2xvcWVGMktueVUyQmdxQ0hUUGtuWC13bDhMeVUwRi1fWERGT1FURFB0d0w2VmliajU0M0ZlMThZQVoyZWl6ZUp2c0tabFViSzBDaWx5WkF2UFBjb2l4eGVqWUlDX3BWSlRMbF9fbkEyMEMzZXNWaEdYc2d1NF9BYUhB?oc=5",
           "pub_date": "Fri, 02 Oct 2026 10:21:26 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-10-02",
-      "last_updated": "2026-10-04",
-      "stale": false
-    },
-    {
-      "id": "454910-기타-39020-20261002",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "로봇주 일제히 들썩…뉴로메카 8%대·로보티즈 5%대 상승 - CBC뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZNkZzUkZjTWcySE9NYmtldU15Sm4yVUoySmFKNWZZdGpEaS1nVU5KZndTdWJ1V1hVVWxhekdFZF9FRzJJa2ZyZG5NR3dESXRoT01FaEt1YXh1dzdMd3FGaWVReFpib0Iy?oc=5",
-          "pub_date": "Fri, 02 Oct 2026 22:25:00 GMT"
         }
       ],
       "source_count": 1,
@@ -26994,6 +26994,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "226950-기타-18404-20260912",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "매일 먹는 약 넘어 주사·RNA 치료로…탈모 신약 경쟁 - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wai1KWFpWdm01MEV6TUJrQm4yRGVkeTBYYkVrMWdSNWdvWjBOakNCZmNnMXFuNDRmS1lNQU5zTmppLUFvQVNGb3o4MUpCRmdETGNveU8xclRUdGtmcmxsWVVzMA?oc=5",
+          "pub_date": "Fri, 11 Sep 2026 14:06:55 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-10-04",
+      "stale": false
+    },
+    {
       "id": "226950-기타-34527-20260928",
       "category": "기타",
       "direction": "중립",
@@ -27083,33 +27105,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 1,
       "first_seen": "2026-10-02",
-      "last_updated": "2026-10-04",
-      "stale": false
-    },
-    {
-      "id": "226950-기타-39202-20261003",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "\"악재는 끝났다\"…환율 하락에도 끄떡없는 4분기 바이오 최선호주는 - KB Think",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90WnRBYWxSRno4UWNnTlJtdFpRbDJDZnJCUW53MENxLThQYURnLTZOUE9hektTVGZtOWQ4bFVDZU5kV1h5SUxmNzh1eVhOOThqWV9GMFpTM21tdnh2bEFfU1ZvZXhWQWgxMXFmSXFoOXVsZw?oc=5",
-          "pub_date": "Sat, 03 Oct 2026 00:05:00 GMT"
-        },
-        {
-          "press": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5LXVIUnFFNnJNc2wtb3NWYkVUNldQQmp4OHZBcnJGUTU0cGwtdzZNZVV6czJLU1VwdnJnMXRHMmppbERYTk1neXBNQmFZeTdYeGg3OVU5S29FdTdyYzJUMFE0N2RteGthNDl4dVRCX2w?oc=5",
-          "pub_date": "Sat, 03 Oct 2026 00:05:12 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-10-03",
       "last_updated": "2026-10-04",
       "stale": false
     }
@@ -28165,6 +28160,85 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "큐로셀": [
     {
+      "id": "372320-기타-7494-20260902",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "큐로셀 ‘림카토’, 건보 급여 첫 관문 통과…하반기 상업화 속도 - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDVGZLTExNX3ZIVDF2dTZLV21BcHJXWFR4RTA4WlZKdWFOaW9hbWVtZk1HcmdFTmpYNzZTcjI0SFNaVlA0dlROYzRJYmtSaWcta01kREFMbVNPOUNDQklGVnc0WQ?oc=5",
+          "pub_date": "Tue, 01 Sep 2026 20:38:56 GMT"
+        },
+        {
+          "press": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcFh4SWY1bTNLUjBFeTB0LWFuRVYtazRrWHY2Y3dNRXRWdEtMck1LN21RaUszOXpmMTFuY211RDRBbmpyOU9INXFMMDJ3ZzE2MTA1WUtYZnFBejIwN0pCUw?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 23:35:50 GMT"
+        },
+        {
+          "press": "녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xU3RrMExWb0lFRlU5Wjdyb3JUZVZjM2RCVHhGR0Q0Rm8yNC1fZEhqbm9ENEstM2JWTkVacFhqWENnRnVhYjhGZFVoUXhoQ2dWdDM5TFhHTHJoTXlRVGVmUlR0TnFNSEdi?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 23:39:15 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-02",
+      "last_updated": "2026-10-04",
+      "stale": false
+    },
+    {
+      "id": "372320-기타-33387-20260927",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "국산 CAR-T ‘림카토’, 치료 대기 줄일까 [카티, 환자 곁으로①] - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqNUdmdXJ2QzJieGRMX3AyWGg1TFFhdnVacGhQZWNaQ3Zkc0NkU0ZpWXoxTF9RaVFoYkh2bDdXeDJpY0FZZ3A0NDFrOTZTbWV2MTRyeTB2RVB0QktRX0NacGxNNA?oc=5",
+          "pub_date": "Sat, 26 Sep 2026 21:01:59 GMT"
+        },
+        {
+          "press": "kukinews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRDdqc0Z2OWVySmgzT05FbFdWck55RVg1WE1HbUpwY2hSWWthQkRROU1xMWNSczlhVTItZXo2R1VpN2p5Wk5ReWVMU3JzcW9zb3RNdldQRUxsdmFYWTJaTHZLay0yakhpcnJ3SjB3VzNXZlh1emxfd1ZmRDlTbkNGTC1EZE0xNHBQLVhVYnlpSjNiNGxUMmFMeHZaay1NWjZFMlM3LWlpVTBUOVNkT3c?oc=5",
+          "pub_date": "Sun, 27 Sep 2026 21:00:06 GMT"
+        },
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tRDk5ZVFtU2lvMnotbkl1d1pyZHZISUdZdldHTWpqd3VtV19HcXlrcFhpVVF0bWx5SFdPcGNrY3hWMU9OaDdNTF90R3l2ZmxjRmxBUUxsZ0hleUZaS0xwdEE2VQ?oc=5",
+          "pub_date": "Mon, 28 Sep 2026 21:00:07 GMT"
+        },
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnltSUZpckdRbFhVLURiN01FNVkxVjY3RUttMVdPcW1jM29OcDdYOUpla1RkWFNzZ3RvRWllTE1tVFIwVXlWeW9zOU5SQkgzdFlPaDk1TXhIWUo2V3FmNUlwMXZNLTZMZTJNbE03bzV2WmxvdlVNaUl4RVZrZFp4ZXU3TkRUMkdoWXhEbDkzeHF5WV8xZHJJN2M0ZDVtUHFsYldoejZ3eXoyXzY4bHc?oc=5",
+          "pub_date": "Mon, 28 Sep 2026 21:00:07 GMT"
+        },
+        {
+          "press": "쿠키메디",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcU0tNGJid3NvOVdZNTlNX0RHc25HeWt1VHY5SlExZXFDZU92UVFrRnpNejJfLVY2dldCVHlkSDhvV0QyU04wa2dIM0VMWnpNTmhtOUp3MldsUnE3dWg4LTkzd28?oc=5",
+          "pub_date": "Sun, 27 Sep 2026 21:00:06 GMT"
+        },
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHYxOXhCeHIxUndiVnViUGx3MS1CQjcwM1hMVHJMMHhua2VjNS04ZXZoRTFjaDRRU2lGMUwtSU1ZdFpNSDZvZnpJODZHYzk1em9Jam92QWdQZ2dnMmcwM01pN1dJT211TkJ0WTdaaEFwRHlHOFRlaHpoRThwTHVORzYyV0JuWHlLSl9LQmU0V21wdUV0T3oyT0JoTGlVVlZjWWNZQ0pmMUg?oc=5",
+          "pub_date": "Mon, 28 Sep 2026 21:00:07 GMT"
+        }
+      ],
+      "source_count": 6,
+      "first_seen": "2026-09-27",
+      "last_updated": "2026-10-04",
+      "stale": false
+    },
+    {
       "id": "372320-기타-39380-20261003",
       "category": "기타",
       "direction": "중립",
@@ -28299,50 +28373,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oRlFZWjBCWWo5a0RNUmd4anN3TlFlOGhscWdJSExxVUpTQW5OUFRtQ2NhVDVTVVJLNk9sTzBnYWY1cTQ5ZmJHZ2Ytd01HeWNtU090T0x5dllTX0d2T21vSUw4QjRqZGcyY0tPRVR5ai03cGg1Mi1V0gF3QVVfeXFMTWhGUVlaMEJZajlrRE1SZ3hqc3dOUWU4aGxxZ0lITHFVSlNBbk5QVG1DY2FUNVNVUks2T2xPMGdhZjVxNDlmYkdnZi13TUd5Y21TT3RPTHl2WVNfR3ZPbW9JTDhCNGpkZzJjS09FVHlqLTdwaDUyLVU?oc=5",
           "pub_date": "Thu, 01 Oct 2026 04:38:10 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-10-01",
-      "last_updated": "2026-10-03",
-      "stale": false
-    },
-    {
-      "id": "372320-기타-37765-20261001",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "23억 달러 수출 잭팟 다음…K-바이오가 넘어야 할 진짜 관문 - 포춘코리아",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "포춘코리아",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00V0t4RlFmd3B6UEhvaGJvRW5MeThRTTVLVmN6Yl9rOEtQaHduLTc2OGdDVHc1OEZxTm9HRkVobmlma2lrNm9Nb2EzQ2lFREJFeDhDdEw1UVlBUEdqU3J2a3diODhZMUpleXVzRkN1dThreGZyRnfSAXZBVV95cUxNNFdLeEZRZndwelBIb2hib0VuTHk4UU01S1ZjemJfazhLUGh3bi03NjhnQ1R3NThGcU5vR0ZFaG5pZmtpazZvTW9hM0NpRURCRXg4Q3RMNVFZQVBHalNydmt3Yjg4WTFKZXl1c0ZDdXU4a3hmckZ3?oc=5",
-          "pub_date": "Thu, 01 Oct 2026 06:10:24 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-10-01",
-      "last_updated": "2026-10-03",
-      "stale": false
-    },
-    {
-      "id": "372320-기타-37851-20261001",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "아산·서울대병원, 국산 CAR-T 치료제 ‘림카토’ 도입 - 데일리메디",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "데일리메디",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pWUszME9zNGt6MUlvV1NWdlZiSUp6eWVYcXd0Ym9rdUJsc2ZaOHlSTE9hMmR5QUtObmxmckJDaXpJbVRYLTZxRmpxelZETXlEc1BaNVNwd2plNUk2Wm5JTXpielpscld1Y2FXMlJodlZ4RzBG?oc=5",
-          "pub_date": "Thu, 01 Oct 2026 21:01:00 GMT"
         }
       ],
       "source_count": 1,
@@ -29851,9 +29881,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "경북구미신문",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5haHVxMktDRmtyX05GU3o0Y3hVN1FLYmFKSkdkTDVNVXk3Unk4cnkyaUNPd1JUV3RRQjBhT2FLRThpWWJDTGcxZEIwT0NVWWQ5bTMtNDloNnJ1c1JHNUdRUXJiS0lVN1RnQ3c?oc=5",
           "pub_date": "Sun, 04 Oct 2026 13:14:27 GMT"
+        },
+        {
+          "press": "포커스데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FcWd1N3FEeDhSQi1fb2dYd2Z6RFRCZkVfWEVZZVdVT1UtQXdmWkFvOUQ2eE9UZ3hfWktGMnR2U0hGMk10N0NDQ25TR1RwY2hMNVdBWUZHdUN0U1A0Z1paRFExbER3Zw?oc=5",
+          "pub_date": "Sun, 04 Oct 2026 18:21:54 GMT"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "first_seen": "2026-10-02",
       "last_updated": "2026-10-04",
       "stale": false

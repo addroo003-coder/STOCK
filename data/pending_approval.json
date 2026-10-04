@@ -52314,9 +52314,14 @@
         "press": "경북구미신문",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5haHVxMktDRmtyX05GU3o0Y3hVN1FLYmFKSkdkTDVNVXk3Unk4cnkyaUNPd1JUV3RRQjBhT2FLRThpWWJDTGcxZEIwT0NVWWQ5bTMtNDloNnJ1c1JHNUdRUXJiS0lVN1RnQ3c?oc=5",
         "pub_date": "Sun, 04 Oct 2026 13:14:27 GMT"
+      },
+      {
+        "press": "포커스데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FcWd1N3FEeDhSQi1fb2dYd2Z6RFRCZkVfWEVZZVdVT1UtQXdmWkFvOUQ2eE9UZ3hfWktGMnR2U0hGMk10N0NDQ25TR1RwY2hMNVdBWUZHdUN0U1A0Z1paRFExbER3Zw?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 18:21:54 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "137400-기타-38881-20261002",
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-04",
@@ -52760,6 +52765,30 @@
     ],
     "source_count": 1,
     "id": "034020-기타-40201-20261004",
+    "first_seen": "2026-10-04",
+    "last_updated": "2026-10-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG에너지솔루션, 46시리즈 북미 상용차로 확대…인디고테크와 공급 협의 - webeconomy.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "webeconomy.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqOEZIWUhCbW80WDlIYjY3eWpfQzRFYzVjdjltMWUxUEhpSGg5ZUx6UWVLaUZoakYwQ245bXNUTVJZODBwdHpQNHJjTEQzRmc3ajdOazBRczVpVkhTSnNtNFVLVjh5VmhabFZyd01uQmxJdw?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 12:45:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-40290-20261004",
     "first_seen": "2026-10-04",
     "last_updated": "2026-10-04",
     "status": "일반",
