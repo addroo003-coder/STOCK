@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "마이크론도 샀다…‘HBM 불량’ 잡는 쎄크, 삼성·SK 문 두드린다",
-      "office": "이코노미스트",
+      "title": "[ZD브리핑] 'AI 페스타 26' 개막…국감·삼성전자 실적도 주목",
+      "office": "지디넷코리아",
       "date": "20261005",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103860"
+      "url": "https://n.news.naver.com/mnews/article/092/0002439851"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -557,10 +557,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "부진의 늪 빠진 바이오주…성장성 입증이 반등 조건",
-      "office": "파이낸셜뉴스",
-      "date": "20261004",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584791"
+      "title": "삼성바이오·SK바이오팜·한미약품, 아태 10대 ‘영향력 있는 바이오 ...",
+      "office": "디지털타임스",
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051405"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KAI 민영화 열쇠 쥔 정부, 국감서 입장 나오나",
-      "office": "디지털데일리",
-      "date": "20261003",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243586"
+      "title": "K-항공우주, 글로벌 공급망 올라탄다… KOTRA 상담회 성황",
+      "office": "매일경제",
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743975"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "에이슬립, 현대건설·삼성전자와 '수면 오케스트라'…\"침실의 월패드...",
-      "office": "이데일리",
-      "date": "20261004",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380610"
+      "title": "대미투자 수혜주 '현대건설'⋯한미 원전 8기 '반등 열쇠'",
+      "office": "아이뉴스24",
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/031/0001063436"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "판 커지는 'AI 데이터센터'…삼성·SK·LG도 투자 확대 나서",
-      "office": "뉴시스",
+      "title": "[ZD브리핑] 'AI 페스타 26' 개막…국감·삼성전자 실적도 주목",
+      "office": "지디넷코리아",
       "date": "20261005",
-      "url": "https://n.news.naver.com/mnews/article/003/0014233288"
+      "url": "https://n.news.naver.com/mnews/article/092/0002439851"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1649,10 +1649,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "LS전선 ‘희토류 동맹’, 브라질 광산까지 품는다…원료 공급망 확장",
+      "title": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네",
       "office": "서울경제",
-      "date": "20261004",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668095"
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668183"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
@@ -1663,10 +1663,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "대미투자 1호 확정에 볕드는 K전력기기",
-      "office": "동행미디어 시대",
+      "title": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네",
+      "office": "서울경제",
       "date": "20261005",
-      "url": "https://n.news.naver.com/mnews/article/417/0001160039"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668183"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -1719,10 +1719,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=326030",
     "news": {
-      "title": "SK바이오팜, 美 세일즈 인력 160명 한데 모인 이유는",
-      "office": "데일리안",
-      "date": "20261002",
-      "url": "https://n.news.naver.com/mnews/article/119/0003139166"
+      "title": "삼성바이오·SK바이오팜·한미약품, 아태 10대 ‘영향력 있는 바이오 ...",
+      "office": "디지털타임스",
+      "date": "20261005",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051405"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/326030/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "마이크론이 보여준 메모리 호황…글로벌 D램 투자해볼까",
-      "office": "데일리안",
+      "title": "외국인 한달간 20조 팔았다…삼성전자·SK하이닉스 실적이 마음 돌릴...",
+      "office": "서울경제",
       "date": "20261005",
-      "url": "https://n.news.naver.com/mnews/article/119/0003139428"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668192"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
