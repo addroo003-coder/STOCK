@@ -51652,7 +51652,7 @@
     "source_count": 5,
     "id": "373220-기타-38547-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52172,12 +52172,17 @@
         "press": "모빅경제",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xdlNDNVM4cnRBUUtiUzhkUzJ0WWVyOWxUMDZjOVAwWGFWTUVFdkJpVXRjLV9sdElDcmtpdlJJNklyRTZnenRqeWc3Q0dRRjBuN2ZVSjhZU1doMTk3aFZ0U3A3Z1p2WlJCTFJpei05VDE?oc=5",
         "pub_date": "Sat, 03 Oct 2026 11:59:19 GMT"
+      },
+      {
+        "press": "중도일보",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CSDA4OXpzUEFxekFwWTlQYzR4b3czX29ndjhVazBqVk1BaS1GWlJSekdaS3JXdWFPZFdTT01ENWUwcUFhT1pNTGl4ZW5HZ0dQMEJBRkV2V2g3Qm42cTVHbThJdXAyMHBhb2Yyaw?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 23:40:42 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-38805-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52324,12 +52329,17 @@
         "press": "구미뉴스",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KcWhoUmVNc2xOM1NoTmdRa3BBWWkxcDBXdWRld05EbjJubnRyakFnNHR0VEJ2RFllYVNpY0xOR0wyNThvZzBsME1PcXVOdHFEd2E0N3lVSWFreTJYUnBJaGZyaDZac1BPYWpoVEFQQWRBY3hy?oc=5",
         "pub_date": "Sun, 04 Oct 2026 00:18:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LRWZ2bXNLekU3X0owaVhOdnd5VUpITUVYWFhiMnhHdDJydHdRaHpBaExndjZHOEZJZHRqeEpHVUN4aXU3RGc?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 07:20:18 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "137400-기타-38881-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52430,7 +52440,7 @@
     "source_count": 1,
     "id": "006400-기타-39212-20261003",
     "first_seen": "2026-10-03",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52454,7 +52464,7 @@
     "source_count": 1,
     "id": "096770-기타-39214-20261003",
     "first_seen": "2026-10-03",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52608,7 +52618,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "'원전 건설 넘어 처분까지' 현대건설, 全주기 기술 경쟁력 확대 - 프라임경제",
     "source_type": "news",
@@ -52617,12 +52627,17 @@
         "press": "프라임경제",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GQ0NxLUZaWWFNUzRtQ1o4VHdfYVcyU1ltZEdKT0Y3LXBacHk1blBSVUY3RXFnMGpGU2Z5NHBqbzVzdlJPdlM1ZEZzdUZhbTRibGJ3MkJjVDJHRTVYemhLTTlLTmlqcFp1UVFjSQ?oc=5",
         "pub_date": "Sun, 04 Oct 2026 01:49:16 GMT"
+      },
+      {
+        "press": "newsprime.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ST1QzZGVJc2Y5bFhkUzhrTzc0b25iT0F1Z3A4QkpuR2l0MElhbS13cElydV9YSlRKM2RKSGh6NlM3ZnAxT1pKNjBxRGlLTmdYSm0tcEpJcE55bTRGSFJvUVNjbw?oc=5",
+        "pub_date": "Sun, 04 Oct 2026 01:49:16 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-39835-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52675,7 +52690,7 @@
     "source_count": 2,
     "id": "000660-기타-39980-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52699,7 +52714,7 @@
     "source_count": 1,
     "id": "009150-기타-40014-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52723,7 +52738,7 @@
     "source_count": 1,
     "id": "199800-기술-40140-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52795,7 +52810,7 @@
     "source_count": 1,
     "id": "373220-기타-40290-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -52819,7 +52834,31 @@
     "source_count": 1,
     "id": "009150-기타-40328-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "정책",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기 157만7000원 마감…정부 AI 투자 확대에 첨단부품주 관심 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnaVVPd24wYWZzalFVekh0THZhMXR6RVRrQmdPRWM0NFlVRUl4MUtBQ2x3OExtenlfLXRBNlVzU0VBVDY2MTFUSER3TXI5NEVEckNCVEJTcEZzell3Xy01elk3RGd4Z1VL?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 02:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-정책-40475-20261005",
+    "first_seen": "2026-10-05",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   }
