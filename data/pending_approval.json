@@ -47167,12 +47167,17 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uN29jVDJVYVFvbDR6VFRuZHVtT0NJdGtMLUp5NDFWbXJYeko0OG9rZklmamVZR2hlQ1R1Zkp6TFBSZUFaUUE?oc=5",
         "pub_date": "Wed, 30 Sep 2026 01:36:00 GMT"
+      },
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Fc0JWZ0prZE1ReExIaVFRSWpCbk8zckl0YWdSbVhMUVVKeWhoT0UxYWsydFFOT3NiaHNGcWJ5V3pTcHRCWmV6blNlMEhCaDQ?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 05:09:26 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "207940-기타-35812-20260930",
     "first_seen": "2026-09-30",
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
@@ -50639,7 +50644,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[대한전선 톺아보기] 악재 아닌 구릿값 급등…원가 부담 넘은 외형 확대 효과 - 딜사이트",
     "source_type": "news",
@@ -50648,12 +50653,17 @@
         "press": "딜사이트",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Q2JjN0ItNUN1UFUzdGFBQ3VfdEgybVdsbUVwMFB2ZHlqVF81QWhCVE5pdDMyMWQzamNmNHI3OGVMQnMzSGZIUUx6Znl5c1E?oc=5",
         "pub_date": "Thu, 01 Oct 2026 22:00:00 GMT"
+      },
+      {
+        "press": "Naver Blog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa2VHNXFZMHE2MTBrNFI5YTRLSC00RmQxVVYzZFFqend1dDRyNlhzVEwwYmdJUlNLRXRHbDRKQmNod2pabXBXSWFNN2U0dnJXWm10dGFOeHpLT1NFaFZuOFA3RU53a2w5X0EzYkkyLURQdGlTYm5DcHRFNzlzWmJWbEdDaGJNTTNUb3FnQzJCRQ?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 06:07:11 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "001440-기타-37952-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-05",
     "status": "일반",
     "stale": false
   },
