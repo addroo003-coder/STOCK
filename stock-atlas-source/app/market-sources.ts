@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티, 미국행 첫 가스터빈 출하식…스페이스XAI에 공급",
-      "office": "세계일보",
+      "title": "두산에너빌리티, 美 스페이스XAI에 380㎿ 가스터빈 수출",
+      "office": "마이데일리",
       "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/022/0004164509"
+      "url": "https://n.news.naver.com/mnews/article/117/0004112651"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -235,7 +235,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=108490",
     "news": {
-      "title": "[현장] \"우리 AI, 잘 쓰게 만들어야\"…이해민·하정우, 산업 활용성 ‘...",
+      "title": "\"우리 AI, 잘 쓰게 만들어야\"…이해민·하정우, 산업 활용성 ‘집중 점...",
       "office": "지디넷코리아",
       "date": "20261006",
       "url": "https://n.news.naver.com/mnews/article/092/0002440021"
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "최승호 삼성전자 노조위원장 \"성과급 주총 필요성 인지\"",
-      "office": "동행미디어 시대",
-      "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/417/0001160225"
+      "title": "삼성전자 부른 삼바 노조… 번지수 헷갈리는 '노봉법'",
+      "office": "머니투데이",
+      "date": "20261007",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422886"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "포스코퓨처엠, 삼성SDI에 6조원 규모 'LFP 양극재' 장기공급",
-      "office": "아시아경제",
-      "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/277/0005825286"
+      "title": "포스코퓨처엠, 삼성SDI 계약… 국내 배터리 3사 공급망 강화 '가속'",
+      "office": "머니투데이",
+      "date": "20261007",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422894"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -627,10 +627,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=058610",
     "news": {
-      "title": "세아베스틸, ‘로봇용 특수강 소재’ 국산화…양산단계 진입",
-      "office": "디지털타임스",
+      "title": "세아베스틸, 로봇 감속기 소재 국산화…日 의존도 낮춘다",
+      "office": "서울경제",
       "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/029/0003051719"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668761"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/058610/news"
   },
@@ -865,10 +865,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "유한양행, 글로벌 제약 박람회 ‘CPHI 밀라노’에 단독 부스…“CDMO 수...",
-      "office": "디지털타임스",
+      "title": "유한양행, CPHI 밀라노 출격…글로벌 CDMO 수주 확대 노린다",
+      "office": "서울경제",
       "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/029/0003051736"
+      "url": "https://n.news.naver.com/mnews/article/011/0004668475"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000100/news"
   },
@@ -1257,10 +1257,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "포스코퓨처엠, 삼성SDI에 6조원 규모 'LFP 양극재' 장기공급",
-      "office": "아시아경제",
-      "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/277/0005825286"
+      "title": "포스코퓨처엠, 삼성SDI 계약… 국내 배터리 3사 공급망 강화 '가속'",
+      "office": "머니투데이",
+      "date": "20261007",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422894"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "ESS+중저가 EV 각광…포스코퓨처엠→삼성SDI LFP 공급 2배↑",
+      "title": "포스코퓨처엠, 삼성SDI 계약… 국내 배터리 3사 공급망 강화 '가속'",
       "office": "머니투데이",
-      "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/008/0005422792"
+      "date": "20261007",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422894"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "이형일 “美 원전 선급금, 국내 절차·상업성 충족돼야 송금”",
-      "office": "국민일보",
-      "date": "20261006",
-      "url": "https://n.news.naver.com/mnews/article/005/0001877122"
+      "title": "\"中 반도체 추격, 생각보다 빠르다\"…삼성전자·SK하이닉스가 긴장해...",
+      "office": "뉴시스",
+      "date": "20261007",
+      "url": "https://n.news.naver.com/mnews/article/003/0014236987"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
