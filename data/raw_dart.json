@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자율공시)              ",
+    "rcept_no": "20261006800023",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023",
+    "is_correction": false
+  }
+]

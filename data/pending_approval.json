@@ -4971,7 +4971,7 @@
     "source_count": 1,
     "id": "006400-실적-4980-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -44214,14 +44214,19 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800083",
         "pub_date": "20260929"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023",
+        "pub_date": "20261006"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "is_correction": false,
     "rcept_no": "20260929800083",
     "id": "042700-수주-34550-20260929",
     "first_seen": "2026-09-29",
-    "last_updated": "2026-10-01",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -44312,12 +44317,17 @@
         "press": "데이터투자",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjS3dER1RWS2lhbEdEQVl6X2E1Y25RU0djRXE1QjFtOG9UU251Yl9Rd2N2MnQycU5nbC13a2gxbWtBZVNsY2YtVHZKekppYmJiUWs1eTZNNlpTVDZadERqOVp6RGdCbG9oeUJfNHNzRWVxZTA?oc=5",
         "pub_date": "Tue, 29 Sep 2026 00:01:32 GMT"
+      },
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xbUdjRjBYaDQ0STBIYkV4V01BS3Bjbk1KYnpwOHA3Qkx0cWc3RHZrY243NzB1eHFQM2hXZ05mYkt6UlRiR09jbGtCelJxWVdSVkxsVnNkZlFEUnBWMU5DT1VHTXpfZ3REMzdrNEtjbUpKZ2M?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 23:02:33 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "042700-수주-34590-20260929",
     "first_seen": "2026-09-29",
-    "last_updated": "2026-09-29",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -50663,7 +50673,7 @@
     "source_count": 2,
     "id": "001440-기타-37952-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -52349,7 +52359,7 @@
     "source_count": 8,
     "id": "137400-기타-38881-20261002",
     "first_seen": "2026-10-02",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -52647,7 +52657,7 @@
     "source_count": 2,
     "id": "000720-기타-39835-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -52748,7 +52758,7 @@
     "source_count": 1,
     "id": "199800-기술-40140-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -52844,7 +52854,7 @@
     "source_count": 1,
     "id": "009150-기타-40328-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   },
@@ -52868,7 +52878,199 @@
     "source_count": 1,
     "id": "009150-정책-40475-20261005",
     "first_seen": "2026-10-05",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'삼성전자 3분기 실적 발표일' 역대급 매출 찍나...예상 성적표는? - gukjenews.com",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "gukjenews.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1icUU2UkRKNnFjZkRYbFFpempVcHdoR192M3AtYktoS3NEbTl5em1QSmxXTTFxb3l1WGdTZmExYkhDM000VDNjY29faklzblNtcjViNk9HVHpodEhqZnBua3ZJNGQ4Nm9QNUx6dUpB?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 15:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-40986-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "iM증권, 심텍 목표가↑…\"AI CPU 수요확대 수혜로 지속 성장\" - yna.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "yna.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aYi1iQ213VE9yVm1BbVgzNkVhWVpJSllzLVhGb052TTY5QkE0OElucGxfN3RMX05hdDlRbDZ1Rm9kdm5CMy1QOExtbERWUnRicGdvS2tsRThjQm_SAWBBVV95cUxNVUs5SFFJRXYzN09JUkVERFNUMzU5ZWx1bE10bmZ3Z2JzSmhFMTJSWUdZdjdhM2htT0tsQW1qTjBZYU5NQ0ttd1hqNm0yNzlGZ21GNFZsOHZfT2lZVWZMQVU?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 23:15:17 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-41053-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[전날 애프터마켓] SK하이닉스·KB금융 상승폭 확대…코스닥선 심텍ㆍ리노공업 강세 지속 - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUmJSUEV2LU5TdzIxZWhibUItSExMUnQwRzhjU081dlJieFNPd1hxYnFKRHl5QWZ6WXB0QnZ5SVdRTWVpVGcxeWRTNUlKREN5RTdtLTRTQXRuekJMNWdTTzFaWS1kRzcyMExuWW96QWktbmxF?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 22:47:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-41054-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS證 \"아모레퍼시픽, 북미 신규 브랜드 매출 확대 전망… 목표가 19만원\" - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXRaOUh6SF8yS3ZLcmstRk1qZ1lrOTVpc25LZ0RSc0FXR2czdlFOb3lyeTA1ekNLODMtV3FENVRlRHBZM2ZydW9zZ294ZlBVRHF1cWZpYVNDMXdrcWlELTA1ZjM1d0ZYSjlrRkJva0pfVXlYdV9MMEFZRGJlcnRmN0pra1ZRNFRq?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 23:33:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-41072-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“삼성바이오로직스, 5공장 효과 본격화…유증에 목표가는 하향” 하나증권 - v.daum.net",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zNzkzSHlxZWFyTEw0TkM0dVNnQlpEUV9ZUXVTUHNRWDdEQkJCZWdxZDJ3MHZIRXlMdUFiQWUwdFpJUDlaSHZRbjZaczRORmM?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 22:57:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-기타-41151-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "자본",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하나證 “삼성바이오로직스, 5공장 효과 본격화…유상증자에 목표가는 195만원 하향\" - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzJFQ1pHbmVBZVF4cUwtVV9qVEg5T1I1MnVseGRVT3FURWN4Nm0xc2J6Yk5zaXZtM3BNYnpVYmpXMFdzTjJUOUpRcXFSNTB4MWtiUFkwLVdmZG1rX2pPZDlQRTVzY3paNXVRck5EODhsUnBrMUcwelRDMW82RWhGWC1WWVNtVl9M0gGcAUFVX3lxTE1iVXI2VXFRZ29JRnRBbTZrU3RNb2c0QUhyMXhUSGJpZG1GT3FWQ3hSdHB6eENZa2s3RGhyR3k5cjR4U2h2bXpJNGwxcDctM2xVVmdpamFULTNrcWN1RUJPOHhGdTV1cXpWR1BzY2pKQkdOS0lTdDlfU3NTWnA2bm9UcmdaYzdESmdPSXducmt3RWJKR0hNV1pZOHhMOA?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 22:43:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-자본-41152-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "릴리가 택한 올릭스 MARC1…MASH서 '간 지방 감소 이후' 관건 - 청년의사",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "청년의사",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zb3dNMDZldHo2VGZMMzZ6WVI2NktwM2w1RzMzTjBUYVJnczFGS1dUOGRDb2xpUk10MGRyalRaNjhmTzY0QkpYdUh0aks5VldJdWxFMlFGVGhYY0FaaXg5VlJlWWYwamVBN0ZOQjUtTnFpZlXSAXNBVV95cUxOM293TTA2ZXR6NlRmTDM2ellSNjZLcDNsNUczM04wVGFSZ3MxRktXVDhkQ29saVJNdDBkcmpUWjY4Zk82NEJKWHVIdGpLOVZXSXVsRTJRRlRoWGNBWml4OVZSZVlmMGplQTdGTkI1LU5xaWZV?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 21:17:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-기타-41189-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "HK이노엔 \"에크노글루타이드, 1b상서 비만청소년 체중 최대 12.1% 줄어\" - 히트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4em1TMk5kYWF2dlBzb1NPWFhFRWlnb1ZxTWtZOXF5RzJHd0xkM3U5amZRc2tsYzZ3TXRnd080T21nenh0SHlZZE9GU1JzODF1RjhrdmlMaXlWN1hfYnZGcEdQT1ZIcXNIOTdr?oc=5",
+        "pub_date": "Mon, 05 Oct 2026 23:24:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "195940-기타-41200-20261006",
+    "first_seen": "2026-10-06",
+    "last_updated": "2026-10-06",
     "status": "일반",
     "stale": false
   }
