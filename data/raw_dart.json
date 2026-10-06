@@ -78,6 +78,19 @@
     "is_correction": false
   },
   {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261006900667",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900667",
+    "is_correction": false
+  },
+  {
     "company": "산일전기",
     "stock_code": "062040",
     "sector": "전기·전력",
@@ -114,6 +127,45 @@
     "rcept_no": "20261006000097",
     "rcept_dt": "20261006",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000097",
+    "is_correction": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261006800697",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800697",
+    "is_correction": true
+  },
+  {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261006000459",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000459",
+    "is_correction": false
+  },
+  {
+    "company": "티로보틱스",
+    "stock_code": "117730",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261006000369",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000369",
     "is_correction": false
   },
   {
@@ -182,6 +234,19 @@
     "is_correction": false
   },
   {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "최대주주등소유주식변동신고서              ",
+    "rcept_no": "20261006800676",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800676",
+    "is_correction": false
+  },
+  {
     "company": "에스티팜",
     "stock_code": "237690",
     "sector": "바이오",
@@ -192,6 +257,97 @@
     "rcept_no": "20261006900277",
     "rcept_dt": "20261006",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900277",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주명부폐쇄기간또는기준일설정              ",
+    "rcept_no": "20261006900761",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900761",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "회사합병결정(종속회사의주요경영사항)              ",
+    "rcept_no": "20261006900744",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900744",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주요사항보고서(회사합병결정)",
+    "rcept_no": "20261006000420",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000420",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(유상증자결정)",
+    "rcept_no": "20261006000329",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000329",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(유상증자결정)",
+    "rcept_no": "20261006000323",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000323",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(유상증자결정)",
+    "rcept_no": "20261006000321",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000321",
+    "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(유상증자결정)",
+    "rcept_no": "20261006000310",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000310",
     "is_correction": false
   },
   {
@@ -206,6 +362,19 @@
     "rcept_dt": "20261006",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900258",
     "is_correction": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261006800617",
+    "rcept_dt": "20261006",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800617",
+    "is_correction": true
   },
   {
     "company": "엘앤에프",
