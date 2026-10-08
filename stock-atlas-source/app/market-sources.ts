@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 역대급 실적에도…코스피 6,600선 후퇴",
-      "office": "연합뉴스TV",
-      "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/422/0000913881"
+      "title": "63만원 or 27만원…'역대급 실적' 삼성전자 주가 향방은[종목e슈]",
+      "office": "이데일리",
+      "date": "20261009",
+      "url": "https://n.news.naver.com/mnews/article/018/0006384329"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "AI 시대 급증하는 전력 수요…\"현실적인 대안은 재생에너지\"",
-      "office": "머니투데이",
-      "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/008/0005423978"
+      "title": "포스코퓨처엠, 삼성SDI와 LFP 6조원 규모 공급계약 체결",
+      "office": "세계일보",
+      "date": "20261009",
+      "url": "https://n.news.naver.com/mnews/article/022/0004165265"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -557,10 +557,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "키트루다 SC 유럽 8개국 판매 제동⋯알테오젠 “특정 제품·지역 의존...",
-      "office": "코메디닷컴",
+      "title": "키트루다SC, 유럽 8개국서 판매 금지…알테오젠 특허 리스크 재부각",
+      "office": "아시아경제",
       "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/296/0000105721"
+      "url": "https://n.news.naver.com/mnews/article/277/0005826480"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1257,10 +1257,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "SK온 이어 삼성SDI도 확보…포스코퓨처엠, LFP 양극재 공급 영토 확장...",
-      "office": "디지털데일리",
-      "date": "20261007",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243922"
+      "title": "포스코퓨처엠, 삼성SDI와 LFP 6조원 규모 공급계약 체결",
+      "office": "세계일보",
+      "date": "20261009",
+      "url": "https://n.news.naver.com/mnews/article/022/0004165265"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "\"이번에도 해냈다\"…누리호 발사 성공의 순간",
+      "title": "\"누리호가 또 해냈다\"…환호 터진 발사 성공 순간",
       "office": "연합뉴스TV",
       "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/422/0000913884"
+      "url": "https://n.news.naver.com/mnews/article/422/0000913947"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "전기차·ESS가 쌍끌이…LG엔솔, 3분기 실적 신기록",
-      "office": "서울경제",
-      "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669589"
+      "title": "LG엔솔, 3분기 매출 9.6조 역대 최대… 영업익 7560억",
+      "office": "동아일보",
+      "date": "20261009",
+      "url": "https://n.news.naver.com/mnews/article/020/0003753825"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "엔비디아 HBM4 '8단 축소설'에 반론…삼성·SK하이닉스 호황 지속 전망",
-      "office": "아이뉴스24",
-      "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/031/0001064657"
+      "title": "D램도 HBM도 가격 뛴다… 삼성, 年 영업이익 세계 1위 꿰차나",
+      "office": "국민일보",
+      "date": "20261009",
+      "url": "https://n.news.naver.com/mnews/article/005/0001877721"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
