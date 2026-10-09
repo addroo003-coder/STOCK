@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "펀드 모집 3배 늘었는데 IPO는 제자리…세컨더리 시장 키운다",
-      "office": "서울경제",
+      "title": "“240만원→80만원” 주가 보고 ‘화들짝’…망한 줄 알았던 ‘국민 ...",
+      "office": "헤럴드경제",
       "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669708"
+      "url": "https://n.news.naver.com/mnews/article/016/0002707407"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "누리호 다음 승부처는 '재사용'…한화에어로·현대로템 기술 확보 주...",
-      "office": "뉴시스",
-      "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/003/0014243728"
+      "title": "한화-KAI 경영참여 국감 이슈로…김동관·김종출 증인 나오나",
+      "office": "더팩트",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/629/0000540791"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1565,7 +1565,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "[단독] 메모리 넘어 AI 부품·전력 기기 확보전…빅테크 '5년 계약' 줄...",
+      "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰...",
       "office": "한국경제",
       "date": "20261009",
       "url": "https://n.news.naver.com/mnews/article/015/0005340895"
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "ESS로 '서프라이즈', K배터리의 부활?…\"AI가 만든 새 기회\"",
-      "office": "머니투데이",
+      "title": "3분기 실적시즌 개막…'깜짝 실적' 예상 종목은? [한경우의 케이스스...",
+      "office": "한국경제",
       "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424204"
+      "url": "https://n.news.naver.com/mnews/article/015/0005340841"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "격랑의 중동서 K방산 성공하려면… \"공급자 넘어 동반자 돼야\"",
-      "office": "한국일보",
-      "date": "20261007",
-      "url": "https://n.news.naver.com/mnews/article/469/0000958280"
+      "title": "한화-KAI 경영참여 국감 이슈로…김동관·김종출 증인 나오나",
+      "office": "더팩트",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/629/0000540791"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1663,7 +1663,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "힘빠진 전력기기…美 수주랠리에도 매출 제자리",
+      "title": "'AI 수주' 쌓였는데…전력기기 빅3 주가는 찬바람",
       "office": "한국경제",
       "date": "20261009",
       "url": "https://n.news.naver.com/mnews/article/015/0005340887"
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성 107조 벌고도 주가 하락…SK하이닉스, 27일 추가 주주환원 규모 ...",
-      "office": "세계일보",
-      "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165416"
+      "title": "나이·학벌·경력 안 본다, 오직 AI 실력만 본다",
+      "office": "조선일보",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003059"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
