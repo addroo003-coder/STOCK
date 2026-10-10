@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "ESS로 '서프라이즈', K배터리의 부활?…\"AI가 만든 새 기회\"",
-      "office": "머니투데이",
-      "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424204"
+      "title": "기후 대응과 지역 균형 한번에…220조 어느 동네 투자되나 봤더니[Pic...",
+      "office": "서울경제",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669836"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게...",
-      "office": "전자신문",
+      "title": "'100조 시대' 삼성전자 최대 실적...주가는 하락",
+      "office": "YTN",
       "date": "20261010",
-      "url": "https://n.news.naver.com/mnews/article/030/0003473735"
+      "url": "https://n.news.naver.com/mnews/article/052/0002417023"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "한국항공우주, 3Q 실적 기대치 하회 전망…목표가↓-유안타",
-      "office": "이데일리",
-      "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/018/0006383309"
+      "title": "한화-KAI 경영참여 국감 이슈로…김동관·김종출 증인 나오나",
+      "office": "더팩트",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/629/0000540791"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰...",
-      "office": "한국경제",
-      "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340895"
+      "title": "기후 대응과 지역 균형 한번에…220조 어느 동네 투자되나 봤더니[Pic...",
+      "office": "서울경제",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669836"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "3분기 실적시즌 개막…'깜짝 실적' 예상 종목은? [한경우의 케이스스...",
-      "office": "한국경제",
-      "date": "20261009",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340841"
+      "title": "기후 대응과 지역 균형 한번에…220조 어느 동네 투자되나 봤더니[Pic...",
+      "office": "서울경제",
+      "date": "20261010",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669836"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
