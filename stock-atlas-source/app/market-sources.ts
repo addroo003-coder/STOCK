@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "'100조 시대' 삼성전자 최대 실적...주가는 하락",
-      "office": "YTN",
-      "date": "20261010",
-      "url": "https://n.news.naver.com/mnews/article/052/0002417023"
+      "title": "[마켓인사이트] 삼성전자 역대급 실적에도 짓눌린 코스피, 반등 가능...",
+      "office": "연합뉴스",
+      "date": "20261011",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368628"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
