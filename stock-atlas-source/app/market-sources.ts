@@ -11,10 +11,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000500",
     "news": {
-      "title": "대신證 \"가온전선, AI 데이터센터 전력 수요 성장 초기\"…목표가 36만...",
-      "office": "뉴스1",
-      "date": "20260930",
-      "url": "https://n.news.naver.com/mnews/article/421/0009199582"
+      "title": "가온전선 신고가…장중 시총 10조원 돌파",
+      "office": "한국경제",
+      "date": "20261007",
+      "url": "https://n.news.naver.com/mnews/article/015/0005340192"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000500/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스는 왜 솔리다임을 상장하려 하나…4가지 이유[biz-플러스]",
-      "office": "서울경제",
-      "date": "20261010",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669820"
+      "title": "\"'1970년대 데자뷔' 인플레 폭풍에도…삼성·SK하이닉스는 버틸 것\"",
+      "office": "뉴시스",
+      "date": "20261011",
+      "url": "https://n.news.naver.com/mnews/article/003/0014244573"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
