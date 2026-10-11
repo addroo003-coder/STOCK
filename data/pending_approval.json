@@ -14847,12 +14847,17 @@
         "press": "톱스타뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CM2ltdUtJTWw3TlFNMjV3Njk4M3puZGY2N2dZdG0xelc3SnhmNnFNSUNQWHhOYUxJZ3Y4QTUzM1hteGZFYzQ4aGthNlprVmROdUpZUXdReC12dXJNMjZYV3dHTVBYdVA2eFFNLUd6VWpadw?oc=5",
         "pub_date": "Sat, 12 Sep 2026 03:21:20 GMT"
+      },
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNQ0ZsYXZmUGd6U1VZdHVfcWx0eXVOVnFCZWZVdzI1NEhKOXhyMnNRRmVnaXYxMll3ZElYalphTFJrb2JRNmN6MlBoLVMzNFgtNlQ4d3BZbVhmdVkzZ2VqRVdfbmNJU1VQSFY2NDRUeDdjUQ?oc=5",
+        "pub_date": "Sat, 10 Oct 2026 02:25:24 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "080220-기타-10459-20260905",
     "first_seen": "2026-09-05",
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-10-11",
     "status": "일반",
     "stale": false
   },
@@ -15251,7 +15256,7 @@
     "source_count": 1,
     "id": "207940-기타-11425-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-09-22",
+    "last_updated": "2026-10-11",
     "status": "일반",
     "stale": false
   },
@@ -59834,6 +59839,126 @@
     ],
     "source_count": 1,
     "id": "052690-기타-45293-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "107조 역대급 영업익 삼성전자… 외국인 지분율은 금융위기 수준 - 경인일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경인일보",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZE5oN1hOV1JvemxaWFJxeU8wWVJSSldlRHlKVk9xS2lvb1BlSjhuS1BuZFNYWXBqRzBNSl9hekE4YkZwT0QwQUZRZFJMNTRsZGc?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 09:48:57 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-45454-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 연간 영업익 370조 육박 전망…시장 시선은 ’사상 최대 주주환원’ By EBN - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUGUyQlB6NE1RNUJPNW5va25TWVloRVJqRl9WZk1xNjIyQ3FzN1VwQzNDVkpoODhHMVBNSmlTZkpOcGQyRDV0RXNUSXZ2V3RLWnJHOWlEaGZyM1pYSzA1WEg5Y2Q2Ml9NX1FiSUJhM2U?oc=5",
+        "pub_date": "Sat, 10 Oct 2026 00:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-45456-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "아이콘 중심 화면에 익숙해지는 실시간바카라테스 이용 설명 - Calgary Roughnecks",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Calgary Roughnecks",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb01jSHhHZlNleW4tNWpfQVpkN3NOM21od0Q1LWstZzNGM1U4SnJ2TVJxY3lYczV2YkIyd0ZrT3lwY1BPeFBFWGhOQmJ6RUs2ZVpDZUpBQlR0TzNZMG9ZeGlYUnpDemRnTGtXMG91M3c3OE1aX2c5bDctZUwxNmxkQWtNSUtSbkljY05xSWJZQ1ZzbzVzeDhqZDh1cWZ1RV92cFh2S1cxUFNBLW9NQ2U4TWhTbFgwNGZXX1VtU3h0VUI?oc=5",
+        "pub_date": "Sat, 10 Oct 2026 08:28:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-45477-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[소부장의 반란] \"삼전·닉스 부진 잊었다\"…주성·심텍 급등에 소부장 랠리 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OUVhTazh3X3R1NDJjSlJwczBzYjQ4WFc1S2xISWdkMGd4aTZWMGNKVWZUNUpuOEQyZkpual9YQ3NTczhnblBaaGV6TkdmZXdBazNtRFpMT0VLM2tXMF82UlA4OVdTdWNH?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-45505-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대신증권 \"HD현대일렉트릭, 3분기 실적 부진 우려에도 AI 전력 인프라 수요는 견조\" - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51WWh4ODhPZENMemFucmlDZ1U1RU9TcEFpZ1VENWl4OEhscWRYbVM3bVF5WldELThrVTBYaENjUnJOSkdtUzNWU2g1dkVNTkNadmVLRGpGblo4Y3ZmNTF6NENleXF0T1VRc2txbjdsYV9UZDA?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 15:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "267260-실적-45513-20261011",
     "first_seen": "2026-10-11",
     "last_updated": "2026-10-11",
     "status": "일반",
