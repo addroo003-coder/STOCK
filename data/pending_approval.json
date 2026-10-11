@@ -59595,9 +59595,14 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPTm5rUGwtRHlhY2c0eDl0YnFGRklFd1ppRzktZFR1czZmbU9EWVlOZ2N5b2llOEdadlFLX1M2NzVaczZnTXFBZVZDcTBvalJJTmdMT2N1dVZEOFY4LUVzdGxXRW1wR0cy?oc=5",
         "pub_date": "Sun, 11 Oct 2026 00:30:00 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lcy1Bc2FxVFNlSndaNGlWZk03UEZSVXk3RnlBUmMxb2UyalhnaU5seHotZUZtMkYyRjV4ckQ0ZDk5Q1hVMTlXbkxRZGNqV3ZJaW4taGZidm9RbDNnRU5FeTB3NA?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 00:30:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "034020-정책-44716-20261011",
     "first_seen": "2026-10-11",
     "last_updated": "2026-10-11",
@@ -59931,9 +59936,14 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OUVhTazh3X3R1NDJjSlJwczBzYjQ4WFc1S2xISWdkMGd4aTZWMGNKVWZUNUpuOEQyZkpual9YQ3NTczhnblBaaGV6TkdmZXdBazNtRFpMT0VLM2tXMF82UlA4OVdTdWNH?oc=5",
         "pub_date": "Sun, 11 Oct 2026 15:00:00 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tR1BXYUxnSWRLV1k1cVZ1elh2RDRENE9USTcyNnlMQU5HVWxVLWlqY3hSU3RZSXRwX3VPX0N1MVJVbU5hTE1tdExfZXJSSl84M2hHZzNBZzV2aGJRUF9jYTNYOA?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 15:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "222800-기타-45505-20261011",
     "first_seen": "2026-10-11",
     "last_updated": "2026-10-11",
@@ -59955,10 +59965,39 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51WWh4ODhPZENMemFucmlDZ1U1RU9TcEFpZ1VENWl4OEhscWRYbVM3bVF5WldELThrVTBYaENjUnJOSkdtUzNWU2g1dkVNTkNadmVLRGpGblo4Y3ZmNTF6NENleXF0T1VRc2txbjdsYV9UZDA?oc=5",
         "pub_date": "Sun, 11 Oct 2026 15:05:00 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CQ3lFU2JmWmhEbjNhSzY5RjhRb0h2MU16cWpaLXF5T3MtWTZKSXpMQlQ2TVNDVjdCMmlVWjBRUENpcVZ6N29Ub0lWdjhwSWJWOEpGTFdPNlRXamU4bTVsNTZlelgyTkVvMkVWUFQ3SmFLbHRhalpr?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 15:24:43 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "267260-실적-45513-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "일진전기",
+    "stock_code": "103590",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "미래에셋증권 \"일진전기, 유럽 전선 수주 사상 최대…전력망 투자 훈풍 이어질 것\" | - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05Ujh2eFJId3Q3b3FtbGV6RUVKSFNUbUNhTDF6Vlo4UVl4cjE4LTJvcHIxMXNEaFlLb0JwN0RFRTVNN0dVam1yeEFkcDBHNjNETUlrVnZWeGVoaDlBRkVwd0lWY0VvSzVBOE9aQkNBRjJEUjJwME9R?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 15:24:43 GMT"
       }
     ],
     "source_count": 1,
-    "id": "267260-실적-45513-20261011",
+    "id": "103590-수주-45691-20261011",
     "first_seen": "2026-10-11",
     "last_updated": "2026-10-11",
     "status": "일반",
