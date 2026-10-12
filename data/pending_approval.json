@@ -14857,7 +14857,7 @@
     "source_count": 3,
     "id": "080220-기타-10459-20260905",
     "first_seen": "2026-09-05",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -15256,7 +15256,7 @@
     "source_count": 1,
     "id": "207940-기타-11425-20260906",
     "first_seen": "2026-09-06",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -44081,7 +44081,7 @@
     "source_count": 2,
     "id": "009150-기타-34191-20260928",
     "first_seen": "2026-09-28",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -58232,7 +58232,7 @@
     "source_count": 2,
     "id": "000720-기타-44063-20261008",
     "first_seen": "2026-10-08",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59235,7 +59235,7 @@
     "source_count": 1,
     "id": "005930-실적-44428-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59480,7 +59480,7 @@
     "source_count": 1,
     "id": "298040-기타-44636-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59528,7 +59528,7 @@
     "source_count": 1,
     "id": "062040-실적-44658-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59605,7 +59605,7 @@
     "source_count": 2,
     "id": "034020-정책-44716-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59629,7 +59629,7 @@
     "source_count": 1,
     "id": "000720-기타-44789-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59677,7 +59677,7 @@
     "source_count": 1,
     "id": "247540-기타-45107-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59821,7 +59821,7 @@
     "source_count": 1,
     "id": "006260-실적-45227-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59845,7 +59845,7 @@
     "source_count": 1,
     "id": "052690-기타-45293-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59917,7 +59917,7 @@
     "source_count": 1,
     "id": "095610-기타-45477-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59946,7 +59946,7 @@
     "source_count": 2,
     "id": "222800-기타-45505-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59975,7 +59975,7 @@
     "source_count": 2,
     "id": "267260-실적-45513-20261011",
     "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -59994,12 +59994,455 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05Ujh2eFJId3Q3b3FtbGV6RUVKSFNUbUNhTDF6Vlo4UVl4cjE4LTJvcHIxMXNEaFlLb0JwN0RFRTVNN0dVam1yeEFkcDBHNjNETUlrVnZWeGVoaDlBRkVwd0lWY0VvSzVBOE9aQkNBRjJEUjJwME9R?oc=5",
         "pub_date": "Sun, 11 Oct 2026 15:24:43 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTZzFUNDRlOHczaF9wd2xoVDlEeFlqbnNzZEFDdjlCUmNlRVlKQ2JBeTBvX1M2VF9FbmtlRmlIM2VfcWZod09TdkpiS09RNnI3Wk9RSG54UHdhVkpmVTFkWTBOTktXVUw3eXhzaGlQWUZjT0E?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 15:15:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "103590-수주-45691-20261011",
+    "first_seen": "2026-10-11",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, TSMC 역대급 실적에도 시장이 의심하는 이유 - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yckVsWGM1OFZkdmFoZ0hVOWw3VDFtNkJ5NTlwOXZLcE5RYVJaQVRDM0wxU2RTWEdxX013c01pWXF0LXp6YlNqd3RwWnBIMnQtYUoyMlI5Z3JFNmVIdGNoLUpjSFllanpqTkJaQjh3aUHSAXRBVV95cUxQZmg1YUc5MUZBMEI5Y3JiUF9TWkxLX0JNNlRfNG90OWFGQzN2bjczX1kwQ3NFeC1JVjMwa1ZMM3JMdVJFUGlla2dMRnJiMTB2Z09fMU5fWVFBaDBsZXdLYng1MFJWQV8wTGRaUlRkVVVaZlRjSw?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:39:16 GMT"
       }
     ],
     "source_count": 1,
-    "id": "103590-수주-45691-20261011",
-    "first_seen": "2026-10-11",
-    "last_updated": "2026-10-11",
+    "id": "005930-실적-45779-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 107조 최대실적에 외국인 1.2조 이탈…지분 '금융위기 수준' - 뉴스후플러스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스후플러스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9senJyUUhsTmQ1TzNjczVKdnVfTExFS1ozY1Fmd1JhaVJoSVhkSU1kWEw4VlRtNlRGRHFEQ1ppVnhuVmhIbTBISDlXWEJtaWtrSUpsS2FzR2Y3MkQzLVFHbm5uVzBGRHdfUkQwbFZn?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 22:30:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-45785-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠證 \"SK하이닉스, 3분기 영업익 80.1조…목표가 3.2% 상향\" - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odnl3N1B6QVg1c3hXb19sYk1kTElNcTdJM2RjdnBqeVQtNlRIYk9NVWpDSE5UczhfZ1NUQnB3bjlMYTNhbEpLeXNiVkxFOXYzZTBwcUJpVFBFeW8?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:44:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-45794-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠증권, SK하이닉스 목표주가 320만 원 상향 - www.2news.co.kr",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "www.2news.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sdWdaZTRkNS1xR3cxZkgwNzhGT3phOXV6dFFpbmlETG5TWG9YaEJleERjVXYweTRGbHQwZEcxUFhFX2w4X2pwRnh1ZUZ5RURmVzdkUGNOUVFMVzNXdFpTREtKNDBHSVdW?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:47:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-45798-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠證 “원익IPS, 설비 투자 사이클 실적 반영… 목표가 16만9000원으로 상향” - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1FNT0NKYXFvZ0dYeFVjaXpLVEFhbmdiQVhmR2tVaERtV3VuM0hNNTFjMHpRVVhLdGdzc3pGNDlydlN1TXA1RmZVdE5udlNlSnF5YXprSkdZNHlkMlIxZDZvbUlrcWRHb1RBTlhlbzNhcEtXRTh0R3hsbjdfYTQzdTMtNXFjZUlD0gGcAUFVX3lxTFB1NlQ4aXJFcFQ5OVdBdENVT1lwTDBlTWRPaktXb0NDYVBHMzJaRWI1ZnhiYnpCQ0J4U1lGY3g4VVA2ckNHTWpOVUpjaEJ4dUVRSXc5ZkF2WEM5YnMwQzQwa0JjUnpDLWRtbHJjSmZrdURaYlhfWXRKTk9GNTZJdWpwQWdvYXU2cG0ySlo1aEZEeXI3Z255dk1JRllheg?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:58:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "240810-실적-45807-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "메리츠證 원익IPS, 메모리 신규 투자로 고성장 이어갈 것…목표주가 상향 - 아주경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9naDBoeGZJV0tlWGlHS2hDUDhZQ3ZwRE9FQXpZdl9mOXE3RkpEcG9RRnJkb2lSOHNuWEJDZnB2empJcVdjdlNEMlMtNlhReUpSYVNlQlJUa2Exd9IBWEFVX3lxTE5aOE9ZTkV6YjBld0w5amdkZklEeG5xdUIzNUxHZUNQcFpVd2dKR0h5Y2lWUF81R1p0TWlTLVkxd1ltMVg5NE5hWnNNZlg5Mm5VZWZKUGo3Q0s?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:43:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "240810-기타-45808-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "MLCC 이어 전자소자까지…삼성전기, 컴포넌트 사업부 확대 - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZUdrYVpQYWhZR3F4M1FjNE5LSXFmSUk3eUpsN2o4a0lZc2lkbjdLN3VuWHhMMnlrMEFuNUdnbE9JY1BhQTVWcnllU1YtNUhLcmlpV0dqWWxWdEhXUEJGWm5sU2Y?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 21:30:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-45838-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "증설",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대덕전자, 2028년 이후 전사 캐파 ‘최대 2.2조원까지 확대’ - 금융소비자뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "금융소비자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZFVMSjhOVnhnREwxYTZ2QVRfaE1lbDlMUWoySUZtdFlRWFhYRHJ1czFXSzhLRmExRWpWQXdRaWFTNFM3V3JDUUZGT2ZNZWw4UHAySmd1VEtBaEhITzNBYjJQelItcFhiVHc?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 22:56:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-증설-45845-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "효성중공업",
+    "stock_code": "298040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "효성중공업, 초고압 변압기 성장·미 현지 생산 확대 기대 - 한국증권신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국증권신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MaEZaSGVvTjVfdFdlUC1hZDZSUF9vMl96S0s1RWZ0aGtkYVRRNzNVU0xRVWhnd3RyTkJrSmdGMllfUmN3ZnhSd0JYNUZoZFJRY3p4RExEdmhOallfZUpPZDlCVjg0TERyTVp3?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:43:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "298040-기타-45855-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[현대건설 삼성역 부실시공] 준공 뒤 하자까지 책임…지연 손실은 공방 - DealSite경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "DealSite경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14M1ZGSlUxZHhyUFBLMzdNLU0zZG9xVnJySlRnZ0hFR2g1M1dxdE9QVnl1a3hHWktEQndsSW41SUwxanRBMjdMbTRFZUY0RWhKazBIVW93?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:00:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-45888-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대건설 일감도 늘어날까..美 원전 파트너 페르미, 텍사스 전력 인프라 11GW→17GW로 확대 - 더구루",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "더구루",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SdHJscTI2d3U5MmFleGxPcE5uellucXNzVE10cEd6b0ZhNjduRnNYVDlYalNyNEV0dXZnR1hxRGpXaW1HamU2ZVZfelktb3lSaHMxWm9MLUdoeS03OEJYcGJrWQ?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:20:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-45889-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온 3분기 영업이익 5천100억원…69.2%↑ - 연합뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UZUI0YThYY3NQOE5nUmRYYlgtMnFTWXJIRjJTZnR6SkxVRnU3NGdzbEItU3g5Uk1adDhsMHhpSXRzT0ZKNjVJaVN2VFZBTURnSzBqeE1mUnFKemZFdk1LY9IBYEFVX3lxTE5UZUI0YThYY3NQOE5nUmRYYlgtMnFTWXJIRjJTZnR6SkxVRnU3NGdzbEItU3g5Uk1adDhsMHhpSXRzT0ZKNjVJaVN2VFZBTURnSzBqeE1mUnFKemZFdk1LYw?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 22:51:31 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Wlc5N3dZbGpVa2lwd3ktenloUU9ITk1MQWM1M2ZzYng5aHdSU0Y4N2MzUFJWRnZqZkJTNHpfMU8yNnNCSFlQakN5aWNxVUZqd29tRTBGVEsxVjTSAWBBVV95cUxQdDh6dVNOUURvNTRsNFhucnlXdTUxSHo0NWpzTVc2OUc4aTkzQUxDRFBldWtDQjlISUc2Wk03eWZxMHNCUWtxUVJZdlJUN1dNTG9VQkNNWkFXMy1yWHV6ZWg?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:12:58 GMT"
+      },
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xb2hMbWd0UXNIaERfclV0WU5NLUhMN3VvSXVId0hTZFBKWTItOVY0TU02VkVReHYzcF8wM2xSTi1aV0U0R0tla0U0bEZRZ3hkdFVlbEM5LS03Z0I0OTdLRDFkQU1Kb19fMzBjSXc0eU3SAXRBVV95cUxObzA1YmpPWFZ4Sk9KSTdZd0xmUEZnNk50dkRLakxCQm8taUtNdlNzN1p0dmFBVGpScDI3SVJaM1pFV0d6d1VmUmVpZ0hUb043WXdwcEZpWHBQLTFuMjFJNVZ3Y3FMLThlVVdxMEpGMEFOeFJQMA?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:16:23 GMT"
+      },
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CMFRVbWxUSDUxRkdjZFhBWG16S1A2U0k1Qk5oYklkUV9JanY3cWRva2RCRDEwT0JEblJmVjhJdGhuQVVUZEstTm9fdU4wQnBqU2c?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 22:51:31 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "068270-실적-45930-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 3분기 영업익 5100억원…분기 최대 실적 경신 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmNBN3NJSUZ6S3NieHRsYjVfeXNoanRSc2JiekprZzBNUGdUdUhOQlZOLXNHN1AxZ0dBb1pROFdHS2JjWmp5ZG1ISDZSRm9hUEJWN2lMOWIyNHgtd1h4eW1OUlFrMi1TYTJuU2Z0ZzF1WDh5azRPYUFqOU8taG4tMDBsa2NOSEHSAZsBQVVfeXFMTl9zSnlvUEx4eW5HQkxDZkQtREtSN3BUeDZTSW9CMUNnc3NsczlkWU40WVpueHJLZTRDYmlGSVMwZDd1N1pGZ24xSVNLaldmWTVLeUdTRWpaMjc3YkhqY29PZzI3c3NqclNRdkVxTFMwcFYxaXJRUE1EYnUya3lpdnZJZ0lEMG13eF91cV9qQ1FSSU9vRDZpRnhmb00?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:02:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BRlV3NlRod09uQlBfb2E4My14QXFsTTQ4M0tla0Q4UGVTTVVIRWF6TWhVbG1uODB3c3hSNnFxeGxoSUZ3RkxhSDdwb01lbEFQNjVlS3pGU2VqdkEwTnJEMkpUcm8tVWt3c0HSAW9BVV95cUxPLUt2NUN3UHV4b1p1V0RuNHdRbGJRbTlWWnVCRmp6cWJGREMxc1d2Z0JjSVduNWZEdjVsSS1TRDV0LU5XZ0dJSkdwbDByMlgzZHFFM3RHdHVBaFJRSmJUaDVKVVI3MlM3SGlzTkZ0WUU?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 22:59:49 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjF0bGM0T1JLUFNsVmtZYU4xSi11ZjBhX2pZMFllX2dVNnFlU2otcHdZTEk3Rzc0VlhGYWQ2RzZhQkN0VjNLcDBqNUh6SGpHV1Y2N1VpdW1wTU93ZzRwa0syVGFKQXRBb3Y3MlBSRmJINnFfNkVBQlNZd0VtNGNPOWRJcHVaTjlMdzhkZdIBoAFBVV95cUxPSDdZSGMzTkpHN3Fadm10RFFMWjJkRmFRMHJ1Z2RyUFBjNmRSSFNOZmEzM0MxZHNTZ0RULU1XVlVKVDVhTEJuY0xFZVNjc21YbnFjYWNJQzRpSE5hcFcwNWpkT2ViRGxZZkZfZ0E0S0xYRWlod2JLTVZIN0djX3ZQaTB4MG1NSW0tMC1MRHNBSlBKS1B4MWgwY0NsenRmeUtI?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:29:00 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R2U4X2ItLTlvandZeDVlRzExZl9CYUk3YVlRZW43b1NoV01HWThjcUZOZFZ6dURTMUZZZ2FRZmlQTzdHQThYNExrWFQyNDJmbXdCZV95VVQtUQ?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:11:20 GMT"
+      }
+    ],
+    "source_count": 4,
+    "id": "068270-실적-45933-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 3분기 영업익 5100억…70% 뛰어올라 역대 최대 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FemRKRVh5cVVIYWlVdElVa0JNTHhRVEdZX1BpaHd5YXJ1SFg5ZGx2NUs1cktwZS1IdVNEaHM5a0RRbnJIZmNUcmNDMFRyR2VURHZVWDVheFZtbVA4dEw2Ng?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:43:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-45936-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 3분기 영업익 5100억…고수익 제품 비중 확대 '최대 실적' - 녹색경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "녹색경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kZ2xaeERFaGlYaDhPNTMxY052V0lfSHpvYU94SHRJYVhzR21SUzJuOTZUOF9aam9DOFNiMW45UlBoNlhwbVM2UzlZa2lYaUxTZTdSZnpuM3dheHZjanB1MlQwNWN4MzVF?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:11:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-45937-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 분기 영업익 5000억 돌파…'역대 최대 실적' - 비즈워치",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈워치",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzX0xpVkJCcUszUEV0cVpDWUgydVRtc3F2Skd0MFBVU3ZkNXVIM3hIWm1WdmQ1ZjZ4Qk5ZeTBzUGlpRXUyY2tUYkQ3eUpEOG5ud1NRcDM0eVZFbVRFTzg5ZVRmcWdoYVJtX0ZGeG5xOA?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 23:18:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-45941-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독]월1회·최대 3개월 내세웠던 펩트론…특허 속 효능시험은 최대 2주 간격 - 팜이데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팜이데일리",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fSGhKMzIxRVltNDg3eTk5bVBBZVJDMUlxS1VJUGt6bHVWZEZwRWRPMlpRVnlDWHBaX1NQcV9aSmE1RXFyVUhMRjZRYjNJM05IWUlBUlU4R2hYT2V4b1k5RnJ3dU9idXBTc2hjSjRB?oc=5",
+        "pub_date": "Sun, 11 Oct 2026 22:00:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-기술-45958-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   }
