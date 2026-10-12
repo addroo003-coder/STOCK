@@ -58204,12 +58204,17 @@
         "press": "동아일보",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SGZXZ0MxbmJORlQ1b1YzbmNKZXo3Qk9Gb1R5YTBrRTF3S1FSQk93YXRxbEpKRzhiMkltUU9HeFQ1anpDN2EwWXlrYVIxNEtJUXRtckZFaGZ3TmJ1c3Jyd1hKOWJSd9IBZkFVX3lxTE52SGZXZ0MxbmJORlQ1b1YzbmNKZXo3Qk9Gb1R5YTBrRTF3S1FSQk93YXRxbEpKRzhiMkltUU9HeFQ1anpDN2EwWXlrYVIxNEtJUXRtckZFaGZ3TmJ1c3Jyd1hKOWJSdw?oc=5",
         "pub_date": "Thu, 08 Oct 2026 01:58:49 GMT"
+      },
+      {
+        "press": "한국원자력신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fLXdERlpoWXRUZWFrM2JWZTFkYzFSRGppa3VoN2hqYkJwc3N6Z0tKMUx3QVNvaHNXLUpLcWU3cWUtOWFzNUVPOGtLZldVVG9PUXozZE9HZFVrSGJuTHlOUFZqSFU1WnPSAWtBVV95cUxQM2MyVTc0RzdpSHAxMEUzX3BmZkNJVnBRZWl1YlpoODlFZFRsaXozMEdYbkpVaFRmYnVLSjVIRi14UW1CclRGWWxFMGZZQTkxb25fQ0J1WS1lSWZVMFozQ2hDd2hMdmhraFRaOA?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 04:23:46 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "000720-기타-44060-20261008",
     "first_seen": "2026-10-08",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-12",
     "status": "일반",
     "stale": false
   },
@@ -61155,9 +61160,14 @@
         "press": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwMDVWYkJMZURlMUJFUzFhWVBNbFlmckNaNmVna2daQ1BrVjY0NnBoYmVhWG5KU1IwSEdCdDhySTAyYjZRQ3RBNTM5NzRVd1JZOW5BNm1VbzJyVnJMOTA4UGNjREpPOTNU?oc=5",
         "pub_date": "Mon, 12 Oct 2026 02:44:47 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McjR5cVRDSEE1U3NKdWVOTG1BemtHVDNDdEp3STR1dndTb3FPQTQzQkw3Z1hPNnNqOER2ZVllek5VVmF0NXcwYVRlNWFJVDlaSFAtVFRzYk9TWW9tRWQxY0c2VQ?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 02:44:47 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "277810-기타-46285-20261012",
     "first_seen": "2026-10-12",
     "last_updated": "2026-10-12",
@@ -61486,9 +61496,19 @@
         "press": "서울타임즈뉴스",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sWGxzcDlDX3B6WVpGdEtkTjYzS3NVVTh3OUhlWC1HdjBfdzNEdzMycE54cFVTeGNPMkE0aEMwU1ZzUGpycFRORnAxSjRwdnVlLUE5ZFUzbWhnQU5iTm5QNkFiLVY0cVk2RHFJ?oc=5",
         "pub_date": "Mon, 12 Oct 2026 09:07:33 GMT"
+      },
+      {
+        "press": "비즈트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTSF96LXFmYXpDU29ZdHVpZHVjenJUcmZpWkxVU3huY19YN0lqVjNZWlNPRDZfa3I3djZyR19nYWVDcVdmYVJKblRhS3hoTUVxRkJDVXdZREZCbnFFbWhqdFVORXdzUDRiQlJpSmhEWjU?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 21:19:19 GMT"
+      },
+      {
+        "press": "아시아타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52azJWQTNRbVhqLWJoeFJkNTByNHlwcUdnUl9CSzRobENaTXVnT045VE5hTlduSUluakhmZ1huM1Z3dnBYRGE2M1p3QmxJT054ckFQOHhFMjZjblBwYWc?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 04:04:00 GMT"
       }
     ],
-    "source_count": 20,
+    "source_count": 22,
     "id": "326030-기타-46474-20261012",
     "first_seen": "2026-10-12",
     "last_updated": "2026-10-12",
@@ -62194,6 +62214,222 @@
     ],
     "source_count": 1,
     "id": "096770-실적-46957-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 '역대급 실적'도 소용없었다…힘 빠진 코스피, 왜? - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55SHNMNlRRUFpFOHpmSGVRVXVQUFlNNmhHMC12V2o2eUUxZmt6ck1Zc1ZpLURmMXVoZVFNR01DSFpOekw0bFJHbGZON3F0alBfUmhSU0xxUDFCbEczNHRQetIBeEFVX3lxTE5oYlhUS2dmYV9mTF85dEM3aHdhVTE0Zm5lY3E4ajVfaXg2Y3NWN0hJWHZhRVdRMS1yQklSajFWak81Wmg2R2tzRWs4SmR1ZTJ4WG9PNjRiMzlEOVhYWlZoM01tT0tvQ3lHaVhaZm9mQ242SDctSDRNeg?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 22:06:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-47010-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"SK하이닉스, 내년 영업익 405조원으로 상향 조정\"-하나 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSGZ5LU5aZGJFNHo4RjJSd0tFeFF3VEd1SFpjWVd3UGtQd1ppd3lhcEVISzhoN1FlbkpPT3o2ZzIwWlVsSXlVcWQ0UTlHSTlsYTBiOWtJa0stQQ?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 22:44:30 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-47014-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "레인보우로보틱스",
+    "stock_code": "277810",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "InvestingPro 적정가치, 레인보우로보틱스 55% 하락 경고 By Investing.com - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Yb2VDN0Y0NUduS1JvWWJRbTFuNFRkWU1TYVQ2Zm5JbU5tcFI3dGdCRGl2T21QdHhIamJ1Zy1qU09rTk9VblF5bXc4aDhoTnFJZ016V21wR0hGRjBjVjhLVVJiMFZoUllqX2JURlV2S3hoelhOeFE?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 11:46:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "277810-기타-47081-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 분기 최대 실적 다시 썼다…글로벌 성장 견인 : 네이버 블로그 - Naver Blog",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Naver Blog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHJZa0ViRGdobEFwbURfcUhQSk9HaHhmc2VpOFJSSU80clhvb3Jfd0RTaFNwTGZqRHRkOFlaaEhtc21QZ3Yycnd3dWpIeFl5amJaZWtLYlR3ejNDNi02ZXQ0MHc3MHh4czBqWlc5UV96b19CbG1ZcUpmam9ZbHJ4bm9wNE9WYUgzODFXYTZmMA?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 22:23:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-47121-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 실적 튼튼, 3Q 영업익 5100억 신기록 - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hbE9UN2pRa0lnc3hNcDNibjBjanNPdGZSYWMxZnZValZMdzdUNkhRM3JBczNRM2VLeVhjTmlzbWdkVVZPSVMxVDA3MGt4NHVGazlqcFNKQ3ZLLWllWHNpMjZvM1Z3T2VHY1Y1M1RWc9IBb0FVX3lxTE1hbE9UN2pRa0lnc3hNcDNibjBjanNPdGZSYWMxZnZValZMdzdUNkhRM3JBczNRM2VLeVhjTmlzbWdkVVZPSVMxVDA3MGt4NHVGazlqcFNKQ3ZLLWllWHNpMjZvM1Z3T2VHY1Y1M1RWcw?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 18:56:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-47122-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "서정진 '5000억' 현실로…셀트리온, 고수익 신제품에 영업익 '신기록' - AP신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "AP신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nUG05U2J4dzhBTnZvYmhJUzRSdG1oZmprZTZGNUlzbkJBbG1qWDlENEJHTGdaRkV3enBscllVX2FPUzhnTEV3bUVISC1XN2tjb3BvbkoybWI2SlRaTVplSmUxLWNyV3k2MWxvc9IBbEFVX3lxTE5nUG05U2J4dzhBTnZvYmhJUzRSdG1oZmprZTZGNUlzbkJBbG1qWDlENEJHTGdaRkV3enBscllVX2FPUzhnTEV3bUVISC1XN2tjb3BvbkoybWI2SlRaTVplSmUxLWNyV3k2MWxvcw?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 19:06:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기술-47123-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[IB토마토]알테오젠, 800억 옮겨 배당 채비…환원 확대는 로열티에 달려 - 뉴스토마토",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BU2t0dWdHTTNnajVoQXYyNWZ0S0hnWXl2TXMzYkVnSVRqVEljWmZkTVZWTzhrVmxrS2p3NVJqRTFvMndtMDZhTVVTWkc5cWxqSC1JcXRZd3NKaHJrVV9Z?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 21:40:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-자본-47129-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "치료 영역 넓어지는 유한양행 글로벌 신약 ‘렉라자’…핵심은 ‘급여 확대’ - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU1aLVRWR2hEQTFoQ3RNdXRobk5qN3B4SEVFekVVWW5kVXFDNDBoM2RKMTZOREtxa3Z5TWpxVVRITkE5eWlqaWxQX3Jacl9VdERPdnQ3X21tM3hFakItZm9IRV9JSUY2c3hFUEtzOWN1dExkMno5am1DczNldXN1M2pQc1ExWXPSAZsBQVVfeXFMTzFKUS11MHdmSTcyU0RCQnQ3aGNvSUNVNUpHTW0za1daNElvemZkYUpMbHc1OTBMMnRSV0x2UUJzX0dFLTlEY2lIWGpMMWFTNjk5eE1iUFBBVzBoeUR1MlQtTzFjaER1YzFHa2E0NTNwVnlnXzctb1FCSVRMTlk5TGhWekRPZFdfUFF0cDBwcUNLaTRUVC13NEJKWjQ?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 21:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-47139-20261012",
+    "first_seen": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "상상인證 \"휴젤, 북미 판매 조직개편에 3분기 실적 부진 전망…목표가 13%↓\" - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZLWx1Q2JXS2gzV25wYzIwZmxBMEhmTDk0aVFteDVjWGdxa1g4SUd5TGdxV1RtNWJHcnNsbUYxdlh2bmpTaXBvVDFzMWJXS3BTNDQydHhZb2RxeUp1MFAwb29adjVRN0haOVJna2ZR?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 22:24:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-실적-47142-20261012",
     "first_seen": "2026-10-12",
     "last_updated": "2026-10-12",
     "status": "일반",
