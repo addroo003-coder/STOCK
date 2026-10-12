@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "“AI데이터센터는 새로운 금광”…가전 ‘냉각’·철강 ‘소재’ 사업...",
-      "office": "한겨레",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/028/0002827120"
+      "title": "\"반도체 조정은 매수 기회\"…AI 데이터센터 밸류체인 관심",
+      "office": "뉴시스",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248402"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -335,8 +335,8 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "news": {
       "title": "고객도 신약 파트너도… 일본 향하는 ‘K바이오’",
       "office": "국민일보",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/005/0001878181"
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/005/0001878259"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“주식 도대체 왜 떨어지는데요”…삼성전자 100조 실적도 못살리네",
-      "office": "매일경제",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/009/0005747464"
+      "title": "“엔비디아 세상 달라질 것”...MS의 자체 칩 백만 개 공급 구상[김창...",
+      "office": "서울경제",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670498"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "ESS·중국산 규제…배터리의 시간 다시 오나",
-      "office": "한국경제",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341612"
+      "title": "“AI 핵심 수혜주, 이제는 2차전지의 시간”",
+      "office": "조선일보",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003477"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -445,10 +445,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "셀트리온 영업익 첫 5000억 원 진입… 역대 최대 분기 실적 경신",
-      "office": "문화일보",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/021/0002824542"
+      "title": "셀트리온 실적 튼튼, 3Q 영업익 5100억 신기록",
+      "office": "머니투데이",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425193"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -1313,10 +1313,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=067310",
     "news": {
-      "title": "삼성전기, AI 타고 ‘퀀텀점프’…글로벌 시장 점유율 40% 독주",
-      "office": "서울경제",
-      "date": "20261007",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668890"
+      "title": "\"반도체 조정은 매수 기회\"…AI 데이터센터 밸류체인 관심",
+      "office": "뉴시스",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248402"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/067310/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "국내 최초 유인기·무인기 편대비행 성공…KAI, 유무인복합체계 실증",
+      "title": "KAI, 국내 최초 유인기-무인기 편대비행 성공",
       "office": "연합뉴스TV",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/422/0000914849"
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914944"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "“변압기 대기줄 5년”… 메모리 이어 전력 인프라도 ‘장기계약’이...",
-      "office": "국민일보",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/005/0001878215"
+      "title": "HD현대일렉트릭이 그리는 미래 전력망 한눈에 본다",
+      "office": "머니투데이",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425225"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1579,10 +1579,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=195940",
     "news": {
-      "title": "HK이노엔 케이캡, 美 임상 3상 결과 발표⋯가슴 쓰림·위산 역류 개선",
-      "office": "아이뉴스24",
+      "title": "HK이노엔 ‘케이캡’, 美 임상 3상서 증상 개선…“내년 1월 FDA 승인 ...",
+      "office": "동아일보",
       "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/031/0001065170"
+      "url": "https://n.news.naver.com/mnews/article/020/0003754256"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/195940/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "ESS·중국산 규제…배터리의 시간 다시 오나",
-      "office": "한국경제",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341612"
+      "title": "\"반도체 조정은 매수 기회\"…AI 데이터센터 밸류체인 관심",
+      "office": "뉴시스",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248402"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1663,10 +1663,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "“변압기 대기줄 5년”… 메모리 이어 전력 인프라도 ‘장기계약’이...",
+      "title": "“변압기 대기줄 5년”… 전력 인프라도 ‘장기계약’이 대세",
       "office": "국민일보",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/005/0001878215"
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/005/0001878258"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -1733,7 +1733,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "ESS·중국산 규제…배터리의 시간 다시 오나",
+      "title": "ESS 수주·중국산 규제…배터리의 시간 오나",
       "office": "한국경제",
       "date": "20261012",
       "url": "https://n.news.naver.com/mnews/article/015/0005341612"
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 솔리다임, 美 대관 담당 부사장 첫 선임",
-      "office": "아이뉴스24",
-      "date": "20261012",
-      "url": "https://n.news.naver.com/mnews/article/031/0001065281"
+      "title": "HBM 그 다음은?…삼성·SK하이닉스, 차세대 AI 메모리 기술 경쟁",
+      "office": "뉴시스",
+      "date": "20261013",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248476"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
