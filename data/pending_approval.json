@@ -11882,12 +11882,17 @@
         "press": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLSDhsQVpFWFpZb3RfTHJOUGZaZGE3bktRRC1pbUQycWRSMHBDWFhYTWwxdUVmOVJCekJQcEV1bWkzTGptWHR2RWs2NlNlSzA?oc=5",
         "pub_date": "Thu, 01 Oct 2026 00:47:59 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnQtcDB1d2ZPa2R2d0x1YUpSYXVCX2ZzbFVVaUJldkROTG5IZFloM2p2X0Mzc3FDcVRSU3hKUzBkZlZlX2NlZ2dqR3ptdXZRRWhVM0duWWRBTnR6NWc3ai1XNzk0WER5bTJKRnpRWWVqbnNLU2lxRHNCOU9kOEc3WmR6d2drdVXSAZsBQVVfeXFMTlVOSlRqWkpwOEhCNmlRTEUtY2dkTUNtSVVvZGk2UFlvUUZaUlB5OU5WVDB6RHJQNl9TN0ttV1NMSENNY2tqdC1UZlMya1FySHdtMXVBMUpKSk92a1JlcjVnRVlUcF9raUd1ZFhlV3Nwc01Rdm5ZRGR5ajhCeW13VmZSSmREVFczU29EY0JfaFIxYlUyWnlqNGNrRkE?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 00:44:00 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 11,
     "id": "068270-기타-7933-20260903",
     "first_seen": "2026-09-03",
-    "last_updated": "2026-10-01",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -20154,7 +20159,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "올릭스, ‘AR RNAi’ 탈모 2a상 \"뉴질랜드 확대\" - 바이오스펙테이터",
     "source_type": "news",
@@ -20163,12 +20168,22 @@
         "press": "바이오스펙테이터",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xTWVwNXJ4RHByTnV2eFd0ZUZGcDNYcGlRRFdCZFItWWxCMVI1d18zY3R3aFo3MV9MNXBnSVVHeFBkYThxa01NeXBmWTB6SG9qQzNJbnBZWQ?oc=5",
         "pub_date": "Wed, 09 Sep 2026 01:38:00 GMT"
+      },
+      {
+        "press": "바이오스펙테이터",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02SGtpWjNrRjRVSU9ObmJFM090cG9xOFNQVEVzZjRCakk0UjhoV0xLbVl0SVBKVlp0Snp4NkVkRDh4ZG03VG9ReWpxeExySkZpTUxvQzZGWQ?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 07:21:00 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41LVBPU01jeV9YcW1nUmo0cUZaUUpTNjREeFFidDhtSmVyMWo3cFRnd3J4MnU5RlZ0OG5ubDhTNVlJYzdtY0pGcUtPLUJzMm9zN0ZNNVFpclEwbmpwdlJaa29ZOWtrZk0wS0JPYW14Z0hTWS1IbWlRc9IBeEFVX3lxTE41LVBPU01jeV9YcW1nUmo0cUZaUUpTNjREeFFidDhtSmVyMWo3cFRnd3J4MnU5RlZ0OG5ubDhTNVlJYzdtY0pGcUtPLUJzMm9zN0ZNNVFpclEwbmpwdlJaa29ZOWtrZk0wS0JPYW14Z0hTWS1IbWlRcw?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 07:49:17 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "226950-기타-15026-20260909",
     "first_seen": "2026-09-09",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -47879,7 +47894,7 @@
     "sector": "바이오",
     "category": "바이오",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "올릭스, 황반변성 치료제 2a상 뉴질랜드 신청…임상국가 확대 - 서울경제TV",
     "source_type": "news",
@@ -47888,12 +47903,32 @@
         "press": "서울경제TV",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZY3ZqNkQwYlJ5Z1RkQWVDalVlYXo4cWw1dXRCekdmeGlmeWRCRTZlSWJMRXM3b0NXbnVtUkFnTUVqc3laRnptMEdLQWVUeUF4Z05sM3BtZXVDcmtuRGl0RmZHd0M?oc=5",
         "pub_date": "Wed, 30 Sep 2026 05:20:03 GMT"
+      },
+      {
+        "press": "팜이데일리",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jbEc3Rk9aWU5kTDlic1Z6enU2Mk1PSXB1VzRFcVhLbENKU3JqZ2otTlFRc2Ftc0Z0aUNNUk9abzVyUWRjSmdXUnBmM0xtaGVndDNJRVBkTFNnU1RITTNLdm45VWhEcy1IWE5mWGd3?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 06:54:47 GMT"
+      },
+      {
+        "press": "약사공론",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZVM0VjFZWnljUmVfd1lzODhZeFN3QTJ6WnhuSlhxdWJiUmhhNWVDNno1ZEluWVZrTWNwcWFEME1WdUxlaWFERWZuZDByT1NSWDVvQm54a0tTS01UZlhRUkU5OGFHNjFfOG9HdQ?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 07:26:44 GMT"
+      },
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4aGZGaXlCVVlvWnZ3STd0SkFocWJ2emZNel9mVUV2RFpwbHNpYU9acHpjRVpQdGZtZDVFWlBIS0pXcUZ0M1NnaVp1RzdpTU1JcDRYV011cFVDTUk0UG5VZzYwNFRiUmkyMWtV?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 07:17:04 GMT"
+      },
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pODBUcmRtcFc4Szg0N0JoQWJSYndfNGdna2ZoYXF5TU1tQXZRZ3VlWWdsVW5SRU5nblI0eVVCRGRXNkI4bjhsTUhxWURBZEtqcEppaDBqY3Ftdy14OGlhZG5BTHhCZw?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 22:37:39 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 5,
     "id": "226950-바이오-36233-20260930",
     "first_seen": "2026-09-30",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -60436,12 +60471,17 @@
         "press": "중앙일보",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0RHNPS1dWcEtYWVBpSFdJQUJmQlRPQldTRndHcGZHMDR5c19OeEIzc0R2cGRyajdNT3NnS0ZpemFzYUZYZUVyN1ZIbndUdzdXYTFWRlNB?oc=5",
         "pub_date": "Mon, 12 Oct 2026 04:39:52 GMT"
+      },
+      {
+        "press": "비즈트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NaEM3RTFGSmM5amo0cU5QcHF3QmpLM1pJeTAtZGpmWEJRXzhFYU9lVjFjUW01cm93aFF5dUxTNlZBUTk2ZXZLXzhxOENJeFNVdU9mYUpyQmtDcHRTelJrZlFKQ2F6MHZQWFdYUUNEWUg?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 14:21:25 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "068270-실적-45933-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -60900,7 +60940,7 @@
     "source_count": 1,
     "id": "353200-기타-46156-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -61595,7 +61635,7 @@
     "source_count": 1,
     "id": "326030-기타-46478-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -61967,9 +62007,14 @@
         "press": "https://spt.co.kr/",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1acEFWRGhNY2dBUjZhVEFUVTZNcjU4aFhTTk9vbHdLZ200S1Y1dGhob2NDYW5wNElUT2hzYVRlVXVsaUpsUmtHbzBlejd0ZzVXTC1VNE5FY3EwTGJh?oc=5",
         "pub_date": "Mon, 12 Oct 2026 10:53:25 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uaGRKSmJQSDNwaVJ4cVV1cTlSVE5fNWl1dVVUODdTNXVpa1ZRUDhDVDVfSU03QzdqQ3NZVS1ZYVlTVDNTeXBBS0pBMVZwcXQ0enc0Y2dBQS1WRW11bUhSTlEzVUFJT2ZpOEtQcW130gFuQVVfeXFMTm5oZEpKYlBIM3BpUnhxVXVxOVJUTl81aXV1VVQ4N1M1dWlrVlFQOENUNV9JTTdDN2pDc1lVLVlhWVNUM1N5cEFLSkExVnBxdDR6dzRjZ0FBLVZFbXVtSFJOUTNVQUlPZmk4S1BxbXc?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 10:53:25 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "089030-수주-46662-20261012",
     "first_seen": "2026-10-12",
     "last_updated": "2026-10-13",
@@ -62826,9 +62871,14 @@
         "press": "철강금속신문",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VMUsweVRzaFJROEo4Z2VkRjI3bk41OWdsdGwtbVM1SnBqbFgya3RyZU9yWGxrOC1Wc1o5azVrUmRCcFZrRFpHX0V1QnowOVJfbERXM1VBX0N2WHFsZ0x0R1FLbG1FQ0JvU3c?oc=5",
         "pub_date": "Mon, 12 Oct 2026 04:23:56 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KV2RxWXpSSzVwZzNUYXQ5Mm91UjUtME1kSmtacG5pei10YXR6RlZRdVRJOHZGbmxvcFlna1FYREo4VW8zTy1ZNE5uTHNRejNIZTZiUE1wVWEweWZFY0lRVA?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 06:56:29 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "id": "000500-정책-47409-20261013",
     "first_seen": "2026-10-13",
     "last_updated": "2026-10-13",
@@ -62865,7 +62915,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SNT에너지, 사우디 전력 수요 확대 겨냥…현지 생산 기반 활용 - 주간한국",
     "source_type": "news",
@@ -62874,9 +62924,14 @@
         "press": "주간한국",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZEVHQlBRVW5QRGZ4S29vOFlnaFlLcVRiTDYyX25vbW5tNEZ3RVUzSkdoS1BSZFZSRnV2eDEzaXVNaER5cU1NNjc3Tk90bDZXb043LUg0V0FQbVAzejRkekh5ZWUzbWdONnVXenNnOHN0cFgy0gF0QVVfeXFMT0FkRUdCUFFVblBEZnhLb284WWdoWUtxVGJMNjJfbm9tbm00RndFVTNKR2hLUFJkVlJGdXZ4MTNpdU1oRHlxTU02NzdOT3RsNldvTjctSDRXQVBtUDN6NGR6SHllZTNtZ042dVd6c2c4c3RwWDI?oc=5",
         "pub_date": "Tue, 13 Oct 2026 05:07:18 GMT"
+      },
+      {
+        "press": "더쎈뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIOHpJRXJ4eW0tM3o5VVR2NlRub2pSZXNBSlNjLXp5WllQMnVBVXBvOGxHa21oZkhMckNuekE2SzhNZ1UtdzlTNFZDTnFjQVphczZybWY0MUFWcDY1YnJPc0NwUER5c3RS?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 04:40:54 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "100840-기타-47447-20261013",
     "first_seen": "2026-10-13",
     "last_updated": "2026-10-13",
@@ -63225,6 +63280,30 @@
     ],
     "source_count": 2,
     "id": "066970-기타-47771-20261013",
+    "first_seen": "2026-10-13",
+    "last_updated": "2026-10-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS 일렉트릭, 북미 AI센터 전력 인프라 사업 확대...1853억원 규모 배전솔루션 공급 - 데일리경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52NTN3ODY0YURwYUVJeVVsRWwyOUstbmRKOFZJS25EQmszREJkSGc2Y09uTWRzT2VsdlE3akYxZzV0c05zelM5YWl3SEQxbHdvZjQxVWQ1NXlNUlE2dE0wTHdjNS1sXzhpb2VkRA?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 13:39:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-47834-20261013",
     "first_seen": "2026-10-13",
     "last_updated": "2026-10-13",
     "status": "일반",
