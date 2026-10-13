@@ -61606,9 +61606,24 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeElYX1M2WXdkTFlXa3lleDhvMU0zM01RdlVoLWx1Z1dSMWhVc3dvdXRZS0FGcmdma1F6NFZPNWdpOWg3WFNnUmlocmQ5RURuRFktY3M2bU1kQjBQNTBjMVY4STJ3WG1ab3hlM9IBcEFVX3lxTE53c0Z1bmhGeHZETHJkVmZ0T3FjNFA4SkM0VkJfNXh0VUxjREFzVFpxTUIzWjJZdEd0bkZfSWZralJHQnZXbXlTMHk0RUNoazBtSU4xREtvVWlIOHhwNmRlREdGVDBFZ2FLX3J5akRhZHo?oc=5",
         "pub_date": "Mon, 12 Oct 2026 00:37:44 GMT"
+      },
+      {
+        "press": "MEDI:GATE NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52d2RUbGE2SU1UejJHQy1pdkQ0cmpIQzZtRXRKWDZVRER5eEd6cHJ0TTlVRmcwcXMwQmVzbGlBdERFU2JEX194QTJwYnVQUHBmWW1haDZTNA?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 01:19:00 GMT"
+      },
+      {
+        "press": "뉴스프리존",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XTFVnd1VrUTVqMXJfWEo5enJCdlB6bElEVk9aeEs3eXZsbDVtZmF6ZU5EaDVEeEZzTF9OOVMwNThWVEFOanZYSDVCa0NQRnNwb1lKM3hwaXhnaWVBYmpwZ2VLSllrdnkzdUZxcVp3a3ZPYjDSAXdBVV95cUxPeTdNZ0tQOFpfM3FXc3NvMTVBLW1waDVTWTB6OXdwUmpmeWhfNVlZQkF0VTNBSXFuVFBSYkVRQnktUEZhb2hyQVo2RUM4STFGMmlRYm5Pb0poeWFXM0dkNDE4UUY1bk15ZVBhNVZDRElIS3ZIYlFfNA?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 01:04:45 GMT"
+      },
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xUVdlUTFaQlE5VW1NVDVCdVd5cEFoRXZCcW1Ld2dWRFV2cXAyQThMQjhlY1UyT05PM2w0dkRPYXF3cDZibTJCcVAzc1haX3JROUhpSnctYm1sdw?oc=5",
+        "pub_date": "Mon, 12 Oct 2026 00:20:20 GMT"
       }
     ],
-    "source_count": 26,
+    "source_count": 29,
     "id": "326030-기타-46474-20261012",
     "first_seen": "2026-10-12",
     "last_updated": "2026-10-13",
@@ -63304,6 +63319,107 @@
     ],
     "source_count": 1,
     "id": "006260-기타-47834-20261013",
+    "first_seen": "2026-10-13",
+    "last_updated": "2026-10-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"칩플레이션이 M/S확대 기회\"..삼성전자 스마트폰 감산없다 - 뉴스톱",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스톱",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNVBzUlFMb2xLRUsteHJlNVF4LWY1NTYzSzNHNHBCeWNXRXRPbm9DbzN1NkhSOUd1QlljdDRZY1pHb2RIQWZHQl9Uck1TVkx5X3ZrV29ra19vb1N1MmdCdlYwMXVrVzJQUWNfTEY0SQ?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 21:35:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-47887-20261013",
+    "first_seen": "2026-10-13",
+    "last_updated": "2026-10-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최대 호황에도 위기 대비하는 삼성전기…장덕현 사장 “1인 1에이전트 전략으로 초격차” [biz-플러스] - 서울경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ci1fTTFGbGQ0QmdQYzVrZ2E5UmM1YS1UQjNVWUdYY1BGSEZMXzl6OWNZLUZldWZBTjBQQ2xYMG9aN1lNLWVDY0tOQUpRSkgzM0HSAVNBVV95cUxQQTVaVlpPV0F1WGJwTlJIR25kbzF1cy1mUFlRYW5hb2lmZjg5YWpVZkNsdEdab095aTFfRXFyWVdQWkZobzBTbldsZDRXRGlvcS1TUQ?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-47916-20261013",
+    "first_seen": "2026-10-13",
+    "last_updated": "2026-10-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "SK이노베이션, 베트남 맹그로브 숲 복원 확대…2030년까지 200ha 조성 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKbExZYzFza2JlWlBNdzBJTWc1ckJZOV9HcThFc0ZsX0E0ZldWTDBWRmJuMlR6d05VNW9XNUJVYzJiTHVXX1dDR0ZGWFFRZkR2SC1fcHpjVnY4QWRiTm1DWg?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 23:11:44 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42NWE3MlNOZjFNRGZnd29XdTNndHppWVJTTWN2OWdHWmFXcDJ2Y1ladW51ZHkxNmhURHZId1VYekR6blhkbWNNRmtZU2cwaUpyUHc4NnJ0a2k2aWdDMHg5VkF2ZDdRVVlRWTVJZXlCdmZpTm_SAXdBVV95cUxPYWFkaE5Dc21FYXktZUVfX2FNM0VDb3FMNlpoRU5mUTNFXzRMbjRqUklEYjQ4UUpmcVVGTkZNbEljdDVBVzZzSVM4VGtVaTdmVl9NdFVja3NRVjdEbXRqZGFjVDNjZXBCbmlQUVI0UkJHNDY1anVmQQ?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 23:16:43 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "096770-기타-48009-20261013",
+    "first_seen": "2026-10-13",
+    "last_updated": "2026-10-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠, LFP 수주 확대…내년 실적 반등 기대 - 스페셜경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "스페셜경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQLVo0S2xKRnRrS2RWaWpzZmZMUkhiWU5UVS1vNGlDRE83U25HZWdWb1B6RDFoXzk4b2JYUlZ4RVlYMzI3SC1vb2ZCUF90RG5nejNZeW9IY2lqY1BSNGU4UldpRDI0b2s4R3ZzdQ?oc=5",
+        "pub_date": "Tue, 13 Oct 2026 07:30:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-실적-48013-20261013",
     "first_seen": "2026-10-13",
     "last_updated": "2026-10-13",
     "status": "일반",
