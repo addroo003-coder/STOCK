@@ -82,7 +82,7 @@
       "rcept_no": "20260826000445",
       "id": "005930-기타-1-20260827",
       "first_seen": "2026-08-27",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "정정됨",
       "stale": false
     },
@@ -47339,7 +47339,7 @@
       "rcept_no": "20260828001532",
       "id": "466100-기타-1570-20260829",
       "first_seen": "2026-08-29",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -47488,7 +47488,7 @@
       "rcept_no": "20260828001586",
       "id": "012450-기타-1574-20260829",
       "first_seen": "2026-08-29",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -131636,7 +131636,7 @@
       "rcept_no": "20260831900758",
       "id": "178320-기타-4560-20260831",
       "first_seen": "2026-08-31",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "정정됨",
       "stale": false
     },
@@ -185424,7 +185424,7 @@
       "rcept_no": "20260902800049",
       "id": "100840-수주-6429-20260902",
       "first_seen": "2026-09-02",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -278976,14 +278976,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800084",
           "pub_date": "20261001"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800056",
+          "pub_date": "20261013"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "is_correction": true,
       "rcept_no": "20260904800540",
       "id": "006260-수주-9682-20260904",
       "first_seen": "2026-09-04",
-      "last_updated": "2026-10-03",
+      "last_updated": "2026-10-13",
       "status": "정정됨",
       "stale": false
     },
@@ -279194,14 +279199,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900418",
           "pub_date": "20261001"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900195",
+          "pub_date": "20261013"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "is_correction": false,
       "rcept_no": "20260904900599",
       "id": "247540-기타-9690-20260904",
       "first_seen": "2026-09-04",
-      "last_updated": "2026-10-03",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -500270,7 +500280,7 @@
       "rcept_no": "20260911800557",
       "id": "006260-기타-17760-20260911",
       "first_seen": "2026-09-11",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "정정됨",
       "stale": false
     },
@@ -710162,7 +710172,7 @@
       "rcept_no": "20260918000474",
       "id": "247540-기타-25555-20260918",
       "first_seen": "2026-09-18",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -836437,7 +836447,7 @@
       "rcept_no": "20260923000594",
       "id": "403870-기타-30281-20260923",
       "first_seen": "2026-09-23",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -935915,7 +935925,7 @@
       "rcept_no": "20260928800380",
       "id": "096770-수주-34076-20260928",
       "first_seen": "2026-09-28",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "정정됨",
       "stale": false
     },
@@ -984276,7 +984286,7 @@
       "rcept_no": "20260930000461",
       "id": "007660-기타-35884-20260930",
       "first_seen": "2026-09-30",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1008667,14 +1008677,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800079",
           "pub_date": "20261001"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800054",
+          "pub_date": "20261013"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "is_correction": false,
       "rcept_no": "20261001800079",
       "id": "010120-수주-36784-20261001",
       "first_seen": "2026-10-01",
-      "last_updated": "2026-10-03",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1037755,7 +1037770,7 @@
       "rcept_no": "20261002000027",
       "id": "060370-기타-37860-20261002",
       "first_seen": "2026-10-02",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1189567,7 +1189582,7 @@
       "rcept_no": "20261008000377",
       "id": "107640-기타-43700-20261008",
       "first_seen": "2026-10-08",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1240778,7 +1240793,7 @@
       "rcept_no": "20261012800004",
       "id": "068270-실적-45778-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1246996,7 +1247011,7 @@
       "rcept_no": "20261012800255",
       "id": "009150-기타-46022-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1247022,7 +1247037,7 @@
       "rcept_no": "20261012800250",
       "id": "009150-실적-46023-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1247048,7 +1247063,7 @@
       "rcept_no": "20261012900278",
       "id": "464080-기타-46024-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1247074,7 +1247089,7 @@
       "rcept_no": "20261012900375",
       "id": "099320-기타-46025-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1247105,7 +1247120,7 @@
       "rcept_no": "20261012000240",
       "id": "064550-기타-46026-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1247131,7 +1247146,7 @@
       "rcept_no": "20261012900183",
       "id": "178320-수주-46027-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1261803,7 +1261818,7 @@
       "rcept_no": "20261012000421",
       "id": "005930-자본-46592-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1261829,7 +1261844,7 @@
       "rcept_no": "20261012900551",
       "id": "357780-기타-46593-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1261855,7 +1261870,7 @@
       "rcept_no": "20261012900492",
       "id": "357780-기타-46594-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1261881,7 +1261896,7 @@
       "rcept_no": "20261012900388",
       "id": "226950-바이오-46595-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1261907,7 +1261922,7 @@
       "rcept_no": "20261012800501",
       "id": "006400-기타-46596-20261012",
       "first_seen": "2026-10-12",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-13",
       "status": "일반",
       "stale": false
     },
@@ -1275943,7 +1275958,59 @@
       "last_updated": "2026-10-12",
       "status": "일반",
       "stale": false
+    },
+    {
+      "company": "에코프로비엠",
+      "stock_code": "247540",
+      "sector": "이차전지·ESS",
+      "category": "실적",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "결산실적공시예고              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900192",
+          "pub_date": "20261013"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261013900192",
+      "id": "247540-실적-47174-20261013",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "에코프로비엠",
+      "stock_code": "247540",
+      "sector": "이차전지·ESS",
+      "category": "자본",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "유상증자최종발행가액확정              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900133",
+          "pub_date": "20261013"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261013900133",
+      "id": "247540-자본-47175-20261013",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "status": "일반",
+      "stale": false
     }
   ],
-  "generated_at": "2026-10-12"
+  "generated_at": "2026-10-13"
 }

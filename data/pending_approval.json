@@ -4736,7 +4736,7 @@
     "rcept_no": "20260831900758",
     "id": "178320-기타-4560-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "정정됨",
     "stale": false
   },
@@ -8373,7 +8373,7 @@
     "rcept_no": "20260902800049",
     "id": "100840-수주-6429-20260902",
     "first_seen": "2026-09-02",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -14407,14 +14407,19 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800084",
         "pub_date": "20261001"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800056",
+        "pub_date": "20261013"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "is_correction": true,
     "rcept_no": "20260904800540",
     "id": "006260-수주-9682-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-13",
     "status": "정정됨",
     "stale": false
   },
@@ -43894,7 +43899,7 @@
     "rcept_no": "20260928800380",
     "id": "096770-수주-34076-20260928",
     "first_seen": "2026-09-28",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "정정됨",
     "stale": false
   },
@@ -48743,14 +48748,19 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800079",
         "pub_date": "20261001"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800054",
+        "pub_date": "20261013"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "is_correction": false,
     "rcept_no": "20261001800079",
     "id": "010120-수주-36784-20261001",
     "first_seen": "2026-10-01",
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -60543,7 +60553,7 @@
     "rcept_no": "20261012900183",
     "id": "178320-수주-46027-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },
@@ -61835,7 +61845,7 @@
     "rcept_no": "20261012900388",
     "id": "226950-바이오-46595-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "status": "일반",
     "stale": false
   },

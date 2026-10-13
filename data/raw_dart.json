@@ -117,6 +117,32 @@
     "is_correction": false
   },
   {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261013800054",
+    "rcept_dt": "20261013",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800054",
+    "is_correction": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+    "rcept_no": "20261013800056",
+    "rcept_dt": "20261013",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800056",
+    "is_correction": false
+  },
+  {
     "company": "LS",
     "stock_code": "006260",
     "sector": "전기·전력",
@@ -349,6 +375,45 @@
     "rcept_dt": "20261012",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800752",
     "is_correction": true
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20261013900195",
+    "rcept_dt": "20261013",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900195",
+    "is_correction": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "결산실적공시예고              ",
+    "rcept_no": "20261013900192",
+    "rcept_dt": "20261013",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900192",
+    "is_correction": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "유상증자최종발행가액확정              ",
+    "rcept_no": "20261013900133",
+    "rcept_dt": "20261013",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900133",
+    "is_correction": false
   },
   {
     "company": "에코프로비엠",

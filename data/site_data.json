@@ -77,7 +77,25 @@
             }
           ],
           "first_seen": "2026-08-27",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "005930-자본-46592-20261012",
+          "category": "자본",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "자기주식취득결과보고서",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000421",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -725,24 +743,6 @@
               "press": "매일일보",
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxQ0tjMVBTb3NUMHVUSElVLTE1NlYxaGpJTVROb2NhWm5QUWdhamVFZzBiS1VNZmdvcFFRWjEtNlc1SGpRbWd4TE9yNzN6ckhyUTU4eF91VlM4N3N1SnlSZjhXdEg?oc=5",
               "pub_date": "Mon, 12 Oct 2026 07:53:00 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "005930-자본-46592-20261012",
-          "category": "자본",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "자기주식취득결과보고서",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000421",
-              "pub_date": "20261012"
             }
           ],
           "first_seen": "2026-10-12",
@@ -177141,6 +177141,39 @@
       ],
       "HPSP": [
         {
+          "id": "403870-기타-30281-20260923",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000594",
+              "pub_date": "20260923"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000588",
+              "pub_date": "20260923"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000585",
+              "pub_date": "20260923"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000734",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-09-23",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "403870-기타-408-20260828",
           "category": "기타",
           "direction": "중립",
@@ -177208,39 +177241,6 @@
             }
           ],
           "first_seen": "2026-09-16",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "403870-기타-30281-20260923",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000594",
-              "pub_date": "20260923"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000588",
-              "pub_date": "20260923"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000585",
-              "pub_date": "20260923"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000734",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-09-23",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -188686,6 +188686,42 @@
     "소재·부품": {
       "솔브레인": [
         {
+          "id": "357780-기타-46593-20261012",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "주주명부폐쇄기간또는기준일설정              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900551",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "357780-기타-46594-20261012",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "주주총회소집결의              (임시주주총회)",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900492",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "357780-기타-144-20260827",
           "category": "기타",
           "direction": "중립",
@@ -189219,42 +189255,6 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWRqNTZ2T0JjM1BwaEpTTGJNRXhxbm9SNHlSNE9KTmY5cnlCYU0xMUpHWjRTU0JHN1VNdVRkeDljLTZsV3YxSzVJNFFoREJ4UTB1OFZsMmZ2ckJ4N2JvTU9TS0JXTF9mNmlkZ0ZmQ3c5a3IxVEx5VW5wYWp5VEZqQjhiMUt0T2M?oc=5",
               "pub_date": "Sun, 11 Oct 2026 19:22:26 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "357780-기타-46593-20261012",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "주주명부폐쇄기간또는기준일설정              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900551",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "357780-기타-46594-20261012",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "주주총회소집결의              (임시주주총회)",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900492",
-              "pub_date": "20261012"
             }
           ],
           "first_seen": "2026-10-12",
@@ -210910,6 +210910,42 @@
     "기판·인터커넥트": {
       "삼성전기": [
         {
+          "id": "009150-기타-46022-20261012",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "기업설명회(IR)개최(안내공시)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800255",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "009150-실적-46023-20261012",
+          "category": "실적",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "결산실적공시예고(안내공시)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800250",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "009150-기타-170-20260827",
           "category": "기타",
           "direction": "중립",
@@ -211583,42 +211619,6 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXlXbkVqQ2VaRE9FbDY3cFg3UzVSbXU2d1YxVFYwbHM2QmRMMF9hdVpBTk9LZ2prNVcybWJZQVJIVDVOTFJEemxzUVJibTB6SnhYempsakJnUEZXM1YyZXNqemdXaVU1djg5RXloa2hqSkVzbWw1QlNyUnFmeXg2NkRyS2hYc2piUDNkeHNB?oc=5",
               "pub_date": "Sun, 11 Oct 2026 09:29:49 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "009150-기타-46022-20261012",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "기업설명회(IR)개최(안내공시)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800255",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "009150-실적-46023-20261012",
-          "category": "실적",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "결산실적공시예고(안내공시)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800250",
-              "pub_date": "20261012"
             }
           ],
           "first_seen": "2026-10-12",
@@ -230469,6 +230469,49 @@
       ],
       "이수페타시스": [
         {
+          "id": "007660-기타-35884-20260930",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000461",
+              "pub_date": "20260930"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000048",
+              "pub_date": "20261007"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000042",
+              "pub_date": "20261007"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000040",
+              "pub_date": "20261007"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000354",
+              "pub_date": "20261012"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000337",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-09-30",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "007660-기타-181-20260827",
           "category": "기타",
           "direction": "중립",
@@ -230736,49 +230779,6 @@
             }
           ],
           "first_seen": "2026-08-29",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "007660-기타-35884-20260930",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000461",
-              "pub_date": "20260930"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000048",
-              "pub_date": "20261007"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000042",
-              "pub_date": "20261007"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000040",
-              "pub_date": "20261007"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000354",
-              "pub_date": "20261012"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000337",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-09-30",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -316388,7 +316388,7 @@
             }
           ],
           "first_seen": "2026-08-29",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -330365,24 +330365,6 @@
       ],
       "에스오에스랩": [
         {
-          "id": "464080-기타-44771-20261011",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "로봇이 얼마나 세게 쥘지 가르친다... 스페이스에이아이, 뉴욕서 물리 데이터 엔진 가동 - 에이빙",
-          "sources": [
-            {
-              "press": "에이빙",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Vk41Y2pzOVdsWVpkbEV2NE1tSmJqSkdNakhtX0oxNDliUll5OWJsZ3NqVGJ2cHc5R19aN3l1LTY2dXpPanRQWmU5NjZiclpuYVhxTk5rdjMxdWp0LVp4WHVjOERPeTZLMmVJ0gFrQVVfeXFMT3hWTjVjanM5V2xZWmRsRXY0TW1KYmpKR01qSG1fSjE0OWJSWXk5Ymxnc2pUYnZwdzlHX1o3eXUtNjZ1ek9qdFBaZTk2NmJyWm5hWHFOTmt2MzF1anQtWnhYdWM4RE95NksyZUk?oc=5",
-              "pub_date": "Sat, 10 Oct 2026 04:25:11 GMT"
-            }
-          ],
-          "first_seen": "2026-10-11",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
           "id": "464080-기타-46024-20261012",
           "category": "기타",
           "direction": "중립",
@@ -330397,6 +330379,24 @@
             }
           ],
           "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "464080-기타-44771-20261011",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "로봇이 얼마나 세게 쥘지 가르친다... 스페이스에이아이, 뉴욕서 물리 데이터 엔진 가동 - 에이빙",
+          "sources": [
+            {
+              "press": "에이빙",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Vk41Y2pzOVdsWVpkbEV2NE1tSmJqSkdNakhtX0oxNDliUll5OWJsZ3NqVGJ2cHc5R19aN3l1LTY2dXpPanRQWmU5NjZiclpuYVhxTk5rdjMxdWp0LVp4WHVjOERPeTZLMmVJ0gFrQVVfeXFMT3hWTjVjanM5V2xZWmRsRXY0TW1KYmpKR01qSG1fSjE0OWJSWXk5Ymxnc2pUYnZwdzlHX1o3eXUtNjZ1ek9qdFBaZTk2NmJyWm5hWHFOTmt2MzF1anQtWnhYdWM4RE95NksyZUk?oc=5",
+              "pub_date": "Sat, 10 Oct 2026 04:25:11 GMT"
+            }
+          ],
+          "first_seen": "2026-10-11",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -414840,6 +414840,24 @@
       ],
       "올릭스": [
         {
+          "id": "226950-바이오-46595-20261012",
+          "category": "바이오",
+          "direction": "긍정",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "투자판단관련주요경영사항              (임상시험계획 승인 신청 반려)",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900388",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "226950-기타-3913-20260831",
           "category": "기타",
           "direction": "중립",
@@ -415038,24 +415056,6 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSjRsVjdmSHpXZk9kN01PVlVTSzdiY09GaXB6UkNhSVFuMm9qY1VaZEhDc0NEOE5FSWUySXZ5TzhpRnR1aU05SU5hMXdjcjRHWnpabGp3azgxNWVMZlBVTm5VVEpaekU3S2I4T2h2Q0d0RzQ5SzcwMm5UblFkMl9JUEQ4ckpzeUFiSVNFT21xeDRYMzlnT1ZmZDBhV3IxQ2VuZGVZLS1IU1NBdGl5WDdCd2trTlVoVkJtUHE5X2hMYVhtMHNodmRXaEVKNzZGeDBZWEZRQmRLaXZ3QjdiTjVQaW40OA?oc=5",
               "pub_date": "Mon, 12 Oct 2026 00:45:01 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "226950-바이오-46595-20261012",
-          "category": "바이오",
-          "direction": "긍정",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "투자판단관련주요경영사항              (임상시험계획 승인 신청 반려)",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900388",
-              "pub_date": "20261012"
             }
           ],
           "first_seen": "2026-10-12",
@@ -455628,6 +455628,24 @@
       ],
       "셀트리온": [
         {
+          "id": "068270-실적-45778-20261012",
+          "category": "실적",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800004",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "068270-기타-5741-20260901",
           "category": "기타",
           "direction": "중립",
@@ -455652,24 +455670,6 @@
             }
           ],
           "first_seen": "2026-09-01",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "068270-실적-45778-20261012",
-          "category": "실적",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800004",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-10-12",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -549787,24 +549787,6 @@
       ],
       "바이오니아": [
         {
-          "id": "064550-기타-45762-20261011",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "여러 게임을 비교할 때 펼쳐둘 룰렛 테이블 정보 - Calgary Roughnecks",
-          "sources": [
-            {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVi03cUY2YkpTVklZQ1g1X2M1bTZYM3FhMEJGMkZWbUM4MG1wMnBwS3hDb083QV9qc1pmUVAxdDBOSUlUdEpGbnd0RHU2QWozUmJZUWNRSkRNV0NyX3lFQWVMUlVOZmhJXzdFdmpQUlpKSUZNTXBiLVNTQWNCU0FWcnFCdWJDc3N0MkR1c1R0UE0wdFh6MThRVEJQTQ?oc=5",
-              "pub_date": "Sat, 10 Oct 2026 07:53:08 GMT"
-            }
-          ],
-          "first_seen": "2026-10-11",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
           "id": "064550-기타-46026-20261012",
           "category": "기타",
           "direction": "중립",
@@ -549824,6 +549806,24 @@
             }
           ],
           "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "064550-기타-45762-20261011",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "여러 게임을 비교할 때 펼쳐둘 룰렛 테이블 정보 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVi03cUY2YkpTVklZQ1g1X2M1bTZYM3FhMEJGMkZWbUM4MG1wMnBwS3hDb083QV9qc1pmUVAxdDBOSUlUdEpGbnd0RHU2QWozUmJZUWNRSkRNV0NyX3lFQWVMUlVOZmhJXzdFdmpQUlpKSUZNTXBiLVNTQWNCU0FWcnFCdWJDc3N0MkR1c1R0UE0wdFh6MThRVEJQTQ?oc=5",
+              "pub_date": "Sat, 10 Oct 2026 07:53:08 GMT"
+            }
+          ],
+          "first_seen": "2026-10-11",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -576396,6 +576396,29 @@
       ],
       "LS ELECTRIC": [
         {
+          "id": "010120-수주-36784-20261001",
+          "category": "수주",
+          "direction": "긍정",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "단일판매ㆍ공급계약체결              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800079",
+              "pub_date": "20261001"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800054",
+              "pub_date": "20261013"
+            }
+          ],
+          "first_seen": "2026-10-01",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "010120-기타-43904-20261008",
           "category": "기타",
           "direction": "중립",
@@ -578431,24 +578454,6 @@
           ],
           "first_seen": "2026-10-04",
           "last_updated": "2026-10-04",
-          "stale": false
-        },
-        {
-          "id": "010120-수주-36784-20261001",
-          "category": "수주",
-          "direction": "긍정",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "단일판매ㆍ공급계약체결              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800079",
-              "pub_date": "20261001"
-            }
-          ],
-          "first_seen": "2026-10-01",
-          "last_updated": "2026-10-03",
           "stale": false
         },
         {
@@ -599063,6 +599068,87 @@
     "전선·해저케이블": {
       "LS": [
         {
+          "id": "006260-수주-9682-20260904",
+          "category": "수주",
+          "direction": "긍정",
+          "confidence": "확정",
+          "status": "정정됨",
+          "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904800540",
+              "pub_date": "20260904"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801256",
+              "pub_date": "20260930"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801255",
+              "pub_date": "20260930"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800084",
+              "pub_date": "20261001"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800056",
+              "pub_date": "20261013"
+            }
+          ],
+          "first_seen": "2026-09-04",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "006260-기타-17760-20260911",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "정정됨",
+          "headline": "교환사채권발행결정(자회사의 주요경영사항)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911800557",
+              "pub_date": "20260911"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923800244",
+              "pub_date": "20260923"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800986",
+              "pub_date": "20260929"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801254",
+              "pub_date": "20260930"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801176",
+              "pub_date": "20260930"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800155",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-09-11",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "006260-기타-13438-20260908",
           "category": "기타",
           "direction": "중립",
@@ -599110,49 +599196,6 @@
             }
           ],
           "first_seen": "2026-09-10",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "006260-기타-17760-20260911",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "정정됨",
-          "headline": "교환사채권발행결정(자회사의 주요경영사항)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911800557",
-              "pub_date": "20260911"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923800244",
-              "pub_date": "20260923"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929800986",
-              "pub_date": "20260929"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801254",
-              "pub_date": "20260930"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801176",
-              "pub_date": "20260930"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800155",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-09-11",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -603547,39 +603590,6 @@
           ],
           "first_seen": "2026-10-04",
           "last_updated": "2026-10-04",
-          "stale": false
-        },
-        {
-          "id": "006260-수주-9682-20260904",
-          "category": "수주",
-          "direction": "긍정",
-          "confidence": "확정",
-          "status": "정정됨",
-          "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904800540",
-              "pub_date": "20260904"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801256",
-              "pub_date": "20260930"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801255",
-              "pub_date": "20260930"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800084",
-              "pub_date": "20261001"
-            }
-          ],
-          "first_seen": "2026-09-04",
-          "last_updated": "2026-10-03",
           "stale": false
         },
         {
@@ -643177,7 +643187,7 @@
             }
           ],
           "first_seen": "2026-10-02",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -661512,7 +661522,7 @@
             }
           ],
           "first_seen": "2026-10-08",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -694053,7 +694063,7 @@
             }
           ],
           "first_seen": "2026-09-02",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -811948,6 +811958,24 @@
       ],
       "쎄트렉아이": [
         {
+          "id": "099320-기타-46025-20261012",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "임시주주총회결과              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900375",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "099320-기타-1082-20260828",
           "category": "기타",
           "direction": "중립",
@@ -812136,24 +812164,6 @@
               "press": "이투데이",
               "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sOV9YZTVmaG9rcF9TYS05elBoRUxFLXdkYjZoaHZWako2b0pBQlpoNjBXMlBxTEx3VktEOEJyVnN1VWVXMmNJMVFVc3FYOFZwX0dSRnl4UW93Rm1HUGVNMl84NVQyWloyenhfWA?oc=5",
               "pub_date": "Sun, 11 Oct 2026 23:02:00 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "099320-기타-46025-20261012",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "임시주주총회결과              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900375",
-              "pub_date": "20261012"
             }
           ],
           "first_seen": "2026-10-12",
@@ -817293,7 +817303,7 @@
             }
           ],
           "first_seen": "2026-08-29",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -862360,6 +862370,24 @@
     "배터리 셀": {
       "삼성SDI": [
         {
+          "id": "006400-기타-46596-20261012",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "기업설명회(IR)개최(안내공시)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800501",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "006400-기타-3310-20260830",
           "category": "기타",
           "direction": "중립",
@@ -863013,24 +863041,6 @@
               "press": "뉴스토마토",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkXzg2dW02MW5OVWVPV0FhOXlxRHNLRG1neUdyRlRfNkFmMnAtQktNVjVPMXFHQmJOQzZfbU5YYnREYWhaTnRycUwzb09Udjhzb2JqT3hzM0IzdGRGYlVFdQ?oc=5",
               "pub_date": "Mon, 12 Oct 2026 05:50:57 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "006400-기타-46596-20261012",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "기업설명회(IR)개최(안내공시)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800501",
-              "pub_date": "20261012"
             }
           ],
           "first_seen": "2026-10-12",
@@ -879137,6 +879147,29 @@
       ],
       "SK이노베이션": [
         {
+          "id": "096770-수주-34076-20260928",
+          "category": "수주",
+          "direction": "긍정",
+          "confidence": "확정",
+          "status": "정정됨",
+          "headline": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800380",
+              "pub_date": "20260928"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800752",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-09-28",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
           "id": "096770-기타-6258-20260901",
           "category": "기타",
           "direction": "중립",
@@ -879179,29 +879212,6 @@
             }
           ],
           "first_seen": "2026-09-14",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "096770-수주-34076-20260928",
-          "category": "수주",
-          "direction": "긍정",
-          "confidence": "확정",
-          "status": "정정됨",
-          "headline": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800380",
-              "pub_date": "20260928"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800752",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-09-28",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -929229,67 +929239,36 @@
       ],
       "에코프로비엠": [
         {
-          "id": "247540-기타-3043-20260830",
+          "id": "247540-기타-9690-20260904",
           "category": "기타",
           "direction": "중립",
-          "confidence": "미확인",
+          "confidence": "확정",
           "status": "일반",
-          "headline": "[食전食후] 코스피, 외국인 매도에 1%대 하락…삼성전자·SK하이닉스 약세 - 아주경제",
+          "headline": "기업설명회(IR)개최              ",
           "sources": [
             {
-              "press": "아주경제",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZZndfX1pQYnR2R09Zc3Z2aEtwMHF5UUEtcHNsVHFSZG5hZG53Y2dxYktPMnpHSlI2aUdvSVltdXltT002T3BVRE55WTNqVTI3anhXckJrRFbSAVhBVV95cUxQWWZ3X19aUGJ0dkdPWXN2dmhLcDBxeVFBLXBzbFRxUmRuYWRud2NncWJLTzJ6R0pSNmlHb0lZbXV5bU9NNk9wVUROeVkzalUyN2p4V3JCa0RW?oc=5",
-              "pub_date": "Fri, 28 Aug 2026 03:49:26 GMT"
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900599",
+              "pub_date": "20260904"
             },
             {
-              "press": "아주경제",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zNFBSRGYwbjU0el80TDNZTUh5VVlyaTdsQXNxazNNWGdkM2pDZ19xVXJkcXB3WnlkT0hGODRESkRxWGxaRUlmUXA4YmlXYXNCUzFzcFZzRlDSAVhBVV95cUxPMzRQUkRmMG41NHpfNEwzWU1IeVVZcmk3bEFzcWszTVhnZDNqQ2dfcVVyZHFwd1p5ZE9IRjg0REpEcVhsWkVJZlFwOGJpV2FzQlMxc3BWc0ZQ?oc=5",
-              "pub_date": "Mon, 12 Oct 2026 03:49:34 GMT"
-            }
-          ],
-          "first_seen": "2026-08-30",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "247540-기타-18826-20260912",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "1.2조 유증에 ‘급락’ 에코프로비엠…긍정론 나온 이유는? [종목콬!] - 쿠키뉴스",
-          "sources": [
-            {
-              "press": "쿠키뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoT0ExUWFzZ09tbnpkYXRELTZmRXN5Ty1lWWJ0VndsNG9JeEJoY19ZZmVDM1lYYVZQVjhHck0wX0FldXd3YWpMQmlLYTMzd0xPSkpWRHdrQXV0ZkJ5ZlpWVzUwOA?oc=5",
-              "pub_date": "Fri, 11 Sep 2026 19:39:05 GMT"
-            }
-          ],
-          "first_seen": "2026-09-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "247540-기타-19995-20260913",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "입력 방식별로 보는 위쳐 포커 조작 환경 - Calgary Roughnecks",
-          "sources": [
-            {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU25mQTk4MFF2TXA1clY3WTh0ZlRnbzBhLVJlYzAwX3Z2WmZmaklRTTRWRW1qanVhRUFQSTVmSU1lQ2lUWWl0cDk5Tk0tY011REhieFhUZlRXNE9lb0V2NHkyVFQ1dko3REdhTmdmN195NFNZc1pMalp0Vy1lQkVJSEh4dmJoQldELXY4UzMzOXlOSEUzZVZySGJ5VFFiRmhvNi10MVBWSElBUnJKMWYyYnRweDVLb1d0OGdtQnFBVXdZZHBuWEpMQXFRcHI?oc=5",
-              "pub_date": "Sat, 12 Sep 2026 22:27:02 GMT"
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900595",
+              "pub_date": "20260904"
             },
             {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHFkTUNRWDhLMzBUM2V0S0NvT0oyc3VvYTVCYmY2ZDJjQkRsajhoS0otcUdUcktWeC1jY3NsZ1pGMDZqdDFDR2xJbHBpeGxpaWIxN1R3UTJzOUNkczNzUlFkY1oxcWtQUVpFWVpwQlRWa1N2T2tGdmdJbHE0ZGotVU1DTGZsVmJ2aVJIZ1VsVDI2R2xBQTFuZU4zWG9qZ2Q4cnhKeXlHYUhJSnZwZTlsclZUc1pjYmpDeXpNMWZEOWxmSkktRXc?oc=5",
-              "pub_date": "Sun, 11 Oct 2026 10:50:08 GMT"
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900418",
+              "pub_date": "20261001"
+            },
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900195",
+              "pub_date": "20261013"
             }
           ],
-          "first_seen": "2026-09-13",
-          "last_updated": "2026-10-12",
+          "first_seen": "2026-09-04",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -929417,6 +929396,106 @@
             }
           ],
           "first_seen": "2026-09-18",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "247540-실적-47174-20261013",
+          "category": "실적",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "결산실적공시예고              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900192",
+              "pub_date": "20261013"
+            }
+          ],
+          "first_seen": "2026-10-13",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "247540-자본-47175-20261013",
+          "category": "자본",
+          "direction": "중립",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "유상증자최종발행가액확정              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013900133",
+              "pub_date": "20261013"
+            }
+          ],
+          "first_seen": "2026-10-13",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "247540-기타-3043-20260830",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[食전食후] 코스피, 외국인 매도에 1%대 하락…삼성전자·SK하이닉스 약세 - 아주경제",
+          "sources": [
+            {
+              "press": "아주경제",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZZndfX1pQYnR2R09Zc3Z2aEtwMHF5UUEtcHNsVHFSZG5hZG53Y2dxYktPMnpHSlI2aUdvSVltdXltT002T3BVRE55WTNqVTI3anhXckJrRFbSAVhBVV95cUxQWWZ3X19aUGJ0dkdPWXN2dmhLcDBxeVFBLXBzbFRxUmRuYWRud2NncWJLTzJ6R0pSNmlHb0lZbXV5bU9NNk9wVUROeVkzalUyN2p4V3JCa0RW?oc=5",
+              "pub_date": "Fri, 28 Aug 2026 03:49:26 GMT"
+            },
+            {
+              "press": "아주경제",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zNFBSRGYwbjU0el80TDNZTUh5VVlyaTdsQXNxazNNWGdkM2pDZ19xVXJkcXB3WnlkT0hGODRESkRxWGxaRUlmUXA4YmlXYXNCUzFzcFZzRlDSAVhBVV95cUxPMzRQUkRmMG41NHpfNEwzWU1IeVVZcmk3bEFzcWszTVhnZDNqQ2dfcVVyZHFwd1p5ZE9IRjg0REpEcVhsWkVJZlFwOGJpV2FzQlMxc3BWc0ZQ?oc=5",
+              "pub_date": "Mon, 12 Oct 2026 03:49:34 GMT"
+            }
+          ],
+          "first_seen": "2026-08-30",
+          "last_updated": "2026-10-12",
+          "stale": false
+        },
+        {
+          "id": "247540-기타-18826-20260912",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "1.2조 유증에 ‘급락’ 에코프로비엠…긍정론 나온 이유는? [종목콬!] - 쿠키뉴스",
+          "sources": [
+            {
+              "press": "쿠키뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoT0ExUWFzZ09tbnpkYXRELTZmRXN5Ty1lWWJ0VndsNG9JeEJoY19ZZmVDM1lYYVZQVjhHck0wX0FldXd3YWpMQmlLYTMzd0xPSkpWRHdrQXV0ZkJ5ZlpWVzUwOA?oc=5",
+              "pub_date": "Fri, 11 Sep 2026 19:39:05 GMT"
+            }
+          ],
+          "first_seen": "2026-09-12",
+          "last_updated": "2026-10-12",
+          "stale": false
+        },
+        {
+          "id": "247540-기타-19995-20260913",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "입력 방식별로 보는 위쳐 포커 조작 환경 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU25mQTk4MFF2TXA1clY3WTh0ZlRnbzBhLVJlYzAwX3Z2WmZmaklRTTRWRW1qanVhRUFQSTVmSU1lQ2lUWWl0cDk5Tk0tY011REhieFhUZlRXNE9lb0V2NHkyVFQ1dko3REdhTmdmN195NFNZc1pMalp0Vy1lQkVJSEh4dmJoQldELXY4UzMzOXlOSEUzZVZySGJ5VFFiRmhvNi10MVBWSElBUnJKMWYyYnRweDVLb1d0OGdtQnFBVXdZZHBuWEpMQXFRcHI?oc=5",
+              "pub_date": "Sat, 12 Sep 2026 22:27:02 GMT"
+            },
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHFkTUNRWDhLMzBUM2V0S0NvT0oyc3VvYTVCYmY2ZDJjQkRsajhoS0otcUdUcktWeC1jY3NsZ1pGMDZqdDFDR2xJbHBpeGxpaWIxN1R3UTJzOUNkczNzUlFkY1oxcWtQUVpFWVpwQlRWa1N2T2tGdmdJbHE0ZGotVU1DTGZsVmJ2aVJIZ1VsVDI2R2xBQTFuZU4zWG9qZ2Q4cnhKeXlHYUhJSnZwZTlsclZUc1pjYmpDeXpNMWZEOWxmSkktRXc?oc=5",
+              "pub_date": "Sun, 11 Oct 2026 10:50:08 GMT"
+            }
+          ],
+          "first_seen": "2026-09-13",
           "last_updated": "2026-10-12",
           "stale": false
         },
@@ -932292,34 +932371,6 @@
             }
           ],
           "first_seen": "2026-09-03",
-          "last_updated": "2026-10-03",
-          "stale": false
-        },
-        {
-          "id": "247540-기타-9690-20260904",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "기업설명회(IR)개최              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900599",
-              "pub_date": "20260904"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904900595",
-              "pub_date": "20260904"
-            },
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900418",
-              "pub_date": "20261001"
-            }
-          ],
-          "first_seen": "2026-09-04",
           "last_updated": "2026-10-03",
           "stale": false
         },
@@ -985328,7 +985379,25 @@
             }
           ],
           "first_seen": "2026-08-31",
-          "last_updated": "2026-10-12",
+          "last_updated": "2026-10-13",
+          "stale": false
+        },
+        {
+          "id": "178320-수주-46027-20261012",
+          "category": "수주",
+          "direction": "긍정",
+          "confidence": "확정",
+          "status": "일반",
+          "headline": "단일판매ㆍ공급계약체결(자율공시)              ",
+          "sources": [
+            {
+              "press": "DART",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900183",
+              "pub_date": "20261012"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-13",
           "stale": false
         },
         {
@@ -985397,24 +985466,6 @@
             }
           ],
           "first_seen": "2026-10-11",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "178320-수주-46027-20261012",
-          "category": "수주",
-          "direction": "긍정",
-          "confidence": "확정",
-          "status": "일반",
-          "headline": "단일판매ㆍ공급계약체결(자율공시)              ",
-          "sources": [
-            {
-              "press": "DART",
-              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900183",
-              "pub_date": "20261012"
-            }
-          ],
-          "first_seen": "2026-10-12",
           "last_updated": "2026-10-12",
           "stale": false
         },
