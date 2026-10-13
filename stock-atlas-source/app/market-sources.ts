@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오, 폴리펩타이드그룹 공개매수 최소 조건 충족",
-      "office": "더팩트",
+      "title": "삼성바이오로직스, 폴리펩타이드그룹 공개매수 최소 조건 충족",
+      "office": "아이뉴스24",
       "date": "20261013",
-      "url": "https://n.news.naver.com/mnews/article/629/0000541675"
+      "url": "https://n.news.naver.com/mnews/article/031/0001065660"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "중기중앙회·중기부·삼성전자, '스마트비즈엑스포 2026' 개최",
-      "office": "더팩트",
-      "date": "20261013",
-      "url": "https://n.news.naver.com/mnews/article/629/0000541737"
+      "title": "“속도·용량·저장 다 잡는다”… 삼성전자의 AI 메모리 ‘3대 전략’",
+      "office": "국민일보",
+      "date": "20261014",
+      "url": "https://n.news.naver.com/mnews/article/005/0001878518"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KAI 노조, 14일 청와대 앞 집회 예고…\"한화 인수 시도 중단해야\"",
-      "office": "SBS Biz",
+      "title": "방사청장 \"방산업체 M&A, 방사청 동의권 마련해야\"…한화-KAI 인수 가능...",
+      "office": "디지털데일리",
       "date": "20261013",
-      "url": "https://n.news.naver.com/mnews/article/374/0000537602"
+      "url": "https://n.news.naver.com/mnews/article/138/0002244603"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화 계열사로 KAI 출신 인력 최소 70명 이직…핵심 기술인력 유출 우...",
-      "office": "스포츠서울",
+      "title": "[2026 국감] 방사청장, 한화-KAI 인수 가능성에 \"국익 중심 검토\"",
+      "office": "아이뉴스24",
       "date": "20261013",
-      "url": "https://n.news.naver.com/mnews/article/468/0001272271"
+      "url": "https://n.news.naver.com/mnews/article/031/0001065719"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'HBM 대부' 김정호 KAIST 교수, 과학기술혁신대상 수상",
-      "office": "지디넷코리아",
-      "date": "20261013",
-      "url": "https://n.news.naver.com/mnews/article/092/0002440804"
+      "title": "美 금리·빅테크 실적 변수… 이달 말까지 '숨고르기'",
+      "office": "머니투데이",
+      "date": "20261014",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425861"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
