@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "AI 시대 '전력 장벽' 넘는다…SK하이닉스가 제시하는 HBM의 미래",
-      "office": "머니투데이",
+      "title": "대형 원전 핵심기술 확보… AI 수직계열화 노린다",
+      "office": "서울경제",
       "date": "20261014",
-      "url": "https://n.news.naver.com/mnews/article/008/0005426295"
+      "url": "https://n.news.naver.com/mnews/article/011/0004671364"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "이사회 독립성 강화… “기업 투명성 선제 대응”",
-      "office": "세계일보",
-      "date": "20261014",
-      "url": "https://n.news.naver.com/mnews/article/022/0004166740"
+      "title": "㈜한화, 이사회 의장에 독립이사 선임",
+      "office": "조선일보",
+      "date": "20261015",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003871"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "SK하닉 'HBM' 보는 삼성 사장…에이직랜드의 TSMC 발언도 경청",
-      "office": "아이뉴스24",
-      "date": "20261014",
-      "url": "https://n.news.naver.com/mnews/article/031/0001066118"
+      "title": "AI투심 위축되나… IPO 시장도 눈치보기",
+      "office": "머니투데이",
+      "date": "20261015",
+      "url": "https://n.news.naver.com/mnews/article/008/0005426486"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -403,10 +403,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=107600",
     "news": {
-      "title": "'안정된 캐시카우·신사업'…새빗켐, 투트랙 전략으로 실적 반등 노려",
-      "office": "동행미디어 시대",
-      "date": "20260130",
-      "url": "https://n.news.naver.com/mnews/article/417/0001127477"
+      "title": "새빗켐, 상반기 매출 309억…전년比 49%↑",
+      "office": "뉴시스",
+      "date": "20260814",
+      "url": "https://n.news.naver.com/mnews/article/003/0014127090"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/107600/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하닉 'HBM' 보는 삼성 사장…에이직랜드의 TSMC 발언도 경청",
-      "office": "아이뉴스24",
-      "date": "20261014",
-      "url": "https://n.news.naver.com/mnews/article/031/0001066118"
+      "title": "삼성전자-SK하이닉스, 7세대 HBM 선보이며 “中보다 기술 우위”",
+      "office": "동아일보",
+      "date": "20261015",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755047"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
