@@ -273,6 +273,32 @@
     "is_correction": false
   },
   {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기타경영사항(종속회사의주요경영사항)              ",
+    "rcept_no": "20261014800640",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800640",
+    "is_correction": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기타경영사항(종속회사의주요경영사항)              ",
+    "rcept_no": "20261014800638",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800638",
+    "is_correction": false
+  },
+  {
     "company": "SNT에너지",
     "stock_code": "100840",
     "sector": "전기·전력",
@@ -473,6 +499,19 @@
     "sector": "바이오",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "바이오",
+    "title": "투자판단관련주요경영사항              (CTP13 SC(짐펜트라) 한국 임상 3상 시험계획 승인)",
+    "rcept_no": "20261014800646",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800646",
+    "is_correction": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "실적",
     "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
     "rcept_no": "20261012800004",
@@ -569,6 +608,19 @@
     "rcept_no": "20261012000227",
     "rcept_dt": "20261012",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000227",
+    "is_correction": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "횡령ㆍ배임혐의발생              ",
+    "rcept_no": "20261014800616",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800616",
     "is_correction": false
   },
   {
@@ -777,6 +829,32 @@
     "rcept_no": "20261014000146",
     "rcept_dt": "20261014",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000146",
+    "is_correction": false
+  },
+  {
+    "company": "더블유씨피",
+    "stock_code": "393890",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261014000451",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000451",
+    "is_correction": false
+  },
+  {
+    "company": "더블유씨피",
+    "stock_code": "393890",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261014000445",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000445",
     "is_correction": false
   },
   {
