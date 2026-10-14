@@ -65,6 +65,19 @@
     "is_correction": false
   },
   {
+    "company": "테크윙",
+    "stock_code": "089030",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+    "rcept_no": "20261014900085",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900085",
+    "is_correction": false
+  },
+  {
     "company": "솔브레인",
     "stock_code": "357780",
     "sector": "AI 반도체",
@@ -286,6 +299,32 @@
     "is_correction": false
   },
   {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261014000060",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000060",
+    "is_correction": false
+  },
+  {
+    "company": "에너토크",
+    "stock_code": "019990",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "전환가액의조정              ",
+    "rcept_no": "20261014900109",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900109",
+    "is_correction": false
+  },
+  {
     "company": "한화에어로스페이스",
     "stock_code": "012450",
     "sector": "우주항공",
@@ -377,6 +416,32 @@
     "is_correction": false
   },
   {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "증권신고서(합병)",
+    "rcept_no": "20261014000077",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000077",
+    "is_correction": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20261014900099",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900099",
+    "is_correction": false
+  },
+  {
     "company": "올릭스",
     "stock_code": "226950",
     "sector": "바이오",
@@ -413,6 +478,19 @@
     "rcept_no": "20261012000227",
     "rcept_dt": "20261012",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000227",
+    "is_correction": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "조회공시요구(풍문또는보도)              ",
+    "rcept_no": "20261014800003",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800003",
     "is_correction": false
   },
   {
@@ -543,6 +621,19 @@
     "rcept_no": "20261008000733",
     "rcept_dt": "20261012",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000733",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "풍문또는보도에대한해명(미확정)              ",
+    "rcept_no": "20261014800059",
+    "rcept_dt": "20261014",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800059",
     "is_correction": false
   },
   {
