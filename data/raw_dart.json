@@ -39,6 +39,32 @@
     "is_correction": false
   },
   {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261015000392",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000392",
+    "is_correction": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261015000384",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000384",
+    "is_correction": false
+  },
+  {
     "company": "테크윙",
     "stock_code": "089030",
     "sector": "AI 반도체",
@@ -88,6 +114,32 @@
     "rcept_no": "20261013000258",
     "rcept_dt": "20261013",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000258",
+    "is_correction": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261015800468",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800468",
+    "is_correction": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "결산실적공시예고(안내공시)              ",
+    "rcept_no": "20261015800458",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800458",
     "is_correction": false
   },
   {
@@ -156,6 +208,32 @@
     "is_correction": true
   },
   {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261015000258",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000258",
+    "is_correction": false
+  },
+  {
+    "company": "비에이치아이",
+    "stock_code": "083650",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
+    "rcept_no": "20261015900738",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900738",
+    "is_correction": true
+  },
+  {
     "company": "두산에너빌리티",
     "stock_code": "034020",
     "sector": "전기·전력",
@@ -180,6 +258,19 @@
     "rcept_dt": "20261014",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800638",
     "is_correction": false
+  },
+  {
+    "company": "현대무벡스",
+    "stock_code": "319400",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261015900637",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900637",
+    "is_correction": true
   },
   {
     "company": "고영",
@@ -260,6 +351,19 @@
     "is_correction": false
   },
   {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261015800691",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800691",
+    "is_correction": false
+  },
+  {
     "company": "우진",
     "stock_code": "105840",
     "sector": "원전·SMR",
@@ -270,6 +374,32 @@
     "rcept_no": "20261014000060",
     "rcept_dt": "20261014",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000060",
+    "is_correction": false
+  },
+  {
+    "company": "우진엔텍",
+    "stock_code": "457550",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주권매매거래정지해제              (상장적격성 실질심사 대상 제외 결정)",
+    "rcept_no": "20261015900690",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900690",
+    "is_correction": false
+  },
+  {
+    "company": "우진엔텍",
+    "stock_code": "457550",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기타시장안내              (상장적격성 실질심사 대상 제외 결정)",
+    "rcept_no": "20261015900521",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900521",
     "is_correction": false
   },
   {
