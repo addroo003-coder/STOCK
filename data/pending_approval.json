@@ -60663,7 +60663,7 @@
     "sector": "바이오",
     "category": "기술",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[단독]월1회·최대 3개월 내세웠던 펩트론…특허 속 효능시험은 최대 2주 간격 - 팜이데일리",
     "source_type": "news",
@@ -60677,12 +60677,17 @@
         "press": "팜이데일리",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xUFc5RXhGZE81RWF6RnJQQlVuS1ZZSmdsZ2JqQk51cURfYUY5SVFyNTN0VFVOdHllZHZGVFZYRkgwVHRUOGpwMFhRZklJOWZaMFRHWEtVRmdkZVA1XzZPUG9tSlJPdWdNVDdrc3V3?oc=5",
         "pub_date": "Sun, 11 Oct 2026 22:00:10 GMT"
+      },
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTFWa2VzWTBYUHpNUUthNzVlaDdORU9zLVc2N09hR05tLUtuWjJIY19xMWpYaUlMYTJPRldaclJoNDBkazRkV2M3T1dhVW1nQWJzMERDQUNVaHRqeXZnX1ZNUzlVT01ub0F5Y0d1MmJVVEdtb3pBMnN5UnlRWnBqZw?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 22:02:03 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "087010-기술-45958-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-15",
     "status": "일반",
     "stale": false
   },
@@ -67748,6 +67753,203 @@
     ],
     "source_count": 1,
     "id": "229640-기타-50041-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS證 \"에스원, 자사주 매입·소각 등 주주환원 확대… 목표가 11만5000원으로 상향\" - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVJ2NmRESGtUWXNkOWdTSVVrdGZ0UElESmFUOUpEMFlQeUFrakM3Z0Vwem5MQzdLR2lfbWpqT0RHaHFnUVh0X1JLTVhNRjJLT0tjT08xdmtPbXBNTGdrS2dLR01Ec2NsQ0l5UEVNQThSODJkM2UzSWx5WVRnb3hNMHQ5NlhDUzQx?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 22:57:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-자본-50096-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"두산에너빌리티, 연내 SMR 추가 수주 기대…목표가는 하향\"-하나 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51TG1MYjNfaXJLemNBUGN2Zng4WDhtaDVZUnoxdDVXME9QMHJKa2ZISWJGOW5Ta0NJTVg2dV9lcFVrSHMtVFROZ1MzQmJ0VjFYVVhRY0liMXRNZw?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 22:56:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-수주-50102-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, 연내 SMR 추가 수주 기대…북미·사우디로 원전 영토 확대 - 파이낸셜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BWmlLdjBnaHJTV2VkNm9kazgyME5fVmtmQ1Q2TFd2X0VRZ3NXZWxleGJ6cVRiaTNhUjdPT2V2SVpxR09BVnlVVThDZU9qbm9YSzB5Nm94WTItQQ?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 22:12:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-수주-50103-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하나증권, 현대건설 목표가 13만5000원 유지...“주택이 플랜트 부진 만회” - 이지경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이지경제",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkV0RhaVRGT05NeGM5OHBTSEhGLV9DTXNQZUpXY2ctZ05BVzlsLVB1MFMzV3NaaDJsZ1hQUm54bUpla0V0eUFldHpXdWFkU3Zsa0JIckZVbkhKem93Q1hFVVdjVW8wOXlVVS00SmZ3?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 22:30:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-50108-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽 소화기학회서 램시마SC 조명 - 중소기업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중소기업신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LRldxbjROYmJnU1NReWVIWkhSQmpaS2FVOVVVVXl0Y2JfWi1sZHlKNUJKM1hmSE1uZXJ5dTBOa0k4dTFDOHdIVHVuZ3Y1YjJ5a0s1T3RKOUthSjFPamZyM3JleDFNbEYtNGtVa2dn?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 06:33:07 GMT"
+      },
+      {
+        "press": "이코노미스트",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xdWhOQ3hialpod2NkeHBXeFVzTmdLM2twYjRqeFlSZmVNVFlLTmdneGpKbDhkajBYYTZmQURKR0FVLWJidk8xMDdfLTBoeWRnTFBVQU9qZENMb3pjdHM5UXZR?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 02:48:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "068270-기타-50120-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'외산의 무덤' 日 장벽 넘은 셀트리온…김호웅 부사장 “내년 도입 제품 2배 확대” - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cUlFaXkxeWpldWk4TDlYNGJkamc1cGJwYzhuVVdNUElGTTlpLXdITzZ6UC1KbVNsbkg4c0s0ZUxNdnQ2SUUxTTExNVMyZw?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 23:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-50121-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"휴젤, 美 판매체제 전환에 3분기 실적 부진…목표가↓\"-현대차 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHdWE1cmFrNHJnaXR0OFlYSjBWWXN6LXBYSUo0MXU0TU9kYUFSRE81VV94alZmdnhfbktVX3dfQ1JuOW42cmFNSVVTSElnSXNyQWp2MjhqdjlMZw?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 23:05:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-실적-50137-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LFP 수주 확대에 생산기지 확충…포스코퓨처엠, 양·음극재 사업 강화 - MTN 머니투데이방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "MTN 머니투데이방송",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NREFteDNoOTlQTFY3OW9IOTNwZ0k5YjVUOUZSeW9RWGRKaFBQN1d0dHI4TEtRamF1Mm1ickV4bV9mUFBwVjF5bXd1Z0luQWFiNkpnbUdLcVkwZndxdTZV?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 23:04:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-수주-50146-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
     "status": "일반",
