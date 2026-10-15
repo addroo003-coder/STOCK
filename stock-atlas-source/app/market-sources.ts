@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "김태한 HLB 회장 \"리보세라닙 생산시설 이슈 해소… FDA 통과 확신\"",
-      "office": "머니투데이",
+      "title": "삼성바이오 노조, 파업 불참자에 벌금 거론… 내홍 확산 위기",
+      "office": "파이낸셜뉴스",
       "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427071"
+      "url": "https://n.news.naver.com/mnews/article/014/0005590034"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“10만원까지 빠져라, 주식 더 받는다”…삼성전자 직원 익명글에 뿔...",
-      "office": "매일경제",
-      "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749356"
+      "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
+      "office": "동아일보",
+      "date": "20261016",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755341"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -669,10 +669,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "‘검은 목요일’ 고수는 삼성전자·전기 던지고 삼전우·배터리 ‘줍...",
-      "office": "서울경제",
+      "title": "‘AI 수익성 쇼크’에 외인 8일째 대탈출…코스피 7.57% 폭락 [투자360...",
+      "office": "헤럴드경제",
       "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671544"
+      "url": "https://n.news.naver.com/mnews/article/016/0002709950"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "'엔비디아 깐부' LG전자, 'AI 데이터센터 발열 잡는 법' 직접 소개",
-      "office": "머니투데이",
+      "title": "정기선號 1년 … 조선해양 넘어 원전·AI에 'HD현대' 각인",
+      "office": "매일경제",
       "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/008/0005426863"
+      "url": "https://n.news.naver.com/mnews/article/009/0005749246"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "AI 전력난에 ESS 급성장…K배터리 3사, 북미 공략 강화",
-      "office": "뉴시스",
+      "title": "[간추린 단신] LG에너지솔루션, 문화체험 후원금 기탁 외",
+      "office": "KBS",
       "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/003/0014256594"
+      "url": "https://n.news.naver.com/mnews/article/056/0012274621"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼전닉스 뒤흔든 CXMT도 'AI 거품론' 충격…시총 1위 반납",
-      "office": "머니투데이",
-      "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427115"
+      "title": "“빅테크, AI 투자금 반도 못 건져”… ‘투자 절벽’ 오면 반도체 치...",
+      "office": "조선일보",
+      "date": "20261016",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004162"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
