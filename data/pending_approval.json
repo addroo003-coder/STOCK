@@ -67044,7 +67044,7 @@
     "sector": "우주항공",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한국항공우주, 3분기 실적 전망… KF-21·FA-50 수출 확대 기대 - 비즈니스리포트",
     "source_type": "news",
@@ -67053,9 +67053,14 @@
         "press": "비즈니스리포트",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ic00xemNSUEhLT1lkYlJQanR3bWVpdmpZcjNERk1CSVZROW9QTWZVZGdYU3k1MnVyWk5KY29fVTdJOUY5bTRlaUEzNWh3bVpmXzdlQzNCUlZqR1lubWY3MDJuTzZiR3pjTk9sVHdydw?oc=5",
         "pub_date": "Thu, 15 Oct 2026 02:46:36 GMT"
+      },
+      {
+        "press": "뉴스락",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRC1ZZDlIaW9QcnptOXdOSHlyTElLNDdwSzdfYm96bDAweTlYdFIzSmxNdkU0QzExNmcwT2E0VTN2Zkl6eEc4czNWRGdad0hSaXl2UFlZeHZtVHVOeXEtekpVcHRQNldEN19jag?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 01:42:13 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "047810-실적-49573-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
@@ -67092,7 +67097,7 @@
     "sector": "바이오",
     "category": "리스크",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[단독] 삼성바이오로직스, 롯데바이오 임원 상대 소송서 ‘패소’ - 블로터",
     "source_type": "news",
@@ -67101,9 +67106,14 @@
         "press": "블로터",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uVlRPMlhKTmxidldoZDBnQ3gzSW12aUN0dTA2d2szRnFhZlFuLXhnMkxlZjZoVmhZM1p3T2VuSlBaYWdjZGpBZE1yM3ZIR2R2QW9rX1pMWUpYYnE2enpoNVlvRmM1bzB00gFsQVVfeXFMTkIwcmJlXzZLZVp1dElHYXRZdVVuWlh4bnUwNUdzS1RoQWFBMU1IWlV5SVgzc00zaV9TNGd6U1c0Z2ZTZjdfdFRQVWp2Wi1QR3h4VnRERDg1R0w3QldoT0ZHa3FYVkZrVkFSQkRN?oc=5",
         "pub_date": "Thu, 15 Oct 2026 02:09:41 GMT"
+      },
+      {
+        "press": "Daum",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kU1ktYi0ySzFBRGNldmJaMmJobjZzNk1LS0FoZjhuOVdOTlRvQ2F6eWQwNk9TeVJReEFteGRaSVpUcXlxUWc?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 02:32:02 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "207940-리스크-49598-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
@@ -67130,9 +67140,14 @@
         "press": "한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mQTlaekQ1U0l3YUVxbFVxbDI0enBKZ09zQVNtc2pmcXZiSW9sdnYtSU9BQVgyQXE2XzdyN194dk1aOHkybmZVVXlhMDBvZk5HTGQ0VUdTV3pxUQ?oc=5",
         "pub_date": "Thu, 15 Oct 2026 00:00:04 GMT"
+      },
+      {
+        "press": "비즈트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NOHpnbDYzckNCbThBSXZLQ0FHTk1qcUJRYkxmZWlMR0pYVEVqRnltWWV6ZV9OQ3ozRUVJYW9VM21SSHpDT21iMzlIajI5UkczNnp3YTZ1S2s4ZTFQSjFIUTZaWHpieFVTQ2Z2cU9WOE4?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 07:16:32 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-49609-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
@@ -67517,7 +67532,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "유한양행 '버들장터', 환절기 케어 제품 최대 78% 할인 - PRESS9",
     "source_type": "news",
@@ -67526,9 +67541,14 @@
         "press": "PRESS9",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaRVA5X242RWVPRzZfLW11a1BfeS02VW03R083aFIzc1F5OUo3N0ZMNVplU1JGdXBiOXdVY0Y4cTBCaG5ka0VnT3R0Z21GRC1wXzhlMlBXcFQyb0xnbzRCZzlIRng?oc=5",
         "pub_date": "Thu, 15 Oct 2026 08:37:54 GMT"
+      },
+      {
+        "press": "스트레이트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sT3k3QWVTTmFsT08yZHFfUjJfRE1FdHZ2NU5qN3lYVjRzMjlpa1pqblo3MUhUOXV4Q1MwNlZQWlNyVm1fRGV3Y2REM1p5c3NqOUM1Ynd0aldqZlhWVU9QRWZhZmsxNVAzQWRxLVA0a1h0LWgxUE4w0gF3QVVfeXFMTmxPeTdBZVNOYWxPTzJkcV9SMl9ETUV0dnY1Tmo3eVhWNHMyOWlrWmpuWjcxSFQ5dXhDUzA2VlBaU3JWbV9EZXdjZEQzWnlzc2o5QzVid3RqV2pmWFZVT1BFZmFmazE1UDNBZHEtUDRrWHQtaDFQTjA?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 12:36:22 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000100-기타-49926-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
@@ -67554,6 +67574,122 @@
     ],
     "source_count": 1,
     "id": "000100-실적-49928-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성·SK하이닉스 주가 폭락…中 반도체 추격에 '2029년 공급 과잉' 경고까지 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZXZhOXVpMEU3ZjdESmdwNzZuTTB5RXVjU05LZ3F5QjdvaDZQelFtMTJ3QjFPUVZ1Ml8waVBCUktvRXlOOVRDeHFRVzlHZVhGN2pmLU5HUXIzdmR3?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 13:24:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-49970-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한전선, 대규모 계약에도 영업현금 '적자'…외부 조달 의존 심화 - 데일리연합",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리연합",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rR19MOUQ1a3Q1WFlwUTJ2N0pwWnptdFBiU05ZSHlBU0poeWpRSWY2a3lNUTJybVRTMVFzSDNKUDgwd2lBNlFLMzU0WWlHLW5uX2Z1MVFZZEhKQUU?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 14:00:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-리스크-49990-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전KPS·신보, 전남광주 중소기업 매출채권보험료 지원 MOU 체결 - 퍼블릭뉴스통신",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "퍼블릭뉴스통신",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWVI2eXd0VU9Qa280N3ZWb2MtUVotQ0VUc1ZOOGpKNUZkNWQxWWJSTWRzQjRMRWUzYWRMOWlPVHZTZjlUWnZpbFhybzdZbDRBamR5Rlh4dEV6YWNKbEF4NlhDelFDRlowbXc?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 11:44:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-실적-50004-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽소화기학회서 램시마SC 경쟁력 알린다 - 연합뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4MUdqTDRucjlIYlZIeFVDNHVDOHdUWl9oMmVlekgwTTEzY19XRExZd1phVW9ETGJLY3QyeDFDNGFjaW5INkI4eXNBdWJrWXBxbzNIbElMQThRN2_SAWBBVV95cUxOZVliVS11SDVmaU9SanJoTWVadUN5bEtmdWUyQUJieEFlSXcxem50ODI5eEtEekpLVVFmaU1kbGdyZzV6ZkozRkkzMFNYUV9uRWdEcWlqZFhwWC1BUTBhc2g?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 00:28:15 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFlGSTJ5djFlSW1OQ195V3JBMkp1UEZJTHpMVHZsR3RyUjBLOXA4Q21KaHBjTFRRX011SUc5Sy05bFhxQ0VVSlpQdi04LS1UYzlMajJEM2Y3WkhwQTRfak9qQmxOVFk0T05EeTRIN0xfdkRiT1VHZ2x6VmxhN1ZNUVlFckJvV211N1RNT0NuaXU3Q0tjRlhZWnBPQdIBmwFBVV95cUxPTFlGSTJ5djFlSW1OQ195V3JBMkp1UEZJTHpMVHZsR3RyUjBLOXA4Q21KaHBjTFRRX011SUc5Sy05bFhxQ0VVSlpQdi04LS1UYzlMajJEM2Y3WkhwQTRfak9qQmxOVFk0T05EeTRIN0xfdkRiT1VHZ2x6VmxhN1ZNUVlFckJvV211N1RNT0NuaXU3Q0tjRlhZWnBPQQ?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 01:21:00 GMT"
+      },
+      {
+        "press": "이코노미스트",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xdWhOQ3hialpod2NkeHBXeFVzTmdLM2twYjRqeFlSZmVNVFlLTmdneGpKbDhkajBYYTZmQURKR0FVLWJidk8xMDdfLTBoeWRnTFBVQU9qZENMb3pjdHM5UXZR?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 02:48:00 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42ZEQtVHIzWnhQb19VaFNBb2JPNHh2UTFyUnhfTVNHM05hTHlBS0lydFBsV2ZaQ2hNYV95Q3FwSE9LdWNXUGJ5VEpWNjJra2tvOVBMNTFVTFA1SVMtNGdRZ1ZTT2o?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 00:41:57 GMT"
+      },
+      {
+        "press": "중소기업신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LRldxbjROYmJnU1NReWVIWkhSQmpaS2FVOVVVVXl0Y2JfWi1sZHlKNUJKM1hmSE1uZXJ5dTBOa0k4dTFDOHdIVHVuZ3Y1YjJ5a0s1T3RKOUthSjFPamZyM3JleDFNbEYtNGtVa2dn?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 06:33:07 GMT"
+      }
+    ],
+    "source_count": 5,
+    "id": "068270-바이오-50015-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
     "status": "일반",
