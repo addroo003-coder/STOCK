@@ -143,6 +143,19 @@
     "is_correction": false
   },
   {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타법인주식및출자증권취득결정              ",
+    "rcept_no": "20261015800187",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800187",
+    "is_correction": true
+  },
+  {
     "company": "두산에너빌리티",
     "stock_code": "034020",
     "sector": "전기·전력",
@@ -166,6 +179,19 @@
     "rcept_no": "20261014800638",
     "rcept_dt": "20261014",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800638",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261015000099",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000099",
     "is_correction": false
   },
   {
@@ -218,6 +244,19 @@
     "rcept_no": "20261013000126",
     "rcept_dt": "20261013",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000126",
+    "is_correction": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261015800292",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800292",
     "is_correction": false
   },
   {
@@ -335,6 +374,19 @@
     "rcept_no": "20261014800003",
     "rcept_dt": "20261014",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800003",
+    "is_correction": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261015800448",
+    "rcept_dt": "20261015",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800448",
     "is_correction": false
   },
   {
