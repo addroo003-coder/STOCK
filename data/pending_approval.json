@@ -64665,9 +64665,14 @@
         "press": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90dk05MEpRMmh2UUpKZ1ZPZDNzUklOQjlhRTUwSF9BTUFvYm55T1lhTE52S1c2anBqTEZ6d3BYbm5MY3RSc2JvZDN5T09VeVVKMEl1RFZB?oc=5",
         "pub_date": "Wed, 14 Oct 2026 05:06:50 GMT"
+      },
+      {
+        "press": "IT조선",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uNWdOQ1NHY2VvOHQ1UnpRMnBfaDZBY0tHM09mQnRnVV93LXI4bGFlZmt1T2RWS0Ewd216SjM1VXVfZVJTVUdFVFFfN3B6RmhYNEVuN3V3Y0ZEQmo2NlZ2WUlxaFViUkJzUmtnYUlESzNkMzIz0gF0QVVfeXFMT241Z05DU0djZW84dDVSelEycF9oNkFjS0czT2ZCdGdVX3ctcjhsYWVma3VPZFZLQTB3bXpKMzVVdV9lUlNVR0VUUV83cHpGaFg0RW43dXdjRkRCajY2VnZZSXFoVWJSQnNSa2dhSURLM2QzMjM?oc=5",
+        "pub_date": "Wed, 14 Oct 2026 01:59:23 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "096770-기타-48274-20261014",
     "first_seen": "2026-10-14",
     "last_updated": "2026-10-15",
@@ -65607,9 +65612,14 @@
         "press": "이데일리",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0FBM25MNFhzNjd1RmxNN294bG5GeV83RThvSmRveVVYSEtUaDEtY2V0WkRXaUkxQXlKb3A2QTBhZVoyNkpkWWRrOEdDZ2tQSUVFLTdPTjhXRUVKNVNiOUdfTlhleDNMc3JfelJzMVlKQm11UFc5MWV4TmpKUnIzSw?oc=5",
         "pub_date": "Wed, 14 Oct 2026 05:31:19 GMT"
+      },
+      {
+        "press": "한스경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCbWFaYmNvaDJaSmwtRUpqRmo4b2d5TkxOaGJNU1R5eEs4Ni1zSlY3ZXNMQm9PTFdfRnhsekpWV3RkTF80OUJkQVVLVDVOUl9MSXR0Vm96MC1JZU42V2pSb1hEVkk0SmZydHhv?oc=5",
+        "pub_date": "Wed, 14 Oct 2026 08:24:13 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "078600-자본-48724-20261014",
     "first_seen": "2026-10-14",
     "last_updated": "2026-10-15",
@@ -67690,6 +67700,54 @@
     ],
     "source_count": 5,
     "id": "068270-바이오-50015-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'중국산 희토류' 피하는 EU, 베트남으로…LS에코에너지, 시장 확대 '기회' - 신아일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "신아일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZWxyX0cxaTRuallmblJDZGU2X2tLWjNfSXRrYlp6MWFVbHBudmpBOTdkVE9GWHppcWtlVTZ5RHNkZmlkTnV4WkEwVGJGT0I0dEY4eWRWZ19hYVNqWlhENjk3OTh5WDV4eHhPY3czN0Y?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 20:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-50037-20261015",
+    "first_seen": "2026-10-15",
+    "last_updated": "2026-10-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "'중국산 희토류' 피하는 EU, 베트남으로…LS에코에너지, 시장 확대 '기회' - 신아일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "신아일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZWxyX0cxaTRuallmblJDZGU2X2tLWjNfSXRrYlp6MWFVbHBudmpBOTdkVE9GWHppcWtlVTZ5RHNkZmlkTnV4WkEwVGJGT0I0dEY4eWRWZ19hYVNqWlhENjk3OTh5WDV4eHhPY3czN0Y?oc=5",
+        "pub_date": "Thu, 15 Oct 2026 20:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "229640-기타-50041-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-15",
     "status": "일반",
