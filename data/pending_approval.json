@@ -66797,9 +66797,14 @@
         "press": "데일리인베스트",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Pc0JBRVRWR2FNemVjR1BpdFpwQzExU3czdy1SQWQzRTR5cVZpb2VfcElueDFMMFVyMlFyaXdGSHB6Y255eHF5QlJiS0R0dWF3WUplUl9ZMW5uSDZPbHBiUGxFTXBGMHNUWWJtSVhkUdIBb0FVX3lxTE9Pc0JBRVRWR2FNemVjR1BpdFpwQzExU3czdy1SQWQzRTR5cVZpb2VfcElueDFMMFVyMlFyaXdGSHB6Y255eHF5QlJiS0R0dWF3WUplUl9ZMW5uSDZPbHBiUGxFTXBGMHNUWWJtSVhkUQ?oc=5",
         "pub_date": "Thu, 15 Oct 2026 00:25:56 GMT"
+      },
+      {
+        "press": "데일리인베스트",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtdG1WaV9Ka3hzVVN3Vk5HYk5VeE02ZERoX21EZEVZMUZRdXBCY3M1T2JVRGpzTk12THRUSEg2dUtFUnFXNEItTDJZRGxjaTBheUpVT2JLUlBqZUh0TUpqWGE0Z1ZBYlJkendB0gFvQVVfeXFMT09zQkFFVFZHYU16ZWNHUGl0WnBDMTFTdzN3LVJBZDNFNHlxVmlvZV9wSW54MUwwVXIyUXJpd0ZIcHpjbnl4cXlCUmJLRHR1YXdZSmVSX1kxbm5INk9scGJQbEVNcEYwc1RZYm1JWGRR?oc=5",
+        "pub_date": "Wed, 14 Oct 2026 23:05:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "200710-기타-49377-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-16",
@@ -67255,7 +67260,7 @@
     "source_count": 3,
     "id": "068270-기타-49609-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "status": "일반",
     "stale": false
   },
