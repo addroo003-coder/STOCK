@@ -68256,9 +68256,14 @@
         "press": "뉴스토마토",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbU1Ia0NPcXB1bTBsMUdRVGFlTjk5YURDZkFPOF90ZjdPQzU2aV9qZ2NPU3dGemhpS0dMc3hCVy0tWFhqcUMyWmQ5eGRHNmhVZnFXdXZIejI2S2tReUgwMg?oc=5",
         "pub_date": "Fri, 16 Oct 2026 01:03:47 GMT"
+      },
+      {
+        "press": "이코리아",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNTVJUWk5Ud1dVYnZ1eHVBRkR1T2xNYXFQVDZtbF9mcmxuMnRVMFZscGF5Rzh3S0tEWUtmc2lNd3hfWU5JMTc1ZmZmSzl4X20wdEZGZ254d3lpNjEyZVR3YnEtUXp6LUJHRy1YSS1BUQ?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 07:23:02 GMT"
       }
     ],
-    "source_count": 13,
+    "source_count": 14,
     "id": "298040-기타-50235-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-16",
@@ -69454,9 +69459,14 @@
         "press": "뉴스포스트",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WRTUwaVdZLTI4Um95ZXRsZFZ4VlNnVnNwdXVscW1raGE0WHQ5X1pjb25iMFhLLWwxZ1JGeFdRY0Ixd0ZMRVZ3TXc2NzdLR2dIazVYb1B5dERfQ0luZXhqQ2RYYXRzTGZO?oc=5",
         "pub_date": "Fri, 16 Oct 2026 08:07:05 GMT"
+      },
+      {
+        "press": "뉴스포스트",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90SXVKWGdOSGtacXdzSVhqSFhsdTZJVzlsVlNfMWoxSk1NdXBQRmhnOE5tX3pUaXJyaEpjcmxYMWFsRDlrV0hfNkEyV2FORkJkTElHdEdaRXUwY3RLYWNSUzhiUy13T1VVb1E?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 08:07:05 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-50887-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-16",
@@ -69595,9 +69605,24 @@
         "press": "아시아경제",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFVqM1BtbmlnOVoteVNELXhaU1BDNTlyeGZTU2tUdGVFLWVyR18yRUgxWVZBMEhmQU90MHFJbzBUM3dIZWo0STNmSmJ3eGN2VS1qaFQzODFNR2xOT04tVkVxNGZiVmxVZGtOTHRxTDNBemUtakNFelk5YnhjRFNRdFVB?oc=5",
         "pub_date": "Fri, 16 Oct 2026 04:33:00 GMT"
+      },
+      {
+        "press": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NY25KUlk0RFdZcmZycXVRR2pxdl9Dclo1RHNCXzgyMm1WaHBYbWRubUZORU8tZ2Vfd2RVTHhfLTBrMU5lNUdxZUg0WVhqYmk2VkE?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 06:54:38 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zYU5qRFY5cTUzZHFyMzdRaUVLei1MV1lXaXYtNDBxa1k0Z3Z1VXRPQldVLXBId2JsUzZ2Z3o4UW1oWWl3MXJndFdtRUJsSm1VOExIeHg1R0s5N0tKU2VJZV9ob2FSSkdOWTF1aWFoYWJwaHhBRmpV0gF3QVVfeXFMT3NhTmpEVjlxNTNkcXIzN1FpRUt6LUxXWVdpdi00MHFrWTRndnVVdE9CV1UtcEh3YmxTNnZnejhRbWhZaXcxcmd0V21FQmxKbVU4TEh4eDVHSzk3S0pTZUllX2hvYVJKR05ZMXVpYWhhYnBoeEFGalU?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 06:45:40 GMT"
+      },
+      {
+        "press": "데일리바이트(DAILY BYTE)",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDVpYjBwUVRfbmh3N2l4MnBuY2ZwV1FtSHFvQjdJbVEta3hNVl83NnhNX0ZXVFVfRzhzNDNZS180TTNzX0NpdTlnRC1xb1RrVUNWamFnaFlvZkR3TDUxUWstR1hhMmhTTmQ3a3BTcWdKcnJHd0tKMGdBM0QwODliNmRNVVFoNy1uXzBzM01hdzFVTWlUbGc?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 04:37:05 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 7,
     "id": "457550-수주-50900-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-16",
@@ -69767,6 +69792,59 @@
     ],
     "source_count": 1,
     "id": "066970-기타-51102-20261016",
+    "first_seen": "2026-10-16",
+    "last_updated": "2026-10-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[프로배구] 양효진·자스티스 떠나고 조던은 부진...현대건설, 무너진 공수 균형 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VcllUTURyYTV4S2dXV3J3V3BlTlJYb1dwaDFBMC1kYXloR2l4Y1FwaTdIQ3Bwd1dENmZSNGkxYjNDNzRJMGZPeVRHb25TQS1DSF82MmVIM3dVTnd0?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 18:20:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-51121-20261016",
+    "first_seen": "2026-10-16",
+    "last_updated": "2026-10-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성바이오 노조 ‘2차 파업’ 법원 제동…쟁의 금지 공정 9개로 확대 - 경향신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경향신문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rcS1Sd21Eb0UwanpqMUFfbEllZ3pSWXZrT0F1R2dBN2MyR0JFVkctWE5UY01yWWJlYWt2ZDBMTkpZa0lma2ZPWk9SS2p6V0VYeWVSUUl0Uk1vQdIBX0FVX3lxTE54S0dETnBYR1FNN1U2M2tkQUFIX2Q4Y3Y0ZmN2OTQ3Wkg0azZ4TjZUVHpELVJudlQyaHljaDY0OVU3SlJYV0tDZ3JFUUJYUTVydmdFaHB4bHJBZVlhZW1R?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 12:34:00 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ZTVUenN2VEN3OHFObmVZclk0WWpLZmk3a292YXlmWTRQaXdFV25PWXN1b3BoSmlSU2ltc3Z1OVJfQWxVUl9CTFFDSmJoNFpGakRkMHZCRF9JeDZpSWlSMVEydE0?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 11:50:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "207940-기타-51126-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-16",
     "status": "일반",
