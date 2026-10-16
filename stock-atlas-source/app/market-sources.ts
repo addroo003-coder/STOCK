@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "자금난에 발목잡힌 AI 데이터센터 기업들",
-      "office": "조선일보",
+      "title": "고객 사은품으로 '양산' 돌렸더니…'ESG·CSR 리포트' 뚝딱",
+      "office": "머니투데이",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004350"
+      "url": "https://n.news.naver.com/mnews/article/008/0005427670"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
