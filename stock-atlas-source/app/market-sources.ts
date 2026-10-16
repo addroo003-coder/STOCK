@@ -333,10 +333,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오 노조 2차 파업 앞두고 21일 단체행동",
-      "office": "연합뉴스TV",
+      "title": "법원, 삼성바이오로직스 2차 파업 제동",
+      "office": "한국경제",
       "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/422/0000916430"
+      "url": "https://n.news.naver.com/mnews/article/015/0005343501"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "HBM 쌓고 보이지 않는 먼지까지 잡는다…K반도체 장비 총출동 [현장]",
-      "office": "아이뉴스24",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/031/0001066843"
+      "title": "자금난에 발목잡힌 AI 데이터센터 기업들",
+      "office": "조선일보",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004350"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화에어로스페이스, 3분기 영업익 1.2조 전망…\"통합화·대형화로 수...",
-      "office": "뉴시스",
+      "title": "방산·증권·엔터 실적 눈높이 낮아졌다",
+      "office": "한국경제",
       "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/003/0014257973"
+      "url": "https://n.news.naver.com/mnews/article/015/0005343484"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "KAI-한화 인수 논란…14년 전 지분 매각 무산 사례 살펴보니",
-      "office": "더팩트",
+      "title": "방산·증권·엔터 실적 눈높이 낮아졌다",
+      "office": "한국경제",
       "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/629/0000542801"
+      "url": "https://n.news.naver.com/mnews/article/015/0005343484"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "HBM 쌓고 보이지 않는 먼지까지 잡는다…K반도체 장비 총출동 [현장]",
-      "office": "아이뉴스24",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/031/0001066843"
+      "title": "“단일종목 레버리지 신중해야” 보고서 무시하고 출시",
+      "office": "조선일보",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004352"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
