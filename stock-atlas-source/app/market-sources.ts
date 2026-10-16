@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "AI 다음 수혜주는…수익률 77% 톱펀드, 메모리 아닌 ‘이것’ 찍었다",
-      "office": "동아일보",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755559"
+      "title": "삼성전기는 '반토막' 났는데…한 달만에 58% 급등한 '이곳' [대기업 협...",
+      "office": "한국경제",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343525"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "고객 사은품으로 '양산' 돌렸더니…'ESG·CSR 리포트' 뚝딱",
-      "office": "머니투데이",
+      "title": "AI '순환투자', 선순환인가 폭탄 돌리기인가",
+      "office": "데일리안",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427670"
+      "url": "https://n.news.naver.com/mnews/article/119/0003143778"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "AI 다음 수혜주는…수익률 77% 톱펀드, 메모리 아닌 ‘이것’ 찍었다",
-      "office": "동아일보",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755559"
+      "title": "'ESS 모멘텀'에 삼성SDI, 10월 폭락장서 3% 상승 선방[종목현미경]",
+      "office": "뉴스1",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/421/0009233206"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "전력 인프라와 디지털 기술의 동맹… HD현대일렉트릭-LG CNS 데이터센터...",
-      "office": "한국일보",
+      "title": "HD현대일렉트릭·LG CNS 손잡았다… AI 데이터센터 전력망 ‘정조준’",
+      "office": "매일경제",
       "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/469/0000959918"
+      "url": "https://n.news.naver.com/mnews/article/009/0005749649"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "매출 늘어도 이익은 줄어…K-양극재 3Q 수익성 '주춤' [배터리레이다...",
-      "office": "디지털데일리",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/138/0002245025"
+      "title": "'ESS 모멘텀'에 삼성SDI, 10월 폭락장서 3% 상승 선방[종목현미경]",
+      "office": "뉴스1",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/421/0009233206"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“단일종목 레버리지 신중해야” 보고서 무시하고 출시",
-      "office": "조선일보",
+      "title": "AI '순환투자', 선순환인가 폭탄 돌리기인가",
+      "office": "데일리안",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004352"
+      "url": "https://n.news.naver.com/mnews/article/119/0003143778"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
