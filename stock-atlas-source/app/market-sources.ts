@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "AI주 폭락에도 비트코인은 선방…반등 조건은[도예리의 디지털자산 노...",
-      "office": "서울경제",
+      "title": "[속보]‘삼전·닉스 추격’ CXMT, 분기 매출 600%↑ 기대",
+      "office": "문화일보",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672231"
+      "url": "https://n.news.naver.com/mnews/article/021/0002825808"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "“아파트 핵심 구조물도 공장에서 미리 제작”…현대건설, PC 공법 적...",
-      "office": "동아일보",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755529"
+      "title": "[스타트UP] “어린이 숏폼 넘어 성장 플랫폼으로” 키즐링, AI로 어린...",
+      "office": "조선비즈",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198542"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "수소차와 트램, 로봇까지…현대차그룹의 미래 한 눈에",
-      "office": "머니투데이",
+      "title": "웨어러블 로봇 기업 ‘휴로틱스’, 250억 투자 유치",
+      "office": "서울경제",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427703"
+      "url": "https://n.news.naver.com/mnews/article/011/0004672258"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1663,10 +1663,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "전력·모듈러 이어 ‘냉각’까지…GS건설, AI 데이터센터 밸류체인 넓...",
-      "office": "스포츠서울",
-      "date": "20261015",
-      "url": "https://n.news.naver.com/mnews/article/468/0001272707"
+      "title": "GS건설, AI데이터센터 시공 경쟁력 강화…액침냉각 통합설계 개발",
+      "office": "블로터",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091720"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "AI주 폭락에도 비트코인은 선방…반등 조건은[도예리의 디지털자산 노...",
-      "office": "서울경제",
+      "title": "SK하이닉스 청주 공사현장서 끊어진 케이블에 근로자 2명 다쳐",
+      "office": "SBS Biz",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672231"
+      "url": "https://n.news.naver.com/mnews/article/374/0000538331"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
