@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“삼성전자 7만원, 하이닉스 20만원” 외치더니…“1년 후 적자” 공포...",
-      "office": "헤럴드경제",
+      "title": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증",
+      "office": "주간조선",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710692"
+      "url": "https://n.news.naver.com/mnews/article/053/0000062355"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증",
-      "office": "주간조선",
-      "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/053/0000062355"
+      "title": "이형일 \"반도체 호황 최소 내년까지 지속…수요·공급 격차 여전\"",
+      "office": "이데일리",
+      "date": "20261018",
+      "url": "https://n.news.naver.com/mnews/article/018/0006390528"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
