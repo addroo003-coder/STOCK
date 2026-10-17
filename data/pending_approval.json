@@ -69062,9 +69062,19 @@
         "press": "팍스경제TV",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HbXZkRXREZ1dZX0pJek54TGk1NlV0cVNRX3gyZFh6T3hsbkYxYXd4WkExeEtWVzk5ZGM5Y21OUjZVUGFRNnJ5VE9GSzRCb0ZlMUZmSzAwczc3c2NlRWZfb3Q3RnQ0blE?oc=5",
         "pub_date": "Fri, 16 Oct 2026 00:32:19 GMT"
+      },
+      {
+        "press": "웹이코노미",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54VGg1Nl9zekcxXzl4Qk1MMTlNS0txYjk1VlprZGtzZWFXaHdEeXZBREZZekVuTnVoUFJjaVJ6SXEzd1dBS19vTVpBdTdQeHp2OXBfNG83S29URUF5UHMyUm9MQmRtc1E2WmR1OE9DTl9OUQ?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 02:15:18 GMT"
+      },
+      {
+        "press": "데일리머니",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LUk3am1qaUZtUHM3RWphUmFDVkh3VDU2RG0zNG9oTTRUMG5jRkNENFp5Wm9va1JjTWdxcXhwUk9VZjFXMmJpZ2N0MUFqSy02dTFIUFpQQXRpSlJVT2hKb0otRlVhcEEtTFR6dXNIZzdPWHZycHfSAXZBVV95cUxNdi1JN2ptamlGbVBzN0VqYVJhQ1ZId1Q1NkRtMzRvaE00VDBuY0ZDRDRaeVpvb2tSY01ncXF4cFJPVWYxVzJiaWdjdDFBakstNnUxSFBaUEF0aUpSVU9oSm9KLUZVYXBBLUxUenVzSGc3T1h2cnB3?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 00:02:25 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 17,
     "id": "298040-기타-50493-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-17",
@@ -70102,6 +70112,54 @@
     ],
     "source_count": 1,
     "id": "005930-기타-51545-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“삼성전자 7만원, 하이닉스 20만원” 외치더니…“1년 후 적자” 공포 확산, 왜 자꾸 이러나? - 헤럴드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RT2dRLVRhdDV6R2dHbFhjMzJQOUpjbVFQWjBDQllVLUtjSzViNjMzZ0pfZjFVSDVBN01KUm82OGx3eG5YSk5jWkFqVTZPbktoWTY1V09n?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 11:40:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-리스크-51605-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "머스크 \"중국, 2028년 RAM 대량 생산\"…삼성·SK하이닉스 경고 - 리드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "리드경제",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkaFdMbW05SEk2VEp4QnhrTHVKeElTbkVqcWNrelhJeTNMSmtmWWNhcXdZdTJlUzlyQkZMeVNKLUgwVVNWOE5DRDhwNnI5UTVUWkhzYnVVOHU3VW8yOFE2Q2lESTZkcDBtcWJfeFBnZmo?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 14:57:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-51606-20261017",
     "first_seen": "2026-10-17",
     "last_updated": "2026-10-17",
     "status": "일반",
