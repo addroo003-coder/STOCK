@@ -66711,7 +66711,7 @@
     "source_count": 1,
     "id": "005930-실적-49335-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -67623,7 +67623,7 @@
     "source_count": 1,
     "id": "051600-기타-49855-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -67686,12 +67686,17 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmVVJyVVd5NGdjWWMtUWxqdjRaRkJMNWF2LWo4Q3dwamI5UkJSd1Z4Ym1tWEEyVUxqeE4wQjRPbDZjb1htOUYxb2RTOTJCRmRpR0h2dmM0VVRDQXVp?oc=5",
         "pub_date": "Thu, 15 Oct 2026 23:39:00 GMT"
+      },
+      {
+        "press": "스페셜경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEa2hWTVktSEhKZmh6VnNhTWxkblI2NS1lTUZ3eVFrdVM0eHptTXN1ak5xb3NHRjlCc2xkRnd3WEtWM0kyc2czamF0RHVaWWhxRU45aDRXM3RGMUx1Wk0xbTdHQmFuaGgxaW9leA?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 04:24:06 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "000100-기타-49926-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -67763,7 +67768,7 @@
     "source_count": 1,
     "id": "001440-리스크-49990-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -68009,7 +68014,7 @@
     "source_count": 3,
     "id": "068270-기타-50120-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -69903,6 +69908,102 @@
     ],
     "source_count": 1,
     "id": "195940-기타-51289-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "커지는 파운드리 역할…SK하이닉스, 복잡해지는 셈법 - MTN 머니투데이방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "MTN 머니투데이방송",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXUVhEX2o2emdKSDcydE1MVEt6Z1o1S3R6MmdmSTNTYXAtUG5wcUxQNUY1QW9lZ2lwdmMzZTU0MERwWUUtb1kxLWxvOFM5N0hmak12bVdfU2k2WDU3TVJB?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 01:00:30 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-51317-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대건설, 공동주택 PC 공법 확대…탈현장건설 속도 - BBS불교방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "BBS불교방송",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WWTl3VGRYWGtEcmxNUm1BbkZFNmY3a3VoSHZ1M2FuY3FYOERjOHd3U0h3MWNWOUUyZmkxTzROMC1wOUNuY3luOVVNb2VKSE10VFg4M05JdWFiZjNUSWhOYWJOLU0yM0l5dndJ?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 02:54:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-51364-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대건설, 플랜트 부진 주택이 메웠다…3분기 영업이익 103% 증가 전망 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50SG1hQXJYR0pyLWRiVWtCcnZjbmFSbmxndFV0bkNDNVltUjZxVFJ5NGMxc2hYSy14bkQtUWw5aTBhZ0MzbG1ET0ZKTWpOMWh2b0VGdlgxem9UWUt1NmR5YUJzVnkwQk1hOExVRVRYZjhSdHBqWTlZ0gF3QVVfeXFMTnRIbWFBclhHSnItZGJVa0JydmNuYVJubGd0VXRuQ0M1WW1SNnFUUnk0YzFzaFhLLXhuRC1RbDlpMGFnQzNsbURPRkpNak4xaHZvRUZ2WDF6b1RZS3U2ZHlhQnNWeTBCTWE4TFVFVFhmOFJ0cGpZOVk?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 03:24:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-실적-51365-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG디스플레이 68억·LG에너지솔루션 6억 배임 혐의 고소...LG 계열사 공시 지연 논란 : 기업·산업 - 재경일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKaFNDYkhVYjVPUG9TUVZ2b1V4YmxnUEVpSmswMkxMX3Fqa2pNcFFjWFREQklYTGlOQzdjejBONUJlWlBsTkYwc1c0SQ?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 00:56:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-51401-20261017",
     "first_seen": "2026-10-17",
     "last_updated": "2026-10-17",
     "status": "일반",
