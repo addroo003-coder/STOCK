@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[속보]‘삼전·닉스 추격’ CXMT, 분기 매출 600%↑ 기대",
-      "office": "문화일보",
+      "title": "“삼성전자 7만원, 하이닉스 20만원” 외치더니…“1년 후 적자” 공포...",
+      "office": "헤럴드경제",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/021/0002825808"
+      "url": "https://n.news.naver.com/mnews/article/016/0002710692"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스 청주 공사현장서 끊어진 케이블에 근로자 2명 다쳐",
-      "office": "SBS Biz",
+      "title": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증",
+      "office": "주간조선",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538331"
+      "url": "https://n.news.naver.com/mnews/article/053/0000062355"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
