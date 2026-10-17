@@ -68291,9 +68291,14 @@
         "press": "웹이코노미",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54VGg1Nl9zekcxXzl4Qk1MMTlNS0txYjk1VlprZGtzZWFXaHdEeXZBREZZekVuTnVoUFJjaVJ6SXEzd1dBS19vTVpBdTdQeHp2OXBfNG83S29URUF5UHMyUm9MQmRtc1E2WmR1OE9DTl9OUQ?oc=5",
         "pub_date": "Sat, 17 Oct 2026 02:15:18 GMT"
+      },
+      {
+        "press": "데일리매거진",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xZkpPZlFjR3BlR1Vrd0RkSUVhOUFreXZ1Und2Y1dfYnJhdXRCRHlpWXdwcXhJUDRuZkJsbXRKdTFVQW5TdEZ3dms3RjEyZFExSkwxc1piaE1KR3BFbnBHck5IYWh5LXNWWjkwV3dISU95MmRveExj?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 00:19:03 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 16,
     "id": "298040-기타-50235-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-17",
@@ -70175,6 +70180,30 @@
     ],
     "source_count": 1,
     "id": "000660-기타-51606-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠, 분기 최대매출 경신...1조1930억 달성 - CatchNews",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CatchNews",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdUZYcVloaGJpQTBFT3l2bDM0M1RvNkVFQlRkRUxyRGtCcHdTQTZiVzBZOVBVdDVIYkhKbGJvQkh1WFVZVnluQjFISVZGQjAwamJmUW1lc2JBM21OSnhWcll6eVpjUnNaY3fSAW5BVV95cUxPejI5ekhseGJoSk5qc0cwLUZQUnNNQWtzbWsyeG16bTNVS0RsZHdHcFlMS092QjRodGpiSFNjeE91UnFrdGdGbTRIazFlT0RZa29ReE5sdW5Eekh2NUx1LU5wMHJxdktQcF9rU1pOdw?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 08:38:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-실적-51719-20261017",
     "first_seen": "2026-10-17",
     "last_updated": "2026-10-17",
     "status": "일반",
