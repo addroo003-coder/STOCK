@@ -67609,7 +67609,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한전KPS·신보, 협력사·지역中企 동반성장 지원…기업당 최대 300만원 - 부산일보",
     "source_type": "news",
@@ -67618,9 +67618,14 @@
         "press": "부산일보",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wMnktUWcxV1VxekZ0ZzdfOVJFZG1UWEFZMTRxd3diQU9hdVhfQ0RYajlZMHE3WHk5VU5hV0dxNFppNnNpQm9nQUdfVXdkU0Q3RWtKZHB3NndaWGUwUXVRNDBVUng0RGxVYmlmdWhHUkhaZVRfWFBralJSVQ?oc=5",
         "pub_date": "Thu, 15 Oct 2026 06:45:10 GMT"
+      },
+      {
+        "press": "한국전력신문",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZXk1MDcxaHVZTTVPOW9QZ3lrTXo4TWQ0TXBseWkxRjdtMk0tZHRoM3RtZDJTYUlFRzhuT1pkRXQ1Wmc1SEhNT3hkM2ZoVjV6emlmaV83OGYwbENaREtfYjdONEhJb1QxMUE?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 10:15:13 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "051600-기타-49855-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-17",
@@ -67860,7 +67865,7 @@
     "source_count": 1,
     "id": "006260-기타-50037-20261015",
     "first_seen": "2026-10-15",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -68305,7 +68310,7 @@
     "source_count": 1,
     "id": "001440-기타-50252-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -68329,7 +68334,7 @@
     "source_count": 1,
     "id": "034020-기타-50259-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -68501,7 +68506,7 @@
     "source_count": 4,
     "id": "000720-기술-50287-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -68535,7 +68540,7 @@
     "source_count": 3,
     "id": "000720-기타-50289-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -69210,9 +69215,14 @@
         "press": "서울경제",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UNHYwUjhOQTlYYTY2NTRmQ0p0VDlKUV9iOGRURU1RZ24ydEFuRWluQ3BoT1pZVFg2STRLcEgyLWtOS3E3OXAxSjJUTWdHc1gyZ2Vv0gFTQVVfeXFMT1Q0djBSOE5BOVhhNjY1NGZDSnRUOUpRX2I4ZFRFTVFnbjJ0QW5FaW5DcGhPWllUWDZJNEtwSDIta05LcTc5cDFKMlRNZ0dzWDJnZW8?oc=5",
         "pub_date": "Fri, 16 Oct 2026 00:06:48 GMT"
+      },
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wd3d4NHh5OC1memprTVFOQU1BaGpuMVFNOEdGb2M0NHVoeWhxbjF5c0dOMG0zSXFWUTViMTJtbDJqM0JWeUY4ZWN0QlhlOUV5blHSAVNBVV95cUxPVDR2MFI4TkE5WGE2NjU0ZkNKdFQ5SlFfYjhkVEVNUWduMnRBbkVpbkNwaE9aWVRYNkk0S3BIMi1rTktxNzlwMUoyVE1nR3NYMmdlbw?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 00:06:48 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "195940-실적-50697-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-17",
@@ -69557,9 +69567,14 @@
         "press": "데일리바이트(DAILY BYTE)",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDVpYjBwUVRfbmh3N2l4MnBuY2ZwV1FtSHFvQjdJbVEta3hNVl83NnhNX0ZXVFVfRzhzNDNZS180TTNzX0NpdTlnRC1xb1RrVUNWamFnaFlvZkR3TDUxUWstR1hhMmhTTmQ3a3BTcWdKcnJHd0tKMGdBM0QwODliNmRNVVFoNy1uXzBzM01hdzFVTWlUbGc?oc=5",
         "pub_date": "Fri, 16 Oct 2026 04:37:05 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bk9uSW5BempTRW9VUlVaSE51T1Rpc1ZJaXhhSGE5TjZULUt0UVh1YTJPMzFLTWh1bkl0Si1RdzRKRXVsUmdpV0F4ZUJvaTZpVFMtbmNoNjJrOE14bDJWOdIBeEFVX3lxTE5FdFJ3cUdRNzIxSnMtNWtzS21mRTc5Y0ppQVJNeldCaVpiTDZGYWM0UG1KWGJteEpSR1MwSTFzbERiN2g2akxpOTR2TWZnUlEtUnVNTjBxekdHdUVqREFNUkVKQ0taMzRQeUdvaEljbzJ3emMwQ0pHeA?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 05:01:01 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "105840-수주-50896-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-17",
@@ -69635,12 +69650,17 @@
         "press": "데일리바이트(DAILY BYTE)",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDVpYjBwUVRfbmh3N2l4MnBuY2ZwV1FtSHFvQjdJbVEta3hNVl83NnhNX0ZXVFVfRzhzNDNZS180TTNzX0NpdTlnRC1xb1RrVUNWamFnaFlvZkR3TDUxUWstR1hhMmhTTmQ3a3BTcWdKcnJHd0tKMGdBM0QwODliNmRNVVFoNy1uXzBzM01hdzFVTWlUbGc?oc=5",
         "pub_date": "Fri, 16 Oct 2026 04:37:05 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bk9uSW5BempTRW9VUlVaSE51T1Rpc1ZJaXhhSGE5TjZULUt0UVh1YTJPMzFLTWh1bkl0Si1RdzRKRXVsUmdpV0F4ZUJvaTZpVFMtbmNoNjJrOE14bDJWOdIBeEFVX3lxTE5FdFJ3cUdRNzIxSnMtNWtzS21mRTc5Y0ppQVJNeldCaVpiTDZGYWM0UG1KWGJteEpSR1MwSTFzbERiN2g2akxpOTR2TWZnUlEtUnVNTjBxekdHdUVqREFNUkVKQ0taMzRQeUdvaEljbzJ3emMwQ0pHeA?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 05:01:01 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "457550-수주-50900-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -70004,6 +70024,30 @@
     ],
     "source_count": 1,
     "id": "373220-기타-51401-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성증권 \"세계 원전 2050년까지 784GW로 확대…한전기술, K-원전 수출 수혜 기대\" - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWDctakVZY0tCRmFhM3lZbmZJeUhhTW5rc1BoVkl1RG9hZUN0NnRTSFc2Y0NpVndmR1JES3huOTJieGU0NFFLOEdNT3Fjck5jdEdnT1VrOUhmaUxnVTl2LXNyQ0tjZFFVV3VLSDdtWVBnYlk?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 06:55:48 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-51491-20261017",
     "first_seen": "2026-10-17",
     "last_updated": "2026-10-17",
     "status": "일반",
