@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "AI '순환투자', 선순환인가 폭탄 돌리기인가",
-      "office": "데일리안",
+      "title": "AI주 폭락에도 비트코인은 선방…반등 조건은[도예리의 디지털자산 노...",
+      "office": "서울경제",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/119/0003143778"
+      "url": "https://n.news.naver.com/mnews/article/011/0004672231"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -557,10 +557,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "美 국채금리 하락에 … 모처럼 웃은 韓 바이오株",
-      "office": "매일경제",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749787"
+      "title": "[바이오 문해력]신약기업 공모가, 왜 유한·한미와 비교할까",
+      "office": "비즈워치",
+      "date": "20261017",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051674"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "HD현대일렉트릭·LG CNS 손잡았다… AI 데이터센터 전력망 ‘정조준’",
-      "office": "매일경제",
+      "title": "전력 인프라와 디지털 기술의 동맹… HD현대일렉트릭-LG CNS 데이터센터...",
+      "office": "한국일보",
       "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749649"
+      "url": "https://n.news.naver.com/mnews/article/469/0000959918"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "'ESS 모멘텀'에 삼성SDI, 10월 폭락장서 3% 상승 선방[종목현미경]",
-      "office": "뉴스1",
+      "title": "수소차와 트램, 로봇까지…현대차그룹의 미래 한 눈에",
+      "office": "머니투데이",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/421/0009233206"
+      "url": "https://n.news.naver.com/mnews/article/008/0005427703"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "AI '순환투자', 선순환인가 폭탄 돌리기인가",
-      "office": "데일리안",
+      "title": "AI주 폭락에도 비트코인은 선방…반등 조건은[도예리의 디지털자산 노...",
+      "office": "서울경제",
       "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/119/0003143778"
+      "url": "https://n.news.naver.com/mnews/article/011/0004672231"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
