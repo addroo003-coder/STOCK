@@ -68014,9 +68014,14 @@
         "press": "약업신문",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEUkxFU3NfMThyRnRweVV4VTN1SjVzSjZyZmlXWWk5RWZ0Y25rZjA3TERmcEhKcWRvQXQ4UEltQ0xxVXJncFBXaUs3TVp0UUUyM01xT05YRUwtU2xZSTlXTGh0WE5lMGZxcWtzLUZiakhQTmlUa2M4?oc=5",
         "pub_date": "Fri, 16 Oct 2026 01:18:00 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5va203UHVxd3M5UG5NdURuNndHT1I5TW5RNHhXUGJaVjgxaV9yajRnZzZHZTNhcUJ2N2E2UjltTVBuODNWQ2lZMlprQ1FxRHAzc2FqdXNSN1UzNnNROVUySl9Nb0FoMzh2anhORlFnWXhnczY5enFlTW9R?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 01:18:00 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "068270-기타-50120-20261015",
     "first_seen": "2026-10-15",
     "last_updated": "2026-10-17",
@@ -68281,12 +68286,17 @@
         "press": "이코리아",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNTVJUWk5Ud1dVYnZ1eHVBRkR1T2xNYXFQVDZtbF9mcmxuMnRVMFZscGF5Rzh3S0tEWUtmc2lNd3hfWU5JMTc1ZmZmSzl4X20wdEZGZ254d3lpNjEyZVR3YnEtUXp6LUJHRy1YSS1BUQ?oc=5",
         "pub_date": "Fri, 16 Oct 2026 07:23:02 GMT"
+      },
+      {
+        "press": "웹이코노미",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54VGg1Nl9zekcxXzl4Qk1MMTlNS0txYjk1VlprZGtzZWFXaHdEeXZBREZZekVuTnVoUFJjaVJ6SXEzd1dBS19vTVpBdTdQeHp2OXBfNG83S29URUF5UHMyUm9MQmRtc1E2WmR1OE9DTl9OUQ?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 02:15:18 GMT"
       }
     ],
-    "source_count": 14,
+    "source_count": 15,
     "id": "298040-기타-50235-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -69032,12 +69042,32 @@
         "press": "스마트투데이",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxRS12ZWtOZUh0a1BveUhBTDJOcW1MWUk1MDhudmloc1Y4cHRpNjQzT1A3N2Q5LTVOS1Z3bUFFdE5YMHMwVG9FaGVma2dfOTFLZFZGUFpScVJQclFKbExn?oc=5",
         "pub_date": "Fri, 16 Oct 2026 07:20:00 GMT"
+      },
+      {
+        "press": "KBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzMHVsSWRaNU5aN29ZSW11bWVvVVQtWWJiTVBDWHhXbDluRFY4MTZ1bFZiV0RpQjV2WjNvNWJiMVd1LWFqRWNDWklpZGg4QWlfc2t1M0Q2MGRVNzd2X01DdXc4d3hodw?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 13:12:00 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vMDFjNTRMMXlSSTdTRnBna1N3TVFQT29IakhrazNCWEM1Mkp6b09RQXRZbFlPWjZBUGJQdVZXbHVkTEFsYm5IbTEyY1kzY1BYWkVWVHp1dDhnY3PSAWBBVV95cUxOMTdmLTEyb19HYU1tbGdjWWxhbUQ0ZkxIR1h6WHg1Mnd3bm9pMi1hd1VocEJRdFRtaTdFOFZCUXZ3d2QzY19VbEFLR3JLV0RGNFFsNVYxazlnaHRDNmhBM28?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 00:16:55 GMT"
+      },
+      {
+        "press": "인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vb1J0aV85TGJXOU0wejlzUklaTk03ZGhVSXRscjYzcXNvMzFwMW9DR3NzeURSTVVrd2w3U0lQTkhsRHBmVHlMaHZ3Zk9GYW9FVVoya2QyN3lZVW9JWlVQUmFpQi05TW9FdV9zeDNlemRTVW9BeHc?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 03:28:43 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HbXZkRXREZ1dZX0pJek54TGk1NlV0cVNRX3gyZFh6T3hsbkYxYXd4WkExeEtWVzk5ZGM5Y21OUjZVUGFRNnJ5VE9GSzRCb0ZlMUZmSzAwczc3c2NlRWZfb3Q3RnQ0blE?oc=5",
+        "pub_date": "Fri, 16 Oct 2026 00:32:19 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 15,
     "id": "298040-기타-50493-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "status": "일반",
     "stale": false
   },
@@ -70048,6 +70078,30 @@
     ],
     "source_count": 1,
     "id": "052690-기타-51491-20261017",
+    "first_seen": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 주가 1만원 하락하면 증여세 670억원 감소 추산...‘절묘한 증여 타이밍’ : 경제 - 재경일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KQ0Z3dlQ2emZyZ3d5ME8wby0wbWFvLWFiOFVzRVh0cno0SmFINFlNLTJVcDkya2FhN1ZNTkVBWHdqNWhtWFc4VktLbw?oc=5",
+        "pub_date": "Sat, 17 Oct 2026 04:34:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-51545-20261017",
     "first_seen": "2026-10-17",
     "last_updated": "2026-10-17",
     "status": "일반",
