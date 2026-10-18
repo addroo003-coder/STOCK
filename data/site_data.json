@@ -1060,6 +1060,132 @@
           "stale": false
         },
         {
+          "id": "005930-기타-52710-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[박종면칼럼] 삼성전자·하이닉스 반도체 초호황이 끝나면 - 블로터",
+          "sources": [
+            {
+              "press": "블로터",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IanhhNExETklZb2VzWG4teElZelduRjZ1cHlRWVF0NFgtR3JaQzRsdXp6WmFCSU0ydEUyRHFNZjJOSVRpcXlWZmEtWFN3QTFQWXNyUVVHRnRseXNTMzFpSGlRbXhkcVhu0gFsQVVfeXFMT3MwS1NfWFRKUGRXRXhJWlhqZkJObUhhZWpjME5NWk14SzctUmpjQnVJMDJnQ1dyeXFraXZZeWRpLTNTWDVwS2VKejY1bkNuY1U4SktjelNCcFVXandCWXVHQ054WlVoQ042X0FI?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "005930-기타-52711-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "이재용 삼성전자 회장, 올해 지구 4.3바퀴 돌았다...글로벌 네트워크 다지고 민간 외교관 역할 톡톡 - 소비자가 만드는 신문",
+          "sources": [
+            {
+              "press": "소비자가 만드는 신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4bmk1MVQ5eTM4bHhWeXVtd1dnQVY5VDk5LXBfbTQ4N0pqVTFWaGxVdVBmQ3pqT0RiR2kydmota2RUVndnZV9oQ2lfa1YzUzJoUmVOdGs4U1pQek80MDRnc3prVmlfcXNvSW1CZVNxbFFDUnc?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:11:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "005930-기타-52712-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "삼성전자는 커피, 현대차는 순찰…사옥에 출근한 로봇들 - 아이뉴스24",
+          "sources": [
+            {
+              "press": "아이뉴스24",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wY3JZcFVSRmdDTjJDSGFJdUNWRnJyNnc3N3FoM0dhR2tldlQ0Ul9zYlAwbDF2bFE4WXNPVjFYRnFHRkFjOXBsT2tPSQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 22:00:02 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "005930-기타-52713-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "'이건희 6주기' 맞아 삼성 오너 일가 추모 행사 잇달아...'이재용 취임 4주년' 맞물려 경영 메시지 '관심' - 녹색경제신문",
+          "sources": [
+            {
+              "press": "녹색경제신문",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbGZYeVYweE9rclhpRTF4YkZDblJmNXI3akNWX2c0T2JkOGRSS0ZHQ01ub2FMek9mU1lySDA3bFBDd1hEODVVcHR2UmxBMGRjYkpnUU9UZkxGSmFuUE4yQjRqd3U0Z2tz?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:43:14 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "005930-기타-52714-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "7만전자 외친 전문가의 1년 전 ‘삼성 파운드리 철수 권유’... 결과는 글쎄? [반도체 투자 리포트] - 세계일보",
+          "sources": [
+            {
+              "press": "세계일보",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiMG12MWJEeVRNN3NfQURSUVlTX3YzXzdhS2V4OFBTRjE3ZFFKS2J5U0RQTmx1ODZNd1gwSkpoR0FVUUZfTDlGU1c0RTBOQW5fUmFqU0d1Y1fSAVRBVV95cUxNT3ZKR2tjS0liWG1rY05Oa1YtVFNYYzE1SEJPcEdtMG1wRmhDdFFUbnE3MjNZbkpUSWhST3B6cXE2YmRudFp5dGNzRTczU2ZpRi1Melo?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:17:59 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "005930-기타-52715-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[The Numbers] 100대 기업 임원 될 확률 0.83% '직원 121명당 1명꼴'…삼성전자, 임원수 1108명으로 最多 - 뉴스스페이스",
+          "sources": [
+            {
+              "press": "뉴스스페이스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UemQ5MnBDVWFCQ0JYZTZnekgxcHpBZzIxQlRIM1BjbHRXUUZMQTdtQlgyRTlCNG5JTmZ0cVc3UlNKWlBDaTNSc1NZakNXUXJyQlhrYjZRMUxiWXAzaWZsSg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:01 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "005930-기타-52716-20261018",
+          "category": "기타",
+          "direction": "긍정",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "삼성·TSMC, 첨단공정 활용 HBM 물량 확대…‘메모리 병목’ 뚫는다 - 서울경제",
+          "sources": [
+            {
+              "press": "서울경제",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRVdFVEFjMnFWUEhYWWltSHRYVjJTUERXZGlCb0YxdHU4Uzh5VVVNNXlQZE0yQ3EzRVQxSnFsTmVhYVp2UHhSNmRRLWJCbWtkbVHSAVNBVV95cUxQNUF5TmVoTUo4VEoyZU9VUkpyNDAxV3J5aER4TXBtaVpENDlXYTc0ZGpidmFZQmhEM3JFOGkwLWNBcU5meEJFd2NaVC01THJoQ1hxSQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 08:59:28 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "005930-기타-49327-20261015",
           "category": "기타",
           "direction": "중립",
@@ -43178,6 +43304,150 @@
               "press": "데일리스포츠한국",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSlZneENkdFZSQUI4RTR4QjBMZ1BMMWZyRXFab0l2dXZnc0pLOFdtcFMwbk5IZEZIODdTNlR6T3E5UGw0SXRkRWJhbkRmWEduaFE0eU1EOFM2WDlhQXhQYzRaWGM1akNoOUVOMV9MVTlWcmlIWFR4R0lOQllGVE3SAX9BVV95cUxPaUpWZ3hDZHRWUkFCOEU0eEIwTGdQTDFmckVxWm9JdnV2Z3NKSzhXbXBTMG5OSGRGSDg3UzZUek9xOVBsNEl0ZEViYW5EZlhHbmhRNHlNRDhTNlg5YUF4UGM0WlhjNWpDaDlFTjFfTFU5VnJpSFhUeEdJTkJZRlRN?oc=5",
               "pub_date": "Sun, 18 Oct 2026 14:44:19 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52717-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "SK하이닉스만 임원 늘렸다…대기업 승진문 0.83%의 현실 - 굿모닝경제",
+          "sources": [
+            {
+              "press": "굿모닝경제",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zbXUzekFwM185cThmRE9HMFJ4bTlQbFZTR2lFcnNDZEg0VHFMYTNobVBfZ3MwcFlfc21QWTI5T25PNXRlV0VOZnY1QWpMUUFFcXcwZTZ5cldyMWxXN3pRMEpaa0ZrWVNGWHVsTg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52718-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "반도체주 폭락에 개미 손실 ’눈덩이’…목표가는 2배? - 연합뉴스TV",
+          "sources": [
+            {
+              "press": "연합뉴스TV",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mVmJlUVV1X1kwOVFTRjd3Wld2SERIV3g5WjA5bGQ4T1dMbWxQdmIxa2hkeE91RHZqOHB3V2g3YkZycHZrWXVXVXJuNERnMkM1NUhwUzFETVlLVXNkbU16NHRldW1PUFU?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:24:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52719-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[조남현의 종횡무진]하이닉스의 앞날을 낙관하는 까닭 - 매일산업뉴스",
+          "sources": [
+            {
+              "press": "매일산업뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tNXFLb2NlTmVXN1RYci1oTFlITHZETlF0S3RvRk5OR0lYU3dTUXhsWjdjclFReHhadTdkOFF6RmdkdVhyM3BYZHBIem5RYjlQMmgtXzV4WXNpcENrc2Q1OU9pdw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52720-20261018",
+          "category": "기타",
+          "direction": "긍정",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "블룸버그 “솔리다임 상장, SK하닉 HBM 투자 확대에 긍정적” - 서울경제",
+          "sources": [
+            {
+              "press": "서울경제",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnTUE4aVJ3SHZ1RkQ5ZHJDSndhdXZaZldzbWRHYWEtQkU2ZW5yOVVJY3BneFBWN2ZDNkgyNFV6MjlSZXdOX1EzSTA3eXdNck9laHfSAVNBVV95cUxQbjlGblNEMTI0R0hOMGs2YTlfRFlKREVMQjM0TlB0THZyR3VoSzVweWFwa0N0WF9rdmhEaWxWcXQtekR4N3ZJR3M4T01TMTdyVzJrYw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:18 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52721-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "100명 중 0.8명 구멍 뚫어야 대기업 임원…SK하이닉스 최다 증가 - 파이낸셜뉴스",
+          "sources": [
+            {
+              "press": "파이낸셜뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wcy1ZUWNfVTFLcnRBUTVwaklnUTQzZVhVZ3ExMkp1aVFFNVNVdHBRN0h4R3MyX09fdWRkYlZkRE1Na05Gb1NHbzV2U2VyeS1SM3lVcWZPV2Zzdw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:01:29 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52722-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "삼성·하이닉스 거절했는데… ‘전기료 선납’ 재추진하는 與 - 조선일보",
+          "sources": [
+            {
+              "press": "조선일보",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThvajJjTU1VT1lFMWIwazhidEVzRFVIWUJJdHotYXE2dDNnMmNzeDdPRUNmZG56dnJjc2MwS2NCbnRwUC1IWDZEYnJ3ckFuQlVDMUtUa1pXc3lEV3RTUnFWNFZOTExzUVFlTE1ZMzQ0ZEpHM3h0ajYtNDM1RTR4MzZVZXB2cE1EWlA5Vm1SQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:33:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52723-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "\"사이버 도박장 같다\" 순식간에 '돈 삭제'…국정지지율도 흔들 - 머니투데이 - 머니투데이",
+          "sources": [
+            {
+              "press": "머니투데이",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WY056R0NtcTJkNG1yRGJvaUJsLXFqc2ZLUldGVVJTSldKeURxNm0xM1pESkFQVi1fZ0p3bk1SLU9kcXpjV2RqbDNjMjRQMDhyNWpHSlpKUXhfYWEzcFRLWkFnODJ5VUJCRlFCRtIBckFVX3lxTE1vYkZXcmlSVHNBMHdxTEljLWxYRGE4anoyXzVURTdrYkpmOTl5dEtvV0RFQ3QzMGFXTy1qa0wwYm9YMnNmOWFTanRPZjhwcThtblVLdnh2SjBMbDFyRWdDRlNnUUlIMGpRaS01VUc5U09YQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:30:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000660-기타-52724-20261018",
+          "category": "기타",
+          "direction": "긍정",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "100대 기업 임원 109명 늘었지만 비중은 0.83%에 그쳐 … SK하이닉스만 72명 확대 - 워크투데이",
+          "sources": [
+            {
+              "press": "워크투데이",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZk1hT3dxWERqOWpJUmJsbVNCTzV3Z1VxZE5RNE9tLUkxNG01d1V1S0pRcnVua1dTWGVWOGwtMVE4ZGZlLXgwS0ZuR3hsMllJWUVJNzNSVVQ1VlktazZCRFg1UkxDRUNraVNQNQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -94962,6 +95232,83 @@
               "press": "머니투데이",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oLXpuelA3RFktXzE3VkQtNTBxS25LUnhqS1ozOTB2NUZUcnpCNEhmMFg0dHpCUHdER05XYmtJN0JXT2RrYkQyVmROb0Q5LUUtWWp4bkhGWGdfRUdTQXJfSzd5cTRCYmFYei1NeVdmLTJZSmZYa0HSAXtBVV95cUxOQW5VOWg0NmxiUnFlUDhZa3NyczZPUzhMNG5rck5zbDRKdE1tbm5ueEhrMDBxMWVKb2FMVVRYSW5SUjFEVlY0cUpjQk84a0dVR1pfbkZWR2tKdXhaVzRxMXUtWVBHY3Y4OHVDZTF4bGxXMWVCSmFEd2E4MFE?oc=5",
               "pub_date": "Sun, 18 Oct 2026 19:03:00 GMT"
+            },
+            {
+              "press": "머니투데이",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BblU5aDQ2bGJScWVQOFlrc3JzNk9TOEw0bmtyTnNsNEp0TW1ubm54SGswMHExZUpvYUxVVFhJblJSMURWVjRxSmNCTzhrR1VHWl9uRlZHa0p1eFpXNHExdS1ZUEdjdjg4dUNlMXhsbFcxZUJKYUR3YTgwUdIBe0FVX3lxTE5BblU5aDQ2bGJScWVQOFlrc3JzNk9TOEw0bmtyTnNsNEp0TW1ubm54SGswMHExZUpvYUxVVFhJblJSMURWVjRxSmNCTzhrR1VHWl9uRlZHa0p1eFpXNHExdS1ZUEdjdjg4dUNlMXhsbFcxZUJKYUR3YTgwUQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 19:03:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "042700-기타-52726-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "\"사이버 도박장 같다\" 순식간에 '돈 삭제'…국정지지율도 흔들 - 머니투데이 - 머니투데이",
+          "sources": [
+            {
+              "press": "머니투데이",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WY056R0NtcTJkNG1yRGJvaUJsLXFqc2ZLUldGVVJTSldKeURxNm0xM1pESkFQVi1fZ0p3bk1SLU9kcXpjV2RqbDNjMjRQMDhyNWpHSlpKUXhfYWEzcFRLWkFnODJ5VUJCRlFCRtIBckFVX3lxTE1vYkZXcmlSVHNBMHdxTEljLWxYRGE4anoyXzVURTdrYkpmOTl5dEtvV0RFQ3QzMGFXTy1qa0wwYm9YMnNmOWFTanRPZjhwcThtblVLdnh2SjBMbDFyRWdDRlNnUUlIMGpRaS01VUc5U09YQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:30:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "042700-기타-52727-20261018",
+          "category": "기타",
+          "direction": "긍정",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "AI 반도체 경쟁, 미세공정 넘어 '패키징'으로…글로벌 투자 확대 - 뉴스1",
+          "sources": [
+            {
+              "press": "뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NVEpjZ2hPam9oUEhxZldXZ0RpMjNYQnVBazA5LTBDd3NhNEFNWTB4LXhReVlMZTRkbGd6ckpfTWs0UWpqS3dZd2hPbWxZbTZFc3lZWEFUYmwxRG1MRUVRVVgtOHI?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "042700-기타-52728-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "동구바이오, 큐리언트에 61억 더 넣는다…나머지 절반은 '패스' - 네이버 프리미엄콘텐츠",
+          "sources": [
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSExtZHZyT1I1STRKLXc1TkxOajFnTmVlVVZWd0hwaGt2UkpjZUpfZm9hLWpMbWlidm5QZkhwOEpnX0hRdzlMWGtLYy15emZaN1gzUGV1cjZtM2tQY2ZpVUFrNjJ0ZjBOMjJXY3pTTFo0d185c01LQzFPSWhBUUdwcw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:50:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "042700-기술-52729-20261018",
+          "category": "기술",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "KT&G, 특허분쟁 이어 조정원 공방…\"계약상 의무 모두 이행\" - 네이버 프리미엄콘텐츠",
+          "sources": [
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNG1wRVB5R21GYWVzcWhkZXo2eGpLSkVyZFh1djQtWDlJWlpBd0FxSW9CNDdQN2xQZGVUWjFaWWhxYkhJVVFKblk0MW92ODdWSlFsN25rOS1JczMzbWE3VlFia1QtWXBpOW1Ma1FtTV9OUWFSaTVjOVpobW1uNkpmbQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:50:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -119075,6 +119422,42 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc29DUUpMVkhwTW9uaXZQY0RCRlY4d3FPNUktbmg5MXNtREx3QzIwWUdCNHBXWWZfQUJBRVVQeEdMNUVadHhnbjQ1UUlUQUtxbWFhLVlCTjFOay0zZVRxX2xYeVg4aGNxSXZjcUNmdS1iWHJYTzVoeDNLYzl4UGRvZXM2RHpDVDBZdjgwUFFoSnV2WThmSmtmMkJTRC1iRkd4UU9UWmd4QmNzUThVdGVobg?oc=5",
               "pub_date": "Sun, 18 Oct 2026 05:53:16 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "131970-기타-52730-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "국민연금, 100만에 국내증시서 200조원 가까이 손실...삼성전자 SK하이닉스, 72%에 달해 - 비욘드포스트",
+          "sources": [
+            {
+              "press": "비욘드포스트",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTHR1X2pONVBVSWlPUDN1YzNaVDdESGJ5SnNWT1VOLXVmSXJ0ZDN6VjdTMjVzQjRBZ1FJa3FzZjdBMnpDbTFWREpxcm5rdTZ5ZW14c05MZjBHSTBUb3NvT2M4eVJmOFo5QTJxTDhIaVp2eHE3c1lHMVFjUHc?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:18:59 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "131970-기타-52731-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "아이콘 설명이 제공되는지 살펴보는 이지 카지노 먹튀 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGlDNm9ZckNDdklDWmdpR01NMGVfVFFZd3BtVUcwUTBUbkk2cUsyX1h2aXVxa0F4OV92MDVmdk5mNlVzSXhUNzh6TEhSYmxZZ2dnYWFIR3JwTzh0dFhBOWM2U2lHeGNVREhiWURtdXNZMk5MdGJJUlN6Wl9ISFdTU0NIS24yWGROY3RyQWM4emZ2MjBaWHdlVmt5WUZwTDltU2M3eDl4UVg0SFhRWG9mRXlYYWszUXFnSWE0cUtVcWQ0M1podHFIQg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 16:45:29 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -177538,6 +177921,24 @@
           "stale": false
         },
         {
+          "id": "095610-기타-52725-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "비슷한 이름의 게임과 구별하는 본사이 바카라 상세 정보 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBYmh5V18tTHlNZGJFMWRJMDhCZGh6YTBRQjlUcDlkbVZ1VENkdENEcFlYQkdQZGQ5eGRoSGFqX1E3UEVRVFNPOFY5RE94WmYtOXBOSFdQLXNXLVRQR2Z1WkdIZmgyX2szaEQ4Z2hB?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 13:53:52 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "095610-기타-49158-20261015",
           "category": "기타",
           "direction": "중립",
@@ -221466,6 +221867,24 @@
           "stale": false
         },
         {
+          "id": "014680-기타-52732-20261018",
+          "category": "기타",
+          "direction": "긍정",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "PC에서 창 크기를 바꿀 때 보는 역대 아시안게임 축구 순위 화면 변화 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaWN6ei0zWU5hbnZxcU1waHNUZEZxa2NXalpOWFJ6ajBJTF9tSEJEcDNic0ptcFE1NFg5d2tPaWNwcEtOVHBaakdYTGg4Q3dIeTVRTF91TWlWYmVrM2lDbEJUSDAyV01IdHpqQ2hB?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 19:47:36 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "014680-기타-42977-20261007",
           "category": "기타",
           "direction": "중립",
@@ -226239,6 +226658,24 @@
             }
           ],
           "first_seen": "2026-10-17",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "064760-기타-52733-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "블록체인 기술과 활용의 이해 연령 제한과 이용 가능 지역 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GY01FRDdZTWQtZmhCSFNSeDk1LVhRQnhTSXlnUEhDc0VkaFlfd1JPUEJwVGkzZUc2Yml5bU02Ny1Gdi1RV0RIYWo0MVZlckFJWWZ0Y2d0Vll5a2FfUVhlQXpoYUxpVHBSNnRaRzhJVHJmZjk2?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 17:29:40 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
           "last_updated": "2026-10-18",
           "stale": false
         },
@@ -235601,6 +236038,96 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVJtNEw3akhfWTJUT1p0RWRFekF2RE1fUHFRVlhBeU5rdXdZRXN1MzE2ZGt5UVZCeDExaWJnaE9VS3ZZUHZwVnhvQlVON0dURHFrSWpDN2ZGN0ZNVU50VEFnZW5QQVVjZDB0eng2S1FtT3FySzZETHFETEZXQWRhTVhMQVJhclhZVENERUxibEJuSFVDSC04X1hUOUF5N1lfV1VxeEV0MzNSUUhFY1oyLXR3?oc=5",
               "pub_date": "Sun, 18 Oct 2026 17:13:39 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "009150-기타-52734-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "심벌 설명에 없는 조합은 어디서 찾나요? 촉토 카지노 무료 선물 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEp0NlV2ekFYTHNaMjBuVlFuSHd0ZHJQUnRYRUVXdmlZZE9wMnZWOGI2MERmM29xM2NXdXBCaXo5MkpzdGZOT2N6UGNwN0NKTmdQWlJKOFVYV3JvbE4tRmNGZGNsb2ZXdmtoUno3aFNfemhlVEdVcURJRE9wT0lqVG9YM1hOaEctSHdYRTlmQmxuQWhSQTJ0dElhakJRbGZWTnE1VzdGMmpTRkpFQml4bQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:29:50 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "009150-기타-52735-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "게임 정보가 서로 다를 때 확인할 애니팡 맞고 접속 오류 버전 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NLWcwaVpYcW8zeU5fQlF4TVAtSzJpTEpxQXZ0R1YxeEJFazU4OXdnM2NPZllLeHBkRVh5NFd2ejVCS1ZDQWtweFEtNU1UQzR2R0d5SU5JbTBPc09Ub3hBM2h5bGg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 17:56:21 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "009150-기타-52736-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "기본 규칙을 다시 확인하고 싶은 분을 위한 텍사스홀덤 웹툰 8화 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZGlHQWlGUl83YkVyN0RXSmpNVlhCbWtQMXJ6Z1hhUU9FWUh0M1hhUzh4dzZtQ2FYU0NMZ1dkWGNfOG82bnE3Tm8tUVVxUlZlMzQ2MUVtTEo1RWFqcGlXR2Y3aDdDRDFKVC1vVWMzNVZjY3FCVW5sNU9kMzVYMTBQemxWNVNlWlZaWHgySVBaSkVDLXh3bHROY2xlVkdFb0hoNEE2M24ySVFHbjhsV2h0ZlM3MHV2TjR2Q0JRb1VEdTRhUU1uSjg5R00tUG5IS3pIUG8yTnZyX2ZHZmNQdWJCWU1rMGVxYzJRa2Fhci04TmlnVVJCWGtfS19qTTA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 04:25:59 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "009150-기타-52737-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "승리 조합은 어떻게 표시될까? 라인카지노 먹튀 결과 화면 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDhvWWRLem9qTVIzNTdUMzNoVlowZm1aV29qcHBNTTJhV0NnZ2xkcUlZZ3BHY0lwN3hBMHVQUnVKWXlvakFweUwxcDlQS2gwNzd4NHJrRmN5R3hfX0JJdjRuM25qY0MtTXdtWmNScGxZTFU0Y3hOaHBvQks5MjJ6dlNpYlBzTTNiRzMzdlFVVXZ3Y1NQaTd1eER2M2VLaXVLcHlWUWo5MnJlV21adGdJOUp2SExZb3JMcWxz?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 11:41:21 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "009150-기타-52738-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "자카르타 카지노 호텔 화면 속 숫자는 무엇을 뜻할까? - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpT0FjVFBqX1ROSHRSWVRtdHM4VXZ3OHJzR3RRZmticks4amhyZ3JROXFURkFyc3Jxc1A2dktwb1VpOTVFUWtDZlh0Qm0yZ3V2M1otWi10eTBIMXBTSGo0YkQ3SXlLd3l2OU1ta1VZbw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 08:09:29 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -256643,6 +257170,24 @@
               "press": "파이낸셜뉴스",
               "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81MWtseEIxZFVuSk8xSHh2UEx5TFJfbEVjTEFEZWN2RjFJZWJ4NkNad0o1SkhMVk9TNTcweE84UWFfVUdLS0J4R0FYQmFSRFlPUnlQUmxRN0QzMk92eXp2eFdqa9IBY0FVX3lxTE81MWtseEIxZFVuSk8xSHh2UEx5TFJfbEVjTEFEZWN2RjFJZWJ4NkNad0o1SkhMVk9TNTcweE84UWFfVUdLS0J4R0FYQmFSRFlPUnlQUmxRN0QzMk92eXp2eFdqaw?oc=5",
               "pub_date": "Fri, 16 Oct 2026 19:30:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "007660-기타-52739-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "삼전닉스 빠질때 조선주는 뛰어올랐다 - 머니투데이 - 머니투데이",
+          "sources": [
+            {
+              "press": "머니투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkdTBqeFVZYUExV2JwVXNhN0thUndJN2hESkY0WHRVUEItbGphaEh0dTNWNG5QWDNKd3NhTnNJOXc1aFczVnhfZVZ5UElBNWdTODFNRlRSOTR3ekhud1JKNDAtNER6WExUWmVFcVRR0gFuQVVfeXFMUGR1MGp4VVlhQTFXYnBVc2E3S2FSd0k3aERKRjRYdFVQQi1samFoSHR1M1Y0blBYM0p3c2FOc0k5dzVoVzNWeF9lVnlQSUE1Z1M4MU1GVFI5NHd6SG53Uko0MC00RHpYTFRaZUVxVFE?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 19:03:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -316412,6 +316957,78 @@
           "stale": false
         },
         {
+          "id": "108490-기타-52752-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "물류는 공동 개발, 생활은 렌털…피지컬AI·로봇 기술 진입로 넓힌다 - 뉴스1",
+          "sources": [
+            {
+              "press": "뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfQmtYVlhydThQWnN6ekdpNjNFTFQtSkxoX0hKWmc2YmRNUmFvdmFEeWlaNWpRR2Q2WmZ3dDlQRWh0Z3k0UjkxNkNFSFZLTkh6Ni1VSWxFc0ZlRGZ6?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:15:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "108490-기타-52753-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "소개 페이지에서 살펴볼 스포츠배팅 언더오버 콘텐츠 범위 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yajRwUXA2MFpKdG5LN2d5UDg1Tl9vOHkwN3otLVVqS1FLeEc2cS1pSy10UXRyT1lnTTY0Nk1XcHBJc1hMdW9iQUtoSFdwWTU3MlV6VTQxZ2dIdER5ZUs4WUlSMUNWd0NRQnJzVw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 17:53:42 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "108490-기타-52754-20261018",
+          "category": "기타",
+          "direction": "부정",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "아이콘 중심 화면에 익숙해지는 중국 암호화폐 이용 설명 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Id0VoQkFYYU9XMVF4OTJlSUFWZTBiWFIxaHliUlBSX2Zhc2dGeDE4Z2pWNXJvdVFNQUZGRFdHazYxY2t1YmYtYm44NFZqRDU5bjg3bW1qT2NLMHpVb0luZ2lYTmhqQ1JLRHZTdXVxTmF1RmpIVllwUQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 08:55:26 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "108490-기타-52755-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "처음 보는 메뉴 이름을 풀어 쓴 실제 돈을 위한 무료 슬롯 게임 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMXhzTHlqbWVIeG1ia19LM1NFdHAzYm9zN1FENWc4WXkwb3JUZFV3dkJhM251N1VlTnVJWm04dGJkS0xpdzhrLVR0aDBjNm1fa1F3ZzVNcmE2dEVfSVE5RzdnQ2lkd0VWQ1hnaXpvamJxMTBoZS1HZERKc0pQVFZMbHUyQXVwNWRpN3Q3LVYyWVNMYXpMVXNHQjUzcl9TNGoxR2FDWXhTNWg5Z2l1VzZrRks5SmJlekwtZ0RicWQ0QldiWkpaaGtUUVNzYzZRLWU0alJ6OGx1alNldXpFa2xXTUNYQXVwOHJRMUd4c3VYSmFxY1VLV2N3dg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 09:24:10 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "108490-기타-46295-20261012",
           "category": "기타",
           "direction": "중립",
@@ -330180,6 +330797,11 @@
               "press": "뉴시스",
               "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZ3JDNVRVRS1CUmFVdVZta01IVHZMa19HTTBXMkk2NUZlYnpDWmF0RUVGVFRyOGFyNkNjNlVIZHNOSFVQY3VVMmQ2QmJzMlpVWVhLQ0JyYXk4WENTOVA1bHhKb09TTmdlT0x0VFByRU5HZHZKUzdFYtIBeEFVX3lxTE9KZ3JDNVRVRS1CUmFVdVZta01IVHZMa19HTTBXMkk2NUZlYnpDWmF0RUVGVFRyOGFyNkNjNlVIZHNOSFVQY3VVMmQ2QmJzMlpVWVhLQ0JyYXk4WENTOVA1bHhKb09TTmdlT0x0VFByRU5HZHZKUzdFYg?oc=5",
               "pub_date": "Sat, 17 Oct 2026 05:58:29 GMT"
+            },
+            {
+              "press": "뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nSGwtdWhhSmJvTVBRT01fdWVmOGt4bWd6TlFvNnZLSWtwYjFNRWcwd1RkUWV4WUhsTGtzZXNCSmR3Q0dIR1puVzZFUTBFdjRFOThqSE4zbkgwdTJKWlR5WNIBeEFVX3lxTE9KZ3JDNVRVRS1CUmFVdVZta01IVHZMa19HTTBXMkk2NUZlYnpDWmF0RUVGVFRyOGFyNkNjNlVIZHNOSFVQY3VVMmQ2QmJzMlpVWVhLQ0JyYXk4WENTOVA1bHhKb09TTmdlT0x0VFByRU5HZHZKUzdFYg?oc=5",
+              "pub_date": "Sat, 17 Oct 2026 05:58:29 GMT"
             }
           ],
           "first_seen": "2026-10-17",
@@ -330303,6 +330925,11 @@
               "press": "이로운넷",
               "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05N2EtSEx0RVdEaVNPdnFpdUtMN0hNYVpxbjNTS3ZLb0ZNRFgxaW1BekRybWVZZXdmUEFnVHAtTVkzcU9uMXVLTkVrWk04LU5uc2pkMzNkY0QyMzBvSmtXZ1hRdGRpdw?oc=5",
               "pub_date": "Sun, 18 Oct 2026 08:50:25 GMT"
+            },
+            {
+              "press": "다경뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tVVpzVXhQQXg3ME84QzJlNi10RGdPTkgyaXRSZFh0eEY3YlpSSnMwaFBSazJoak9yNk9jemJ4UTJZckY4aGJ4cW42dmk5TDhhZEZSVXhVbDdJcndyVVE?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 01:13:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -351040,6 +351667,24 @@
             }
           ],
           "first_seen": "2026-10-17",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "466100-기타-52756-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "발전소 누비는 로봇... 컴컴한 600m 배관 속 균열도 찾아낸다 - 조선비즈 - Chosunbiz",
+          "sources": [
+            {
+              "press": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFpubXlydF9BUnRhdVc0d0hBcW5lM0VabVNtODBCX1hNVU0xWVRFOVRLZUhPTlJUNEFJSzVfbmluNm5IX1RGRlZMdXRORzlGd096N2FSaFpXeFhkekVoenpxa1NRSVdkQjNoUk0tcmlaZ1kwOE1mQmQtVGZJRkxkUm9aX0PSAZgBQVVfeXFMTjBMUmtlcU53bjNoYVlfTjdjdGxQLXlGeVBqQnRONlZSdE5hZFluS1lfTzNEbXk4bUtwbTd1ZmpIQl9aaDFUQmkybXJCWVpIbURsaUtjQlpUSTNtai1oVVYyY1ZwMUkxalNYWVVkZ0lRZUlRZ3F6WlgyTURDZDF0aGlJc05Xa0M0OWZxQTNoM0lfVUhta21vUjM?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
           "last_updated": "2026-10-18",
           "stale": false
         },
@@ -389598,6 +390243,11 @@
               "press": "비건뉴스",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYdmhkNHh0UURDWk4zNFh5MmVYS28ydWl0dTd4TXUwRFh4c3ZDV0VjSzJibXRtQWxvcW9EM0JadW5BXzVURmRpU2g3Um9oblAzNjJvMFBIS0FkQ2tLby1MSkRRR2dTeWhw?oc=5",
               "pub_date": "Sat, 17 Oct 2026 22:14:29 GMT"
+            },
+            {
+              "press": "비건뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTHpad2FPQnRlS3VhQmRwdjh6WW03NzdBUEcwWVFmeDdLbmtPNkxELVRrZUlSTXpHOFdJanRYRkRVRUdOSjBSY1RLQ1VhcnZweWdydXBCV0J4UWxhYm5jNjBXeXBZQQ?oc=5",
+              "pub_date": "Sat, 17 Oct 2026 22:14:29 GMT"
             }
           ],
           "first_seen": "2026-10-17",
@@ -404960,6 +405610,42 @@
           "stale": false
         },
         {
+          "id": "455900-기타-52757-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "한국바이오협회, 바이오의약품 연구개발 경력설계 가이드북 발간 - 메디포뉴스",
+          "sources": [
+            {
+              "press": "메디포뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSVNWV3lKMlhzQVZZTGsyaWIzYzA4QXJGOEpxdjU4WUluejc3NHNVM0M4Smh6ZEZJN25ybGI5Vk9kMGNIYmJXTmFSYl9icWJlZlFURVktOGpCSVFCcElJdFZJWkQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:19:11 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "455900-기타-52758-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[분석] 항생제 내성률, 세계와 한국 비교의 조건 - 메디포뉴스",
+          "sources": [
+            {
+              "press": "메디포뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05MWY0T25PZFQ4eDVSMTZBWDBlYmNDRzYtdlhFcFl4SEUySUhYREdxbGxTTjFKR0V3cWlEQTdXVWdCOHN3Ukp1b09oSk1QMU03YzJ5T0ItNkFPY3VOdkNCeTZQaUM?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:08:58 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "455900-기타-48561-20261014",
           "category": "기타",
           "direction": "긍정",
@@ -409793,6 +410479,29 @@
           "stale": false
         },
         {
+          "id": "196170-기타-41183-20261006",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "교차검증",
+          "status": "일반",
+          "headline": "상장 제약·바이오사 상반기 평균 지배지분순이익 코스피 530억원, 코스닥 79억원 - 약업닷컴",
+          "sources": [
+            {
+              "press": "약업닷컴",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82QmRvOEV0bU93ZzJpUlNjZUEtNklOVHVwV0FVc29BTHNuSGRYOXJNNGhqVUV4Tmh6M0Zha0JtcVp3QnZURE5rUmJoZmxJWHNqOGR2cjV6c0dYRW85WGR4SUEtUWd5OV9nRjl5NlAwXzFwX2xoLUtRZjFR?oc=5",
+              "pub_date": "Mon, 05 Oct 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uU1Ixb3d3bl9DeTVGTTRPRFZQRFBiZVNpSDl0Q1Y0dzhRUmpCc3ppRVpPNmJUZGZNR1Z5aThQYXNyZTRZcmlKM0gwQWVMYXdQQTRxWnlsSi1qSjVmNkI0bVFlMm9XQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:01:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-06",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "196170-기타-46909-20261012",
           "category": "기타",
           "direction": "중립",
@@ -410451,6 +411160,60 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUJOODJteW55OEhCR2UyaUJFUWkzbW9rUnRzTTUyZVUyT0pfMzhOSmhWYzdDT0YtdEpfOGtzTWhUWEtaME15Wm1jMW1GYjc5b0hTSE5qX3BjZUF4LWFod3VXR3dqMG5QZ3pnalBocklCaXFlTl95MXBKb09LUW9IcjA5Q0NRTlNZTVEyOXNtV00weHNTaVA3OHFQUjI2Zw?oc=5",
               "pub_date": "Sun, 18 Oct 2026 14:38:20 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "196170-기타-52777-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "'잭팟 혹은 쪽박'…빅파마 손끝에 갈린 K바이오 - www.ebn.co.kr",
+          "sources": [
+            {
+              "press": "www.ebn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iOUFwekpZSnREZDBrYzQzekpIT3NKdU1yT2xYVTIxOGlMUnB6V24wM0xvX1dybi0xTWVwcWZaeVdENTBpeVN4eXdQelZHay1xYzM3NWtpbE5KMmN2bi1qMm16Q21qeDJx?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "196170-기술-52778-20261018",
+          "category": "기술",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "알테오젠vs할로자임⋯피하주사 시장서 특허·상업화 경쟁[바이오 플랫폼 전쟁②] - 이투데이",
+          "sources": [
+            {
+              "press": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oa3h4dmhOZkt0RW55UHdNVXlDS2VyNk5GYjJHbXZNSzI5aUZIbVlmY3B6eDFhdTZsLVpQem9uVGtWU1dkbFBaTDVTTTBXanVjQ2dVQjEtRHB0SVhaaThkVFpBcUYwdmR5bHl2Ukdn?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:01:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "196170-기타-52779-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "글로벌 바이오 플랫폼 시장 급성장…K바이오 기술수출로 승부[바이오 플랫폼 전쟁①] - 이투데이",
+          "sources": [
+            {
+              "press": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ncFhOVHhKMXRIdWxmWmgxaGxmeDhlNUwzWUFfNFZBaFBfN2tJSXVON3ItVWJCczBsWEZCQ1dkNHhfMXdTS3kweTl4WWU0eGxkbWtXWURHXzgtd0tVR2NOVXhnaTFqbDhoTFJ5LXh3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:00:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -413786,24 +414549,6 @@
             }
           ],
           "first_seen": "2026-10-05",
-          "last_updated": "2026-10-06",
-          "stale": false
-        },
-        {
-          "id": "196170-기타-41183-20261006",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "상장 제약·바이오사 상반기 평균 지배지분순이익 코스피 530억원, 코스닥 79억원 - 약업닷컴",
-          "sources": [
-            {
-              "press": "약업닷컴",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82QmRvOEV0bU93ZzJpUlNjZUEtNklOVHVwV0FVc29BTHNuSGRYOXJNNGhqVUV4Tmh6M0Zha0JtcVp3QnZURE5rUmJoZmxJWHNqOGR2cjV6c0dYRW85WGR4SUEtUWd5OV9nRjl5NlAwXzFwX2xoLUtRZjFR?oc=5",
-              "pub_date": "Mon, 05 Oct 2026 21:01:00 GMT"
-            }
-          ],
-          "first_seen": "2026-10-06",
           "last_updated": "2026-10-06",
           "stale": false
         },
@@ -426889,6 +427634,78 @@
           "stale": false
         },
         {
+          "id": "298380-바이오-52785-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "기술수출 항암 신약들, ESMO서 임상 성적표 공개 - 히트뉴스",
+          "sources": [
+            {
+              "press": "히트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHLUljc0JISUJLWE4yVEh5bUV1ZGxVUHlRRWZWZGhWWlF0eS11NGIwaDJSeHI0elUwUXc3ckRDd1cyRWlOV01CQnJKYWpfMU8xaHhIZFlwSVpudlJhd0d4dUdZOW9QOV93cF9z?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:17:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "298380-기타-52786-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "미국 카지노 관련주 로딩 완료를 알리는 화면 신호 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTENxUUdMb3MzTVFST3Z6eHNYUkpGcnhtbDZuaHZHMlZHX2ltU01ScFFUaTdKVXBPTG9fTmRPMUJQamRHRVNqVEhTRWxIaHdsSVU5ME0zcEtZVWFsWmlSRkFFM0FVRHphc0ZQTGhkQzI5cXBILUp3SmJaRWIxTFlkUnNrUHhaelBGclhLZlBmT05mWDlpNm9taGpuajdScUE0Vmk5TkNwMC1FRWlFb0ZFMGhCRU0zR3dsOHJyNTNWbDNHM29vaVlMQWNTNzk5aTZHclB6U0pJbEtXdk5i?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 07:52:37 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "298380-기타-52787-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "글로벌 바이오 플랫폼 시장 급성장…K바이오 기술수출로 승부[바이오 플랫폼 전쟁①] - 이투데이",
+          "sources": [
+            {
+              "press": "이투데이",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ncFhOVHhKMXRIdWxmWmgxaGxmeDhlNUwzWUFfNFZBaFBfN2tJSXVON3ItVWJCczBsWEZCQ1dkNHhfMXdTS3kweTl4WWU0eGxkbWtXWURHXzgtd0tVR2NOVXhnaTFqbDhoTFJ5LXh3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "298380-기타-52788-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "게임별 심벌 표기를 비교하는 토토 발레 부에나 팍 자료 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHd3b3MzX21pOHlxUGQ0YWVuTExHa1ZYaFhtNGFXYkRUdjIxTnR3MHZNbXF1S2RfaGlOUW9wQlVHU2lkcVlqdEdLVkVuLXVJZTR1SVlkT0N6SGhFWndBbWswUS1GcXBqanFMMFRDeWdlcDZyOWhfVHh4V1ZTOVBZdWI4b0dWR19QT0ROTWcxekExOVdLRnRqQUUyOEI3QVNWODhmZ0VIampQaEJIUlQ1Qm5YaTk1aXJYbkREUnduUVlaZ2U0U2RqMktWV294bEktaUtYUUFUTVh2emM?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 10:10:31 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "298380-기타-37844-20261001",
           "category": "기타",
           "direction": "중립",
@@ -438324,6 +439141,96 @@
           "stale": false
         },
         {
+          "id": "141080-바이오-52780-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "리가켐바이오 “LCB02A 글로벌 임상 첫 환자 투여 완료” - 비건뉴스",
+          "sources": [
+            {
+              "press": "비건뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQzBIc1NKaVNrQzM3X0tDRV9ZR045eEtEMnNIWG0za1RiT3JWUGdOODh1SmNqc1BxTWNYSXoyRWpPNExKTkhZV3hDdzhJMmFVR3VZQVJiQnBwVXVtWWpFcnJDbFZsdw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:32:51 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "141080-바이오-52781-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "리가켐바이오 \"CLDN18.2 ADC 'LCB02A' 중·저발현까지 공략…위암서 전임상 효능\" - 약업신문",
+          "sources": [
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QcHJ1dmdpUUFXWmc4NVVuN1Q2NTJTR094TFpGOXF3ekgyakNWZ2dHdTdGRGI0Y2ZlY2NvdnAxVHFtWVFfd2tiN2xoMkdCMDBNdS11aUZqQ2YzNTBOMUM4MmlPVUtkTG9QSG5qY1MxeHhEeDA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:45:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "141080-기타-52782-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "바이오 반등장 속 리가켐의 승부수…‘후발주자’ 넘어 내성 시장 겨냥 [바이오 맥짚기] - 이데일리",
+          "sources": [
+            {
+              "press": "이데일리",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeURReUt0MXFuZlo0YnFRdWpIWTNaQmpMamNmandkMVpERUhZLXo3ZzZXQmlKSU1BUGRqQzQ4WXhjVTBZazNRWVdhbFNyQXMxLXpTTW5jbDZsdmgtRG8xLXJQdUFNNzlkSm9iQWpiZUNiMUlNekpvZURzOGQ0QjRsLQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 22:02:02 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "141080-기타-52783-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "보너스 안내가 나타나는 위치, 럭키룰렛 화면 관찰 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0wxekh6cmNYbzRPeEhqTmxrcXktY0hiUlBBUDlWdERSMU1BS0RBUlJYQmxiYk9lcTd2NjBIanhQSHVUTGZidkM4M2Z1NEFFTTczUGxRcUFGMGxJdF9YNEZuLUY5UVh6WmNXMVpubGF3NTNlVFhYTDhERFdCMjFhQmRVZmpNUE9FV25SU1ZvWENJQ083N0gzVDV6UFg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 10:20:02 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "141080-기타-52784-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "유럽도 인정한 중국 바이오…추격자에서 신약 수출국으로 - 조선비즈 - Chosunbiz",
+          "sources": [
+            {
+              "press": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNME96S0tPOU5fMkZ6ZkVDQmE3REctMXpEY21KWXdWZ1p2SGw2TkZybkxrUi0wTk95TEQ2dE9EQ1Bxc3JsRHA5WUJQUUVTZG1Uem9JWlQxVHlUQnNzN0V4TzJEcFlxTGxNSE9WY1U0UTUxN1FDTGczVEFXMlpWRzUwMHc0TmJTMkHSAZsBQVVfeXFMUGpLdWE1RTdGaVRLeGw4aHgtTC1WM0dYR1pONDBBRDdYSGUzenBlaEtHNTFuUlhsaDdFbURzM1lJQV82MTJPMWtlUFFhOWZKQWlheThWT3BlbDhTZW5UQ3Z1UlZzTlZVMGFtYXZBeEwzNVE3SXM4ZFJoUG1vWWtqc0FfWnBISmprX1BWMFV2VU1EMFhreExWV0hEMDA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "141080-바이오-49616-20261015",
           "category": "바이오",
           "direction": "중립",
@@ -447429,6 +448336,24 @@
               "press": "CBC뉴스",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84cWUtQkRxZU9lT2VhTmJHRUR5LWZWUlZsRzJBRE1DVnBOY2VldDB0VmhmOFc3RE52S004eW5ybUJOQ1NPUVZPeTlsWVJwb0xtRkRiWFE4bzFLRHNrTVF5eE1UMXA3c1N1?oc=5",
               "pub_date": "Sun, 18 Oct 2026 00:15:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "087010-기타-52789-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "언어를 바꾸면 달라지는 좋은 느낌 카지노 사이트 도메인 주소 메뉴 표현 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Vd1VfdnVhbmE1bDNzV0ttNEF4aW9raUs2czNJb2ppV19QZnRnUFNtSU5CMzRCOThKRHRMamVpOExqczVEWEJqV3RBZ3pvZmFKYV94dTliTVlCUklXeUVVU1FzUGh6UTVwUFRiU0l5WmNXeU9mMk93Yw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 10:02:21 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -460706,6 +461631,42 @@
           "stale": false
         },
         {
+          "id": "226950-기타-52790-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "국민연금, 100만에 국내증시서 200조원 가까이 손실...삼성전자 SK하이닉스, 72%에 달해 - 비욘드포스트",
+          "sources": [
+            {
+              "press": "비욘드포스트",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTHR1X2pONVBVSWlPUDN1YzNaVDdESGJ5SnNWT1VOLXVmSXJ0ZDN6VjdTMjVzQjRBZ1FJa3FzZjdBMnpDbTFWREpxcm5rdTZ5ZW14c05MZjBHSTBUb3NvT2M4eVJmOFo5QTJxTDhIaVp2eHE3c1lHMVFjUHc?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:18:59 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "226950-기타-52791-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "2026.10.19.(월) Signal Report - 네이버 프리미엄콘텐츠",
+          "sources": [
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONU0zVlMwMUs3aFhYdUx1Nl9YUzhjUkM5UGFLWGFOMzJoeHBIdEJJMTNteXZQbV91ZXl1ZU5FM0VWdXFEOGFocUZWMmJEdHNQZ0M1R3REbXdXTUdST25DQ2NibExFczhDYnpYb2sxQ3kxSWJvb0gtWUFnWnVHZUlQZkN3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:03:43 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "226950-기타-50374-20261016",
           "category": "기타",
           "direction": "중립",
@@ -471615,6 +472576,60 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zWlU4Skg3dVVkZmJfVjU3X3ItRmZBekZDRS0yallkaW1TQUxEVEtuSGJxOVRvdTRDVU4yWk1rQkk4cG1XOWZaQk1DRVhKakpDNzZrcDZNMVFJdGQ5SHI1TDJBWVJOUjFSTzYyZWo5ZGVibkxY?oc=5",
               "pub_date": "Sun, 18 Oct 2026 14:40:18 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "207940-기타-52772-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "‘9개 공정 쟁의금지’ 고민 깊어진 삼성바이오노조 - 매일노동뉴스",
+          "sources": [
+            {
+              "press": "매일노동뉴스",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kMkdLX3ZXXy1YU3UxQTMyc3pxcWd3Y2NrNEZ3T0R6ZkV1cTF2emZxQ09lazZRUm9fbVNmaEtkZm1ONTdjVnJydXJQYllEVGlqUnRHS0ZadUQxZXZmUnlWY2JCdFpEUkdpVFhBN0I1enA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:30:04 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "207940-기타-52773-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "삼성바이오 노조위원장이 우리사주조합장 겸직...유증 연기 요구에 이해충돌 논란 - 조선비즈 - Chosunbiz",
+          "sources": [
+            {
+              "press": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk1acXVLUVdVT2xMWldsNlNkWFliNXp5Q1JYbHJYSzcyeXF5QVFwemgzdjVCM1YtLUZVR2VUQ2xmalFzRUc4eGRFZHpzbTI4c19rNHpneUZVQ2ZIYk0tQnlibnpWOVpSei1BaDNmY0dIZE16MjZJYkd1VUtjY2xaZzVMZ3U3cWfSAZsBQVVfeXFMUFgtVmxOVHNReUZGdXR5bkFzblNrWmlpeWI1TkZ5V2ZVakg0N0lTRTNJSmZSd3dUeU9kd01wanphTmYyNGhGSXdxUk9vX3RENGRMcldMa0FxSFNJOURjVV9RZ0k3eHVReXYwZlRLVHZVWVlKanFoczRHdElTNWRsQmNrR3NTVFZ1VW5LREhKem9BaEFqU0VwNzNaU3c?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:07:32 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "207940-기타-52774-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "전례없는 바이오 2차 파업 예고…위협받는 '환자 생명권' 어쩌나 [삼성바이오 파업의 그림자①] - 아이뉴스24",
+          "sources": [
+            {
+              "press": "아이뉴스24",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01bGZlTzByVnBlZnAwY1kwVVBVcGdTNzFXWUMtU20yQVFfMGNJRU9kVWIxR3h1aS03UjU0aHBXdy11T3FMUlUxZTdCZw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:02 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -492687,6 +493702,44 @@
       ],
       "SK바이오사이언스": [
         {
+          "id": "302440-기타-21423-20260915",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "교차검증",
+          "status": "일반",
+          "headline": "상장 제약·바이오사 상반기 평균 연구개발비 코스피 386억원, 코스닥 67억원 - 약업신문",
+          "sources": [
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUC1xeV9qb2g4Vll2bHlncTBhaUllaWV3anJXNnhmbVdVRExSUEhzNGNmYUVXeVAxaTBkRDdVOHBqQnZDT3FyUUNQcVFJYTNYNUJtZkhhVzBZcVVXSVRGQVpvRnpVdw?oc=5",
+              "pub_date": "Mon, 14 Sep 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45VmdYSmdKbEozNllobnlaZi1GZmU4eWpYYmkzS3lUWm56Z0dxMDRRZldBbWdqbGU3eGFVZnBxMWhadDZtOHdVZThScGZYLWVLbEZqUlhvYW9oX0JpR0diVnlfN2did1o3WlpacGhIRQ?oc=5",
+              "pub_date": "Mon, 14 Sep 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업닷컴",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03eDA2aFlyR0gtZ1NjZjJsOXJEMFBvWDRJVVpqbWd1ckdRUWdjUy1kXzJvc1JpYjV2c0tZQjl2QTZBdHVBT0VIMUdyWWd2WDBsenBhS2J0Y2tBUG5velpzN0czLUwxUQ?oc=5",
+              "pub_date": "Tue, 06 Oct 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTzRUU0M2SnhwV1U1U2tRc09UMzlfcGhPX1NiTk1WbEZ1SDFueHNzLUZuWnJHN01jUE9IWnQ0M1p1aVRRX0RFQzlMZUU3N1ZOWEpsNUdreEp0bUdCMVZ4c1BMR2tkV2lXUGdNeDFfb0hDUXpmUzVfcnJKajZQdw?oc=5",
+              "pub_date": "Mon, 12 Oct 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uU1Ixb3d3bl9DeTVGTTRPRFZQRFBiZVNpSDl0Q1Y0dzhRUmpCc3ppRVpPNmJUZGZNR1Z5aThQYXNyZTRZcmlKM0gwQWVMYXdQQTRxWnlsSi1qSjVmNkI0bVFlMm9XQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:01:00 GMT"
+            }
+          ],
+          "first_seen": "2026-09-15",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "302440-기타-50123-20261015",
           "category": "기타",
           "direction": "중립",
@@ -493259,6 +494312,24 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWVKNnVwc1plQmVMeGtYTWxMWlB5RHpCNFpZN2RRZ2V0ZEFyYl84NVJkXzJJZGRNcmNqR2J3UlhqT2ZOVEhEWF9IM3pzZmJvTTRiS1cyTmVDMlR5ZGlVT1JHQnFCTTExYkktTnhUU2VWaDQ0Uk43UUZCMU5IcXRiQlZ0UWQ4bElaN3ItNUswMTY4OUxiR1BZT1pfdHFLQWpxeFJJbC0xcGQteDhqTUNaYW16Sk5sZkVBbC1xOS1OSkp4bFIyYm10ZExDYm9nNlhkbzVxNFhNRWI1bzhO?oc=5",
               "pub_date": "Sun, 18 Oct 2026 13:30:06 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "302440-기타-52776-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "유럽도 인정한 중국 바이오…추격자에서 신약 수출국으로 - 조선비즈 - Chosunbiz",
+          "sources": [
+            {
+              "press": "Chosunbiz",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNME96S0tPOU5fMkZ6ZkVDQmE3REctMXpEY21KWXdWZ1p2SGw2TkZybkxrUi0wTk95TEQ2dE9EQ1Bxc3JsRHA5WUJQUUVTZG1Uem9JWlQxVHlUQnNzN0V4TzJEcFlxTGxNSE9WY1U0UTUxN1FDTGczVEFXMlpWRzUwMHc0TmJTMkHSAZsBQVVfeXFMUGpLdWE1RTdGaVRLeGw4aHgtTC1WM0dYR1pONDBBRDdYSGUzenBlaEtHNTFuUlhsaDdFbURzM1lJQV82MTJPMWtlUFFhOWZKQWlheThWT3BlbDhTZW5UQ3Z1UlZzTlZVMGFtYXZBeEwzNVE3SXM4ZFJoUG1vWWtqc0FfWnBISmprX1BWMFV2VU1EMFhreExWV0hEMDA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -494158,39 +495229,6 @@
             }
           ],
           "first_seen": "2026-09-03",
-          "last_updated": "2026-10-14",
-          "stale": false
-        },
-        {
-          "id": "302440-기타-21423-20260915",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "교차검증",
-          "status": "일반",
-          "headline": "상장 제약·바이오사 상반기 평균 연구개발비 코스피 386억원, 코스닥 67억원 - 약업신문",
-          "sources": [
-            {
-              "press": "약업신문",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUC1xeV9qb2g4Vll2bHlncTBhaUllaWV3anJXNnhmbVdVRExSUEhzNGNmYUVXeVAxaTBkRDdVOHBqQnZDT3FyUUNQcVFJYTNYNUJtZkhhVzBZcVVXSVRGQVpvRnpVdw?oc=5",
-              "pub_date": "Mon, 14 Sep 2026 21:01:00 GMT"
-            },
-            {
-              "press": "약업신문",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45VmdYSmdKbEozNllobnlaZi1GZmU4eWpYYmkzS3lUWm56Z0dxMDRRZldBbWdqbGU3eGFVZnBxMWhadDZtOHdVZThScGZYLWVLbEZqUlhvYW9oX0JpR0diVnlfN2did1o3WlpacGhIRQ?oc=5",
-              "pub_date": "Mon, 14 Sep 2026 21:01:00 GMT"
-            },
-            {
-              "press": "약업닷컴",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03eDA2aFlyR0gtZ1NjZjJsOXJEMFBvWDRJVVpqbWd1ckdRUWdjUy1kXzJvc1JpYjV2c0tZQjl2QTZBdHVBT0VIMUdyWWd2WDBsenBhS2J0Y2tBUG5velpzN0czLUwxUQ?oc=5",
-              "pub_date": "Tue, 06 Oct 2026 21:01:00 GMT"
-            },
-            {
-              "press": "약업신문",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTzRUU0M2SnhwV1U1U2tRc09UMzlfcGhPX1NiTk1WbEZ1SDFueHNzLUZuWnJHN01jUE9IWnQ0M1p1aVRRX0RFQzlMZUU3N1ZOWEpsNUdreEp0bUdCMVZ4c1BMR2tkV2lXUGdNeDFfb0hDUXpmUzVfcnJKajZQdw?oc=5",
-              "pub_date": "Mon, 12 Oct 2026 21:01:00 GMT"
-            }
-          ],
-          "first_seen": "2026-09-15",
           "last_updated": "2026-10-14",
           "stale": false
         },
@@ -507016,6 +508054,24 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVRkbk9ESzVTeGxrRnNGNjZKTVhIaDNRTHJOUTZwcmJacmlvNmpoSjA0bzc5SEtYNDEzWEZ5QlVaYWhTdEpjOUNDRm05dUtybmxBb0VqS0s0LVhPNmJaandfTHgzWDNvQU1ZT2wzWVFQa283R3pmalA1SFBMUVlWYl9xbTBCenc?oc=5",
               "pub_date": "Sun, 18 Oct 2026 05:58:33 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "068270-자본-52775-20261018",
+          "category": "자본",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "티그레 드 크리스탈 카지노 배당표 숫자의 기준 단위 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oTFRKRkJMemdfTkhBTlhsaWw3MUxEakpDTjdXcklwS2ZKemtlOVpXMTBoTC04UERfaXFYVFd3aG1UV0dfRmZPTXNyaUhSVWMzSGtTeWxOUndzTHVhM0JiR0d5VkJ6VW5CR0JQWlNZNy0?oc=5",
+              "pub_date": "Fri, 16 Oct 2026 23:37:59 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -526290,6 +527346,34 @@
       ],
       "에스티팜": [
         {
+          "id": "237690-기타-17974-20260911",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "상장 제약·바이오사 2Q 평균 순이익 코스피 271억원, 코스닥 50억원 달성 - 약업신문",
+          "sources": [
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53U2hsQTRKZ3ZHcGNBeWRoUmdxZ0ZuWG5iTXctb0lNRzlsX05udGZITXVhOWhoWk9DeGRfYWdGYk9xMWQ2a08tdzNFVHBYbU9hNmlPZjctYkZORml2TEx0WDg0ZXh6dw?oc=5",
+              "pub_date": "Thu, 10 Sep 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUC1xeV9qb2g4Vll2bHlncTBhaUllaWV3anJXNnhmbVdVRExSUEhzNGNmYUVXeVAxaTBkRDdVOHBqQnZDT3FyUUNQcVFJYTNYNUJtZkhhVzBZcVVXSVRGQVpvRnpVdw?oc=5",
+              "pub_date": "Mon, 14 Sep 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uU1Ixb3d3bl9DeTVGTTRPRFZQRFBiZVNpSDl0Q1Y0dzhRUmpCc3ppRVpPNmJUZGZNR1Z5aThQYXNyZTRZcmlKM0gwQWVMYXdQQTRxWnlsSi1qSjVmNkI0bVFlMm9XQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:01:00 GMT"
+            }
+          ],
+          "first_seen": "2026-09-11",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "237690-수주-50124-20261015",
           "category": "수주",
           "direction": "중립",
@@ -531543,29 +532627,6 @@
           "stale": false
         },
         {
-          "id": "237690-기타-17974-20260911",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "상장 제약·바이오사 2Q 평균 순이익 코스피 271억원, 코스닥 50억원 달성 - 약업신문",
-          "sources": [
-            {
-              "press": "약업신문",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53U2hsQTRKZ3ZHcGNBeWRoUmdxZ0ZuWG5iTXctb0lNRzlsX05udGZITXVhOWhoWk9DeGRfYWdGYk9xMWQ2a08tdzNFVHBYbU9hNmlPZjctYkZORml2TEx0WDg0ZXh6dw?oc=5",
-              "pub_date": "Thu, 10 Sep 2026 21:01:00 GMT"
-            },
-            {
-              "press": "약업신문",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUC1xeV9qb2g4Vll2bHlncTBhaUllaWV3anJXNnhmbVdVRExSUEhzNGNmYUVXeVAxaTBkRDdVOHBqQnZDT3FyUUNQcVFJYTNYNUJtZkhhVzBZcVVXSVRGQVpvRnpVdw?oc=5",
-              "pub_date": "Mon, 14 Sep 2026 21:01:00 GMT"
-            }
-          ],
-          "first_seen": "2026-09-11",
-          "last_updated": "2026-09-16",
-          "stale": false
-        },
-        {
           "id": "237690-기타-20254-20260914",
           "category": "기타",
           "direction": "중립",
@@ -533868,6 +534929,34 @@
     "상업화 신약·제품": {
       "SK바이오팜": [
         {
+          "id": "326030-기타-43312-20261007",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "교차검증",
+          "status": "일반",
+          "headline": "상장 제약·바이오사 상반기 평균 ROE 코스피 -0.64%, 코스닥 -1.14% - 약업닷컴",
+          "sources": [
+            {
+              "press": "약업닷컴",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03eDA2aFlyR0gtZ1NjZjJsOXJEMFBvWDRJVVpqbWd1ckdRUWdjUy1kXzJvc1JpYjV2c0tZQjl2QTZBdHVBT0VIMUdyWWd2WDBsenBhS2J0Y2tBUG5velpzN0czLUwxUQ?oc=5",
+              "pub_date": "Tue, 06 Oct 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업닷컴",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdTJRRHZPXzYxX2tJLVdycVNjV1RBa21VaGhnOGE3TkRyYmJQQWozVzlTaHpEYzVQaG5aTUJIQ3lFa1FkRWg1UmdNRTNYWHNGMDE3ZTM1bVRhcmxEZTE0NEtqamcwNDFoOUxmN09fLWJyVzlCMGFhMmZ3?oc=5",
+              "pub_date": "Sat, 10 Oct 2026 03:15:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uU1Ixb3d3bl9DeTVGTTRPRFZQRFBiZVNpSDl0Q1Y0dzhRUmpCc3ppRVpPNmJUZGZNR1Z5aThQYXNyZTRZcmlKM0gwQWVMYXdQQTRxWnlsSi1qSjVmNkI0bVFlMm9XQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:01:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-07",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "326030-기타-50382-20261016",
           "category": "기타",
           "direction": "중립",
@@ -534297,6 +535386,11 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JTDZlQXVBT2dHWThlVzlHRUwwRnpfZ1pfeHlYSFk5OVZVM2RPYl9jeG1hS3FpY3Y5cXBSUVJSWS1uaEpibmxzZ0JneU5VMUZaaS1Pay0wbklZdElhdUlqYzNhNnE3cER1aTVpaEZMRUtaX00?oc=5",
               "pub_date": "Sat, 17 Oct 2026 14:58:55 GMT"
+            },
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNS0xU3l6aVBFQWFOekNVQ0d5MVBqYjJ1ZTcycF9lbUdfcUlIWjZnUlVlRVFTU0Rqb3BxZE5wYm5CTU1hX3lBdUhOQWl5cG9lMnNuWVY5X1ZqUm1LTnFJX1FqTWZSeEJ1b0hYT19hUlFaeGRaNzJLc0YzS29PRzg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 16:42:47 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -534495,6 +535589,42 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zWlU4Skg3dVVkZmJfVjU3X3ItRmZBekZDRS0yallkaW1TQUxEVEtuSGJxOVRvdTRDVU4yWk1rQkk4cG1XOWZaQk1DRVhKakpDNzZrcDZNMVFJdGQ5SHI1TDJBWVJOUjFSTzYyZWo5ZGVibkxY?oc=5",
               "pub_date": "Sun, 18 Oct 2026 14:40:18 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "326030-바이오-52792-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[K-신약 유망주] 종근당 'ACL-508', 내달 美 심장학회서 베일 벗는다…국내 임상 2상도 초읽기 - 소비자가 만드는 신문",
+          "sources": [
+            {
+              "press": "소비자가 만드는 신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUFpFYi1ZUVV2ZWRyMmM4YmxQa0RobW1vSUZYeFpTV2FKNnYyeW5kUXdXdndzUEZtNVEzVXlUUmFpY0RsQ0stWXlzbWZjdTdKT2pPRTB1UGRTRmVXWndBLTlrV2VBb0gyNndINFFWSnhiY2c?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:10:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "326030-기타-52793-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "게임 설명과 실제 화면을 맞춰 보는 크림 슈 사이트 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FemdHdU9ZNktzN2t2QzR4UWlQeFhXb2Y5SEVIVUNtRTdjT0JIQVNaeEVmcnZFM3NKWjR0dFhtSUt3cDdXbjI0LWhST1p4RlRxdmVYRm5WZmkxeTNaMk1OaXBZZFpHQU5wX2R0dml3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 10:20:56 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -536235,29 +537365,6 @@
           ],
           "first_seen": "2026-10-12",
           "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "326030-기타-43312-20261007",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "상장 제약·바이오사 상반기 평균 ROE 코스피 -0.64%, 코스닥 -1.14% - 약업닷컴",
-          "sources": [
-            {
-              "press": "약업닷컴",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03eDA2aFlyR0gtZ1NjZjJsOXJEMFBvWDRJVVpqbWd1ckdRUWdjUy1kXzJvc1JpYjV2c0tZQjl2QTZBdHVBT0VIMUdyWWd2WDBsenBhS2J0Y2tBUG5velpzN0czLUwxUQ?oc=5",
-              "pub_date": "Tue, 06 Oct 2026 21:01:00 GMT"
-            },
-            {
-              "press": "약업닷컴",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdTJRRHZPXzYxX2tJLVdycVNjV1RBa21VaGhnOGE3TkRyYmJQQWozVzlTaHpEYzVQaG5aTUJIQ3lFa1FkRWg1UmdNRTNYWHNGMDE3ZTM1bVRhcmxEZTE0NEtqamcwNDFoOUxmN09fLWJyVzlCMGFhMmZ3?oc=5",
-              "pub_date": "Sat, 10 Oct 2026 03:15:00 GMT"
-            }
-          ],
-          "first_seen": "2026-10-07",
-          "last_updated": "2026-10-11",
           "stale": false
         },
         {
@@ -551413,6 +552520,60 @@
           "stale": false
         },
         {
+          "id": "195940-기타-52801-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "대원제약, ‘P-CAB+아스피린’ 개발…구강붕해정으로 차별화 - 메디소비자뉴스",
+          "sources": [
+            {
+              "press": "메디소비자뉴스",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UQWZRVENZUEtTTUU4NnhQdzJvczEtN29UZ2QxSkpITFRPWGVISDVGUGtRNEt6eW5Wc2tqX2x0RXlBem9SQWcwU2NfMG0tWHRDVEl5cERIdHBjWjloR3JweldnUmozMnFiRXktX2dHNktuMHBCZnfSAXZBVV95cUxOVEFmUVRDWVBLU01FODZ4UHcyb3MxLTdvVGdkMUpKSExUT1hlSEg1RlBrUTRLenluVnNral9sdEV5QXpvUkFnMFNjXzBtLVh0Q1RJeXBESHRwY1o5aEdycHpXZ1JqMzJxYkV5LV9nRzZLbjBwQmZ3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:03:01 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "195940-기타-52802-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "릴 영역이 변하는 조건을 읽는 레고카지노 먹튀 기능 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPenlTei1WRDhjWDEyTk1Fb2x2aTl1c3hzVEw0N280ZjNLNEtGRW9IaXlMazVvaDlld3o0V0FxVzhwOXRBd1k5NFk3S3NTVEhiaHRoNTF0cmN3UE5qM1A3RmJ4NW83Vy11bFBxcDFWLVpZS1lnVXNGckxWeG9hVGREUnpCR0x1X0JMZExZOU91cVh5b19fMXNMR0xvdG1FUXVCSUYyLXFPRFltWVVPaEpfNTZ6aWx1T2xXbVBTZko1a0dwZlB4RkV6NGY2Ui16dWttU2hmUUg0d2E4X3BabjBlbDBiLW5sR3AtNzdBc0VXcW9QSWNrTGN4R0M0RmZiZjZobF9ldkMtd0s5WEdGdUxlQWhDaEZramgxM0dzMkFzUTRJZTg5NWxFOVBmRkl6Yi0xUHIzYVMyb2xHS0tlUk5Fc2VxczVXeU5JVVlEZUdmazR1YWFyUUJEdlliUzdONDh0eVpGa29GVkFOM1ZmUVloa0pja2RlYjJLZTFRWXhISmhzWDJGN1NDUmR6cXdpVGVNUm85ZjAzaw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 05:22:24 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "195940-바이오-52803-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[K-신약 유망주] 종근당 'ACL-508', 내달 美 심장학회서 베일 벗는다…국내 임상 2상도 초읽기 - 소비자가 만드는 신문",
+          "sources": [
+            {
+              "press": "소비자가 만드는 신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUFpFYi1ZUVV2ZWRyMmM4YmxQa0RobW1vSUZYeFpTV2FKNnYyeW5kUXdXdndzUEZtNVEzVXlUUmFpY0RsQ0stWXlzbWZjdTdKT2pPRTB1UGRTRmVXWndBLTlrV2VBb0gyNndINFFWSnhiY2c?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:10:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "195940-기타-8758-20260903",
           "category": "기타",
           "direction": "중립",
@@ -562117,6 +563278,78 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWlpvaTN2TjlLSnd3RGsxTDVqdHo2TFhxQ3dOUVdWR21WNDQ3YUlDdTg1YjdPQ21nNExkeHhCWkViVzJfRHdKTXBQcFZfTHV2dlhEQmVuakpFdFRhVm1tbGFtaHhKbHVkakhNV1paRjlHRVhiekJjeE9ELUItYTlFUlh1dGNjeGxXRXR5UUtiUXotMHBSYl9zcGNGc0gtaUtDZVk5Z2Vycm9xY0J3VUtYN3AyX3lYVWtfaFg4ZklxRXBOc3FOakttbXd3b0RRTm9wTlJVTWZoSHd1cHV1V0N0aTZYMVdtLVR4?oc=5",
               "pub_date": "Sat, 17 Oct 2026 23:54:42 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000100-바이오-52794-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[채용 원픽] 유한양행, 의약품기획·임상과학·헬스케어마케팅(~10/26) - 히트뉴스",
+          "sources": [
+            {
+              "press": "히트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tQThwTUttUE9CcGtDeVJNQUxXZWJ3Wmc4V2ZoVE1zcUpkYkZHMGROM1hGY1N6YXY2bUZUT1E3clJycjlLbE9yME9wZ2xZOVlMR2lBQjBNMHRXMEZEUG1WcUlrMHdBWG5sSW5j?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000100-기타-52795-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "유한양행, 저분자 TREM2 뇌질환 신약 개발 ‘만지작’ … 중추신경계로 보폭 넓히나 - 헬스코리아뉴스",
+          "sources": [
+            {
+              "press": "헬스코리아뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yRzNyTFRGM1BLY0xJSzg0dzZ4eHVrclBxYUlnWW95M0M1MFR4TmVTT0N4TmRiNWJBMkZYX2tjQW12TEwxRXZWTnlfV1EtZ2xtRDBvMFdscG80dnVhTWZpZU9pb0VXeXM?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:16:45 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000100-바이오-52796-20261018",
+          "category": "바이오",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[K-신약 유망주] 종근당 'ACL-508', 내달 美 심장학회서 베일 벗는다…국내 임상 2상도 초읽기 - 소비자가 만드는 신문",
+          "sources": [
+            {
+              "press": "소비자가 만드는 신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUFpFYi1ZUVV2ZWRyMmM4YmxQa0RobW1vSUZYeFpTV2FKNnYyeW5kUXdXdndzUEZtNVEzVXlUUmFpY0RsQ0stWXlzbWZjdTdKT2pPRTB1UGRTRmVXWndBLTlrV2VBb0gyNndINFFWSnhiY2c?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:10:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000100-기타-52797-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "삼전닉스 빠질때 조선주는 뛰어올랐다 - https://spt.co.kr/",
+          "sources": [
+            {
+              "press": "https://spt.co.kr/",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FUjl5SWFiZVVHRkw1dHFUeXE1aXdhRkZ0dG0tazNBNU42WFNHNGFuWGdxYkNCLW9WWnUzZzh4V0g3anNESi05T0szYWx4dmROcVM2TkppQkFpNHdm?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 19:03:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -579812,6 +581045,42 @@
           "stale": false
         },
         {
+          "id": "145020-정책-52798-20261018",
+          "category": "정책",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "글로벌 영토확장 나선 K-톡신…'규제'가 발목잡나 - 뉴시스",
+          "sources": [
+            {
+              "press": "뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KUWJRZm9IbDZGU0hXanFwOTdzOHExYzNWSS1CV3BnOExBa05mWWRRLXJZNWhoQ2JEV0wwVkM4NTVzbVlHMV8tbFJDbU1vcF9kanN4dWdlLW9neDFwQVZEbmpnQkVUU1pQVFNyTUNzLUlpT1Q3T0lyYdIBeEFVX3lxTE5KUWJRZm9IbDZGU0hXanFwOTdzOHExYzNWSS1CV3BnOExBa05mWWRRLXJZNWhoQ2JEV0wwVkM4NTVzbVlHMV8tbFJDbU1vcF9kanN4dWdlLW9neDFwQVZEbmpnQkVUU1pQVFNyTUNzLUlpT1Q3T0lyYQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:02:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "145020-기타-52799-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "동행복권 파워볼 중계 더블유놀이터 정보 창을 열고 닫는 기본 조작 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41Z0dHSW10OTdLRXV3LW84OG9POGd6MVhNYndvMmRTMEJndFpGSUxzYUFsR05LN1NrV2dhZ215RkhWSl9sYy1FZjVqRlZfWjFuOE80a0cxU0h4WGJBMm16NnBmT1hRV2c?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 08:06:09 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "145020-기타-49932-20261015",
           "category": "기타",
           "direction": "중립",
@@ -587020,6 +588289,24 @@
               "press": "https://spt.co.kr/",
               "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zeFZvXzVTY3pfT1dJeTdoT2xpYk1CUFUydnhvSkVmLVRFUFcydUNFemFTMFFIUmNFdUJnWXVCbjk1STlJZ29QTjVYNzd2S0NPcVdlT2JTaGRUTERV?oc=5",
               "pub_date": "Sun, 18 Oct 2026 00:19:23 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "214450-기타-52800-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "국민연금, 100만에 국내증시서 200조원 가까이 손실...삼성전자 SK하이닉스, 72%에 달해 - 비욘드포스트",
+          "sources": [
+            {
+              "press": "비욘드포스트",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTHR1X2pONVBVSWlPUDN1YzNaVDdESGJ5SnNWT1VOLXVmSXJ0ZDN6VjdTMjVzQjRBZ1FJa3FzZjdBMnpDbTFWREpxcm5rdTZ5ZW14c05MZjBHSTBUb3NvT2M4eVJmOFo5QTJxTDhIaVp2eHE3c1lHMVFjUHc?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:18:59 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -604482,6 +605769,34 @@
       ],
       "지씨셀": [
         {
+          "id": "144510-기타-45046-20261011",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "교차검증",
+          "status": "일반",
+          "headline": "상장 제약·바이오사 상반기 평균 부채비율 코스피 75.08%, 코스닥 58.73% - 약업닷컴",
+          "sources": [
+            {
+              "press": "약업닷컴",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdTJRRHZPXzYxX2tJLVdycVNjV1RBa21VaGhnOGE3TkRyYmJQQWozVzlTaHpEYzVQaG5aTUJIQ3lFa1FkRWg1UmdNRTNYWHNGMDE3ZTM1bVRhcmxEZTE0NEtqamcwNDFoOUxmN09fLWJyVzlCMGFhMmZ3?oc=5",
+              "pub_date": "Sat, 10 Oct 2026 03:15:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTzRUU0M2SnhwV1U1U2tRc09UMzlfcGhPX1NiTk1WbEZ1SDFueHNzLUZuWnJHN01jUE9IWnQ0M1p1aVRRX0RFQzlMZUU3N1ZOWEpsNUdreEp0bUdCMVZ4c1BMR2tkV2lXUGdNeDFfb0hDUXpmUzVfcnJKajZQdw?oc=5",
+              "pub_date": "Mon, 12 Oct 2026 21:01:00 GMT"
+            },
+            {
+              "press": "약업신문",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uU1Ixb3d3bl9DeTVGTTRPRFZQRFBiZVNpSDl0Q1Y0dzhRUmpCc3ppRVpPNmJUZGZNR1Z5aThQYXNyZTRZcmlKM0gwQWVMYXdQQTRxWnlsSi1qSjVmNkI0bVFlMm9XQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:01:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-11",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "144510-바이오-49299-20261015",
           "category": "바이오",
           "direction": "중립",
@@ -605121,29 +606436,6 @@
           ],
           "first_seen": "2026-10-15",
           "last_updated": "2026-10-15",
-          "stale": false
-        },
-        {
-          "id": "144510-기타-45046-20261011",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "교차검증",
-          "status": "일반",
-          "headline": "상장 제약·바이오사 상반기 평균 부채비율 코스피 75.08%, 코스닥 58.73% - 약업닷컴",
-          "sources": [
-            {
-              "press": "약업닷컴",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdTJRRHZPXzYxX2tJLVdycVNjV1RBa21VaGhnOGE3TkRyYmJQQWozVzlTaHpEYzVQaG5aTUJIQ3lFa1FkRWg1UmdNRTNYWHNGMDE3ZTM1bVRhcmxEZTE0NEtqamcwNDFoOUxmN09fLWJyVzlCMGFhMmZ3?oc=5",
-              "pub_date": "Sat, 10 Oct 2026 03:15:00 GMT"
-            },
-            {
-              "press": "약업신문",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTzRUU0M2SnhwV1U1U2tRc09UMzlfcGhPX1NiTk1WbEZ1SDFueHNzLUZuWnJHN01jUE9IWnQ0M1p1aVRRX0RFQzlMZUU3N1ZOWEpsNUdreEp0bUdCMVZ4c1BMR2tkV2lXUGdNeDFfb0hDUXpmUzVfcnJKajZQdw?oc=5",
-              "pub_date": "Mon, 12 Oct 2026 21:01:00 GMT"
-            }
-          ],
-          "first_seen": "2026-10-11",
-          "last_updated": "2026-10-14",
           "stale": false
         },
         {
@@ -626448,6 +627740,24 @@
               "press": "경남포스트",
               "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rUm1VdGJReG9KVXlHMUp6dnptOXJYdUNrWUVyVHdhcDlVUllnWmpEXzRnZ0sxV1BJVkRDZkg2aDlfQ0h5WGU0TkM1Y21iU0Np?oc=5",
               "pub_date": "Sun, 18 Oct 2026 09:49:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "298040-실적-52740-20261018",
+          "category": "실적",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "창립 60년 효성그룹, 조현준의 ‘선제 투자’ 빛났다…효성중공업·티앤씨 실적 '훨훨' - 소비자가 만드는 신문",
+          "sources": [
+            {
+              "press": "소비자가 만드는 신문",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FcVJ5US1YVzlNQXBJY25jT3EtUW5FUWo0dWtKZnEtdUpIc3lUdFhrNC05RUVJTU9odERIdlJpT1hMand4d29ta19JM1hieTg4QnhfM1lHaENUZEZxNzZkQzQ1YzY2Y1Q3cGZFVnZCSTg4a0E?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:11:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -659681,6 +660991,11 @@
               "press": "네이버 프리미엄콘텐츠",
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSk16cFJHQ1lzUXdndEExZ0p2dmpHeXNJR2lhTTE4Y1A4V0pUS2U2RVJZSFRpdFhkVkU0ZTRfUTFfaUJRcG1DS0F5c1N4b19MSE1HelhiUGpYV2tkd0ttc0YzbjNVeDhhcFJQMkwweEt0dU5odlVBRzY5akw2V1BuVEdR?oc=5",
               "pub_date": "Fri, 16 Oct 2026 03:57:35 GMT"
+            },
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONU0zVlMwMUs3aFhYdUx1Nl9YUzhjUkM5UGFLWGFOMzJoeHBIdEJJMTNteXZQbV91ZXl1ZU5FM0VWdXFEOGFocUZWMmJEdHNQZ0M1R3REbXdXTUdST25DQ2NibExFczhDYnpYb2sxQ3kxSWJvb0gtWUFnWnVHZUlQZkN3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:03:43 GMT"
             }
           ],
           "first_seen": "2026-10-15",
@@ -668123,6 +669438,96 @@
               "press": "조선일보",
               "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHp4a29vcXZFQURqQnRBYlBpdFNuYkVjY0M0T1J2cHlUbEY0VlRPY3R1NHJKWXR2cHJ2TXRhVkg3a0NtdVdVbjZDWFB2b2Q3TkNoeU96UnJOQ2t6T3V6ZWhuZU8yejdsQlZMVnZjQWRITkgyZ244WkhPa04tREZvd25kaElVd2JHRWJv?oc=5",
               "pub_date": "Sun, 18 Oct 2026 15:31:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "006260-기타-52741-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "놈놈놈 토토 먹튀 시스템 아키텍처의 입문 가이드: 사상, 행동 및 결과 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZOWJSRDZnSW9wOUl3dmVITjRLLVNRTmJhWWlQb3hQRHZLUmlUY0hHeE8xQklrM0dxMGhMdUo1NldUNTJSNTVSdFpxQXA0Y3l6YXRHQlJSTV94UHdwdS1fWktrSzlsaEVzM3c?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 14:33:19 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "006260-자본-52742-20261018",
+          "category": "자본",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "배당표에 없는 심벌이 보이면? 홀덤 올인 핸드 기능 확인 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcWZzYVEwa04zWkVxQzY1V3dja2RvamIzc2lORWZTX2Q1OFd4RUE3VzdjcHE2el8yMmNyRkl2MWFUNU5OT1VhVGs2TWluWnJreUVoemhKek1Zbl96aEI4M0pkTlZSOXRRM3NNbklSM0xEckNmOV8xZm5aSlp6WGwyTFlDeXNlaEs4WUhqNFJ0Zmt2OHFaUGI0NWJFbzEwZ3EtUWxwaVg2ajd4WXc2ckx5T20tMFVjeW95all6Ym1QaGowOUlvNlg5dFcxTmJYdWlOTlFKU0cxZ1NxNDN3NklELXJaZ1dXSGdPUk1ISXNpRlprRXU4SDlsaDlRRFFNLXVjcFpFU1VsV0pkdE5pR1l4bWFqaGVtOXNQVmJiSGtR?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 16:30:31 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "006260-기타-52743-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "설정이 적용됐는지 확인하려면? 다낭 골든 베이 카지노 표시 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWNLX0RQVG1JMUpRbzRBeVAtVW5jLUlhYTBwdTdsbHN5NXpBcTZJY20wZzlLRVVHajVJcDV0Mlhqc252dzZSTlIwWFpGUUpPZFp6bm1OdVBEOTd1R3lTMkZQUVZabE9MRHZvREZwSkdsUEVlaGZZZmtXMThpbmV2cV9LTjdfUjVOemt4S0VSRU9QQQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 16:59:55 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "006260-기타-52744-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "윈카지노 가입쿠폰 안내 창의 확인 버튼 역할 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTGloZ0I5M1VZOFFFRWpRc0twTXRsOE53eGdlbVktTmJlU3QzVnphZGw1dTJ6UWJPLWJMUEpYd3l3WUcwQno0eTMxX2lmRTFJZm9KaDNwM1N1MW9aQy1nTThaMWZRQVBOYmRfRE5iZDctYTV5QlVpUW4tdnNwdlFKNm5yMUJPdUhCUGtNRmJYRUUta3NMNGFnNGlUQnRzdUlwRzVIZ0FjUkhRUG1xNUhaZUxFRDdwZ0xzU2Juc3JxdFhxQU93a3EtTHRHZUpYSGh3R1dsVnctWG8?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 14:28:30 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "006260-기타-52745-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "포커 만화 보너스 종료 알림의 위치 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMzJGbEh0amgyZThQV25SbHZqXzhOS1A0czFtMGpNYllHaTVTR2xCNzNIM3V2TmdvWWJTQ1RQaExTR25KYXpTRWFlTnFyUlRrOGhMOVB2Q1B5RFdBU3JnS25BMk5zS0w2NEpWdV9oMmtRYS1IU2RRNGZrTFdSS1UtVkJUd29pZ0dONmE0elZLV2JjRjFuNEhGWVE2b05mZVNqNkdPU0hiZV9yWUZPMnRTYkc4WGxhWG1fRnd2WEoxbW1YTjdLTjBTd1RLLTNhbVhFRUtLWUJYYW1rc1NtdlVmWVcwQ3ExNDlXSWJyYzZQemgxZnZzOHZfcw?oc=5",
+              "pub_date": "Sat, 17 Oct 2026 23:34:17 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -693452,6 +694857,24 @@
           "stale": false
         },
         {
+          "id": "001440-기타-52746-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "추미애 '늑장사과'·김민석 '과잉의전' 논란...與 전전긍긍 - 중앙신문",
+          "sources": [
+            {
+              "press": "중앙신문",
+              "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQNkpjU0o0ZXdTTnVuekxDODFyN1hJWTNfV0dvN2IxYkhlMzJ2c1QteHZ5M2J1cU0xYzJvT0hyOE0zRGNMOERjb21FdUZFdFNueS1CZlJGR0REdDhQUVNrXzNGZXJBZFN0aDczZXA3aGVPcGQwUV90RDJZN2VGRC13MVhjSkNXdEY0cjJkbkxwSW9LVVA1dEc4c0I1RkJnVHIxNGx0VGxNd05WQ3VHdVVFR1RheENhekJ0bWU2X0p6NzNSNENEdUpGdEZiM1FscXF5OHB2MmhtTF83OUJUTE5TQWtpZVI1RE9yXy1YeEI4NGFYYms4U2dENUo4UDhnSmpwWW9RM3JOQXJ6dktNWjI5aVk1NWlvWEhUUEJfSjZWak5qVkZZSDE0WTdpNGtoaUpjbjZuenN4cUNMVm5zZkNaVnhNS01tcU9ZczFTZGVDNA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "001440-수주-49129-20261015",
           "category": "수주",
           "direction": "긍정",
@@ -717210,6 +718633,24 @@
           "stale": false
         },
         {
+          "id": "060370-기타-52749-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "여러 슬롯 중 구조를 비교해 보고 싶은 빅보스 홀덤펍 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEpqOG1oSHVhbjVzbjdIcmJLQThObjlpUHhrMEdDcFdnQzM0SDVnTWpDcVV2eUhwYUl0aWdxM1FJYTBQNDNvdTBZcmxubVFEWloxUVUxMFlqdGtSSVd3YUpteE9xbDBIZFNHN2VLWURHc0pDUzNtZ01MOW03TDJCRFgwR2MyMlJMLXViYTd4SF9HX0V3bGJnMTlXT050eUR5YVZzWVBYNjZEZk9wREd2QWh2bHRJS19PVkJ2VmxRbmJFMHcxaklSTWRJUWhiZDVjd1JUc0hLZDdFX29pRTlvNHZ6YkI1UQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 17:17:30 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "060370-기타-37860-20261002",
           "category": "기타",
           "direction": "중립",
@@ -725028,6 +726469,29 @@
           "stale": false
         },
         {
+          "id": "000500-기타-41467-20261006",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "강원랜드 바카라 맥시멈 게임 유형을 구분하는 기준 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1memxvSEZVd2s2QzhDQTZRS0VSbXppblZsR0ctMFhEOWs0aU1rRGd3b1RjM2tDeXIxV1lIc3IwTWdlb3Z0TUNDRnFSR1kxQzIwT0gzUkdncGEtWTZiMzdsMzM5aDZoNThqZ0p0OWNGcmMzZXA0Qm1rYjI1UE0?oc=5",
+              "pub_date": "Mon, 05 Oct 2026 04:42:26 GMT"
+            },
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkZIZjlfbE1lNUJSQjlmQ0lkdHRrR29zUHB2c0RYTDNpeE1OWFRGSkN1N21iekYtWlFlaEZRaXA0ZHVQMEpOenpWeHlSVjBiQ2FIR3RGanNSRFJGR01uUTVfQ0h4R3BxdWZrV0ZHWWwzeEJBNVdoUS15T2Z2M2hpQkRJRThVXzE3MGg1NmI2bFJVSUdwZkFZZDNtWGdrMmxGMkRBVUJTaWxvMHpURjFlcnZEdjJaMnFsZ0V1VHNQcnNtTW0wNE1OaDRtSGZxR0RaME1zWU1YOGxJZw?oc=5",
+              "pub_date": "Sat, 17 Oct 2026 09:23:18 GMT"
+            }
+          ],
+          "first_seen": "2026-10-06",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "000500-기타-50525-20261016",
           "category": "기타",
           "direction": "중립",
@@ -725345,6 +726809,42 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWV2ZGItRDNfRTVldXNKRG02c3N3X0pCckxmc2dZRDZRckN0aVJGTU9oNlRtb1RqRDhrMm9mUlJ2UjFGVzhEOGcwNUdOeHdQVXJ0X0tLNml5Qk52UmF2SktBRVl4NndTdFEwdUJBR08xcmNEc3djSTJZc256MDJYaHluaVc1NHg2bGJXWldLNA?oc=5",
               "pub_date": "Sat, 17 Oct 2026 18:11:45 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000500-기타-52747-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "심벌 설명에 없는 조합은 어디서 찾나요? 촉토 카지노 무료 선물 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEp0NlV2ekFYTHNaMjBuVlFuSHd0ZHJQUnRYRUVXdmlZZE9wMnZWOGI2MERmM29xM2NXdXBCaXo5MkpzdGZOT2N6UGNwN0NKTmdQWlJKOFVYV3JvbE4tRmNGZGNsb2ZXdmtoUno3aFNfemhlVEdVcURJRE9wT0lqVG9YM1hOaEctSHdYRTlmQmxuQWhSQTJ0dElhakJRbGZWTnE1VzdGMmpTRkpFQml4bQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:29:50 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000500-기타-52748-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "자카르타 카지노 호텔 화면 속 숫자는 무엇을 뜻할까? - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpT0FjVFBqX1ROSHRSWVRtdHM4VXZ3OHJzR3RRZmticks4amhyZ3JROXFURkFyc3Jxc1A2dktwb1VpOTVFUWtDZlh0Qm0yZ3V2M1otWi10eTBIMXBTSGo0YkQ3SXlLd3l2OU1ta1VZbw?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 08:09:29 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -727791,24 +729291,6 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fM2tJLXhhWnk1YWhRYVQzRWVTZzY5S0FiYVJmNDc2bHBIZUlnQ1hmY01PNUFwdFdNcHdxblJySHJhRnVpWUZaNjhOMkR2ZkRKMVk3VXdHN1hKSENnY09mWXVtR2t0aGxVVDMtM2pma1ZJR0dZVzVv?oc=5",
               "pub_date": "Mon, 05 Oct 2026 22:48:30 GMT"
-            }
-          ],
-          "first_seen": "2026-10-06",
-          "last_updated": "2026-10-07",
-          "stale": false
-        },
-        {
-          "id": "000500-기타-41467-20261006",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "강원랜드 바카라 맥시멈 게임 유형을 구분하는 기준 - Calgary Roughnecks",
-          "sources": [
-            {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1memxvSEZVd2s2QzhDQTZRS0VSbXppblZsR0ctMFhEOWs0aU1rRGd3b1RjM2tDeXIxV1lIc3IwTWdlb3Z0TUNDRnFSR1kxQzIwT0gzUkdncGEtWTZiMzdsMzM5aDZoNThqZ0p0OWNGcmMzZXA0Qm1rYjI1UE0?oc=5",
-              "pub_date": "Mon, 05 Oct 2026 04:42:26 GMT"
             }
           ],
           "first_seen": "2026-10-06",
@@ -754902,6 +756384,42 @@
           "stale": false
         },
         {
+          "id": "034020-자본-52750-20261018",
+          "category": "자본",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "축구토토 승무패 14회차 배당표와 게임 규칙의 연결 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QUEZIUGM4U0tCT2ZTY2VsQlhtVkZzOHVnLVYtRTVZc1psNlR6ZElCQ0c1cjh5S2wzcG5XWFlna20wZ1JEXzQ2bDJEbHRQZnhkeldCaEtMazYzMzg4X3VTaTVMV1FOXzBiRUZNRENR?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:44:03 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "034020-기타-52751-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "조용한 환경에서 확인할 태국 토토 직원 소리 옵션 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUFRck1oa19iZlFSekEzelQwUnBDZnhzSzFxbTVtLTlaOWQ3eWRvS3dHQmE1c21pZWt0V3pUN01aVTlhLXFjcWg3T1RHYWM4bHM4dFNPYVZxSFEyM2NnMG5NbHl1NHpMUDhHbXBkYmRHTUtZTkh6eFBydmc3cG1lS05lSEhDMVJldzM3cg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:19:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "034020-기타-17877-20260911",
           "category": "기타",
           "direction": "중립",
@@ -778074,6 +779592,11 @@
               "press": "뉴시스",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qanNmSE9PbGtPTGxlTVNXZkVHWEFsYTNCR1lSWHAwNFg5SE03WmlZZFl5al9HSGpzaldzcDk0b0JUdlBjWEhXTFJiUHpPektIc0ptVjREZkJDdUZlSDdQcNIBeEFVX3lxTE5DNVQ1X3l4ZlY3QVBpT2p6MzBJVEdIUWZld2VJUjhfcEJOUmQ3WF9xMXA4SEZ2bUlna2d6VTZyWG9JOXlPNmZZQWlhMXUyOFI2OF9ZeENRWjE1ckl3UmRaRDlvSDVYQ0FFNDZsR3luQS1rNmNSTmpoVg?oc=5",
               "pub_date": "Sun, 18 Oct 2026 00:33:12 GMT"
+            },
+            {
+              "press": "뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DNVQ1X3l4ZlY3QVBpT2p6MzBJVEdIUWZld2VJUjhfcEJOUmQ3WF9xMXA4SEZ2bUlna2d6VTZyWG9JOXlPNmZZQWlhMXUyOFI2OF9ZeENRWjE1ckl3UmRaRDlvSDVYQ0FFNDZsR3luQS1rNmNSTmpoVtIBeEFVX3lxTE5DNVQ1X3l4ZlY3QVBpT2p6MzBJVEdIUWZld2VJUjhfcEJOUmQ3WF9xMXA4SEZ2bUlna2d6VTZyWG9JOXlPNmZZQWlhMXUyOFI2OF9ZeENRWjE1ckl3UmRaRDlvSDVYQ0FFNDZsR3luQS1rNmNSTmpoVg?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 00:33:12 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -778259,6 +779782,11 @@
               "press": "핀포인트뉴스",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kT0VYNjZQa0ozeDBJVWxDRGVZSDNFaWhqLUk5MXVWQmhmT21TNFAzdlVJN0RDeGZmU1JBT21vMG5NWnRjd2FLT2xCLXJvOU1JMTNka0QzY1ZsWmEzb0xDR0JlNTBZOG9aZVhMZ3BkNmkyVlJlUHdJ?oc=5",
               "pub_date": "Sun, 18 Oct 2026 15:17:05 GMT"
+            },
+            {
+              "press": "핀포인트뉴스",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMFJGSktTWldHUjFTMWs0TTBYckI5RURHcTUxenRqTlNBRTlaZUZtQnMyWGc2OUJpRjZIVUlQWU9XSHloUGppYWtzZUZzU3h6UUxzNTdKSVh0YUNINGJJM1hzM3llR3hXamlndmFPNldnd1k?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:10:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -778295,6 +779823,78 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04VlRXOWpCOUNYUFQzVDVseDNPZ01mTmQ1OWVhQ3JlZm1KSnBsVFF4VTBRNkJ4ZjRLYVRvNU9uTnlJY1ZEdWY5eWY0bTlabWdfYThtVnN2Y19oMVRoSk5wVjdUQ3ktMWEtS0ZjRDhpQQ?oc=5",
               "pub_date": "Sat, 17 Oct 2026 09:33:30 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000720-기타-52759-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "“연어 키우고 공동주택 PC 공법·탄소저감까지”…건설사들, ‘첨단기술’ 개발 경쟁 - 데일리안",
+          "sources": [
+            {
+              "press": "데일리안",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFV0lQOUFXV0x5eGxsOFBtWDlweXlydnVRY3hNMGJKVEltc2pxNEpqWFM3ZzZyNG5lcm5zTjhTZmdKT21qLWpnV2laZlVfdlFjRkRB?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 22:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000720-기타-52760-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "10대 대형 건설사 첨단기술 경북 집결… ‘건설기술연구 우수사례 발표회’ 성료 - 영남경제",
+          "sources": [
+            {
+              "press": "영남경제",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FeGluZFlEWUZuUjdSN2otNWptaTBFRkRtSFc1UElIb3poQWhsc0U1MkVFekRsSWctYU95NTVPd0tBaVdCOWNnMm92NkstaWxpUVRxX2dwVTFzdXNJampBU1QwX1FkeE0?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 05:27:12 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000720-기타-52761-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "장진 도박 - 토토 카시트 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wRjhfWkl4MDdfeXpBcDk1NEpjSndYakZ6S1prcnJNYnJqR2hsUi1zU1c1TjVrdnRYZDQwZThodlRJeGRrQnlEcjlXQTZzTF9JalhUekRJbWdFWWlEaG5GaW1Ec3pJT1I2LVdiZmZmR2M1X2pZTWpvYQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:30:04 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "000720-기타-52762-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "초보자가 이해하기 쉬운 토토 2 2 비타임 판정 예시 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY0pqZjFKQzd6ZUxBbFBzc0RSQ3VWdTg0ano5RnluNVlLeEpYZGoxdUFyNUZ2ajNHbXpPMV9RN29idGpJU2EwQzRvLTZtQ1J2dUZBRTRGdWx6c09QamJ0LWdvb2pKU1p1dlZ4OXJiUkpTUzRqcTlHX2NHazJzMlhLMlozQ0loQXlLRHRKUFBGazR2cVFqU0xRbWlYUTlBbTVEdHB1dXRxNjVKWjA4U0hJSzJ5X2N5dVhMU3JTU1FRcDYzd29yZVVuRm80TEpEeGdZWkZleEdBUnIzd2tRYUdlOElxc2c?oc=5",
+              "pub_date": "Sat, 17 Oct 2026 22:42:58 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -809527,6 +811127,11 @@
               "press": "뉴스티앤티",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aTkk3RkRua0l6UDRPeUlIQnhiWW1xcnNGOVNNYXlhMkhMczlabFBFSDRGemZsWUFEUlFUWlY4c09uQXh1RU9iZUJJcUI4UFhxQUtfYjJWTDY0YmFrMTN5d3R6cDBfNmxCcXc?oc=5",
               "pub_date": "Sun, 18 Oct 2026 13:10:00 GMT"
+            },
+            {
+              "press": "연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBYmZHRk5pcC1kV3V3RlZBRml3bkhDTmJNbVZoRlBRcHdNNkVtRFhMSUhWY2daNWpOcnJsWmNWVkhkVjZoTXdmaFZRdktLU25ESUIwQTczSUl5VWp3TTNzddIBYEFVX3lxTFBBYmZHRk5pcC1kV3V3RlZBRml3bkhDTmJNbVZoRlBRcHdNNkVtRFhMSUhWY2daNWpOcnJsWmNWVkhkVjZoTXdmaFZRdktLU25ESUIwQTczSUl5VWp3TTNzdQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 19:00:00 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -809653,6 +811258,24 @@
               "press": "브릿지경제",
               "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fNDIta2l5SFM5dFFJRm5VWVh6ZXJZaG5YTDFyelBtaWVpU0lqWDJKMmZpcE1hU0ROQ3JiY2xPeDlDSVlIekhxczZTNElrME5Mc1FhQWJreFVvZw?oc=5",
               "pub_date": "Sun, 18 Oct 2026 07:22:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "052690-기타-52763-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "게임을 고르기 전 펼쳐보는 풀하우스 토토 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWEIxUGp2bWlWOV8zSXE5ZThwWlZiWG8xbERIN3FMUU1fbVhFU2dUeldCMmtPamJqWjNNTVc4NERjMGc1YTRGLWVYdTh6MG9ESnJ5UkFZWmNRUkJ1UXQtSXhBdmZmMVRrOVVjak5aam9lSkUwTGowdDZRX093LUxOdEdxb0JxZVAwVF9XcmpHamp3M1VRMGZhZS1IUzFjQkl2Z3pEbTF1TGpwT3RqM0NubjAwa1I4YXNJbm0tOGpWUVl6aFdrVWIwZGFfSWRDdnQtaS1XUGdwTFMteFZ3VzNHX0ZnRVJjWWdFVmtPYlljX0VvMDl4N2I4aXJ3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:34:11 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -825173,6 +826796,11 @@
             {
               "press": "더코리아",
               "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vX2UzNldXZUV3NjdMTTFvMDhXb2hTRFBydmhtb3FTUlE0enNnalMwckZielgtX2RvaDV2b2ZoWWxGZzQ?oc=5",
+              "pub_date": "Sat, 17 Oct 2026 16:32:00 GMT"
+            },
+            {
+              "press": "더코리아",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZZkpmbVVUaXRYZmRJYWhoZDdoZWxqcW5ZYjA1Vk9LQkpGT3VJeG5Od0sxQTA2bUNtNmxLNGxvV2FCRTN2a2g0X05YM3BicjJDM1ZEcVpBeXk4T0RIbjYzaWJZbWR0Zjh3RjhwUGM4NDQ?oc=5",
               "pub_date": "Sat, 17 Oct 2026 16:32:00 GMT"
             }
           ],
@@ -845719,6 +847347,42 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXRDa2t6REpCOWJ1Z0w2R2NSRU15Y25ENXdmaDlwUlNMblUwbDhaQno2QnFRc3Zjc0JzVjNRVHNXeFZkcU1ocVhqam5TbnI0YUE0QXNnVGpzRjZ1SzZpLXZ4RVM2cXVFV2NSNDNDVzNkNVYtZjR4Nkx3V2w1aVJqM0hRTmFpVlFoU2RMNVdyaHUxZ0NIbDVWZUpEVEs3LXBUdlhuYTZ0VVNmUQ?oc=5",
               "pub_date": "Sun, 18 Oct 2026 09:19:47 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "032820-정책-52764-20261018",
+          "category": "정책",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[단독] ‘비닉’ 깨고 극초음속 공개한 정부, 내달 고체연료 발사체도 쏜다 - 중앙일보",
+          "sources": [
+            {
+              "press": "중앙일보",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZTFSekw5b2Vjcmp2ZEZxMFV2c0E5U2xjbG1OVWZwV3lybUpVbDhKOXY5Ti1CUWItZkxwbkFmVjNHUGJmQUdMMGpsMGc3TFBDX1ptR2hB?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 20:00:01 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "032820-기타-52765-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "특수 기능의 이름보다 중요한 텐앤텐 발동 조건 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsT1Z2VHl3QTlzeUpEcll1MG96Y1ZTa1ZyZDl2dmJSNlpoVDdNVkNIOXpsY25hM3lWQmc3VEhJWUZLT3MtTnllT0hEOEczeHhvR29xdXFiNDF0SGtnY3E4MXRXZFViOHpu?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:19:27 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -874673,6 +876337,78 @@
           "stale": false
         },
         {
+          "id": "047810-기타-52767-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "[우주개발 나침반] ①발사비용 비싼 '누리호'…'수송능력·상업성' 숙제 남았다 - DongA Science",
+          "sources": [
+            {
+              "press": "DongA Science",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wNVgwaTZzUFAyT1A4S3lpbzVqeVZMMC16QVJzS2JxLUlUTE1sUUdxUWVXRjlid205VWNBWkVfMTV1TGRfTi04UkRlRFNSWTdhd0hNdA?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 22:00:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "047810-기타-52768-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "하늘길 연 국산 전투기 보라매, 날개 펴기도 전에 맞닥뜨린 단가 벽 - 글로벌이코노믹",
+          "sources": [
+            {
+              "press": "글로벌이코노믹",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkxQTThBbXpPc2hQNE53NWlKVDVwQVVDTUFWdzFiajBZbl9WX013LUFWb1VDLUtwejByN2tfZkNyMjVOZU1idTMxVy1wY1dJZXpKaEJHckVpRzBXRHQyZ3puTVNHT3dvWTR4MndQSUZZdlQ4TlI5dmQ3enEtNm5RN2ZPMWFENGwx?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:11:42 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "047810-기타-52769-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "스캐터와 일반 심벌을 구별하는 온라인 판매의 생존 심벌 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90UW5GOXIzU3pWYnVLX1NBTWlxejN6ZGQxUmZhRzdnN3NHNHhEb2F5ck9oZmdKVmJYdGhNOXM0ejFPS3E3SktVVU0tU2ZDZUxneXg2X2VCVkEzU0JTZmNONFR1bko5aFkxLW5ET3N3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:55:49 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "047810-기타-52770-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "특수 기능의 이름보다 중요한 텐앤텐 발동 조건 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsT1Z2VHl3QTlzeUpEcll1MG96Y1ZTa1ZyZDl2dmJSNlpoVDdNVkNIOXpsY25hM3lWQmc3VEhJWUZLT3MtTnllT0hEOEczeHhvR29xdXFiNDF0SGtnY3E4MXRXZFViOHpu?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 15:19:27 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "047810-기타-19787-20260913",
           "category": "기타",
           "direction": "중립",
@@ -897252,6 +898988,11 @@
               "press": "누리일보",
               "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VUlhCb0YzZUlJblRQRnNLaEJTVGpGa1cyVG16SjNYNHN5bmlpNzNPYzVUZjlISHZsTlJ0NTdNRG1MWkdPODJvTXl2M1VUZFJORTNGQ0I2eDJkRUcx?oc=5",
               "pub_date": "Sun, 18 Oct 2026 14:30:31 GMT"
+            },
+            {
+              "press": "누리일보",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dnVHUkU2UzZuZGk3RXgtVVFaWDhGTUpTQ1p5TUF2QU9aUHR0ajFZS2NPQktlN3ROOFhZREIzSWlkbGNBejRfU1EtcEI1RkhjSnJ4bkhEVmo3Rkk?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 14:30:31 GMT"
             }
           ],
           "first_seen": "2026-10-17",
@@ -905462,6 +907203,24 @@
           "stale": false
         },
         {
+          "id": "099320-기타-52771-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "작은 글씨로 적힌 온라인 카지노 현황 규칙 주석 해설 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVGJiV2QyLURZN3Y0X3pTTWxKdWdtbUtZQU10Z1ZzcWVnZFdzRUh5V3ppVkZwZjYzZUY4LWtEOHNYU1NkVDRua0VqVURNeVc2MVlVdDBWOXZ0RFhMZmlTZzhRNmE5OWtnSzdkSzR6ZktiS3ZKNUlLdUk3NmZtWFJUQzVrQlY1SEkyN3Q0NlNUUnViZzBrNndDRXRnbTI1MzBYYnJtelFMeDZPblBBZTRoNjVHcnhobFAtcFJ2Q1h3Z0h6ZkJLVDZib04tMGs2RHQ5anU0SW9GTmlwQi05R0hvU2N1UEFGUjl2bWl5bTVBaF9Ja3puZ0o2a0hFeTJiZGh6V3NwOUdpM3RNM2pYb1RFWmtfTWJlMGNseWhpR3RSNzByNU45ZUhmWDlxLXlXblVPZ0ZzTVlqb3hBVTNqWWd2WXVTU0duZzQ2Smk2MEJSaGt1VXJPUjJ4Z3JhclpReHhoZl9UeGlROVVVTjlvZ1RSN2pCVXFvNXM?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:44:40 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "099320-기타-49582-20261015",
           "category": "기타",
           "direction": "중립",
@@ -911911,6 +913670,24 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZUHR5RGpfV0V1bHZqbF9ETGFiUzh1VTNTcWF0emJOd0JrWlFQWjg2bkpjcWxDdExBelZGLXhqaGNBb2kxVE9qd2lkZDlkLU1GZVZNUklDOTNhdTRjNTJGZVJTb1VjV2VuWWppVzVQSUg?oc=5",
               "pub_date": "Sun, 18 Oct 2026 13:56:58 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "012450-기타-52766-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "처음 보는 결과 창을 해석하는 탭 카지노 도메인 정보 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qVHdwUkdmbWdEeTh0ZWp2d0N3dTl5LW0xYm9aaGxKZHNseHIzbnFCb2k2WGQ5MkFLQWNZSEFnQ2FKZVNrakFmSC1KbGUyZzhnandVbmx4RmgxX1U?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 16:28:25 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -961899,6 +963676,24 @@
           "stale": false
         },
         {
+          "id": "006400-기타-52807-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "일반 심벌과 특수 심벌의 차이, merit 카지노 비교 포인트 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbXoyR0NZM1NaVGZMQlJoTHN2bUpsYy1saFdJWDNxQjVuaWI4cVYxSEJBOGtabFYydElEN2tkUDFQVWswaUpRRnJyM1RVbU9RbUJ1MTVqSkcxR0FxaVBZQlh2cEMtLVN5N2F4Y0xySzBvMEZ2YjAxdmZpTG1RRTY3VXo1OFNwYVBGZzZvRmMxN1AxcGhqcVpEd0F1LXUwUnRJcDZOVF9HbUNDQjl6ZlZCeTljRTgzS1BhZFU1NWltckVPRnBrRzVlTktTaTJ4RlRodF8wRQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 00:42:15 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "006400-기타-12486-20260907",
           "category": "기타",
           "direction": "중립",
@@ -980142,6 +981937,29 @@
           "stale": false
         },
         {
+          "id": "096770-기타-51530-20261017",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "선택한 설정을 되돌리는 테베 카지노 무료 $80 옵션 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV05JWjgydzFha3lnLVY4aTdZdUlOTGF3VG5fVnNfWmhVcVBVajA2WkoyUURvTmg1XzJNd0dTM3U4MjEwbmhyVHhCN1pHemJEMEMxeTM1enEtSDU2Q1RUM3FLaTNtQVFrWUE2MnVhMkRIS051MjhlZGRHbTFWT0cwb0hySUF5X3diYXJNWFRLWTV0cEtxOGgydTFZa1g0RHEyRFB2b3BpYjhjWm41b0JuZUFudFFvWS1QeWFsOVc3UHZIbi14SkZGTUVqQmxsR21sQ3pZNHFlQks5OXE3SWI0bzZESDN0N1hoMnVKQUkwZ2FUZ0gxR0E?oc=5",
+              "pub_date": "Fri, 16 Oct 2026 14:58:16 GMT"
+            },
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTDhyUE9JLWlyMW5sdFpiNjFQX0phUjlYazhhVHVPelFMYXltdTNvWktUQXo1dnZQYVk0SVBVY3BsaURfaW1xQXR1Ti1ac0FQLTRwVzFzWmhuV3NZaGNoWENSMUx2Yy13ckliZ3RPWjVwSEoxRWZ6M0NNTy1KTnhqWF9aeEZuMU9iamlnVjVlWURHcUJnQmtpMkNvN0VxcDFtblNfMXNjMWZwQWFYLWs3ZFpmQXpGOHU0?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:02:00 GMT"
+            }
+          ],
+          "first_seen": "2026-10-17",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "096770-실적-51591-20261017",
           "category": "실적",
           "direction": "중립",
@@ -980415,6 +982233,11 @@
               "press": "대한경제",
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGYkRualM4cjVBM0N5UUVnbVZyOFV3X29SR3llSjZWQW1aRXk3cm9nSzN3OUhrLTloemtvYThsYUdjbU5wQmRLWjdjMTUwbVh2N1VVd3FmTU5yQ0o4VFlwSU85QXlzUWcxUjdHTmM4d2s4UDQ?oc=5",
               "pub_date": "Sun, 18 Oct 2026 05:27:22 GMT"
+            },
+            {
+              "press": "대한경제",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YdVZySGZsZjM2ZVhSa2JELXlnLURoYVh4angwZWoxV01YZlhKSVlEZUR6anE5NkpiZ1RJbHp2ejZYZXNmNGNvSzllNW0tblpnenFLYWpwVEVQT01EaHdUc3JXNU10RkpYM1EwUHdMSGNkdzgwWmc?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 05:27:22 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -980564,6 +982387,24 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80ZlpGWVppdTA5WjNvYm1GMkZCTk9JeUJ6b3QzVmxUWG1kREpsQkFOeTJzQmRDWGRuV3VzLUkzTjNNaXQwcHM2d293NTIwYVJaaFhjeXMwcEFILW1yYV9qd1FpdEVLZ2Na?oc=5",
               "pub_date": "Sun, 18 Oct 2026 02:11:56 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "096770-기타-52808-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "휴대폰에서 팝업이 겹칠 때 보는 토토 사이트 가을 제로 화면 안내 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxYlpMcTA0S2sxNU1FWGpCdGRTM0NlMEhnNjRqQndGb2owTzVEYmNhcXhzbUhDZFJBeFJ1dEJIMFVxT3FoM25Uc2E2cWNid0JPdFpnVDNmdFVJd0g3NF9rV3R6UlBhXzcyRTFLMWJB?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 14:33:27 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -980967,24 +982808,6 @@
               "press": "Vietnam.vn",
               "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzRSd0VmWkQ2U0xtM05sYlhOWngxS1gtQ3loSlBSdUpra3dYNzlidHBkUTA3Z0k0SE1WN1dkeHhhWVJ3T0tUR2RaQkU4N2xKNm1iUFN3RENSSkpHVXQ2UF9DQ2Z1Y1NSMWlBRUlSRHFIM3BKMnhwZ3RkemxtM20zbUxZbE5UTEtSUlBkTXNnQVM0dFZwR0hBNlNTV2RqbUxFYXlycUxqU1pzYTNsZm1B?oc=5",
               "pub_date": "Thu, 15 Oct 2026 12:02:40 GMT"
-            }
-          ],
-          "first_seen": "2026-10-17",
-          "last_updated": "2026-10-17",
-          "stale": false
-        },
-        {
-          "id": "096770-기타-51530-20261017",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "선택한 설정을 되돌리는 테베 카지노 무료 $80 옵션 안내 - Calgary Roughnecks",
-          "sources": [
-            {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV05JWjgydzFha3lnLVY4aTdZdUlOTGF3VG5fVnNfWmhVcVBVajA2WkoyUURvTmg1XzJNd0dTM3U4MjEwbmhyVHhCN1pHemJEMEMxeTM1enEtSDU2Q1RUM3FLaTNtQVFrWUE2MnVhMkRIS051MjhlZGRHbTFWT0cwb0hySUF5X3diYXJNWFRLWTV0cEtxOGgydTFZa1g0RHEyRFB2b3BpYjhjWm41b0JuZUFudFFvWS1QeWFsOVc3UHZIbi14SkZGTUVqQmxsR21sQ3pZNHFlQks5OXE3SWI0bzZESDN0N1hoMnVKQUkwZ2FUZ0gxR0E?oc=5",
-              "pub_date": "Fri, 16 Oct 2026 14:58:16 GMT"
             }
           ],
           "first_seen": "2026-10-17",
@@ -1001355,6 +1003178,29 @@
           "stale": false
         },
         {
+          "id": "373220-기타-27526-20260920",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "부가 기능 없이도 이해할 수 있는 토토 리딩방 기본 흐름 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZ2ludnh4ajFfa1NXcHN3U1YzQTlyTkJCWm5BVHhCMlV6RDZyeU91M0s0WEpaOThuQV85ZlFQRFlxMXY2VEdwSEZfbG5GMGRlRjVQR2xKS01GTy1UaFdGMnV3SGtULW1UcXd3OU1zZmVkcDlKdFJ0aXIzN3dSREVqb1l3MV9tclpjM3FOOGZCLXdzN1NsYXR0NDVRaEh5anBmc3JsTWpsY09rMFY2N09NTmMwaTR5b1l0UVJ2dkVENzB5STBFbTQzeHc1N2NEcjhKREFtQUFfaElZMFE0MmNjaG9uVmZVeTI5ak8yWldGejNBekpvTV9iUjRkNmJsVGV3WDc3ajZrOTVWUGNaVDFtV1lpRQ?oc=5",
+              "pub_date": "Sun, 20 Sep 2026 01:21:41 GMT"
+            },
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRzZyN3NXV2Q2aTVGSWhDUVNOZURYR1hjZGxwaVFac09sNDNGRWdVQTFMMVBwSjJRUEp6cHI5T0tLclRPcm1STk5BV19ZcU1oMm5DbE9vT2JLQ2VJU0ZPakR3bTZxMF9VdmtyRVFuSDVsUDRWRmdoVXNJWGNPTE0?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 18:12:08 GMT"
+            }
+          ],
+          "first_seen": "2026-09-20",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "373220-기타-39939-20261004",
           "category": "기타",
           "direction": "중립",
@@ -1002085,6 +1003931,60 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaV9JaHBhM1V0TXd3T1J3dDF0WkVtUDVnZm0zX2ZGVXRHTVRITkxZdC1iTkxiVWcwbEhqeDRUVmI4NHl1UWtLcnNMeDNjVHFFTWpYVmpjX09WbG1nVzFLaTUwS1paYnVURnhzNkk1alEzSDNlWWFLT19SRmZJd21VaTZrcUhtMWdCTkE?oc=5",
               "pub_date": "Sun, 18 Oct 2026 13:23:30 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "373220-기타-52804-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "규칙을 한 항목씩 찾아 읽는 사설 토토 초범 소액 도움말 활용 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BbjVTZEZ6TU4zZENKbU9sa29qamlvXzJZTHdENUp3SlBxa1RjSlBLT2plQXl1MlU4SGtxMU5wVy1kRjNWTVFORjhPcDQtaXNlODEyU2JGbHpTNWptQkFnSHFLSWoyeXJ6UTZPeGVhWmFtQkFa?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 03:20:54 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "373220-자본-52805-20261018",
+          "category": "자본",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "디지털 화폐 가상 화폐 암호 화폐 배당표에 나오는 기호 설명 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xT01yZEtRV2hIaC1zVDBUT29LbWVmSUg4Q3ZTSWFWZUdmTWR3VTBvQXQ5QUlSRml2cHBTazg2MzNqVzBaekVqUFBwc1ZubFlHcjVaNEp2OHg5NFlWVVUwUHcwcEFiOVZrcW5MSQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 17:42:18 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "373220-기타-52806-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "토토 경찰 전화 번호 제로 창업자를 위한 투자 재테크 필수 포인트 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZTFvWnZSbjRVemVFOW9OZHBlX0dlXzAyNFkxZXFIdFl4d0VzZ0xEOXBDMVZTd2tLVjRXVndyMmF5ZVNTX1JjQXRSck9GcTNFSExhZ1MzRnpjOGNtdnpYNXVBYzBWSDhNMWNsRV8zNGF4NDFY?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 14:53:29 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -1013626,24 +1015526,6 @@
           "stale": false
         },
         {
-          "id": "373220-기타-27526-20260920",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "부가 기능 없이도 이해할 수 있는 토토 리딩방 기본 흐름 - Calgary Roughnecks",
-          "sources": [
-            {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZ2ludnh4ajFfa1NXcHN3U1YzQTlyTkJCWm5BVHhCMlV6RDZyeU91M0s0WEpaOThuQV85ZlFQRFlxMXY2VEdwSEZfbG5GMGRlRjVQR2xKS01GTy1UaFdGMnV3SGtULW1UcXd3OU1zZmVkcDlKdFJ0aXIzN3dSREVqb1l3MV9tclpjM3FOOGZCLXdzN1NsYXR0NDVRaEh5anBmc3JsTWpsY09rMFY2N09NTmMwaTR5b1l0UVJ2dkVENzB5STBFbTQzeHc1N2NEcjhKREFtQUFfaElZMFE0MmNjaG9uVmZVeTI5ak8yWldGejNBekpvTV9iUjRkNmJsVGV3WDc3ajZrOTVWUGNaVDFtV1lpRQ?oc=5",
-              "pub_date": "Sun, 20 Sep 2026 01:21:41 GMT"
-            }
-          ],
-          "first_seen": "2026-09-20",
-          "last_updated": "2026-09-20",
-          "stale": false
-        },
-        {
           "id": "373220-기타-27527-20260920",
           "category": "기타",
           "direction": "중립",
@@ -1022936,6 +1024818,29 @@
           "stale": false
         },
         {
+          "id": "003670-기타-47166-20261012",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "고정된 규칙과 선택 가능한 설정, 현대 카드 블록 체인 차이 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3FKcUQ5UXE0d1N6TGptLVRBZWtLUVpORTdtcXFBYzYwcGwyb1ZTeWVVRkVzUjNsb3JwazBLaFpKMnJLdkdtTzZVV3Z0WnktVGc3ZjZQdVJDMGd6UnpfdGxwYlp0U3NFYlVfNFkzbWRpbmtpMXVMWk5Qa19UalU5XzlLUUFUMGRlV1h4bGpyR2FCa0VMb044cThpZHRGSW8?oc=5",
+              "pub_date": "Sun, 11 Oct 2026 22:10:31 GMT"
+            },
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kM0hqbW9FQk1xNzZKM1ZHSWNLblgwWVBfVlRJX1JBR2Y0djgwbHFuaVRBYzMzeXRNakVON25CU2tPYlRmbjZBbWdid1BEd21QMW14TWh0ZXAyTzQ?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 14:37:50 GMT"
+            }
+          ],
+          "first_seen": "2026-10-12",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "003670-기타-48287-20261014",
           "category": "기타",
           "direction": "중립",
@@ -1025200,24 +1027105,6 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzU1WDI4MGVBQTh0ekl6bm5lcEpLTkNfT3RrNzBaTnJCTTJzb2lrNzIxbHJkV1BKejRzVDQ5c3pzOWRPVDN2MThqTk1FdVBadjBYM0JmWFdEa0lCNk9jQjZBNW9TOGs5X3hOMEhSSWo3dUNMSE1YRlBEUVkzeGZUME1XdzhuSTZOeDVXakVTTQ?oc=5",
               "pub_date": "Mon, 12 Oct 2026 02:37:52 GMT"
-            }
-          ],
-          "first_seen": "2026-10-12",
-          "last_updated": "2026-10-12",
-          "stale": false
-        },
-        {
-          "id": "003670-기타-47166-20261012",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "고정된 규칙과 선택 가능한 설정, 현대 카드 블록 체인 차이 - Calgary Roughnecks",
-          "sources": [
-            {
-              "press": "Calgary Roughnecks",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3FKcUQ5UXE0d1N6TGptLVRBZWtLUVpORTdtcXFBYzYwcGwyb1ZTeWVVRkVzUjNsb3JwazBLaFpKMnJLdkdtTzZVV3Z0WnktVGc3ZjZQdVJDMGd6UnpfdGxwYlp0U3NFYlVfNFkzbWRpbmtpMXVMWk5Qa19UalU5XzlLUUFUMGRlV1h4bGpyR2FCa0VMb044cThpZHRGSW8?oc=5",
-              "pub_date": "Sun, 11 Oct 2026 22:10:31 GMT"
             }
           ],
           "first_seen": "2026-10-12",
@@ -1036779,6 +1038666,24 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sRGhKSDRaNFV0ZmkwbGdqOU50RFZIMFN4bVdaSUVYVHMxT1FJWXFUVUxVR0dIVl9UMGxaTDRZS2RxdlhoZmpzbHA2emZqQnpkRUR0NG1PUFB3TWhaRElsdEJ1RWRjLUtI?oc=5",
               "pub_date": "Sun, 18 Oct 2026 14:07:53 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "247540-기타-52809-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "규칙과 연출을 나눠서 읽는 미국 카지노 합법 설명 - Calgary Roughnecks",
+          "sources": [
+            {
+              "press": "Calgary Roughnecks",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MS3htTXVGRlB3d1F1bkF2ckZ5Z1pOYU5RTzh3bG9La3dlMG91cklCSTBlWHFsZG01U1BWVDJId3lEWlNQNWFoWXFEYklPc01TS3JFbVRHeHprQU9nZ3BnMXQ4c3JGXzdZX0hWY1hn?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 17:06:41 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -1066825,6 +1068730,24 @@
               "press": "Calgary Roughnecks",
               "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTVVZWTNSb2tfSGRUOUZWZmZTRVQ1eHhPazZZeUtYck1SWnZ4UW56WTZWaFY3WkRUT0VqUW45aHVhUDVKRk1qNVY2YUNxblNZV2E2SWVrVWN5aklBdEV4OEVYVjNBc1N3Um1Ed3MzSG9yUnl0dENPRkRyZDgtQ0YtY3V4MTJpY0dUak1OS3UzMXMtOE1nZkYwdnk5OWVhNHdMN2xZYVpOcU1HOExuOVZ3SnUyV2ZPM3JfbnhSekZXcllEREllemFsc1pid0R6MDdxM0hLUENNY01maFU?oc=5",
               "pub_date": "Sun, 18 Oct 2026 05:19:09 GMT"
+            }
+          ],
+          "first_seen": "2026-10-18",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
+          "id": "078600-기타-52810-20261018",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "국민연금, 100만에 국내증시서 200조원 가까이 손실...삼성전자 SK하이닉스, 72%에 달해 - 비욘드포스트",
+          "sources": [
+            {
+              "press": "비욘드포스트",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTHR1X2pONVBVSWlPUDN1YzNaVDdESGJ5SnNWT1VOLXVmSXJ0ZDN6VjdTMjVzQjRBZ1FJa3FzZjdBMnpDbTFWREpxcm5rdTZ5ZW14c05MZjBHSTBUb3NvT2M4eVJmOFo5QTJxTDhIaVp2eHE3c1lHMVFjUHc?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:18:59 GMT"
             }
           ],
           "first_seen": "2026-10-18",
@@ -1099087,6 +1101010,34 @@
           "stale": false
         },
         {
+          "id": "178320-기타-2484-20260829",
+          "category": "기타",
+          "direction": "중립",
+          "confidence": "미확인",
+          "status": "일반",
+          "headline": "2026.08.28.(금) Signal Report - 네이버 프리미엄콘텐츠",
+          "sources": [
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1JUMHp1RWl0OUh1REd5ZmdKckRFcmg4bHpwSEtTYS0tZ3h3dEJGc1p0UnpNZGx6T0dJckhkN3NzUkdLRVRvUGYtd1ZqTVFVWms3QThha0x1SXpkUzZ3aFNfbW9Yejl5ZkUyVlFfY3plOXE5UHBYckxhX1RoNkd6aDh3?oc=5",
+              "pub_date": "Thu, 27 Aug 2026 21:07:35 GMT"
+            },
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmlRUTJmcTAxVnh0ZzMtdVhCRDByVzJ3ZVBjSS1ZbF9sVE8yX3FiU25ocExQY3JtZkhSQTV3d2ZHNjMwVFczLXNQaVFHbUdENDY3MzA3cVZJWHp0bjlSclVlSjBpUTZ5dXg0NmdZb0Y1MFhZZkd2bU1XWFkxM0RaMGZ3?oc=5",
+              "pub_date": "Mon, 28 Sep 2026 21:06:16 GMT"
+            },
+            {
+              "press": "네이버 프리미엄콘텐츠",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONU0zVlMwMUs3aFhYdUx1Nl9YUzhjUkM5UGFLWGFOMzJoeHBIdEJJMTNteXZQbV91ZXl1ZU5FM0VWdXFEOGFocUZWMmJEdHNQZ0M1R3REbXdXTUdST25DQ2NibExFczhDYnpYb2sxQ3kxSWJvb0gtWUFnWnVHZUlQZkN3?oc=5",
+              "pub_date": "Sun, 18 Oct 2026 21:03:43 GMT"
+            }
+          ],
+          "first_seen": "2026-08-29",
+          "last_updated": "2026-10-18",
+          "stale": false
+        },
+        {
           "id": "178320-기타-12538-20260907",
           "category": "기타",
           "direction": "중립",
@@ -1101202,29 +1103153,6 @@
           ],
           "first_seen": "2026-09-30",
           "last_updated": "2026-10-01",
-          "stale": false
-        },
-        {
-          "id": "178320-기타-2484-20260829",
-          "category": "기타",
-          "direction": "중립",
-          "confidence": "미확인",
-          "status": "일반",
-          "headline": "2026.08.28.(금) Signal Report - 네이버 프리미엄콘텐츠",
-          "sources": [
-            {
-              "press": "네이버 프리미엄콘텐츠",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1JUMHp1RWl0OUh1REd5ZmdKckRFcmg4bHpwSEtTYS0tZ3h3dEJGc1p0UnpNZGx6T0dJckhkN3NzUkdLRVRvUGYtd1ZqTVFVWms3QThha0x1SXpkUzZ3aFNfbW9Yejl5ZkUyVlFfY3plOXE5UHBYckxhX1RoNkd6aDh3?oc=5",
-              "pub_date": "Thu, 27 Aug 2026 21:07:35 GMT"
-            },
-            {
-              "press": "네이버 프리미엄콘텐츠",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmlRUTJmcTAxVnh0ZzMtdVhCRDByVzJ3ZVBjSS1ZbF9sVE8yX3FiU25ocExQY3JtZkhSQTV3d2ZHNjMwVFczLXNQaVFHbUdENDY3MzA3cVZJWHp0bjlSclVlSjBpUTZ5dXg0NmdZb0Y1MFhZZkd2bU1XWFkxM0RaMGZ3?oc=5",
-              "pub_date": "Mon, 28 Sep 2026 21:06:16 GMT"
-            }
-          ],
-          "first_seen": "2026-08-29",
-          "last_updated": "2026-09-30",
           "stale": false
         },
         {
