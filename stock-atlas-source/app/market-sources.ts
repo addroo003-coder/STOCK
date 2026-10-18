@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "리밸런싱 유예 ‘부메랑’…국민연금 100일새 182조 증발",
-      "office": "국제신문",
+      "title": "폭락장 못 피한 국민연금…100일 만에 182조 증발",
+      "office": "매일신문",
       "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/658/0000158767"
+      "url": "https://n.news.naver.com/mnews/article/088/0001035112"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "中 CXMT 3분기 매출 23조원대…전년 대비 600% 증가",
-      "office": "동아일보",
-      "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755745"
+      "title": "“중국 CXMT, 1년새 매출 7배 폭증”…커지는 2028 공급과잉 우려",
+      "office": "중앙일보",
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558738"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "K배터리 3Q도 실적 청신호..美 ESS 분기 설치량 최대 지속",
-      "office": "머니투데이",
+      "title": "“전고체 배터리 잡는 자가 車·로봇·ESS 주도”… 시장 선점 경쟁 치...",
+      "office": "국민일보",
       "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427918"
+      "url": "https://n.news.naver.com/mnews/article/005/0001879377"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -557,10 +557,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "[바이오 문해력]신약기업 공모가, 왜 유한·한미와 비교할까",
-      "office": "비즈워치",
-      "date": "20261017",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051674"
+      "title": "기술수출 넘어 생산·판매까지⋯알테오젠, 사업 다변화 시동",
+      "office": "코메디닷컴",
+      "date": "20261018",
+      "url": "https://n.news.naver.com/mnews/article/296/0000106102"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "K9 넘어 잠수함까지… K방산 수십조 '아메리칸드림' 무르익는다",
-      "office": "파이낸셜뉴스",
+      "title": "화재·폭발 산재 사망자 1년 새 2배 급증…노동부, 전국 사업장 불시점...",
+      "office": "헤럴드경제",
       "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590755"
+      "url": "https://n.news.naver.com/mnews/article/016/0002710882"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "K배터리 3Q도 실적 청신호..美 ESS 분기 설치량 최대 지속",
-      "office": "머니투데이",
+      "title": "“전고체 배터리 잡는 자가 車·로봇·ESS 주도”… 시장 선점 경쟁 치...",
+      "office": "국민일보",
       "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427918"
+      "url": "https://n.news.naver.com/mnews/article/005/0001879377"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "中 CXMT 3분기 매출 23조원대…전년 대비 600% 증가",
-      "office": "동아일보",
-      "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755745"
+      "title": "“AI거품 붕괴 예행연습”…미 반도체주 8일 연속 하락 쇼크",
+      "office": "중앙일보",
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558740"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
