@@ -151,10 +151,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
-      "title": "'AI 로봇 수도' 대구서 21~24일 국제로봇산업전",
-      "office": "뉴스1",
-      "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/421/0009234538"
+      "title": "AI가 공장 움직이고 로봇이 일한다… 대구서 미리 보는 ‘미래’",
+      "office": "동아일보",
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755835"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/454910/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "폭락장 못 피한 국민연금…100일 만에 182조 증발",
-      "office": "매일신문",
-      "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/088/0001035112"
+      "title": "삼전닉스 빠질때 조선주는 뛰어올랐다",
+      "office": "머니투데이",
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/008/0005428004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“중국 CXMT, 1년새 매출 7배 폭증”…커지는 2028 공급과잉 우려",
-      "office": "중앙일보",
+      "title": "AI 기업 고금리 쇼크…\"반도체 실적 탄탄해도 수급불안 지속\"",
+      "office": "동행미디어 시대",
       "date": "20261019",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558738"
+      "url": "https://n.news.naver.com/mnews/article/417/0001161272"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -893,10 +893,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=007660",
     "news": {
-      "title": "\"물 탈 돈도 없어\" 오천피 쇼크, 반등 확률은?...과거 사례 봤더니",
+      "title": "삼전닉스 빠질때 조선주는 뛰어올랐다",
       "office": "머니투데이",
-      "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427908"
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/008/0005428004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/007660/news"
   },
@@ -1467,10 +1467,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "화재·폭발 산재 사망자 1년 새 2배 급증…노동부, 전국 사업장 불시점...",
-      "office": "헤럴드경제",
-      "date": "20261018",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710882"
+      "title": "더 많이 싣고 더 자주 발사… 누리호 숙제는 ‘돈 버는 로켓’",
+      "office": "동아일보",
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755794"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“AI거품 붕괴 예행연습”…미 반도체주 8일 연속 하락 쇼크",
-      "office": "중앙일보",
+      "title": "AI 기업 고금리 쇼크…\"반도체 실적 탄탄해도 수급불안 지속\"",
+      "office": "동행미디어 시대",
       "date": "20261019",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558740"
+      "url": "https://n.news.naver.com/mnews/article/417/0001161272"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
