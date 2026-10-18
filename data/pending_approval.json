@@ -69874,7 +69874,7 @@
     "source_count": 1,
     "id": "207940-기타-51076-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-18",
     "status": "일반",
     "stale": false
   },
@@ -69951,7 +69951,7 @@
     "source_count": 2,
     "id": "207940-기타-51126-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-18",
     "status": "일반",
     "stale": false
   },
@@ -70407,9 +70407,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KYXVMUk5qY0J5YVR1d0k1WUdQZnRJcnBYTlZXWU1IcDdpNElJZ0NuZElCYXRsOHB5cUozZDh2eVB2eFNrazZ2QVJWUHRqRm5GNkJJdnctdWEtV214cGQ0UXNvOER1cUNwanFGVGZCbC1VUkXSAXdBVV95cUxOcFgyVHdpaHVmWGVxSUxRZmQ3UW9OM0RrWHJuckxDaTRWMlczUGhkZ2l1OEc2djhMeWp4VzBhYzNmVXFtel80QkFnbzN6d2VWS2VTRTVTb2IyaG9XMnBqM0pQOFNyZlRlMllfcjg1SkNMdHpubGRxSQ?oc=5",
         "pub_date": "Sun, 18 Oct 2026 05:26:00 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wWDJUd2lodWZYZXFJTFFmZDdRb04zRGtYcm5yTENpNFYyVzNQaGRnaXU4RzZ2OEx5anhXMGFjM2ZVcW16XzRCQWdvM3p3ZVZLZVNFNVNvYjJob1cycGozSlA4U3JmVGUyWV9yODVKQ0x0em5sZHFJ0gF3QVVfeXFMTnBYMlR3aWh1ZlhlcUlMUWZkN1FvTjNEa1hybnJMQ2k0VjJXM1BoZGdpdThHNnY4THlqeFcwYWMzZlVxbXpfNEJBZ28zendlVktlU0U1U29iMmhvVzJwajNKUDhTcmZUZTJZX3I4NUpDTHR6bmxkcUk?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 05:30:55 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "298040-기타-52002-20261018",
     "first_seen": "2026-10-18",
     "last_updated": "2026-10-18",
@@ -70435,6 +70440,54 @@
     ],
     "source_count": 1,
     "id": "012450-기타-52089-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼전 이어 SK하이닉스도 '실적 잔치'... 3분기 영업익 77조 '역대 최대' 전망 - 파이낸셜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fU0kxTTFBalJ6TFAyenJwdDJBXzF1WElIb2hxakVFVzhyQjBuSUVzbWRTcFRVS2djTXFsdXFPVlhzMzlBbFM2aUxES09SdEtOU1ctck41SU5Odw?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 09:34:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-52206-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[ESG경영 사례분석] 셀트리온, 바이오시밀러 확대로 환자의 선택권 강화...서진석 대표의 '혁신 비전' - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSV2NERjRQYVdfQTJUTTlRMjU0bEJWRDJIdE85QnVmVlpsMlZVSGJTMnFWblFVS1BTR3RvZnRuOFVVR3ZrVTBMRnVqQU9DSTlseEdlNFNRV0FRbzhPSkE?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 08:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-52383-20261018",
     "first_seen": "2026-10-18",
     "last_updated": "2026-10-18",
     "status": "일반",
