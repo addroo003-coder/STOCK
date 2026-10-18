@@ -70497,5 +70497,77 @@
     "last_updated": "2026-10-18",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "박정원 ‘승부수ʼ 두산테스나…사상 최대 실적 전망 - 한국금융신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kX1pVTU9mZVZpbEZ5N0hhQ0ItVlJ1TWQ0TFAwZjRjdEJtQ3dYR3JtR0pUVHZYYnExeEdnamI0QUZZT3NwN2hZRko2Szh3WE5OeUl5djdJellHODdTOUpwZG9UYlFjWVRBNXVKNVV4eUtjTm93SHVkM0tiT04?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-실적-52583-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "261018 제13회 칠곡낙동강평화축제 칠곡 화합 콘서트 차지연 - 테스형 - YouTube",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KUkV5ck1XeHRCaTI1bFFnT1ZWY2d4LTN4bDdHM3JORlZORkppcXdiMjQzR2xURXFjTG1vQndSdzhNZWhDR2I2Y0dFS0Y1ZGUxRnhsTFQyYUZvelN3?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 13:21:22 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-52584-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산테스나",
+    "stock_code": "131970",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "박정원 ‘승부수ʼ 두산테스나…사상 최대 실적 전망 - 한국금융신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kX1pVTU9mZVZpbEZ5N0hhQ0ItVlJ1TWQ0TFAwZjRjdEJtQ3dYR3JtR0pUVHZYYnExeEdnamI0QUZZT3NwN2hZRko2Szh3WE5OeUl5djdJellHODdTOUpwZG9UYlFjWVRBNXVKNVV4eUtjTm93SHVkM0tiT04?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "131970-실적-52589-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
   }
 ]
