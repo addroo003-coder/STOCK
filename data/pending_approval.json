@@ -69381,7 +69381,7 @@
     "sector": "전기·전력",
     "category": "증설",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "효성중공업, 경남 창원에 초고압차단기 신공장 증설키로… 글로벌 전력시장 공급 확대 - 굿모닝경제",
     "source_type": "news",
@@ -69390,9 +69390,14 @@
         "press": "굿모닝경제",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZHhnOTR4eDVBTm9OcHZadE1yTUlkd3oxdm9LMEZNYlJSdENweXNUMmlJZE5PRV9xc1k1RjhxTWk0U1g5SUk2WnptRFBIQzA2X05QRnBOMkx0UzVtbzNDa3JKYWttWVRvNlZWWQ?oc=5",
         "pub_date": "Fri, 16 Oct 2026 07:22:12 GMT"
+      },
+      {
+        "press": "더퍼블릭",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4QXh2NmRVNUNoU1Z2YjFVQVBrTnRjcEVfQk9hNmlxWjdDMmhlVDNqbFJhMUNrQ0p6VUtwOEllVXBhUlh6eUNrcVRaQmNPSmR4ZUgxcUpoOFVSVTM5SW9VVzVUQTRvZWZnZlRr0gFvQVVfeXFMTmp4ZlNQbTFPaVNQUlVjWHJvdE51Mi1OX01PUVRIVl9VWkM5aXNIU1BET2FPdVZzc0drQW45dGNqdmxxOEtMeWtlcFRlNXF3cUFCNllkeTN3anVjTjMycUVqSkRFWi1pd2JpNXgtcW1n?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 00:13:21 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "298040-증설-50808-20261016",
     "first_seen": "2026-10-16",
     "last_updated": "2026-10-18",
@@ -70172,7 +70177,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "머스크 \"중국, 2028년 RAM 대량 생산\"…삼성·SK하이닉스 경고 - 리드경제",
     "source_type": "news",
@@ -70181,12 +70186,17 @@
         "press": "리드경제",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkaFdMbW05SEk2VEp4QnhrTHVKeElTbkVqcWNrelhJeTNMSmtmWWNhcXdZdTJlUzlyQkZMeVNKLUgwVVNWOE5DRDhwNnI5UTVUWkhzYnVVOHU3VW8yOFE2Q2lESTZkcDBtcWJfeFBnZmo?oc=5",
         "pub_date": "Sat, 17 Oct 2026 14:57:00 GMT"
+      },
+      {
+        "press": "IT조선",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LUER3V3hXVEQwT0dOcVE3THRld1FTYUhUM2FsUGxTajZmbDJGdEpCOG1fN0dKRlFzd0lhejJlN21jZmpxS3pTdE9Rd0hZdlB3ZmhXY1lNVm5YWmZmc0xYM3lkQTBJcHNUVjdPelFnV2XSAXRBVV95cUxQcDlOQTAzMjM2RnZaR2s1bE9sbkRzUWV2QmU0TnZKcjRHclB2RktBa2pKOXoxa0xuQW5wSWtMUXRac05TYmE4MjJ4Z1o4UTRSaW9VN094VXdPUEpfdExxUzdKQlZOR3R4X2JRcUp6dmpVZGVYag?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 02:43:21 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000660-기타-51606-20261017",
     "first_seen": "2026-10-17",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-18",
     "status": "일반",
     "stale": false
   },
@@ -70329,6 +70339,102 @@
     ],
     "source_count": 1,
     "id": "141080-바이오-51905-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "캐시 우드 \"메모리 악순환\" 경고…SK하이닉스, HBM 초격차로 돌파 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTF4cFFkcEU2ZWxsWnNKcXFEYnBRVnJQN3FZdDl5elpOWEVMbHB3SHFkUFlUMEk3OFBVN1BBbUZSazBLdnVGWEt4LTYxSnlOYlZscERrZlNXZDdrQ2NBaE5XZVBaelpYc2JlZXJjeTVObjhkU3kzZ3lGM21fMU5WLUg3eVBuU3pH?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 04:23:17 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-51946-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HPSP",
+    "stock_code": "403870",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "KB증권, HPSP 목표가 상향…4분기 낸드 장비 매출 확대 전망 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPVl96eHZsMWd6ZlhvZkZFbjlnaDJCdzBhcU1sTUNuMXRqQXZWNTllVmVxcFlLVVk5dDlDRnZJaUxVWmtxSmk0ZVdwVWZQZkREQVFMU2M4aDcyOHdQVGRoM1o1Yi1pQQ?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 05:42:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "403870-실적-51964-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "효성중공업",
+    "stock_code": "298040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "효성중공업, 건설 비용에 3분기 이익 전망 하향…중공업은 성장 지속 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KYXVMUk5qY0J5YVR1d0k1WUdQZnRJcnBYTlZXWU1IcDdpNElJZ0NuZElCYXRsOHB5cUozZDh2eVB2eFNrazZ2QVJWUHRqRm5GNkJJdnctdWEtV214cGQ0UXNvOER1cUNwanFGVGZCbC1VUkXSAXdBVV95cUxOcFgyVHdpaHVmWGVxSUxRZmQ3UW9OM0RrWHJuckxDaTRWMlczUGhkZ2l1OEc2djhMeWp4VzBhYzNmVXFtel80QkFnbzN6d2VWS2VTRTVTb2IyaG9XMnBqM0pQOFNyZlRlMllfcjg1SkNMdHpubGRxSQ?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 05:26:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "298040-기타-52002-20261018",
+    "first_seen": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "K9 자주포, 11개국서 30개국으로 운용국 확대 목표…한화에어로스페이스, AI·무인화로 미래 포병 시장 글로벌 표준 선점 - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlbzZaZ25UQXNfWTVBazZzdTZsTTF4Z0JfYWh2dW1vZ1NaOXVub0N6LVdVVkZ2OS16NWlHZjB1QTY3ZmhRMWN6WWdIYnRPRTlINUp6cXM1OEVQU09RNHc?oc=5",
+        "pub_date": "Sun, 18 Oct 2026 02:44:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-기타-52089-20261018",
     "first_seen": "2026-10-18",
     "last_updated": "2026-10-18",
     "status": "일반",
