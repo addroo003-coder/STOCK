@@ -5,6 +5,7 @@ import { scenarioText, sectors, type Scenario } from "./data";
 import { earningsByStock } from "./earnings-data";
 import { marketSourcesByStock } from "./market-sources";
 import { issuesByStock } from "./issues-data";
+import { companyAnalysisByStock } from "./company-analysis-data";
 
 const beta: Record<string, number> = { semi: 2, power: 1, robot: 4, nuclear: 1, space: 3, bio: 4, battery: 3 };
 
@@ -75,6 +76,7 @@ export default function InvestmentAtlas() {
   const selectedEarnings = earningsByStock[selectedStock.name];
   const selectedSources = marketSourcesByStock[selectedStock.name];
   const selectedIssues = issuesByStock[selectedStock.name] ?? [];
+  const selectedAnalysis = companyAnalysisByStock[selectedStock.name];
   const selectedScore = scoreFor(selectedSector.key, selectedSector.score, selectedSector.delta[scenario], riskBudget);
 
   const allStocks = useMemo(() => sectors.flatMap((sector) => sector.segments.flatMap((segment, segmentIndex) =>
@@ -331,7 +333,7 @@ export default function InvestmentAtlas() {
             <div>
               <p className="eyebrow">ISSUE TIMELINE</p>
               <h3 id="issues-title">핵심 이슈 타임라인</h3>
-              <span>공시(DART)와 뉴스를 자동으로 모아 최신순으로 정리합니다. 신뢰도·카테고리 배지는 자동 판정 결과이며 참고용입니다.</span>
+              <span>공시(DART)·뉴스를 자동으로 모으고, 직접 작성한 리포트도 함께 최신순으로 정리합니다. 신뢰도·카테고리 배지는 자동 판정 결과이며 참고용입니다.</span>
             </div>
           </header>
 
@@ -343,6 +345,7 @@ export default function InvestmentAtlas() {
                     <span className="issue-date">{issue.last_updated}</span>
                     <span className={`issue-badge confidence-${issue.confidence}`}>{issue.confidence}</span>
                     <span className="issue-badge category">{issue.category}</span>
+                    {issue.source_type === "manual" && <span className="issue-badge manual">직접 작성</span>}
                     {issue.status === "정정됨" && <span className="issue-badge correction">정정됨</span>}
                     {issue.is_mere_mention && <span className="issue-badge mention">단순언급</span>}
                     {issue.needs_review && <span className="issue-badge review">검토 필요</span>}
@@ -366,6 +369,30 @@ export default function InvestmentAtlas() {
           )}
 
           <footer className="issues-source-note"><i /> 규칙 기반 자동 분류 결과이며, 방향성·카테고리 판정은 참고용입니다. “검토 필요” 배지가 붙은 항목은 핵심 투자논리 반영 여부를 사람이 확인합니다.</footer>
+        </section>
+
+        <section className="analysis-panel" aria-labelledby="analysis-title">
+          <header className="analysis-heading">
+            <div>
+              <p className="eyebrow">COMPANY ANALYSIS</p>
+              <h3 id="analysis-title">기업분석 메모</h3>
+              <span>직접 정리한 분석을 구글 폼으로 올리면 여기에 최신 내용으로 반영됩니다. 쌓이지 않고 항상 가장 최근 메모만 보여줍니다.</span>
+            </div>
+          </header>
+
+          {selectedAnalysis ? (
+            <article className="analysis-content">
+              <div className="analysis-meta">
+                <span className="analysis-date">최종 수정 {selectedAnalysis.updated_at}</span>
+                <span className={`analysis-badge direction-${selectedAnalysis.direction}`}>{selectedAnalysis.direction}</span>
+              </div>
+              <h4 className="analysis-headline">{selectedAnalysis.headline}</h4>
+              <p className="analysis-body">{selectedAnalysis.body}</p>
+              {selectedAnalysis.url && <a className="analysis-link" href={selectedAnalysis.url} target="_blank" rel="noreferrer">참고 링크 ↗</a>}
+            </article>
+          ) : (
+            <p className="analysis-empty">아직 등록된 기업분석 메모가 없습니다. 구글 폼에서 유형을 "기업분석"으로 선택해 올려주세요.</p>
+          )}
         </section>
 
         <footer className="site-footer">
