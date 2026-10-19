@@ -37,8 +37,27 @@ jobs:
           git config user.name "stock-atlas-bot"
           git config user.email "actions@users.noreply.github.com"
           git add app/market-sources.ts app/earnings-data.ts
-          git diff --cached --quiet && echo "변경 없음" || git commit -m "사이트 데이터 자동 갱신 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+
+          git commit -m "사이트 데이터 자동 갱신 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          # 비슷한 시간대에 다른 워크플로가 같이 push할 수 있어서, 실패하면
+          # 몇 초 쉬었다가 최신 내용을 받아서(rebase) 다시 push를 시도한다.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash && git push; then
+              echo "push 성공 (시도 $i)"
+              exit 0
+            fi
+            echo "push 실패, 잠시 후 재시도합니다 ($i/5)"
+            sleep $((RANDOM % 8 + 3))
+          done
+
+          echo "5번 재시도했지만 push 실패"
+          exit 1
 
       - name: 빌드
         run: npm run build
