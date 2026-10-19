@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261019800108",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800108",
+    "is_correction": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+    "rcept_no": "20261019800111",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800111",
+    "is_correction": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+    "rcept_no": "20261019800156",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800156",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "투자판단관련주요경영사항              ",
+    "rcept_no": "20261019800197",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800197",
+    "is_correction": false
+  },
+  {
+    "company": "휴니드",
+    "stock_code": "005870",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261019800189",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800189",
+    "is_correction": false
+  }
+]
