@@ -70996,9 +70996,14 @@
         "press": "뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tUUM5LWpya2E5TjNUQWJfT0VReUhNZzNWREZaNmVicmN3bnRhRGxDVy1qR2FrZlpKSmNGd1BHVEw4azZyNUUtWXl4b2lNTXNCRGZ1b29Qa1Bic2RYSHBldQ?oc=5",
         "pub_date": "Sun, 18 Oct 2026 23:49:29 GMT"
+      },
+      {
+        "press": "뷰어스",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JdEEtcnMyUmstaVlFdmZ5bkdMelJyZkN5QjhXdWhYWFNjOWZsVFZ1RFJSZDVuNXZ2T2E5ZkZKaDhKY1ZvMFB5UlBVNVlpMmRXOWZtMm5nZUQ?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 07:53:36 GMT"
       }
     ],
-    "source_count": 13,
+    "source_count": 14,
     "id": "207940-기타-52926-20261019",
     "first_seen": "2026-10-19",
     "last_updated": "2026-10-19",
@@ -72034,7 +72039,7 @@
     "sector": "전기·전력",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "가온전선, 3분기 영업익 99% 급증…美 전력 인프라 호황에 역대 최대 실적 - 블로터",
     "source_type": "news",
@@ -72043,9 +72048,34 @@
         "press": "블로터",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYRHdfb0xWcU12ZGlKUzlhcFk5U0FYSzE1bGFoSkpyVmxHZk5sQVcwSElfMHNGYWVldV9sNnhmMktuOGNXT01LM1dpdmRCUDJSdmhaYzdYV0Q5c3RFQ3NvUDNVWVFrUmdyLTRhb9IBbEFVX3lxTFBYRHdfb0xWcU12ZGlKUzlhcFk5U0FYSzE1bGFoSkpyVmxHZk5sQVcwSElfMHNGYWVldV9sNnhmMktuOGNXT01LM1dpdmRCUDJSdmhaYzdYV0Q5c3RFQ3NvUDNVWVFrUmdyLTRhbw?oc=5",
         "pub_date": "Mon, 19 Oct 2026 04:28:10 GMT"
+      },
+      {
+        "press": "DealSite경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42b1haZFVUQ3hjSHJEaG8tUTVzeXBEWVRJSFVZX09VdjNvWW44c3hMUnZTbWtkTzdCRkFoaW1ydWZ6SlpKeTRSVzJwWTBSOGo1c1ZVS2lB?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 06:52:42 GMT"
+      },
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55Z25qcEEzQzRtUGIyM21UY1NCdndnV09JeVdGV1NlUmVYeEVVUXRzdU9sTExDbGhCZWhEUWF6WTNGbVpwUnBjOXNwUkZoVndIRU4zY0xCR3JLbnFTSTA1bURJWTk?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 08:22:49 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PWTV1b1g4NzNGcmRQSVhWUXRWT2tTX3NQamg4V29BR25xa2F1MTczcmpVLXNoMGV3NTdpbUF0MGg2czNtNkExS05CcWNOelBWQm9mUGdBcWk2MGUxWnVJbXdhaE9EeFJqaGxONDFOVEpzUdIBckFVX3lxTE5PWTV1b1g4NzNGcmRQSVhWUXRWT2tTX3NQamg4V29BR25xa2F1MTczcmpVLXNoMGV3NTdpbUF0MGg2czNtNkExS05CcWNOelBWQm9mUGdBcWk2MGUxWnVJbXdhaE9EeFJqaGxONDFOVEpzUQ?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 02:02:11 GMT"
+      },
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40dXJuZGN0X2VHYlYyeGFyY1FxaFUyMm92Z2pGa0lxRWdJRGlacUQ0dFBUSmgtOWpKMFhZZ2c2VDl3ekRjYlZ0OW5STjROelRPRU5va3NXaFJ0dw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 06:24:28 GMT"
+      },
+      {
+        "press": "Daum",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yYkI0czM1UndvZGNYTnhWSGVoSnZXdFFXSHJxMmdoZkc3S2pIZW1TNkpobThjZ2E1VGtsb0pxTEJUbjllM3lMOGN4QQ?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 06:12:47 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 6,
     "id": "000500-실적-53608-20261019",
     "first_seen": "2026-10-19",
     "last_updated": "2026-10-19",
@@ -72461,9 +72491,14 @@
         "press": "뉴스토마토",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcGdLUTRXTlE5SHBSTVp3dGJ6WV95WVpQZS0tOEJqekN3SXppbzJNYzBpaTVaTFptS1Bxb0FaVmEyUnUzazJTOVZaTUZyRXhrVTRQdFFNd2FMMGZyTDVSYQ?oc=5",
         "pub_date": "Mon, 19 Oct 2026 08:58:11 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLakMyRi1hM2dndzhnRW13MHVQaVVPazBkVWExZlU3dVdERGdEZWRpMmVLbFlyWUZrU0RGanZYZ0psQlRNWTY3S2hzdkd1eE11TkQ0dC0xbmQxSi1DVGhfSA?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 08:58:11 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-수주-53988-20261019",
     "first_seen": "2026-10-19",
     "last_updated": "2026-10-19",
@@ -72778,6 +72813,136 @@
     ],
     "source_count": 1,
     "id": "247540-기타-54167-20261019",
+    "first_seen": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "정책",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "정부·SK하이닉스, 반도체 협력사에 2조 보증…최대 2.5% 금리 우대 - 중앙신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중앙신문",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZUtRVkxxeEEyQWFndkFTcWVqX1hUWFpNcFcwMnNEajB1UkNoQ1VkZUlyNFFPS2dfaXdJcjlPdlBlTFlmaF91Y29hOXExbXlvZ0tXUERGV2ZaNnpJZXdJZVVtWUVTSFExNGRtLUIzMG1uamhDa1hkeGlWSHJ3azYyLTRGRWdkTktNdTh5UFpET3N2UzFfU2hPR211NTVBdjVvZGJvVXRtbTUySzJ6Y3ZpS2RxZVlrdEZLRXpOTzk1Zno0dzdmdHhlR0J3WnVXaEV3WXcxenFNZU93UktzUVFUSUw3ZmpabXlOeURjbl9YLXNGMktGSVRuNkZvaVRCVE05Sk4yMW54VTV0UkN2VFJySHhCRE0xLUdoOVRGc3Z4VXdFMDRock5uUFM4YlBWMVdRNlJDcGtRX3ZjWFQ0NGk4eFZPTGhYRFN2SzN3TlVvdzlPZWFZcFE?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 18:32:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-정책-54179-20261019",
+    "first_seen": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대덕전자 : 환율 역풍 속에서도 최대 실적, 판가 인상 성격 변화. - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjlJWDFuT3gtblI2c0oyUl9HTzZSajZTNFh0S0ZNR0tJdjEwSmQyRk5KU1N6UENuUXRKYVo1Q3ZORHQ2NVFkZ2kwOWNfWEk2Q050Z2pFTXhPaDhQRjZYVWlDXzdnWjA3ejEzdHdpcTVUNDVGcllGZk0wV3dwd1JockRtdw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 12:42:00 GMT"
+      },
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObHdGLVJWN1czWHFsZHlMbm0taXlzT2dIbGVybkRVVWdOUlJVVngtX3MyRlplekVmcWszZlY1MTE2RDRsdkRsbUtwUjRiclRjWkMxTWJUV2pTemlhS1pwYmROWEVMOWlEYTFYQThSR0l6VUpNMzBxTENNdVNQV3RBTEZn?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 12:42:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "353200-실적-54188-20261019",
+    "first_seen": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온전선, 3분기 영업이익 99% 증가…매출·이익 역대 최대 - 웹이코노미",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "웹이코노미",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1TjZHeVh3OFdBRkVKQURpalZtWkdfSG53VTFHWS10cEY3blFKMVR5QlEyRnIwWE5qTXB3NkVGbXdJT3B1LS1MV2pxakNNcHdNNzhGRWlnbVZtZ3FmMmdQTEt1d0x5bjZJUVU2NzFFRVVPZw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 17:34:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-실적-54198-20261019",
+    "first_seen": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "가온전선, 3분기 영업익 520억원 역대 최대 - 디일렉",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54U05XcUZOVTBnZy0ta2FBbC1fanhfMlh3MjFJekNlM2RTT0xGTjFBeXBQdzFzQ0VCOFhkWFh1Zy1QaXpxS2ttMG9ZZ3dkTjdCU3RVR2xzclFZdXNwME4wZkRpUlFQdw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 02:06:12 GMT"
+      },
+      {
+        "press": "지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sTFpXcXBxNU16djBPYlI2b3owRC05Um16R2R5a2JqVUMxMWg3ZC1OczZHczFOUDlrbjZUUkd4TDNMV19HV2dCaFh0S095QU52S296S3d3?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 01:53:59 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000500-기타-54199-20261019",
+    "first_seen": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대건설, 도시정비 수주 12조원 돌파…유럽 원전·호주 에너지 사업 확대 - 웹이코노미",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "웹이코노미",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KaGRQSzJpcGl5Tk1iRTVObkRwSG1sVWx4cXhJbWZVeTYxVkhMYlNibVNTbEE3Q0c0bUgxS3FyRFB2Vm9JSWtHQXlGQVBnSGdaOWlxUlpSbFJrWE1GRXA0WlFmckQtUy1UWHZLUWNUS1I5QQ?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 18:00:48 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-수주-54211-20261019",
     "first_seen": "2026-10-19",
     "last_updated": "2026-10-19",
     "status": "일반",
