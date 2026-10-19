@@ -19,6 +19,32 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261019000341",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000341",
+    "is_correction": false
+  },
+  {
+    "company": "오픈엣지테크놀로지",
+    "stock_code": "394280",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261019000332",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000332",
+    "is_correction": true
+  },
+  {
+    "company": "오픈엣지테크놀로지",
+    "stock_code": "394280",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "임원ㆍ주요주주특정증권등소유상황보고서",
     "rcept_no": "20261019000298",
     "rcept_dt": "20261019",
@@ -36,6 +62,19 @@
     "rcept_no": "20261019000245",
     "rcept_dt": "20261019",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000245",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261019800610",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800610",
     "is_correction": false
   },
   {
@@ -89,6 +128,32 @@
     "rcept_dt": "20261019",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800197",
     "is_correction": false
+  },
+  {
+    "company": "한전산업",
+    "stock_code": "130660",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "중대재해발생              ",
+    "rcept_no": "20261019800636",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800636",
+    "is_correction": false
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261019900668",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900668",
+    "is_correction": true
   },
   {
     "company": "우리기술",
@@ -154,6 +219,19 @@
     "rcept_dt": "20261019",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800189",
     "is_correction": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]증권신고서(합병)",
+    "rcept_no": "20261019000334",
+    "rcept_dt": "20261019",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000334",
+    "is_correction": true
   },
   {
     "company": "포스코퓨처엠",
