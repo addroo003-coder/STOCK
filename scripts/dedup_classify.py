@@ -21,6 +21,7 @@ needs_approval=true인 항목, 즉 '핵심 투자모멘텀'에 영향을 줄 수
 사용법:
     python scripts/dedup_classify.py
 """
+import hashlib
 import json
 import re
 from datetime import datetime, timedelta
@@ -29,6 +30,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DART_PATH = ROOT / "data" / "raw_dart.json"
 RAW_NEWS_PATH = ROOT / "data" / "raw_news.json"
+RAW_MANUAL_PATH = ROOT / "data" / "raw_manual.json"
 STORE_PATH = ROOT / "data" / "issues_store.json"
 
 STALE_DAYS = 60
@@ -143,6 +145,78 @@ def build_issue_from_dart(item: dict) -> dict:
     }
 
 
+def build_issue_from_manual(item: dict) -> dict:
+    """성혁님이 구글 폼으로 직접 올린 리포트 한 건 -> 이슈 후보.
+
+    본인이 직접 쓴 내용이라 confidence는 바로 '확정'으로 두고(교차검증 불필요),
+    승인 대기열에도 올리지 않는다(아래 needs_review/pending 쪽에서 source_type
+    이 'manual'인 건 제외 처리 - build_site_data.py 참고).
+    """
+    full_text = f"{item['title']} {item.get('body', '')}"
+    return {
+        "company": item["company"],
+        "stock_code": item["stock_code"],
+        "sector": item["sector"],
+        "category": guess_category(full_text),
+        "direction": item["direction"],
+        "confidence": "확정",
+        "is_mere_mention": False,
+        "headline": item["title"],
+        "source_type": "manual",
+        "sources": [{"press": "성혁 리포트", "url": item.get("url"), "pub_date": item.get("timestamp_date")}],
+        "source_count": 1,
+    }
+
+
+def manual_issue_id(stock_code: str, timestamp: str) -> str:
+    digest = hashlib.sha1(timestamp.encode("utf-8")).hexdigest()[:10]
+    return f"manual-{stock_code}-{digest}"
+
+
+def content_fingerprint(cand: dict) -> str:
+    raw = "|".join([cand["headline"], cand["direction"], cand["category"], str(cand["sources"][0].get("url"))])
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()
+
+
+def merge_manual_into_store(raw_manual_items: list, store: dict) -> dict:
+    """자체 리포트는 제목 유사도로 묶지 않고, 폼 제출 시각 기준 고유 id로 1:1 매칭한다.
+
+    구글 시트에는 예전에 제출한 행이 계속 남아있어서 매 실행마다 다시 읽히는데,
+    내용이 그대로면 last_updated를 오늘 날짜로 계속 밀어버리면 안 되니까
+    (그러면 날짜가 '항상 오늘'이 되어 진짜 최신인지 알 수 없어짐) 내용이 실제로
+    바뀐 경우에만 last_updated를 갱신한다.
+    """
+    issues = store.setdefault("issues", [])
+    by_id = {i["id"]: i for i in issues if i.get("source_type") == "manual"}
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    for item in raw_manual_items:
+        timestamp = item.get("timestamp") or item.get("timestamp_date") or today
+        issue_id = manual_issue_id(item["stock_code"], timestamp)
+        cand = build_issue_from_manual(item)
+        fp = content_fingerprint(cand)
+
+        existing = by_id.get(issue_id)
+        if existing:
+            changed = existing.get("content_fingerprint") != fp
+            existing.update(cand)
+            existing["content_fingerprint"] = fp
+            if changed:
+                existing["last_updated"] = today
+            existing["stale"] = False
+        else:
+            cand["id"] = issue_id
+            cand["first_seen"] = item.get("timestamp_date") or today
+            cand["last_updated"] = item.get("timestamp_date") or today
+            cand["status"] = "일반"
+            cand["stale"] = False
+            cand["content_fingerprint"] = fp
+            issues.append(cand)
+            by_id[issue_id] = cand
+
+    return store
+
+
 def load_json(path: Path, default):
     if path.exists():
         return json.loads(path.read_text(encoding="utf-8"))
@@ -201,6 +275,7 @@ def merge_into_store(candidates: list, store: dict) -> dict:
 def main():
     raw_dart = load_json(RAW_DART_PATH, [])
     raw_news = load_json(RAW_NEWS_PATH, [])
+    raw_manual = load_json(RAW_MANUAL_PATH, [])
     store = load_json(STORE_PATH, {"issues": []})
 
     dart_issues = [build_issue_from_dart(i) for i in raw_dart]
@@ -220,14 +295,19 @@ def main():
     all_candidates = dart_issues + news_issues
 
     store = merge_into_store(all_candidates, store)
+    store = merge_manual_into_store(raw_manual, store)
     STORE_PATH.write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    momentum_candidates = [i for i in store["issues"] if not i.get("is_mere_mention") and i["direction"] != "중립"]
+    momentum_candidates = [
+        i for i in store["issues"]
+        if not i.get("is_mere_mention") and i["direction"] != "중립" and i.get("source_type") != "manual"
+    ]
     stale = [i for i in store["issues"] if i.get("stale")]
 
     print(f"이슈 저장소 총 {len(store['issues'])}건")
     print(f"  - 이번 실행 신규/갱신 후보: {len(all_candidates)}건 (DART {len(dart_issues)} / 뉴스클러스터 {len(news_issues)})")
-    print(f"  - 핵심모멘텀 승인 후보(방향성 있음+단순언급 아님): {len(momentum_candidates)}건 -> 사람 승인 필요")
+    print(f"  - 자체 리포트: {len(raw_manual)}건")
+    print(f"  - 핵심모멘텀 승인 후보(방향성 있음+단순언급 아님, 자체 리포트 제외): {len(momentum_candidates)}건 -> 사람 승인 필요")
     print(f"  - 60일 이상 갱신 없음('모멘텀 점검 필요'): {len(stale)}건")
 
 
