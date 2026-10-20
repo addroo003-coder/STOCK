@@ -73730,9 +73730,19 @@
         "press": "파이낸스스코프",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RcXU5MmZTQXJGUVZBemhMdHJXcmVYTk1aZEFPRENPLVE2aG5tMXRhOFhkQnE0U2NnaTFUSlZnclBzY3FiUXpUbnk5TGRvR0w5aTN0Q19ob193d3dKa3RYYzhwMGhrTThobXc?oc=5",
         "pub_date": "Tue, 20 Oct 2026 00:19:00 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNFo1b0ROaUpmUlZrOHRlSTVVRDlKVXZZQThfYUdkN0ZzajBiUkc3MlBKSUtGeEhFR0hzX0FKZnV3V2NKWWo2cnNTYUctdzFZVkR0ZWxnSTduTy11Y0hMRw?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:29:44 GMT"
+      },
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbUIxTmJ5ckt5dDdDbzNvR1U0S2JlMFVmb1gwMWtXUGpZT3NLMHFRVVotWlNvbjlXQ3VUUGZaLWlaRGFTRW0zTGpFeGFRRGQ2WGfSAVNBVV95cUxPTEZlZ2hKZUtvRWhTcVpwSy1Kb1BpMmhoM0V0V2p1VVdaQnJhYm00ckpFTUZKZzBaM1AzZzBZOUs1MmNFVkl0WGhjVTN5NnhjdHdyZw?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:30:13 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 7,
     "id": "068270-기타-54525-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -73793,7 +73803,7 @@
     "sector": "전기·전력",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "LS에코에너지, 3분기 최대 실적…영업익 전년比 50%↑ - 뉴스핌",
     "source_type": "news",
@@ -73802,9 +73812,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtTHl6V0VPaFVuRE5wVkhOVVhxUzNBZlRTQWtOQ1c5M1hVQ0VLSnNzWno4YjZMR0d2RTJvRTlxemhEZmpXMVBEQ0l1SzRSSWdETWlfbEg2U2kyR2Vn?oc=5",
         "pub_date": "Tue, 20 Oct 2026 01:15:00 GMT"
+      },
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEEtSGZxbUdNMm5tRjBuVnNsUWVRcXNUMFZBaFNBUEhaUEFBQVhFcUhEOEJNNjVVaXZkY2gyU2RSem9mYU1YWUU4bkdnT0loenNhc1doeHJWZnA4cGgzalgzbUlvSG9KeGJ2U0EycS1UVGVIM1ZDb3VwbWFWTEFCV3N2MmVsRjlpcGpGX1RsZ1R3Rncyc0dkZWV4V3FvQ0Y4czQ1bExSeklhSjAzbVo0MnE4RnF3SDEyUUNEdTNBNGcwenZOZ2FxSi1CNUw1U1RoRzBSSWlDMExqSVR3YmRMd0c3UnI3UVJ2Q2o1WmtB?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:36:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-실적-54569-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -73841,7 +73856,7 @@
     "sector": "전기·전력",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "LS에코에너지, 3분기 최대 실적…영업익 전년比 50%↑ - 뉴스핌",
     "source_type": "news",
@@ -73850,9 +73865,19 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtTHl6V0VPaFVuRE5wVkhOVVhxUzNBZlRTQWtOQ1c5M1hVQ0VLSnNzWno4YjZMR0d2RTJvRTlxemhEZmpXMVBEQ0l1SzRSSWdETWlfbEg2U2kyR2Vn?oc=5",
         "pub_date": "Tue, 20 Oct 2026 01:15:00 GMT"
+      },
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEEtSGZxbUdNMm5tRjBuVnNsUWVRcXNUMFZBaFNBUEhaUEFBQVhFcUhEOEJNNjVVaXZkY2gyU2RSem9mYU1YWUU4bkdnT0loenNhc1doeHJWZnA4cGgzalgzbUlvSG9KeGJ2U0EycS1UVGVIM1ZDb3VwbWFWTEFCV3N2MmVsRjlpcGpGX1RsZ1R3Rncyc0dkZWV4V3FvQ0Y4czQ1bExSeklhSjAzbVo0MnE4RnF3SDEyUUNEdTNBNGcwenZOZ2FxSi1CNUw1U1RoRzBSSWlDMExqSVR3YmRMd0c3UnI3UVJ2Q2o1WmtB?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:36:00 GMT"
+      },
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RV3J6Mi1tNTNhYlEtVFRzM2twXzBodE1PX1JyelA0QXBXQms5dGM2V0ZfaGVlN1o1bVhkZ2NiWXEwVTZXU193VGRBNTJmaFBBUU5ZQ21B?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:21:04 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "229640-실적-54574-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -73878,6 +73903,232 @@
     ],
     "source_count": 1,
     "id": "229640-실적-54575-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"목표價 175만원\"…삼성전기 실적 신기록에도 저평가 - 경제타임스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경제타임스",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TXzRiZFVIajU3MkMtTW1qdjk0REVTVzZnaE9VdjBDQUJLUmxsTkxHbXF2dmZhdzc0bDhxd2o3R0dzdWI0U2V5WHQ1dHdSMFB2QkQ0?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:24:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-실적-54613-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, 역대 3Q 최대 실적…작년 연간 실적 넘어섰다 - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UblFkUmZTNi12dEhOUEE5SnhRaW9Na1J4cDVHa0R3WDlidE9TWnc2ZDdiXzRhM2h1ZE4yN0ZsaGtnc0s0M3hoQlExUEV1S29ZdDRlZWMwTVpPajVXYzZ1d2VhVmpqdlByOXNuNEQzdVQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:28:15 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bjFaSUhhSmpWQWhEZHJJNGk0Qzg1eUhTVnp2cXBBUXpVazY0Q1RjT0JkT1BQNFhmYkRIaXNoeUFfUGd3bUR6Mi05NU9uNEpkRjRxZGZXN3lhZ3FjRzB1LXFQSXM?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:11:33 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "006260-실적-54617-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, 3분기 사상최대 실적⋯영업익 222억원 - 브릿지경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "브릿지경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHMG9POUo0b3dXNm82amNLYjhqN1lKbk9HdFpRQkp5SjRYQ29qUHZjRk9EYXo1b1UxWEVBNk83VFdBcWh2T3NPTU10TEthbVFQZnBza0k0X3k4UQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-54619-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, AI 데이터센터 특수에 3분기 사상 최대 실적 - https://www.2news.co.kr/",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "https://www.2news.co.kr/",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84a3JKY21EV2NlVXZmZUxiMEFUN0Q4ZDBtYngyejNDa2J6LUhnZllJdmtpZlRFUWFXdTduclZnYjJvV1Zrbk53TTlDVjhPMC1jTE9nWV9odXNFVlg5R3pyVWo4V0ZHc0pk?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:18:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-54620-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, 역대 3Q 최대 실적…작년 연간 실적 넘어섰다 - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UblFkUmZTNi12dEhOUEE5SnhRaW9Na1J4cDVHa0R3WDlidE9TWnc2ZDdiXzRhM2h1ZE4yN0ZsaGtnc0s0M3hoQlExUEV1S29ZdDRlZWMwTVpPajVXYzZ1d2VhVmpqdlByOXNuNEQzdVQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:28:15 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bjFaSUhhSmpWQWhEZHJJNGk0Qzg1eUhTVnp2cXBBUXpVazY0Q1RjT0JkT1BQNFhmYkRIaXNoeUFfUGd3bUR6Mi05NU9uNEpkRjRxZGZXN3lhZ3FjRzB1LXFQSXM?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:11:33 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "229640-실적-54622-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, 3분기 사상최대 실적⋯영업익 222억원 - 브릿지경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "브릿지경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHMG9POUo0b3dXNm82amNLYjhqN1lKbk9HdFpRQkp5SjRYQ29qUHZjRk9EYXo1b1UxWEVBNk83VFdBcWh2T3NPTU10TEthbVFQZnBza0k0X3k4UQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "229640-실적-54625-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, AI 데이터센터 특수에 3분기 사상 최대 실적 - https://www.2news.co.kr/",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "https://www.2news.co.kr/",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84a3JKY21EV2NlVXZmZUxiMEFUN0Q4ZDBtYngyejNDa2J6LUhnZllJdmtpZlRFUWFXdTduclZnYjJvV1Zrbk53TTlDVjhPMC1jTE9nWV9odXNFVlg5R3pyVWo4V0ZHc0pk?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:18:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "229640-실적-54626-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[2026 3분기 실적] LS에코에너지,영업익 222억원…3년 연속 최대 실적 '청신호' - 인더뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "인더뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJcUhLbDdtd2thYmVGb0x2LUR4XzBobWRUdTU4d2d5ODllRnBVQkJFazBjMVlKU2VCWkVEMTkzQkw2VVNCaVRTSDJtLVlBVnNKcU5nNUlOSndUcWZNSlUyZEh4Rko?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:26:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "229640-실적-54627-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, 올해 4033억 공장 투자 '2021년 이후 최대 규모'…AI 전력시장 공략 - 필드뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "필드뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16TEI0dWt2QTE1VllaTlpXLS11bmFieU94ZF82QmVSaW1JamhqNjZMcTdqYjhndnVLOFBSZ1NqdnBuRFQyNy00ZVdPWDBKenRnV1lBcF9pYzdQaW5fOG9HcU5BY3Qycktf0gFsQVVfeXFMUEhfTE93OU4xeDllekxZOFR1d2RIeVZ5U19lellyM0RnbkpMbEp0MFVVcmFGalhucWJ0YnBBdEkzTHhWRFk0dGNsTDM5QlBMeVdUajdqSTFqZzUzVjV6V2M4bmJoRFBqR2xSb1Zt?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 21:30:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-54628-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
     "status": "일반",

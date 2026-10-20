@@ -299,6 +299,19 @@
     "is_correction": false
   },
   {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "자기주식취득결과보고서",
+    "rcept_no": "20261020000090",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000090",
+    "is_correction": false
+  },
+  {
     "company": "알테오젠",
     "stock_code": "196170",
     "sector": "바이오",
