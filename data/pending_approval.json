@@ -75666,5 +75666,125 @@
     "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "피에스케이",
+    "stock_code": "319660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]피에스케이홀딩스, '첨단 패키징 투자 확대 수혜 가속화' 목표가 240,000원 - KB증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11bXJhbXlWaUxjbnVTZTRpYTd0N09ZSHhPNGRSRk9wcnRXSXM3R1pPMkRlNEVaSXRTWHJDQS1JSG4xVTZRQTFvanlGeFRNZ3RJNTlGQkVWQUYwdlNN?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:34:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "319660-기타-55602-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, 고부가 제품 부진에 목표가 23.3% 하향 - 파이낸셜포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vZVRpU0MwWHAwOG0yeVUxYTZTUGk5Z29rRzFLQm8xc1haTXI2bzZlU2E2czZaOG1idldZMDN3QVFqRkNYQ2tJRFFDT1FrLTBfSllDZHBBVmd4NUhLMzdkWWlJaVEyN0o2bVJuRXVzS3M3UUNT?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:21:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-55607-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS에코에너지, 고부가 제품 부진에 목표가 23.3% 하향 - 파이낸셜포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vZVRpU0MwWHAwOG0yeVUxYTZTUGk5Z29rRzFLQm8xc1haTXI2bzZlU2E2czZaOG1idldZMDN3QVFqRkNYQ2tJRFFDT1FrLTBfSllDZHBBVmd4NUhLMzdkWWlJaVEyN0o2bVJuRXVzS3M3UUNT?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:21:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "229640-기타-55611-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행 거래대금 837억원…5거래일 중 최대 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EVXJISW5vX3VNUXhXdTUwR0xHZDlsRTB3TzIteWdVUVFHUFNBc0ZTc1pTN2FrNkI3ODBWaW4xeEdwd2ZYSVNKSVdidzJVaVZWb3ltWTNmTXdEd2Q0Z0RpQUU4X2lMQQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:35:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-55631-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠, 'LFP'로 반전 노린다…목표주가 상향 - 파이낸셜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQjFsZmt3OEt2bWhyM3BkNVJRU0p3M0hjUEVHeTVWV2Jyc1FqRnVuNFNNZVRmdEpIU01rQ19jNTcxWHRCWmJVWGZ6d2lOcFNFbDBXMnppWUMyQQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:16:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-55633-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
   }
 ]
