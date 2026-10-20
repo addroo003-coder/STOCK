@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티, LIG D&A와 손잡고 유도 무기 개발",
-      "office": "뉴스1",
+      "title": "두산에너빌리티·LIG D&A, 유도무기 엔진 국산화 맞손",
+      "office": "아시아경제",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/421/0009237649"
+      "url": "https://n.news.naver.com/mnews/article/277/0005830756"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
