@@ -349,7 +349,7 @@ legend { color: #9aabb2; font-size: 12px; }
 .analysis-badge.direction-중립 { color: #a8b5b9; background: rgba(255,255,255,.1); }
 .analysis-badge.direction-부정 { color: #4a0f14; background: #ff8e9f; }
 .analysis-headline { margin: 0 0 12px; font-size: 19px; letter-spacing: -.02em; }
-.analysis-body { margin: 0; color: #c3ced1; font-size: 14px; line-height: 1.75; white-space: pre-wrap; }
+.analysis-body { margin: 0; color: #c3ced1; font-size: 17px; line-height: 1.8; white-space: pre-wrap; }
 .analysis-link { display: inline-block; margin-top: 16px; color: #aebbc0; font-size: 12px; text-decoration: none; }
 .analysis-link:hover { color: var(--accent); }
 .analysis-empty { margin: 0; padding: 34px 31px; color: #7f939b; font-size: 13px; }
