@@ -5,6 +5,8 @@
     함께 쌓이는 항목
   - data/raw_company_analysis.json (유형=기업분석) : 종목 상세의 "기업분석 메모"에
     들어가는, 쌓이지 않고 항상 최신 내용으로 교체되는 항목
+  - data/raw_watchlist.json (유형=관심종목) : 첫화면의 "관심종목"에 들어가는, 종목별로
+    항상 최신 1건만 유지되는 항목 (같은 종목을 다시 올리면 내용이 교체됨)
 로 나눠서 저장한다.
 
 구글 폼 -> 연결된 구글 시트 -> "웹에 게시"(CSV) 또는 공유 링크에서 얻은 CSV 링크를 읽어온다.
@@ -13,7 +15,7 @@ API 키나 로그인 없이, 공개 CSV 링크 하나만 있으면 된다 (완�
 ★ 구글 폼 질문은 아래 6개가 전부 들어있으면 된다 (순서는 상관없음 — 질문 "제목"에
    들어있는 글자로 열을 찾기 때문) ★
     - 종목명     (단답형, 필수) - 사이트에 쓰이는 정확한 종목명과 똑같이 입력
-    - 유형       (객관식: 이슈 / 기업분석, 필수)
+    - 유형       (객관식: 이슈 / 기업분석 / 관심종목, 필수)
     - 제목       (단답형, 필수)
     - 내용       (장문형, 필수)
     - 투자의견   (객관식: 긍정 / 중립 / 부정, 필수)
@@ -31,6 +33,7 @@ import csv
 import io
 import json
 import os
+import re
 import sys
 from pathlib import Path
 from urllib.error import URLError
@@ -40,8 +43,25 @@ ROOT = Path(__file__).resolve().parent.parent
 COMPANIES_PATH = ROOT / "data" / "companies.json"
 ISSUES_OUTPUT_PATH = ROOT / "data" / "raw_manual.json"
 ANALYSIS_OUTPUT_PATH = ROOT / "data" / "raw_company_analysis.json"
+WATCHLIST_OUTPUT_PATH = ROOT / "data" / "raw_watchlist.json"
 
 VALID_DIRECTIONS = {"긍정", "중립", "부정"}
+
+# 구글 시트 타임스탬프 로케일에 따라 "2026/10/20 10:05:28"이나
+# "2026. 10. 20 오전 10:05:28"처럼 구분자/형식이 달라질 수 있어서,
+# 맨 앞의 연/월/일 숫자 3덩어리만 느슨하게 뽑아낸다 (시간 표기는 날짜 표시용으로는
+# 필요 없음).
+TIMESTAMP_DATE_RE = re.compile(r"(\d{4})\D+(\d{1,2})\D+(\d{1,2})")
+
+
+def parse_timestamp_date(timestamp: str) -> str:
+    if not timestamp:
+        return ""
+    match = TIMESTAMP_DATE_RE.match(timestamp.strip())
+    if not match:
+        return ""
+    year, month, day = match.groups()
+    return f"{year}-{int(month):02d}-{int(day):02d}"
 
 
 def normalize(name: str) -> str:
@@ -68,6 +88,7 @@ def write_empty(reason: str) -> None:
     print(reason)
     ISSUES_OUTPUT_PATH.write_text("[]", encoding="utf-8")
     ANALYSIS_OUTPUT_PATH.write_text("[]", encoding="utf-8")
+    WATCHLIST_OUTPUT_PATH.write_text("[]", encoding="utf-8")
 
 
 def main():
@@ -103,6 +124,7 @@ def main():
 
     issues = []
     analyses = []
+    watchlist = []
     skipped = []
     for row in reader:
         raw_name = (row.get(col_company) or "").strip()
@@ -124,7 +146,7 @@ def main():
         if direction not in VALID_DIRECTIONS:
             direction = "중립"
 
-        timestamp_date = timestamp.split(" ")[0].replace("/", "-") if timestamp else ""
+        timestamp_date = parse_timestamp_date(timestamp)
 
         entry = {
             "company": company["name"],
@@ -138,14 +160,17 @@ def main():
             "timestamp_date": timestamp_date,
         }
 
-        if "기업분석" in row_type:
+        if "관심종목" in row_type:
+            watchlist.append(entry)
+        elif "기업분석" in row_type:
             analyses.append(entry)
         else:
             issues.append(entry)
 
     ISSUES_OUTPUT_PATH.write_text(json.dumps(issues, ensure_ascii=False, indent=2), encoding="utf-8")
     ANALYSIS_OUTPUT_PATH.write_text(json.dumps(analyses, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"자체 이슈 리포트 {len(issues)}건, 기업분석 메모 {len(analyses)}건 수집 완료")
+    WATCHLIST_OUTPUT_PATH.write_text(json.dumps(watchlist, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"자체 이슈 리포트 {len(issues)}건, 기업분석 메모 {len(analyses)}건, 관심종목 {len(watchlist)}건 수집 완료")
     if skipped:
         print(f"⚠️ 종목명을 못 찾아서 건너뜀(폼에 적은 이름을 확인하세요): {', '.join(skipped)}", file=sys.stderr)
 
