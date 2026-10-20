@@ -4163,6 +4163,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "009150-기타-52854-20261019",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[속보] 삼성전자·SK하이닉스·삼성전기, 19일 장전 동반 급락…반도체주 약세 출발하나 - CBC뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuV2RCZWRsOEEteER6WUhSeUVzVjJqQmxFRnFhZWNIZXFXUnBHbkpNa183aWY4TW9HbkhCWFFObjE1Wm1rSnQ3bUN1MzQ4VDN6dHozYTZHMHBnM25udF9NcVh4SFliZWtJ?oc=5",
+          "pub_date": "Sun, 18 Oct 2026 23:14:26 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-10-19",
+      "last_updated": "2026-10-20",
+      "stale": false
+    },
+    {
       "id": "009150-수주-53977-20261019",
       "category": "수주",
       "direction": "중립",
@@ -4298,28 +4320,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 5,
-      "first_seen": "2026-10-19",
-      "last_updated": "2026-10-20",
-      "stale": false
-    },
-    {
-      "id": "009150-수주-53983-20261019",
-      "category": "수주",
-      "direction": "긍정",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": true,
-      "headline": "삼성전기, 3600억 규모 '메모리 기판' 공급계약 체결 - 신아일보",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "신아일보",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CZFB3VUpPSWJiQ3plUWctMVQtTEZnTHFWYUVZaFgxcnNpOEIycFkzeVBGeG9SVURmUG9MVUEteUM1bEh5QVJyUDVaaEhKY0lWRjJSTjhMdWNqdUFobU5DV3VOcG9STEFNcE90MWNYMEg?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 10:14:19 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-10-19",
       "last_updated": "2026-10-20",
       "stale": false
@@ -6582,6 +6582,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "267260-기타-47347-20261013",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[특징주] HD현대일렉트릭, 장중 5%대 약세 나타내 : 기업주식정보 - 재경일보",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRb3BWVjltY2pldDdOdXVlVW9PZk94Y0RsYXRVMzlUM3lLTHFISWdxX0tHYnFEX3pJVFRxMTRjWTdTcTd0REtUdGFBYw?oc=5",
+          "pub_date": "Tue, 13 Oct 2026 01:26:00 GMT"
+        },
+        {
+          "press": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53QS1KVGRkVy1nZWtMRkw4MFBkT0pBWTAtZTZjbklUVzdSUEd2Uzl4NG9JUjE5aThpRU9zVHZydWk3R1k4NUhLTVRLcw?oc=5",
+          "pub_date": "Tue, 20 Oct 2026 01:26:59 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-20",
+      "stale": false
+    },
+    {
       "id": "267260-기타-52594-20261018",
       "category": "기타",
       "direction": "중립",
@@ -6727,28 +6754,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 8,
-      "first_seen": "2026-10-19",
-      "last_updated": "2026-10-20",
-      "stale": false
-    },
-    {
-      "id": "267260-기타-53570-20261019",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "울산 HD현대일렉트릭 신축공장서 40대 근로자 추락사 - 울산매일 - 울산최초, 최고의 조간신문",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "울산매일 - 울산최초, 최고의 조간신문",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2SVdkOTFlYk5Benp3R29ocHQ1cXh6ZmdaZlFlRXBvUDNfa05sakVnUkVUck1zM2Q3b1lEaUR3LVYwbnJsTDRWekRYWFBVQkdwYWRvODM2OFQ3Y3JyWnBIZWluZmk3alRiZkHSAW5BVV95cUxPc2V3ZVA4anF3dEZOcnJWbVdjWDBIbm9odjJFMjBnR0M2ejJlRXVnZTZoc0VhcFd1bXQ5Y1NoVVVJX04zcG90aFVNSGhNYnQtV3hNYmlJT25OU0NPMFlodExhbkN6OENKWlNEa285QQ?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 07:54:54 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-10-19",
       "last_updated": "2026-10-20",
       "stale": false
@@ -9592,23 +9597,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "130660-기타-53907-20261019",
+      "id": "130660-기타-53686-20261019",
       "category": "기타",
       "direction": "중립",
-      "confidence": "확정",
+      "confidence": "교차검증",
       "status": "일반",
-      "is_mere_mention": false,
+      "is_mere_mention": true,
       "needs_review": false,
-      "headline": "중대재해발생              ",
-      "source_type": "dart",
+      "headline": "발전 5사 산재 사상자 90% 협력·하청 소속…사망자 11명도 전원 하청 - 포인트데일리",
+      "source_type": "news",
       "sources": [
         {
-          "press": "DART",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800636",
-          "pub_date": "20261019"
+          "press": "포인트데일리",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXd3piQnpkUWpMN3gyZUFYRmlDRThhZEltbTdoUFdNVXZFTVhfODR6eGNNcEFJVHdDSnkzZHpJZG5qVFNQdnNFbGZqVmFpaHowektzUGdJY0h2N19OaGZObF9ibjdHOGlvR1hnZHl0NUHSAXRBVV95cUxNYUtqMW8yamxNcUE4RTZ5eGE2WXpYUFo3OVJzaXBfU1R0WXZzRGR2bkJhV3ZTcTc1ek5Da09STENiNEo4SmdoT2RBeXo1dEpIX3J2Mm5odnJpQzZ0c29DVXFIbzY0S3FyQ2lVRkQ1bld6UEZzdQ?oc=5",
+          "pub_date": "Mon, 19 Oct 2026 04:52:53 GMT"
+        },
+        {
+          "press": "안전신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybTlLYi1BdEthTnZhbjhucXVVZVl0ZENvYU1uZzFBNmhVYi1kQUxQdC1LNG9ZcUJ3NUoxRnRrNjlOSlk1N3RHd2pXZnZBUjJtYWd3aEJheWN5RFVDczVtb3lVU0FIczNYSXBxSHlEMTM?oc=5",
+          "pub_date": "Mon, 19 Oct 2026 06:52:38 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-10-19",
       "last_updated": "2026-10-20",
       "stale": false
@@ -11197,6 +11207,33 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "삼성바이오로직스": [
     {
+      "id": "207940-기타-41166-20261006",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "[오늘의 증시일정] 삼성바이오·STX 등 - 이투데이",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NWUR4NGFhdFYxYS03aEFzNHlhVmYzNnkzSGh5NGw4MDVNOHp0bVVsVG1VUHNScHJVTUJpbjBha2pkclBFb3JGM1VzU3RBWTRZTEM1VDgzWmE5U0lkTTVkWkhvMEJaMy1kckxNd1NBLUVKeWNC?oc=5",
+          "pub_date": "Mon, 05 Oct 2026 23:12:00 GMT"
+        },
+        {
+          "press": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14ZnNCUHdlSEIyRUM0ZHZmVG55V1BsOXZpZFJWWnJqY1BwUzZ6d0h4eEtHOXF0bUxaNWgwSjc1VlRGMjJjX3h2WEgzVUhpM3RyakJDSA?oc=5",
+          "pub_date": "Tue, 20 Oct 2026 23:09:00 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-10-06",
+      "last_updated": "2026-10-20",
+      "stale": false
+    },
+    {
       "id": "207940-기타-46893-20261012",
       "category": "기타",
       "direction": "중립",
@@ -11501,58 +11538,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-10-19",
-      "last_updated": "2026-10-20",
-      "stale": false
-    },
-    {
-      "id": "207940-기타-53285-20261019",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "삼성바이오로직스, 월드 ADC서 전 주기 서비스 역량 강조 By EBN - Investing.com 한국어",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50cWQzVllobjctcXZqaVhXbFp4YmdadzBtdmxOTXpuMnlIYVhZbGVTM200SXVKTDk3SU9ENFRqNEpqdWg5U2hNUkRqdWRUZWIxNUx1ZmNiNFl4RjlWS1M4RV9qWmxqLUdVd01VeHQ1QnQ?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 01:41:00 GMT"
-        },
-        {
-          "press": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zZGRhSFdndnBoUHNkZEx0RGVtcUVad3dXOWFpbFNhMi15djgtZ2VuSnVSSktJZk9XTjhhZmM2c1FHdG5iNEJKYVkxbU0xWHZrQUHSAVNBVV95cUxOSFlmQVVNck9RMzAyMU5reGRWRENRMXpQc0F4UTlNTEpjR1BRN1dJYmlsYUJ5b0wzMTM1RXNYaHFQUExPdzdKS1pPUllmZy0za2c2SQ?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 00:13:35 GMT"
-        },
-        {
-          "press": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Da25oZVVmTVpfNmlWQnZYclZ6ZURYWHhWaUhLMW5DOEVxbWQ2ZHBfRE54Q2RWVzFOdElSYzYtWmc2U2ZlbzNGNHJZd2ZpNUJjb1lrR3NndE4wemZaajd3WQ?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 00:04:01 GMT"
-        },
-        {
-          "press": "파이낸스스코프",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mS1daamVyLXdqVVk0T0ZxSGstdUxuVmF3SHdiWG9WV0tqQ0E0UWV2cFdMLXY4OEVvc3kxYjdHblU2Z09IUm9Samstc3R1RnJJeFl6bzVocFJNOEpleV91S1dnck1uaC1KdVE?oc=5",
-          "pub_date": "Sun, 18 Oct 2026 23:57:00 GMT"
-        },
-        {
-          "press": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3UkplMU91VkptUDdVQV9tQlA1WFI4ZDNKUFMzZnF5RVRFUWxFNlZlNkN3S1VBTlpuelhrWFRzTmhsSk5oY0JGazlqTG9tZWU5SU1RZTh5Um00Zw?oc=5",
-          "pub_date": "Sun, 18 Oct 2026 23:30:53 GMT"
-        },
-        {
-          "press": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DMWRndHVtS081SDF5M093bVdJbXZKbkdUSkpEUGE0UjE1V29jVjVia1hkVUZHSnE3TW41MmpHZWJwN3VSOGlqQVdrR0RwMElVNkpTSHFYQ1NGNDRS?oc=5",
-          "pub_date": "Sun, 18 Oct 2026 23:44:00 GMT"
-        },
-        {
-          "press": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3Vk9IMXpJVWZXSk81ZWhYQzdyX0ZoZ1BHQjFVOEk5aXhfeGtTTGVzNDJ4WUsyT1dhUnRCYnBKbHM5RkVzUEJzaHNrdTFWZw?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 00:47:46 GMT"
-        }
-      ],
-      "source_count": 7,
       "first_seen": "2026-10-19",
       "last_updated": "2026-10-20",
       "stale": false
@@ -12851,6 +12836,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "006400-기타-19682-20260913",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "중복해서 누르기 전 확인할 카지노 슬롯 무료 다운로드 없음 진행 신호 - Calgary Roughnecks",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXZTbEFzTkgwWlB6d3F1LWhCSG9IdXpLWkt5UWRDang5QXpRcWFqWWZhUDBkb0tjcWlZV0xXQTZZZkh3ZEwzdExhSy0yM1RhaS1qQkY0S1Z1UHhnZW1HNXFfSjN1OXNPS05PNTVoLXppM3laLWxLU2kta1ZObWJmUno4ak82dkxrTFh6V0hrVUNLei0zWDN6cnQyamRVTXZqLVE?oc=5",
+          "pub_date": "Sun, 13 Sep 2026 05:27:42 GMT"
+        },
+        {
+          "press": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUZYQ1B4ODJFNjlpbzdILTcyZU53bC1yYkxoRjkydTlWZ3N3NHk3UVplRU9OU1hFTklJOFpmNjgxZ2VmWkNsc2Q5UlNYUllOWVUyVTZfajhYODVsNFUtSEVyRTlBSUNMT3dVekdQRzNjSzJUU3NMY3E5STVObElxQU14STFfYjhxUGl4QlRXb1BnRVgxMmprbVFRV3E3UkhlYkk0YlRnY0twVmlJbEZMM1ZCX0ZtR3R1OXkydHl6a3ZFNFBmODNGRzJjVExSQQ?oc=5",
+          "pub_date": "Tue, 20 Oct 2026 06:58:14 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-10-20",
+      "stale": false
+    },
+    {
       "id": "006400-기타-26125-20260918",
       "category": "기타",
       "direction": "중립",
@@ -12951,33 +12963,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "비즈니스포스트",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBveXhLYmoyWnYwem9JRGU3NThuZ3ZVVkZXT280MGZLRjZLeE5DaHlyTnBDYXhPOHNWLWFDdHY0d3FhUnlpbC1qVEkzOTFlWU1MX2NTb2NIWXBpeGtFUnRuMk03b2ptNFhGckxkVlE0bndBOTg?oc=5",
           "pub_date": "Mon, 19 Oct 2026 02:15:45 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-10-14",
-      "last_updated": "2026-10-20",
-      "stale": false
-    },
-    {
-      "id": "006400-기타-48966-20261014",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "연기금, 코스피 시장에서 삼성SDI 526.79억원 순매수 - 씽크풀 AI",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "씽크풀 AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5naExBU0dNVmE1aEE5WVRPVnpUbXdqcTZBS2JtLXVOVk5WVnF0QUJqQnFDckhkUU11Y0hnSFNqZl8tY2gwTkY2ZTFLckRPdnpjZzBKY0tBVXZzaDluaFQzcTZfNlhYLVY2?oc=5",
-          "pub_date": "Wed, 14 Oct 2026 07:12:00 GMT"
-        },
-        {
-          "press": "씽크풀 AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzUkxkaC0taFl4UHdVUXpGVU52akJtUk1KLTJjQlp5elYxaU1SVWgta21sb3hRbzdWczlXZXJGZVZCZm91bkJmaE1Tb0Q4N3Fob0FZWFJyMEdkZ3UtSTBkVUtnODAtc1U0?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 10:13:51 GMT"
         }
       ],
       "source_count": 2,
@@ -25984,9 +25969,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "https://www.kgdm.kr/",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JLVZwVWdlUDdsV1BpbGdMVnB4UWtjWFFHWUo3ck9wQVNqTnROMU95MTZQb0FqSE9ncEwxcFZrTWFTZU40V2JzQkxWWUFiUTEtVlUxU0p5a1RSWlVsQUhvVFZJRXltZw?oc=5",
           "pub_date": "Mon, 19 Oct 2026 03:34:05 GMT"
+        },
+        {
+          "press": "경기뉴스원",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtWU1zMmJSV0RvOUNhZG83NXBpTEdmUEF2RGZqeU9pdVpQbEJweDJoajBGUTBnX2NnUHZ3U0FmdVhFTUF2LUJsZ2QwSldkR1dVU2UyOFgtMWF3elg1WmtTUnJEQQ?oc=5",
+          "pub_date": "Mon, 19 Oct 2026 04:10:50 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-10-19",
       "last_updated": "2026-10-20",
       "stale": false

@@ -75642,5 +75642,29 @@
     "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠 20일 거래량, 직전 4거래일 평균보다 18.1% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNWs4TFd2Rkl6bERfdGhQOHczVlB2MkpYMjg3Uzg3WUpHMnVHU3Y4SXJCc2JraHZvY2JTRjM2NFZxUUQxMTdseU42S1pWMkIyRVBvbGlBeWtFTW5LaUJaMW5VWVE3UQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 22:53:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-55596-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
   }
 ]
