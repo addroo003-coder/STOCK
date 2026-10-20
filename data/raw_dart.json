@@ -13,6 +13,19 @@
     "is_correction": false
   },
   {
+    "company": "에이디테크놀로지",
+    "stock_code": "200710",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261020900472",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900472",
+    "is_correction": true
+  },
+  {
     "company": "오픈엣지테크놀로지",
     "stock_code": "394280",
     "sector": "AI 반도체",
@@ -52,6 +65,19 @@
     "is_correction": false
   },
   {
+    "company": "칩스앤미디어",
+    "stock_code": "094360",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타법인주식및출자증권취득결정(자율공시)              ",
+    "rcept_no": "20261020900581",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900581",
+    "is_correction": true
+  },
+  {
     "company": "텔레칩스",
     "stock_code": "054450",
     "sector": "AI 반도체",
@@ -75,6 +101,32 @@
     "rcept_no": "20261019800610",
     "rcept_dt": "20261019",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800610",
+    "is_correction": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261020800731",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800731",
+    "is_correction": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "중대재해발생(종속회사의주요경영사항)              ",
+    "rcept_no": "20261020800720",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800720",
     "is_correction": false
   },
   {
@@ -154,6 +206,71 @@
     "rcept_dt": "20261020",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800175",
     "is_correction": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261020000263",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000263",
+    "is_correction": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261020000258",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000258",
+    "is_correction": true
+  },
+  {
+    "company": "두산로보틱스",
+    "stock_code": "454910",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261020800467",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800467",
+    "is_correction": false
+  },
+  {
+    "company": "두산로보틱스",
+    "stock_code": "454910",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "결산실적공시예고(안내공시)              ",
+    "rcept_no": "20261020800462",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800462",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타인에대한채무보증결정              ",
+    "rcept_no": "20261020800566",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800566",
+    "is_correction": true
   },
   {
     "company": "현대건설",
@@ -413,6 +530,45 @@
     "rcept_no": "20261020700202",
     "rcept_dt": "20261020",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020700202",
+    "is_correction": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261020800480",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800480",
+    "is_correction": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261020800476",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800476",
+    "is_correction": false
+  },
+  {
+    "company": "SKC",
+    "stock_code": "011790",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "결산실적공시예고(안내공시)              ",
+    "rcept_no": "20261020800474",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800474",
     "is_correction": false
   },
   {
