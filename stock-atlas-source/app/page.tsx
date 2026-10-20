@@ -127,7 +127,7 @@ export default function InvestmentAtlas() {
       <section className="hero" aria-labelledby="page-title">
         <nav className="topbar">
           <a className="brand" href="#top" id="top"><span>A</span> GROWTH ATLAS</a>
-          <div className="asof"><i /> 2026.08 · 국내 성장산업 지도</div>
+          <div className="asof"><i /> 국내 성장산업 지도</div>
         </nav>
 
         <div className="hero-grid">
