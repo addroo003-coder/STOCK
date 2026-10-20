@@ -72178,9 +72178,14 @@
         "press": "Daum",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yYkI0czM1UndvZGNYTnhWSGVoSnZXdFFXSHJxMmdoZkc3S2pIZW1TNkpobThjZ2E1VGtsb0pxTEJUbjllM3lMOGN4QQ?oc=5",
         "pub_date": "Mon, 19 Oct 2026 06:12:47 GMT"
+      },
+      {
+        "press": "KIPOST",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mSjRRSmozSExTYTQ0bG5EenZWV3hiWnd3aDJ0QVJqa0hwcjhaYkFIQ2ZkamxXdU1wczhUcFRZNndoN1dPUlBqcC1XY2Jldk12VWRPdW1HUE1kdjNMS1lHM2dSQ0lBUE0ybFdYLdIBbEFVX3lxTE9mSjRRSmozSExTYTQ0bG5EenZWV3hiWnd3aDJ0QVJqa0hwcjhaYkFIQ2ZkamxXdU1wczhUcFRZNndoN1dPUlBqcC1XY2Jldk12VWRPdW1HUE1kdjNMS1lHM2dSQ0lBUE0ybFdYLQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 04:58:49 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "000500-실적-53608-20261019",
     "first_seen": "2026-10-19",
     "last_updated": "2026-10-20",
@@ -73746,9 +73751,14 @@
         "press": "FETV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QMW9tYUVURXB1MEdQUEp2ZlJ3X0ZuMm9YMi1GYklVeXJ4cjFNV29OOVZjSERzaXZzektyS2Vjek1GdmdpMUhlWlozbEVha21xY0tsTmZSRDZnVlEtdGpvSktQcWs4Z2cx?oc=5",
         "pub_date": "Tue, 20 Oct 2026 00:05:05 GMT"
+      },
+      {
+        "press": "파이낸스스코프",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RcXU5MmZTQXJGUVZBemhMdHJXcmVYTk1aZEFPRENPLVE2aG5tMXRhOFhkQnE0U2NnaTFUSlZnclBzY3FiUXpUbnk5TGRvR0w5aTN0Q19ob193d3dKa3RYYzhwMGhrTThobXc?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 00:19:00 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 9,
     "id": "068270-기타-54524-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -74400,9 +74410,14 @@
         "press": "테크월드",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UUllfMGJQMVpvWU9rUHdhdXNSbk00SVhHWFBYMzkwYUtRRERsWDBselIxY01QRU9JUzlISHRxeUFUcHd0TWcyMFZoNzVLYXk3WDN5d1l1ZFhBQk54MldCQlowcE1QcHRD?oc=5",
         "pub_date": "Tue, 20 Oct 2026 03:40:00 GMT"
+      },
+      {
+        "press": "투데이에너지",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mY3QyRld2bnNTclhKNzVWM3Y1UUJ4WjhNQXhKTGpmV1VvV3AzMjZTUGxoYWNwc25oS2owZnRUSFltTDdjU0NnRWhzNFhEcWRkaTBuUU4xdkc0VGQ0eERjOWt3YlprSzBxQ2ZkVg?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 04:22:11 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "006260-실적-54723-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -74635,6 +74650,102 @@
     ],
     "source_count": 1,
     "id": "196170-기타-54907-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "신한은행, SK하이닉스·한국무역보험공사와 반도체 수출공급망 금융지원 협약 체결 - 디지털비즈온",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털비즈온",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsV0RhRHNOeWw2ZXQ4U2ZnWUYtcHJsSmJJcnBjNzlfTzZSLTYwUkxVUFpnT3BhNkZTMmtSOFdvWkR2OG01eXJzeFBOWWdJMld1VkJwUGZEd3VuVlRhSU82clVEMUlWcHA5T1g3M3RPMjRoX0Jz0gF0QVVfeXFMUGxXRGFEc055bDZldDhTZmdZRi1wcmxKYklycGM3OV9PNlItNjBSTFVQWmdPcGE2RlMya1I4V29aRHY4bTV5cnN4UE5ZZ0kyV3VWQnBQZkR3dW5WVGFJTzZyVUQxSVZwcDlPWDczdE8yNGhfQnM?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 05:14:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-54916-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "시지메드텍, 드퓨신테스와 ‘노보시스 트라우마’ 독점 공급 계약 체결 - 약업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG9YYUFScERncmxoMkxVeE80c2YzUDF1ZWhNbFhFX1RZYl84MThTYXFxWDJhc1B2d1M4NHNUZTl3OVNZY0hZd1ozZG9kcjFsVHFYTmMyMmFVejNESlltSGdyTlNCeXRvS3RkQ0VTSU1XU3lnRzJYVXFCekFzU1d2TGFxVkFlSDZMa3ZkcExDZ3cwMmhUZzMzRUFUM0Q?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 01:38:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-54920-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가온전선, 美 전력망 훈풍에 3분기 ‘사상 최대’… 영업익 2배 껑충 - 아시아타임즈",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tRVE2Z2xJRW9wRFQxVkFrNnhzT3E2VFg4NVFnRUVncjRvZkRJZGJsdEFfaHE4czZKRk9Sa2lkQ0xtZ2w2dFVXWmI1WUR4ZzFGTzl0RXZlTlp2T19KS0E?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 10:01:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-54925-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한화에어로스페이스 | K9·천무 인도 지연, 4분기 실적 반등이 관건 - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1ZXZHIyU24yY1lpWDJKN0V5MjdmN2dOTXFvSDZGXzctRy1pQzVjNDgwcGVtaHJMSW5MT1F4TFhqT0xVbUVCb19VMGt1RDg5NVhpc2ZFQmdSR0tqRnU3ZDlrZlJONzNQWURweU9UeHlRWjRucnVCVjEzX1VYdXJNUldiRTNKZlRB?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 06:09:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-실적-54938-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
     "status": "일반",

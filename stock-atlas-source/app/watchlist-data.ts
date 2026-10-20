@@ -12,4 +12,15 @@ export type WatchlistItem = {
   updatedAt: string;
 };
 
-export const watchlist: WatchlistItem[] = [];
+export const watchlist: WatchlistItem[] = [
+  {
+    "name": "로보티즈",
+    "stockCode": "108490",
+    "sector": "피지컬 AI·로봇",
+    "headline": "피지컬ai 관련 급락장 관",
+    "body": "최근 급라이후 5일선 회복흐름속에서 주가 저점에 대한 신뢰구간을 높여가는 흐름에서 24만원 돌파 안착흐름 체크가 필요 그럼 반대로 매매 관점에서는 24만 이하에서 분할관점 대응은 필요할 것으로 판단되고 최근 테슬라 옵티머스 관련이슈, 삼성전자 로봇 관련이슈, 그리고 11월4일 로보월드 관련부분도 주의깊게 체크해야할 한 부분으로 판단!",
+    "direction": "긍정",
+    "url": null,
+    "updatedAt": "2026-10-20"
+  }
+];
