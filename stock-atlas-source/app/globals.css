@@ -62,6 +62,24 @@ legend b { margin-left: 5px; color: var(--mint); }
 .score-ribbon strong { overflow: hidden; font-size: 10px; text-overflow: ellipsis; white-space: nowrap; }
 .score-ribbon em { color: #dbe9e5; font-family: Georgia, serif; font-size: 14px; font-style: normal; }
 
+.watchlist-panel { margin-top: 22px; border: 1px solid rgba(255,255,255,.13); background: rgba(11,28,41,.72); }
+.watchlist-heading { padding: 26px 31px 22px; border-bottom: 1px solid rgba(255,255,255,.11); }
+.watchlist-heading h3 { margin: 0; font-size: 22px; letter-spacing: -.03em; }
+.watchlist-heading > div > span { display: block; margin-top: 9px; color: #879ba3; font-size: 12px; line-height: 1.6; max-width: 640px; }
+.watchlist-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1px; background: rgba(255,255,255,.08); }
+.watchlist-card { display: flex; flex-direction: column; align-items: stretch; gap: 10px; padding: 22px 24px; background: rgba(11,28,41,.92); border: 0; color: inherit; text-align: left; cursor: pointer; }
+.watchlist-card:hover { background: rgba(114,228,207,.07); }
+.watchlist-card-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.watchlist-card-top strong { font-size: 17px; letter-spacing: -.02em; }
+.watchlist-badge { flex: 0 0 auto; padding: 3px 9px; border-radius: 20px; font-size: 10px; font-weight: 750; letter-spacing: .02em; }
+.watchlist-badge.direction-긍정 { color: #071a17; background: var(--mint); }
+.watchlist-badge.direction-중립 { color: #a8b5b9; background: rgba(255,255,255,.1); }
+.watchlist-badge.direction-부정 { color: #4a0f14; background: #ff8e9f; }
+.watchlist-headline { margin: 0; color: #e5efec; font-size: 13px; font-weight: 700; line-height: 1.5; word-break: keep-all; }
+.watchlist-body { margin: 0; flex: 1; color: #aebbc0; font-size: 12.5px; line-height: 1.65; white-space: pre-wrap; word-break: keep-all; }
+.watchlist-date { color: #61767f; font-size: 10.5px; }
+.watchlist-empty { margin: 0; padding: 34px 31px; color: #7f939b; font-size: 13px; }
+
 .atlas { max-width: 1624px; margin: 0 auto; padding: 100px clamp(22px, 6vw, 92px) 120px; }
 .section-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 48px; margin-bottom: 38px; }
 .section-heading h2 { margin: 0; font-size: clamp(36px, 4.5vw, 58px); line-height: 1; letter-spacing: -.045em; }
@@ -425,6 +443,8 @@ legend { color: #9aabb2; font-size: 12px; }
   .issues-source-note { padding: 14px 20px; }
   .analysis-heading { display: block; padding: 24px 20px; }
   .analysis-content { padding: 22px 20px 26px; }
+  .watchlist-heading { padding: 20px 20px 18px; }
+  .watchlist-card { padding: 18px 20px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

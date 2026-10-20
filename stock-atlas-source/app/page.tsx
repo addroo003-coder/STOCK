@@ -6,6 +6,7 @@ import { earningsByStock } from "./earnings-data";
 import { marketSourcesByStock } from "./market-sources";
 import { issuesByStock } from "./issues-data";
 import { companyAnalysisByStock } from "./company-analysis-data";
+import { watchlist } from "./watchlist-data";
 
 const beta: Record<string, number> = { semi: 2, power: 1, robot: 4, nuclear: 1, space: 3, bio: 4, battery: 3 };
 
@@ -93,6 +94,11 @@ export default function InvestmentAtlas() {
     ).slice(0, 12);
   }, [allStocks, query]);
 
+  function jumpToWatchlistStock(name: string) {
+    const found = allStocks.find(({ stock }) => stock.name === name);
+    if (found) chooseStock(found.sector.key, found.segmentIndex, found.stockIndex, true);
+  }
+
   function chooseSector(key: string) {
     const next = sectors.find((sector) => sector.key === key) ?? sectors[0];
     setSectorKey(next.key);
@@ -166,6 +172,33 @@ export default function InvestmentAtlas() {
             </button>
           ))}
         </div>
+
+        <section className="watchlist-panel" id="watchlist" aria-labelledby="watchlist-title">
+          <header className="watchlist-heading">
+            <div>
+              <p className="eyebrow">WATCHLIST</p>
+              <h3 id="watchlist-title">관심종목</h3>
+              <span>성혁님이 직접 골라 올린, 지금 눈여겨보는 종목들입니다. 같은 종목을 다시 올리면 내용이 최신으로 바뀌어요.</span>
+            </div>
+          </header>
+          {watchlist.length ? (
+            <div className="watchlist-grid">
+              {watchlist.map((item) => (
+                <button key={item.name} className="watchlist-card" onClick={() => jumpToWatchlistStock(item.name)}>
+                  <div className="watchlist-card-top">
+                    <strong>{item.name}</strong>
+                    <span className={`watchlist-badge direction-${item.direction}`}>{item.direction}</span>
+                  </div>
+                  <p className="watchlist-headline">{item.headline}</p>
+                  <p className="watchlist-body">{item.body}</p>
+                  <span className="watchlist-date">{item.updatedAt}</span>
+                </button>
+              ))}
+            </div>
+          ) : (
+            <p className="watchlist-empty">아직 등록된 관심종목이 없습니다. 구글 폼에서 유형을 "관심종목"으로 선택해 올려주세요.</p>
+          )}
+        </section>
       </section>
 
       <section className="atlas" id="atlas" aria-labelledby="atlas-title">
