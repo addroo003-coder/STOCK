@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "'삼성전자 투자' 美 엘리먼트 바이오, 서울서 글로벌 로드쇼 개최",
-      "office": "파이낸셜뉴스",
+      "title": "삼성전자, 갤럭시 최초 클립형 ‘갤럭시 버즈 온’ 출시",
+      "office": "한겨레",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/014/0005591820"
+      "url": "https://n.news.naver.com/mnews/article/028/0002828262"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "차입 대신 지분으로 실탄 확보…기업들, AI·방산·배터리에 쏟는다",
-      "office": "뉴시스",
+      "title": "탈중국 공급망 다지는 배터리 업계…광산 투자부터 원료 장기계약까지",
+      "office": "매일신문",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/003/0014265537"
+      "url": "https://n.news.naver.com/mnews/article/088/0001035485"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1215,10 +1215,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=214450",
     "news": {
-      "title": "파마리서치, 대한미용의사회서 필러 ‘리쥬비엘’ 시술법 공유",
-      "office": "한국경제",
+      "title": "파마리서치바이오, 2공장 지연에도 유동성 436억 유지…본업이 버팀목",
+      "office": "블로터",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/015/0005344305"
+      "url": "https://n.news.naver.com/mnews/article/293/0000091852"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/214450/news"
   },
@@ -1369,10 +1369,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KAI 민영화 논란에 수출입은행장 \"지분 매각 계획 없어\"",
-      "office": "시사저널",
+      "title": "황기연 수은 행장 “KAI 지분 매각 계획 없다”",
+      "office": "조선비즈",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/586/0000140430"
+      "url": "https://n.news.naver.com/mnews/article/366/0001199126"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "삼기에너지솔루션즈, 美서 1천억 규모 하이브리드 부품 수주",
-      "office": "파이낸셜뉴스",
+      "title": "탈중국 공급망 다지는 배터리 업계…광산 투자부터 원료 장기계약까지",
+      "office": "매일신문",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/014/0005591754"
+      "url": "https://n.news.naver.com/mnews/article/088/0001035485"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "웨스팅하우스 지분인수 검토하는 SK… 원전사업 참여할까 ‘주목’",
-      "office": "조선비즈",
+      "title": "탈중국 공급망 다지는 배터리 업계…광산 투자부터 원료 장기계약까지",
+      "office": "매일신문",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/366/0001199111"
+      "url": "https://n.news.naver.com/mnews/article/088/0001035485"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "코스피 4%대 하락...SK하이닉스 장중 한때 7% 급락",
-      "office": "YTN",
+      "title": "4대 은행, SK하이닉스와 반도체 협력기업에 2조 금융지원",
+      "office": "더팩트",
       "date": "20261020",
-      "url": "https://n.news.naver.com/mnews/article/052/0002421186"
+      "url": "https://n.news.naver.com/mnews/article/629/0000543777"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
