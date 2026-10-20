@@ -72333,7 +72333,7 @@
     "sector": "이차전지·ESS",
     "category": "기술",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성SDI, 전고체 배터리 내년 양산 본격화...휴머노이드 선점·전기차 확대 추진 - 이코노미사이언스",
     "source_type": "news",
@@ -72342,9 +72342,14 @@
         "press": "이코노미사이언스",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tN2FPSWNPZG9kVFpwWUVZRnM4WTF5TjhfdGlMNGRZT2VxZDM4OW0xLVo4MkhKOURCR3pIbVNoQTh6dlhZT0JfXzFjUXA1RkFhRnF5ZmZKdjBWbElnc2pUcEVKRnVJSG5FR19vTUtXOA?oc=5",
         "pub_date": "Mon, 19 Oct 2026 00:18:46 GMT"
+      },
+      {
+        "press": "한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mMFFHWEFWYU8yZGdyY05iWnExUkFEOTJzNnRYOWpKU1oyY25ld2c0N0cwNFZfR3J3T0pOUXVST2xBZjJ1V2U3b1poWHFRbncyYXFDLWVtckhZZUx3SUN6YTdZeFZVVFZQbnFJVmpZNm1BaVk?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:24:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006400-기술-53844-20261019",
     "first_seen": "2026-10-19",
     "last_updated": "2026-10-20",
@@ -74446,9 +74451,14 @@
         "press": "파이낸셜뉴스",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdVlPVmE5djdCNVdxMU5MekNaUWhrVlg0UEY2OTUtYzgtMElabnVyaVRsdDdwSG5wQXItRUR1NWUxV0tQTWZVMExEYU1Oenp1c1pYaFl6NEtJUQ?oc=5",
         "pub_date": "Tue, 20 Oct 2026 07:31:03 GMT"
+      },
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVVpd25fQjYzdlZFZ2pWdUlOMDJPR25aZWhDVERxQjg4bGRRM1VPVzBlNms3THhXVjE2dkJOLTI5eGJaQXBLUTJPeDBlZ2wtb0F6Skxvd3VQZXhieDU2MC1xLVBlWHhHNlpZaHdWaVM1OEk4VDdkWmpGZWYwS3c5QQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 04:54:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "103590-기타-54706-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -75224,9 +75234,14 @@
         "press": "뉴데일리",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUwzT2hZNVN0ZUszY3Y5T2hfUWoyNTJTREYxOW9lZEpaM21mSmhvYVc5UlhseFNTczI3WVlYUk96dGFLaVJNdHJIZExGcW40MFFZZ1NlNWRCcTNjeWVzYW1oYk1RWjhjNW4zZG84QmwzMWNjT2NzLU1oa0VDWnl5VtIBgAFBVV95cUxORUwzT2hZNVN0ZUszY3Y5T2hfUWoyNTJTREYxOW9lZEpaM21mSmhvYVc5UlhseFNTczI3WVlYUk96dGFLaVJNdHJIZExGcW40MFFZZ1NlNWRCcTNjeWVzYW1oYk1RWjhjNW4zZG84QmwzMWNjT2NzLU1oa0VDWnl5Vg?oc=5",
         "pub_date": "Tue, 20 Oct 2026 04:31:34 GMT"
+      },
+      {
+        "press": "월요신문",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmOFZucXgyN1BhellFcDRGMU1vN1JOdEJfZ185dzhFaThvdGg2ZFRETmY2cEFrcmp4Y0lSN3pYSVMzMHBzdy04Nl9TcWcyV28tbVpLUl8tTXo2LU83ZGxWZkZKR3A0T3ZIeXc?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 14:45:09 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "068270-기타-55162-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
@@ -75348,6 +75363,102 @@
     ],
     "source_count": 1,
     "id": "068270-기타-55301-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[국내 과학·IT 동향] 상장사 정보보호 공시 의무 확대…삼성전자·SK하이닉스 주가 동반 하락 - 데일리뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리뉴스",
+        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX0pwMUk4ODEzWnZaZ2V4cnpsaDltMmVNaHdlOEdmU2o4OU02Y3VUVUU0eF85b1gtbUQ0dWJsZkFNZ2pCWFBob3VxdzI4R21yZndDbEFZbnRuR3BIOWRjbUd0YXYxVzd3UWtXQVFsdDgyLTc0NXVfNWJrSFdoMDZvNTlSSW9vSkpMaDJXZ2Q3Nk1HNlJOcGE2WGhjcWdfMFN4R1lURVlrbk50SmswMWpqYjBYR0c1bl9MWkJVeDR3SmJWSVFjcE81dWVoaE92WmNCSktaTlBVRFZpZTFTLUs2bEpDODZtSEtLYXJDYnJSRHRpSnlyNEViX2FieGFaeHk4SDVXc2JSSmZXVnlwM2NDeFQtWVpwZFlqV29CSlpnY1RPMzNSZEZKV2RudHZRYzRNRlVQSHFFcG9NNG5UVVNDb3NoeWlVN0xLc2NWS2tXNGswS3B1RTdqTVhwOHctSl9MRFlBb1BCTGUyNTNCSTVuSWVtMS1Fc1JPbDM1SWI0ckF0aEs1OEVxTkZncjMyZFdleDVEOVlzZElNM3hRRWF1SlhwTHp1Rl9WLXpkeWotNmFhWUVyVUhOUk5TOVlIQUtYRlVsQnBXU2ZCRDlxeHJ4b0hnQjdEYVhqZV9oOTFsQ3E5LV9wMjZlMlhB?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 14:32:27 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-55339-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에이디테크놀로지",
+    "stock_code": "200710",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에이디테크놀로지 차량용 반도체 계약 369억원으로 확대 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRjdQdnJxczZfUHdtNW1GMXoyXzM0WTdhY2JQdTd6VnJCbUdleml3c09lS1ZiT3F3and1Y2tQd3MySU1UU3BvNGdqUURUb2xYblpDc2EyLVlyODNHV0dRUmRPTHdndw?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 16:24:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "200710-기타-55361-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기 3분기 실적 영업이익 6,400억 원 예상… 매출·영업이익 모두 최대 기록 경신 기대 - 경제시그널",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경제시그널",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZGk2SV9HNlhEZ2dFOElOTzBaejRRX2NzWmRtWllMTkp5bnVHdlgzUnFRRlpHU0JNLVpmb1dZbm9ycnVWUTAxcGIxNzEtY29jVEMyV1hidThzcHJ2NzZXNlp5cjR3ZmFnQXpQU3hRNXRETzQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 05:20:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-실적-55368-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS 해외 전선 사업 풍년… LS에코 3분기 최대 실적 - 아시아타임즈",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZV9PTzlBZUJJeFZPbmhmeW5Ta0lqMGtTWmRkM3p6NzBldnRNenl4aE1pbkVzYzVYMHlYNlQ3OFFMYkhTRjJoODMyLWNrSlJXVjZTcG1zWnl4NERFMHc?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 09:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-55373-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-20",
     "status": "일반",
