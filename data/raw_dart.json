@@ -377,6 +377,19 @@
     "is_correction": false
   },
   {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "상장채권관련기타주요사항              ",
+    "rcept_no": "20261020700202",
+    "rcept_dt": "20261020",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020700202",
+    "is_correction": false
+  },
+  {
     "company": "서진시스템",
     "stock_code": "178320",
     "sector": "이차전지·ESS",
