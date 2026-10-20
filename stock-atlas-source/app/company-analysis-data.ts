@@ -9,4 +9,12 @@ export type CompanyAnalysis = {
   updated_at: string;
 };
 
-export const companyAnalysisByStock: Record<string, CompanyAnalysis> = {};
+export const companyAnalysisByStock: Record<string, CompanyAnalysis> = {
+  "삼성전자": {
+    "headline": "지금 주가는?",
+    "body": "테스트",
+    "direction": "긍정",
+    "url": null,
+    "updated_at": "2026."
+  }
+};

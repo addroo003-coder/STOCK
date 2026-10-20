@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "title": "지금 주가는?",
+    "body": "테스트",
+    "direction": "긍정",
+    "url": null,
+    "timestamp": "2026. 10. 20 오전 10:05:28",
+    "timestamp_date": "2026."
+  }
+]
