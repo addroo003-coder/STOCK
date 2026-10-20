@@ -6021,7 +6021,7 @@
     "rcept_no": "20260901800106",
     "id": "009150-수주-5343-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -14474,7 +14474,7 @@
     "rcept_no": "20260904800540",
     "id": "006260-수주-9682-20260904",
     "first_seen": "2026-09-04",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "정정됨",
     "stale": false
   },
@@ -36644,7 +36644,7 @@
     "rcept_no": "20260921900150",
     "id": "032820-수주-28126-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "정정됨",
     "stale": false
   },
@@ -48910,7 +48910,7 @@
     "rcept_no": "20261001800079",
     "id": "010120-수주-36784-20261001",
     "first_seen": "2026-10-01",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -49994,7 +49994,7 @@
     "source_count": 2,
     "id": "010120-기타-37283-20261001",
     "first_seen": "2026-10-01",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -58230,7 +58230,7 @@
     "source_count": 2,
     "id": "006260-수주-43921-20261008",
     "first_seen": "2026-10-08",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -58559,7 +58559,7 @@
     "source_count": 3,
     "id": "046120-기타-44111-20261008",
     "first_seen": "2026-10-08",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -62395,7 +62395,7 @@
     "source_count": 5,
     "id": "068270-실적-46897-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -68381,7 +68381,7 @@
     "source_count": 21,
     "id": "298040-기타-50235-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -68572,7 +68572,7 @@
     "source_count": 20,
     "id": "455900-기타-50278-20261016",
     "first_seen": "2026-10-16",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70473,7 +70473,7 @@
     "source_count": 1,
     "id": "403870-실적-51964-20261018",
     "first_seen": "2026-10-18",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70598,7 +70598,7 @@
     "source_count": 1,
     "id": "095610-실적-52583-20261018",
     "first_seen": "2026-10-18",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70646,7 +70646,7 @@
     "source_count": 1,
     "id": "131970-실적-52589-20261018",
     "first_seen": "2026-10-18",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70699,7 +70699,7 @@
     "source_count": 2,
     "id": "323280-기타-52862-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70728,7 +70728,7 @@
     "source_count": 2,
     "id": "323280-수주-52863-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70752,7 +70752,7 @@
     "source_count": 1,
     "id": "298040-기타-52865-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70781,7 +70781,7 @@
     "source_count": 2,
     "id": "298040-기타-52866-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -70864,7 +70864,7 @@
     "source_count": 8,
     "id": "000720-기타-52900-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71006,12 +71006,17 @@
         "press": "뷰어스",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JdEEtcnMyUmstaVlFdmZ5bkdMelJyZkN5QjhXdWhYWFNjOWZsVFZ1RFJSZDVuNXZ2T2E5ZkZKaDhKY1ZvMFB5UlBVNVlpMmRXOWZtMm5nZUQ?oc=5",
         "pub_date": "Mon, 19 Oct 2026 07:53:36 GMT"
+      },
+      {
+        "press": "더퍼블릭",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wcnIwYXJDNENELTZzaTVmb3hLNUJPV1hRUm1YY0R4SGZNME9tdEZvWEtLRklMamxVcnkteWUwaXZFcTlNRFp5NFV6V05jZzlLZ05ScFl1YmF2MERfU3B1VmMxaDM5ZENRM3BN0gFvQVVfeXFMTUg2cUhadXYzNmpXUG1Nb2NnQmxKYTFmOXAxUUt3c0JLM0YwMEZuZDVxNHR3S3poY0FfRnBOSmN6VXRndGplV3laSXdWeXAxZXptMEhsR2hDc3hBbERNQU92Ums1YzZXcWMxVGE1Zm9V?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 10:01:15 GMT"
       }
     ],
-    "source_count": 14,
+    "source_count": 15,
     "id": "207940-기타-52926-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71037,7 +71042,7 @@
     "rcept_no": "20261019800189",
     "id": "005870-수주-53003-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71090,7 +71095,7 @@
     "source_count": 2,
     "id": "000660-기타-53020-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71143,7 +71148,7 @@
     "source_count": 2,
     "id": "042700-기타-53055-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71167,7 +71172,7 @@
     "source_count": 1,
     "id": "353200-기타-53092-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71191,7 +71196,7 @@
     "source_count": 1,
     "id": "298040-기타-53112-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71239,7 +71244,7 @@
     "source_count": 1,
     "id": "062040-수주-53128-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71268,7 +71273,7 @@
     "source_count": 2,
     "id": "006260-수주-53132-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71435,7 +71440,7 @@
     "source_count": 17,
     "id": "000500-실적-53157-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71546,7 +71551,7 @@
     "source_count": 2,
     "id": "000500-실적-53164-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71580,7 +71585,7 @@
     "source_count": 3,
     "id": "464080-기술-53202-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71677,7 +71682,7 @@
     "source_count": 1,
     "id": "326030-기타-53323-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71721,7 +71726,7 @@
     "source_count": 5,
     "id": "000100-기타-53334-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71852,7 +71857,7 @@
     "source_count": 1,
     "id": "042700-기타-53511-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71876,7 +71881,7 @@
     "source_count": 1,
     "id": "323280-기타-53561-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71900,7 +71905,7 @@
     "source_count": 1,
     "id": "298040-기타-53574-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -71929,7 +71934,7 @@
     "source_count": 2,
     "id": "010120-수주-53579-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72001,7 +72006,7 @@
     "source_count": 1,
     "id": "000500-기타-53605-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72151,7 +72156,7 @@
     "source_count": 2,
     "id": "005870-실적-53750-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72175,7 +72180,7 @@
     "source_count": 1,
     "id": "226950-기타-53789-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72223,7 +72228,7 @@
     "source_count": 1,
     "id": "006400-리스크-53836-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72276,7 +72281,7 @@
     "source_count": 2,
     "id": "003670-기타-53854-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72300,7 +72305,7 @@
     "source_count": 1,
     "id": "066970-수주-53870-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72396,7 +72401,7 @@
     "source_count": 1,
     "id": "394280-기타-53964-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72420,7 +72425,7 @@
     "source_count": 1,
     "id": "394280-기타-53965-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72468,7 +72473,7 @@
     "source_count": 1,
     "id": "009150-수주-53979-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72492,7 +72497,7 @@
     "source_count": 1,
     "id": "009150-수주-53983-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72555,7 +72560,7 @@
     "source_count": 3,
     "id": "009150-기타-53989-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72627,7 +72632,7 @@
     "source_count": 1,
     "id": "006260-수주-54019-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72651,7 +72656,7 @@
     "source_count": 1,
     "id": "006260-기타-54020-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72675,7 +72680,7 @@
     "source_count": 1,
     "id": "000500-실적-54027-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72699,7 +72704,7 @@
     "source_count": 1,
     "id": "000500-실적-54031-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72723,7 +72728,7 @@
     "source_count": 1,
     "id": "454910-기타-54047-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72747,7 +72752,7 @@
     "source_count": 1,
     "id": "012450-기타-54091-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72796,7 +72801,7 @@
     "source_count": 6,
     "id": "000100-기타-54137-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72844,7 +72849,7 @@
     "source_count": 1,
     "id": "247540-기타-54167-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72897,7 +72902,7 @@
     "source_count": 2,
     "id": "353200-실적-54188-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72921,7 +72926,7 @@
     "source_count": 1,
     "id": "000500-실적-54198-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -72998,7 +73003,7 @@
     "source_count": 1,
     "id": "403870-수주-54267-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -73022,7 +73027,7 @@
     "source_count": 1,
     "id": "009150-수주-54286-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -73046,7 +73051,7 @@
     "source_count": 1,
     "id": "353200-실적-54289-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -73070,7 +73075,7 @@
     "source_count": 1,
     "id": "000720-기타-54322-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -73094,7 +73099,7 @@
     "source_count": 1,
     "id": "012450-실적-54337-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -73118,7 +73123,7 @@
     "source_count": 1,
     "id": "068270-기타-54348-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   },
@@ -73142,7 +73147,137 @@
     "source_count": 1,
     "id": "196170-기타-54354-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "KB국민은행, SK하이닉스·한국무역보험공사와 반도체 산업 수출공급망 강화를 위한 업무협약’ 체결 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ISzlXRkkzOWdhS1dkM0ZidXFhT2g2b3JDVk93ZnQ2a2pPSFBVMEhoYWpTc1lDSjlQa0VFdFkyakpTbHVId0xFVS10LThpSkZ4QjZBc1lCYUhtZw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:31:09 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MmlvQm1GZ2x5U3pQZE5ROFJwVDhSb2psUEtOcldnTk10Z0RZR1E0V2dNQ01TV0MtRXRmVjRLc09RYTE3SXozeHBXdnp5d2ZJRTNNVG95aGV6dw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:31:31 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000660-기타-54400-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이수페타시스",
+    "stock_code": "007660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"이수페타시스, 고사양 제품 확대에 수익성 개선\" - 파이낸셜뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JOHRyNDVmYzl3bjRyMDBNTVZKYUV5djNGdlRPMGRmNFdwekhzVXVsaWR2VzBob0ZnUHNodWFuX242YVRvRVFKRFpiSVpNOXhxXzdiNU5pRlBWUQ?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:44:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "007660-기타-54408-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 美 빅테크와 1,700억 규모 데이터센터 계약 체결 - SR타임스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "SR타임스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQXJTMWkyWHpTQzZId3Nuc1huRDFxRWRGMWwzdnNYcWRyZVNac1MyV3dOZE9ROTVXWjhsalZrSWRucVhrR2RoU3RDaHljWGduZ1hjbFFrTUwzbS16aTJ4cDRqMWNtWng00gFrQVVfeXFMTVlXTVFoVGdrVm5PSEhmc251WmF6Yl9SY0N5dWx5cGZDQ0xPbll2bzkycGt4SUJDRW44LXM2cWJ6dVA3eFZhWjA5NTJ3NDNyV084Si11V3V0TUZLejF6b1pTSUdQU1JVc3AyNlE?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:32:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-54412-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결 - 매일경제 마켓",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56UHZtN2dEdFVHcFpjcE1OallqRmtkMGxUaWV0dW5LRlN2MGVoalloTzMtVzJsSjhIaGVZZHRTUlk2OVRxaEp5V0dDcVhrS3E2bEE?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:46:54 GMT"
+      },
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZVzZJVDhKUUdQaEFaMGlKZnptQmx3aXV2OHlud1hmaUE5dVpEUjdoQnFjOUlBYjBEbjRjOWhDZ1Y3QVZRMDhMRFZGNk16Q2xscXJpLXNCa1l4dw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:41:54 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "034020-기타-54415-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "국산 항암제 최초 미국 FDA 승인의 주역, 렉라자 로열티와 오픈 이노베이션 결실로 영업이익 1,000억 시대를 연 제약 명가 - 유한양행 - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzJyUWJYTDJRY0xhNVdkcVBmSVVBVC1WM0MycFVvRTBjcTVER3BmM0ZmVllLYXdINjhrX2dBZlF2Mkt4UkFjTFRvVFNHOVZEdDVFeFBneUh1QmlNSS1McXE2U0NpTVVwNUVOR3BTczRLWDN0MUdWUHFYNlI0bG0xbTNkRmZ1Zw?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 23:44:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-실적-54433-20261020",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-10-20",
     "status": "일반",
     "stale": false
   }
