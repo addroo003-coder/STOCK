@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 창립기념일 앞두고 63개국서 삼성위크 2026 프로모션",
-      "office": "연합뉴스",
+      "title": "\"반도체 '비관론' 과해...삼성전자·SK하이닉스 투자적기\"",
+      "office": "파이낸셜뉴스",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/001/0016390226"
+      "url": "https://n.news.naver.com/mnews/article/014/0005592146"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -795,10 +795,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=457550",
     "news": {
-      "title": "우진엔텍, 신한울 1·2호기 노외중성자속감시계통 정비용역 수주",
-      "office": "매일경제",
-      "date": "20261016",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749673"
+      "title": "우진엔텍, 고리 원전 3·4호기 정비용역 계약 51억 증액",
+      "office": "뉴시스",
+      "date": "20261021",
+      "url": "https://n.news.naver.com/mnews/article/003/0014267643"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/457550/news"
   },
@@ -1257,10 +1257,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "“포스코퓨처엠,“LFP 양극재 수주 가시화…목표가 29만 유지”-DS",
-      "office": "이데일리",
-      "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392587"
+      "title": "'1일1주' 매입 나선 포스코퓨처엠 경영진…추가 유증설 '솔솔'",
+      "office": "블로터",
+      "date": "20261020",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091848"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1691,10 +1691,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=229640",
     "news": {
-      "title": "IBK증권 \"LS에코에너지 3분기 호실적…4분기도 성장지속 전망\"",
-      "office": "연합뉴스",
+      "title": "\"LS에코에너지, 희토류·AI 데이터센터 신사업 성장 기대\"",
+      "office": "파이낸셜뉴스",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/001/0016390215"
+      "url": "https://n.news.naver.com/mnews/article/014/0005592147"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/229640/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자·SK하이닉스, 프리마켓서 3% 동반 상승",
-      "office": "뉴시스",
+      "title": "\"반도체 '비관론' 과해...삼성전자·SK하이닉스 투자적기\"",
+      "office": "파이낸셜뉴스",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/003/0014267562"
+      "url": "https://n.news.naver.com/mnews/article/014/0005592146"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
