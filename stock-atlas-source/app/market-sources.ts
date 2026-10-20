@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자·SK하이닉스, 프리마켓서 3% 동반 상승",
-      "office": "뉴시스",
+      "title": "삼성전자, 창립기념일 앞두고 63개국서 삼성위크 2026 프로모션",
+      "office": "연합뉴스",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/003/0014267562"
+      "url": "https://n.news.naver.com/mnews/article/001/0016390226"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
