@@ -287,7 +287,6 @@ export default function InvestmentAtlas() {
         <section className="momentum-panel" aria-labelledby="momentum-title">
           <header className="momentum-heading">
             <div><p className="eyebrow">STOCK MOMENTUM BRIEF</p><h3 id="momentum-title">핵심 투자모멘텀</h3><span>실적·산업 촉매·공개 리포트·최근 뉴스를 교차해 보는 종목별 체크리스트</span></div>
-            <div><span>업데이트</span><strong>{selectedSources?.updatedAt ?? "2026-08-27"}</strong></div>
           </header>
 
           <div className="momentum-content">
