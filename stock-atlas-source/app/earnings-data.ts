@@ -726,6 +726,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=064550",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=064550"
   },
+  "비나텍": {
+    "company": "비나텍",
+    "code": "126340",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 354,
+      "operatingProfit": 5,
+      "netIncome": -386,
+      "operatingMargin": 1.41
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 39.4,
+      "q1OperatingProfitQoq": 133.3,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-10-21",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=126340",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=126340"
+  },
   "비에이치아이": {
     "company": "비에이치아이",
     "code": "083650",
