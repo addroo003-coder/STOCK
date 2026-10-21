@@ -13,6 +13,19 @@
     "is_correction": false
   },
   {
+    "company": "네패스아크",
+    "stock_code": "330860",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261021000105",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000105",
+    "is_correction": false
+  },
+  {
     "company": "에이디테크놀로지",
     "stock_code": "200710",
     "sector": "AI 반도체",
@@ -135,6 +148,45 @@
     "sector": "전기·전력",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261021800162",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800162",
+    "is_correction": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261021800160",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800160",
+    "is_correction": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+    "rcept_no": "20261021800151",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800151",
+    "is_correction": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "수주",
     "title": "단일판매ㆍ공급계약체결              ",
     "rcept_no": "20261019800108",
@@ -153,6 +205,32 @@
     "rcept_no": "20261019800111",
     "rcept_dt": "20261019",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800111",
+    "is_correction": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "공정거래자율준수프로그램운영현황(안내공시)              ",
+    "rcept_no": "20261021800180",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800180",
+    "is_correction": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "대표이사(대표집행임원)변경(안내공시)              ",
+    "rcept_no": "20261021800158",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800158",
     "is_correction": false
   },
   {
@@ -338,6 +416,19 @@
     "is_correction": false
   },
   {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261021800137",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800137",
+    "is_correction": false
+  },
+  {
     "company": "한전산업",
     "stock_code": "130660",
     "sector": "원전·SMR",
@@ -453,6 +544,19 @@
     "rcept_dt": "20261019",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000334",
     "is_correction": true
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261021800131",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800131",
+    "is_correction": false
   },
   {
     "company": "포스코퓨처엠",
