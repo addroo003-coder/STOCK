@@ -76379,5 +76379,53 @@
     "last_updated": "2026-10-21",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "고영, 中 '네프콘 아시아 2026' 참가…“중국 최대 AI 서버 공급망 관련 수주” - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HSDRndktxS2pmaFZBaUtiMWN3a1ZEaXJxbmJXLThjc1ZMT1Y5aFhkWFlyNDdNX2R6bjhMbnhzYXN0Y0tBSTJ1MjhNN2FuUQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 00:59:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "098460-수주-55860-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽서 병원 넘어 약국으로···유통망 확대해 수익성 강화 - 뉴스프리존",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스프리존",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXcmF3RmJmUXRSbXJqN3JkUThfZmxHeFlEd3ZSVDdqU3J5NnVTTkRuanhVaHRJTlZ2RmVUS1dtQzlTVzc4NXFtMjdaS1E0ZGN5NVk1Z2hrd2djUFZseGt6X0ZYcFN1VkVTcVh3QlVSTUloaEZaRG5V0gF3QVVfeXFMUFdyYXdGYmZRdFJtcmo3cmRROF9mbEd4WUR3dlJUN2pTcnk2dVNORG5qeFVodElOVnZGZVRLV21DOVNXNzg1cW0yN1pLUTRkY3k1WTVnaGt3Z2NQVmx4a3pfRlhwU3VWRVNxWHdCVVJNSWhoRlpEblU?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 00:32:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-55863-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
   }
 ]
