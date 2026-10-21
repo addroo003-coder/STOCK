@@ -572,6 +572,19 @@
     "is_correction": true
   },
   {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261021000312",
+    "rcept_dt": "20261021",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000312",
+    "is_correction": false
+  },
+  {
     "company": "포스코퓨처엠",
     "stock_code": "003670",
     "sector": "이차전지·ESS",

@@ -74878,7 +74878,7 @@
     "source_count": 1,
     "id": "000500-기타-54925-20261020",
     "first_seen": "2026-10-20",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "status": "일반",
     "stale": false
   },
@@ -75733,7 +75733,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[리포트 브리핑]피에스케이홀딩스, '첨단 패키징 투자 확대 수혜 가속화' 목표가 240,000원 - KB증권 - 뉴스핌",
     "source_type": "news",
@@ -75742,9 +75742,14 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11bXJhbXlWaUxjbnVTZTRpYTd0N09ZSHhPNGRSRk9wcnRXSXM3R1pPMkRlNEVaSXRTWHJDQS1JSG4xVTZRQTFvanlGeFRNZ3RJNTlGQkVWQUYwdlNN?oc=5",
         "pub_date": "Tue, 20 Oct 2026 23:34:00 GMT"
+      },
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ09tSmlWTjBMNjl2d0tfeDhZZkpSck1fYkpDQUdpNmVUQVFuQWQ1R0hITHdaY2F4SjlUOXNuX2loMTJjRVdPV2lyZ1l0US1pZFNtYjFEbXBUR3NOMGRJRWtqZ0JudDBNWmxWTDNQZ09Jd9IBckFVX3lxTE1qZ09tSmlWTjBMNjl2d0tfeDhZZkpSck1fYkpDQUdpNmVUQVFuQWQ1R0hITHdaY2F4SjlUOXNuX2loMTJjRVdPV2lyZ1l0US1pZFNtYjFEbXBUR3NOMGRJRWtqZ0JudDBNWmxWTDNQZ09Jdw?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 01:53:42 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "319660-기타-55602-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-21",
@@ -76576,7 +76581,7 @@
     "sector": "전기·전력",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "LS ELECTRIC, 사상 최대 실적으로 100분기 연속 흑자 ‘금자탑’ - 에너지타임뉴스",
     "source_type": "news",
@@ -76585,9 +76590,14 @@
         "press": "에너지타임뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEdnRJNnRGaHEtRnpWYUduR3ozWjdDeUNYQVgwNkp0Ml8wblRPazJvQkd4S0tYQ0lmLTg0RTVDUDlkNS1wekV1bTAzMFl3MkxpVDU1TlItTldFdTVfRVdUZnlJNGpJcmdHUndONldlVWhGd9IBdkFVX3lxTE9teG9TR2x6elVVTWZwS2g4YWhhQlhwRWVNdk1VZTNZNlo5T1FGY2dvTk05aENiOXQ4Q0ZreGY2Mmh2WkJmT3ZxRVI0YTJZN2l3Wl9BQm9PcmdGcmZJSGRsT3p2aUNNRnhSX1N4TF9hSkFfVDdFeEE?oc=5",
         "pub_date": "Wed, 21 Oct 2026 04:07:40 GMT"
+      },
+      {
+        "press": "마일드경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibExUdkNuVU5ydVgyR3RDQnhVUWtuenVpdEhmTVU5QmNMTklpX3hnbFJLX0FvUTFsang3d3UyZnRQRjBQSXJnT0d5ZlJPOU9ISmxfVVl0dkRza3kxMmZaelJsd1NWRXdWSzFN?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:12:46 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "010120-실적-55952-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -76698,9 +76708,19 @@
         "press": "인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZHdHV0ZyNUlPNXl6Z19vbWx6Z2Y1Nm9jZWZsY0lCcFBsV3IzMjJBNGNqTDFVSWlNWE1mRXkwRGFJbFVWS1dySXZMc1NiTExJQW1yZURoTnB2WVlRbUxWbzBpMkZXZzM4SnFGT2xUb3dlejhwdWc?oc=5",
         "pub_date": "Wed, 21 Oct 2026 04:26:00 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HN1hSNGtDSXpmNWVsOFZfWk40RlJoWGZ5M2piX0dtcEhoQVZpUTY3cVR1N2l6ZENrT2tVVl9rQnBqOGRyaVZMdlIwR1ZWakh5Q1Q3VzZxTUQ5XzJ5Nk4xY0hzNlZSbGVBUmxkVkx6Z0RDUdIBckFVX3lxTE1HN1hSNGtDSXpmNWVsOFZfWk40RlJoWGZ5M2piX0dtcEhoQVZpUTY3cVR1N2l6ZENrT2tVVl9rQnBqOGRyaVZMdlIwR1ZWakh5Q1Q3VzZxTUQ5XzJ5Nk4xY0hzNlZSbGVBUmxkVkx6Z0RDUQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 02:59:48 GMT"
+      },
+      {
+        "press": "신아일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91NnMxMllVRGwtRUJ4bEFUa3A0VDFyYy1rd01lc3BZVWtGcHlETFdDc1R5d2pDUTZPT2ItYnNyd2F1ZUZuaS1nS3Rtem90akU5YWVMNDRxb3RCNmQ4OTNnaVZXSkFLcjQ4bFJ1TkRfY2w?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 05:51:54 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 9,
     "id": "006260-실적-55968-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -76922,9 +76942,14 @@
         "press": "메트로신문",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUk9TVlMtc0tfajVLTWlLVjQ4cjBFcG44OWF5eDM4NjNjRlYxbWt3M2E4aUxyVVFRZHl5d2R0WWY4YXpMWmJiQXY3Vld3ZU8yY05fS1ZHQXYycElVbElDYQ?oc=5",
         "pub_date": "Wed, 21 Oct 2026 05:26:09 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WSmM4Yl9BaTNfU0t1UzJxb0ZWWVRkZEpaS2cwSHpzbk84QmhVbEZHcWxFZS1PX1lLRGNfSTRzQmZxRlhyQjNkZk9pZFdma1FD?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:13:00 GMT"
       }
     ],
-    "source_count": 17,
+    "source_count": 18,
     "id": "001440-기타-55978-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -76985,9 +77010,14 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTnRQekxvajB0ZWV0MGNvZHVNZC1Fak1YZHI0WnFWYkZlaGhDUWw5WHpZU3o1WHZZS1RZVk5PcnlkUFBwc3YwTVB4NDRwNXBFYVVTT2RxYjQ5REowM3NoODZGN04zdmV2S2NiaFpNYmtfQdIBckFVX3lxTE9kTnRQekxvajB0ZWV0MGNvZHVNZC1Fak1YZHI0WnFWYkZlaGhDUWw5WHpZU3o1WHZZS1RZVk5PcnlkUFBwc3YwTVB4NDRwNXBFYVVTT2RxYjQ5REowM3NoODZGN04zdmV2S2NiaFpNYmtfQQ?oc=5",
         "pub_date": "Wed, 21 Oct 2026 01:20:32 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMEt4T2dHc3I3NkhoR2IwV0tVVXJMR3ZVcm5hemhETjRfUmNCLWFsUmY0WnAtTzlVR1NCb19wWkVjeGUzeUI3VEpKTVExYzdLbGpsMW5Ia0lfNXRrMFN3cVRYSldWNnhuOWhfQ9IBckFVX3lxTE9kTnRQekxvajB0ZWV0MGNvZHVNZC1Fak1YZHI0WnFWYkZlaGhDUWw5WHpZU3o1WHZZS1RZVk5PcnlkUFBwc3YwTVB4NDRwNXBFYVVTT2RxYjQ5REowM3NoODZGN04zdmV2S2NiaFpNYmtfQQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 01:20:32 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "060370-기타-55993-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -77621,6 +77651,179 @@
     ],
     "source_count": 1,
     "id": "126340-수주-56413-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 3Q 영업익 6천401억원…연간 매출 전망 상향(종합) - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84T1RHa1lxcHhEZ2ZNdkFvSXc4b3YwakFPdUx5SWxtb2hZQWNiemVVUEJ6VGJUSEljNjEwdWh5ZjV1bnA3Y2d4cXRMNjc5REY5T1Q5T0NmTjJ1ajBMZXJLNWVoMFFQRHBhWjZWZUxJSXY?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:10:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-56450-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스 3분기 매출 1조4903억원…CDMO 역대 최대 분기 실적 - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWh4ZnduelJSeG44R2FkVzIyTENDTWI1ZUZ5Yy1NUW5MekNKV21lYWpfUXl1MkRuMF9CRFFubkc2UUtOUDljWHBFaFZKbVBfV0YzX0lyc3FnVnFnWmFBWGFfcWx4T1FxNUZDenIzbllfVFRLN1NQQ1pUZFFleGhvSTFFMmJpbDJzdXpOa9IBoAFBVV95cUxNa040ZXRHd3ktRUpsV0FISzBaOHdlekZTQVBmQzFVdjcwSTFseDBYRjZBNGsyNlVnVHZ3VHBWdGVabWZHYlR2NVhjUDRLYTkybl9NLTFkbktGTUhTRUhlRVA1VHhXVzBtemVJQ1I4eS1HdFIyQVRicnRCRGZ1eVduUV91WDNSRXRIcTlOTk81QV9ac0VfWHkyV3M2SlFnZ01H?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:16:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-56451-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 3분기 매출 1.49조…연간 성장률 20%로 상향 - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5STnRDMFdJUnpiVHF0U1EyWlg5UC1OOW5yajk0NnVOamtPTlBXZmRZOGxYU29wUG5NQkZKVHRFcnBJQVpwbHJqM2RjeFhESnB4YlVwMGNTV2RSR2JNeFp2eg?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:04:57 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-56453-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 3분기 매출 19%↑…연간 가이던스 상향 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFcTk3anlUbXJLRV9qcHQ0YXhOd05pMTJaTVM5U2Y5VGdKZklaZ01Ebk1ZSkhDR0pSMFUxVV9lYVh1REZzb3JtNjlTdTJHRXlfdXlBeWpXX180SWdCRVgwNQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:20:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-56455-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 3Q 매출 1.5조 육박…연간 가이던스 상향 - 한국금융신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16MzdaRUREZ2VLODVFbmh6LUJNMmpzNzBGejZzaE91MWpsQ2RvUXFRNF9HMTlFZ1lVU2NVWDVyOUFFbGVpLXFxMkprd0Nqb01rTGh1MVNwN2g4Mnktb1Z4MWRZSzRQT2JNVHM2RE13Y3dOejNkT2ZXTmpzSmI?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:12:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-56458-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽 약국 영업 키워...4분기도 성장 지속 - 이코노미스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이코노미스트",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkaVBZZ2tiUDR1TmNiSlJ6STNLVDY3WHJyWUh0cHBmVjdwbEZtZ3o4eTlhamljaVdhYVVXOGJ3eHhGa0duOVdpa1FzWFU1bE9FbnVyNVRZcU83cExkZ3M5NU13?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 05:01:00 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BMWRRRTM5T1NMVmJhaXNzQjdQcWRBTlBhNEozV21WQnY0MjFHeWZHbnlHVDFWNXFNbFM3eURDb2FZajV6QTdldG9KSWl5RXBReV9CWEs5aWhUVE84?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 00:54:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "068270-실적-56461-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "비나텍, 1,195억원 규모 공급계약 체결… 매출의 145.3% - CEO경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO경제신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNMmk1c3BkUEQyOFpXWGViMDNQZkRrdVFfZ2dGdjhiNmM5Qi1Nbmx2UG0yb2ppNzh5WjVzWUQzaTFON3RmZEdvZWdxdnUtWFlGczVxcmVnOFYzMGlJNHRzazNwUDFlN1hHaXptSA?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:11:33 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "126340-실적-56478-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
     "status": "일반",
