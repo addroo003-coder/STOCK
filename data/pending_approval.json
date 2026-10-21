@@ -72203,12 +72203,22 @@
         "press": "KIPOST",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mSjRRSmozSExTYTQ0bG5EenZWV3hiWnd3aDJ0QVJqa0hwcjhaYkFIQ2ZkamxXdU1wczhUcFRZNndoN1dPUlBqcC1XY2Jldk12VWRPdW1HUE1kdjNMS1lHM2dSQ0lBUE0ybFdYLdIBbEFVX3lxTE9mSjRRSmozSExTYTQ0bG5EenZWV3hiWnd3aDJ0QVJqa0hwcjhaYkFIQ2ZkamxXdU1wczhUcFRZNndoN1dPUlBqcC1XY2Jldk12VWRPdW1HUE1kdjNMS1lHM2dSQ0lBUE0ybFdYLQ?oc=5",
         "pub_date": "Tue, 20 Oct 2026 04:58:49 GMT"
+      },
+      {
+        "press": "KIPOST",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJdmJnSFBGMUV1U0d6YmFJM0s2dGNnRVBGb1NDdnMwR3JtZUhFZjlJUExGMERiNjVvYlprcGU0dDgxYndlU3ljYi1zSXQ3RXphaVhNTC1CbjZkZHVBMnVrb3ZsRWFQRjVo0gFsQVVfeXFMT2ZKNFFKajNITFNhNDRsbkR6dlZXeGJad3doMnRBUmprSHByOFpiQUhDZmRqbFd1TXBzOFRwVFk2d2g3V09SUGpwLVdjYmV2TXZVZE91bUdQTWR2M0xLWUczZ1JDSUFQTTJsV1gt?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 03:24:00 GMT"
+      },
+      {
+        "press": "파이낸셜신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90NHMzN1V3NWhIekJPdTR1NDRrQWRuX2ZzWHJ2dThYdURlSld1ZF9iOFUxcFFRXzhFa1ZlZTN1elR1QlIyamJqeHQxWnRxWXpZeTBWWlNiXzVKWmgxWmdhWGt4TC1TZnI3UUZj?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 08:10:49 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 9,
     "id": "000500-실적-53608-20261019",
     "first_seen": "2026-10-19",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "status": "일반",
     "stale": false
   },
@@ -76557,9 +76567,14 @@
         "press": "네이버 프리미엄콘텐츠",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1ZaOHlYOEU3XzhFaW8zcGFlSWt4alZ6b2NTa3RPMFkwOFVDMnlscWVQem5tX2hzZWdzeUpkMVQ0eFZKVmJjUTktdUdpWHBhX2p4bm9MbjRtYjctOWNad01teXhCRkpoOFZvajAyZU1aaVRlcVZ0LWZaRGlnaEptVUs0QQ?oc=5",
         "pub_date": "Wed, 21 Oct 2026 04:39:00 GMT"
+      },
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDJlX2pPM2hPdTlCUEpqM2FyODI5R0xqbTR5Xy1qQ1VQMXFINEpCRlk4d3NNWGY2NjVlbzlvQzdMaGVkelFuVG5NYVhNNnZkSkFiREJ3LWpoVjlTMlR5dE1oT2MxRGttMVVVZEJoMC12QmE1alg3SE0yVWx6LXBwV2R3?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 04:39:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "403870-실적-55888-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -78487,6 +78502,54 @@
     ],
     "source_count": 1,
     "id": "001440-수주-56781-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "매출 감소한 LS마린솔루션, 3분기 영업익 3배 증가 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oT053UWJWS0NtQjg4UGNoaDVYY1lmUk44cjNXU05pU2ZabFdiRFFWNnNMdGpzaUtTMHM1bHBpQS1XcVRCTDhRYkxlaXN4N2FHS29FMnB6VVdEc1hmbEw3S3pJMlJIQQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 19:07:36 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060370-실적-56840-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "비원전 EPC 수주 확대 앞둔 현대건설...웨스팅하우스 지분 확보로 원전 수주도 앞당기나 - 리버티코리아포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "리버티코리아포스트",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VN0RjdVRkLVNLZW1kcm5MYWpLbmlhR2ZyRm1ZcXltRmlrMEJ2MHZzeEhoZG1WdkFheEx6SUZNTXN2Z3hrZEtlWlhwaDdpN3c5bHdxek9YR3UzcDZCNEQwdFhXOXlGOG_SAWdBVV95cUxPVTdEY3VUZC1TS2VtZHJuTGFqS25pYUdmckZtWXF5bUZpazBCdjB2c3hIaGRtVnZBYXhMeklGTU1zdmd4a2RLZVpYcGg3aTd3OWx3cXpPWEd1M3A2QjREMHRYVzl5Rjhv?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 08:03:29 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-수주-56850-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
     "status": "일반",
