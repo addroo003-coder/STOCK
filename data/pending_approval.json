@@ -76238,9 +76238,14 @@
         "press": "에너지경제신문",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fME50QkdsVDhTckpnRTVoZzFidllmWXctV1pPWWVfMlMtTVVEMHpEOThnUGRiRUVESGNha25LaWhraF9CQ18yTXl1ZWVzLXRlblBCX3BPNkhWNFlSeEk0Wlln?oc=5",
         "pub_date": "Wed, 21 Oct 2026 00:57:12 GMT"
+      },
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haFpLdXVySkdLSW9yRWhfMlB5TlVMeVRtOXF1d0VzUmRwM1FHTDNrMFlIY3AxTzBMMXN5a3lBOGhTa2hSWTF0YklOaDR6NW8yQ2t6UEY0M1pPZEthOTdhQ2tUdw?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 00:57:12 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "229640-기타-55788-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -76688,9 +76693,14 @@
         "press": "조선일보",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVE42RW9LUXE3TmRjUTRXdzdiQ251NGNuTFFFcm5mRHBRcXhJZXBROHVnQWxoWVJZbUhjb3U5ai1qNGdWWENxTVRFVGY0TmxaYmNaZnE2M3RFbXJQbDJvN0Z5aXgxNm90R2FjOFowTk53cW9ERlFCUmwxcDhEWk9waWxOUQ?oc=5",
         "pub_date": "Wed, 21 Oct 2026 04:41:00 GMT"
+      },
+      {
+        "press": "인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZHdHV0ZyNUlPNXl6Z19vbWx6Z2Y1Nm9jZWZsY0lCcFBsV3IzMjJBNGNqTDFVSWlNWE1mRXkwRGFJbFVWS1dySXZMc1NiTExJQW1yZURoTnB2WVlRbUxWbzBpMkZXZzM4SnFGT2xUb3dlejhwdWc?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 04:26:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "006260-실적-55968-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -76897,9 +76907,24 @@
         "press": "뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KSlp0aWJlVGRkc21IZGc0dXFObDQxVzhsQnNyZE5DV3JTQXVqbEZQWGplVjRHQnN5Vm1BcV9jY3dCbWVjaDVKa0Y1SUJsWjBfeHQ0dnJxX3RrZEpE?oc=5",
         "pub_date": "Wed, 21 Oct 2026 04:41:00 GMT"
+      },
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmdmRocUJrbjh3Ql9mWXNDZGIyNWtSb3dmNXZINkhtbjhEOElDcUVzdzFmMmtPZE5vRHpFdnRGUUJZeEp3TWpDdWc4cWU4X01uTDJfTzFrM3lNWURCYnJaOGJR?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:49:30 GMT"
+      },
+      {
+        "press": "뉴스락",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2YkF4d3NKa3pOcHltd3RSYVE3U29LUmhKMjM1WlcyZTZFRTRaVU5XWnVHZWluaWpBMXlVYzZRRnZHUXdyRFh4MEE1Rl9GYXd3emMyWVFFS0JBd1N1eHhLUmk5UzJXUnZ0UkxBMw?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:27:27 GMT"
+      },
+      {
+        "press": "메트로신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUk9TVlMtc0tfajVLTWlLVjQ4cjBFcG44OWF5eDM4NjNjRlYxbWt3M2E4aUxyVVFRZHl5d2R0WWY4YXpMWmJiQXY3Vld3ZU8yY05fS1ZHQXYycElVbElDYQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 05:26:09 GMT"
       }
     ],
-    "source_count": 14,
+    "source_count": 17,
     "id": "001440-기타-55978-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -77440,10 +77465,162 @@
         "press": "잡포스트",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nNDNiUEphYzNGYzYxcHZ0Q0I1MzVhSS1ySnFvWDZ6MVpudDVuSkVvVVphMkZWNVNUN1l3WC1mcGtFYnVIYTdnMGUtYzgzSkFiNGFsUlZxbnJXcVNMQndybENWQmp1OURvMW9CVU1n0gFyQVVfeXFMTWxXVVpGdmZwOE15Y1VycWxmVFBKTjJ5MXl0UkNERFNnRkFzY1czek5BV0xwbGdZekVHNmxkYzY0OFZYT0NYRXRZYWIxZ290NWpCamZ6Q0Fza0hlMEYyclRXcWJkVzhhbzVYYV9ndlB2ZDlB?oc=5",
         "pub_date": "Wed, 21 Oct 2026 05:53:24 GMT"
+      },
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sV1VaRnZmcDhNeWNVcnFsZlRQSk4yeTF5dFJDRERTZ0ZBc2NXM3pOQVdMcGxnWXpFRzZsZGM2NDhWWE9DWEV0WWFiMWdvdDVqQmpmekNBc2tIZTBGMnJUV3FiZFc4YW81WGFfZ3ZQdmQ5QdIBckFVX3lxTE1sV1VaRnZmcDhNeWNVcnFsZlRQSk4yeTF5dFJDRERTZ0ZBc2NXM3pOQVdMcGxnWXpFRzZsZGM2NDhWWE9DWEV0WWFiMWdvdDVqQmpmekNBc2tIZTBGMnJUV3FiZFc4YW81WGFfZ3ZQdmQ5QQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 05:53:24 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "222080-수주-56340-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021900383",
+        "pub_date": "20261021"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900317",
+        "pub_date": "20261019"
+      }
+    ],
+    "source_count": 2,
+    "is_correction": false,
+    "rcept_no": "20261021900383",
+    "id": "126340-수주-56343-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"내년 사상 최대 실적\" ...삼성·애플 업고 9% 급등한 두산테스나 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RXQ5Y1MtZjJCZXA5S2NiTXRKUHJGYl9TenM5ei1Fd25CV0xkTElWdmlrdlUtU2YxbUVaSTZMUGV0UGJwbTlUQTdwRkdOc1lvd3dyMElidFpYQQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:59:30 GMT"
       }
     ],
     "source_count": 1,
-    "id": "222080-수주-56340-20261021",
+    "id": "095610-실적-56352-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산테스나",
+    "stock_code": "131970",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"내년 사상 최대 실적\" ...삼성·애플 업고 9% 급등한 두산테스나 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RXQ5Y1MtZjJCZXA5S2NiTXRKUHJGYl9TenM5ei1Fd25CV0xkTElWdmlrdlUtU2YxbUVaSTZMUGV0UGJwbTlUQTdwRkdOc1lvd3dyMElidFpYQQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:59:30 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "131970-실적-56358-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "비나텍, 1194억원 규모 데이터센터용 슈퍼커패시터 공급계약 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wampqQnFXSlZOYkdBd1ZVNkpPR1hqVDhfTnhHQVdXY0ZvaXN6azIzd3A1VVpHaDRaQzZhYjVveVIxSGlxZHl2R0hwdDBoMVVFNHVoTmUtVFU5U00zMjFUQ0kzbmQ4MFVzYnVoU2JBNWczMmM?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:53:40 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0M0hWVmRoakxNX0pxdVVlU1Bocy15SnRQbnN0WWhqaFQ1alE0Q3FUOENmbXJSekJDR3FRZ1J6SU4xZjVFRHFVQm5RTVhDYzNQREprVV93dmtpZEJFTjdfaGdjdHpMMVlJ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:54:58 GMT"
+      },
+      {
+        "press": "TopStarNews",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tSlA1TzVVVjRpb01vejVOTXhzOHdpd19FRGZUT1FHX0VIdTBVS01rY3R2X0dUR291Z0hGN3psbnNGaU1fMnZmWE42S1pia0o2LWNuWE5ORHZjMGs4N2tPR1RBNXVnMFJXWWNmRlVMQnpLdw?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:59:46 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MSkRqVjZ2NnRHaFFPR3JtM2piOVdmdC1WYVRKc3hhUFpDbHQ2QV9kbGM1T29WelYwVGJvMTMzdGROSzM1dU1XdWRPZzdJZU5KckI3ZGxvSV9yMGVVRk1FUXVONVRhTWZV?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 14:03:46 GMT"
+      },
+      {
+        "press": "현대경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aR3pQSG9yYTliZlhBc2U5c0I1eWhRLWtObXBpZUZrRWRuUjJTUTd5QzlRUlA1emlyREpEOWpINnBQdU16Z0dUcERjdlVxYVhNMkdSSEo0Ym1RODcxMlJPb1RFdjVWdkXSAWtBVV95cUxPbU5yek1RR2xCUEM4ODZmTmloYTZ1OGdzZ3ZqY3VXbmJnM2VrTGhrTnlyTFFTcnFkY21zNmI1dklPU2dnc0JmM0ZJRHRTb1hjNW9IUmYxYjZlcWttTFIxZkd6UXlLTUw2QVEtVQ?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 08:28:43 GMT"
+      }
+    ],
+    "source_count": 5,
+    "id": "126340-실적-56401-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국투자證 “비나텍, 블룸에너지발 수주 확대…목표가 11만2000원 상향” - 조선비즈 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlB0MUozeGs4ZkpHVENnSnZsYlRWQy1lcExibGxBSTBTOFRMenNWd0tEYXZMT3BMcS1CNEh6TjhBcDhUVkxjbkNGYmQxaUVGZlpuZWFCa0VROE1fSE9jOGh2NVVDbWViU0RtQ0IyLWNjUXRXMkxCa0g1a1BNWjhWTDV6WGxJeW5o0gGcAUFVX3lxTE9CdUJaaU5Yd1liZ1VJSk5raTdXUG53eGQ3amtBZGhfeFpTZ19TalQwYzNJMTQyWDVLTnJnYXdIVy1CdVN1R2NFRFU4THBwMWFyLUpfOEk0V2V4NTBTTjUzR3VLa1JDYkVEemVrMlNGcjcxQUM1YW1ER0xIbGZwY05kUTRxNzVMUGx5bFRNQTJ0VzdMRDFFWEdyU0VHTg?oc=5",
+        "pub_date": "Mon, 19 Oct 2026 22:29:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "126340-수주-56413-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
     "status": "일반",
