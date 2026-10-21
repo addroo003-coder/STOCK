@@ -74174,9 +74174,14 @@
         "press": "워크투데이",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbHFVS0xWclpKeHllRTh4Nmw5X3lxcU01NlpUU01JS19CN0Q2T0x2Wk5FZnVmOUtOTHFGZkVDUVRmeUtpOUF4d1cwT3J5NFBJQV9RYXJia2FMOUtCeHFwTHN0djMzb1puT2hnZA?oc=5",
         "pub_date": "Wed, 21 Oct 2026 05:07:01 GMT"
+      },
+      {
+        "press": "KPI뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sZkxvSUZ0bWJqQ0tpd3dCelc2ZDVoSnMwT1U4Z1hBaklwdWhHSm40alhuVGxHMjdJek5RODZxQ0ZPZm8wak5mM1BxYW5mODVKZzEw?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:30:35 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "229640-실적-54575-20261020",
     "first_seen": "2026-10-20",
     "last_updated": "2026-10-21",
@@ -76123,9 +76128,14 @@
         "press": "데이터뉴스",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVUxsRHRqTTFoUW13ajhUTlFyY2lnZURSZWxEWlBPR1VtUlEwcm1UQkIyWWpFZVg4ckZxZWdYbjJKbHRXdnRUZEdwd1pMU1AySTNKZUQ1OTUxN1p2T0xZ?oc=5",
         "pub_date": "Tue, 20 Oct 2026 23:50:23 GMT"
+      },
+      {
+        "press": "데이터뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac1BYTHdTUUgxQ3BVZ1AxVUhaVlZ0NlEwR2VxcVFIWkduazBMbk5Ydlh1MXFZcExXSkRVMlYtLUNON3piTmVFRFpVRW1meVNPLWoyQ2pOMzR3bGJabTYzSHhGekQ?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:50:23 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "003670-기타-55737-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -76997,9 +77007,34 @@
         "press": "지이코노미",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eDQ0ZkhVZm8tSGg0N2RWbHlsVVEzQkd0QlhyTk1jbldZSmdQUVVNdWUxVHVqZEEtS2ZUNTdUVUdpcndHR2h1U0FHOHo2bEt5enZPMjBYOGhoSGhVSzl0SEFRNDg?oc=5",
         "pub_date": "Wed, 21 Oct 2026 11:36:39 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxMlViTm03Vk1vS0VlX0J2c2o4Y0lPVUVDNFBBbVFmWXhFdDYwZ0VvQXRmRHAtdGpzZDNqM0F6S21wY1VmdmQzc2ZuM2tzSG5ZVjBucDB5V2RfZ2xQN2xiTA?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:17:36 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rWV9ILXBJak1JSkNhMzVLMkNKaTZpV2tLR0FfMWREV1BQYmpHRGlVYUJVbDV4bUNxMGd4NU9BNTdUdGFjOVZuTkhtcWZ2c2FHLU1pYXBZckp5VlHSAWBBVV95cUxQVzdhMjA4YlRZSkJ0cEk4bTNBU2h2SmRBTWgtNWNESWVUYllWdjRCdElEYlotc3czS2VqUVlwMEJTTVFIbFhOUE1yQVUzZ2FCeDYzR3U2cWh0ZVh4WkpoZlE?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 02:55:36 GMT"
+      },
+      {
+        "press": "대한경제",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43TFpna0x1TzRpdWpQOFF3QTZEMmJMWkxDOVNYdUI3azNvdHhaSXhSVVk2MjM3YUZaa3NHZFU1WkVxejk2T2JyWG1lQjJXTDJuRG5MWkNMTDh4N25CRlptaXI5YnNxVGpJZjg5eDJ1UDJxQXIx?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:23:50 GMT"
+      },
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiNThnT0dnSllpWTRxWkktWDAwM3E3bVgyblIybnJfTVVEM2NPTlZLd085ZWp4dlpOMEFzMno4aGxXejFBaDBnYXZsRnZhcl8wZmJsVkppcjlGdHZadmdRUEV5UQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:49:30 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lSW1JRXF2b1ZxVTFZblM0ZVZ2RjVNb1A2Mm1uTDV6YWxsOEg0WGNCNW40Zjh1YVJuMERwUG5xUVJxWlVFYXZKc1FITEE0ZUdTdGh1TEsyRmluS192czk1MTBIYVptQdIBZkFVX3lxTE9lSW1JRXF2b1ZxVTFZblM0ZVZ2RjVNb1A2Mm1uTDV6YWxsOEg0WGNCNW40Zjh1YVJuMERwUG5xUVJxWlVFYXZKc1FITEE0ZUdTdGh1TEsyRmluS192czk1MTBIYVptQQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 15:30:00 GMT"
       }
     ],
-    "source_count": 23,
+    "source_count": 28,
     "id": "001440-기타-55978-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -77683,9 +77718,14 @@
         "press": "현대경제신문",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aR3pQSG9yYTliZlhBc2U5c0I1eWhRLWtObXBpZUZrRWRuUjJTUTd5QzlRUlA1emlyREpEOWpINnBQdU16Z0dUcERjdlVxYVhNMkdSSEo0Ym1RODcxMlJPb1RFdjVWdkXSAWtBVV95cUxPbU5yek1RR2xCUEM4ODZmTmloYTZ1OGdzZ3ZqY3VXbmJnM2VrTGhrTnlyTFFTcnFkY21zNmI1dklPU2dnc0JmM0ZJRHRTb1hjNW9IUmYxYjZlcWttTFIxZkd6UXlLTUw2QVEtVQ?oc=5",
         "pub_date": "Mon, 19 Oct 2026 08:28:43 GMT"
+      },
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTVBMTGtjam8zWi1UYVNUbHhYN3JUTTItSU1ORllMTjFLNjRYdldBcVN5dGZTX0hNd1ptc1NiWUVrUGx2SkxaYkVUalNjbnJ3WXdjOVhaeHFORDRxMkJmdlpVbw?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:54:58 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "126340-실적-56401-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
@@ -78357,7 +78397,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "알테오젠 기술 적용 '키트루다 SC' 유럽서 방광암 적응증 확대 - 이데일리",
     "source_type": "news",
@@ -78366,10 +78406,87 @@
         "press": "이데일리",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDAzamRUNndfcTRQcFVEdTM4SG1TZUNpSk5YbG5GRUR3ak43Rm04akNLaU5lNmwxNWNoNkNVUjBGU19tV241alZodjNvQ2pzUnRocHk0S29FbzBFcm9SbThHVFFkODM2dnJTbEJKbFh5Nk54eGNHcDM4T2xrSHA0MQ?oc=5",
         "pub_date": "Wed, 21 Oct 2026 12:17:02 GMT"
+      },
+      {
+        "press": "팜이데일리",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVFQOTU5QXJhZHNuRlpBRXBCTDFXUHFRQnVUck84bHpkeURPZDVva2l4cm82eVN1UjZuM2J3bVZ0Ym5yT2xiSVljLU5mQzZ4RDBqdFZNOUZqS3h6UTdFYnlFbkZkRnRTTjZQMkJNSmNzRU5fS183dGJza3JFbzBQVlMyTHI?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 12:16:07 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "196170-기타-56691-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRSnV6bDNpXzhNd24tTFItSjRXOGxTdVp1eFNtYnlmTnQyQlZsLVRqc3RhcFphYXFOOGNrT2Rvbk9xenhUak1iNDdnMk03QQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 11:40:00 GMT"
       }
     ],
     "source_count": 1,
-    "id": "196170-기타-56691-20261021",
+    "id": "009150-기타-56761-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "이수페타시스",
+    "stock_code": "007660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "이수페타시스 최근 거래량 최대일은 15일 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43NmNwS0JIX1FVN0dBYTY3WkxXRFVhX2tiaWRFemd3RHh1Wk9ibnVqcVJ4RVVhb2xIZF9QaFgtTGFnSVhxc3lEazBRdi1Eb3pKUWR5aE5mUEx0UTlLZWdxTXBxNC0wUQ?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 13:49:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "007660-기타-56763-20261021",
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한전선 | 미국 송전망 투자는 이제 시작...수주 확대가 주가를 바꿀 수 있을까? - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXRqTVR2NUI2c0tJNTE3VHh6U0ZuY293MmNoOTIyV2VvT0NwZ0xfUG5SZjlnUHZTdWcyR0pETGlVWWI5R3VJaW00N3F2dDk4Zk9tQXFoamhpanJWR1pMTGFLZEIxOFVyQmZoYnRjM1B5bnh1VXZtNFRNMk5DckxqTzl1eURJWFNv?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 07:31:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-수주-56781-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-21",
     "status": "일반",
