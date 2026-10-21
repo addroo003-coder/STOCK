@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "“포스코퓨처엠,“LFP 양극재 수주 가시화…목표가 29만 유지”-DS",
-      "office": "이데일리",
+      "title": "AI 데이터센터 전력 '밀리초 경쟁'⋯K배터리 3사, 저장 넘어 제어·안...",
+      "office": "아이뉴스24",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392587"
+      "url": "https://n.news.naver.com/mnews/article/031/0001067784"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -529,10 +529,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=222080",
     "news": {
-      "title": "쿠팡 홀린 SFA 물류로봇, 휴머노이드 진화",
-      "office": "한국경제",
-      "date": "20260930",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337738"
+      "title": "삼성운용, ‘KODEX 전고체배터리ESS TOP2플러스’ 순자산 2000억 돌파",
+      "office": "서울경제",
+      "date": "20261021",
+      "url": "https://n.news.naver.com/mnews/article/011/0004673438"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/222080/news"
   },
@@ -1621,10 +1621,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "삼전닉스, 프리마켓서 2%대 반등…美 AI 서버 실적 호조 [코주부]",
-      "office": "서울경제",
+      "title": "AI 데이터센터 전력 '밀리초 경쟁'⋯K배터리 3사, 저장 넘어 제어·안...",
+      "office": "아이뉴스24",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/011/0004673423"
+      "url": "https://n.news.naver.com/mnews/article/031/0001067784"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1719,10 +1719,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=326030",
     "news": {
-      "title": "SK바이오팜, 엑스코프리 성장에 3Q 호실적 전망…목표가 15.5만원 유지...",
-      "office": "이데일리",
+      "title": "\"실적 이렇게 좋은데 주가는 왜?\"…SK바이오팜, '넥스트 세노바메이트...",
+      "office": "아시아경제",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392592"
+      "url": "https://n.news.naver.com/mnews/article/277/0005831254"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/326030/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "“포스코퓨처엠,“LFP 양극재 수주 가시화…목표가 29만 유지”-DS",
-      "office": "이데일리",
+      "title": "AI 데이터센터 전력 '밀리초 경쟁'⋯K배터리 3사, 저장 넘어 제어·안...",
+      "office": "아이뉴스24",
       "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392587"
+      "url": "https://n.news.naver.com/mnews/article/031/0001067784"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
