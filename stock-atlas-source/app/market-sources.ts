@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"공포에 살 때인가\"…삼성전자·SK하이닉스 매수 기준은",
-      "office": "뉴시스",
+      "title": "AI 호황의 역설…中 메모리 추격 갈수록 빨라진다 [갭 월드]",
+      "office": "서울경제",
       "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/003/0014272991"
+      "url": "https://n.news.naver.com/mnews/article/011/0004674305"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -571,10 +571,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "“메타·테슬라 호실적도 못 믿어”…또 급락한 코스피 3.5%↓[투자360...",
-      "office": "헤럴드경제",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713134"
+      "title": "42조원 ‘키트루다’ 복제약 전쟁…한국이 격전지 된 이유",
+      "office": "중앙일보",
+      "date": "20261023",
+      "url": "https://n.news.naver.com/mnews/article/025/0003559955"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -627,10 +627,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=237690",
     "news": {
-      "title": "에스티팜 세계 의약품 전시회 참가…올리고 CDMO 신규 수주 모색",
-      "office": "더팩트",
-      "date": "20261008",
-      "url": "https://n.news.naver.com/mnews/article/629/0000540424"
+      "title": "로슈가 생산 설비 내주고 기술 전수까지…에스티팜, RNA 대형 수주 노...",
+      "office": "조선비즈",
+      "date": "20261023",
+      "url": "https://n.news.naver.com/mnews/article/366/0001199791"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/237690/news"
   },
@@ -1565,10 +1565,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=211270",
     "news": {
-      "title": "컨텍·AP위성, 카자흐스탄 '갈람' 지분 투자...민간 우주기술과 국영 ...",
-      "office": "한국경제TV",
-      "date": "20260917",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266313"
+      "title": "세미티에스·AP위성 등 8곳, 대신증권 콥데이 참가",
+      "office": "뉴시스",
+      "date": "20260923",
+      "url": "https://n.news.naver.com/mnews/article/003/0014209564"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/211270/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"공포에 살 때인가\"…삼성전자·SK하이닉스 매수 기준은",
-      "office": "뉴시스",
+      "title": "솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
+      "office": "한국경제",
       "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/003/0014272991"
+      "url": "https://n.news.naver.com/mnews/article/015/0005345645"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
