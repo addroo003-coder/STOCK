@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "삼성전기, 엔비디아 등서 3조원대 투자 받는다",
-      "office": "디지털타임스",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/029/0003054758"
+      "title": "엔비디아, 반도체 부품사에도 투자… 삼성전기 등과 패키지기판 장기...",
+      "office": "조선일보",
+      "date": "20261023",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005457"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "“SK하이닉스 팔고 삼성전자 샀다” 외국인들 도대체 왜?…엇갈린 반...",
-      "office": "헤럴드경제",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713171"
+      "title": "\"공포에 살 때인가\"…삼성전자·SK하이닉스 매수 기준은",
+      "office": "뉴시스",
+      "date": "20261023",
+      "url": "https://n.news.naver.com/mnews/article/003/0014272991"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -417,10 +417,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=107600",
     "news": {
-      "title": "새빗켐, 상반기 매출 309억…전년比 49%↑",
-      "office": "뉴시스",
+      "title": "새빗켐, 상반기 매출 309억원 ‘반기 최대’…3년 만에 흑자전환",
+      "office": "이데일리",
       "date": "20260814",
-      "url": "https://n.news.naver.com/mnews/article/003/0014127090"
+      "url": "https://n.news.naver.com/mnews/article/018/0006351581"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/107600/news"
   },
@@ -1383,10 +1383,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "사천에어쇼서 한국형 전투기 KF-21 양산기 시대 출발 [현장+]",
-      "office": "블로터",
+      "title": "한화에어로·KAI, 사천에어쇼 출동…K-우주항공 기술력 뽐냈다",
+      "office": "디지털타임스",
       "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092014"
+      "url": "https://n.news.naver.com/mnews/article/029/0003054739"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1495,10 +1495,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "AI 시대 핵심은 '전력'…이재용, UAE 발전소 현장 직접 챙겨",
-      "office": "매일경제",
+      "title": "순찰로봇부터 폐쇄망용 초경량 AI까지…기술기업 8사 8색 '눈길'",
+      "office": "지디넷코리아",
       "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/009/0005752698"
+      "url": "https://n.news.naver.com/mnews/article/092/0002442087"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“SK하이닉스 팔고 삼성전자 샀다” 외국인들 도대체 왜?…엇갈린 반...",
-      "office": "헤럴드경제",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713171"
+      "title": "\"공포에 살 때인가\"…삼성전자·SK하이닉스 매수 기준은",
+      "office": "뉴시스",
+      "date": "20261023",
+      "url": "https://n.news.naver.com/mnews/article/003/0014272991"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
