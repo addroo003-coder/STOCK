@@ -76023,12 +76023,17 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Y0xwRlZGTjJIV1NoMmFFdGh2cko4aGFqQVppUzdKT0Nxc3ktNlFDNEcwRGw1VGtDM0paaGxQcC13ZnN2My1nMUhlbzljRGtva0JDRWxrT0JQVjFPcjQwV1kxWDF2MTdha01aOHRzcDNJeXh2MUHSAXtBVV95cUxNdDFmTnFESXYzYm1PX0RUQk1YZjByNHd6M2JCbDdmTzN2cDNURU80UWJwYTU3R1BnOTBjdXZXQnBjNllVbnh0WHdNd2FiRWw3MGZnZjNlQ2tNTDQzZUhmM2FBSjBNaG11eWoxNjJjbGpnTExnemNSaUtJOVU?oc=5",
         "pub_date": "Tue, 20 Oct 2026 23:44:23 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoY2dHWHdoSWo5R1dOOWdjRWxCU1BEV3NKZ3JHbUg1QmdPSzIxZEZ4dGp5dEVkUzgyQkFoOVVCX1dlU3hTWGRFWGV4QUxVR3g0am1QSVA2c05FYjdFQXdES252eXFCNVFQ0gFuQVVfeXFMT0pWbmtOZ2o2a25vcGN4TS1hWERCYklWOXBJNHJuZWkyWmpRTXdFSVBhS00yUDFBQ1FUZXZ2cXFoM1BNZGNnTERrY2xWb1JzTHJIaHFaOG53RVdYVF9FOHdQTXAtM2VJRExGRng1OFE?oc=5",
+        "pub_date": "Tue, 20 Oct 2026 23:44:23 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "229640-실적-55669-20261021",
     "first_seen": "2026-10-21",
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-22",
     "status": "일반",
     "stale": false
   },
@@ -80487,6 +80492,35 @@
     ],
     "source_count": 1,
     "id": "068270-기타-57916-20261022",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HejhZSGo1b1Rya2NkNVZ6ZDJieWpKeXJSZ1UwektCTDd6bkotSk5BeUpXRkFlc1NfV0VlTHYwQm54RXhuNzNtZTRLUWFfeFBhM0lOY3FKcDJDZw?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 18:00:02 GMT"
+      },
+      {
+        "press": "블루밍비트",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZZ1RSLVJtOFlOQW9taEI0eDZRV0VoQm5TSzBKNW42dzktd19UVUVIbGs1X0hzWGZMaFNCZlNSS2JvV2xFXzdhbEY1WFFYYTNQ?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 21:41:10 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000660-기타-57938-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-22",
     "status": "일반",
