@@ -65079,12 +65079,17 @@
         "press": "https://www.koreasprint.com/",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKM0ZSUzlSeTdnanBGUzdsamVuYzNLZWYxX3ZzVE9UZkJXQnpEUldDRlV4UGNRUzNrc2ZqZ2dxQzRWeXJ5VkRabzRhZldEUUhCbF9obFNZQ21NUlVPVGhnYkZSc3haNThqMU5ILW5B?oc=5",
         "pub_date": "Thu, 15 Oct 2026 03:00:00 GMT"
+      },
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzbVpWcVJmeVRyR2xIR3NUREpfdjJ6QU40Z0N5MlJkTWxxeEwzLVltWmZWTDBSZmJ3eFVXb0dHS3E2RVVhM004WTJNN1BFN1B0clZzVU9oWk9tbGJsVlF2U2NIMzA1eV9x?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 09:17:50 GMT"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "id": "066970-기타-48299-20261014",
     "first_seen": "2026-10-14",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-22",
     "status": "일반",
     "stale": false
   },
@@ -77127,9 +77132,24 @@
         "press": "위키트리",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRU0wNm1vQlFnaUw4ZTdjaGZWVDJrYkVQc1dwMUM1WXZnTkVjT3RtcjVmc1RMTktrNkdMOVVzR1VUb2IxTnFMT0QzR2YwUEpQYjBOdGJR?oc=5",
         "pub_date": "Thu, 22 Oct 2026 00:25:00 GMT"
+      },
+      {
+        "press": "한국금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fYWZPcUd2bnE0cmRTSHN5Ti1TaV9pYmVrRFdJbVBSVDh4emRsTHQwakliUmIwYmxHVGtubHVKdlBVcjA5TWpFalRJRjh1MEFJenAzQlgtU3RNejlMTDNRTmhBeDgyVzI2OHRVVFJjQmdBZWJkQWpmOVRLRHI?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 01:13:02 GMT"
+      },
+      {
+        "press": "전기신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsT2FIN3hmU3ZNLWtTbWlGMTQybnJXLThBZ3ppUWRmQ2Q4dkhtMEJlN3Njd00tZXVHdXNVQ19lTmJZcThoZjdBMWQ5MkhDbllzM1FpbmMzVVktdDNEYUgtem44ZmhJcV9HQ1JiQkdyb0rSAXBBVV95cUxQbE9hSDd4ZlN2TS1rU21pRjE0Mm5yVy04QWd6aVFkZkNkOHZIbTBCZTdzY3dNLWV1R3VzVUNfZU5iWXE4aGY3QTFkOTJIQ25ZczNRaW5jM1VZLXQzRGFILXpuOGZoSXFfR0NSYkJHcm9K?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 04:46:35 GMT"
+      },
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44LWtJN1pqMG9HZTNYYUNQQ0F1ZGVTcHhrUExIR05lNzg5dmFQMTU1S1hlbzJoWGdSNFZ0YjlLZzF2bXRNNEV1cmY5N1pkUEhqcElhRUVmRThvbnM?oc=5",
+        "pub_date": "Wed, 21 Oct 2026 06:49:30 GMT"
       }
     ],
-    "source_count": 33,
+    "source_count": 36,
     "id": "001440-기타-55978-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-22",
@@ -79654,9 +79674,14 @@
         "press": "데일리카",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WTGRyZHdFbnhEX0JFa1JiMnJmN09mNXJvOHY1SmtQTk8wSTBuZWF2Wm9FejZqQzhNWVNJTURqYmt3Sm1YT1A0MTN0YVBMRWN0YUhYTFJWdUFLbXA1R3h5Sm9JTXp3cHVuZWxYcTdKRExMTjdMRWc?oc=5",
         "pub_date": "Thu, 22 Oct 2026 05:16:30 GMT"
+      },
+      {
+        "press": "로이슈",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TbnpSMWM2aVdaNUdiSEhCbUhmUWxLZlpGMU53Ump4VkloNHFkMHZ4THdOVWNJMmNEQ1pmSmhSVXNwWXFfd0xiSkE0a25vOUJtclhtd2hxVERhQXdvazlxc0poTXdHREc5RmwwMzMtZ0FOOUlDVF9Lb3hR?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 12:27:24 GMT"
       }
     ],
-    "source_count": 30,
+    "source_count": 31,
     "id": "006400-기타-57222-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-22",
@@ -79818,7 +79843,7 @@
     "sector": "우주항공",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "LIG넥스원, 방위사업청 입찰 제재로 수주 불확실성 확대 - 메디컬투데이",
     "source_type": "news",
@@ -79827,9 +79852,14 @@
         "press": "메디컬투데이",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaWwxaE1nR2lnZmMwblNHUGVLX2llQV9xQ3BDV29ZSmotY2RjNklocXpmbXlfcWg3a04yT29jdU9BQk9ueGpfY2lreTZDWlN6WmhUYkpBbmVibWtpQnh4VFU3amJVamlwN1lNTw?oc=5",
         "pub_date": "Thu, 22 Oct 2026 02:26:08 GMT"
+      },
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMDV2RnJfMVBobG9mM3d1bkZvaXVaUkRnZEdPSGQ1UXZ3ZThqN3d1TG1uMkhZMFFkNzc1b2p2Ri1ubzN1eUJOUm9BRkhjcXpDMHJfbnlqWFFqTS1lUlZDRUgtZjZPUGRaSGhVWGhCelg?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 05:22:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "079550-수주-57498-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-22",
@@ -80011,9 +80041,14 @@
         "press": "MEDI:GATE NEWS",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LZnVKd3hsTFJCS2lROEJ5bGN2eERkbTZnVC1mMll0LVhSUW5JakxtZllybVF2WkxidldWaV9DeWpUMVNyWU5YVkt6UGhIRl9vN2lVUXdQbw?oc=5",
         "pub_date": "Thu, 22 Oct 2026 10:04:00 GMT"
+      },
+      {
+        "press": "마일드경제",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0QjVSbHFkM0pGOEhoZGh5alF5QVJNcjJSMDJBeHJyb0VMWFlmeDVIM0N5OWJFeWNKOXRrX3A2MmJKYXktRWctZzRKaGNXd1VBMkx1R1BsWTlWRU5PSUxwa1c5VmxYb0cxUHNN?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 12:39:31 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "068270-기타-57529-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-22",
@@ -80428,6 +80463,30 @@
     ],
     "source_count": 1,
     "id": "006400-실적-57855-20261022",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 자가면역 항체 또 사들여…최대 7.8조원 규모 - 바이오북미디어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "바이오북미디어",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fYnk4eWJOV0Q0Y0FtZURodEtRdUdCYlZfdjRUNUtLcV9PMmkzbXlEWXVkMnlYUFZyZHdpNDBtQUVjcFcwNXByREs0ek1CV29XaEV5RA?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 16:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-57916-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-22",
     "status": "일반",
