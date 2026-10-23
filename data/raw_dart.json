@@ -52,6 +52,19 @@
     "is_correction": false
   },
   {
+    "company": "피에스케이",
+    "stock_code": "319660",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "증설",
+    "title": "신규시설투자등              ",
+    "rcept_no": "20261023900529",
+    "rcept_dt": "20261023",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900529",
+    "is_correction": false
+  },
+  {
     "company": "네패스아크",
     "stock_code": "330860",
     "sector": "AI 반도체",
@@ -383,6 +396,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261023800526",
+    "rcept_dt": "20261023",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800526",
+    "is_correction": true
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
     "title": "단일판매ㆍ공급계약체결              ",
     "rcept_no": "20261021800137",
     "rcept_dt": "20261021",
@@ -637,6 +663,19 @@
     "is_correction": false
   },
   {
+    "company": "코스모신소재",
+    "stock_code": "005070",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261023000081",
+    "rcept_dt": "20261023",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000081",
+    "is_correction": false
+  },
+  {
     "company": "대주전자재료",
     "stock_code": "078600",
     "sector": "이차전지·ESS",
@@ -687,6 +726,19 @@
     "rcept_dt": "20261021",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021900429",
     "is_correction": false
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+    "rcept_no": "20261023000071",
+    "rcept_dt": "20261023",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000071",
+    "is_correction": true
   },
   {
     "company": "비나텍",
