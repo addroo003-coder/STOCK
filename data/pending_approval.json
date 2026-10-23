@@ -81396,9 +81396,14 @@
         "press": "S저널",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41aXJySzRaZllZVlVNS2xWR0t3c2luTUE3S1daV0N5emJSMkdzelVYQ2JsZVNKYk1EYms5U3VnNmFZTW5DcVhZdklWcWN0aGxSTnNuT0dPMEhSZmJ0OVkzN3FvLVRwTHFPUVZxNVZ3?oc=5",
         "pub_date": "Fri, 23 Oct 2026 06:16:37 GMT"
+      },
+      {
+        "press": "부동산신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tdGlzSTlFQjFaZTI0bENVMGswRjQ2NGtHM2dPNlhRNEYzN09Gc1NRbmxldWRzLXliMnFKMUR2eFF6ajhvVjZKcGNKNHdlMkczMmpsOXEtR19vZjBUY1N6SnFSU2s5bmJp?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 07:29:50 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 16,
     "id": "000720-기타-58288-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-23",
@@ -82059,7 +82064,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SK바이오사이언스, AI로 독감백신 생산 효율화...연구개발·품질로 활용 확대 - 팍스경제TV",
     "source_type": "news",
@@ -82073,9 +82078,19 @@
         "press": "팍스경제TV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01cGt4YjI1UG54eHFSX1hYMnZKM0NXSjlhOFZOX2paUzBpeW93ZWZaaU5wTlBLY2pBMEVLV2ZQM25UQjEtaVFlUzZxMVB1bldhdjFKTVRZR1pXYjFwYUo0bHBGUGd4a2RB?oc=5",
         "pub_date": "Fri, 23 Oct 2026 07:25:09 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45ZXZzZHY5Sk1XWHZ0OHgwMmZqcTkwZ014cHBEamhYbl91VlFhZW9NTzEyQlU5cVlCM3JHU3lWUDNGMkVzclRRWHlBWkdtSUNSYko5ZEpESnBkQ2Q2TzJoMA?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 06:07:52 GMT"
+      },
+      {
+        "press": "e-의료정보",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZGNiYjFmdEwydlBiVUhnWmVLRkZscUhDM2wwWDgycURNSXVkRG11Z3JkMURla0M4Ui1JNzRCdFF3TmFRUU9MR09iZVBzNWZlZmx6bzYtT0hZUmNiWjAzdHhOeHlnNmZyTU840gFvQVVfeXFMTTJYclE4RzlZVXFJNV94dGZmbEJ2d2c0ZmN3THdHTGRnV0ZXTnJHdUJnVUhRSFI5NHBfRnlGRTFldkY2Vml2NWJ4QmxqT1VOZlVmaUlXdUVGRmlvRTFGMHpNcGdFa1A2QVVuTDEzT3ZJ?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 07:50:56 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "302440-기타-58777-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-23",
@@ -82197,6 +82212,65 @@
     ],
     "source_count": 1,
     "id": "009150-기타-58873-20261023",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "유한양행, 다이소 통해 더마 브랜드 '더마푸라민Rx' 신제품 8종 출시 - 뉴스티앤티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rempyQ0QwTTk5cDhXcmNmdm0wNmItcnlxMlZVQ3JIQmVoMF9sY284enNUT2VIUHpHQ09oZEhNQzJSWUtjYkYzVnludGRfS0xjYkthXzIxTFNjd055blZvcXRMcDJfYllEVkE?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 16:18:29 GMT"
+      },
+      {
+        "press": "인더스트리뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qVnJpSGx4RUFRSEtnQThLcWFfdFEyWTdFNUZnQnJzaHQ1RktTenFZUVhGMml1UmJGdkd5VkQ5eXJlUjlMUkxRVGVmWmd3Zm9LTVJ2Zno4bTlRa0ZXSVJDOXVncDAtYWNDdUNMcTdONVJndw?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 07:35:19 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NNlJ6SFZZU2xLU3hHeVdPQVhQWFZMcWg5Y0lFaEJOeEhCalJ5QUoxMnFyMTVLX3hucjRpSDRxaE1pWmtFT01xcnd3aUdxZjNwekRIS2JiSE4xUTE0am54NEVCNzlqb25KYUHSAW9BVV95cUxOQTVHVHJCc000UWJqanh6SnpYSExBUjdWcmgybk1hNTZiLVVWeUxVbU1qY1hadnh2S1JFMElyTnQxUktZR203bFBkVzdJbFludGcxZ0pNQ3dmUV9NLWhjeGUyYXdqQTFLTGd0bXFQdHM?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 01:10:28 GMT"
+      },
+      {
+        "press": "메디포뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWMEdCaDh6eFRyY2dCRFJ4SzVCUHlkMkwwaGVHb3VlMG92RVNVQWoxc0VQaXJRQWI2LTg1TlVUU0oyTU0ySmNUYmU3UUJfQUxPOUw4ekFYSzRZalJES1FwMVFDa2k?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 00:09:34 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMGVtQjBaRV9ERzBiWE9SQU5uVUo0VjZhenRkQW1TYnRyVUJaZE9aUlhMOFgxOW9yaU90MTY3dW1CdDBod2lJQ0VCelB6ZTk5M0lCVUVMVU1JMzJJOUxicQ?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 00:30:22 GMT"
+      },
+      {
+        "press": "보건신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52TUo2SmN1dUlOZDdqR2R6NGpmTXlnWmkzMHFLU2dUX0hhendtMjE4MHB6OTZuNTZuVlZ5bDQyM21lY2Q0YUJiWUNKaE1FT1o2aEhTdy1ya1lobzBCak8ydVUyMA?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 00:39:58 GMT"
+      },
+      {
+        "press": "더나은미래",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5td09IMUhvRzIxNVZlbzA4TlVXWmZ2WHRmYzhJZW1HV1ZXc2dwaWtudzRmY3JHamNIY0FkV1B6UFlWbXR2aHpZSzJGaFE3aUhqZXc?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 04:35:00 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIaF80eldCU01FaEtIdHpVZFZ0RjVNeHI0QzVQbmdVZ2Jxc0loYVJ2bXZ3YzRGVnNmY0F5Ml9pTVhGUWtGLUkwMHF3bDhpZ2VhTGY1YUJEREIzdmJnek05ZU5reHdfLThR?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 14:23:01 GMT"
+      }
+    ],
+    "source_count": 8,
+    "id": "000100-기술-58964-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-23",
     "status": "일반",
