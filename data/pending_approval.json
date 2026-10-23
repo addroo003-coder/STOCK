@@ -79769,9 +79769,14 @@
         "press": "대한경제",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zYnRhTW8tOXdVeWpndnJSeVdmUTR4bHltemVueHJIQnd6RkZrYXRmTXI4cG9HN0JKSlNIUnpSV01pbXlrRXNYOFBGWW9xZFZnQlg2WDJmM0t5bG10am12MGxNc0lTYUlia3k5cnd1Q0UwZDVqWGc?oc=5",
         "pub_date": "Thu, 22 Oct 2026 06:04:55 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WQkFGVmY2d3Z0dm5EaUNoV2NJYnNPMEVUWERvOVA2ekM1ZTUxckpsekVGbzlkR2JkeEV0MHdMczFBa05sRDRpTHlsbHdoZw?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 01:30:00 GMT"
       }
     ],
-    "source_count": 33,
+    "source_count": 34,
     "id": "006400-기타-57222-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-23",
@@ -80024,9 +80029,14 @@
         "press": "뉴스웍스",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKQ1pmV094ZXpfU3dLX2lmQ1M2c0I2OThZX2JiYjFzbmJRVm1RTEszMFA5eV85WUlsTE0xUWd0TEFoQVA4UG1kMWdFMXBTbVA3dERaSDBsakNqRVRkZXdzRkYtT2JGeDVJbXhBSUtQVdIBc0FVX3lxTFA4aWxIMG0ycDRkMEpSanNWem90cHhnTWtIVS1DZjR0V0sxRHE2bFdRdmRYMmthUE9PVWhtNklCVUNvLVdHMEtnVDIxajRhckhPcXZSNVBNaGJGbVhVbVlUQVpjVzZmZnZFTEh0eWZodFJVdkE?oc=5",
         "pub_date": "Thu, 22 Oct 2026 08:38:14 GMT"
+      },
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNblViOTJHZ1Jkak0wQmlGZkpUNGRRVVpyOU5vY1h3ZXpZenhlS3VoWkhodzRIMldLRldRQjg2Tkpja2J3TDZHYjRLNk5TOVJ6VnZodXB1cktNUjBlRU55Uk5wOVplVnVabTF3?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 02:21:45 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "068270-기타-57526-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-23",
@@ -80800,9 +80810,14 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTE8xbjJkMl9uWkN4a3E0OFc4Z21fVDhXZ213RHBlaFRiYVhjUFR6VXlSYS1fVGxJNU1vSUtOTEtVWUtLYWp2ZktRVTM3NnVEUTB0TUFvTmZSSUZLMU1nTXExb2Z5dzBmRHNpNA?oc=5",
         "pub_date": "Thu, 22 Oct 2026 23:10:00 GMT"
+      },
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUXdObWlBWGt2N19tc3NXRC1XaWF5SlBobDhqQ1doeHk0YzJfRVFLRE1JTHp6eUtXM0QtbC1lckdCa0NmNllsX2dFQ1J6TkZGVEM3cA?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 23:10:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "062040-수주-58031-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-23",
@@ -82271,6 +82286,78 @@
     ],
     "source_count": 8,
     "id": "000100-기술-58964-20261023",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 ADR, 솔리다임 美 IPO 철회 소식에 4% 급등 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDNlVkJLeWpEMEhpZ2sxd2poTTE1a09NQVVMWlJBV3luc2RHb094aHFrUFZyNlZub056M1k3OXR2Z0JqaXROSTZ2N1JaWGtuWld6TmlyWndJQ0JaT21wTVNyd0RfR21tWnhCc09VRHM5a1FubWFqNEduZzZuUWRSbVV1eEw5TkJ6?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 21:24:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-58973-20261023",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 주가 다시 300만원 갈까…솔리다임 상장 철회, 왜? - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XQzlrNFNvX1hXRF9FeUdRVThMN1dOSVFxblBTSURlaXl0VXpyRDc0blZWMldrY2wtR3RwLTB2S19nZG90aXF2QmJDT2Zpc21DM2hjUGIwOEFGd0xmQ3JybXh6M2Y2N0c30gFuQVVfeXFMTjE0VkI2aE84b1U5TE1YR1Nxc1g3UFRkMzhhRFdSUnhYYUVPVDFtakhnVTNtSnBpVDB2RGFWbVBPek1HWFltdnVoaEt6a1d0N0lrVExkS25sSXdvcXU2VVprcFFqTWJDY3NuSUZsalE?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 07:06:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-58975-20261023",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "휴젤, 해외 의료진 생산·해부 실습 연계 교육확대 - 증권경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "증권경제신문",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtWm5lcHFkaXc3N25QajVjM3FKMFkxOFBDeVc0UWRiZW5iTjNZN2picEdGSmRrNWtkLTF2ZjdOUVBLRFBuZm9wWmdkVnA2TWczN3FGM25TaGJjTkdSZ1ZqNW5CUDNuLUtaOUFTUXRmcFVoZ9IBdkFVX3lxTFBVTWU0NzVEd19BbWZVbEMtR3ZjVHZpTGlNVS1HTkZyTVcwa3F3bXJNV3lrQWNZT2k3X1hPdHFReHpXSG9nWFZSQUxmaEktNUJnd2VXNk5kaXNXcVQ4S1J3aFBmM1NCc1pzVkJXUjNFcUo2SjEzTlE?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 07:56:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-기타-59007-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-23",
     "status": "일반",
