@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "개그맨 김수용이 5000만원 날린 투자법",
-      "office": "문화일보",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/021/0002827447"
+      "title": "\"美보다 더 빠진 국장\"…실적 두 배인데 주가 왜 이러나",
+      "office": "뉴시스",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/003/0014275291"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -725,10 +725,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=066970",
     "news": {
-      "title": "하나증권, 엘앤에프 목표가↓…\"3분기 적자 전환했을 듯\"",
-      "office": "연합뉴스",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/001/0016395729"
+      "title": "엘앤에프, DIFA 2026 참가…울트라 하이니켈 NCM·LFP 양극재 동시 공개",
+      "office": "한국경제",
+      "date": "20261019",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343871"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/066970/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'중복 상장 논란' 솔리다임 상장 철회…SK하이닉스 \"시장 여건 고려\"",
-      "office": "MBN",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/057/0001974912"
+      "title": "솔리다임 IPO 일단 멈췄지만…SK하이닉스 중복상장 ‘불씨’는 남았다...",
+      "office": "헤럴드경제",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/016/0002713745"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
