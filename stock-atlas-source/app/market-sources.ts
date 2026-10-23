@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"美보다 더 빠진 국장\"…실적 두 배인데 주가 왜 이러나",
-      "office": "뉴시스",
+      "title": "'아이폰 듀오' 출시부터 품귀…갤럭시 Z 폴드8 반사이익 얻을까",
+      "office": "데일리안",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/003/0014275291"
+      "url": "https://n.news.naver.com/mnews/article/119/0003146479"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1677,10 +1677,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "AI 투자 불안에 전력기기·전선주 약세…LS일렉 5.9%↓[핫종목]",
-      "office": "뉴스1",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/421/0009245764"
+      "title": "[인터뷰] 이중연 KTNF 대표 “AI 시대 서버도 국산화해야… 공급망 직...",
+      "office": "조선비즈",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200046"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "솔리다임 IPO 일단 멈췄지만…SK하이닉스 중복상장 ‘불씨’는 남았다...",
-      "office": "헤럴드경제",
+      "title": "\"반도체, 주도주 역할 끝났다\"…전문가 \"AI 투자, 다른 분야도 봐야\"",
+      "office": "뉴시스",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713745"
+      "url": "https://n.news.naver.com/mnews/article/003/0014275304"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
