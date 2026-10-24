@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "솔리다임 상장 중단에도 하이닉스 팔았다…두산에너빌리티 순매수 1위...",
-      "office": "서울경제",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674437"
+      "title": "AIDC, 산업 지형도 지각 변동",
+      "office": "매경이코노미",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/024/0000109149"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -683,10 +683,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "'2%대↓' 코스피… MS·삼전닉스 실적에 AI 수익성 우려 씻을까",
+      "title": "SW 코드 검증 'AI 감리팀'·전고체 전지용 '맞춤 양극재' 기술 주목",
       "office": "머니투데이",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430876"
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431120"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -977,10 +977,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "'솔리다임' 상장 중단 효과…삼전닉스 반등·소부장 낙폭 축소",
-      "office": "MBN",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/057/0001974871"
+      "title": "\"최근 주식 산 사람 대부분 물렸다\"…이정윤 세무사 \"반도체 소부장 ...",
+      "office": "뉴시스",
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/003/0014276004"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
