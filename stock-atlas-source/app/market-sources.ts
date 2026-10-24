@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "\"삼전닉스 다음은 누구\"…내년 '시총 3위' 전망 봤더니 [주식R]",
-      "office": "한국경제TV",
-      "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270345"
+      "title": "전자만 잘 나가는게 아니다…삼성, 그룹 전반 실적 대도약",
+      "office": "헤럴드경제",
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/016/0002713888"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "엔비디아, 삼성전기 기판에 공동투자…LG이노텍과 '로봇 눈' 개발",
-      "office": "아이뉴스24",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/031/0001068883"
+      "title": "엔비디아·테슬라, 삼성전기에 조 단위 투자하는 이유는? [뉴스 쉽게보...",
+      "office": "매일경제",
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753471"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"HBM 잘 팔려도 안심 못 한다\"…삼성전자가 TSMC에 내줄 수 없는 핵심...",
-      "office": "뉴시스",
+      "title": "3분기 실적 발표 '슈퍼위크'…삼성·SK하닉 '주주환원' 보따리 푼다",
+      "office": "뉴스1",
       "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/003/0014275978"
+      "url": "https://n.news.naver.com/mnews/article/421/0009247911"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -389,10 +389,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "AI 전력난 구원투수 'SMR'..SK·두산이 그리는 차세대 원전",
-      "office": "머니투데이",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430737"
+      "title": "전자만 잘 나가는게 아니다…삼성, 그룹 전반 실적 대도약",
+      "office": "헤럴드경제",
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/016/0002713888"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "AIDC, 산업 지형도 지각 변동",
-      "office": "매경이코노미",
-      "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/024/0000109149"
+      "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+      "office": "연합뉴스",
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398350"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1649,10 +1649,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "국책은행 보유 기업 8곳, 경쟁사보다 성장 더뎠다…KAI 매출 증가율 최...",
-      "office": "동아일보",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757235"
+      "title": "입찰제한 LIG D&A, 24.6조 수주잔고 뒤 '신규 계약' 변수",
+      "office": "블로터",
+      "date": "20261025",
+      "url": "https://n.news.naver.com/mnews/article/293/0000092082"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"HBM 잘 팔려도 안심 못 한다\"…삼성전자가 TSMC에 내줄 수 없는 핵심...",
-      "office": "뉴시스",
+      "title": "고점 대비 56% 급락 SK하이닉스…이번주 실적발표 반등 계기되나",
+      "office": "연합뉴스",
       "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/003/0014275978"
+      "url": "https://n.news.naver.com/mnews/article/001/0016398387"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
