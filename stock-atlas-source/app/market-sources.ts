@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "빅웨이브로보틱스, 피지컬 AI 기술 포럼 개최…'하이퍼 파운드리' 시연",
+      "title": "'2%대↓' 코스피… MS·삼전닉스 실적에 AI 수익성 우려 씻을까",
       "office": "머니투데이",
       "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430742"
+      "url": "https://n.news.naver.com/mnews/article/008/0005430876"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "'아이폰 듀오' 출시부터 품귀…갤럭시 Z 폴드8 반사이익 얻을까",
-      "office": "데일리안",
+      "title": "삼성전자·리센느, 갤럭시 Z 폴드8 협업 캠페인 시동",
+      "office": "매일신문",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/119/0003146479"
+      "url": "https://n.news.naver.com/mnews/article/088/0001036266"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -571,10 +571,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "FDA, 키트루다 6년 만에 정식승인⋯치료 대상 '축소'",
-      "office": "코메디닷컴",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/296/0000106349"
+      "title": "SK하이닉스·롯데렌탈·알테오젠[하나證 주간추천주]",
+      "office": "이데일리",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395186"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -879,10 +879,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "펩트론, 유한양행과 40억 기술이전 계약 해지…실제 수령액은 10억",
-      "office": "조선비즈",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/366/0001199696"
+      "title": "\"다이소 전용\"…유한양행, 스킨케어 신제품 출시",
+      "office": "뉴시스",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/003/0014275639"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000100/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "국책은행 보유 기업 8곳, 경쟁사보다 성장 더뎠다…KAI 매출 증가율 최...",
-      "office": "동아일보",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757235"
+      "title": "K-방산, 추가 계약 이어가려면…\"현지화 전략 중요\"",
+      "office": "연합뉴스TV",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/422/0000918983"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG그룹, 현대차 로봇 사업 수장 영입…피지컬 AI 사업 담당",
-      "office": "뉴스1",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247200"
+      "title": "AIDC의 역설, 메타는 왜 RE100을 탈퇴했나[에너지 오디세이]⑭",
+      "office": "아시아경제",
+      "date": "20261024",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832874"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "\"반도체, 주도주 역할 끝났다\"…전문가 \"AI 투자, 다른 분야도 봐야\"",
-      "office": "뉴시스",
+      "title": "'괴리율 46.8%' 한국서만 헐값 거래되는 SK하이닉스…격차 벌어진 이유...",
+      "office": "아시아경제",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/003/0014275304"
+      "url": "https://n.news.naver.com/mnews/article/277/0005832901"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
