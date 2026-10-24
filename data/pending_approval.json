@@ -80026,7 +80026,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온, 美 카이진과 신약 후보물질 라이선스인 계약…최대 7695억 규모 '빅딜' - 팜이데일리",
     "source_type": "news",
@@ -80035,9 +80035,14 @@
         "press": "팜이데일리",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tV0pSSE1BN1hfc29hVTR5TlZfZnNYVENnbnEwMXhhck1EY0sySDNuLVJ6UWNtWmJtbFZnc0RLUjFENEU0Rzg5blI3cURRUGxzeVR4QVRIX2dzSlkzbmc3eHhLUkdGWVNHR1ZlQTl3?oc=5",
         "pub_date": "Thu, 22 Oct 2026 02:38:23 GMT"
+      },
+      {
+        "press": "IT타임스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUC0tT3psVU1sbzBERGRTNDNlYUZaSGQtYlJxQ1h5UnQwRHZpT1lTaFdlemY4cVBJOFJON0VLbXhlS0o4bklsSXU0TEVLc1VVZ2JKSkJHcXBmVWJXR1h6Qml0WE43VGpE?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 13:30:46 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-57525-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-24",
@@ -82780,6 +82785,30 @@
     ],
     "source_count": 1,
     "id": "001440-기타-59471-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "취임 4주년 이재용, 최대실적 삼성전자 발판 기술투자·M&A 구상 - 매일경제 마켓",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94d3FMdU9VZl9yZDZkWG1sd09jV1Q4VjZHY3VOTmJhdEU1WkNjX0FiS3dTV0dDME9PamJkT1I5R2h2T2FWVmNvam5pQ2xXcVRrQlE?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 21:09:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-59502-20261024",
     "first_seen": "2026-10-24",
     "last_updated": "2026-10-24",
     "status": "일반",
