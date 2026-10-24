@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자·리센느, 갤럭시 Z 폴드8 협업 캠페인 시동",
-      "office": "매일신문",
+      "title": "삼성전자, 리센느와 폴드8 협업 예고⋯1030 여성 공략",
+      "office": "아이뉴스24",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/088/0001036266"
+      "url": "https://n.news.naver.com/mnews/article/031/0001068965"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1579,10 +1579,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "HD현대일렉트릭 공사현장서 협력사 직원 사망…중대재해 조사",
-      "office": "SBS Biz",
-      "date": "20261021",
-      "url": "https://n.news.naver.com/mnews/article/374/0000539050"
+      "title": "AI 전력난 구원투수 'SMR'..SK·두산이 그리는 차세대 원전",
+      "office": "머니투데이",
+      "date": "20261023",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430737"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -1677,10 +1677,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "[인터뷰] 이중연 KTNF 대표 “AI 시대 서버도 국산화해야… 공급망 직...",
-      "office": "조선비즈",
+      "title": "LG이노텍, 엔비디아 업고 로봇 시장 정조준",
+      "office": "비즈워치",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200046"
+      "url": "https://n.news.naver.com/mnews/article/648/0000051904"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'괴리율 46.8%' 한국서만 헐값 거래되는 SK하이닉스…격차 벌어진 이유...",
-      "office": "아시아경제",
+      "title": "임대율 vs 효율성… 과연 AIDC는 돈이 되나",
+      "office": "세계일보",
       "date": "20261024",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832901"
+      "url": "https://n.news.naver.com/mnews/article/022/0004169311"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
