@@ -79799,9 +79799,14 @@
         "press": "팝콘뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10VllXbkFtaS1vVFo3cGNjdmdySWhBYU96S25mMHdWYmZJXzlfTWVXaDhkQ18yVzNnWWdEdVhWUF9qTVdRWFdUa0J4ZE9uay1qOXRQQkdfTjBNNEEtdXppaHNvNGtzeXBCeUsxWVZ0cVAyd9IBckFVX3lxTE10VllXbkFtaS1vVFo3cGNjdmdySWhBYU96S25mMHdWYmZJXzlfTWVXaDhkQ18yVzNnWWdEdVhWUF9qTVdRWFdUa0J4ZE9uay1qOXRQQkdfTjBNNEEtdXppaHNvNGtzeXBCeUsxWVZ0cVAydw?oc=5",
         "pub_date": "Thu, 22 Oct 2026 06:52:10 GMT"
+      },
+      {
+        "press": "시사뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ydkpyclE1cVltZWFtdHFBNFNvRVB4dF9UNXhYRjZGVFNvVVZpU0l2ZzVDVldidGFKOFlibHFRZEpwUklyU1FiZFg0V25kazFobFRzOG1CMmZ0b09IQ2pMeg?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 01:58:04 GMT"
       }
     ],
-    "source_count": 35,
+    "source_count": 36,
     "id": "006400-기타-57222-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-24",
@@ -81300,7 +81305,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성전기, 테슬라·엔비디아 3.7조 투자 규모… AI 기판 생산시설 확대 - 경제시그널",
     "source_type": "news",
@@ -81309,12 +81314,17 @@
         "press": "경제시그널",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HRWxFa25EMWV5enFZNHBIUkxxY1JfMENsemV4ZWF5dVdBVGxTTGx6YlhsU0hlVVJjaVhDVEdDcjF1WlktdnFnVjZTdVVYOHpDblItYktUeF9KdkRwNmFnUzdXc2NlamRHcnY2VkZCMlY1Rmc?oc=5",
         "pub_date": "Fri, 23 Oct 2026 01:00:00 GMT"
+      },
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Fdl83TVJ6aElEMGFxUjFveDRWZHNVWkFSQmdTZTA1SGFRWTFKNWozeGFTNzY5UzZOM2pfMGdpSE01N2FXdnZCdHFYNA?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 06:02:38 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-기타-58187-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -81611,9 +81621,14 @@
         "press": "발전산업신문",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU19LbEtqMWJuYzdCSTlhdGo5R1FnTm4tZ1ZyTXZXTktIZ2FRZkxNQUFFN1RCcHNkb2NMOFNuSUMxVnFRWVpKelRBa1pkeDRxdjZ5Rzc4MDlMSzhWS0JqbGtjc21FYTJV?oc=5",
         "pub_date": "Fri, 23 Oct 2026 10:50:43 GMT"
+      },
+      {
+        "press": "한국원자력신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05NXhkWnlUc0xTblB2ZnJzMUhPTEVCYnhGZVpoaTFhNTNpaDRXVU1vRWNEZy13dmI3cy1zWHhNdTM2bU93R04tTFBEMUVJSlhxQjZJMkI3WEw0ZjBtVW9FV2VsZVlzNjTSAWtBVV95cUxNMTlkMVRubjNQN3lUWmtBX2tBRDRfUF9JUk50MC1mSXd1ejMyN3dIbFdDS04xVWtlcTZoRG8xd3FWX0dXZ3hBTFI3b2p0VFBXQnBmVkZVOW5mQ2t5NVJfYm9uTU1zN2Z2NlJIYw?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 08:33:48 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "052690-기타-58299-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-24",
@@ -81664,7 +81679,7 @@
     "source_count": 1,
     "id": "105840-기타-58319-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -82419,7 +82434,7 @@
     "source_count": 1,
     "id": "145020-기타-59007-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -82491,9 +82506,14 @@
         "press": "디벨로퍼뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TldQSHpXOTZfUUF5Q3BVd2tYLVB2S3Q5aUVNVHlBSVU5MnB4Q3ZlbUY1b0FFS2dXbzdIRmFDUVdyWkxjdjR3RGEyX2RKMDN6QTFGdGZRQzFfcnB2cWoyUDVINFlIdDBU?oc=5",
         "pub_date": "Fri, 23 Oct 2026 00:50:57 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95ZEZpLUxjX0h0QmZVbXRhR2UtUEV6Q0VIYzBpMWJJM3lSeFhPYjdMZGk4ako3cFBkc2x6ai1oM0xxcm01SkRvUHZGZFVGNzR0WERpdlR5N1k1RjFO?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 02:22:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "000720-기타-59183-20261024",
     "first_seen": "2026-10-24",
     "last_updated": "2026-10-24",
@@ -82519,6 +82539,150 @@
     ],
     "source_count": 1,
     "id": "006400-기타-59235-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 솔리다임 상장 철회에 4.42%↑…반등 기대 - 팩트인뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팩트인뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWVVMNDlwZmYtLTRKNGhicDNBOFlOVWEwNWZvWGpOT3lQLXRNVnFPTVJwM04yUUFuZzJrbXFHVUdOQ0ptbmxoZWpQem1FRU1EVnJIZF9RTTRvd0t5SWZ6Sm1JN09LdVoyR1JjYUdEaXbSAXRBVV95cUxPWnk3QUVEcmxGYklkUWxBbmh4cWR2N2hWSjNNaGd3em1jTkZIN05aWTV6VUU2dzlSNndXRTFwZ1RNWXp6dEZvSXhNLVlLLVhnaXJ3RUY3YmUwcnA3MWVQd2hFUG5rMm9pdEVmUjBZbDZYTlNxaw?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 05:25:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-59266-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기·엔비디아 전략적 파트너십 공식화…AI 기판 생산 확대...차세대 패키지기반 다년간 공급... - 재경일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuWkxHdzhZTjlyQ0V0Rk84TmFqaUVFZnRsemVOSjJoN1pOUEVId2dZVi0xdVpCMXdJb09kRDJsYUlrbS1tYThZWUF4UQ?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 08:44:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-59291-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대덕전자",
+    "stock_code": "353200",
+    "sector": "AI 반도체",
+    "category": "증설",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대덕전자, 6개월간 1조4000억원 투자… 2030년까지 증설 로드맵 확대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84QnprVDJ0bDNOMkR4eUlsUzhwOHk5S21NODFJWm9Jc1lmbGxRa1NkNnprc204a3owekxMVEl6MFZvSmc2UGJLZmdMSUJya3cwR3JoV3J6RnlPN3RLanJJWXdVQkc4cXVtMkVCUjdTN0VjblYtWkZZ0gF3QVVfeXFMTzhCemtUMnRsM04yRHh5SWxTOHA4eTlLbU04MUlab0lzWWZsbFFrU2Q2emtzbThrejB6TExUSXowVm9KZzZQYktmZ0xJQnJrdzBHcmhXcnpGeU83dEtqcklZd1VCRzhxdW0yRUJSN1M3RWNuVi1aRlk?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 07:50:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "353200-증설-59294-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS ELECTRIC 주가 최근 5거래일간 변동성 확대 - 중앙이코노미뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중앙이코노미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41V09ZYnR1Sm1JeXdORVVtemVfc3hDaHIzWFNOVVpvbGRuLTVqZWpEbXMxSGNtY05qNlJ6TTdDUmp3NnhhNmZTN2JfN09zb2o2WFcxSGpNR0t2cW9BMnR4VUFmV0wtV0x3SUJLX09Tc0lOZw?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 03:28:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "010120-기타-59305-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]유니퀘스트, 'HPC 공급 확대 기대' Not Rated - LS증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUeEEyWGlLY3VtMmU2LU1hTUtXOEZHOUQxWnk5VmQ4V1pCN0hacmhCb2FzUHh6RE1temJqNk13a3lhb0MwTFRhd09yOVcwN3p3UG5ZRDFPU01qTXRa?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 04:49:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-59309-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성바이오로직스, 파업·환율 하락 악재 뚫고 3분기 최대 실적 - 투데이코리아",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "투데이코리아",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xb2hBMXdCVWJYLUhGOEtqZWhUWmpSNF8xdTRVanVtaHI1ZkZBSVppUnNoemE5RjcwZnhYN0xEQzNMS0JUbXhPYjdpdkI4X3duMGhxdmVIbV9DaS1DQ1ZUOXp0THR1UVR1UWdWODR2aWM?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 04:00:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "207940-실적-59354-20261024",
     "first_seen": "2026-10-24",
     "last_updated": "2026-10-24",
     "status": "일반",
