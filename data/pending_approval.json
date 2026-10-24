@@ -77003,9 +77003,14 @@
         "press": "한국전력신문",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JWGJPTlBDODVZUGdzd0t5d3otdkxGcHNaOEl6clAwVTNIRWxENTlpVW1xWVJqQ0p3NlZqR3Bma29MUlVGaXJYaHBsSS1UamNQN0QtSUZrNm4yY3hQVkFOWXpEczFsMTYzTEE?oc=5",
         "pub_date": "Fri, 23 Oct 2026 11:43:20 GMT"
+      },
+      {
+        "press": "www.koreasprint.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaTJQTVp2YkhaeE9KckZSQ2JvRDllSGh4d3I1YmRjeWlFRm0yUHp3V2h0SlZkbXR0Rkdkdk5YUGNsR0ZRei1KYThSdmdzRVczRzhIWFZYREpra2pfSTZIcm1vTm03QWlfY1RaaE9B?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 17:39:00 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "006260-실적-55975-20261021",
     "first_seen": "2026-10-21",
     "last_updated": "2026-10-24",
@@ -80937,12 +80942,17 @@
         "press": "데이터뉴스",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CdFhFWlFyMWhjOXhzR25MMVRfTlVKb2w0aEtJazl1VGlXUy1lNlhtNWVjUklhSTlCbFFQeUQwMnhhZ08wOXgxX3NIemU0ZnZ2NG4tVklqTFBlbHZfcEtB?oc=5",
         "pub_date": "Thu, 22 Oct 2026 23:24:33 GMT"
+      },
+      {
+        "press": "데이터뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheTN2YmdOQUJXMWFzSFV3RUZ2VG90RGZwSW96Z0ZnempOWEp5dVoxNjB6b0s3X1p0cHZGdi1sMC1SbEljMHpsU0hSbU9LaEJwd2piNnZZczlCY3F1LW9IeQ?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 23:24:33 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "207940-수주-58065-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -82683,6 +82693,78 @@
     ],
     "source_count": 1,
     "id": "207940-실적-59354-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 내년 역대급 배당 준다는데…주당 1만2000원 받을 수 있을까 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xSUxmQzFaVUtENXkyUjRsUkxHZ3Z3VTZkdHdFYjNyNUFBakNXYW5LSDVIQmhwWklsd2NNMUZmUGsxY0NMRkJfRGVkbUFMQ1htWWZ2dmRBa3JzUUFpSHd4Z2EwTXAydU82NHFiUTY0MS1BSnkxUmh6edIBeEFVX3lxTE9xSUxmQzFaVUtENXkyUjRsUkxHZ3Z3VTZkdHdFYjNyNUFBakNXYW5LSDVIQmhwWklsd2NNMUZmUGsxY0NMRkJfRGVkbUFMQ1htWWZ2dmRBa3JzUUFpSHd4Z2EwTXAydU82NHFiUTY0MS1BSnkxUmh6eQ?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 16:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-자본-59460-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한미반도체, 10월 셋째주 변동성 확대 18만원대 장 마감 - 중앙이코노미뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중앙이코노미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00Z0xiQnZTVXdWVXlVdnVvOXJWVnFLYlAyQVA4WFlhZ0lNcm5CM0hLRjdHQTAycW5CRi1LY01KSEc4THZybDhDNmlYOGFNMXA1TloxOHdFeVRZMUJZeDNqdUx1YXRkVEtVUEQ4UVhNbEhLUQ?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 02:48:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "042700-기타-59468-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한전선 김준석 신임 대표 취임…글로벌 사업 확대·차세대 전력망 경쟁력 강화 - 금융경제플러스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "금융경제플러스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DaUNoaFVOVWZFaXJWcnlmUTNTa3ZGa19Wdm53YW9fZTJQaHZ3cVZkYTNIN19WSnFXT0xUSlpfMEZ2NEIyTzdLOGdpX0pHV2hMV2plWFZvQldqd21Wbl9iY2ZBbHhrUGVkUlNXZw?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 07:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-기타-59471-20261024",
     "first_seen": "2026-10-24",
     "last_updated": "2026-10-24",
     "status": "일반",
