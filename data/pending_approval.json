@@ -79498,12 +79498,22 @@
         "press": "뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMGVtQjBaRV9ERzBiWE9SQU5uVUo0VjZhenRkQW1TYnRyVUJaZE9aUlhMOFgxOW9yaU90MTY3dW1CdDBod2lJQ0VCelB6ZTk5M0lCVUVMVU1JMzJJOUxicQ?oc=5",
         "pub_date": "Thu, 22 Oct 2026 00:30:22 GMT"
+      },
+      {
+        "press": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XeUt5RkZyMnQ2emJoRVN2elE4U0p5SWZDNmIwdG9Qakl2NTVFd2p6V1U1eHZqOUE3WkpxOFVjZFFUM1RXUDZFenJlVjVXbmJPQWVnV3B3?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 07:29:22 GMT"
+      },
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xVVRDdjBRQkotWFZ4dU1IN3NEWnJxRzFpRmwyVVh5MFU0aFI4TGwyU3BwQno5WUluUkxXV1RHbURfbzhKNTg3bGh4UmF6cjJKWHFPM3NDNFRpeUVKRWRGZFNMS1hRMTg0U3ljOTR30gFyQVVfeXFMUHZCNjRKVkZuaTZWNTJjZl84XzhWa2lhS3hwZ2FRdVBwWHRISnludUNoZnVXUDduVWpJSEFxOVJhSk9STUlWZldGa3hkT2JQMVJnMHRacXBQam9oNEhlcXJSU3E5WHhFdmR2VWJwYUdDRXZn?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 08:06:02 GMT"
       }
     ],
-    "source_count": 27,
+    "source_count": 29,
     "id": "000100-기타-57199-20261022",
     "first_seen": "2026-10-22",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -79784,9 +79794,14 @@
         "press": "전자신문",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WQkFGVmY2d3Z0dm5EaUNoV2NJYnNPMEVUWERvOVA2ekM1ZTUxckpsekVGbzlkR2JkeEV0MHdMczFBa05sRDRpTHlsbHdoZw?oc=5",
         "pub_date": "Thu, 22 Oct 2026 01:30:00 GMT"
+      },
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10VllXbkFtaS1vVFo3cGNjdmdySWhBYU96S25mMHdWYmZJXzlfTWVXaDhkQ18yVzNnWWdEdVhWUF9qTVdRWFdUa0J4ZE9uay1qOXRQQkdfTjBNNEEtdXppaHNvNGtzeXBCeUsxWVZ0cVAyd9IBckFVX3lxTE10VllXbkFtaS1vVFo3cGNjdmdySWhBYU96S25mMHdWYmZJXzlfTWVXaDhkQ18yVzNnWWdEdVhWUF9qTVdRWFdUa0J4ZE9uay1qOXRQQkdfTjBNNEEtdXppaHNvNGtzeXBCeUsxWVZ0cVAydw?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 06:52:10 GMT"
       }
     ],
-    "source_count": 34,
+    "source_count": 35,
     "id": "006400-기타-57222-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-24",
@@ -80262,9 +80277,14 @@
         "press": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDBIdDN0ZUFpNnhNRFJ4X083LXBDeTkyUnRyc1lSV25wLWtsbll6SHFVRU1WNTdwSVpUM0QwWHU2blYyLURFTDRJTmstcjJUZmRFcVJYVXlaMWtjeFNSUy1LQkJKOENwM252RXRNdnNWbjUwcV9fR1ZWamFFTFNRandtaEtXeDVfaG9SNnJySmRWNVpKQWlDNlV0UdIBmwFBVV95cUxPcDBIdDN0ZUFpNnhNRFJ4X083LXBDeTkyUnRyc1lSV25wLWtsbll6SHFVRU1WNTdwSVpUM0QwWHU2blYyLURFTDRJTmstcjJUZmRFcVJYVXlaMWtjeFNSUy1LQkJKOENwM252RXRNdnNWbjUwcV9fR1ZWamFFTFNRandtaEtXeDVfaG9SNnJySmRWNVpKQWlDNlV0UQ?oc=5",
         "pub_date": "Thu, 22 Oct 2026 06:17:00 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVYxV0VDX09JRTY4Mzk3QWtkaHNOMlJmeWpCN1FoMFROVE5DX2RRM3FFZnhYUjc2WWRCLWZoOTNKZE9aQ0Z4RHk2eTRRNmd2bE84V200QjhPVURfb29TUDlFZUtUY2Qwc3M4bTVwdjVNN002SEt3SGNHRkUyVHRtRmFPVmk5YWfSAZsBQVVfeXFMT3AwSHQzdGVBaTZ4TURSeF9PNy1wQ3k5MlJ0cnNZUlducC1rbG5ZekhxVUVNVjU3cElaVDNEMFh1Nm5WMi1ERUw0SU5rLXIyVGZkRXFSWFV5WjFrY3hTUlMtS0JCSjhDcDNudkV0TXZzVm41MHFfX0dWVmphRUxTUWp3bWhLV3g1X2hvUjZyckpkVjVaSkFpQzZVdFE?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 12:30:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "087010-바이오-57556-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-24",
@@ -80291,7 +80311,7 @@
     "source_count": 1,
     "id": "000100-바이오-57576-20261022",
     "first_seen": "2026-10-22",
-    "last_updated": "2026-10-22",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -80435,12 +80455,17 @@
         "press": "그린포스트코리아",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJa2hkUVlNbC1yZW9RMzdoZ0FKUDVGQjA2blZlT1ktQWFncEFHRnFpbFhXSnBrYkVXdmxGeGROQWUwVDJqWDBqTDRtT3lWTXRCOElsR0tXN3hsY2plNTdDdWFGUDJnU0JOZFRfTTJqaEpTdjYyVnpzVEp30gF6QVVfeXFMUElraGRRWU1sLXJlb1EzN2hnQUpQNUZCMDZuVmVPWS1BYWdwQUdGcWlsWFdKcGtiRVd2bEZ4ZE5BZTBUMmpYMGpMNG1PeVZNdEI4SWxHS1c3eGxjamU1N0N1YUZQMmdTQk5kVF9NMmpoSlN2NjJWenNUSnc?oc=5",
         "pub_date": "Thu, 22 Oct 2026 08:48:56 GMT"
+      },
+      {
+        "press": "그린포스트코리아",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTTZIWUthMnhqdUVnV3BiNWdwNXNzNkc3c3U2bXJjTmpnZXVnODA5QVJGR25lam1hQ01rbmhhOFVZMkRkTGJvZkpiQ1h0dU5ObEFKaHN4aXR5THV6R1RULUFfZW82Y3dsekxRR3l2SUZCd3RqbGfSAXpBVV95cUxQSWtoZFFZTWwtcmVvUTM3aGdBSlA1RkIwNm5WZU9ZLUFhZ3BBR0ZxaWxYV0pwa2JFV3ZsRnhkTkFlMFQyalgwakw0bU95Vk10QjhJbEdLVzd4bGNqZTU3Q3VhRlAyZ1NCTmRUX00yamhKU3Y2MlZ6c1RKdw?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 08:48:56 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006260-실적-57737-20261022",
     "first_seen": "2026-10-22",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -80560,7 +80585,7 @@
     "source_count": 1,
     "id": "214450-기타-57840-20261022",
     "first_seen": "2026-10-22",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -80734,7 +80759,7 @@
     "source_count": 1,
     "id": "009150-기타-58010-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -81082,7 +81107,7 @@
     "source_count": 10,
     "id": "003670-기타-58104-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -81547,7 +81572,7 @@
     "source_count": 1,
     "id": "000720-기타-58294-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -81615,7 +81640,7 @@
     "source_count": 1,
     "id": "052690-기타-58302-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -81740,7 +81765,7 @@
     "source_count": 1,
     "id": "068270-기타-58380-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -81788,7 +81813,7 @@
     "source_count": 1,
     "id": "000100-기타-58413-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "status": "일반",
     "stale": false
   },
@@ -82312,9 +82337,14 @@
         "press": "전자신문",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QUWN3bGlkTFNnNVR2cy1ORUFTemp0Z1Npb1hYaUNxZWExSTB4LTI4TzBISTY4SDFYemFWbE0yV1Y0ZGRya1UzZ3hzc3R6QQ?oc=5",
         "pub_date": "Thu, 22 Oct 2026 02:33:23 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85ZzkyM21Fckp5bm1uX2gyNFNkeDJMVDRyV25TN3VDX1R4TzNtd0MwaXRheE9peXZKWEQzR3p5c0J4QWN2VXpWTy1YLVhXb3l0U21va016ZThCMVZoZU9GUEFFaE9WTXc?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 14:23:01 GMT"
       }
     ],
-    "source_count": 11,
+    "source_count": 12,
     "id": "000100-기술-58964-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-24",
@@ -82412,6 +82442,83 @@
     ],
     "source_count": 1,
     "id": "372320-정책-59084-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[위클리 PICK 3] 10월 수출 '616억 달러' 돌파부터 SK하이닉스 솔리다임 IPO 철회까지 - 오피니언뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "오피니언뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sdkdkS3ptRzk1dEVjSEVnQ1hIQmU1WjFQQkhMQ0tsU0VBZzFUT1UyYURST2N6RS0ybzdpVm81WHhLSkotXzBPQVpKSi1pWG9kVExOdXRDbEY4ZG1YM1d2dGg4TVdlMEJjYk5PSVlvMWtxZw?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 00:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-59108-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "현대건설, 노후 아파트 개선 사업 확대…현대리바트와 업무협약 - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSREV3bngxUVRlSU5QMTVVOGplYU1qM0lrR3cwYlFSeEdOU0Eyb0JyMmdsU2o3TXg4TTZyVTJSTkVJdVYya0NWT1p5QjE0ODlSRUttc0FDTUxPczQ?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 01:00:26 GMT"
+      },
+      {
+        "press": "디벨로퍼뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TldQSHpXOTZfUUF5Q3BVd2tYLVB2S3Q5aUVNVHlBSVU5MnB4Q3ZlbUY1b0FFS2dXbzdIRmFDUVdyWkxjdjR3RGEyX2RKMDN6QTFGdGZRQzFfcnB2cWoyUDVINFlIdDBU?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 00:50:57 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000720-기타-59183-20261024",
+    "first_seen": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI, 국제화학올림피아드 대표단 후원... HD현대重, 세계 최대 암모니아 추진선 건조 외 [시경Today-배터리·조선·항공·소재] - 시장경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "시장경제신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fWGltOTBHdlNlR3NkMUJYM1M1TGxXNkpIUDF6dWx0V0wwTk1aY3c4cFBhaWpxY3FKMGpnQUdFZDlOS0lxTkJ1QW4tTjJCUHVmVDBaYjdkdjdHcjNkTWRHemVxeG5EVWZHUnlHMzBHRUM?oc=5",
+        "pub_date": "Thu, 22 Oct 2026 09:02:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-기타-59235-20261024",
     "first_seen": "2026-10-24",
     "last_updated": "2026-10-24",
     "status": "일반",
