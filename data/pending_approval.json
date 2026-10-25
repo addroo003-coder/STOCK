@@ -81661,9 +81661,14 @@
         "press": "한국원자력신문",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xOWQxVG5uM1A3eVRaa0Ffa0FENF9QX0lSTnQwLWZJd3V6MzI3d0hsV0NLTjFVa2VxNmhEbzF3cVZfR1dneEFMUjdvanRUUFdCcGZWRlU5bmZDa3k1Ul9ib25NTXM3ZnY2Ukhj0gFrQVVfeXFMTTE5ZDFUbm4zUDd5VFprQV9rQUQ0X1BfSVJOdDAtZkl3dXozMjd3SGxXQ0tOMVVrZXE2aERvMXdxVl9HV2d4QUxSN29qdFRQV0JwZlZGVTluZkNreTVSX2Jvbk1NczdmdjZSSGM?oc=5",
         "pub_date": "Sat, 24 Oct 2026 09:05:33 GMT"
+      },
+      {
+        "press": "스마트비즈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOC1nQlF4VlFjdlRyUU1TMXRZbVJmclZqcUpyT2tnWENXYi04eTVPZE14NEdaREhFZHUzc2ozeEwtZHRSbktPTktXcWhnNEJWQ3lGQWU3ZFJ4QVZpM3kxMDdxZGZCeEdQNTZKXw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 14:24:48 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "052690-기타-58299-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-25",
@@ -83144,9 +83149,14 @@
         "press": "뉴스프리존",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lZk9Wa0p6UzRpZ3RlZjVCcHJCcDlLRFBJVzFnc0xJZk5HUkFHWElpZE9CSVl0MC0tdW9zcVNfVjNKbGJnbVFxM2hjTWtqaWlFSGdNMDZCel9VOS1XUjVkWkc2OHRONDdTaDZjMzJ4VDJQX1ZVQjhF0gF3QVVfeXFMTWVmT1ZrSnpTNGlndGVmNUJwckJwOUtEUElXMWdzTElmTkdSQUdYSWlkT0JJWXQwLS11b3NxU19WM0psYmdtUXEzaGNNa2ppaUVIZ00wNkJ6X1U5LVdSNWRaRzY4dE40N1NoNmMzMnhUMlBfVlVCOEU?oc=5",
         "pub_date": "Sat, 24 Oct 2026 23:29:23 GMT"
+      },
+      {
+        "press": "뉴스프리존",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uSXBHdkVuXzVMMkVVbkVjdWp0V01lWUNRTjBmaHhjeEU4VnYxWnZHcUwyVEtRN1E4NUNabGx1cUt6SmdCTWtPLUZncGdIM3BWZHozUFB1cmVxVXlmQkdMR0FNVG1ZY1o3aHF0eEl1b3RFOXfSAXdBVV95cUxNZWZPVmtKelM0aWd0ZWY1QnByQnA5S0RQSVcxZ3NMSWZOR1JBR1hJaWRPQklZdDAtLXVvc3FTX1YzSmxiZ21RcTNoY01ramlpRUhnTTA2QnpfVTktV1I1ZFpHNjh0TjQ3U2g2YzMyeFQyUF9WVUI4RQ?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 23:00:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-59744-20261025",
     "first_seen": "2026-10-25",
     "last_updated": "2026-10-25",
@@ -83476,6 +83486,198 @@
     ],
     "source_count": 1,
     "id": "000100-기타-60012-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "오픈엣지테크놀로지",
+    "stock_code": "394280",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "오픈엣지테크놀로지 거래량 65.1% 감소…주가 11.8% 하락 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yOVlyaG5Pa2hIVDZUa25LcU5MWmRDa1lqNXU1VWlmdG9ySFNIWmN1TlV6X1dsOW5iRW5qSU9LanowOFkza2VZeDBKLXU1bzFQdmJ6dWhrbU1hcVJxem5rQzlvWmx1QQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 13:16:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "394280-기타-60064-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "적정가치 경고 이후 삼성전기 주가 45% 급락 - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03MVpYVnJoTS01YnRJMW1OQXUzMzl0TXNxbVV0S2FPdW84ZTRweENzMWlQb3hlcVJxZjgySFlYeWlLZUx3MGo3b1U1RldqTXRqUU9RZDJ2LUVKajZ4WkMzY2lZR0tobkwzOXZ5cWh3N3JLRnNWSGc?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 11:46:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-60065-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "심텍",
+    "stock_code": "222800",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "심텍홀딩스 23일 3385원 마감…주간 거래량 57% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LVGZ4Wl9CX1UtV3ZCMXdYZF90VWlEa0NSY181SG9RZ0FCSlJmVGdLenEwWEtWZzdyTlliMm5GZlA0V1Fyb21NQm1Gdy15YmFYSldyQkxfclI2eGFnU2RPYU1VbkRuZw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 13:50:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222800-기타-60068-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에스비비테크",
+    "stock_code": "389500",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에스비비테크 주간 거래량 44.4% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UbGU0QnVFX3d6U3pZdXpJWmdWYWJjYjRISWxvQ0E5c0hXcnZiM3RiTEN3SzhITDRkREtUWExMQXZYUTVrdXpFRlVBZEU3MUZnNGJaRGlBY0N0NVZVTjlZRFZiX2JFQQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 12:02:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "389500-기타-60091-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대리바트, 현대건설과 업무협약 체결 - 비즈트리뷴",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pY0ZMb3JmbE5BTHllR3JadzRraHBUMmdMeWoyNHN6Z0xuM2pRTkQ3UWpPbENGU1pTQ0NkUS1xdU9ZUVhiaU9ZYi1GVWYzRGh5RjJ5UDhHUlpOazQ0LTJwdXRmM00td3hVelRYcFkwOFU?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 12:31:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-60098-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "우진 주간 거래량 51만주…전주보다 56.4% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwajJHS1c3RzJteFBZWXVTbW5QQ1p2clFxSl9CNlplQmtjREM1ZVN3eEdpcGIweTJpQVlFdFQ5Qnc0QlZicWZUUk9vSVpNOThsUmpFUUZ0R3lKeklOTnI2VngtZ0dKZw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 12:27:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "105840-기타-60105-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비츠로테크",
+    "stock_code": "042370",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "비츠로테크 주간 거래량 51% 감소…주가 10.3% 하락 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92VlhHdXZEQWFHT3JQc0RiQ1ZwQlZRYThOdVdobk9YYzh5bXdUYUF0NDEtdmpacmJTbDBKbnRua20yMzRaRHZJSEl6NGJHYXhNdU9mOTdPd0VGWlptTV80UlhmbG8xdw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 11:41:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "042370-기타-60106-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 항APRIL 항체 최대 7695억원 계약 - 제주교통복지신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "제주교통복지신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4WTNTbVJhOW5SdVFwT0hRVG5tWVZTT1hESFBhZTZOX3lDcUQ1ZV9iSGp2V2FtYjF2V3huWEJ5MHBzSUJXMi00QU44S1VrejNyc0F4dXRwWjJ4WUhCYzZMQw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 14:34:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-60124-20261025",
     "first_seen": "2026-10-25",
     "last_updated": "2026-10-25",
     "status": "일반",
