@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "이재용 회장 취임 4년… AI 메모리 경쟁력 회복 발판 마련",
-      "office": "동아일보",
+      "title": "이재용, 위기 속 '뚝심 투자'…반도체 발판 신사업 빅딜 기대감",
+      "office": "이데일리",
       "date": "20261026",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757477"
+      "url": "https://n.news.naver.com/mnews/article/018/0006395978"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "이재용 회장 취임 4년… AI 메모리 경쟁력 회복 발판 마련",
-      "office": "동아일보",
+      "title": "삼성전자·SK하이닉스, 메모리 호황 타고 3Q 합산 영업익 '180조' 넘나",
+      "office": "뉴시스",
       "date": "20261026",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757477"
+      "url": "https://n.news.naver.com/mnews/article/003/0014277130"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -389,10 +389,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "'근원 경쟁력' 회복한 삼성…AI 전환·미래 투자 속도전",
-      "office": "한국경제",
-      "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346261"
+      "title": "배터리 공급망 현지화 전략… 탄소중립 앞장",
+      "office": "동아일보",
+      "date": "20261026",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757529"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -851,10 +851,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
-      "title": "[공모주달력]AI·반도체소부장·로봇주 줄줄이 수요예측",
-      "office": "비즈워치",
+      "title": "AI 반도체 무한경쟁시대 시험대 오른 소부장 산업 [비즈앤피플]",
+      "office": "부산일보",
       "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051906"
+      "url": "https://n.news.naver.com/mnews/article/082/0001403871"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/240810/news"
   },
@@ -1383,10 +1383,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "코트라, 독일 MBDA 방한 초청 수출설명회…“커지는 유럽 방산 공급망...",
-      "office": "디지털타임스",
-      "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/029/0003055041"
+      "title": "KAI, 국가 안보 넘어 ‘공존 날개’까지 달았다",
+      "office": "동아일보",
+      "date": "20261026",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757534"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
-      "office": "YTN",
-      "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/052/0002423545"
+      "title": "삼성전자·SK하이닉스, 메모리 호황 타고 3Q 합산 영업익 '180조' 넘나",
+      "office": "뉴시스",
+      "date": "20261026",
+      "url": "https://n.news.naver.com/mnews/article/003/0014277130"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
