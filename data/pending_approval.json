@@ -78024,12 +78024,17 @@
         "press": "히트뉴스",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LNDZxT3E4ZDdabGRVWGRfQm90Z0RZWVRsZDc2emljZTAxcWhVVHZyR0RJTEZtM09qZ3ByUm1FSWNtNWFiZW0weXJrSUN5NHdSNGhTX0RvOFRKa0VCUnF1Y3hRdm1UQ19LNkpr?oc=5",
         "pub_date": "Wed, 21 Oct 2026 07:08:35 GMT"
+      },
+      {
+        "press": "쿠키뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14TmNtRnItRk1EbTdqYllPTkd6VDhjMWNuS1kwQUtNTUliWURqc1JUd25ZZm0wT2F0V0QxaVNoZmxyR0FKTksxS2lFczhmWmx6MzZNVDFERkV3U3Bvck9vVGlOWQ?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 20:49:58 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "207940-실적-56453-20261021",
     "first_seen": "2026-10-21",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-25",
     "status": "일반",
     "stale": false
   },
@@ -82121,7 +82126,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온, 日 꽃가루 알레르기 시장 공략…‘옴리클로’ 처방 확대 노린다 - 쿠키메디",
     "source_type": "news",
@@ -82130,12 +82135,17 @@
         "press": "쿠키메디",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ySzNObXNKZC1mTkJYSnJ1MklSbUFDM3BqN3BnR0lUaXNlNlRMUGJJU0tLYzRLSnNuaG1Xa2MtRzVkQm1ja2JlaHp3bl9yd2VDZjQyUzhRUzJsSV9WRmRESUgwYw?oc=5",
         "pub_date": "Fri, 23 Oct 2026 09:29:47 GMT"
+      },
+      {
+        "press": "쿠키뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQVC02d1dQZHkzYnN5RUhhX095NFhMN19jVURWbDAxSlc4eUI4OGVCN0c3TzhCLTV4bklWYWRsOC03cFpjdGF2OU9aVHlaVThlb0VfQ1J4YlZScDYwaUtSdzNfQQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 14:49:59 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-58766-20261023",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-25",
     "status": "일반",
     "stale": false
   },
@@ -83774,6 +83784,102 @@
     ],
     "source_count": 1,
     "id": "005930-기타-60203-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[SK, 솔리다임 상장 철회]① 솔리다임 IPO 접은 SK하이닉스, 주주가치 챙긴다 - 대한경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "대한경제",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aa3EteWlEelVmNFl0SUFDUkUwMVExNFM0SVpDTm9vbmdfd1VudVRQNDNld1pXdDJYY2dSRWVtTGtPb3pzelNoMWlZUll3cVl6STNyZWNpV3UwYzB6SzJHMjV4X3VqbUR0QmhDRENXeEE2UjJH?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 20:20:22 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-60244-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"SK하이닉스, 솔리다임 IPO 철회로 주주환원 강화 기대\"-메리츠 - 한국경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55eFF2bVAxRnc5QkJZcHFHRXYtZEJGSjk3dUI3U3FsX013U1YzRG1wbXo1Uy1aTnRZeHVWaGkzT1BBNVR5UHYydUg5M3laRlFlNEtXRXZWLXN5UQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 22:46:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-60246-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "정책",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[단독] LS일렉트릭, 정부부터 개인까지 소송만 30여건…'사방이 적' - 오늘경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "오늘경제",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5WnpnU1gySW96Z0E5UXdydHMzM3h0czRkdjNBa0lWdHI5ak8xbTVtcFhhRkZvTTM5MXU1a3JpekFpMmtHM21IVTRqTHVObktqZXFLdVRQdkU2STlhdFJkbHh5ckgtXzM4d0dyMkhwS1lQaWM?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-정책-60274-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭, 美 데이터센터 전력설비 1689억원 추가 수주…공급 확대 - 쿠키뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "쿠키뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuSmFMTGVaZWIwVmJCbTdiWS1XUnVGM2I4VkhYM2NwaHhtM0ZoMUhEbzY5ZUtTTW1BQ1dUMVZXSFVEVWZKM3NJZ0lycEdhZDB3NWRDX1NiaDVsN0NKQlRjb1kyWQ?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 21:04:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-수주-60275-20261025",
     "first_seen": "2026-10-25",
     "last_updated": "2026-10-25",
     "status": "일반",
