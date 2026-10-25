@@ -2991,6 +2991,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "357780-기타-60208-20261025",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "[빅데이터로본다] 정기예금 2026년 10월 브랜드평판... 1위 SBI저축은행 정기예금, 2위 농협은행 정기예금, 3위 케이뱅크 정기예금 - 일간투데이",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Q284Sl80a0NzeGZJNm5VSS03Nmh4emo3S1ZEX0drcDlqdmJwUVJEYkIzTmxDT1ljSWQzbkJaUXVsV29zbk9GM2Q1WUhweUlYUktFNjRDRjZ3NXlaRzVXRmVVb19TTlhYT1Fr?oc=5",
+          "pub_date": "Sun, 25 Oct 2026 19:15:00 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "stale": false
+    },
+    {
       "id": "357780-기타-141-20260827",
       "category": "기타",
       "direction": "중립",
@@ -3216,28 +3238,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrQnFsUjBYdUlFaWczcUxxZnpRVk52bElnZTc5NUdXTzR0RHVFYjV3M1h6MTRTUUdkNm1qdXZqdlBWOXZzejFpampUcGVqeF9wTlQ3NHI5YVdvSmFJM2k3TldLV2RldkVZWUFCWm5oX1lvRm_SAXdBVV95cUxPS3JuXy1HQzk2TzFkOWFyVkFiX2hWMjZkYnFLbC1OQkd5YVd1aHpHdDhTNmthWlRGaVlOZklVQnloNTFyV0JZRDg3bVlpLUpCUFluX0NTU2cxd2VraFF2c2lvSW9CSEdobTh5enl2cEg5LXlkalluSQ?oc=5",
           "pub_date": "Thu, 22 Oct 2026 06:16:08 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-10-23",
-      "last_updated": "2026-10-24",
-      "stale": false
-    },
-    {
-      "id": "357780-증설-58536-20261023",
-      "category": "증설",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "[서치 e종목] 도우인시스, 공장 가동률 상승·수율 개선 등으로 주가 상승 이어갈까 - 데일리인베스트",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "데일리인베스트",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpTjhNZlNhTjZHRkhnbjhreV91enRxbzhrRGJwYTV4UVFfV2tZdDNkaXB3SzRuQWJVWlNqd2dfUGFTbkxwZGtxb3V0N2M2S2NQa3pyUDFXNDM4aklwODUtSHAyNFFJTHF2YXc4RtIBb0FVX3lxTFB1Rm1DOWpkelVJY1J1d2RtNWpzTzVMTEFrTHhVZUZLSG1DZ0V0OUtMTzNqX1hIOXpEckhrVUNrVHpELWJhSG9NRmhuTDh4RUZZOHBYZTVSX3QzUlpIRGsyUTdQQXpDeC12ejlsSkFoUQ?oc=5",
-          "pub_date": "Thu, 22 Oct 2026 23:05:00 GMT"
         }
       ],
       "source_count": 1,
@@ -6718,9 +6718,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mU1VHODlYRkdfZm1mVGxLc2FCVEhYODlxMWZKUXotdGxGVF9yc2FMRVB4bkJsQmtQaUxlU1FVVUFpNmhuS0lfQzRxU0JWQm8wN1gtUDNkdGw3VHBKaXhBejJiYzBMRjZZckJ5UHFSVG9BOF85cmlz0gF3QVVfeXFMTmZTVUc4OVhGR19mbWZUbEtzYUJUSFg4OXExZkpRei10bEZUX3JzYUxFUHhuQmxCa1BpTGVTUVVVQWk2aG5LSV9DNHFTQlZCbzA3WC1QM2R0bDdUcEppeEF6MmJjMExGNllyQnlQcVJUb0E4XzlyaXM?oc=5",
           "pub_date": "Sat, 24 Oct 2026 06:06:47 GMT"
+        },
+        {
+          "press": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWV0Jld2ZXblBXREtjaGZQcXZBLWpodnNKbUJOWjI1OUdyNS1tN05YdXZvb0VHWTNzak15OTBzd3ExdkduTXRJSnFvdHZuSmNjSXA2M3B5RG5JenB4WURuaEpPa3JiTVN0T3NtdVBHRTlRV0nSAXdBVV95cUxOZlNVRzg5WEZHX2ZtZlRsS3NhQlRIWDg5cTFmSlF6LXRsRlRfcnNhTEVQeG5CbEJrUGlMZVNRVVVBaTZobktJX0M0cVNCVkJvMDdYLVAzZHRsN1RwSml4QXoyYmMwTEY2WXJCeVBxUlRvQThfOXJpcw?oc=5",
+          "pub_date": "Sat, 24 Oct 2026 05:57:08 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-10-24",
       "last_updated": "2026-10-25",
       "stale": false
@@ -12775,6 +12780,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "247540-기타-18826-20260912",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "1.2조 유증에 ‘급락’ 에코프로비엠…긍정론 나온 이유는? [종목콬!] - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoT0ExUWFzZ09tbnpkYXRELTZmRXN5Ty1lWWJ0VndsNG9JeEJoY19ZZmVDM1lYYVZQVjhHck0wX0FldXd3YWpMQmlLYTMzd0xPSkpWRHdrQXV0ZkJ5ZlpWVzUwOA?oc=5",
+          "pub_date": "Fri, 11 Sep 2026 19:39:05 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-10-25",
+      "stale": false
+    },
+    {
       "id": "247540-기타-25802-20260918",
       "category": "기타",
       "direction": "중립",
@@ -12919,28 +12946,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         {
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000367",
-          "pub_date": "20261023"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-10-23",
-      "last_updated": "2026-10-25",
-      "stale": false
-    },
-    {
-      "id": "247540-기타-58467-20261023",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "확정",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "증권발행결과(자율공시)              ",
-      "source_type": "dart",
-      "sources": [
-        {
-          "press": "DART",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900714",
           "pub_date": "20261023"
         }
       ],
@@ -17814,6 +17819,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "034020-기타-40201-20261004",
+      "category": "기타",
+      "direction": "긍정",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": true,
+      "headline": "경남창조경제혁신센터·두산에너빌리티, 오픈이노베이션 협약 체결 - 쿠키뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GaUxRVFRHN0pMa3dXbGpDcnQ5NTlpbnBPenRiaXlfS25nUGVpR1R0NWtXTTMzVGpvcEZoWmJNNkdodlBoSXAtQU4tQXhnRE9nbDFFV0Vmak9VNURBb0VYaUtGZw?oc=5",
+          "pub_date": "Sat, 03 Oct 2026 01:44:57 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-10-04",
+      "last_updated": "2026-10-25",
+      "stale": false
+    },
+    {
       "id": "034020-기타-43966-20261008",
       "category": "기타",
       "direction": "중립",
@@ -18099,28 +18126,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 3,
-      "first_seen": "2026-10-23",
-      "last_updated": "2026-10-25",
-      "stale": false
-    },
-    {
-      "id": "034020-기타-58248-20261023",
-      "category": "기타",
-      "direction": "부정",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": true,
-      "headline": "미국 증시 기술주 부진 속 국내 원전주 동반 하락…두산에너빌리티 3%대 약세,우리기술 한전기술 하락 - CBC뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLY2lVZm42YmszbzBOQmNuLURFRXlGT1VrR1J5QXliekw1c19jbWk1VTFURnhCcW5GRlFTRlJvdXZKbVprbnNkdVVmY01DUVpDZk0yRXlQNTdxT3FKRWV1bG9tWlVDc1dw?oc=5",
-          "pub_date": "Fri, 23 Oct 2026 01:48:02 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-10-23",
       "last_updated": "2026-10-25",
       "stale": false
@@ -22554,6 +22559,28 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "우진엔텍": [
     {
+      "id": "457550-기타-60219-20261025",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "우진엔텍 거래 재개…실질심사 제외 결정 배경 - 비건뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "비건뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zN3ozNUpxeTFsWkJidmRsenFNMjVWcHFKbzJ4a1YyS1J6Z3JUcUlrVXdILTFDQ3NRV3dQNVJUNFlnZ0ZvaVZ6Vlc4aWJMVS1JbjA3WDVQcXNlNFgtVndQa1NoZ2ktdw?oc=5",
+          "pub_date": "Sun, 25 Oct 2026 18:25:53 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "stale": false
+    },
+    {
       "id": "457550-수주-54336-20261019",
       "category": "수주",
       "direction": "중립",
@@ -22770,28 +22797,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "CBC뉴스",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Dd2dzTVNCMlY5YjlrSTNzTFRmU2dRVUlVRmhyM0xYaUFaWm9oVlRXc2Z4Y0JXQVRHeUJEOXlPdmQtX1hIcFhiUG9HcE1HLWNPV0g2Q05ZUzVob2xwNkVXUUdkdEVkVFF0?oc=5",
           "pub_date": "Mon, 19 Oct 2026 00:08:53 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-10-19",
-      "last_updated": "2026-10-21",
-      "stale": false
-    },
-    {
-      "id": "457550-기타-53705-20261019",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "두산에너빌리티 2.94% 하락…원전주 대체로 약세 - 비건뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "비건뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UDdkejVrSFo4RDZNSzhUeW5TRGRlbXN0TnNVTHlQX21QN2xlMXRfeGc1emhjTldMU2otc0hoSkhLVVItQUtBZDJnMG0wMWJyNWFoWkhHaXJoSlpKV0J4anNrZ2F5UQ?oc=5",
-          "pub_date": "Mon, 19 Oct 2026 03:53:05 GMT"
         }
       ],
       "source_count": 1,
@@ -25655,6 +25660,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "000100-기타-52414-20261018",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "유한양행, 창업 100주년 맞아 고향 예천서 유일한 박사 공덕비 제막 - 아이뉴스24",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nVjltc3BWSm9BNG5jZG96ZmdKMW5mcEktejZuWkhNaVJfWjgtLThVVlVkSm56VHZpRWV0MjdFUG9rOFZLd0JTV1FPdmU?oc=5",
+          "pub_date": "Sun, 18 Oct 2026 05:26:44 GMT"
+        },
+        {
+          "press": "안동MBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45V0lGekNXT201RktHdGt4ejM4WkQxa3Bhd09JTTJnSF9GNmZTSGFoVGtnQkJxN3ZHZ1htVUh5Z2xZM001UXdjUjJwYUFWUW51ZTVXQjdzVHl4YTFOSS1nMjlQaUJhNThH?oc=5",
+          "pub_date": "Mon, 19 Oct 2026 12:45:58 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-25",
+      "stale": false
+    },
+    {
       "id": "000100-기타-58412-20261023",
       "category": "기타",
       "direction": "중립",
@@ -25825,28 +25857,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 12,
-      "first_seen": "2026-10-23",
-      "last_updated": "2026-10-25",
-      "stale": false
-    },
-    {
-      "id": "000100-기타-59004-20261023",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "[제약·바이오 트렌드] 유한양행, 창립 100주년 기념 ‘유한양행 100년사’ 발간 - 베이비뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "베이비뉴스",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85T01qUkljOVRKMldTRU1IYm8yTUt6NVpKLTJnWUE2c3VfZzFMR3Y2cng1Tnpmd1ZTRHY3X282U1hvc0w2TEpoZFU5ODEyVVc0TlNBbnJrVTE4Mjh6MWJ3a3V2RlJ2XzFJalJzRQ?oc=5",
-          "pub_date": "Fri, 23 Oct 2026 21:01:37 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-10-23",
       "last_updated": "2026-10-25",
       "stale": false

@@ -53271,7 +53271,7 @@
     "source_count": 1,
     "id": "034020-기타-40201-20261004",
     "first_seen": "2026-10-04",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-25",
     "status": "일반",
     "stale": false
   },
@@ -83750,6 +83750,30 @@
     ],
     "source_count": 1,
     "id": "006260-기타-60167-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 반도체 설계부터 생산까지 AI 혁신…글로벌 협력 확대 [혁신경영] - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1VW1maFhPdlJRTERIcTVqY2tZU1dUcjNzSlhGZXlHWndReUJTR1Q4WEZwLVNmdXRnZ1BKYUViekprdVFNMHREYXFoLW5xdDgtMnpNRA?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 20:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-60203-20261025",
     "first_seen": "2026-10-25",
     "last_updated": "2026-10-25",
     "status": "일반",
