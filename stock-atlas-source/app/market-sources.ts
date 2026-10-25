@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "이재용 삼성전자 회장 취임 4주년…AI 메모리 경쟁력 회복 발판 마련",
+      "title": "이재용 회장 취임 4년… AI 메모리 경쟁력 회복 발판 마련",
       "office": "동아일보",
-      "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757427"
+      "date": "20261026",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757477"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "이재용 삼성전자 회장 취임 4주년…AI 메모리 경쟁력 회복 발판 마련",
+      "title": "이재용 회장 취임 4년… AI 메모리 경쟁력 회복 발판 마련",
       "office": "동아일보",
-      "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757427"
+      "date": "20261026",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757477"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "이재용 삼성전자 회장 취임 4주년…AI 메모리 경쟁력 회복 발판 마련",
+      "title": "이재용 회장 취임 4년… AI 메모리 경쟁력 회복 발판 마련",
       "office": "동아일보",
-      "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757427"
+      "date": "20261026",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757477"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -389,10 +389,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "삼성 GSAT 실시…\"반도체·AI·바이오 인재 채용 확대\"",
+      "title": "'근원 경쟁력' 회복한 삼성…AI 전환·미래 투자 속도전",
       "office": "한국경제",
       "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346260"
+      "url": "https://n.news.naver.com/mnews/article/015/0005346261"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 솔리다임 IPO 검토 중단…실적발표서 투자 재원 해법 내놓...",
-      "office": "뉴시스",
+      "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
+      "office": "YTN",
       "date": "20261025",
-      "url": "https://n.news.naver.com/mnews/article/003/0014277042"
+      "url": "https://n.news.naver.com/mnews/article/052/0002423545"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
