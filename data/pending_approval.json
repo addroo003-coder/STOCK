@@ -80196,9 +80196,14 @@
         "press": "MEDI:GATE NEWS",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rM1BueHF2UlpBN2llMVdhN2JGQWpKckczUXVGVzBubmVGdVNTTUZYMnl3ZmpzaUQybXRFN3M5S2xkUHFfWWE3emt2cy1Bc3hyX1E?oc=5",
         "pub_date": "Thu, 22 Oct 2026 10:04:00 GMT"
+      },
+      {
+        "press": "SR타임스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GanYyZVNNWTNsektrbkQ4eXRWMXBKMDhPQUM4dGRGa2FHME00eFRudEhtRlVRWVd1S0ttTE1jU1VxaDI1NE5iV05Zbi1KZUwzQ1FoRlBzNjd0R1JWdnVDNzR6eXY4Q2w40gFrQVVfeXFMUDdVeTdBQjN1Z2l6WFRnV2NWMDVBNmthckJMWnJDVWc5YWVMZTJPOWRMVUJtaXJrZ0hleGdNYXR5RUV6OHktRlcxZlBoSFVOV3JaWlYySHl6SkVjWFhaeEVvbzZ5MlN6bm9ZNTA?oc=5",
+        "pub_date": "Fri, 23 Oct 2026 07:19:40 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 7,
     "id": "068270-기타-57529-20261022",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-25",
@@ -81695,7 +81700,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[단독] '참교육' 우진엄마 박지연, 이준익 신작 '반딧불이' 합류…'열일' - 뉴스1",
     "source_type": "news",
@@ -81704,9 +81709,14 @@
         "press": "뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyVUtRTFFFMGJDaUtTRUNIaW92X1g1bkR2QmwyNmdsdGp4cHNqU0RFWDRLUkxta3RKZmxpYUZjS3ZYZWM3YkluRnd4WGV3aExaTWR2dFhGaw?oc=5",
         "pub_date": "Fri, 23 Oct 2026 01:57:21 GMT"
+      },
+      {
+        "press": "박스뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nYXpZUTRNM2FfcVVVWUQ4ZXdIZENkVGtYT1BtTlZlV0lKeGktS2pUTGF5UmFVeHlwU1h4N3VNYlJJWkkwNHVPTE1GbTN5OExLZFh4OUFlWXRnOUtFbENVUXBocjIwYnU5eURz?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 01:32:56 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "105840-기타-58319-20261023",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-25",
@@ -82891,6 +82901,247 @@
     ],
     "source_count": 1,
     "id": "068270-기술-59618-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[ZD브리핑] 최대 실적 SK하이닉스‧삼성전자…주가 견인할까 - 지디넷코리아",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43YkthM2d2b2FWTU5hMm5PUmhwM2k3M1I0ZkQ3ZE84c0ZlOE44UVBWWmZKUmdMdXI0eWZRUlFvbVVMS2NSR2xUdWhKbDctRWVGSzY0Wjln?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 04:56:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-59652-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[ZD브리핑] 최대 실적 SK하이닉스‧삼성전자…주가 견인할까 - 지디넷코리아",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43YkthM2d2b2FWTU5hMm5PUmhwM2k3M1I0ZkQ3ZE84c0ZlOE44UVBWWmZKUmdMdXI0eWZRUlFvbVVMS2NSR2xUdWhKbDctRWVGSzY0Wjln?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 04:56:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-59661-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 솔리다임 나스닥 상장 철회… 증권가 “코리아 디스카운트 우려 완화” - 세계일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "세계일보",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51bVpJaHF0bVpjdUVZc28tMDlQUC02WnVEWUc0U0Z2UHpQUXdOVUVyMktTVWFRNEhBWFJ5SWh0ODYtT25pUkpYVTA5YTVGNHJIanpiV9IBVEFVX3lxTE51bVpJaHF0bVpjdUVZc28tMDlQUC02WnVEWUc0U0Z2UHpQUXdOVUVyMktTVWFRNEhBWFJ5SWh0ODYtT25pUkpYVTA5YTVGNHJIanpiVw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 01:44:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-59669-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "테스 주간 거래량 20.8% 감소…주가는 13.1% 하락 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCVXBvQmdoaXRFLTZqMG9zdjl0WUlrWE4tSVF4Z3BtaWZQV1Zxd0xDX2FkTWpDZGxua0xtWlYxVVdyZGdfRDhqRVhucDZ6amhyb3VINEQwR3lNZFBjQl82UjJTVnJWQQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 05:02:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-59676-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "티씨케이",
+    "stock_code": "064760",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "티씨케이 주간 주가 11.6% 하락…거래량 31.8% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVkcyRzM5aWdrcnNScXhtNGotdE5QUXdMWG1BYVFzS0QwT2RGbnNSRkp6UE5hbzZXVURRTVI4UnZRN3E5bk5QbDdEWU9UUmluNm9pWlhzd3VORzNWV1BTSy1qWWFXdw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 04:48:17 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "064760-기타-59679-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성, CEO 승계 후보군 이사회 보고 제도 확대…삼성SDI·삼성전기 도입 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92TUt3RWZ5UkU1Q0Nhc0QwUzN3aU05Sm1QR3ZDU3ZteEl6NHBBZllqSV9VWU5RNHkydlRCM0dxdkpteDNmUktFRTBNUUtFUQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 04:20:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-59680-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성, CEO 후보군 관리체계 강화⋯삼성전기·SDI도 이사회 정례보고 - 아이뉴스24",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jbklyWE16T1VTY2lEMHFMaW92UHQxM0VVaHkxMHktRi0zQllWLTNYVnBvZHhHcWhTTWpabGNVZExWdGM0T1ZTXzU2Zw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 05:00:44 GMT"
+      },
+      {
+        "press": "세계일보",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94VndBclhudTB3R3V5eE1tQllGOTZFV1pQMVUtOHNITkVJYTIwdVE5ZUxGYm9jTnpzb3ZNWkRRdjk3a1FucG5MMjAteGIybi1IX0FnaNIBVEFVX3lxTE94VndBclhudTB3R3V5eE1tQllGOTZFV1pQMVUtOHNITkVJYTIwdVE5ZUxGYm9jTnpzb3ZNWkRRdjk3a1FucG5MMjAteGIybi1IX0FnaA?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 01:42:08 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tbU5PUFRfSHJGUmFSTHBycV84ZGlhd3BoUERXY1ZqdkhDRW90aXdLejhFQ04yZXJPWUxmOTYwT2szM21jWGllWHVzR1ZwU3FjcjU5VktCQXdIMHVtZGFKdNIBYEFVX3lxTE1tbU5PUFRfSHJGUmFSTHBycV84ZGlhd3BoUERXY1ZqdkhDRW90aXdLejhFQ04yZXJPWUxmOTYwT2szM21jWGllWHVzR1ZwU3FjcjU5VktCQXdIMHVtZGFKdA?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 21:01:00 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJd1N4RmItamxFcVFVcmZieF9hdy1KRlc1WlZrem8wVGFUTHdaOXRPY3hEZFBMU3hlbmZqRzJsZTA2RDZPUlJHWGdzX3B4NWt2NUk1RnI3Qy1VbXdaaFhUdm13SHE?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 01:25:15 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bbklwb3dNMW00eVBXc2JFWmIyUzNvd2hBX2d6VVhNQzM3dWo0TEl6ZU9HcUNhdE80ZEdzaTQ1ZHA4X0hjVl8tRHl4ekJrN0pWZm9mTUhZa1NRNzU0OUlaR9IBeEFVX3lxTE1kbng0WnN6Zzh1TGtLbFBmNmhPQnNsNVZUQ1o0elNnQmlpbkJ2R1B4cDQxVHZqX0NoU2IzaU80QnE3V2ZNTkRncXUwZjNCVzNzRElpRFhhVUxzQ0Y3ZGRrY2NySGtBSVVNczQyRFI2R2h3N09udlhPUg?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 02:56:05 GMT"
+      }
+    ],
+    "source_count": 5,
+    "id": "009150-기타-59682-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대리바트, 현대건설 '더뉴하우스' 참여···아파트 주거환경 개선 사업 확대 - 뉴스프리존",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스프리존",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lZk9Wa0p6UzRpZ3RlZjVCcHJCcDlLRFBJVzFnc0xJZk5HUkFHWElpZE9CSVl0MC0tdW9zcVNfVjNKbGJnbVFxM2hjTWtqaWlFSGdNMDZCel9VOS1XUjVkWkc2OHRONDdTaDZjMzJ4VDJQX1ZVQjhF0gF3QVVfeXFMTWVmT1ZrSnpTNGlndGVmNUJwckJwOUtEUElXMWdzTElmTkdSQUdYSWlkT0JJWXQwLS11b3NxU19WM0psYmdtUXEzaGNNa2ppaUVIZ00wNkJ6X1U5LVdSNWRaRzY4dE40N1NoNmMzMnhUMlBfVlVCOEU?oc=5",
+        "pub_date": "Sat, 24 Oct 2026 23:29:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-59744-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성, CEO 승계 후보군 이사회 보고 제도 확대…삼성SDI·삼성전기 도입 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92TUt3RWZ5UkU1Q0Nhc0QwUzN3aU05Sm1QR3ZDU3ZteEl6NHBBZllqSV9VWU5RNHkydlRCM0dxdkpteDNmUktFRTBNUUtFUQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 04:20:07 GMT"
+      },
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZX3JwRE16cUloOWtQVnlScjBvY0taSEZaU01PNlZxLTFCbmtvMmlMaVVCQ0t1SWNfWWtQdnd0VE12clBrblM4T2xrTEJ1eksydFRYTW5fMzltdw?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 04:04:03 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "006400-기타-59823-20261025",
     "first_seen": "2026-10-25",
     "last_updated": "2026-10-25",
     "status": "일반",
