@@ -83682,5 +83682,77 @@
     "last_updated": "2026-10-25",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "​삼성전자·SK하이닉스 3분기 합산 영업익 180조 원 돌파… AI 반도체 호황이 만든 '역대급 실적' - 뉴스21 통신",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스21 통신",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85QjJLVGkzSmxfdDFIOE50N3J4M3AzczlkWTJnWXB5YTJKQWp2YnhUaEY1dHlHekNkUWdPMzhBeHlHYjhRVzY0cTZuT25iV2QtcXMwVk1B?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 15:19:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-60149-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "​삼성전자·SK하이닉스 3분기 합산 영업익 180조 원 돌파… AI 반도체 호황이 만든 '역대급 실적' - 뉴스21 통신",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스21 통신",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85QjJLVGkzSmxfdDFIOE50N3J4M3AzczlkWTJnWXB5YTJKQWp2YnhUaEY1dHlHekNkUWdPMzhBeHlHYjhRVzY0cTZuT25iV2QtcXMwVk1B?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 15:19:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-60153-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[에너지전환2050] LS전선, 공장 지붕부터 해외 거점까지 ‘재생전력’ 확대 - 이뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6RWdTTkhTMUtHN1hXVlc2X0xGMVpnazBYc1laTFJiZXczMXNiSVQwMzh6Y1U0cnZ3UGZmNFNiamNMWmxVZTRIRHJENjAxdGNBcXUxU3JScDUxaVFKUTF5SmNhSXN2OFNtcEQ5RGxyYU_SAXRBVV95cUxNdHB5YWRwY3I1VDJwSjMzR1dfTHdFTndIaUx4SDEzWnZaUVZ6cFlTXzdjMDBzRXNOaDJ1VTRpWFV1bGEzYV9kb0h3LVR1R192TWJEeGRQaXNfRHVZNzN0eDlwZ0xEM1RnZ3oyNUR1U0RjV1h2SQ?oc=5",
+        "pub_date": "Sun, 25 Oct 2026 05:07:09 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-60167-20261025",
+    "first_seen": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "일반",
+    "stale": false
   }
 ]
