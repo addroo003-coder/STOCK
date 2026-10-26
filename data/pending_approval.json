@@ -85201,9 +85201,14 @@
         "press": "철강금속신문",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XSkNiOGNtaVY4SGtSTXh1WEd2Q2pGaExiU01YeW9qS1VZUXk0NTQ5WDlEX2ozUVlBelBtemNrTmJCTTdfeDdKbk4ybms4QVlmU0oyOTYtdk1Tb2FtTGVfem5NbUJrSm9VMEE?oc=5",
         "pub_date": "Mon, 26 Oct 2026 04:25:50 GMT"
+      },
+      {
+        "press": "로이슈",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XNERxZEpWa3FoY082TXB2b2phSHkxR05aWXY2d25IZ3ZfUk05ZHA5R1NfMHZpSF9EbnYwVmhISVRzOXdoRnBjZUQ1aUpYSU9xWnZ5WWthclRJbFJyaFRlSUljYy11SlBtM1FsRnZJc1F4Vk1oclNwVlhn?oc=5",
+        "pub_date": "Mon, 26 Oct 2026 13:59:35 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "229640-기타-61150-20261026",
     "first_seen": "2026-10-26",
     "last_updated": "2026-10-26",
@@ -85534,6 +85539,54 @@
     ],
     "source_count": 13,
     "id": "068270-실적-61482-20261026",
+    "first_seen": "2026-10-26",
+    "last_updated": "2026-10-26",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"빅테크 수주 확대\"…이번주 삼성전자 파운드리, '흑자전환' 청사진 주목 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtQWpQWVRIOTVNaVJkd0M5RWpMSzR3al9tWTBNNFhCbjJzT254aE9vUnJnaDhfRkVvQ1BoT3JNbDBfdnJjTnVHbThmbWZ3OTFDRVF6ai1iTkhjNEtmenI4UUNZaWpFMGhuT1poVDlXRnBlOUFPUU1GR9IBeEFVX3lxTFBtQWpQWVRIOTVNaVJkd0M5RWpMSzR3al9tWTBNNFhCbjJzT254aE9vUnJnaDhfRkVvQ1BoT3JNbDBfdnJjTnVHbThmbWZ3OTFDRVF6ai1iTkhjNEtmenI4UUNZaWpFMGhuT1poVDlXRnBlOUFPUU1GRw?oc=5",
+        "pub_date": "Mon, 26 Oct 2026 20:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-수주-61513-20261026",
+    "first_seen": "2026-10-26",
+    "last_updated": "2026-10-26",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "역대급 실적’ SK하이닉스, 주가 하락 멈출까…주주환원 60조원 주목 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QeDhTY1AtOTh3WmttOEk4MlM0UFNYWXpJNTJ6aFY2Q3hoMVEzQ0NqdjJVYW03SzlSMTV6SmhIMS1ZRzRLZFowQ3RLMktrTk5QSGFoaDgxU1pHTzBTMTRaRHEzTHM5LXVGaVB1bkVIejRsYUnSAXdBVV95cUxNWmMzSmp0ZzRjVm1xSm5wMTZkX2xkc2pzYnZLYXdiWndKQjFWbDg5R01uSlNwS281d00xajVzSHBtbnY0dEdzcVA5RlFpVmFQQXlob1BUMklTajgzcTVNemFjZWJtdmpkUjFyWjZPQ19iMXk1STBaUQ?oc=5",
+        "pub_date": "Mon, 26 Oct 2026 21:32:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-61519-20261026",
     "first_seen": "2026-10-26",
     "last_updated": "2026-10-26",
     "status": "일반",
