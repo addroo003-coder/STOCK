@@ -60731,12 +60731,17 @@
         "press": "비즈트리뷴",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NaEM3RTFGSmM5amo0cU5QcHF3QmpLM1pJeTAtZGpmWEJRXzhFYU9lVjFjUW01cm93aFF5dUxTNlZBUTk2ZXZLXzhxOENJeFNVdU9mYUpyQmtDcHRTelJrZlFKQ2F6MHZQWFdYUUNEWUg?oc=5",
         "pub_date": "Tue, 13 Oct 2026 14:21:25 GMT"
+      },
+      {
+        "press": "파이낸셜신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLM3FrS3d6TnZwQmN1VW4tU3hKd29VenpRbk1GMmtQSzlraWhOdE13Zk50YXJQd1RlSFREbEJpQmdsSU9kcFl0QVBOVTdWTW85OVpjVmlWZmdtQkIxQzJKc2ZOeFhlWHp1THJN?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 08:10:21 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "068270-실적-45933-20261012",
     "first_seen": "2026-10-12",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-27",
     "status": "일반",
     "stale": false
   },
@@ -85994,9 +85999,19 @@
         "press": "뉴스N연합",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTnhjUkhFSzFBQnJpeXZ3ckowU0dTTmUzcW5DRUx1Q3A4VFVlR3BUamtHZlJpNXJYd2dpRjZMajlheUhZU1NoTjU2aFJwMDQ?oc=5",
         "pub_date": "Tue, 27 Oct 2026 18:13:59 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qUVFfV0syaGkycXFaYTNrUm83ZEZqemlvRk9lZmJtcE02MFpNZTMwVXBYZ3Z2a2U5bU9OZ3JlX1NJS0JZNWpmNzVJS2g4YzNHdkpZeGI3NnExbThvZVQ0?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 07:17:09 GMT"
+      },
+      {
+        "press": "사회적경제뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zMVc1TV9YYWZqN2NPczZwVkI3ZkdwbzBYLWJ6OVVvWUlMN0sxY1phTGI1b1d5ZTF1TDNpVkxQZw?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 06:19:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "001440-수주-61727-20261027",
     "first_seen": "2026-10-27",
     "last_updated": "2026-10-27",
@@ -86381,9 +86396,14 @@
         "press": "포인트데일리",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mVHIzZzVoc2d6eFdjXzNvaHhpYjNBQ0l2dFo4UHVINkFkWFFIbTN2VTBEWmpUNWsxMURzV3JYMENPd2trQkhPdmxDd0ozUnpyQWJ4S0xsTkJiOE5oQU85VEV6Rk9uU0UxLURYRUxpQTnSAXRBVV95cUxQdVJzUTR5djZDM1RpS0JDbG9uZGl5eDVFb1hVTXhuZjl3RGtRUmg1WXBPekhQMDNMVXVtbmhwMnB5WFJkYWxYbVZoci1aWFhveE01S2VoNGdXRm5EdTZKbWRBQzVCVDlUSS1rMjFUdldKX1NQQw?oc=5",
         "pub_date": "Tue, 27 Oct 2026 06:39:09 GMT"
+      },
+      {
+        "press": "CEO스코어데일리",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rVFRhYUpRbmtGVEJtb19nSmowSU5NRnNqeXJnM3VwbWMwbGNIYVUtUTBJSFhfSmYxVENSMjRkbmVLaVFfTVRQVUpHVlRoUnNzSlhOSEJ5dXpOY3F0TEZqbzc1Z3BFa2VoM2dv?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 04:44:04 GMT"
       }
     ],
-    "source_count": 26,
+    "source_count": 27,
     "id": "096770-기타-61849-20261027",
     "first_seen": "2026-10-27",
     "last_updated": "2026-10-27",
@@ -87642,9 +87662,14 @@
         "press": "테크월드",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01MEF1eV8wOW5nOWYyZ2tVa1pSZkpUTmN3MmVhcXRRaGhiWVBkVXM0ZWItUWRsUTdPVHlNdkpkODRNXzdEb1d3LVI2ZWtELTNLbU16V3kyS1JBblFoVkJFZWxNY2NwUzYx?oc=5",
         "pub_date": "Tue, 27 Oct 2026 06:05:43 GMT"
+      },
+      {
+        "press": "뉴스클레임",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ocDJYcUFmN2pxUE1hZlFFdmkwc2g0b0R4MGdkcVh4eHJJQzZTSElSdm5sSHFUNHRWdGxoc2MzcHJjdVZIQ1BzY1E3X0t3WXpDSXpVejBaZWRkcHkzNENlQVp0R1hDSl90VzRuNWQ3V0XSAXRBVV95cUxQbFFGd3k1djl0cTVHajhYem9abG41ZEk0aDB3QnVNYzgzbmVULVBsUFFnWExqZGVRanFkTU84TVlIRDFMbVBOREN4NmJlQ2VWQ3A0Z3Q5ZTRBcTlQR2dUQkloWnlmdzRpWlI4OFZnam1PbWloNg?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 08:12:21 GMT"
       }
     ],
-    "source_count": 13,
+    "source_count": 14,
     "id": "373220-기타-62539-20261027",
     "first_seen": "2026-10-27",
     "last_updated": "2026-10-27",
@@ -87795,6 +87820,174 @@
     ],
     "source_count": 1,
     "id": "373220-기타-62642-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 오늘 3분기 실적 발표…'역대급 주주환원책' 내놓나 - 뉴시스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUSTQyX18yN0xTYV9QWXIyWEhqekJNeXBLZmM1eDdOZ0RwVC1nYmNiejJZN0NRMmtDdmZwT2pLNkFvOUhZQ2g2bnAwOFVwMDdjcEtmRENiZy1qSktud0VQU3hudkU1aHRDVjUxUkhNWWZSenB1LTh5UtIBeEFVX3lxTFBUSTQyX18yN0xTYV9QWXIyWEhqekJNeXBLZmM1eDdOZ0RwVC1nYmNiejJZN0NRMmtDdmZwT2pLNkFvOUhZQ2g2bnAwOFVwMDdjcEtmRENiZy1qSktud0VQU3hudkU1aHRDVjUxUkhNWWZSenB1LTh5Ug?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 19:30:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-62661-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 오늘 사상 최대 3Q 실적 발표…주주환원 방안도 '주목' - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80OW1aWHZXNE1CQUt4dTFORWdJdGZYUi1LREc1V21sLUxQNWYwcjREcnBZSUdudnZEZEtsamVsbmE2dUFkNTZSNU9aamlsbGlXaUZPTE1tT2JldXRfRzNPXzFuazI?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-62662-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“30조 더 풀까”…역대급 실적 SK하이닉스, 오늘 깜짝 주주환원 나오나 - 이데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRklRLUVQamt2UmVZcHotQWlsYVE3eExMQkhrVEs0RUU5YzdjLUtCWFhEMUVPdnoxQTgtY1otSDhxVzVpY05xT2hBbEpheGNiMi1UdUZLd0dfLU1yRnkxZ3NhTU5SZzVmUGdVaXVRUHZGa0Zlc1c5UTJZN0RvdzhKbw?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 20:00:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-62667-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스, 3분기 영업익 77조 전망…HBM4·메모리 가격 상승에 역대 최대 실적 - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bdms2Y0FacjBBNDRmZXFZcHdacFJZaEVMdVVWUlRDc0MzSDhRbTQ5RGphVnpIZ0Jsd2RmX0l1SldrYU14SHdIYXRYZ20xSUdRd2FVRQ?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 20:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-62668-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "AI 수주 대박에도...HD일렉ㆍLS일렉ㆍ효성重 '전력주 3대장' 목표가 '줄하향' - 인베스트조선",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "인베스트조선",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXF3ZjVlYU45UThhY1RrWjl6YXFXNDVFaHFBeFRWa1JtQnlELWVpZWc3dU10bVRBZGFMLXZFUG9ITnlEZ1NMMGktTUl4RmJDMVI5enFROThkOWtjVXlDckhyVHRyNGtVTWxuNHdBeks2TURGYkJZUk9ZeDNjM3ZxYm5Ycw?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 06:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-수주-62687-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엔허투, 유럽 조기유방암까지 확대…알테오젠 SC는 76명 1상서 별도 검증 - 메디코파마",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디코파마",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jV3ZEZkEwQS12d2tVOEgwSVB6YVZWcGdzSTlpM25JRXpaMzZwTThsVUFoMnFjZmJxUWg5UjluM2RpLVhZdVd1OW9hTFhFZDU0dk16T2JVVGY4c3ZlRUl3VDdJR3VHQVFBd1cxV1JHTjRTQQ?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 22:13:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-62719-20261027",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행 차기 CEO 선출 지연… 30년 경영 전통과 변화 사이 - 히트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "히트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2MDM2cTAweVZuWFEyS0VSaFhMTTNIWWk3UUhaSFB2aURNRHlMd1RXby05ektmRXdLTUtfbXZFUFk2V0cyMTZFakxuc3dRb2c1b0hvQkM1TjdlZ3VGVXdtTFZhaGdRRDZFa2lB?oc=5",
+        "pub_date": "Tue, 27 Oct 2026 21:05:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-62726-20261027",
     "first_seen": "2026-10-27",
     "last_updated": "2026-10-27",
     "status": "일반",
