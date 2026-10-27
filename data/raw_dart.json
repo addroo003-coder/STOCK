@@ -65,6 +65,32 @@
     "is_correction": false
   },
   {
+    "company": "ISC",
+    "stock_code": "095340",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "연결재무제표기준영업실적등에대한전망(공정공시)              ",
+    "rcept_no": "20261027900053",
+    "rcept_dt": "20261027",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900053",
+    "is_correction": false
+  },
+  {
+    "company": "ISC",
+    "stock_code": "095340",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+    "rcept_no": "20261027900052",
+    "rcept_dt": "20261027",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900052",
+    "is_correction": false
+  },
+  {
     "company": "네패스아크",
     "stock_code": "330860",
     "sector": "AI 반도체",
@@ -140,6 +166,19 @@
     "rcept_no": "20261026000231",
     "rcept_dt": "20261026",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000231",
+    "is_correction": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261027800037",
+    "rcept_dt": "20261027",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800037",
     "is_correction": false
   },
   {
@@ -271,6 +310,19 @@
     "rcept_dt": "20261026",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800449",
     "is_correction": false
+  },
+  {
+    "company": "LIG넥스원",
+    "stock_code": "079550",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]거래처와의거래중단              ",
+    "rcept_no": "20261027800007",
+    "rcept_dt": "20261027",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800007",
+    "is_correction": true
   },
   {
     "company": "하이즈항공",
@@ -486,6 +538,19 @@
     "sector": "바이오",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "실적",
+    "title": "[기재정정]연결재무제표기준영업(잠정)실적(공정공시)              ",
+    "rcept_no": "20261027800047",
+    "rcept_dt": "20261027",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800047",
+    "is_correction": true
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "자본",
     "title": "주요사항보고서(자기주식취득결정)",
     "rcept_no": "20261026000084",
@@ -530,6 +595,19 @@
     "rcept_no": "20261026900398",
     "rcept_dt": "20261026",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026900398",
+    "is_correction": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "본점소재지변경              ",
+    "rcept_no": "20261027900090",
+    "rcept_dt": "20261027",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900090",
     "is_correction": false
   }
 ]
