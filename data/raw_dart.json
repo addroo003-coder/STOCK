@@ -143,6 +143,19 @@
     "is_correction": false
   },
   {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261029000263",
+    "rcept_dt": "20261029",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000263",
+    "is_correction": false
+  },
+  {
     "company": "테크윙",
     "stock_code": "089030",
     "sector": "AI 반도체",
@@ -257,6 +270,19 @@
     "rcept_no": "20261029000049",
     "rcept_dt": "20261029",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000049",
+    "is_correction": false
+  },
+  {
+    "company": "티씨케이",
+    "stock_code": "064760",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "영업(잠정)실적(공정공시)              ",
+    "rcept_no": "20261029900211",
+    "rcept_dt": "20261029",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029900211",
     "is_correction": false
   },
   {
@@ -400,6 +426,19 @@
     "rcept_no": "20261028000360",
     "rcept_dt": "20261028",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000360",
+    "is_correction": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "풍문또는보도에대한해명              ",
+    "rcept_no": "20261029800234",
+    "rcept_dt": "20261029",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800234",
     "is_correction": false
   },
   {
