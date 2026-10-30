@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수...",
-      "office": "조선비즈",
+      "title": "체코원전 시공계약 결렬…韓 원전 경쟁력이 무너질까[주末머니]",
+      "office": "아시아경제",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201637"
+      "url": "https://n.news.naver.com/mnews/article/277/0005836038"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 중국 TCL CSOT 지분 전량 인수…가전용 LCD 공급망 확보",
-      "office": "서울신문",
-      "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/081/0003694417"
+      "title": "신용시장까지 번진 ‘AI 거품론’… ‘탄탄한 본업 바탕’ 반론도",
+      "office": "동아일보",
+      "date": "20261031",
+      "url": "https://n.news.naver.com/mnews/article/020/0003759091"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1383,10 +1383,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "한화시스템, 초소형 SAR 군집위성 개발 사업 수주",
-      "office": "조선비즈",
-      "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201634"
+      "title": "조종사·GPS 없이 난다…‘게임 체인저’ AI 무인기, K항공업계 도전장",
+      "office": "중앙SUNDAY",
+      "date": "20261031",
+      "url": "https://n.news.naver.com/mnews/article/353/0000057091"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "[오후장 체크포인트] AI 수요 감소 아닌 투자 회수 부진 \"빅테크, 잘 벌...",
-      "office": "SBS Biz",
-      "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540875"
+      "title": "조종사·GPS 없이 난다…‘게임 체인저’ AI 무인기, K항공업계 도전장",
+      "office": "중앙SUNDAY",
+      "date": "20261031",
+      "url": "https://n.news.naver.com/mnews/article/353/0000057091"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1523,10 +1523,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298040",
     "news": {
-      "title": "효성중공업, 3Q 영업익 2435억 10.8%↑…수주잔고 19조 육박",
-      "office": "뉴스1",
+      "title": "효성중공업, 지멘스와 디지털 전력망·AI 데이터센터 공략",
+      "office": "지디넷코리아",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/421/0009261230"
+      "url": "https://n.news.naver.com/mnews/article/092/0002443193"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/298040/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 일본 협력사 20여곳 초청…공급망 협력 강화",
-      "office": "파이낸셜뉴스",
-      "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597237"
+      "title": "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
+      "office": "이데일리",
+      "date": "20261031",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400561"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
