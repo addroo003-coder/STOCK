@@ -151,10 +151,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=454910",
     "news": {
-      "title": "두산로보틱스, 3Q 매출 59% 상승...북미 자동화 사업이 견인",
-      "office": "지디넷코리아",
+      "title": "두산로보틱스, 로봇팔서 솔루션으로 전환…북미 신규 수주는 숙제",
+      "office": "블로터",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443074"
+      "url": "https://n.news.naver.com/mnews/article/293/0000092458"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/454910/news"
   },
@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "메리츠證 “두산에너빌리티, 지금이 바닥…연말 수주 모멘텀 기대”",
+      "title": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수...",
       "office": "조선비즈",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201420"
+      "url": "https://n.news.naver.com/mnews/article/366/0001201637"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "[어제장 오늘장] 삼성전자 실적에 실망…일일천하로 끝난 6천피",
-      "office": "SBS Biz",
+      "title": "AI·클라우드 올라탄 IT서비스 3사, 나란히 매출 성장… 현대오토에버...",
+      "office": "조선비즈",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540736"
+      "url": "https://n.news.naver.com/mnews/article/366/0001201641"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -249,10 +249,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=141080",
     "news": {
-      "title": "리가켐 \"ESMO서 위암·췌장암 ADC 전임상 공개\"",
-      "office": "뉴시스",
-      "date": "20261026",
-      "url": "https://n.news.naver.com/mnews/article/003/0014279021"
+      "title": "토르테라퓨틱스, 알테오젠·리가켐 창업주 투자 유치",
+      "office": "비즈워치",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052111"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/141080/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성전자, 삼성바이오로직스 신주 6662억원 취득… 삼성생명 저축성 ...",
-      "office": "조선비즈",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201376"
+      "title": "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
+      "office": "비즈워치",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052126"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "8조 붓는 삼성전기·3조 스마트시티…세종시 첨단 거점에 '엘 수자인'...",
-      "office": "아시아경제",
+      "title": "삼성전기, AI용 MLCC 8800억 수주",
+      "office": "한국경제",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835646"
+      "url": "https://n.news.naver.com/mnews/article/015/0005348621"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자, 일상에 필요한 기능 담은 갤럭시 A18 LTE 국내 출시",
-      "office": "세계일보",
+      "title": "삼성전자, 중국 TCL CSOT 지분 전량 인수…가전용 LCD 공급망 확보",
+      "office": "서울신문",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/022/0004171053"
+      "url": "https://n.news.naver.com/mnews/article/081/0003694417"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -389,10 +389,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "ESS가 살린 K배터리…LG엔솔·삼성SDI 실적 반등",
-      "office": "파이낸셜뉴스",
+      "title": "포스코퓨처엠, LG엔솔에 양·음극재 수조원대 공급",
+      "office": "한국경제",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596873"
+      "url": "https://n.news.naver.com/mnews/article/015/0005348636"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -459,10 +459,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "셀트리온, '옴리클로' 유럽 출시 1년여만에 점유율 30%…\"성장 지속\"",
-      "office": "머니투데이",
+      "title": "셀트리온, 유럽서 옴리클로 점유율 30% 달성…신규 제품 판매 확대",
+      "office": "동아일보",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/008/0005434109"
+      "url": "https://n.news.naver.com/mnews/article/020/0003758933"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -501,10 +501,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=222800",
     "news": {
-      "title": "추가 주주환원에 반도체주 '환호'…삼전·닉스 9∼10%↑",
-      "office": "SBS",
-      "date": "20261028",
-      "url": "https://n.news.naver.com/mnews/article/055/0001398827"
+      "title": "'美 AI 기술주 쇼크'에 코스피 3%↓…외인 나흘 만에 순매도[시황종합...",
+      "office": "뉴스1",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/421/0009261177"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/222800/news"
   },
@@ -571,10 +571,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "삼성전자 수급 공백 괜찮을까…美 빅테크 실적발 변동성 주의",
-      "office": "머니투데이",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/008/0005433840"
+      "title": "알테오젠 SC 제형 키트루다, 3분기 매출 1조 돌파",
+      "office": "데일리안",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149515"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -683,10 +683,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "신소재 개발기업 나노포지에이아이, 146억 시드투자 유치",
-      "office": "아시아경제",
+      "title": "나노포지에이아이, 146억원 시드 투자 유치…AI 신소재 개발 확대",
+      "office": "세계일보",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835637"
+      "url": "https://n.news.naver.com/mnews/article/022/0004171156"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/247540/news"
   },
@@ -767,10 +767,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=226950",
     "news": {
-      "title": "임상 반려에 나흘째 흔들린 올릭스…OLX301A 재신청은?[바이오맥짚기...",
-      "office": "이데일리",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/018/0006398424"
+      "title": "올릭스, 신약 호주 임상 2a상 승인…뉴질랜드 반려 '18일'만",
+      "office": "비즈워치",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052134"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/226950/news"
   },
@@ -851,10 +851,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=240810",
     "news": {
-      "title": "삼성전자 수급 공백 괜찮을까…美 빅테크 실적발 변동성 주의",
-      "office": "머니투데이",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/008/0005433840"
+      "title": "美발 AI 수익성 우려에 삼전닉스 '휘청'…코스피 5730 마감",
+      "office": "시사저널",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/586/0000141286"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/240810/news"
   },
@@ -977,10 +977,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "[어제장 오늘장] 삼성전자 실적에 실망…일일천하로 끝난 6천피",
-      "office": "SBS Biz",
+      "title": "기업 분할이 사라진다…“권익 보호” vs “성장동력 약화” [시그널...",
+      "office": "서울경제",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540736"
+      "url": "https://n.news.naver.com/mnews/article/011/0004677132"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -1103,10 +1103,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=372320",
     "news": {
-      "title": "큐로셀 \"임상제조소에 튀르키예 보건부장관 방문\"",
-      "office": "뉴시스",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/003/0014270723"
+      "title": "3차 치료 허가받은 큐로셀, 이번엔 2차 치료 시장 노린다",
+      "office": "이데일리",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400155"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/372320/news"
   },
@@ -1201,10 +1201,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=117730",
     "news": {
-      "title": "안승욱 티로보틱스 대표 \"유리기판용 로봇 개발...韓 이어 中 시장 공...",
-      "office": "지디넷코리아",
-      "date": "20261028",
-      "url": "https://n.news.naver.com/mnews/article/092/0002442756"
+      "title": "[인터뷰] 안승욱 티로보틱스 대표 \"8.6세대 노하우로 유리기판 로봇 中...",
+      "office": "디지털데일리",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/138/0002246674"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/117730/news"
   },
@@ -1229,10 +1229,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=214450",
     "news": {
-      "title": "파마리서치, 화장품 성장세 견조…“4분기 의료기기 회복 기대” [Why...",
-      "office": "서울경제",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/011/0004676392"
+      "title": "파마리서치메디케어, 성수에 ‘리쥬비’ 팝업…브랜드 접점 확대",
+      "office": "한국경제",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348449"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/214450/news"
   },
@@ -1271,10 +1271,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "엄기천 포스코퓨처엠 \"연내 양·음극재 120만톤 추가 수주\"",
-      "office": "지디넷코리아",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443037"
+      "title": "포스코퓨처엠, LG엔솔에 7년간 양·음극재 72만톤 공급…협력 확대",
+      "office": "마이데일리",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/117/0004120216"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1341,10 +1341,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=166090",
     "news": {
-      "title": "디와이피엔에프-하나머티리얼즈, 실리콘 음극재 양산공장 EPC 계약 체...",
-      "office": "동아일보",
-      "date": "20261027",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757916"
+      "title": "유안타증권 \"하나머티리얼즈, 내년 최대 실적 전망…목표가↑\"",
+      "office": "연합뉴스",
+      "date": "20261022",
+      "url": "https://n.news.naver.com/mnews/article/001/0016392890"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/166090/news"
   },
@@ -1383,10 +1383,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "수주잔고 120조인데 주가는 반 토막…K방산에 무슨 일이",
-      "office": "한경비즈니스",
+      "title": "한화시스템, 초소형 SAR 군집위성 개발 사업 수주",
+      "office": "조선비즈",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/050/0000112563"
+      "url": "https://n.news.naver.com/mnews/article/366/0001201634"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1397,10 +1397,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=042700",
     "news": {
-      "title": "한미반도체, 3분기 영업익 908억원…연매출 3년 연속 최대 전망",
-      "office": "데일리안",
+      "title": "한미반도체, SK하이닉스 감사패 받아...HBM 양산 지원 공로",
+      "office": "SBS Biz",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149219"
+      "url": "https://n.news.naver.com/mnews/article/374/0000540866"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/042700/news"
   },
@@ -1453,10 +1453,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=051600",
     "news": {
-      "title": "한전KPS, ‘품질만족지수’ 발전설비 정비서비스 부문 15년 연속 ‘1위...",
-      "office": "부산일보",
+      "title": "[전남광주소식] 한전KPS, 전남광주통합시장 표창받아",
+      "office": "연합뉴스",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/082/0001404837"
+      "url": "https://n.news.naver.com/mnews/article/001/0016411423"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/051600/news"
   },
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "[특징주] 한화에어로스페이스, 3분기 어닝 쇼크에 7%대 급락",
-      "office": "조선비즈",
+      "title": "[오후장 체크포인트] AI 수요 감소 아닌 투자 회수 부진 \"빅테크, 잘 벌...",
+      "office": "SBS Biz",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201441"
+      "url": "https://n.news.naver.com/mnews/article/374/0000540875"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1495,10 +1495,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "초기 자금부담 완화…현대건설, ‘힐스테이트 송파더그리드’ 본격 분...",
-      "office": "헤럴드경제",
+      "title": "현대건설, 3분기 영업이익 2217억 원…전년 대비 114.2%↑",
+      "office": "동아일보",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716467"
+      "url": "https://n.news.naver.com/mnews/article/020/0003759016"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1523,10 +1523,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=298040",
     "news": {
-      "title": "효성중공업 '서해안 HVDC 국산화 추진현황 점검회' 개최",
-      "office": "동행미디어 시대",
-      "date": "20261023",
-      "url": "https://n.news.naver.com/mnews/article/417/0001161913"
+      "title": "효성중공업, 3Q 영업익 2435억 10.8%↑…수주잔고 19조 육박",
+      "office": "뉴스1",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/421/0009261230"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/298040/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "[어제장 오늘장] 삼성전자 실적에 실망…일일천하로 끝난 6천피",
-      "office": "SBS Biz",
+      "title": "포스코퓨처엠, LG엔솔에 7년간 양·음극재 72만톤 공급…협력 확대",
+      "office": "마이데일리",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540736"
+      "url": "https://n.news.naver.com/mnews/article/117/0004120216"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1733,10 +1733,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=326030",
     "news": {
-      "title": "SK하이닉스 \"투자수익도 주주 몫\"…'국내 최초' 환원 원칙 명문화",
-      "office": "블로터",
-      "date": "20261029",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092354"
+      "title": "[현장] 릴리·SK바이오팜도 손 내민 中 AI 신약 개발 기업이 밝힌 성공...",
+      "office": "데일리안",
+      "date": "20261030",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149479"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/326030/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임…\"미래 성장전략 ...",
-      "office": "데일리안",
+      "title": "SK, 반도체는 기세 잇고 에너지는 판 바꾼다…AI 겨냥 인사",
+      "office": "SBS Biz",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149215"
+      "url": "https://n.news.naver.com/mnews/article/374/0000540908"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 11월 1일부로 사장단 인사 단행…안현 개발총괄 사장 '미...",
-      "office": "전자신문",
+      "title": "SK하이닉스, 일본 협력사 20여곳 초청…공급망 협력 강화",
+      "office": "파이낸셜뉴스",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/030/0003480365"
+      "url": "https://n.news.naver.com/mnews/article/014/0005597237"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
@@ -1775,10 +1775,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=011790",
     "news": {
-      "title": "[속보] SK㈜, 장용호 대표 유임…김선혁 SKC 전략부문장 담당 사장 승...",
-      "office": "뉴시스",
+      "title": "SK '안정속 쇄신'…AI·에너지·글로벌 강화",
+      "office": "매일경제",
       "date": "20261030",
-      "url": "https://n.news.naver.com/mnews/article/003/0014289556"
+      "url": "https://n.news.naver.com/mnews/article/009/0005756780"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/011790/news"
   },
