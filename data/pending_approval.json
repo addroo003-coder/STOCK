@@ -6388,9 +6388,14 @@
         "press": "KIPOST",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ub3RRcjVhejNmZ1lrVUtxeVA0OURSVG5DY3p3VHpFWkdSZHpULU41TEFiSm9XclBLNFJDamVGdzF6dkJqR2JVRS01dWZaSThVSmNKVkk1dWR6NHBPQU8zS0c0NDhBa3JpbnVNcdIBbEFVX3lxTE5Ub3RRcjVhejNmZ1lrVUtxeVA0OURSVG5DY3p3VHpFWkdSZHpULU41TEFiSm9XclBLNFJDamVGdzF6dkJqR2JVRS01dWZaSThVSmNKVkk1dWR6NHBPQU8zS0c0NDhBa3JpbnVNcQ?oc=5",
         "pub_date": "Sat, 31 Oct 2026 05:20:31 GMT"
+      },
+      {
+        "press": "KIPOST",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iNmpyX0MwTW1fTV9IeUxINGk5V05zc3J2di11cUxkajVWSHdPODlfU0JINVRXUXNsNkwtNmFuOVMwS01yYUhvTHJwaDg5QmRJN1RRaEp3NjdZQWhOdEdDUHF4VzZKcW500gFsQVVfeXFMTlRvdFFyNWF6M2ZnWWtVS3F5UDQ5RFJUbkNjendUekVaR1JkelQtTjVMQWJKb1dyUEs0UkNqZUZ3MXp2QmpHYlVFLTV1ZlpJOFVKY0pWSTV1ZHo0cE9BTzNLRzQ0OEFrcmludU1x?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 04:46:00 GMT"
       }
     ],
-    "source_count": 32,
+    "source_count": 33,
     "id": "009150-수주-5396-20260901",
     "first_seen": "2026-09-01",
     "last_updated": "2026-10-31",
@@ -95079,7 +95084,7 @@
     "sector": "AI 반도체",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한미반도체, 3분기 영업익 34%↑…\"3년째 매출 신기록 전망\" - 매일경제 마켓",
     "source_type": "news",
@@ -95088,12 +95093,17 @@
         "press": "매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wMm5ocmtNRDFBeDBDdmlaeUF4aDFoMFBBbHAzMnltbm10RlphOVk2WDdjRlhsYUsxZU1HZFJyRkdaVUx3VG5uRksyZFo0NjdIZWc?oc=5",
         "pub_date": "Fri, 30 Oct 2026 01:13:57 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ObVF1Znh5YloxWGpmUjM3UjNlYTlfd2lpV0wyNXctckMwQlpsQ1hBbDFWbDBIV29OWDNuYVl4RVM0T2ZzN3I5djNPTDRmOXA5bTZHLTM1bEVwSVHSAWBBVV95cUxOaWl5TzVmR2lXR2p1NHdBczcxaWdSMzRPR2dVVEM5TlFUNGtYem5WeDZndmhlX3pzYnpzYTVnSTNMelhPZDlVYUlXY0taRENmMlp3emlMcVJ5T0hxbnc0d24?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 01:13:57 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "042700-실적-65271-20261030",
     "first_seen": "2026-10-30",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-10-31",
     "status": "일반",
     "stale": false
   },
@@ -97071,7 +97081,7 @@
     "sector": "바이오",
     "category": "리스크",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "지씨셀, 3분기 영업손실 25억원…적자 지속 - 메디포뉴스",
     "source_type": "news",
@@ -97080,9 +97090,14 @@
         "press": "메디포뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbWVjdUVDRy1OSXdLdUMwOFAtSGMycm1BZW1QRDdXVG4ySmlHZmtBUGFfYU1UMTV5VHJwa3U2MUJUUWlVT08zWk5ZOHdaMlphaUNUWmtmcUdsZHhPRlB6YzFhUTY?oc=5",
         "pub_date": "Fri, 30 Oct 2026 12:59:15 GMT"
+      },
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Q1RoVVJhUHdiVXJYRk5oVlhpSkRRa2ZJTnRIcmpaRjJRaWF3bk9PMGEtbEk2MlA5WXBXQ2RwejJXU0dHZ0ZXUlhyRl9abXN3cE5RdkdNRFRlNm0wUllhMDFjRkFlZw?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 20:50:43 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "144510-리스크-66072-20261030",
     "first_seen": "2026-10-30",
     "last_updated": "2026-10-31",
@@ -97969,6 +97984,78 @@
     ],
     "source_count": 1,
     "id": "012450-리스크-66635-20261031",
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표 - 매일경제 마켓",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWFdPMHRRWHpCVDA5M2FyUnJIMXdEN2NXcW1jd2lyOTlGU0pGX3N2b1QtX1BWTzd1SGZDaGE4U1FndmpVb3ZXeUJqajdNSV9ETFE?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 21:07:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-실적-66649-20261031",
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, 갤폴드 신모델 저울질…화면 확대냐 가격 인하냐 - IT조선",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "IT조선",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xMlgwOGdFS05zT2tmSXFzdWNiYUw2OVNrQkFCeVVyZlRLNDJWd25kYVk4NjJ1RUdKdTJHTjVVNE5DemNfTUlsUDNkdnR6VnR3anFub2ROUmtHb3Z5TlhTSFNiRDJ6QjYxUkdZbm84QXLSAXRBVV95cUxPTktYWGFJdWRBdmc4X2p3eGZPZUF3UUNCSUZPMk8wclN6ZlFEVC16NE52OWJvOFVKLVM3MWVVSmQ1NThqSnotVDhMZHJKQjdmaF9kTUZtQmFmeFBkV0xKalROaXQ3WkQxYl9tMGJTbXAtX3JhTA?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-66650-20261031",
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 코로나19 진단키트 제조 위탁계약 취소 공정위 과징금 불복…“행정소송 추진” - 쿠키뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "쿠키뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RMXRvaTA4VFJLNGtCbmZrZXJfQm9LXy1NcjdVRl9hZ21ydVd1LW51VWlnWjEyNU5vaGNEbnA1alZUQjFGV18zU0haN0YwUWZIZ1RpRGdja0RENS0wWV9nelBTNA?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 14:02:18 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-리스크-66691-20261031",
     "first_seen": "2026-10-31",
     "last_updated": "2026-10-31",
     "status": "일반",
