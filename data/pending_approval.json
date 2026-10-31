@@ -97518,9 +97518,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3VG1zNkFCT3l3dENJRUtKYjdzVXpqUk5CQlFHYTR5RmhZRjMtaHA2SmF2NUF2Q0l1aDlRWFM3a1BxNDczSUFBdUQtV19JcDJsQTgzVHlnTGZWTzc4WUFROGctZEN2aWlNV1VYelVUOVd4UFBmWTgw0gF3QVVfeXFMUHdUbXM2QUJPeXd0Q0lFS0piN3NVempSTkJCUUdhNHlGaFlGMy1ocDZKYXY1QXZDSXVoOVFYUzdrUHE0NzNJQUF1RC1XX0lwMmxBODNUeWdMZlZPNzhZQVE4Zy1kQ3ZpaU1XVVh6VVQ5V3hQUGZZODA?oc=5",
         "pub_date": "Sat, 31 Oct 2026 02:46:51 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92MHFMSXNtR0JacER1SU9DWVd1ZDVqZFpuT01NZVdvR0hXX0xJakdLUTktOHQxcE1OcE52VkVrb1hfSWlGNVhXMEpuY0pxT2h3UU1kUjR2MmZtTlV4eDQ1eWt0YV9WOU1uUDlldTFDdmQza1HSAXdBVV95cUxQd1RtczZBQk95d3RDSUVLSmI3c1V6alJOQkJRR2E0eUZoWUYzLWhwNkphdjVBdkNJdWg5UVhTN2tQcTQ3M0lBQXVELVdfSXAybEE4M1R5Z0xmVk83OFlBUThnLWRDdmlpTVdVWHpVVDlXeFBQZlk4MA?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 02:44:27 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "357780-기타-66301-20261031",
     "first_seen": "2026-10-31",
     "last_updated": "2026-10-31",
@@ -97882,6 +97887,88 @@
     ],
     "source_count": 1,
     "id": "006400-실적-66587-20261031",
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 최대주주 SK스퀘어, 배당 재원 커지며 기업가치 재평가 기대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN1J6Qmt4bEs5WDJPdnMzX0NaSnhZVHBMZ0RRQ005aG1pbFhqQjhFYU9oQUxyRFdzX2xVbnRadWhTVE9RSXE2NDY5MFdtMjdUbVlDdjRSR0MzMTlSeEdEd3M2MlJ0TVVvZDU0ek5ZWV9xMUdiNDNV0gF3QVVfeXFMTlo3UnpCa3hsSzlYMk92czNfQ1pKeFlUcExnRFFDTTlobWlsWGpCOEVhT2hBTHJEV3NfbFVudFp1aFNUT1FJcTY0NjkwV20yN1RtWUN2NFJHQzMxOVJ4R0R3czYyUnRNVW9kNTR6TllZX3ExR2I0M1U?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 08:13:32 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-자본-66600-20261031",
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "삼성전기, AI 서버용 MLCC 8793억원 공급계약…올해 누적 5조1800억원 - 웹이코노미",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "웹이코노미",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVmZ4d2FkdUlfbDNkOW1ZYlhmSUdudDJxdXFvYVU4WmZMcGM2S2stb2g5MXA1WE0wSllranZpWFV5RkphQkdOMy0xcGlKUjBzREc2RnZkT2VZR2VuVEttUEc3blNkaVRHekRUQWZvYlUxdw?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 14:48:49 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMG5KcWJpTGxKYlpXM1pxR2RQb3ZEWFl6akJDWUxmSHFHdXFCUWtKV2syX3U5NHpSTy1uOENuSDRMWk9SNHZ5WGprdmk0MlM3WWRqYkJSdXVWcWdWczJHNVdxVnoxcTVmaXNIV2RZNERIQW5NUFJDV0RESDNxVFdCWkRB0gGWAUFVX3lxTE1KN1VDeFUtTTVvRHJGVFNMSGFSTkVCNDNmQUcwLU5LN0pKWGREVUZUNkVfUHEweVF4M1dhY3hSdW9xOXpSTEVHMFJGemp3ZkZUZG5XTEFORGt4b2tYMkx3eHNiUzdia2psSmpEODU1OEtzNzUtUWhVX1MxT2dJRlpUYk9OaURiRXQwbnhaOXEwNGxiZjFnQQ?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 06:17:00 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GanBaZnUyTGhlcTdOcDhtQ2hhaG1DUjkwanBzS3paVWFaNS10aVF4UzhLdXJiSTJBSVE4NFJBbG50c1JMb0JaRWRWMTN0QQ?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 06:03:43 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "009150-수주-66605-20261031",
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“필리조선소 적자에 3분기 ‘휘청’…목표가 낮아진 한화에어로스페이스의 뼈아픈 진통” - 뉴스퀘스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTzRLcXRfOHBtTkIzT1hCa255eG9BeGVpVWppZk9pcFFKQzVUUUxzT25fbTB5TmphUDN1WU9fcFpEVWR0T0xBY1dwZmNxRS1hOWpxNDZIQ2h3Ql9UeUlZR3psdTNaTFM0alp5XzdiVQ?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 06:26:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-리스크-66635-20261031",
     "first_seen": "2026-10-31",
     "last_updated": "2026-10-31",
     "status": "일반",
