@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌, 3분기 영업이익 전년 대비 90.6%↑",
-      "office": "KBS",
-      "date": "20261031",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284865"
+      "title": "체코원전, 수출은 한 팀 손실은 시공사 몫…\"이 조건이면 누가\"",
+      "office": "머니투데이",
+      "date": "20261101",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434653"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
-      "office": "뉴시스",
-      "date": "20261031",
-      "url": "https://n.news.naver.com/mnews/article/003/0014292317"
+      "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+      "office": "전자신문",
+      "date": "20261101",
+      "url": "https://n.news.naver.com/mnews/article/030/0003480680"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
-      "office": "뉴시스",
-      "date": "20261031",
-      "url": "https://n.news.naver.com/mnews/article/003/0014292317"
+      "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+      "office": "전자신문",
+      "date": "20261101",
+      "url": "https://n.news.naver.com/mnews/article/030/0003480680"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
