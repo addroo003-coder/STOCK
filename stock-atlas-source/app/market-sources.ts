@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "원전 지으면 다 돈 될까…건설사 '협상력' 살펴볼 때[주末머니]",
-      "office": "아시아경제",
+      "title": "두산에너빌, 3분기 영업이익 전년 대비 90.6%↑",
+      "office": "KBS",
       "date": "20261031",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836141"
+      "url": "https://n.news.naver.com/mnews/article/056/0012284865"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "빅테크는 투자하는데, 삼전·닉스 주가는 왜 떨어질까",
-      "office": "오마이뉴스",
+      "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+      "office": "뉴시스",
       "date": "20261031",
-      "url": "https://n.news.naver.com/mnews/article/047/0002534167"
+      "url": "https://n.news.naver.com/mnews/article/003/0014292317"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스·SK 미래 전략 위해 최태원이 지목한 '두 남자'",
-      "office": "이코노미스트",
+      "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+      "office": "뉴시스",
       "date": "20261031",
-      "url": "https://n.news.naver.com/mnews/article/243/0000105034"
+      "url": "https://n.news.naver.com/mnews/article/003/0014292317"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
