@@ -98685,5 +98685,29 @@
     "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS전선, 세계 최대 풍력단지에 케이블 공급 계약 체결 / 머니투데이방송 (뉴스) Pga Championship (pogoUJiA0b) - Unisba Media",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Unisba Media",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGJQTU1TMVduMkRQcXVZNDNMWXVjeUc4bzlYSldNM2h2bkM4Q0xGMTdwZXhGeVpLWkt1bXhvQXd1QzgtOVZiMGdzeF9GUXZ1MHFMOWstQ3ZkVWFBNjJsU3pvajdVWFRTVlQ0U2dvckhtSlAyUE9adWFtWU5TOFFETUF4bWhZWHM?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 08:36:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-67232-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
   }
 ]
