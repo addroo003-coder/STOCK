@@ -89309,7 +89309,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "마누라이프 인베스트먼트 매니지먼트 홍콩 등 테크윙 지분 7.91%로 확대 - 데이터투자",
     "source_type": "news",
@@ -89318,12 +89318,17 @@
         "press": "데이터투자",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfSGNXN1YzYlZKR1paaE85cmtNOUZEVjFjeURXbkhoOFFGbkpDRUNnN1pybjdvUDY1OW03bVFMbzBTeUtDeFJPX05JcF9mdE1MQjJHZmtlWTNJNkduSzhtR2QxdFloemJTZFNKZnIyai1vLU0?oc=5",
         "pub_date": "Wed, 28 Oct 2026 03:01:16 GMT"
+      },
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BWi1Rd0w3b0N6M0VGcEV1X3M4Yk1ucUNjR0NkOWlzNjJ4S0o5dE5OcngwUmY4aU02b015eEVpVl9OSTVHSDNKYmhJLTdxTldRTVBvd2hzRFg5Z25LNTJ4TTQ1YnNIUQ?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 13:47:35 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "089030-기타-63122-20261028",
     "first_seen": "2026-10-28",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -95583,12 +95588,17 @@
         "press": "헬스미디어뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1seW5IRUc5Y3laU3N4RzFzbmhvX09vUDZjdjF5QWlsNHN5dFY0VE5pSUR3dF9Tdk52NGFsdG9UV1lKY3lIdVlkNUJUaEc5Y1A3c1VoN053endOcHVRWFBYcDNDTlR2NE13dkdJeEZYSTd3UQ?oc=5",
         "pub_date": "Fri, 30 Oct 2026 08:43:46 GMT"
+      },
+      {
+        "press": "더퍼블릭",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBISGRtSzJyUnlvbmpJMHpiNzFYX2g1cjZrMEoxM1FDLW5wWUg5NjZyY0I3bEFKVDE3Vng4ajJaRjBXYWtqZmRPNm5NRXc3RXRVa0FTa1RaT0I3ZWNzMWNmYTAwQVY1WXZ3RGRPMzdBRdIBb0FVX3lxTFBISGRtSzJyUnlvbmpJMHpiNzFYX2g1cjZrMEoxM1FDLW5wWUg5NjZyY0I3bEFKVDE3Vng4ajJaRjBXYWtqZmRPNm5NRXc3RXRVa0FTa1RaT0I3ZWNzMWNmYTAwQVY1WXZ3RGRPMzdBRQ?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 06:40:07 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "000100-기타-65461-20261030",
     "first_seen": "2026-10-30",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -96405,7 +96415,7 @@
     "sector": "전기·전력",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "남부발전·하동군·두산에너빌리티, 지역상생 업무협약 체결 - 에너지타임뉴스",
     "source_type": "news",
@@ -96414,12 +96424,17 @@
         "press": "에너지타임뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEaXpjQXVzS0hLYlRwaTN1ZlZGYVlGTVI3UFRkamdBYXRHZlFaaFhwTW5oT2VQYVJQX1dGTk5nbXEyTnJPR3dPMmU1SENXRmNWWUkwZkZCcHVWT3VLZF9lTGxrdjJ5TzBIUUpFaW9HRWNzd9IBdkFVX3lxTE1GTGNmSjZpTkNidDdJRWVFQS1SZnI2d29LTmk4dnlhdXpLTXVBeXpxdTNQZ1M1MEZmNU42X0JOdWZCOG9jLWlxZ3NrWTFqT1hVU3hocFZ1SXNLNVdtdGZ5T05WR2t6T2JTdTRfQUtaZjl1bGZmZ1E?oc=5",
         "pub_date": "Fri, 30 Oct 2026 07:04:38 GMT"
+      },
+      {
+        "press": "경남도민신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45M0Nfa1M4b3JOcXdKX1hZeUFENV9nTFduQUh5MGE3Q0NmTm9TZGVtdDYwekJfS2huRUJ0UENYbl9NcVJINjJwRk5Ua25EU3JMS0o3NGlRMUE2UFFDb1NRaC1CM25rakxC?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 07:17:01 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "034020-기타-65725-20261030",
     "first_seen": "2026-10-30",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -96856,9 +96871,14 @@
         "press": "더바이오",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NY2doZE5vVFlYczdWYWNtTm5VbEg1YUxyTWFmcUN6NElZVmtnWk54TU1xMmhYUUQ2LTlVbFhjakx2Y2FZTkU4TG45S2h6UTdFVG1IVWloYWVPQnpMZTZRT0RvNk1JOWxDbHdWaNIBcEFVX3lxTFA1QVNVVFhET2lfemxCbDlqcFV5Qk5zbkxiVXhia0NUN0Z3a3dKRk5TQnNXQ1VfYS1pem9jYWVpTVBfV1N0a3lscUpZSlEzYVgteFZtRjFBaWFtWmdlUWs2ckhZWkV2Sk9UR3VuNTE1WWo?oc=5",
         "pub_date": "Fri, 30 Oct 2026 07:35:34 GMT"
+      },
+      {
+        "press": "아이알팜",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pbUkxZkg3U2NVRmNxZlpENXpNM3R0VHQ4OW9JRkFUeUprUVNPaS1jcXRkQTNXMVhjcWVtY3VKSTV2OWU0Z2h4cEZoUmloTk9iRENWOXlQeUxyVGRXaE9CQTE4UzhWdkU?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 13:49:43 GMT"
       }
     ],
-    "source_count": 26,
+    "source_count": 27,
     "id": "372320-바이오-65882-20261030",
     "first_seen": "2026-10-30",
     "last_updated": "2026-11-01",
@@ -96924,7 +96944,7 @@
     "sector": "이차전지·ESS",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "포스코퓨처엠-LG에너지솔루션, LFP·인조흑연 협력 확대… 72만톤 공급 추진 - 인더스트리뉴스",
     "source_type": "news",
@@ -96933,9 +96953,14 @@
         "press": "인더스트리뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lRHBYOUo4VlFITVNpQmtjVmpoVUh3MjZUQkM3Yk50eUZOSTlGbzJqUE1VTUZJYWY5N1FXa3ZEYy1jMzFZZFJWcjJoV01XbVZqN1pHQ2tfd0Z5Z1NZM0psZXFyYzBrSGEwX2pTSW9HYkRKQQ?oc=5",
         "pub_date": "Fri, 30 Oct 2026 08:38:49 GMT"
+      },
+      {
+        "press": "한국정경신문",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sQmpwTGpzM2g0TVhLVThRVWNxTjU4WmQ5LTRGcUl3UFNOaHotcGRXXzVDMnRsOWdIUnc3SjJSRW84Q0E1YU1TVmUwQW5fYW1RdlE?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 01:43:54 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "373220-기타-65893-20261030",
     "first_seen": "2026-10-30",
     "last_updated": "2026-11-01",
@@ -97111,7 +97136,7 @@
     "source_count": 1,
     "id": "012450-기타-66054-20261030",
     "first_seen": "2026-10-30",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -97275,7 +97300,7 @@
     "source_count": 1,
     "id": "298040-리스크-66110-20261030",
     "first_seen": "2026-10-30",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -97636,7 +97661,7 @@
     "source_count": 1,
     "id": "298040-기타-66322-20261031",
     "first_seen": "2026-10-31",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -97780,7 +97805,7 @@
     "source_count": 1,
     "id": "012450-수주-66395-20261031",
     "first_seen": "2026-10-31",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "status": "일반",
     "stale": false
   },
@@ -98224,9 +98249,29 @@
         "press": "신아일보",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dd3VYVmlLVlNPTjZDdk9MTURrRnhZcXROOVRld25vQXFCdk1xTDRQTW45UTV0N2dva19HWDJoM3A0dUVWSTl2Ukg1YUJjWWFIb0VxclBCQmZoYUpyaUFkRnNxYWlrS1lPTWdOUTZ1N3A?oc=5",
         "pub_date": "Sun, 01 Nov 2026 01:00:00 GMT"
+      },
+      {
+        "press": "인공지능신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ISlZLN0VZb3ZFcDdMVXhLalp1QzEyMnFCS0Q3V1Z2TlJfLTlZX0NBTFNsa3BtMUY3S0xob3FtWHRKdWJpTHFKWThhc09weE91VDJ0NWZ1VDd3V2E4RXRyNi1lVmFNaG8?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 03:34:07 GMT"
+      },
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uV2d4SGRzZTBFSTJTZnd3OFloVVB3dkd3UFNDcVRkV0t0M1I5NUF2SV9pd0hWQ3hvTmdMS1pPc3BYR2NSSTJfcXRlcw?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 08:25:25 GMT"
+      },
+      {
+        "press": "더글로벌기빙뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pVmhNYnY2VWRNSkk0TWowbm5rU0tuNzk5Nkp6U3VRZ3dEaVVJZGVCejVwcnBOUzhEWDlZNTd6OV9XdUY5NFN4TzQ5ZVQza0tzTzJzdw?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 12:43:00 GMT"
+      },
+      {
+        "press": "IT조선",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HcjZLRTI1anJURTdwZHZwWGZLQlRWMm5Dc2l3N0lJeVFYZUZPUUZnYk5aNWhBb0EtcU5oZk9DYUpOSkFjOGZHbHh5ZDBMME4zbm5KUHJtQ0RxUHpPNVZYMkNndW5XVE9CTnJDMU1BZWnSAXRBVV95cUxNUUMtcVRKaFVBcDI2c25HWGs2V01lMi1GTWl3MVE2Zl81UHJMeVFRVkRiTGZjeWlIOTE1MUVTdllDQzF6QTZtbXd6RU10THNMeHBMak5HUXVfanJ3SkpvRU1zRjlMOUJaZ1pxWFlGWDRIdkpXNA?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 01:06:16 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 12,
     "id": "005930-기타-66781-20261101",
     "first_seen": "2026-11-01",
     "last_updated": "2026-11-01",
@@ -98396,6 +98441,246 @@
     ],
     "source_count": 1,
     "id": "003670-기타-66994-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스, 내년 실적 기대감 확대…증권가 전망치 상향 - 메디컬투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디컬투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oWGtBOWNKSWgydk15R0drcUhNUTh1X3dqVDNHOHJZU1hKNlUyaGFvemtwdDdUal8yVUdHWGZrSm5rckduOHh4T1FyQktrazZfbEdrbHAtM3h6QXdWX2tTbGVjaWJrd0M5SzdXSw?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 08:00:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-실적-67017-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유진테크",
+    "stock_code": "084370",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "JP모건 측 유진테크 보유주식 33만9882주 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tMEpQZ1RINEZrY0NOTVFSVGF6M0RORk9BbzhmVnlzdHJuOW9KQ1BfbmRsZkpXc3daaWFBekFUeGo4TkpkNS1NRHlhYkQ1N0ZQR3JhZVpLUUV5YVoyQS1OTURzSzdqdw?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 09:10:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "084370-기타-67023-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 유럽서 고수익 신규 제품군 성장 가속화 옴리클로 등 판매 호조로 역대 최대 실적 견인 - 이슈투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이슈투데이",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dTBIOU9UMTNzYmZkMUZCVkZYS1pKSG9LX0FPNHZKSE40VEk1LVYxTFZ2UWdnQXhyWUdXQzRYQzJwUWpFeW1GYXZHdFR2c0dPaHpJWWJteXhBcW1wNGVXOEplRXNwQQ?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 13:22:30 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-67125-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오사이언스",
+    "stock_code": "302440",
+    "sector": "바이오",
+    "category": "정책",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[DH times/K-바이오·백신·글로벌 생산·감염병 대응]“미국 정부가 지원하는 에볼라 백신, 한국이 생산한다”…SK바이오사이언스, 최대 9,900만 달러 프로젝트 참여 - https://www.dhtimes.co.kr/",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "https://www.dhtimes.co.kr/",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fdmxTU1p2RS1PaVVHTW53S3c2RnkzeGtzcGFpa2pnQXBpN1VxV0p4SmdYREZYRmIyQV91eklLMWo2V1k2MEt4YVliV1Z4N2tDZzZuS0ZUbklmcEFBbW5zRlhNRV9wN0JRU3c?oc=5",
+        "pub_date": "Sat, 31 Oct 2026 22:50:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "302440-정책-67129-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "큐로셀, 림카토 2차 치료제 적응증 확대…내년 상반기 3상 진입 목표 - 블로터",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "블로터",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCVThicFVwWWhTWlh2SXlxdGJmZC16Q2xJRmRWVXNYOUlEV094TTBEWENfeWU2cGpHaXlFNnM0REg2aHZtcGxtWndVVlc3SzBCVGFCbmtZamlnMzNWRDIwMGVmTkJEdGJud09mVtIBbEFVX3lxTFBCVThicFVwWWhTWlh2SXlxdGJmZC16Q2xJRmRWVXNYOUlEV094TTBEWENfeWU2cGpHaXlFNnM0REg2aHZtcGxtWndVVlc3SzBCVGFCbmtZamlnMzNWRDIwMGVmTkJEdGJud09mVg?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 07:34:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "372320-기타-67155-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "큐로셀, CAR-T '림카토' 2차 치료 확대 추진 - e-의료정보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "e-의료정보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1dWpxbk5KNGFDTXFnNF9kT3oxdXVkdUtQN1hyZlhkTWRIYjhQWE9tUkhZZngwdHVqUERfNVR0YzFBY1NWVUJkeGx1N1M4MGNUUDlHNmxCRkJaVjhGczB2ZVdXWTZKZVR2QkdMTVZka9IBb0FVX3lxTFA1dWpxbk5KNGFDTXFnNF9kT3oxdXVkdUtQN1hyZlhkTWRIYjhQWE9tUkhZZngwdHVqUERfNVR0YzFBY1NWVUJkeGx1N1M4MGNUUDlHNmxCRkJaVjhGczB2ZVdXWTZKZVR2QkdMTVZkaw?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 14:48:18 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "372320-기타-67156-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI 미국 ESS 증설 수혜…서진시스템 매출 확대 기대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZT2tOWTZrcTdGcnBUN1p3b3lNQ2ZOX2ZteC1SNnhRVm5iSmh4STZXb3Q1V0Y5NGNaYnFyaGg4aHlvQXUwOXY4NlctQlB1ZUIzcm5IQngwVDhlX180eHdVSHJUaUtDOEN2ZGtOMVhZa2FXT0XSAXdBVV95cUxNdmxQOFJNQjBPVDd6NnRUTVAyZlNZU1B6Q3VuYnJmWkRxM243SHF6cU1URzdyd3h2VDItcmw1eEktLTNkNEdpYlpvR3pmY1YtbkJYZjVoNGh4cTlnWVNCX2k4bkQ5QW1TVVlGVEdEWkwxUjVDSTRIQQ?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 07:28:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-실적-67168-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠-LG엔솔, 7년간 72만톤 동맹… LFP·인조흑연 등 배터리 소재 전방위 확대 - 경상매일신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경상매일신문",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01dzFpMG5PQlJpeldvVWRfLW9GcENXREFDUXFzbzl6Rld6ZWVFR2NjaWtPMEVqZm1DLS1NRHNyd0xPVlJ1ZFhRTGVvLTRnNlpPWmJvSXN4R2lhUmdPNDNr?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 07:22:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-67183-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "포스코퓨처엠, LG엔솔과 72만톤 맞손… 차세대 배터리 동맹 전면 확대 - 글로벌경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌경제신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaT3QtREttdjAyU2xvRV9yYjNISm9JMkRpMmxJRjBKMWdjR3NSR3B6cmc4bU9SUTZOQWFZcmNNcm8zY2RwNFhFVTZyZVZxUkVrQzFRN1pPVjBZYzh5UmRmU0pNZFFqOHFqRVJWQdIBcEFVX3lxTFBEYzhBNmNieFg1bDRYQzlsYk02VllPckpYNnJ2anFrNV85Y0xjYVAxR1hyTTJnbEd6NVVhQXNxTk9Za25jakNxeVM5VThickZFNEJuUjdzdkw5OWRkdW9MX3JFc0RsV3dNb0lLTkZBZzE?oc=5",
+        "pub_date": "Fri, 30 Oct 2026 13:27:48 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-67184-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDI 미국 ESS 증설 수혜…서진시스템 매출 확대 기대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZT2tOWTZrcTdGcnBUN1p3b3lNQ2ZOX2ZteC1SNnhRVm5iSmh4STZXb3Q1V0Y5NGNaYnFyaGg4aHlvQXUwOXY4NlctQlB1ZUIzcm5IQngwVDhlX180eHdVSHJUaUtDOEN2ZGtOMVhZa2FXT0XSAXdBVV95cUxNdmxQOFJNQjBPVDd6NnRUTVAyZlNZU1B6Q3VuYnJmWkRxM243SHF6cU1URzdyd3h2VDItcmw1eEktLTNkNEdpYlpvR3pmY1YtbkJYZjVoNGh4cTlnWVNCX2k4bkQ5QW1TVVlGVEdEWkwxUjVDSTRIQQ?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 07:28:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "178320-실적-67202-20261101",
     "first_seen": "2026-11-01",
     "last_updated": "2026-11-01",
     "status": "일반",
