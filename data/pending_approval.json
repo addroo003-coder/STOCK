@@ -98677,9 +98677,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZT2tOWTZrcTdGcnBUN1p3b3lNQ2ZOX2ZteC1SNnhRVm5iSmh4STZXb3Q1V0Y5NGNaYnFyaGg4aHlvQXUwOXY4NlctQlB1ZUIzcm5IQngwVDhlX180eHdVSHJUaUtDOEN2ZGtOMVhZa2FXT0XSAXdBVV95cUxNdmxQOFJNQjBPVDd6NnRUTVAyZlNZU1B6Q3VuYnJmWkRxM243SHF6cU1URzdyd3h2VDItcmw1eEktLTNkNEdpYlpvR3pmY1YtbkJYZjVoNGh4cTlnWVNCX2k4bkQ5QW1TVVlGVEdEWkwxUjVDSTRIQQ?oc=5",
         "pub_date": "Sun, 01 Nov 2026 07:28:26 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12bFA4Uk1CME9UN3o2dFRNUDJmU1lTUHpDdW5icmZaRHEzbjdIcXpxTVRHN3J3eHZUMi1ybDV4SS0tM2Q0R2liWm9HemZjVi1uQlhmNWg0aHhxOWdZU0JfaThuRDlBbVNVWUZUR0RaTDFSNUNJNEhB0gF3QVVfeXFMTXZsUDhSTUIwT1Q3ejZ0VE1QMmZTWVNQekN1bmJyZlpEcTNuN0hxenFNVEc3cnd4dlQyLXJsNXhJLS0zZDRHaWJab0d6ZmNWLW5CWGY1aDRoeHE5Z1lTQl9pOG5EOUFtU1VZRlRHRFpMMVI1Q0k0SEE?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 07:35:08 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "178320-실적-67202-20261101",
     "first_seen": "2026-11-01",
     "last_updated": "2026-11-01",
@@ -98705,6 +98710,54 @@
     ],
     "source_count": 1,
     "id": "006260-기타-67232-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온 짐펜트라 류마티스 3상, 한국 이어 유럽서도 첫 승인 - 메디코파마",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디코파마",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BejNfazVldEVwUFhudEo0Y1FqUmdwOElrOWtraGl4TWVyWjJCS0ZoNWFUUkJlMmstRjdRZFRPeUI3Zklha0x6WkdjQjZhcGVuN1dDaFhnbUpCWm0wZ1IxR05zdHhCel9nbUVkcWRMXzE1Zw?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 22:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-67395-20261101",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행 원료의약품 수주 확대, 유한화학 생산시설 증설 본격화 - 의약뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "의약뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zTkMwOXpJM0tfSTNqdC1BU296WXF0R3RCWkthZ19oRzhWUnZaRnpjVWhLOUhnbGpnTXdLeHE3N24tVVh5eExnemRFYWM4T0o5dTZEVDROb2ttNTRNdm1aY0o0X0RDaG8?oc=5",
+        "pub_date": "Sun, 01 Nov 2026 20:58:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-수주-67414-20261101",
     "first_seen": "2026-11-01",
     "last_updated": "2026-11-01",
     "status": "일반",
