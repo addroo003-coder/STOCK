@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티, 연중 최저가…체코 원전 지연 악재",
-      "office": "한국경제",
+      "title": "'싸게 따낸' 원전 후폭풍…1조원 청구서 누가 떠안나",
+      "office": "한국경제TV",
       "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349825"
+      "url": "https://n.news.naver.com/mnews/article/215/0001271544"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오, 4343억 규모 CMO 계약 따내",
-      "office": "파이낸셜뉴스",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/014/0005598874"
+      "title": "삼성바이오, 글로벌제약사와 4343억원 신규 계약",
+      "office": "동아일보",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/020/0003759837"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "하루 만에 '반등 반납'…美 선거·AMD 실적발표 후 투심 회복할까",
-      "office": "머니투데이",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/008/0005436004"
+      "title": "\"서로 겨루며 일하는 방식 혁신\"…AI 경연대회 잇달아 여는 기업들",
+      "office": "더팩트",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/629/0000548455"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "SK하이닉스, 美 첫 낸드 팹 뉴욕주 ‘마시나노센터’ 유력…AI 메모리...",
-      "office": "서울경제",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678385"
+      "title": "아이폰 듀오 국내 출시에도… 갤 폴드8 판매 20% 늘었다",
+      "office": "서울신문",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/081/0003695506"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -389,10 +389,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "포스코퓨처엠, 실적 반등에 재무지표 개선…투자부담 관리 '과제'",
-      "office": "이데일리",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/018/0006403053"
+      "title": "실적 반등 열 올리는 배터리사, ESS 글로벌 수주전 팔 걷었다",
+      "office": "머니투데이",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436132"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -725,10 +725,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=066970",
     "news": {
-      "title": "엘앤에프, LFP 양극재 … LG엔솔에 1조원 공급",
-      "office": "매일경제",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/009/0005758383"
+      "title": "[Biz & Now] 엘앤에프, LG엔솔에 4년간 1조 규모 LFP 양극재 공급",
+      "office": "중앙일보",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/025/0003562628"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/066970/news"
   },
@@ -1271,10 +1271,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "포스코퓨처엠, 실적 반등에 재무지표 개선…투자부담 관리 '과제'",
-      "office": "이데일리",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/018/0006403053"
+      "title": "\"포스코퓨처엠, 연내 LFP 양산… 내년 양극재 출하 10만t 넘는다\"IBK투...",
+      "office": "파이낸셜뉴스",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/014/0005598987"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "엘앤에프, LG엔솔에 1조 LFP 양극재 공급",
-      "office": "한국경제",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349869"
+      "title": "실적 반등 열 올리는 배터리사, ESS 글로벌 수주전 팔 걷었다",
+      "office": "머니투데이",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436132"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "SK하이닉스, 美 첫 낸드 팹 뉴욕주 ‘마시나노센터’ 유력…AI 메모리...",
-      "office": "서울경제",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678385"
+      "title": "로이터 \"SK하이닉스, 美반도체 장비 대중 수출규제에 뉴욕 투자 차질...",
+      "office": "뉴스1",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/421/0009268598"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
