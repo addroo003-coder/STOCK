@@ -165,10 +165,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "AI 데이터센터 전력 잡아라…BIXPO서 직류·HVDC 기술 경쟁",
-      "office": "뉴스1",
+      "title": "두산에너빌리티, 경북 영주 ‘트리븐 가흥’ 11월 분양",
+      "office": "동아일보",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/421/0009270696"
+      "url": "https://n.news.naver.com/mnews/article/020/0003759992"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "삼성바이오로직스 노조, 6일부터 2차 파업…400명 참여 예고",
-      "office": "매일경제",
+      "title": "“반도체보다 더 빠졌네”…바이오 투자 공식의 배신",
+      "office": "이데일리",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759150"
+      "url": "https://n.news.naver.com/mnews/article/018/0006403713"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성·현대차 투자 텍사스·조지아주도 민주당으로…韓 기업 영향은?",
-      "office": "디지털타임스",
-      "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057226"
+      "title": "‘인사 시계’ 빨라진 삼성, 이르면 이달 중순… 역대급 실적에 새로...",
+      "office": "동아일보",
+      "date": "20261105",
+      "url": "https://n.news.naver.com/mnews/article/020/0003760148"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -459,10 +459,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "셀트리온 \"4중 작용 비만약, 비임상서 체중감량 효과\"…내년 2월까지...",
-      "office": "디지털타임스",
-      "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057176"
+      "title": "셀트리온, 차세대 비만약 후보물질 임상 발표",
+      "office": "중앙일보",
+      "date": "20261105",
+      "url": "https://n.news.naver.com/mnews/article/025/0003562901"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -683,7 +683,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=247540",
     "news": {
-      "title": "\"美민주당 승리, 신재생·헬스케어 수혜… AI株 분할매수를\"",
+      "title": "\"美민주당 승리, 신재생·헬스케어 수혜 … AI株 분할매수를\"",
       "office": "매일경제",
       "date": "20261104",
       "url": "https://n.news.naver.com/mnews/article/009/0005759094"
@@ -879,10 +879,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "유한양행, '렉라자 신화' 이을 차기 사령탑 인선에 이례적 長考",
-      "office": "아시아경제",
+      "title": "김열홍 유한양행 사장 \"2030년까지 블록버스터 신약 한개 더\"",
+      "office": "비즈워치",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/277/0005837860"
+      "url": "https://n.news.naver.com/mnews/article/648/0000052281"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000100/news"
   },
@@ -1397,10 +1397,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=042700",
     "news": {
-      "title": "한미반도체 VS 한화세미텍, TC본더 특허분쟁 조정 돌입…재판 연기",
-      "office": "아이뉴스24",
-      "date": "20261103",
-      "url": "https://n.news.naver.com/mnews/article/031/0001071914"
+      "title": "‘성장 자신감’ 한미반도체 곽동신 회장, 자사주 100억원 추가 매수...",
+      "office": "문화일보",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/021/0002830278"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/042700/news"
   },
@@ -1551,10 +1551,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=145020",
     "news": {
-      "title": "춘천 휴젤, 3분기 누적 매출 3521억원…전년 대비 15% 증가",
-      "office": "강원도민일보",
+      "title": "[제약사 리포트] 3Q 휴젤, 판관비에 가려진 제품 매출…관건은 직판",
+      "office": "블로터",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/654/0000209397"
+      "url": "https://n.news.naver.com/mnews/article/293/0000092727"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/145020/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "삼성·현대차 투자 텍사스·조지아주도 민주당으로…韓 기업 영향은?",
-      "office": "디지털타임스",
+      "title": "美 중간선거에 통상기관·로펌 분주…한국 기업 관세·투자 영향 점검",
+      "office": "아이뉴스24",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057226"
+      "url": "https://n.news.naver.com/mnews/article/031/0001072340"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "삼성·현대차 투자 텍사스·조지아주도 민주당으로…韓 기업 영향은?",
-      "office": "디지털타임스",
+      "title": "최태원 회장 SK하이닉스 미국 투자법인 이사회 의장 맡는다",
+      "office": "매일경제",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057226"
+      "url": "https://n.news.naver.com/mnews/article/009/0005759186"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "GPU 가치 평가 어렵다지만…AI 인프라 지원에 손놓은 은행권",
-      "office": "서울경제",
-      "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678813"
+      "title": "최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡는다",
+      "office": "SBS Biz",
+      "date": "20261105",
+      "url": "https://n.news.naver.com/mnews/article/374/0000541769"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
