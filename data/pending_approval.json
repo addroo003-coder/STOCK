@@ -31674,12 +31674,32 @@
         "press": "대한청년일보",
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJY29aTVRucEJHdUxvaUN2bXpKcUs4YXpERzYyTTZtTEtSZURKOHBKd09ZSnNzcldSLW5BNS00MXhmWkk?oc=5",
         "pub_date": "Wed, 23 Sep 2026 22:32:29 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWndHeXlTbXhORnJfQTVKV3psSkE4RDVMYWpkdmdHbERMQTFBYW9WSmVVOEhESkc0T0d0aTBlQ0tzMGZzMnduQnpmdFFvSU14WW83V0cxNU5SUlV6M3B0MnFtUXZnS3FMZFdpaVRPa0g0aXYwRlRXRmtYNGZBSzE1b0I2WFRCV1BUZy11Mnh5THhoYUNOdUlRedIBmAFBVV95cUxPWndHeXlTbXhORnJfQTVKV3psSkE4RDVMYWpkdmdHbERMQTFBYW9WSmVVOEhESkc0T0d0aTBlQ0tzMGZzMnduQnpmdFFvSU14WW83V0cxNU5SUlV6M3B0MnFtUXZnS3FMZFdpaVRPa0g0aXYwRlRXRmtYNGZBSzE1b0I2WFRCV1BUZy11Mnh5THhoYUNOdUlReQ?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 01:36:00 GMT"
+      },
+      {
+        "press": "오토뷰",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pRlktM0VhM0luT1ZXeFhtV1dWbEIwaDM5cEczX0c3Z2xDUGU0QkcyanJDM2ctc1cxUUNVbmxmWnl1Umo1ZE5xek0zMXA5d0dmTmI2dE1PRWhjNmti?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 08:08:00 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92M2gyZVNRWmtsSmx1a3owR0NJelc1aTRaaFhPU3h4bkxSWV9iOXl5MTV6Rmo0eU1kZVdDaFZCMkp5LXM5RGQ0UTNwejFBT0o5ejJvUHZkU0kyN1HSAWBBVV95cUxObDNabnN0UGxnTEtvYTNfT19rWVgzYkl4QldLZGlydmtWRzI2bF9YaktzM3hoZWVSaHRDcTlNcnJMc2FVSVVhU0k5VlRlWFotTlBGelhVYmRzMkFPSlZHdWQ?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 01:30:02 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xbDB6Zi1BMzJwUm53aWpZcXJnWUJ4clFhbHhvdXp3dWx6bmNiRHdPenZkd0hNSHEyeUJWWDMySUdBejcyaklfQ09vYUt0Q1FzOE1SYnJmWVlNQk5YR0ZLOGliV3o1Z9IBZkFVX3lxTE1xbDB6Zi1BMzJwUm53aWpZcXJnWUJ4clFhbHhvdXp3dWx6bmNiRHdPenZkd0hNSHEyeUJWWDMySUdBejcyaklfQ09vYUt0Q1FzOE1SYnJmWVlNQk5YR0ZLOGliV3o1Zw?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 07:31:00 GMT"
       }
     ],
-    "source_count": 6,
+    "source_count": 10,
     "id": "066970-수주-24721-20260917",
     "first_seen": "2026-09-17",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-11-04",
     "status": "일반",
     "stale": false
   },
@@ -89054,9 +89074,14 @@
         "press": "비즈트리뷴",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdnJtZW40S0lIWjVTRlRaY2dLeE9aT0hVRnBQSzQ3ZnlVUkUtNi1BdjU4cUZ6aFRrbVNCQXJXUXpzeUtiam1tQkw1TXRwbHp6SW01aWM4dV8yMDIwSDlLcHFvRF94cWpyR2hWZm4zVWk?oc=5",
         "pub_date": "Wed, 04 Nov 2026 05:55:24 GMT"
+      },
+      {
+        "press": "비즈트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55N3ZqU3hnNU1qc01qVTFwMEFJbGlpUUlDNlFjcXRKczhCUWJMNkFiWXVrNk1PU05hUEs4TUExYTVfQUI2YnJXNFhQbGkyLWJ6NHJkSm5sdk84WV9icnltdUd3WDBRTUR4blpBdzEybw?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 05:55:24 GMT"
       }
     ],
-    "source_count": 16,
+    "source_count": 17,
     "id": "060370-기타-62885-20261028",
     "first_seen": "2026-10-28",
     "last_updated": "2026-11-04",
@@ -102608,7 +102633,7 @@
     "source_count": 1,
     "id": "196170-기타-69188-20261103",
     "first_seen": "2026-11-03",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-04",
     "status": "일반",
     "stale": false
   },
@@ -104098,9 +104123,14 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54VkdteFNhTGtDNTh1Nk1JY3JGYmVUdmZJS3RESE9xZVlvVFVkVmtxMmRZRkR2QTNQMzFQZk9kQUR4MGUyWDI3Ui1pLXZMcDN6X0cyZ0NmOGNoR19nT1dSSkxQOHJGREFhejJ0UnV30gFuQVVfeXFMTnhWR214U2FMa0M1OHU2TUljckZiZVR2ZklLdERIT3FlWW9UVWRWa3EyZFlGRHZBM1AzMVBmT2RBRHgwZTJYMjdSLWktdkxwM3pfRzJnQ2Y4Y2hHX2dPV1JKTFA4ckZEQWF6MnRSdXc?oc=5",
         "pub_date": "Tue, 03 Nov 2026 23:30:31 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ldFpidndvQ191X1BCVXFuczNmZUg3aDdKMExFdHpDMC1SWE1ncjlBcWFVMUxoN21hM3l1d2Y1dnVYZERzTTNLMXprcUUwOTZxMVRmZ0tZZEk0NnRTWFpQaUZxTDhqb01R0gFuQVVfeXFMTnhWR214U2FMa0M1OHU2TUljckZiZVR2ZklLdERIT3FlWW9UVWRWa3EyZFlGRHZBM1AzMVBmT2RBRHgwZTJYMjdSLWktdkxwM3pfRzJnQ2Y4Y2hHX2dPV1JKTFA4ckZEQWF6MnRSdXc?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 23:30:31 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "047810-기타-69844-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-04",
@@ -104467,9 +104497,19 @@
         "press": "뉴스웍스",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96dndOdHRPbGZSblB0ckVlT3YzTlk1NE5FV05Fb08xN29DMHd3OTUyYnJNS2EwTXB0dUo2ODRqWDlHYURDS2dsOVRjUUxRQnlFbXk3eFRPWVRCYjJ2Q0xOa2wteEVydGRnM0dHS3FfUdIBc0FVX3lxTE5RYXZiSUhDbU91a09vbkpmX2dmRkk1WEk3c1dmOXViM1lrNk9VT1JGSGZheWhrLWZ6Z24ySDJlTWRkVW5fYWl3RU9xbThkekNPRGc1OUZtX1NRV2Z5dHVjVTF2UjBpdngtaTFCNUp6d2pRbkk?oc=5",
         "pub_date": "Wed, 04 Nov 2026 09:38:14 GMT"
+      },
+      {
+        "press": "조세일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUNVFkcW1kaklKeDQ0ZFNaYTA0VkdZR0h4d2dGSXVpektYSG9haVFYVkxXMTFzMmYwbktMZDFBcW5zajFaLUgxNXQxMFZxMWZFM0FhT1h2b2VzNzZtTFBudF9sOXJhUlgtemE1TFFCbw?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 01:20:27 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUpfZ09PeVk3c0k4cXFpWmpNRzFXYktvV00zTHlsYzFhdFRvemRSVHdqZzMzNHphcWpMRjN4c0pIU2o4dEl5SEhqdjVDLWlXQ3hpUllPdldiNjBEQ05QWDJzV2ZYcWctdk92Wjd0R1dGZThYbFlyb096WGgtMHhDNjNRVVdWS03SAZsBQVVfeXFMUHRkT0RrUEs1cnlkUHBCNXN0MjFzNktBa01RZTlKZldrSDkyRTlZOW9WWWY1Q3YwamstQ2V4UlV6YkZ0OXBoWlo5RXFEeEhYOFR2UFdyNGEwRFN2VjQ0TTVESE9wYXFHenRZaGU3bVNwVW43V01fZE5adTVxcGE2QlRDQ1ZhbXBKZy1PdVA1WXNnU2lONzdRVmtKV3M?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 01:12:00 GMT"
       }
     ],
-    "source_count": 14,
+    "source_count": 16,
     "id": "326030-바이오-69933-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-04",
@@ -104764,7 +104804,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "지씨셀, 2027년 검체검사 개편 맞서 물류·특수검사 확대 - 바이오타임즈",
     "source_type": "news",
@@ -104773,9 +104813,39 @@
         "press": "바이오타임즈",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kX0hkbWNiYXNIVlV4VDdaSThENWtHd2pQUXJEUlY2YzJJV1drTkd4Tll0V1RSRFpmVEdOQVZiX01La1ZPMFMzRFVqUG9DazdjR0tZNTU3X0tEdkVmZkw2cmJsNG02cHFLLXFhcA?oc=5",
         "pub_date": "Wed, 04 Nov 2026 00:52:30 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NbWZ5MjRTMW5ScHZRd0pJR3EzQXo2MGdaWlVhUkF3bXFXVEloZWZvbDYwYk9qRDdaWHFLclpvN2tmcDhPZDRZVDRlQWhpckZGYzF6T3VKbnNkbVRIdUp6LUxabEF5LVRCeF9QZQ?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 00:19:43 GMT"
+      },
+      {
+        "press": "FETV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCY2pOcmNCQ3FIQjNTdnctdE4yMUNjUWI3TlJSSGhJeURBZktjT2JSLVFTOGg2a0xuVTZ1V3FpT2RSWFhhY3RUVWNLd3c4VVRXVGUzbDU2Q1VEcXR3ZzVMU250anliOE1T?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 00:15:05 GMT"
+      },
+      {
+        "press": "헬스오",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YVGZndEd2ckh5aG1oUU5FaUtPc2E2OThkeFNuc19EM3p2aWlqMzRtbWJyQm9rOUJ5LWxWTDc1eGVvcXRQeVFCeVVkaVR1VGJZLVlKaDR3?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 01:52:24 GMT"
+      },
+      {
+        "press": "나눔경제뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rYVlYdzVNcFRMRjVtVHVaeTVzajhDZTFJVXo1Nm5IMnBCRDE4SzB1MGZZRTFkV2cxcmZXTklTY3VtQTROaFc0NEY2RzFia01lOFJaZ3h1aFVudlpqWDF4MFJmTEkyd3A0aC1paw?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 05:52:40 GMT"
+      },
+      {
+        "press": "메디코파마",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40MTcxMmF6NzJyZzlIV3Zqa1V1R19acVdaMUpTeU1CdGQ0N0phS0JCTEtoMzFxUkJwcUE2NDJuS3FXYVJCVjktQndnZzFyRldQdmZ3OS1MdkJ0akxIbk5ubUJRMS1nbjNoWDhkb0p4Ql8tZw?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 00:19:48 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PUzl3cEJ2S0pjQUtiejNST1phcnpjRVhnYTJvV2o2T051SlVGdy15TEZaTEpTUG1fdVdXRVF6ZGpzV0FxRlludTFoWjlGRFRFYS1RUjh6RlJ0elQtLVRfNHhUNFE?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 23:54:09 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 7,
     "id": "144510-기타-69956-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-04",
@@ -105176,9 +105246,14 @@
         "press": "노컷뉴스",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MW5kRHVOWWZrQnNqenhVZVAzSC1qdzUtcTAtUm0yUFhfc1B5UW9kYkx3YW5YdmR2VFhXRnlNRkZyb2JQUU5WMS1RSHJQbnYyLXc?oc=5",
         "pub_date": "Wed, 04 Nov 2026 09:11:10 GMT"
+      },
+      {
+        "press": "브레이크뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WN0hWWFp4RVpfU3FZN0xDQkJrbjRaMGwtMWJvT1VNZVM1akNEVWVXck1BYUV5d3JpUklBb19pX2E5b0k3cFJR?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 14:11:00 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "012450-기타-70335-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-04",
@@ -105732,6 +105807,126 @@
     ],
     "source_count": 1,
     "id": "078600-기타-70507-20261104",
+    "first_seen": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하나마이크론",
+    "stock_code": "067310",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하나마이크론 7.50% 하락…분기 최대 실적 뒤 수급 변동 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iSUVwUWpNYThueTlQcnRMRDlTUXFlVFluelpYcUpDVWJBNE9FWGJhTkpaVDVzMXJVUFFhcXExNkNWM3hKMExKVWFuaC1YTEJITmEwZmR1emZZYUpzTHU5bzM3Q1hLRzVZOTgzckxLQW1DZ9IBckFVX3lxTE5iSUVwUWpNYThueTlQcnRMRDlTUXFlVFluelpYcUpDVWJBNE9FWGJhTkpaVDVzMXJVUFFhcXExNkNWM3hKMExKVWFuaC1YTEJITmEwZmR1emZZYUpzTHU5bzM3Q1hLRzVZOTgzckxLQW1DZw?oc=5",
+        "pub_date": "Tue, 03 Nov 2026 23:01:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067310-실적-70540-20261104",
+    "first_seen": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트 브리핑]HD현대일렉트릭, '수주잔고 북미 비중 확대 및 배전 제품군 영역 확대' 목표가 700,000원 - BNK투자증권 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUXB2UHQtR1VhMHZFQmRxY2pyWTVEeXBtTTdNbWlfS0o1TGJpNnhFYmt3WG9yRHdiY3RIdXoydDkzdXVFS1VGZEo0WjZOdlBDT1dQZC1WX1oybDI4?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 05:13:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "267260-수주-70550-20261104",
+    "first_seen": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "산일전기",
+    "stock_code": "062040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "산일전기 3분기 영업익 445억원…전분기보다 28% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0WmpDY3FrbVFlai0tTWxVbUJTYzlqWmp5U2JnR3JPaXJtOHJ2OG11eWs5ek9fQW5zYVRJclk5V0kyMWJ5eWpoZ0RkajVYQ2QtX2JMNjVOVzhPM2QtdkpsblZ3WjJMdw?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 10:14:28 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "062040-기타-70561-20261104",
+    "first_seen": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알테오젠, ALT-B4 기술이전 효과…분기 최대 실적 : 네이버 블로그 - Naver Blog",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Naver Blog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNl8tZjY0bFpvZ0NiRktoNmlzSWJVLUNyVVdqR1pLNTZ0dm44dWp4akJqN09tREJ5bkRmX2txeWdYbnR6LWtFSTNiZkhpOG9nOFhKMVMtdnJJWUFIU1NLOHBwZkR1ZXYxN0M5WUxwcURoOE5TZFQxb0M2LVVCTXBiTmp0dUxBVloxcmphOFdPOA?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 11:18:14 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-실적-70648-20261104",
+    "first_seen": "2026-11-04",
+    "last_updated": "2026-11-04",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최주선 삼성SDI 대표, 3년 만의 최대 이익에도 남은 숙제 - CEO저널",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO저널",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rX1dRNFRfNTZVV0MwemFOV21ia3UtY0hmNnFsRnhGMEx6U3p2d3pmcjhWTmFnNTdZNDdNV29Ha253OFNOcGg1ZnVaZmRpaG0td0JLQTRocDg2cHBUQk5JNDZ2TU9uMknSAWtBVV95cUxPU2FsckE5cmlmVWFKaW1JV2dObzdOamVabVc2aXdCMkEySTIybUZGeXRrWjJQS0FBVzJZdGJYSjNJbVdWd1lMOE5uVFBIUEJPa0o5Zld0UzhjdDQxek1vTWVMblhtVjQxVW9XMA?oc=5",
+        "pub_date": "Wed, 04 Nov 2026 03:50:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-기타-70668-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-04",
     "status": "일반",
