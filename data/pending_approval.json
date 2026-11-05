@@ -105366,9 +105366,14 @@
         "press": "광양경제신문",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RMlpJMlV6d0F3YnpZZjMtWWlIT2d2SVNsSVpTY1ZBVXdYM1o2QWdSQWNOVmViZVRTalJyS3l3OXJYWmNsNmg0ekw5dE9oZ2hkN1BtUWEzY1ZmQlJhRmJXOVdlNlRGaEdocDZj?oc=5",
         "pub_date": "Thu, 05 Nov 2026 13:12:40 GMT"
+      },
+      {
+        "press": "사회적경제뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1kSTdoREt4eVJKc0IxYVFld2I2YkpyOFpEYWEzMkplMVM3d0FLeWNPZHNJNXM1S2xqdTVsN01Tbw?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 06:20:00 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 11,
     "id": "012450-기타-70335-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-05",
@@ -106918,7 +106923,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "현대건설, 콘크리트 품질관리 전 과정 디지털화…AI·빅데이터 활용 확대 By EBN - Investing.com 한국어",
     "source_type": "news",
@@ -106927,9 +106932,14 @@
         "press": "Investing.com 한국어",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mcEpSV2ZiZmNsNjNoSzRCaGgxZUdhTE40WUNjdHdNWnhuQXV5TnRTNXlwUVBlRktwSjJkNWFMeUdXeHBwcGJBc3ptUWtoR2JORWI5TnBlTnZEOVJQODc5bkt2MWFhdzc4MGgzQVZldE4?oc=5",
         "pub_date": "Thu, 05 Nov 2026 01:51:00 GMT"
+      },
+      {
+        "press": "S저널",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DTENpaDhZdjdrNC16Rnpxd2ZaZ3U0LXl1T3BPcEo1TUpHUEZBcUJuMURBdW05bGM5eUE5YXZlQUFxdWJUcE5VZTJWdzY1V2U1OUI5bW9kZk5ZeW5fb2swN2UtaHJjTnVZRUhXRGtR?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 07:55:34 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-71073-20261105",
     "first_seen": "2026-11-05",
     "last_updated": "2026-11-05",
@@ -106951,9 +106961,14 @@
         "press": "조세일보",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uNG5OWWY0NWtVMzBRM0dFZWZLWU8xYVBqaWVubnhpaFRzRVdESC15YjZzaUFENzBNTzhxNU5wTFN6dnBCX29iNE1TM0U1cGtaZkpRYXd1UjJGS2ZJX1lDaU9vNzQwaUNtWVU2U1NuWQ?oc=5",
         "pub_date": "Thu, 05 Nov 2026 01:42:51 GMT"
+      },
+      {
+        "press": "조세일보",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FRzVaOUtGRGtmUTBaTWQzYldDdHhaUkhDNG5TN3dUY3dyWVlIVDl1Z0tZWWVlcTMtQjhuYjBJc0lVcTlQc01RZVZ2VnB0QlpSdU50OHFjWWRVYnBMZkF4RmFjcndYN2dzM2ExR05YRTdBd1BQ?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 01:42:51 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "052690-수주-71077-20261105",
     "first_seen": "2026-11-05",
     "last_updated": "2026-11-05",
@@ -108008,9 +108023,14 @@
         "press": "팍스경제TV",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tREQyNVQ3Ry14YVIwaVRXekZDSWg2MXk3dVV0dGhpc2RTZHhERmtfc3ZJeEZ2c01id21hZ1ExX1FNQ3ZrTmFYd3VCVjJRQ2h4MVN2ZzBBOHJ6WDNpemFiR04ydzRueTg?oc=5",
         "pub_date": "Thu, 05 Nov 2026 13:50:11 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGs3RnBaV1NsU1NnU3I0RWVZT2VtRmdJZ0NOYUNsSEdFSHdabEZZb3Q2djBWcWhvSlE2b043M3VEdk5xMk1zMktyMXVfSmFsQm9LcF82MUJFSDdWTjNwWEtYLVY5dUdL?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 13:51:05 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "302440-실적-71524-20261105",
     "first_seen": "2026-11-05",
     "last_updated": "2026-11-05",
@@ -108302,7 +108322,7 @@
     "sector": "이차전지·ESS",
     "category": "실적",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "엘앤에프, 3Q 매출 34% 증가에도 '적자전환'…환율 하락에 발목 - 블로터",
     "source_type": "news",
@@ -108311,9 +108331,14 @@
         "press": "블로터",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SN1ZNQUliT2FMakZ4TFRHYVMzeDZBOFRRNm1ONHlhOXIwT1paaGFOUTdzM1hrb0IzcHNtQ1NMblZZWU9CNDY2N21vUG91RkZjLTVBRWpadWJpbDVqUGwxYUw5aUpqMzdodjFZUdIBbEFVX3lxTE5SN1ZNQUliT2FMakZ4TFRHYVMzeDZBOFRRNm1ONHlhOXIwT1paaGFOUTdzM1hrb0IzcHNtQ1NMblZZWU9CNDY2N21vUG91RkZjLTVBRWpadWJpbDVqUGwxYUw5aUpqMzdodjFZUQ?oc=5",
         "pub_date": "Thu, 05 Nov 2026 08:12:54 GMT"
+      },
+      {
+        "press": "Daum",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rZnV5Y0luTzBxRlY1Z3BadGpfSkhxaTFWdFVzQVkxNEJSaDN1ZVFwZzd1RkZkTHdOdkRKTTNOLTJzTVo0bzRob2JrVQ?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 09:55:01 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "066970-실적-71595-20261105",
     "first_seen": "2026-11-05",
     "last_updated": "2026-11-05",
@@ -108435,6 +108460,54 @@
     ],
     "source_count": 1,
     "id": "365340-기타-71604-20261105",
+    "first_seen": "2026-11-05",
+    "last_updated": "2026-11-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온, 브라질서 '코이볼마' 출시…제품군 10종으로 확대 - SBS Biz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "SBS Biz",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wekh6YUREOVBSMkF4YnhOTVZqemNmV3RocGxZQlhuZjRoOEdJOXJnVjNkN2k3N1pTWlcxaksxU0tIdnlKZVZFdUQ1eXRQWFNWX3ZZ0gFYQVVfeXFMUDdCOUhqMEJsY0I4NHNtVFAtcFJMT3FaYU5mcV9xTGkydGtvbVkzeVI3X3lCY3RsWFRrckdNdVRSMW5GbE5qTGczOFBweUt4cXpMYkM4ZENrSg?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 01:53:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-71642-20261105",
+    "first_seen": "2026-11-05",
+    "last_updated": "2026-11-05",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오사이언스",
+    "stock_code": "302440",
+    "sector": "바이오",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오사이언스, 3Q 적자 축소…누적 손실 개선은 '글쎄' - 톱데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5acUZCRk1pbkZCZHpZM0JNVEhHR29lY2RSbFZoNExpLXhvbjNkMXg0ZVVCbHY0RV9yMTRNY1R1RGozTFNJNmZzZFI3OWV4MlNf?oc=5",
+        "pub_date": "Thu, 05 Nov 2026 07:55:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "302440-리스크-71644-20261105",
     "first_seen": "2026-11-05",
     "last_updated": "2026-11-05",
     "status": "일반",
