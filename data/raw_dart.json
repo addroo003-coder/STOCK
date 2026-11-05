@@ -6,6 +6,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261105000566",
+    "rcept_dt": "20261105",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000566",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "최대주주등소유주식변동신고서              ",
     "rcept_no": "20261104800612",
     "rcept_dt": "20261104",
@@ -348,6 +361,32 @@
     "rcept_no": "20261103900449",
     "rcept_dt": "20261103",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900449",
+    "is_correction": false
+  },
+  {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(전환사채권발행결정)",
+    "rcept_no": "20261105000553",
+    "rcept_dt": "20261105",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000553",
+    "is_correction": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261105000483",
+    "rcept_dt": "20261105",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000483",
     "is_correction": false
   },
   {
@@ -972,6 +1011,19 @@
     "rcept_no": "20261104900284",
     "rcept_dt": "20261104",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900284",
+    "is_correction": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20261105900791",
+    "rcept_dt": "20261105",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900791",
     "is_correction": false
   },
   {
