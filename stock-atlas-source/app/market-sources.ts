@@ -361,10 +361,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "'블루 웨이브'에 간신히 지킨 5000피…\"당분간 변동성 지속\"",
-      "office": "머니투데이",
+      "title": "5천피 겨우 지켰는데 \"그래도 1만피 간다\"…글로벌 큰손이 꼽은 4가지...",
+      "office": "한국경제TV",
       "date": "20261106",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437754"
+      "url": "https://n.news.naver.com/mnews/article/215/0001271967"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "'20만 전자' 무너진 날…노태문, 삼성전자 주식 6.3억원 매입",
-      "office": "데일리안",
-      "date": "20261106",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152355"
+      "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
+      "office": "동아일보",
+      "date": "20261107",
+      "url": "https://n.news.naver.com/mnews/article/020/0003760763"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -501,10 +501,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=222800",
     "news": {
-      "title": "심텍, AI서버 기판 덕에 분기 영업익 1000억 돌파",
-      "office": "동행미디어 시대",
+      "title": "AI 규제 우려에 '검은 금요일'…'5000피'마저 붕괴",
+      "office": "한국경제",
       "date": "20261106",
-      "url": "https://n.news.naver.com/mnews/article/417/0001163435"
+      "url": "https://n.news.naver.com/mnews/article/015/0005351045"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/222800/news"
   },
@@ -879,7 +879,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000100",
     "news": {
-      "title": "유한양행 버들장터 신제품 최대 63% 할인⋯ 10일까지 기획전",
+      "title": "유한양행 버들장터 신제품 최대 63% 할인⋯10일까지 기획전",
       "office": "코메디닷컴",
       "date": "20261106",
       "url": "https://n.news.naver.com/mnews/article/296/0000106994"
@@ -1481,10 +1481,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "한화에어로스페이스, 유도미사일 ‘천무’ 폴란드 공장 착공…“방산...",
-      "office": "동아일보",
-      "date": "20261105",
-      "url": "https://n.news.naver.com/mnews/article/020/0003760397"
+      "title": "[하나에어로 IPO]① 벨 장기계약에 수익성 입증…생산능력 증설 시험...",
+      "office": "블로터",
+      "date": "20261106",
+      "url": "https://n.news.naver.com/mnews/article/293/0000092806"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1691,10 +1691,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=060370",
     "news": {
-      "title": "서해안 에너지고속도로 발주 임박…전선업계 수주 경쟁 본격화 [비즈...",
-      "office": "헤럴드경제",
-      "date": "20261105",
-      "url": "https://n.news.naver.com/mnews/article/016/0002719369"
+      "title": "LS전선·LS마린솔루션, 빅스포서 해저케이블 기술 선봬",
+      "office": "더팩트",
+      "date": "20261104",
+      "url": "https://n.news.naver.com/mnews/article/629/0000548750"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/060370/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "미국발 쇼크에 개장 3분 만에 5천 무너져…정부 긴급 진화에 5천은 방...",
-      "office": "MBN",
-      "date": "20261106",
-      "url": "https://n.news.naver.com/mnews/article/057/0001977064"
+      "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
+      "office": "동아일보",
+      "date": "20261107",
+      "url": "https://n.news.naver.com/mnews/article/020/0003760763"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
