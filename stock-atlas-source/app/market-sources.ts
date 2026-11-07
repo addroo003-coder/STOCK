@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
-      "office": "아시아경제",
+      "title": "\"삼성전자 덕에 12배 잭팟\"…반도체 호황에 돈벼락 예고된 이 동네",
+      "office": "한국경제TV",
       "date": "20261107",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839428"
+      "url": "https://n.news.naver.com/mnews/article/215/0001272016"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "매물 쌓인 아산은 내리고 신축 귀한 진주는 뛰었다…공급이 가른 집값",
-      "office": "시사저널",
+      "title": "'젠슨 황 장녀' 매디슨 황 방한 전격 취소…'AI 데이'는 예정대로",
+      "office": "이데일리",
       "date": "20261107",
-      "url": "https://n.news.naver.com/mnews/article/586/0000141808"
+      "url": "https://n.news.naver.com/mnews/article/018/0006405944"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
