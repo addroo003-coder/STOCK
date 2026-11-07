@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"삼성전자 덕에 12배 잭팟\"…반도체 호황에 돈벼락 예고된 이 동네",
-      "office": "한국경제TV",
-      "date": "20261107",
-      "url": "https://n.news.naver.com/mnews/article/215/0001272016"
+      "title": "“ASML EUV 공급 모자란다”… 삼성전자·SK하이닉스 장비 확보 경쟁",
+      "office": "조선비즈",
+      "date": "20261108",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203242"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1271,10 +1271,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=003670",
     "news": {
-      "title": "\"LFP 양산 본격화\"…포스코퓨처엠 상승 기대",
-      "office": "한국경제",
+      "title": "영업익 기대치의 4.6배인데…포스코퓨처엠 목표가 놓고 證 ‘동상이몽...",
+      "office": "서울경제",
       "date": "20261104",
-      "url": "https://n.news.naver.com/mnews/article/015/0005350323"
+      "url": "https://n.news.naver.com/mnews/article/011/0004678784"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/003670/news"
   },
@@ -1397,10 +1397,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=042700",
     "news": {
-      "title": "“AI 묻은 건 다 판다”… 개장 2분만에 5000P 붕괴 ‘검은 금요일’",
-      "office": "문화일보",
-      "date": "20261106",
-      "url": "https://n.news.naver.com/mnews/article/021/0002830890"
+      "title": "“ASML EUV 공급 모자란다”… 삼성전자·SK하이닉스 장비 확보 경쟁",
+      "office": "조선비즈",
+      "date": "20261108",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203242"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/042700/news"
   },
@@ -1677,10 +1677,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=010120",
     "news": {
-      "title": "美 데이터센터 투자에 제동 걸리나…韓 AI 공급망도 촉각",
-      "office": "데일리안",
-      "date": "20261107",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152390"
+      "title": "삼성, 빠르면 이달 중순 정기인사…'실적·미래' 초점 맞추나",
+      "office": "뉴시스",
+      "date": "20261108",
+      "url": "https://n.news.naver.com/mnews/article/003/0014308252"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/010120/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "'젠슨 황 장녀' 매디슨 황 방한 전격 취소…'AI 데이'는 예정대로",
-      "office": "이데일리",
-      "date": "20261107",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405944"
+      "title": "“ASML EUV 공급 모자란다”… 삼성전자·SK하이닉스 장비 확보 경쟁",
+      "office": "조선비즈",
+      "date": "20261108",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203242"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
