@@ -83356,12 +83356,17 @@
         "press": "중앙이코노미뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yWkRVamhFTXRZeWpQR0EzQ2pYekZ3VFRSNFl1dVZaUVp4VjV4VFFvaVdyVFp5ajdqdFBTUXFsdHVBNE1SbTRQU0tOcWEwUzlwRFBaeXF0bjVDcWRzWHFoZnpGWE5PS0JLT2JvaVlRUlE2UQ?oc=5",
         "pub_date": "Sat, 31 Oct 2026 03:12:28 GMT"
+      },
+      {
+        "press": "중앙이코노미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wMFAzV3Y4ZDY3dGtTNjlvNGpKM3dGQlc0UTY1cTRoRjRsRVY0VUN5UHJENnA1bWNxcF9rWHhvMGtCX0FuTkRreW1XZ1BxWWJtWXFvc3NjWnJrYjBRbU5IVTVCejNOMHhJcENMLWJnOGJlQQ?oc=5",
+        "pub_date": "Sat, 07 Nov 2026 02:21:29 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "010120-기타-59305-20261024",
     "first_seen": "2026-10-24",
-    "last_updated": "2026-11-02",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -107377,7 +107382,7 @@
     "source_count": 1,
     "id": "302440-리스크-71189-20261105",
     "first_seen": "2026-11-05",
-    "last_updated": "2026-11-05",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -107507,12 +107512,17 @@
         "press": "파이낸셜신문",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15NTBxOUNvSGo3VDVjdzFLV2k4UmpTRWVHR1IxajljTlJxcG9QRmctYlpIblpOUzdfS1dZVGN5dkQ4VGpBSjdBUkE1a2JWeXRHQmVLUDMtc3BXSXRzaG0zT0JMNDZRaWNSMVVV?oc=5",
         "pub_date": "Thu, 05 Nov 2026 08:17:29 GMT"
+      },
+      {
+        "press": "식약일보",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE43dzBQS2dGYlk1RHRucmxaNmhSeDBic0FhTlcyRkNmNVJhOVBNUGZwMC1OMTUwZTRleE40?oc=5",
+        "pub_date": "Sat, 07 Nov 2026 10:51:00 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "326030-실적-71238-20261105",
     "first_seen": "2026-11-05",
-    "last_updated": "2026-11-05",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -109188,12 +109198,17 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzQUFoeDRtb3Z3WjFsTVl3VjBfM3dtTU5jZzM5S1YwbWRsNXF2eDB1ekhHcWYwU0lmcndZUEgzYUt5MExpX0h3UXNfWW1QSmpLWWMwVl9SN2Z2VGpNekRnazdvZVJFSk9PWWp6bU930gFuQVVfeXFMUDNBQWh4NG1vdndaMWxNWXdWMF8zd21NTmNnMzlLVjBtZGw1cXZ4MHV6SEdxZjBTSWZyd1lQSDNhS3kwTGlfSHdRc19ZbVBKaktZYzBWX1I3ZnZUak16RGdrN29lUkVKT09ZanptT3c?oc=5",
         "pub_date": "Thu, 05 Nov 2026 23:56:15 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yeklZVWNmTUwwQ2hTaklkeS1COV9fNzRINzJ1UFdpWlVrUHcxZDU3dE9IOGZoejFmaXBMcFdTaTUtaEVfS3ZTcDN5VHVJUENlWHJaaElaNXh1N3R6cTRmMzhwd2NETDBPNWhVWVRPblpONnZQOGfSAXtBVV95cUxPX1lkMjZGQ01zOGlNamt4X3gyTVZIS1JIdnBwRXZsTENxN0c3a3pkUkp4M0p6b1Z0cmlhTnYwRzlWT0JuNXgyOXRfMS1IZjlFUkc4cjFRTGdqY0toVUtKTGR4SW1LRzViZGtpVkQzUjBScnQ1NU5xSXgzZU0?oc=5",
+        "pub_date": "Sat, 07 Nov 2026 04:18:37 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-기타-71819-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -109305,7 +109320,7 @@
     "source_count": 4,
     "id": "302440-리스크-71864-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -109652,7 +109667,7 @@
     "source_count": 1,
     "id": "247540-기타-71940-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -109753,7 +109768,7 @@
     "source_count": 1,
     "id": "066970-기타-71944-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -109777,7 +109792,7 @@
     "source_count": 1,
     "id": "066970-실적-71945-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -110068,9 +110083,24 @@
         "press": "CNB뉴스",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LTzFlMGpMMTJNT2FtMTlrU0NELVdvSzhOSHNtaXI1M2dDYjdEd0xjU3ZHeEpRMHpsMksyRXQ3SlZ5dlVuWXlzc29vZ2lWbEd6T0N2cFNfeXJnb2dqTHVvZ2dFZzQyNnlWLXI4?oc=5",
         "pub_date": "Fri, 06 Nov 2026 02:27:01 GMT"
+      },
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeU9xblE3YV9pbWtnSHFRSDJRWVc5U3RkUTUwY21iTkxJYmt6THVNOHhVWjU1M0k0V3JjeEF4V3RuUWd5VHZxenloLUs5bXRwYjJGakNlU1BXS1hYUjU1ZU1yVGJwQmhzUl9OQktvV3dVNDQ2OHY1VHZEZjlCR1JkYg?oc=5",
+        "pub_date": "Fri, 06 Nov 2026 01:10:02 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RVzNIbHhjeGpCS0hMUkJFYXQyR0IzSlRjZ1BGZHYwMXBmc2hJVkh5MkkzX3ljSEx2OXBsM2h6UW43Q3h4VHctWnhGaXdxclJRR3AtWHhSWUQ5M0JDQTk5U1VpQkg?oc=5",
+        "pub_date": "Fri, 06 Nov 2026 01:06:06 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwenpQalR6TUtGamlzTmFpTnk0NzZLQzVhc1lYbVl4S1ZYMXlrYUtFcEdTVkE0NkstT3oyRmk5NjVVR0F1QmZDTzY0NXh2NGE2REprZEpOMUFLZnJCZFlFbXl2dUY?oc=5",
+        "pub_date": "Fri, 06 Nov 2026 00:40:04 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 15,
     "id": "000500-수주-72066-20261106",
     "first_seen": "2026-11-06",
     "last_updated": "2026-11-07",
@@ -110545,7 +110575,7 @@
     "source_count": 2,
     "id": "066970-리스크-72346-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -110569,7 +110599,7 @@
     "source_count": 1,
     "id": "066970-실적-72348-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "status": "일반",
     "stale": false
   },
@@ -111334,6 +111364,126 @@
     ],
     "source_count": 1,
     "id": "247540-리스크-72962-20261107",
+    "first_seen": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "필옵틱스",
+    "stock_code": "161580",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "InvestingPro 적정가치, 필옵틱스 주가 53% 급락 6개월 전 경고 By Investing.com - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKQmxwUjRrT3ZjUXppcWpZNVRWcnlwYmJxQThWSnFkV3lTb1RPYWpqelNpeFVmc2dmNk8teklMb3phNkZ4MnBJeW8xWEFCOVBualU4cE1aeDN5dEpMUTRjSkZzclFtQzN1Q2d1bUwyVDZ5X2dVUXc?oc=5",
+        "pub_date": "Sat, 07 Nov 2026 11:48:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "161580-기타-72989-20261107",
+    "first_seen": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오사이언스",
+    "stock_code": "302440",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오사이언스, 3분기 세전 흑자전환…배경은 ‘외환평가이익’ - 디지틀조선일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지틀조선일보",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVODhDNktENWNubWhyMEZoZmFOclRybWdrUDVkVkRPa19kZlI0c2hkaXo2eDJ4MUR0VDd0NklDc1QzMnkzUTdaMXloMjR0Y2I3eHRQVndLQ0YzYl9hYU5wQmFYcWFVX0FKOG1XMGdEYzAtZXJ2d2lRMGw0Y9IBe0FVX3lxTFBVODhDNktENWNubWhyMEZoZmFOclRybWdrUDVkVkRPa19kZlI0c2hkaXo2eDJ4MUR0VDd0NklDc1QzMnkzUTdaMXloMjR0Y2I3eHRQVndLQ0YzYl9hYU5wQmFYcWFVX0FKOG1XMGdEYzAtZXJ2d2lRMGw0Yw?oc=5",
+        "pub_date": "Fri, 06 Nov 2026 06:06:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "302440-기타-73045-20261107",
+    "first_seen": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "11월 첫째주 포스코퓨처엠 주가 변동성 확대 - 중앙이코노미뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "중앙이코노미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5TENIbHVSTVhtNmgwM3ZJSnlIVlhxSXd2RG9ReE96RVIyZnJYcjBUVzJ5TlBOcm1aM1FhWWh1NlFCVWRZRWNxRkhtdEpEYWN6RjRIbTJhM3YtZ0pJeHZONXRVdUtLbDVRYWhJYVdQc1NiZw?oc=5",
+        "pub_date": "Sat, 07 Nov 2026 03:51:43 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "003670-기타-73075-20261107",
+    "first_seen": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "신영證, \"에코프로비엠, 3분기 기대치 부합…단기 부진 딛고 내년 회복 전망\" - 포인트경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "포인트경제",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ZXNvQnpXQjcyWFRuWG9TV196bHM3ay1BU1lUTTlRWkNycnVjVUVxX2l3anJBc2V4M05BSkRmMkNrblNrQlc1TEl4cXdYSVJINEs4UWN5OVlBeXhlMlpGdjJIR0stU2dTdlE?oc=5",
+        "pub_date": "Fri, 06 Nov 2026 00:13:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-73076-20261107",
+    "first_seen": "2026-11-07",
+    "last_updated": "2026-11-07",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엘앤에프, 3분기 영업손실 265억…NCM 출하 최대 전망 : 네이버 블로그 - Naver Blog",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Naver Blog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWMxVndXTlpYai1wSl9mUWZwbTFVMm1RVHFuZG9LS2x3WnRQRk9WR1Z0X25TWVI4WndSWXdFdm1Vaks2OXFwcFpmTTJ6djk0MkZXOTFQbE51Y2cyeXFGb1dDUUx0MnFzMERKNGhQUXpkaGF6emp4TkR3dW9lNHdmSGFrTTduYkJfeVo4ZnQtbw?oc=5",
+        "pub_date": "Fri, 06 Nov 2026 05:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-기타-73077-20261107",
     "first_seen": "2026-11-07",
     "last_updated": "2026-11-07",
     "status": "일반",
