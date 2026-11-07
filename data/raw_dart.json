@@ -104,71 +104,6 @@
     "is_correction": false
   },
   {
-    "company": "삼성전자",
-    "stock_code": "005930",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "최대주주등소유주식변동신고서              ",
-    "rcept_no": "20261104800612",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800612",
-    "is_correction": false
-  },
-  {
-    "company": "삼성전자",
-    "stock_code": "005930",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "자기주식처분결과보고서",
-    "rcept_no": "20261104000325",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000325",
-    "is_correction": false
-  },
-  {
-    "company": "주성엔지니어링",
-    "stock_code": "036930",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "실적",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-    "rcept_no": "20261104900314",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900314",
-    "is_correction": false
-  },
-  {
-    "company": "유진테크",
-    "stock_code": "084370",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(약식)",
-    "rcept_no": "20261104000136",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000136",
-    "is_correction": false
-  },
-  {
-    "company": "한미반도체",
-    "stock_code": "042700",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등거래계획보고서",
-    "rcept_no": "20261104000002",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000002",
-    "is_correction": false
-  },
-  {
     "company": "ISC",
     "stock_code": "095340",
     "sector": "AI 반도체",
@@ -312,19 +247,6 @@
     "is_correction": false
   },
   {
-    "company": "솔브레인",
-    "stock_code": "357780",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "신탁계약에의한취득상황보고서",
-    "rcept_no": "20261104000251",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000251",
-    "is_correction": false
-  },
-  {
     "company": "티씨케이",
     "stock_code": "064760",
     "sector": "AI 반도체",
@@ -349,19 +271,6 @@
     "rcept_dt": "20261105",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800383",
     "is_correction": true
-  },
-  {
-    "company": "대덕전자",
-    "stock_code": "353200",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20261104000254",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000254",
-    "is_correction": false
   },
   {
     "company": "태성",
@@ -468,32 +377,6 @@
     "is_correction": false
   },
   {
-    "company": "산일전기",
-    "stock_code": "062040",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "실적",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-    "rcept_no": "20261104800393",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800393",
-    "is_correction": false
-  },
-  {
-    "company": "산일전기",
-    "stock_code": "062040",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "실적",
-    "title": "영업(잠정)실적(공정공시)              ",
-    "rcept_no": "20261104800392",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800392",
-    "is_correction": false
-  },
-  {
     "company": "LS",
     "stock_code": "006260",
     "sector": "전기·전력",
@@ -556,97 +439,6 @@
     "rcept_no": "20261106000032",
     "rcept_dt": "20261106",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000032",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "약관에의한금융거래시계열금융회사의거래상대방의공시",
-    "rcept_no": "20261104000191",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000191",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래",
-    "rcept_no": "20261104000189",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000189",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래",
-    "rcept_no": "20261104000187",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000187",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래",
-    "rcept_no": "20261104000186",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000186",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래",
-    "rcept_no": "20261104000185",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000185",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래",
-    "rcept_no": "20261104000182",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000182",
-    "is_correction": false
-  },
-  {
-    "company": "가온전선",
-    "stock_code": "000500",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래",
-    "rcept_no": "20261104000181",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000181",
     "is_correction": false
   },
   {
@@ -780,32 +572,6 @@
     "is_correction": false
   },
   {
-    "company": "한전KPS",
-    "stock_code": "051600",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20261104800439",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800439",
-    "is_correction": false
-  },
-  {
-    "company": "한전KPS",
-    "stock_code": "051600",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "실적",
-    "title": "결산실적공시예고(안내공시)              ",
-    "rcept_no": "20261104800436",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800436",
-    "is_correction": false
-  },
-  {
     "company": "한전산업",
     "stock_code": "130660",
     "sector": "원전·SMR",
@@ -881,19 +647,6 @@
     "rcept_no": "20261106000224",
     "rcept_dt": "20261106",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000224",
-    "is_correction": false
-  },
-  {
-    "company": "컨텍",
-    "stock_code": "451760",
-    "sector": "우주항공",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결(자율공시)              ",
-    "rcept_no": "20261104900236",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900236",
     "is_correction": false
   },
   {
@@ -1027,32 +780,6 @@
     "is_correction": true
   },
   {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20261104000338",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000338",
-    "is_correction": false
-  },
-  {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20261104000332",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000332",
-    "is_correction": false
-  },
-  {
     "company": "SK바이오사이언스",
     "stock_code": "302440",
     "sector": "바이오",
@@ -1131,19 +858,6 @@
     "is_correction": false
   },
   {
-    "company": "SK바이오팜",
-    "stock_code": "326030",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "투자판단관련주요경영사항              (뇌전증 치료제 세노바메이트의 일차성 전신강직간대발작 적응증 미국 FDA 허가 신청)",
-    "rcept_no": "20261104800110",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800110",
-    "is_correction": false
-  },
-  {
     "company": "휴젤",
     "stock_code": "145020",
     "sector": "바이오",
@@ -1154,58 +868,6 @@
     "rcept_no": "20261106900847",
     "rcept_dt": "20261106",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106900847",
-    "is_correction": false
-  },
-  {
-    "company": "휴젤",
-    "stock_code": "145020",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식매수선택권부여에관한신고",
-    "rcept_no": "20261104000322",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000322",
-    "is_correction": false
-  },
-  {
-    "company": "휴젤",
-    "stock_code": "145020",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최              ",
-    "rcept_no": "20261104900488",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900488",
-    "is_correction": false
-  },
-  {
-    "company": "휴젤",
-    "stock_code": "145020",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식소각결정              ",
-    "rcept_no": "20261104900301",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900301",
-    "is_correction": false
-  },
-  {
-    "company": "휴젤",
-    "stock_code": "145020",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "실적",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-    "rcept_no": "20261104900284",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900284",
     "is_correction": false
   },
   {
@@ -1352,19 +1014,6 @@
     "is_correction": false
   },
   {
-    "company": "씨아이에스",
-    "stock_code": "222080",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주주명부폐쇄기간또는기준일설정              ",
-    "rcept_no": "20261104900153",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900153",
-    "is_correction": false
-  },
-  {
     "company": "서진시스템",
     "stock_code": "178320",
     "sector": "이차전지·ESS",
@@ -1389,31 +1038,5 @@
     "rcept_dt": "20261106",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000359",
     "is_correction": false
-  },
-  {
-    "company": "서진시스템",
-    "stock_code": "178320",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]타인에대한채무보증결정              ",
-    "rcept_no": "20261104900666",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900666",
-    "is_correction": true
-  },
-  {
-    "company": "서진시스템",
-    "stock_code": "178320",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]타인에대한채무보증결정              ",
-    "rcept_no": "20261104900638",
-    "rcept_dt": "20261104",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900638",
-    "is_correction": true
   }
 ]
