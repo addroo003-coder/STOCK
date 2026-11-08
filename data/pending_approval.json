@@ -110168,9 +110168,14 @@
         "press": "서울경제TV",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwenpQalR6TUtGamlzTmFpTnk0NzZLQzVhc1lYbVl4S1ZYMXlrYUtFcEdTVkE0NkstT3oyRmk5NjVVR0F1QmZDTzY0NXh2NGE2REprZEpOMUFLZnJCZFlFbXl2dUY?oc=5",
         "pub_date": "Fri, 06 Nov 2026 00:40:04 GMT"
+      },
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52ZDFidzlZcno3TDRSZ0JIYUwwVWd0YWlRUW9QQWdFdTljV0pBWlpULW9QM0FCang1LW4tXzdJcWJRZUdXeENEbU55RDE2Z2UxOUNYcThIOGVKSXVGUVplOXhvYUpNZw?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 09:41:29 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 16,
     "id": "000500-수주-72066-20261106",
     "first_seen": "2026-11-06",
     "last_updated": "2026-11-08",
@@ -111206,7 +111211,7 @@
     "source_count": 1,
     "id": "000100-기술-72655-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-07",
+    "last_updated": "2026-11-08",
     "status": "일반",
     "stale": false
   },
@@ -111946,6 +111951,126 @@
     ],
     "source_count": 1,
     "id": "145020-기타-73338-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·현대차그룹 첫 부부동반 모임…차량 반도체·반도체·파운드리 협력 확대 - 서울신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울신문",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Q3F4SUZ5SlRab0pSc2dNZkFsSXZQdXdDWnpQZnNjQWNaZzNjRXdtV1hFbVJzY3I2NVY5QTlUT0pOM0hlZ3VsVXozbFluSS0zRmc0VC00Z2plSFJOZmZvNXpMeTFxNFdiRHJJd1AzaFJuVkF4TW10WklETQ?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 09:41:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-73374-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "美 '블루웨이브' 후폭풍…삼성·SK하이닉스, 반도체 투자 변수 확대 - 산경투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "산경투데이",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10TTJrMXNpaEItSUU5bUNDS1paYW5VUERJbkt3ZG11VndWdVNteUs5T3hhV2dLb2J3WUpMSVBlcWlNS2dua2wxYXJ1cmxyZTI3MlBQVDBnQ29VLVVLQmJBR2tJM2tOVlVHMllyWTUxWjNfdlU00gF0QVVfeXFMTXRNMmsxc2loQi1JRTltQ0NLWlphblVQREluS3dkbXVWd1Z1U215SzlPeGFXZ0tvYndZSkxJUGVxaU1LZ25rbDFhcnVybHJlMjcyUFBUMGdDb1UtVUtCYkFHa0kza05WVUcyWXJZNTFaM192VTQ?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 02:42:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-73394-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "티씨케이",
+    "stock_code": "064760",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "낸드 고단화가 기회…티씨케이 반도체 부품 수요 확대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPWVE2T3NSREk3cEVIaFhDb0xYdFFiMDhjVUtOMlBUQnV6TC1vNFc3bHJLSFE5R0Qwc0VaNm1jSnU4WEI1eFlyaHpFc3lzWEFaaHNiX0lIeHlfVnlyN1FlNkNrcWY4UmNUeUJZa3MwUm9ZeGfSAXdBVV95cUxQckE4aGM2dkVhdU5leHluMkVzSlJzSkdBcDBKWUpCYXVWOVgzbnVVMlYyeklRVGRPRG9hR013MmtxcmtZRXdGNmV5c29MVVhFQ2RJT0dvaFg5aUJfS05qU3YwSmJfZ3BseS1PRklxdmVIZEdmMEoxcw?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 06:06:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "064760-기타-73406-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기 7.84% 급락에도 오픈AI CFO 'AI 수요는 실재한다'…중간선거 후폭풍과 투자 확대의 충돌 - CBC뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42UzZSSjJfTjlrT29ZRElTNHg4OTVtRjEwRGJ6OUlGcnY5RmRWWUh0T2ZXM2hLVXE4akRlMFQ5QWNRVFp1TWc0bUh2X1NRMnhSdW9jU0hwWnJwSkZCMXFmd01XMXR0eDM4?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 06:30:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-73410-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "환율 부담 뚫고 최대 실적 경신…고영, AI 인프라 수혜 기대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0cklWbUhhaHRRVTJrSXAtMjRBcDVmaWx2TFMtZ0tDckV2MW1MS2RoNjk0cG5qdWJEY0xETGMyWE9VOFZzRFhmcDNDNDQwZ1dhNE12ZEtiZHlKMTdCU0pTSm1LZHBuR1NaLXNKWDFUR1dTYXdtZjFV0gF3QVVfeXFMUHRySVZtSGFodFFVMmtJcC0yNEFwNWZpbHZMUy1nS0NyRXYxbUxLZGg2OTRwbmp1YkRjTERMYzJYT1U4VnNEWGZwM0M0NDBnV2E0TXZkS2JkeUoxN0JTSlNKbUtkcG5HU1otc0pYMVRHV1Nhd21mMVU?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 06:41:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "098460-실적-73512-20261108",
     "first_seen": "2026-11-08",
     "last_updated": "2026-11-08",
     "status": "일반",
