@@ -111794,7 +111794,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "삼성전자·현대차그룹, 첫 그룹 간 교류…미래차 협력 전방위 확대 - 글로벌이코노믹",
     "source_type": "news",
@@ -111803,9 +111803,24 @@
         "press": "글로벌이코노믹",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUdHQTJyejZBRDhnallIblFTUlpIOTBpZ3VhQ2lJcGl2b0RSeUM4TTJvbDVobWl5OU5OdHhjZ1RNdE9aWXdnNDJEWVdEYlVkZWJFaGpaUm9iT1NIM2JFYnI4c2pDanZ0WnNxcFhpa3VkcGROcnQ4a201c2JwWm5OU3VKcmptQQ?oc=5",
         "pub_date": "Sun, 08 Nov 2026 02:15:41 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OUDZaWUZYU0dpODdrUjIxcGNRdGh2X1g1UFdDbU1qVjRELUkxbHdqYUVnb1lIX0JwWkhCZVU4Vmowb3VmNExXazBxLUcyQlZKTVdoN1BWaU5tTHli?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 09:35:00 GMT"
+      },
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ad0RzSDVXa3p0LTdQaHBzOFNJaUF6ZktHRnBvb05aMkw0N3VFT2JxUXVBMkVpUzc4RzJWam8ybUl2ckxjSW42MlNUbEpyaG0zaHE2UC1WaFhLYk1SbHJQbDN4WDZINEdhamFJYmpvZmk?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 05:31:00 GMT"
+      },
+      {
+        "press": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjI0QUJaU3Q0dUw4RDlfUFNqaXktQ1owVU9TYTVBVkF4RC10NHcwRHpIWldVY1RESUpkdFA4UEhSa0F2NkExZzREZ1g3OVl2LUJsNXE5WVE3OWdhbkdBc3RwRkZSR2RxT2k5RmQ4TVNNUEZGQ1phRHBENFU3TGhmWU5rQVpHczFRTktHUXI0SQ?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 06:16:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 4,
     "id": "005930-기타-73216-20261108",
     "first_seen": "2026-11-08",
     "last_updated": "2026-11-08",
@@ -112071,6 +112086,54 @@
     ],
     "source_count": 1,
     "id": "098460-실적-73512-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS일렉트릭 단기차입 한도 9433억원으로 확대 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CTVgxT09jbUdXWDVTRU1wekZERU03QU5wTVcxMVFKUUlBZ0pfdDUzMFZxeWczM0pqQ3Z2dmpuT1dDUUY0a3VXSkJOTDlPbk4zek5zaWpyN3BZLW81aTJkaUdWa2VfQQ?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 09:21:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-73686-20261108",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "내년 FDA 승인 기대…HK이노엔 곽달원, ‘케이캡ʼ 신화 쓸까 [CEO 임기보고서] - 금융신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zNTZWMTFKZG9OM2VSTThWSDNiYWpQSmhiVXlfYnJmUGtXREptZlhyVHg3bnFCUmE0Y2FxYnZuN2FZNl9zUFFCLVVkWWV3b2NmNXVZaFFGVlNUVExFbm1XVDRHS0tOM0l2cFlYaXdqQW9oUVdzLVZoTml1YlY?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 15:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "195940-바이오-73745-20261108",
     "first_seen": "2026-11-08",
     "last_updated": "2026-11-08",
     "status": "일반",
