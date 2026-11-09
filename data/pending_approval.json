@@ -112002,9 +112002,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EUDJoSHV6NnV6ODRPT2pFRnZoS0VFa29MdWx5U2hMeFB4TFBzMUFtRmo3cWFCY2RHOFlRQ0RZN3lUTDNBZDVENjBlTm1RaURCLUF2T2tyaUFPb2ZBbGFqSXpFbU9FeTUycnZvbXlmQXR3YlY0bFZv0gF3QVVfeXFMT0RQMmhIdXo2dXo4NE9PakVGdmhLRUVrb0x1bHlTaEx4UHhMUHMxQW1GajdxYUJjZEc4WVFDRFk3eVRMM0FkNUQ2MGVObVFpREItQXZPa3JpQU9vZkFsYWpJekVtT0V5NTJydm9teWZBdHdiVjRsVm8?oc=5",
         "pub_date": "Sun, 08 Nov 2026 00:01:53 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzc2tnY2IxY3hsR01JSlZIZXNEelYtZGJyZVkxWHdKZWV5QXVBNGtXZ2dsUjhEeWNmWks3bmFLTDNJZm9vSmtNYWFEUlNtOUZXUFptaVNtNWVtYTkxNmRTNmM4MG9CUVFsbThjV0U5NGVfYUHSAXdBVV95cUxPRFAyaEh1ejZ1ejg0T09qRUZ2aEtFRWtvTHVseVNoTHhQeExQczFBbUZqN3FhQmNkRzhZUUNEWTd5VEwzQWQ1RDYwZU5tUWlEQi1Bdk9rcmlBT29mQWxhakl6RW1PRXk1MnJ2b215ZkF0d2JWNGxWbw?oc=5",
+        "pub_date": "Sat, 07 Nov 2026 23:12:12 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "145020-기타-73338-20261108",
     "first_seen": "2026-11-08",
     "last_updated": "2026-11-09",
@@ -112454,7 +112459,7 @@
     "sector": "바이오",
     "category": "실적",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "IBK증권, 파마리서치 목표가↓…\"마진 하락에 실적전망 하향\" - 매일경제 마켓",
     "source_type": "news",
@@ -112463,9 +112468,14 @@
         "press": "매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKNTJXLXplcEltLXc4SUk2RlNWSkxWS3NSb0UwUWlOajF1MENGVjVRX003UlVLYWh5SFJuRU1IQ21LTnBOb25PY3MwQVVUTERiaHc?oc=5",
         "pub_date": "Sun, 08 Nov 2026 23:33:08 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1za0hZTm5fc1J4U1FSWjFpZnJjT1JkSmJnR2JWUUo2MEU0NTBZU2tCZ1l2Z1BvVDhEX0VleVNBUHRSODd4OS05U0Y2cjNZZURqMW1JbTVhcFRTY3PSAWBBVV95cUxPSjl5R1dMVy1OOFZmSXZMYkF0UHNKSEg4eU81T1hFZkRVeGZqRlJRZndnR0pZMkRmSE5tMlZxYmhWZHNHTExaR201RzRKdzdtaFljVTZPRU1UZ1NkSTk2TlM?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 23:33:08 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "214450-실적-73966-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -112593,9 +112603,14 @@
         "press": "뉴시스",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52MkFIWEFTRFRSNDZYaC04cHBDUThKWENTcUZ0S01vNzFiZlpCMkE3TDZ1SXc5blNMZGZiWWJteEU1aWpkd19meEh1WGxPTVlaNzhWVmlZMng1R2xHMnhwY01fVkM3bnhMd2k5OGYySG00RnEzZVl1RtIBeEFVX3lxTE52MkFIWEFTRFRSNDZYaC04cHBDUThKWENTcUZ0S01vNzFiZlpCMkE3TDZ1SXc5blNMZGZiWWJteEU1aWpkd19meEh1WGxPTVlaNzhWVmlZMng1R2xHMnhwY01fVkM3bnhMd2k5OGYySG00RnEzZVl1Rg?oc=5",
         "pub_date": "Sun, 08 Nov 2026 23:48:32 GMT"
+      },
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LN2gzVG9XQi1DMjdFYTJ6VkR3YmpFRVpwWTFCeWxhNG5iMkZyOG4yNEpqQTZ2RjFyNnJaN2syNXlEMl9CM2p3N1BqWGNPZU9TWV9oYlpGa1pNZjlzOWZKUDdzdEJKRjdmbGh4UGF30gFyQVVfeXFMTjVvYXhBcnRhbzZQVlgyX1p4UGpWblZqUndwdzRuOEcwcmJEdHE4d25aUU9Kb0w2NHE3STZHa0Q2SVRVaVBVZThiQVhIMVZZazlvSkhHRzR4T1paM1RFYXBJWEZ5djJnT19ybjlxMUhVTEVn?oc=5",
+        "pub_date": "Sun, 08 Nov 2026 22:46:08 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "247540-기타-73992-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -112800,7 +112815,7 @@
     "sector": "원전·SMR",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한전KPS, 2026년 3분기 순이익 57억4900만원으로 86.54% 감소 - 디지털투데이",
     "source_type": "news",
@@ -112809,9 +112824,14 @@
         "press": "디지털투데이",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CaFNUazZVcUdta3hOc3l2VkFyMm9HRWRHU01EbzNuUmQ2Qy11S1dYdVdHbWh6S0paTDFwakt5MjBoSlFIb29PbXh5Z19ZMnZOVzMzTDk4bl9ZSXlLcHM0Wi1wYm83UHBlRmlwUUlpZDN6MkVWMFhwQ3lZYw?oc=5",
         "pub_date": "Mon, 09 Nov 2026 07:02:06 GMT"
+      },
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uSGVMRFpfaGxTR3dBaGZsRm5Gb09jeXFwWEZJYzNseV9mY2p5aEx3MV94UFJaYW9nYWdncmlSU1ZXZzYtbUdtb1lHVXE3YjVBc0RXQmRJTVlBY09PYmE4LTE2R3VTZw?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 11:31:41 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "051600-기타-74286-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -112920,9 +112940,19 @@
         "press": "한국의약통신",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ramlONDkwQU1ENGlkak8tMVV1UHRtd0tWY3BJWGR5TmEtQ3NNak05RFhGdVUydUlHc1FzSTJTMWdHbDF4dXRFVGxiQ0loeE1kSF9rUkxfd1Uxdi13Wm9Tc2h4MGYwRGJRczE0?oc=5",
         "pub_date": "Mon, 09 Nov 2026 07:09:14 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xSmQzMlYyMGVTS2UySTdqbVNzSVl1VVc5WWV6OGx6V1RVcHI0ajJ1el9jQk9qVUJVMDFMWHgxRjZwY0d0MklBcktnSC1OOVVaMTY3a0xvWjU3VnlVbzIxQkRTdUlxeVp5YnctN1Y4RnhWU0ZTdjBkRtIBeEFVX3lxTE8xSmQzMlYyMGVTS2UySTdqbVNzSVl1VVc5WWV6OGx6V1RVcHI0ajJ1el9jQk9qVUJVMDFMWHgxRjZwY0d0MklBcktnSC1OOVVaMTY3a0xvWjU3VnlVbzIxQkRTdUlxeVp5YnctN1Y4RnhWU0ZTdjBkRg?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:36:37 GMT"
+      },
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wQjRoclg2a1ZUR2JHNEdKb3hUSmhkVl9MWWwtMFl0RWhWZDlDWTVTSXNQQUtfcXJhUFdwX3BXeWV3azVLemxKU2FmSTdCdlJoRjQ4ZWlpTGNFME9TZkhiSUhUTUYxWnlYZWNtdktMNjBkT3Zl0gF0QVVfeXFMTnBCNGhyWDZrVlRHYkc0R0pveFRKaGRWX0xZbC0wWXRFaFZkOUNZNVNJc1BBS19xcmFQV3BfcFd5ZXdrNUt6bEpTYWZJN0J2UmhGNDhlaWlMY0UwT1NmSGJJSFRNRjFaeVhlY212S0w2MGRPdmU?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:17:02 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 6,
     "id": "068270-실적-74351-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -112935,7 +112965,7 @@
     "sector": "바이오",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "셀트리온제약, 3분기 매출 1619억·영업이익 239억…역대 최대 - 뉴스1",
     "source_type": "news",
@@ -112944,9 +112974,14 @@
         "press": "뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92azIzcmZhenBwRE5qdXRtWXMwZFg2N3hZX1BpR0dvMlpTTmRjclltY0hBWjhDVGs4ekpXQm9rMXNUN2VydkRldWRWR05nUnBBVUtXeVJvTU41NnBwRk01Rw?oc=5",
         "pub_date": "Mon, 09 Nov 2026 07:04:20 GMT"
+      },
+      {
+        "press": "한국의약통신",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ramlONDkwQU1ENGlkak8tMVV1UHRtd0tWY3BJWGR5TmEtQ3NNak05RFhGdVUydUlHc1FzSTJTMWdHbDF4dXRFVGxiQ0loeE1kSF9rUkxfd1Uxdi13Wm9Tc2h4MGYwRGJRczE0?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:09:14 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-실적-74352-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -112998,9 +113033,14 @@
         "press": "바이오타임즈",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85b01JRnZmdTdVSl9kRVN2SU9uVkIwY0tCRXpXZHpwZm8zamRGVnJKM0ZFelVfSS1SZmRQRHQ1d01kV1Q5TTVtNlM1a3JYdUxUeXFmVmhYZExxeU9BSlhzdFN5VFRJN0VLaFFsTQ?oc=5",
         "pub_date": "Mon, 09 Nov 2026 00:55:19 GMT"
+      },
+      {
+        "press": "메디포뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wU0IxWWp4RHREQWZLSmE4VV9IdERDQVZUaDNaTF9EMUNVSHVNcjZZaU5GeHBNR25sM1FDX1pDeWJlNkVad3pBRHBORjNZYWhuZXpVUjUyVWtZQXhkbkdXSUVKQzc?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 15:20:33 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "068270-기타-74353-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -113229,7 +113269,7 @@
     "sector": "바이오",
     "category": "실적",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "한국콜마, 3분기 HK이노엔 실적부진 탓에 '어닝 쇼크' - 메디컬투데이",
     "source_type": "news",
@@ -113238,9 +113278,14 @@
         "press": "메디컬투데이",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yaEZ3d2Y1YnFRaWptbE5PWDVoU2F0YS1OYWVQZmxNam9GQzBlQ1Q1eWR4R0NqNEh2Uk4xU3NYUGZOb3JGVlU2OHdYRWEtU1ZLa2ktcDZRVWVySlFJamV2UnQ1X0trMG5iZmdOXw?oc=5",
         "pub_date": "Mon, 09 Nov 2026 02:10:34 GMT"
+      },
+      {
+        "press": "알파경제",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSmJUUG9id2JsRWJxdlhRek9KV2VfVk1raWxuVndHOVFlTlRqTC1qZlhqUWdjdzFLekp6LVFBd0dfcjBtUWxXSGV3cEJBNUlkRTRPNGM5U2lrU2xSTVI3MzZsRjJOSkFKQ3JrWlZn?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 02:10:34 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "195940-실적-74451-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
@@ -113338,6 +113383,456 @@
     ],
     "source_count": 1,
     "id": "066970-리스크-74502-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "최대주주등소유주식변동신고서              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800775",
+        "pub_date": "20261109"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20261109800775",
+    "id": "100840-기타-74524-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "정책",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[블루웨이브 청구서②] 삼성전자·SK하이닉스, 미국 AI 데이터센터 규제 변수에 메모리 수요 셈법 복잡해지나 - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MUWlMUmotNjlrUkg0bDFTVVVfRGNseHo5WnV6eW1TWWtHbzhwUngxS3oxTnNLNzZRNzMxdXZORU80ZFNTZFhHNzBnYmVsaGRrTmszcDZWYUUzQlB6YzF1YlU0Q0p5aThGckx6Y2pJQklSY2M?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:57:47 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-정책-74545-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "원익IPS 3분기 영업익 142% 증가, 순이익 88% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VGRSOVV2Z2F3V0JidTRRSVRDRVVQWnBlX0toRndQM2ZlTU9yUXRnUEd4WjktTDdRWW9pYmh3RnRlUk9ZamlVRXNmd2JOVG90NGctUlFrV3R4ejR1SDQxSU9UWTJfUQ?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 10:26:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "240810-기타-74550-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HPSP",
+    "stock_code": "403870",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "InvestingPro 적정가치, HPSP 54% 급락 전 고평가 경고 By Investing.com - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nM2hxbk5LSFg1UjlUR3R6WlBueWxJTGktdHV0VDU2d0IwOS1TYm1VZDk3ZTUzd3FMMDFaVE9ucFhfTzlMV2J5aHA5b3VYcENWNzI5NThITU0wRFMxNmdLR015dnRjaUlwMzlBc3hYS0h4ejluVGc?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 11:47:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "403870-기타-74559-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SNT에너지, 최대주주 SNT홀딩스 측 주식등 보유 비율 3.00%p 증가 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wVjY2MTBZelhTeDlZQmFxV1U4cVVwOVpmVGcxS0MtYTk0QTJVd1laX2NycFBJb2NRSVluUjlqdjdsdnNIcXpFZnpCUzdHZHJHTklOUm44RGVUR0tGTTAySnVIdHBVZ21xSmZLZmVTQmZvUE15b3h0SzY5cw?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:20:06 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "100840-기타-74649-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SNT에너지, 최대주주 SNT홀딩스 등 주식 10만6000주 증가…SNT홀딩스 장내매수 영향 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SVGo1MmJqMVFDLWdtWXNJVXNHeURqaWFpNUNQY1lWQzgyY2tESUxGbEo0MDJhLTZrMkM0VGkxNHRhU3NoSXVUQkR4U0t5cHVQSUk1V0I5aGVMS2laZ2NTTWRwUmFpeUx6VGxiV0pibmVYUzBrQ2JqRlRnQQ?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 09:11:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "100840-기타-74651-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전기술 목표주가 14만원으로 하향…하나증권 매수 유지 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9md2R0TFpEMndrWUI2M29NNnB3WTZuNHgxUk5YUmtyRGM4TFFCSU5aR1JBVWdZUTdIZHpmdVU4eXpReWlhamRaZFd5bWRSMVYxNWlna0JFcEZGQkdFUUY2WnBTbEdUQQ?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 16:55:47 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-기타-74707-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전기술, 2026년 3분기 당기순손실 10억2700만원…전년 동기 대비 적자전환 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QZlp0MW5IS0VFclVQN2RCYXlGVnBYT1JzazF1M3dGaENHQi1MTXdfMXVDSmZaZWtkNXlrbmRIOHVpOUJ2dW8zQUs2Z0VxeVNUM2NpaVhtODZ0RWxwX3l2eWxvN243SGZ2NzB4bVYwdjd4QlAtNVhyY3RuNA?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:23:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "052690-리스크-74709-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한전KPS",
+    "stock_code": "051600",
+    "sector": "원전·SMR",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한전KPS 3분기 영업이익 117억 75.43% 감소, 매출은 16.05% 줄어 - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lMkl2cHNLYlRpWW53TWYyZ0RuS1pYUXRWQXNZSUFQVXhRekRRZlE2NnVZZHNkRnVMdF9adjJqU2llQ2s2d0k0amdmWTV3QWlHdlo4TmNaZzdrajh4UHQwcjBGb3VWNTJXMGkzcy15Ty1US0E?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:24:33 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "051600-실적-74713-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온제약, 3Q 영업익 239억…역대 최대 분기 실적 - 연합인포맥스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CUmlHam9COWVycktWbW80N0ZmZ0xucm9jSm13dGphQzEydjhzN1NrcHBKTHoxam9OR0xkc3pDVWttSUdqdWJ3aDRmV0NScGY0R0E5bF9IbHRlc0JJYlhWRkNwVmljMmx6eTdkM1VxU3E?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:55:44 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHlkc2V0S3pSZ29sYWpyTUx3bldQUnRaSGpDSmpaazZHaGFYQ3J6amk1QWlrQ25HWC1uM0lnblhIclpiSFQxMUtYVXJsakg4SUwweEZiRWw2SXhfUC1rcmpMTzJ5YkkwVGN3VXBSamZGN0duUVJYRk5lUDFxY2ZYNmNBRGVXajTSAZsBQVVfeXFMTlV6blNYZXl2UkpmUTZjejdrbjB5d0VlSkc4RE9zX1BqclItWkJuLXFCOVBIQWpfQVBJQ3RWVFdQS2JxbWxzTFJQUWZUYmdTeDZFdmxCNWxTWHBaaS0tM2VYbHNFRzUzUDRHNEhmZFp3WXpHVVBrcWRKQlp6c0hnNHdRdlVESU1kVDc5N3ZBWV9tWlFLLUF3bTY1TE0?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:39:00 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rQm5VVXdhbWtvSjhMX1pTMGVLTEhsQUpEa3AyN3c1Vzl5c1BwRFBiOHNNM1BKLUk2YXY4OUpMSXVzUnVWOHRmRlZsWGt5amE0anFKdFUxRnZvdG1oY1MtQtIBYEFVX3lxTE1rQm5VVXdhbWtvSjhMX1pTMGVLTEhsQUpEa3AyN3c1Vzl5c1BwRFBiOHNNM1BKLUk2YXY4OUpMSXVzUnVWOHRmRlZsWGt5amE0anFKdFUxRnZvdG1oY1MtQg?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:26:49 GMT"
+      },
+      {
+        "press": "서울파이낸스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGROMC1xRDJUVURmMHB3TjVhRll2Q2tDZ2o0ZnRhb0VGaHNsQjV1RWo3SnVMN2RWUnhtQU9xWUJwd05pUVUwbFNBbU5xQU5nVVUycW9ZSTFWOVlzSVRwN3BTUXZaam5IZkE?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:15:28 GMT"
+      },
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtUGcwRmI2bWNaUjdybFVEaVZDRWhXTFB4ZENOeXBDd202REl2MDJ2SUJFYUFiY3liN1B4MENSYTdEa1VfV25WX210bElyWkJDUi1Va0ZCRTlENG1kYXIwMHhWMDlVQXQ2NnlVUEFCZ2g0QUk?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:25:04 GMT"
+      },
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dDYyX1BRRk1zdnIzTVFXU3hna0dzZnJhZjQ4Z2xzOS0xRnJ2VDFRSE5Ta0hWeGFBUmxBTlU1NjVQQ2djbkM3OE1YdE1kMVRWbVVWTjFwRXlJc1NSUkZ4Uw?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:28:00 GMT"
+      },
+      {
+        "press": "IT조선",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FcExoYk9SeEhnYzJsNlhiaDk5VzJrdXAyUm5IU3l4MnJaS2NIMkpqX21JcTNjUmtFMWtXSEdWNXdJYk1Pc2tSOThSWWNVVXhjMDAycXFkVEZabzRCZEcxUThUVFM2OUhXN2x5c2RPY0VMU2lt0gF0QVVfeXFMTkVwTGhiT1J4SGdjMmw2WGJoOTlXMmt1cDJSbkhTeXgyclpLY0gySmpfbUlxM2NSa0Uxa1dIR1Y1d0liTU9za1I5OFJZY1VVeGMwMDJxcWRURlpvNEJkRzFROFRUUzY5SFc3bHlzZE9jRUxTaW0?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:06:01 GMT"
+      },
+      {
+        "press": "www.ebn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zd0dmVnc3X25ka3BYVWJPd3N1TWFoY0xIWEs3NlNsaVYwSVl6SEN0MllmSnY4TlE0UWppX0wzY19FTFZhczJzYW13SUU0RGlVUGs3NWwtM0hzNnMtZFZlV3ptdXZlMGFE?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:51:51 GMT"
+      },
+      {
+        "press": "중부매일",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwOUdCSERTTWJORzNwZWd6d0hjZUMxNko0WXhNc0Fub0lvV2ZWTkN3OGludDh3aGJ5YW43WVhZb3U3YlZKS3VSMkFibmdQaTI4YjBsQUdFTjk3U2pnYmRzcFdyMWhPdU43UHfSAW5BVV95cUxNVFljU3VpaW5qV0JkR1NQUEVYY0x2NDhDWFBoRXZsUzFXTE1DUVd0UDlKTjVCQVdxMWYyeExNTFprUk85b09rVVlZeC1HeElsOTM2aHRXTVBBcEhnaVJMeDVKMVI2czFXekQ3M0w5QQ?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:51:45 GMT"
+      }
+    ],
+    "source_count": 9,
+    "id": "068270-실적-74757-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온제약 3Q 실적 '역대 최대'…전 사업 고른 성장 - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiOVVSUW9xZ0lZWlJNb1F4ZHBfZkR5Wm5zaGRId1RGMUQ2ODlHaVBybm5oaE5XZmZaUGxfZDFoQTc3S05XX293TDQ2R1JPMWxidnJ5akxaei1lLVB6LXZ3Q3lOSVdsU2liM3fSAW9BVV95cUxNNzdMUFRMSTlRTWZEQ0I3ZGZHVHB0ekt0X1kwc29WQkRpdy1sQVFJelUxOUtTLThzVFdCS2hFOXNsODhEam0tbjQwd2tuVTVzNWQ5OGNaWlNmdk4xUzg3U2NkQWRQaWhVVHAtUnNBX28?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:09:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-74758-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "셀트리온제약, 바이오의약품·위수탁 생산 호조에 3분기 최대 실적 - FETV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "FETV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bXJ3MVd2RGZvZFF5UmtKMEpUNGhKRmRfNDBoczRHbEdrc0NBOXFjZ2xNR3g5SUhXQUZvRy1ha1pCVzF3bkdCSkpDbFQtd3JoUHdEOHlzVHJVY0g4WGcwM2VxZThuc0Zy?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:57:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-실적-74760-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "분기 최대 실적 썼는데 … 알테오젠, 美 약가 룰 변경·歐 분쟁에 주가 '발목' - 뉴데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkcHcxNVpJbktYVzdiOTl0dTBFbVVoTzNsZ2ZfRG13U3BZVUtHNENBbDdVc09Hak02enZRdVQ4eFJmYjVNTnBiNXRsS1M4ZWo3QWg1YjlQWW91VUZiX0xvU0tBUWd1Q3VXRHROdUpWYWJJR05YTWdDMXR1NNIBgAFBVV95cUxQOS1JbFZHVUFDeTNMekRMTjFTNXJTTmVZeHByTVBaNEktcDhmUHM4SmJXYjk1QnlMSm5ZdVI0V0h2cFRacV9KaG9VT0ExeXk1bGEydEI1a3NwSjAzYjZPWUtDNlR0c29KWjRKUWVHNHYwaFRtdjRsMWRkVV9NM2RjRA?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 06:27:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-실적-74780-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“HK이노엔·해외 부진은 일시적…한국콜마, 2026년 매출 3조 시대 열까” - 뉴스퀘스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdkJJSWxmeFREQUJJSW9tM0NnTzlFcWQ1dVBxM2V4S2pQQU1fdFZ0VHNHOXBVU0p1b1NPMXdGLW1vdVQ0bzJWcGZ2NnR2cWZYYnpNcXJQX2g2OUsyeVBwOWZHcXluMm0yMGtmeDQyWQ?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 02:39:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "195940-실적-74807-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "BMW, 삼성SDI·LG에너지솔루션과 차세대 배터리 공급망 확대…유럽·미국 현지 생산 강화 - 인공지능신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "인공지능신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bnlTc2RMNGdqNG0tY0szWktOdEhBNHJQeE12X2toTUI0RzRiQ3Bhc0g4OWFYdmR3a2FKbFBTUXM5ZjVJa3dqMlg2UWpkZFd4ZUZwQVFFMEprRlBVWVVnaXY4QUdIb1k?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:58:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-74819-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "BMW, 삼성SDI·LG에너지솔루션과 차세대 배터리 공급망 확대…유럽·미국 현지 생산 강화 - 인공지능신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "인공지능신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bnlTc2RMNGdqNG0tY0szWktOdEhBNHJQeE12X2toTUI0RzRiQ3Bhc0g4OWFYdmR3a2FKbFBTUXM5ZjVJa3dqMlg2UWpkZFd4ZUZwQVFFMEprRlBVWVVnaXY4QUdIb1k?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:58:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-기타-74827-20261109",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "최대 규모 ESS 수주전 맞붙은 삼성SDI·SK온…저가 경쟁 완화될까 - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vRkRSblNtWUJETWFseEUyYkpsUmlRX1dHckowMlpMamJscE5KcXJ6UERqb04zczJEX3MtVE9wYVpPRnR3UWRYaVZVVUt5QlRIY1ZtX2l3SGN3aHlSRlhqTG5MaU95dDhtUmVxNWstTzZjQdIBckFVX3lxTE5vRkRSblNtWUJETWFseEUyYkpsUmlRX1dHckowMlpMamJscE5KcXJ6UERqb04zczJEX3MtVE9wYVpPRnR3UWRYaVZVVUt5QlRIY1ZtX2l3SGN3aHlSRlhqTG5MaU95dDhtUmVxNWstTzZjQQ?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-수주-74830-20261109",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09",
     "status": "일반",
