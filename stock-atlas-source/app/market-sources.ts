@@ -207,10 +207,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "\"삼성 지원받고 매출 30배 껑충\"… C랩, 혁신 스타트업 1000개 배출",
-      "office": "디지털타임스",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/029/0003058247"
+      "title": "[애프터마켓 리뷰] NHN, 분기 최대 실적에 상한가…클라우드 매출이 효...",
+      "office": "SBS Biz",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542905"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -347,10 +347,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "인천바이오과기원 설립 돛 올라…박찬대, 국회·정부 지원 정치력 관...",
-      "office": "경기일보",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/666/0000131476"
+      "title": "[애프터마켓 리뷰] NHN, 분기 최대 실적에 상한가…클라우드 매출이 효...",
+      "office": "SBS Biz",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542905"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "니오테스바이오, 망막혈관 재생 치료제 ‘NTB-102’ 전임상서 회복 효...",
-      "office": "스포츠경향",
+      "title": "[애프터마켓 리뷰] NHN, 분기 최대 실적에 상한가…클라우드 매출이 효...",
+      "office": "SBS Biz",
       "date": "20261111",
-      "url": "https://n.news.naver.com/mnews/article/144/0001149100"
+      "url": "https://n.news.naver.com/mnews/article/374/0000542905"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -389,10 +389,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "BMW 고전압 배터리 공급사 삼성SDI·LG에너지솔루션 선정",
-      "office": "한국경제",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352395"
+      "title": "[이주의 관.종]전기차만 기다릴 수 없지…삼성SDI, ESS로 돈 번다",
+      "office": "아시아경제",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840846"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -459,10 +459,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=068270",
     "news": {
-      "title": "인천바이오과기원 설립 돛 올라…박찬대, 국회·정부 지원 정치력 관...",
-      "office": "경기일보",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/666/0000131476"
+      "title": "美 약값 인하 칼날, 피하주사 약까지 겨눴다",
+      "office": "조선일보",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/023/0004008943"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/068270/news"
   },
@@ -571,10 +571,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "16% 급락 뒤 반등한 알테오젠…美 약가 인하 전 '10억달러' 다 받을까...",
+      "title": "박셀바이오 CAR-T, 고형암 완전관해 上…알테오젠·씨젠은 하락[바이오...",
       "office": "이데일리",
       "date": "20261111",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407815"
+      "url": "https://n.news.naver.com/mnews/article/018/0006407879"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1495,10 +1495,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "삐걱대는 GTX…B노선 잇단 유찰, C는 10년 만에 착공",
-      "office": "한국경제",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352456"
+      "title": "[스타트UP] 쓰던 로봇도 AI 로봇으로…올에이아이의 제어 기술",
+      "office": "조선비즈",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203891"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1635,10 +1635,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "BMW 고전압 배터리 공급사 삼성SDI·LG에너지솔루션 선정",
-      "office": "한국경제",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352395"
+      "title": "[애프터마켓 리뷰] NHN, 분기 최대 실적에 상한가…클라우드 매출이 효...",
+      "office": "SBS Biz",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542905"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1649,10 +1649,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "[기업이슈] 금융권 보안 투자 확대에 보안주 강세",
-      "office": "SBS Biz",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542655"
+      "title": "주가 반토막난 LIG D&A… 디인베·IMM인베, 5000억 투자 또 연기",
+      "office": "조선비즈",
+      "date": "20261111",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203904"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/079550/news"
   },
@@ -1761,10 +1761,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“떨어진 주가 배상하라” 집단소송 당한 젠슨 황",
-      "office": "조선일보",
+      "title": "[애프터마켓 리뷰] NHN, 분기 최대 실적에 상한가…클라우드 매출이 효...",
+      "office": "SBS Biz",
       "date": "20261111",
-      "url": "https://n.news.naver.com/mnews/article/023/0004008922"
+      "url": "https://n.news.naver.com/mnews/article/374/0000542905"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
