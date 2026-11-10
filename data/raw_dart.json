@@ -273,6 +273,32 @@
     "is_correction": false
   },
   {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)              ",
+    "rcept_no": "20261110800781",
+    "rcept_dt": "20261110",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800781",
+    "is_correction": false
+  },
+  {
+    "company": "LS에코에너지",
+    "stock_code": "229640",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타법인주식및출자증권취득결정              ",
+    "rcept_no": "20261110800830",
+    "rcept_dt": "20261110",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800830",
+    "is_correction": true
+  },
+  {
     "company": "LS에코에너지",
     "stock_code": "229640",
     "sector": "전기·전력",
@@ -481,6 +507,19 @@
     "is_correction": true
   },
   {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+    "rcept_no": "20261110000424",
+    "rcept_dt": "20261110",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000424",
+    "is_correction": false
+  },
+  {
     "company": "올릭스",
     "stock_code": "226950",
     "sector": "바이오",
@@ -492,6 +531,32 @@
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900550",
     "is_correction": true
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "유상증자결정(종속회사의주요경영사항)              ",
+    "rcept_no": "20261110900846",
+    "rcept_dt": "20261110",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900846",
+    "is_correction": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "타법인주식및출자증권취득결정              ",
+    "rcept_no": "20261110900843",
+    "rcept_dt": "20261110",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900843",
+    "is_correction": false
   },
   {
     "company": "더블유씨피",
