@@ -115178,9 +115178,14 @@
         "press": "NSP통신",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvYjBfanRxQVVlNHp0RVMtdVlkZ1I2ekFRRUVNV2F0Nlh0Qm43eVJoWkV2OURoTy1XekZxZzZzRG5FU2V2NGd1VmNrMEYtX25zbkpULXVvSjJYdUc2TjVOaA?oc=5",
         "pub_date": "Tue, 10 Nov 2026 07:36:48 GMT"
+      },
+      {
+        "press": "프레시안",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LWTdqOXpqSExiSmltN3FSUktOMWMxUG1vRVVIZklJMC1nVEhvdW9FbmpKdjBheXQtaFRxVW9uX3VIbDUtLXNtMU12TGdydXR0TXhkcS1BTEswenRCdHlPVVE2R2FLZ01scEZr?oc=5",
+        "pub_date": "Tue, 10 Nov 2026 05:51:36 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "052690-기타-75403-20261110",
     "first_seen": "2026-11-10",
     "last_updated": "2026-11-10",
@@ -115310,9 +115315,19 @@
         "press": "아시아경제",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XbVBycFYyQ3JqQUxVU0xrUDJIQ1dBTzJoekFjRFZ1MEpVRHNzdnVkeGxiaTNDbll5MVZZSmU3cGh3c2UzZkQwLUItb2JRUkVHSWYwNWhBTVphZ2h5U1BZOQ?oc=5",
         "pub_date": "Tue, 10 Nov 2026 00:27:53 GMT"
+      },
+      {
+        "press": "천지일보",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9weTIyamZSYjRpVlhuc3BlWEU5QVJ2ekpxek1ZdktJaTkzMDNMZ1dzVW9vU0FiR2FHVGJaTHVOeWlCSjdrZDRXcS04Q0FlVDMtVlBscW83bDV3cVQ0SHNKM3lGdUt4RldudkE?oc=5",
+        "pub_date": "Tue, 10 Nov 2026 10:00:11 GMT"
+      },
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoRGRhdWV4VTRKdDZDalZDM2NIeVA3d2Fma0l5MEtHM3luQzdhRmR4TTA0ZE9BdExoWFo5V0R5UWhvRFQ5U3JXQ3djVzc0Nnl5dHZzZzBKNHFqYkdEYTc1N0NheERsUjBETkFRVU5IOUNIQ2c?oc=5",
+        "pub_date": "Tue, 10 Nov 2026 03:38:27 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 14,
     "id": "012450-기타-75449-20261110",
     "first_seen": "2026-11-10",
     "last_updated": "2026-11-10",
@@ -116096,6 +116111,88 @@
     ],
     "source_count": 1,
     "id": "006400-기타-75782-20261110",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS전선 수주잔고 10조 눈앞…AIDC·해저케이블로 성장축 확대 - 아시아경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0RmdQSThEdm0tb1J3ekZiNVYyNTZNX05UWFQ2aFc3N2FqbnhYbW1tVTYwSWhVcnBBOHlrOWRiNmQwc2FiYnp1enAtUzY0b0hyUVRCZGlibXBubmRNRzRXXw?oc=5",
+        "pub_date": "Tue, 10 Nov 2026 23:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-수주-75826-20261110",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "셀트리온제약, 3분기 영업익 48% 오른 239억원…분기 최대 - 연합뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wZ05xSVpRNml4VmJISnFld2NiTmpuT3RCd0xUdjVHeFI1U1plc3F2RzNNbHozYUZNaVplLWd0WGlJQTlMdnlhVmQ1WUliczkzbEVnN2FOdmo2dmPSAWBBVV95cUxNa0JuVVV3YW1rb0o4TF9aUzBlS0xIbEFKRGtwMjd3NVc5eXNQcERQYjhzTTNQSi1JNmF2ODlKTEl1c1J1Vjh0ZkZWbFhreWphNGpxSnRVMUZ2b3RtaGNTLUI?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 07:26:49 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHlkc2V0S3pSZ29sYWpyTUx3bldQUnRaSGpDSmpaazZHaGFYQ3J6amk1QWlrQ25HWC1uM0lnblhIclpiSFQxMUtYVXJsakg4SUwweEZiRWw2SXhfUC1rcmpMTzJ5YkkwVGN3VXBSamZGN0duUVJYRk5lUDFxY2ZYNmNBRGVXajTSAZsBQVVfeXFMTlV6blNYZXl2UkpmUTZjejdrbjB5d0VlSkc4RE9zX1BqclItWkJuLXFCOVBIQWpfQVBJQ3RWVFdQS2JxbWxzTFJQUWZUYmdTeDZFdmxCNWxTWHBaaS0tM2VYbHNFRzUzUDRHNEhmZFp3WXpHVVBrcWRKQlp6c0hnNHdRdlVESU1kVDc5N3ZBWV9tWlFLLUF3bTY1TE0?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 08:39:00 GMT"
+      },
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZ3hjUUplT0paOWsxYS1KQ1NpZUcxbXZJZURRLXIwSHVfS1NvdjUzbUdmYUFodW9UUkdQd3NiQzR6REtDSDBCaXJZUnNLcWVTdHc1eGxvSTU4SUtWN1dBOTZLdEJUUkowQk1OUHQ4dWw?oc=5",
+        "pub_date": "Mon, 09 Nov 2026 23:19:00 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "068270-실적-75850-20261110",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[삼성SDI의 전환 ①] 적자 벗어나 영업익 4078억...ESS의 힘 - 뉴스투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스투데이",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZTTBkb2RxQk0yNFpldjVxTkU0c29iVllsX2xVM3E0Mi11alpRcVpDSGhORmVvMXJMMWZJdENPbjFnVHBOWDZpWkdGWHVENlRqMFZSY1dGQnp1UlhzaGc?oc=5",
+        "pub_date": "Tue, 10 Nov 2026 22:01:54 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-리스크-75863-20261110",
     "first_seen": "2026-11-10",
     "last_updated": "2026-11-10",
     "status": "일반",
