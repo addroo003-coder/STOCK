@@ -175,6 +175,32 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "의결권대리행사권유참고서류",
+    "rcept_no": "20261111000362",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000362",
+    "is_correction": false
+  },
+  {
+    "company": "솔브레인",
+    "stock_code": "357780",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주총회소집공고",
+    "rcept_no": "20261111000355",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000355",
+    "is_correction": false
+  },
+  {
+    "company": "솔브레인",
+    "stock_code": "357780",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "주식등의대량보유상황보고서(약식)",
     "rcept_no": "20261110000154",
     "rcept_dt": "20261110",
@@ -299,6 +325,19 @@
     "is_correction": false
   },
   {
+    "company": "일진전기",
+    "stock_code": "103590",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261111000194",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000194",
+    "is_correction": false
+  },
+  {
     "company": "산일전기",
     "stock_code": "062040",
     "sector": "전기·전력",
@@ -377,6 +416,45 @@
     "is_correction": false
   },
   {
+    "company": "지엔씨에너지",
+    "stock_code": "119850",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261111000204",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000204",
+    "is_correction": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261111000249",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000249",
+    "is_correction": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "현금ㆍ현물배당결정              ",
+    "rcept_no": "20261111800452",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800452",
+    "is_correction": false
+  },
+  {
     "company": "SNT에너지",
     "stock_code": "100840",
     "sector": "전기·전력",
@@ -429,6 +507,32 @@
     "is_correction": true
   },
   {
+    "company": "티로보틱스",
+    "stock_code": "117730",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261111000170",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000170",
+    "is_correction": false
+  },
+  {
+    "company": "고영",
+    "stock_code": "098460",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주식등의대량보유상황보고서(약식)",
+    "rcept_no": "20261111000337",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000337",
+    "is_correction": false
+  },
+  {
     "company": "고영",
     "stock_code": "098460",
     "sector": "피지컬 AI·로봇",
@@ -452,6 +556,19 @@
     "rcept_no": "20261111000027",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000027",
+    "is_correction": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "영업정지(종속회사의주요경영사항)              ",
+    "rcept_no": "20261111800425",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800425",
     "is_correction": false
   },
   {
@@ -624,6 +741,32 @@
     "is_correction": true
   },
   {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[발행조건확정]증권신고서(채무증권)",
+    "rcept_no": "20261111000410",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000410",
+    "is_correction": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261111000259",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000259",
+    "is_correction": false
+  },
+  {
     "company": "에코프로비엠",
     "stock_code": "247540",
     "sector": "이차전지·ESS",
@@ -673,6 +816,19 @@
     "rcept_no": "20261110000108",
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000108",
+    "is_correction": false
+  },
+  {
+    "company": "피엔티",
+    "stock_code": "137400",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261111000340",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000340",
     "is_correction": false
   },
   {
