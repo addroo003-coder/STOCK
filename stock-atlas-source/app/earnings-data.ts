@@ -271,6 +271,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=078600",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=078600"
   },
+  "대한광통신": {
+    "company": "대한광통신",
+    "code": "010170",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 491,
+      "operatingProfit": 10,
+      "netIncome": 4,
+      "operatingMargin": 1.95
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 43.6,
+      "q1OperatingProfitQoq": 125,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=010170",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=010170"
+  },
   "대한전선": {
     "company": "대한전선",
     "code": "001440",
@@ -480,6 +515,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=131970",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=131970"
+  },
+  "디아이": {
+    "company": "디아이",
+    "code": "003160",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 1686,
+      "operatingProfit": 396,
+      "netIncome": 318,
+      "operatingMargin": 23.48
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 59.5,
+      "q1OperatingProfitQoq": 109.5,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=003160",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=003160"
   },
   "디앤디파마텍": {
     "company": "디앤디파마텍",
@@ -1076,6 +1146,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=107600",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=107600"
   },
+  "샘씨엔에스": {
+    "company": "샘씨엔에스",
+    "code": "252990",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 313,
+      "operatingProfit": 95,
+      "netIncome": 113,
+      "operatingMargin": 30.48
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 15.1,
+      "q1OperatingProfitQoq": 23.4,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=252990",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=252990"
+  },
   "서진시스템": {
     "company": "서진시스템",
     "code": "178320",
@@ -1145,6 +1250,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=365340",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=365340"
+  },
+  "성호전자": {
+    "company": "성호전자",
+    "code": "043260",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 852,
+      "operatingProfit": 69,
+      "netIncome": -460,
+      "operatingMargin": 8.09
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 29.1,
+      "q1OperatingProfitQoq": 115.6,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=043260",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=043260"
   },
   "셀트리온": {
     "company": "셀트리온",
@@ -1880,6 +2020,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=046120",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=046120"
+  },
+  "오이솔루션": {
+    "company": "오이솔루션",
+    "code": "138080",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 197,
+      "operatingProfit": -9,
+      "netIncome": -24,
+      "operatingMargin": -4.43
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 9.4,
+      "q1OperatingProfitQoq": -50,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=138080",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=138080"
   },
   "오픈엣지테크놀로지": {
     "company": "오픈엣지테크놀로지",
@@ -2686,6 +2861,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=274090",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=274090"
   },
+  "코리아써키트": {
+    "company": "코리아써키트",
+    "code": "007810",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 4072,
+      "operatingProfit": 193,
+      "netIncome": 176,
+      "operatingMargin": 4.74
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": -3,
+      "q1OperatingProfitQoq": -26.9,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=007810",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=007810"
+  },
   "코스모신소재": {
     "company": "코스모신소재",
     "code": "005070",
@@ -3071,6 +3281,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=064760",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=064760"
   },
+  "티엘비": {
+    "company": "티엘비",
+    "code": "356860",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 882,
+      "operatingProfit": 128,
+      "netIncome": 108,
+      "operatingMargin": 14.47
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 16.4,
+      "q1OperatingProfitQoq": 19.6,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=356860",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=356860"
+  },
   "파마리서치": {
     "company": "파마리서치",
     "code": "214450",
@@ -3245,6 +3490,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=319660",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=319660"
+  },
+  "피에스케이홀딩스": {
+    "company": "피에스케이홀딩스",
+    "code": "031980",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 473,
+      "operatingProfit": 138,
+      "netIncome": 244,
+      "operatingMargin": 29.15
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 68.9,
+      "q1OperatingProfitQoq": 50,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=031980",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=031980"
   },
   "피엔티": {
     "company": "피엔티",
@@ -4295,6 +4575,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=229640",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=229640"
+  },
+  "RF머트리얼즈": {
+    "company": "RF머트리얼즈",
+    "code": "327260",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 251,
+      "operatingProfit": 53,
+      "netIncome": 52,
+      "operatingMargin": 21.11
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 25.5,
+      "q1OperatingProfitQoq": 65.6,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-11",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=327260",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=327260"
   },
   "SK바이오사이언스": {
     "company": "SK바이오사이언스",
