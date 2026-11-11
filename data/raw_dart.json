@@ -390,6 +390,19 @@
     "is_correction": false
   },
   {
+    "company": "미래컴퍼니",
+    "stock_code": "049950",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261111000027",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000027",
+    "is_correction": false
+  },
+  {
     "company": "현대건설",
     "stock_code": "000720",
     "sector": "원전·SMR",
