@@ -1284,7 +1284,7 @@
     {
       "name": "코리아써키트",
       "stock_code": "007810",
-      "corp_code": "",
+      "corp_code": "00152686",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -1294,7 +1294,7 @@
     {
       "name": "티엘비",
       "stock_code": "356860",
-      "corp_code": "",
+      "corp_code": "00920379",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -1304,7 +1304,7 @@
     {
       "name": "샘씨엔에스",
       "stock_code": "252990",
-      "corp_code": "",
+      "corp_code": "01199727",
       "sector": "AI 반도체",
       "sub_industry": "기판·인터커넥트",
       "aliases": [
@@ -1314,7 +1314,7 @@
     {
       "name": "디아이",
       "stock_code": "003160",
-      "corp_code": "",
+      "corp_code": "00118275",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -1324,7 +1324,7 @@
     {
       "name": "피에스케이홀딩스",
       "stock_code": "031980",
-      "corp_code": "",
+      "corp_code": "00208444",
       "sector": "AI 반도체",
       "sub_industry": "후공정·검사",
       "aliases": [
@@ -1334,7 +1334,7 @@
     {
       "name": "대한광통신",
       "stock_code": "010170",
-      "corp_code": "",
+      "corp_code": "00113261",
       "sector": "AI 반도체",
       "sub_industry": "광통신",
       "aliases": [
@@ -1344,7 +1344,7 @@
     {
       "name": "오이솔루션",
       "stock_code": "138080",
-      "corp_code": "",
+      "corp_code": "00571483",
       "sector": "AI 반도체",
       "sub_industry": "광통신",
       "aliases": [
@@ -1354,7 +1354,7 @@
     {
       "name": "RF머트리얼즈",
       "stock_code": "327260",
-      "corp_code": "",
+      "corp_code": "01343665",
       "sector": "AI 반도체",
       "sub_industry": "광통신",
       "aliases": [
@@ -1364,7 +1364,7 @@
     {
       "name": "성호전자",
       "stock_code": "043260",
-      "corp_code": "",
+      "corp_code": "00317210",
       "sector": "AI 반도체",
       "sub_industry": "광통신",
       "aliases": [
