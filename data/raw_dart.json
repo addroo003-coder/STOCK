@@ -895,5 +895,18 @@
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900289",
     "is_correction": true
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "[기재정정]타법인주식및출자증권취득결정              ",
+    "rcept_no": "20261111900786",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900786",
+    "is_correction": true
   }
 ]
