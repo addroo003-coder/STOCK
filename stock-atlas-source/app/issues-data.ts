@@ -184,9 +184,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000320",
           "pub_date": "20261110"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000113",
+          "pub_date": "20261111"
         }
       ],
-      "source_count": 30,
+      "source_count": 31,
       "first_seen": "2026-08-27",
       "last_updated": "2026-11-11",
       "stale": false
@@ -3514,6 +3519,50 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "089030-기타-76039-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "테크윙 주가, 급등세... 무슨 회사길래? - 금강일보",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GQjdzU1Z5cTdfMXUzdmlHd2FzVS1qQTc5b1BaYmFCejNpQWc2d2pKcG80NXAyRUhlWkQ4NkFWWjN1RWZVRWpxdmFaOFAxY2lzR2gxR0tZWWlHXy01eXI4ZGpsaUFkNFpTYUE?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:56:07 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
+      "id": "089030-기타-76040-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "오전 이슈 [반도체] : 심텍홀딩스, 아스플로, 샘씨엔에스, 테크윙, 이수페타시스 - 파이낸셜뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WVnFvZ2xBOXVWZFQ0UnFuY3JYaFRWQzc5dEtMcS1Eeld1Q3E4QTZRN3FLYndWOXlNU2l1NmFrNnVsM0pMV1RKd01ocnQyM1hzbEQyQ21BY3pjZw?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 02:14:46 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "089030-실적-70900-20261105",
       "category": "실적",
       "direction": "중립",
@@ -3533,50 +3582,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-11-05",
       "last_updated": "2026-11-07",
-      "stale": false
-    },
-    {
-      "id": "089030-기타-68905-20261103",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "[HBM 관련주] 한미반도체·테크윙 등 약세…유니테스트는 상승 - CBC뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWSUFTTms0WkJ6QkJlU3JjemlySnlydkdBSkpzcUstLVhZUnB1QXhEeU5YNldWc1ZsZENpaVptQ1Z0cE4wMG4yTk5FSl84ZERhVlczOW1TNzF1VkdRQlZFM3k1QjYtbDc2?oc=5",
-          "pub_date": "Tue, 03 Nov 2026 02:28:34 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-03",
-      "last_updated": "2026-11-06",
-      "stale": false
-    },
-    {
-      "id": "089030-기타-70060-20261104",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "테크윙, 동탄공장 595억원 매각 완료…천안 신공장 투자재원 주목 - 뉴스핌",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWbUhld1BNaG9aTWZOX3lYT1lnOUhWeHZzVHlObWp2RnlkY0VFLXFIbU4wRC1ib1luWjJIdHRtR190MjJKS3h2Qnp1REhTV2hlTzRjWUlaeG9vNXho?oc=5",
-          "pub_date": "Wed, 04 Nov 2026 05:40:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-04",
-      "last_updated": "2026-11-06",
       "stale": false
     }
   ],
@@ -7763,6 +7768,88 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "HD현대일렉트릭": [
     {
+      "id": "267260-기타-50229-20261016",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "HD현대일렉트릭, LG CNS 손잡고 AI 데이터센터 전력시장 공략 - 연합뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKQ0l4ZDZ1YklIcjV3Z1M2bm85M0NxcEY1MlpJVE9zV3NXQk9SUEVwckVvR3RfalQ0Y0RYWjRRTnZ1WGI1emdQeHdnZG9oTDkzb1d1SFBtOXlpYUxTV2JCd9IBYEFVX3lxTFBKQ0l4ZDZ1YklIcjV3Z1M2bm85M0NxcEY1MlpJVE9zV3NXQk9SUEVwckVvR3RfalQ0Y0RYWjRRTnZ1WGI1emdQeHdnZG9oTDkzb1d1SFBtOXlpYUxTV2JCdw?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 00:30:56 GMT"
+        },
+        {
+          "press": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UUdVcV8wTFRVZnlSeTJzUmRTU0dVY2JZSVpoSFVLSjE4UHFUZ1R1ckVxRUw0MEt2MW85bng2WDlFY21ub1dFeVk2c2Y4T3ZPYTBNdERBYUg4V2xiOHlkWmF3bUFWUQ?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 00:53:33 GMT"
+        },
+        {
+          "press": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iLVhHWC1BNEZCOU5Vd0o3cUVwSzV1SERSMkQ3MlJvRDMzTHc5SDJqUEJBMGhtR1Y0bngtcFdKOHZYbWFWSzhHNmF0RDBuWHU4X2ZJSmJmdTAxVUJKa2xRX1RucDhIWmM?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 01:03:00 GMT"
+        },
+        {
+          "press": "코리아리포트",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTEktQVgzR2tsbzhGdVdnQXhWZEJKQ2V0RlJZTmdSbWFya3JzNDVhSjV0Y3VZWkNxeFV6VkxNNzJXUF94anlkNnNpQ3hBVGNvQ1o0S3Q1azNGeGNHaWVyZ0M0WGZpZmxmQ0R4WE9XUjI?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 01:24:57 GMT"
+        },
+        {
+          "press": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekNmVW9KNUF2UGlUOVhLR2ZFQzlvWnlrN2dld1lZSUNmQWgwNURYWFk5R3dKd1piYkgydktzcmRBN1hsZXhMNFdLT01BT2tTM296a2NEcXM0Z2h2cUJsTHNxVXh2bU1udVQxQU5SM0dXUGRPdGlUUUE5SWlXQXVSVVZGMDY?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 00:11:08 GMT"
+        },
+        {
+          "press": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pUlpUV3BXUWNwVXE1RDBVYTBnWGNXa2ZwLTkyUnNtZ0pua2hmUWRJWmdqQlEyblZ0aTlGdjROTktRTmFMbVRnZFZVV1ZBbVBsdm9pYmZGZVN4SE1nRnRBa3FMSzU3ZE9QSnhTeDBxNV8?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 01:02:31 GMT"
+        },
+        {
+          "press": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DT01wRnFMenEtdHZ6UzV6YksxMDJGWWN5NjVzVTgyN0lPYURGWVJfbExQMXktNjFYRXI3czQtSnUzQnFic181MGVoZURtMkdzWDhMbS1OTVpwY3FKTGlkZQ?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 00:27:27 GMT"
+        },
+        {
+          "press": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOSE01VGRsOHNYYm1GUGFEOHRGV0o3SVozaUVScnVaa0lEUGtGMG1ZVVhlMFVRU21KVHhvc1JOTFQ0R2U2c3VLT29hWFFRZUt5OHdOQ04tZ3B3X05qRDhZNC1UaXk?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 01:59:06 GMT"
+        },
+        {
+          "press": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91QkotTm9hUmdtR1BUU2doaFNkWHczZkduNW4tQW9aWm1RajF2WXU5YTVhbWtFajlQZkJTM1I2T0FObDJRUi03dFJ0M3kzdl91WHNTWlZkLVU5S0dqUlgzTXhRN0MyaENBYXhTbA?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 05:53:26 GMT"
+        },
+        {
+          "press": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90clBZNGRqTEtJalBFQ0NiS2dQSnhnRmVGbGJDUzUtYkppWkRnMTVwM3dXbzJHQlFuRGxFRUJCQ0hrM211WDRSWndfWldRcm9rWW54N1BldklrVS1WX1pOMDRqbXc?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 06:08:39 GMT"
+        },
+        {
+          "press": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PdVhiVVVGeF8xMHJ1WU0tODNuZEhXblR4M2JnQ3VuN3k5ZFByVHBqZnkxUDJqcFZhcjlWRXVrd0h5WUtvSXlmRXp5OXdZMXVyd2tLX1EzUjNyRVowZlYxaUlJUTl1aFBJcXpPYUl3?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 05:53:26 GMT"
+        },
+        {
+          "press": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5cTJfcC1MXzVHUWRIcFJrVXFXVGhSWW5USmZ4QlF4Qk8wNTUtTUtFWUNWeWx5RHpPODB2aUJ2R0ZTYWs4TkZXUHZfS2UyNlduWWlEeHZuZEFVT0h3UnF3MVRKWkhKSWRYamM0ZWNnUjVuQdIBckFVX3lxTFA5cTJfcC1MXzVHUWRIcFJrVXFXVGhSWW5USmZ4QlF4Qk8wNTUtTUtFWUNWeWx5RHpPODB2aUJ2R0ZTYWs4TkZXUHZfS2UyNlduWWlEeHZuZEFVT0h3UnF3MVRKWkhKSWRYamM0ZWNnUjVuQQ?oc=5",
+          "pub_date": "Fri, 16 Oct 2026 13:17:27 GMT"
+        },
+        {
+          "press": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KSUNVVFhoR3Ytb2M0ZjJPRzdqcFl6ZWZyTHVqWF80bUtPdHo5aWc4RWRuTzFLZHR4a09BU3NyTko1S3NSU1M3UzQyVjY2VmE4d1F1ZHFta1lLeEhwaXlfT0c5LU9QTUFN?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 14:53:14 GMT"
+        }
+      ],
+      "source_count": 13,
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "267260-기타-61004-20261026",
       "category": "기타",
       "direction": "중립",
@@ -7937,33 +8024,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-11-09",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "267260-기타-74142-20261109",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "K리그·HD현대일렉트릭, 베트남 어린이와 축구로 교감 - 남도일보",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "남도일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YeVpscUh5YzZhWElvVW9rNmlYUjZvUE01ZXQ3Tm1LM0U5cWxtR2gxeklhRmJaQ3YzRHpZc2RBN3FEZkJ1TFIzYmxXc0kwUEtMejNxYUd3SWI4QzVTN1NKVmRIUDc3V2Rzc0xuRNIBcEFVX3lxTE91OFR6LXVROWFaM1l0YTYtMV9uNTRXOVZGR2FJejREOEFMX29VWWR1cGN5aG5qQnpBb0wwRmFjVUt2ZGNsb1BqMUJGMVlNUmYzZ3NWOW5IWl9CVU9DeDZHcks1cGcwZHpVaXltd2pGYnE?oc=5",
-          "pub_date": "Mon, 09 Nov 2026 05:32:00 GMT"
-        },
-        {
-          "press": "남도일보",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91OFR6LXVROWFaM1l0YTYtMV9uNTRXOVZGR2FJejREOEFMX29VWWR1cGN5aG5qQnpBb0wwRmFjVUt2ZGNsb1BqMUJGMVlNUmYzZ3NWOW5IWl9CVU9DeDZHcks1cGcwZHpVaXltd2pGYnHSAXBBVV95cUxPdThUei11UTlhWjNZdGE2LTFfbjU0VzlWRkdhSXo0RDhBTF9vVVlkdXBjeWhuakJ6QW9MMEZhY1VLdmRjbG9QajFCRjFZTVJmM2dzVjluSFpfQlVPQ3g2R3JLNXBnMGR6VWl5bXdqRmJx?oc=5",
-          "pub_date": "Mon, 09 Nov 2026 05:32:00 GMT"
-        }
-      ],
-      "source_count": 2,
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-11",
       "stale": false
@@ -8750,9 +8810,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "SBS Biz",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDUVZBN1FsUWhyWW8xLVYzbTh4aEdLSTNVbkE1U2dRQUZjQ0xlNEZVRmVrS0lEVXVHWF9mZ2lsTXUyQVI1QW1tdFNDNTlwcEhJU0Nr0gFYQVVfeXFMTzhLUng4NG9PSFRHVGExczJmNDV3cnVhaUh4Ny16dnRPYm5Gc2ZrVVFUVHZSSEpvaXp0WC1VaDBIU25WcVBvVXN1dE5wNEx5eWUwNml4Y3cxcg?oc=5",
           "pub_date": "Mon, 09 Nov 2026 22:55:00 GMT"
+        },
+        {
+          "press": "SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84S1J4ODRvT0hUR1RhMXMyZjQ1d3J1YWlIeDctenZ0T2JuRnNma1VRVFR2UkhKb2l6dFgtVWgwSFNuVnFQb1VzdXROcDRMeXllMDZpeGN3MXLSAVhBVV95cUxPOEtSeDg0b09IVEdUYTFzMmY0NXdydWFpSHg3LXp2dE9ibkZzZmtVUVRUdlJISm9penRYLVVoMEhTblZxUG9Vc3V0TnA0THl5ZTA2aXhjdzFy?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 22:55:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-11-10",
       "last_updated": "2026-11-11",
       "stale": false
@@ -15090,6 +15155,38 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "003670-기타-69622-20261103",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손', 베트남 투자 탄력 - 세계일보",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42aE5va3lQSkdpRUxTclJMV1VZRV9kQmcxcmxBcWVaNEJhLWVoVmJnUGMtV3ZBYWo3aVpNR1ZGY29YZVdGalZMT2hERF9wMGdGNENvQdIBVEFVX3lxTE42aE5va3lQSkdpRUxTclJMV1VZRV9kQmcxcmxBcWVaNEJhLWVoVmJnUGMtV3ZBYWo3aVpNR1ZGY29YZVdGalZMT2hERF9wMGdGNENvQQ?oc=5",
+          "pub_date": "Tue, 03 Nov 2026 12:15:46 GMT"
+        },
+        {
+          "press": "주간현대",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4wTHZFLW9LX08wblFQZUxjRmUxU3NIZ2R2UzFKUDJzcGRiemtGdkpmanRMRk1BZjFLajFiNVRFdm1qdnM?oc=5",
+          "pub_date": "Thu, 05 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "press": "광양경제신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNW1pTERYeGZnYXI0cV9EcUNKd0R5WEpWa1lXekVSVXBhc18tYlg3ZXVac19Zd0hib19Nc1pBOVVYcDl1RkIxRllmYzdTbGxab2tkN0dYQUZBbGtFcHpXbVE0T1ZZNFZ5Z0U0?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:20:23 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "003670-기타-74488-20261109",
       "category": "기타",
       "direction": "중립",
@@ -15201,28 +15298,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         {
           "press": "비즈니스포스트",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LakFBTmhKNWtfMFZFemMwdkxRQWFjTThaWkJ5eW5YUmhzTXFLU0J3YnZTU2kyU2VXOWNIZXRNZjAzZnlmVW5nRHRreHRCa1lrRmIzWmpIWjU2cjNLazE1NDRFU1RHZjljOWtYbm9LMFU4Rjg?oc=5",
-          "pub_date": "Tue, 10 Nov 2026 05:00:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-10",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "003670-기타-75568-20261110",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "리튬부터 희귀가스까지…포스코, 미래 핵심자원 공급망 구축 [TF현장②] - 더팩트",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "더팩트",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ncGhxR3VQdFV0TEdib3ZnVXdhOE1wVVNVbUt3VTROUDQ5dWtIZ09FekZobEdPYk1hQ2MycWI0ZE5OZ1VzV3p1aHhzSzkxVXBnMlB6VNIBVEFVX3lxTE1ncGhxR3VQdFV0TEdib3ZnVXdhOE1wVVNVbUt3VTROUDQ5dWtIZ09FekZobEdPYk1hQ2MycWI0ZE5OZ1VzV3p1aHhzSzkxVXBnMlB6VA?oc=5",
           "pub_date": "Tue, 10 Nov 2026 05:00:00 GMT"
         }
       ],
@@ -15699,6 +15774,50 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "348370-기타-76018-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "전환가액의조정              (제11회차)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900136",
+          "pub_date": "20261111"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
+      "id": "348370-기타-76085-20261111",
+      "category": "기타",
+      "direction": "부정",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": true,
+      "headline": "엔켐, 제11회차 CB 전환가액 5만1314원으로 하향 조정 - 데이터투자",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "데이터투자",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92SFlVS1QzVjA3TUZyS0FrZm11LUdvTVQwVzVabDlzSEMzcEhDeTczZWh1MFBlbjRxYklSSE0zeGJXcWdJM2h6VVFlVUlSLUN4b1dOUVdYbUpEeVZlY0JwRkJtdG80WDZmQ2tWY1dsQ3o1NG8?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 02:06:03 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "348370-기타-73999-20261109",
       "category": "기타",
       "direction": "중립",
@@ -15789,55 +15908,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 2,
       "first_seen": "2026-11-05",
       "last_updated": "2026-11-07",
-      "stale": false
-    },
-    {
-      "id": "348370-기타-71949-20261106",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "더데이랩스, 엔켐생명과학 계열 4사 인수…AI-MSO 사업 본격화 - 데일리한국",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "데일리한국",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcnpISm9iSVdpM3Z4elVqTG9COVJHZGI5aS1GelR6MUNxaG56ZDZKbFp3VTZOaUd0a3RTS3dDRXNxU3k2QXJwM0R3YUQxRThyR2pJTnRrUzhVV19TZ0pSc1RORndnYmJRSVl2bW93a9IBc0FVX3lxTE8wZnl5ZmxyTS1pQjBDcUZYNXFrMU5KVl9HMFIyY2hFRTRpRFJReG5iQVRlOE5XUnlnTDRxWGtuLVZUcW8xVG5ra0hEYkUyeW9jNS1UcVVOTlRlUTUtWVpnWUpDTDRZSVlBbTExZWRwMmRhdzA?oc=5",
-          "pub_date": "Fri, 06 Nov 2026 00:07:09 GMT"
-        },
-        {
-          "press": "데일리한국",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZnl5ZmxyTS1pQjBDcUZYNXFrMU5KVl9HMFIyY2hFRTRpRFJReG5iQVRlOE5XUnlnTDRxWGtuLVZUcW8xVG5ra0hEYkUyeW9jNS1UcVVOTlRlUTUtWVpnWUpDTDRZSVlBbTExZWRwMmRhdzDSAXNBVV95cUxPMGZ5eWZsck0taUIwQ3FGWDVxazFOSlZfRzBSMmNoRUU0aURSUXhuYkFUZThOV1J5Z0w0cVhrbi1WVHFvMVRua2tIRGJFMnlvYzUtVHFVTk5UZVE1LVlaZ1lKQ0w0WUlZQW0xMWVkcDJkYXcw?oc=5",
-          "pub_date": "Fri, 06 Nov 2026 00:15:17 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-11-06",
-      "last_updated": "2026-11-07",
-      "stale": false
-    },
-    {
-      "id": "348370-기타-70509-20261104",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "엔켐, 美 조지아 공장에 'CNT 슬러리' 공정 구축…배터리 소재 다각화 - 한국신용신문",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "한국신용신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sTmpaZElScWcyVXNJSEpDT2JXX2VPWm1FaGl0aF9hSzlvdE51OVViUU9TVXh3VE8tcWliSGR4eDFFeHV1b19HWjJCOTg1c0F6ekZERGlZbFdMX0VUdUVMZkVpMko0dFZOWUZ3?oc=5",
-          "pub_date": "Wed, 04 Nov 2026 06:03:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-04",
-      "last_updated": "2026-11-06",
       "stale": false
     }
   ],
@@ -16343,6 +16413,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "403870-기타-57312-20261022",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "HPSP, 자기주식 5,360주 처분 결정...임직원 RSU 지급용 2억 7,282만 원 - Investing.com 한국어",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04RnlJR1kxQlI5VWZvS3BtODhwWTM5UTlIRVNCby1iSlIwekxuRjlhWlotclZZYnd3eHFvd3dGcERQV1NfUFZDdUNIOUFZV3NUZkhrSUYyNGpYYW4tT0YtVERoS0EyVzR1SHZ6WEpucW1EVzQ?oc=5",
+          "pub_date": "Thu, 22 Oct 2026 06:37:00 GMT"
+        },
+        {
+          "press": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fVGlIbm1UYzRpbWhKanR6bVNpdzZSc0paWV9qQmhnZ1RVNzFkWldtSm5ydkw3ZkxjVFRWY05IOHdGcG5jU1YzbWhSbmxKMWlvdjdGY3Bra2tRMkNiQjNlSEswQ012aWROYWtEQ3ZhXzJ4UlE?oc=5",
+          "pub_date": "Tue, 10 Nov 2026 07:38:00 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "403870-기타-74047-20261109",
       "category": "기타",
       "direction": "중립",
@@ -16445,28 +16542,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000262",
           "pub_date": "20261110"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-10",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "403870-자본-75208-20261110",
-      "category": "자본",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "HPSP, 임직원 주식보상 위해 25억원 규모 자사주 처분 결정 - 데이터투자",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "데이터투자",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEZ0paQ3RVc3lQbXlmZTFtUnpldTdlMWZaT1RQOHdDZmFmYkZxbHAyMDVsNlNjWmFlQUxvb1ppT05RRGJRMW4xTDdJZkVRUWg2OFhWeEZGNEZqOTB0Z3VLRGk0a3FVZzZ6bzNSeDUyZ185Vm8?oc=5",
-          "pub_date": "Tue, 10 Nov 2026 07:06:05 GMT"
         }
       ],
       "source_count": 1,
@@ -21404,7 +21479,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "034020-기타-74193-20261109",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": false,
       "needs_review": false,
@@ -21415,9 +21490,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "더구루",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10VFM1enZ6ZmxrdnEtdlhEQ1JGWlBuc3pxcmlPR1BORm9GXzZ1eFJ5cEJuTjYySGZIcjNrbUYxYXA1eHI0QTI4b1BJVjBJSGp1MVllMS1MNWc5TXJpVXhWYWNZQQ?oc=5",
           "pub_date": "Mon, 09 Nov 2026 02:11:21 GMT"
+        },
+        {
+          "press": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vMHpYTmNCM3o3Z2N6TkIwN1R1dDlKOFphbTlUYnZ3NkZxWTJadlY1YlNSaDNPVFZIOFNTSjJrT3pfdDJfVXdjX3dfY0dibUY5S1c5ZUIyVDh1T1JTOC1FS0p0SWxQdVd2d3ZIRXNtSmM?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 04:44:00 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-11",
       "stale": false
@@ -23371,6 +23451,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "464080-기타-76054-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "제주한라대, ‘2026 추계 미래문화기술포럼’ 성료 - newslinejeju.com",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "newslinejeju.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxbm9fSTVCQVN6dHFTY3otZlFjMTNOMWRUMUx1bHdqQmd4MHVEUWpxblR0UGloU0tWVnlzbG50RVg0SXNTX2JFb3hLd3Jtbi1ZWjl5RnBFbjFGM3lQS1dvbnZnekY0M2U1YmdSOVRHSQ?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:49:28 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "464080-기타-73510-20261108",
       "category": "기타",
       "direction": "중립",
@@ -23524,36 +23626,41 @@ export const issuesByStock: Record<string, Issue[]> = {
       "first_seen": "2026-11-04",
       "last_updated": "2026-11-06",
       "stale": false
-    },
-    {
-      "id": "464080-기타-70241-20261104",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "교차검증",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "[더벨]에스오에스랩, '2026 로보월드' 참가 - 머니투데이 - 머니투데이",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5acW9GNmxibS1iUU1RR20zcFlDSlprTGl2REl2TmRTYkRqLUFPR3BmZ1UweXpsc3ZDdzVOamRXMlhJcnhabUpaZ1RNVl9DbUhYbFJBQmZtZThCS0RFSkhWbEJlNHhyVWRRWjRFRnVB0gFuQVVfeXFMTlpxb0Y2bGJtLWJRTVFHbTNwWUNKWmtMaXZESXZOZFNiRGotQU9HcGZnVTB5emxzdkN3NU5qZFcyWElyeFptSlpnVE1WX0NtSFhsUkFCZm1lOEJLREVKSFZsQmU0eHJVZFFaNEVGdUE?oc=5",
-          "pub_date": "Wed, 04 Nov 2026 02:15:46 GMT"
-        },
-        {
-          "press": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWjVvdWtRYkh4SzRhMGV3c0dJV3RLTGZVUG82LWZUdEFnVC1rV3NFcVVlMGtRUmxYNnVaS1pNNkdYbUhiUVhHYTAxQUVVS1lGNkHSAVNBVV95cUxQWTR6RXlGUl9aQktVT0xSWkd2U3pvdUM0WFYyc21GNDJmc1ppd05OYVpnb01qdFE1QkFGUGdscGhPLXFtZHUtVHFHN29tU1hhQUFZQQ?oc=5",
-          "pub_date": "Wed, 04 Nov 2026 01:58:25 GMT"
-        }
-      ],
-      "source_count": 2,
-      "first_seen": "2026-11-04",
-      "last_updated": "2026-11-06",
-      "stale": false
     }
   ],
   "삼현": [
+    {
+      "id": "437730-기타-21703-20260915",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "삼현 주가, 상한가... 왜? - 금강일보",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wNGd3R09yV1V2Uno0al9ReWlIQktrX3B4MFoycXkyMVpkclZXUGJKUkVNS19MaERRRlBRVURMOXlxcU5JTkZweHRSRUFQRU9VczJhMTQ0OGFFdGJvUGtPODVJSW5RQ0Q3?oc=5",
+          "pub_date": "Tue, 15 Sep 2026 01:12:42 GMT"
+        },
+        {
+          "press": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxSklILUlycjdIcFBQejgwUll4RDEyU0pWNksxN21Lb0t0UmZTT2xNNUxNXzV1ZGRKYXMzZ3hQMHQtOVB3RkV4eG9zYnV5eVMzUDZ4Q1VaY0ZETlpTcEwyMW9sMDJyZjNFNGc?oc=5",
+          "pub_date": "Tue, 15 Sep 2026 01:12:42 GMT"
+        },
+        {
+          "press": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNOW41NGw3VExYRVFZZHBOTFFNUGVQM0hqUHc1MloydUNyZUxySUlRdTNUNVBKYmlBQk94VDJ6Q2pTaWotcGhLU29GTDBmM19HX2FmQV9nODFLS3pDdDg3OGpFS0pqR2J6Q3c?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:37:55 GMT"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
     {
       "id": "437730-기타-65546-20261030",
       "category": "기타",
@@ -23721,28 +23828,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-11-11",
       "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "437730-기타-74237-20261109",
-      "category": "기타",
-      "direction": "긍정",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "하나증권 \"AI 기술 산업현장 적용 확대에 로봇주 부각, 레인보우로보틱스 로보티즈 수혜\" - 비즈니스포스트",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "비즈니스포스트",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9naG01aGZtTFhjNEVrUW1VMGdCbUNTRzRIMUlkNFVPQmhBOGhuNjRRUGRraWs4a1dlb0JNci1CVHlKSUp4RGY5MHBDSkcyUjJNczRFdDlxYmNibjJjdEo4U2xLODdTc0MtODMwRnc4d2I2UTA?oc=5",
-          "pub_date": "Sun, 08 Nov 2026 23:49:36 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-09",
-      "last_updated": "2026-11-10",
       "stale": false
     }
   ],
@@ -25151,9 +25236,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "금융신문",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12bm1TazE4UjJzRnFnSHlFaDQ0QjlSRENYQVFIWGVZbGFLek5CcjUzZzBOdUszM25sV3lMNF9aSGJtU3dlWnIwWEY3TjlPLTdITzFzenpSOTNFSHlvWWhORzVSdWRMNFhvbFg3Q2lKcVY1alQ1Wjg3NlBHdWo?oc=5",
           "pub_date": "Mon, 09 Nov 2026 02:44:16 GMT"
+        },
+        {
+          "press": "금융신문",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2pET1ZwSmJ5S2U3Q0t1Y3ZadzhqUENSV05NUUgxRGpfVEwyUWRlZGNtSXZ1OUhLdnJ3cW56Y0VuZ0llQ190SG9vR2QtQklkRlVraDZTYjJ5UmxMNGxRVjA1UnhhdE44cFJnVHEzcV9RZTBnOGZKTnpwX1l6dGdUSGtvSWMxMDl0?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 02:44:16 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-11",
       "stale": false
@@ -25188,9 +25278,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "스포츠동아",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qd21XMDhDUkFMNldoTm1IbGtZSUNJZ1VzTTByM0ZKN1lXaGVHYllhTnluOHFhNjI0ZWoyNWNUc3E1NXBGY2ZIRFB3dWpWSGlYWjlFVWIwUkpoLVAtZVpUa2xBOEozYzRqbjJYc25B?oc=5",
           "pub_date": "Mon, 09 Nov 2026 07:36:58 GMT"
+        },
+        {
+          "press": "BNT뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbHVkLXhudkhaQzlZZzVBTW9jZFpxYWdZZEhxRDlWeXAxRzFHQVlhSHFZTkdyQXlYNTBZRXVHaFRqc05xQXN3bG5XSkNYZGxwVkRQUlYwcDhVOHBiNjR5WVlEbWg?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 21:17:42 GMT"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-11",
       "stale": false
@@ -25858,9 +25953,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "에너지플랫폼뉴스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Sa1Bja29zdWtYYVo2aTYtYmg1cEhIc2FWNmxvTE9KeTNHNnVkc25LUTZqY3U3TFNEa2tyZENadzlpVFk3QnYxNDlIRkdFUml0d0hzNWtqaXNROTBKOUstLXB3b0lCNzk2WUlNX2VQV1XSAXBBVV95cUxPUmtQY2tvc3VrWGFaNmk2LWJoNXBISHNhVjZsb0xPSnkzRzZ1ZHNuS1E2amN1N0xTRGtrcmRDWnc5aVRZN0J2MTQ5SEZHRVJpdHdIczVramlzUTkwSjlLLS1wd29JQjc5NllJTV9lUFdV?oc=5",
           "pub_date": "Tue, 10 Nov 2026 14:51:39 GMT"
+        },
+        {
+          "press": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNlh6VXhCbWRpbU5UMzFNX0F3WUc4bi12VU5VaFQtLTFiclZrVXJQejQzTFlMRTlDQWRuRHhmWHgxdHhuMDREa2VSdms0a3hEVHFsUk1VNm1RRkpVRHJKei1HbWduWVFQajlDYdIBcEFVX3lxTE9Sa1Bja29zdWtYYVo2aTYtYmg1cEhIc2FWNmxvTE9KeTNHNnVkc25LUTZqY3U3TFNEa2tyZENadzlpVFk3QnYxNDlIRkdFUml0d0hzNWtqaXNROTBKOUstLXB3b0lCNzk2WUlNX2VQV1U?oc=5",
+          "pub_date": "Tue, 10 Nov 2026 10:10:04 GMT"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "first_seen": "2026-11-10",
       "last_updated": "2026-11-11",
       "stale": false
@@ -27204,9 +27304,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "메트로신문",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZOXlCNEkxTkdHQnNqUGhNeF9SMlA2RXRGV2x4UnBjUmJzWGwyZXdDU3lBNThiT2ZxSWJhUXJGTlR3T3RQaWYxLVo5Q0hReXNFbzdQZHh0WGFWdE82bTl4OA?oc=5",
           "pub_date": "Tue, 10 Nov 2026 07:26:32 GMT"
+        },
+        {
+          "press": "팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TeHo2cDNNV0ZZd0lyckVZYV9FQ2JhVUdIUGhsLTB0aGNJeEZuNHNDWXlqS0RaSTE3cW1FbC1KQ0tGQ251YmNlRlhQSF9qdFViMFpnOEZUUVhZd0M0Mkg5cGFPaDRaMEhu?oc=5",
+          "pub_date": "Tue, 10 Nov 2026 04:43:55 GMT"
         }
       ],
-      "source_count": 15,
+      "source_count": 16,
       "first_seen": "2026-11-10",
       "last_updated": "2026-11-11",
       "stale": false
@@ -28490,6 +28595,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "068270-기타-7942-20260903",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[장중수급포착] 셀트리온제약, 외국인 5일 연속 순매수행진... 주가 +1.09% - 뉴스핌",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtajFLdDY0Q3NPZjNtaDF2Wk5EUzB2SlBzelpyVlRqX0NKUFVUV2doYkRhMERCWTJqYXppRThNTVNlZmxrbkl4STVWaFk0dFpORHE0aWE0bzBERTdR?oc=5",
+          "pub_date": "Thu, 03 Sep 2026 01:17:00 GMT"
+        },
+        {
+          "press": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfSDdYa3BfZXJOeEEyellrVHUtYm9HUlg3NE9IZ3ptZ0lvMmJ2NmZwM21GSnNuTnh3S2ZDUE9hNDB6cXJxNUJQOHhPbVlIRHp3ZmNXTFRnSEZzYXdo?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:17:00 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-09-03",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "068270-실적-74349-20261109",
       "category": "실적",
       "direction": "긍정",
@@ -28744,28 +28876,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "히트뉴스",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lb0NZemRSZjFUd1pienpibl9ZRllPVVlTY3hPMTBPY2czOUtfWDJRRDFsR21Fa1dXWXBLVUI2Ul9MQk1vXy1CSWFhQzY1SkF2Vl9jUDhuQlRpaWNCSHRfaEJpdmJJNFBQUVBZ?oc=5",
           "pub_date": "Mon, 09 Nov 2026 21:01:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-10",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "068270-기타-75485-20261110",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "코스피 악몽의 40일…한진·셀트리온만 생존 - 뉴스토마토",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "뉴스토마토",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scUswdUNzOWxRSnNveHF4a2o4X0Jwb291X0pacVM5MGJGcTFWcWg3OGhfUFlGdGk5R3RiclpqcmNtanVodnlqTnllSmUzMWlGSFRiM3ZKZnduWUdlYm1VSg?oc=5",
-          "pub_date": "Tue, 10 Nov 2026 04:48:01 GMT"
         }
       ],
       "source_count": 1,
@@ -29096,6 +29206,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "141080-기타-72732-20261107",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "[코스닥 기관] 에코프로·에코프로비엠 집중 매수… 바이오·2차전지로 이동 - 핀포인트뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95eWxUTTg2VVI1UkJ4bkxJclZ3eDlWMU55cFpFbUxPMll0bTJjaGI5SERpY0hNMzNPSlRPQUc2dUFsLTNRTU1EeDFqaDFRWVJKR3lRdE1leFFac19yYjVvbGE5TmpSdVI1WUZKNGktczVFUTJfUHpn0gF3QVVfeXFMT3l5bFRNODZVUjVSQnhuTElyVnd4OVYxTnlwWkVtTE8yWXRtMmNoYjlIRGljSE0zM09KVE9BRzZ1QWwtM1FNTUR4MWpoMVFZUkpHeVF0TWV4UVpzX3JiNW9sYTlOalJ1UjVZRko0aS1zNUVRMl9Qemc?oc=5",
+          "pub_date": "Fri, 06 Nov 2026 06:54:28 GMT"
+        },
+        {
+          "press": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxcHZYa3pERjE3NldhU01qRkNHeFRWNEh6WWVGX1NoU1hrX1IxQjZuaU50eF92dVVHMkppLWdKQkZpNVl1VDBpdzBLNnltTExNOXUzRl9EV0ZiOHRMWG16Y3Y1ZXJsT1ZveS1YWUp6U1FJa1HSAXdBVV95cUxQaGR4aEhxT0YtRXpzOE5mbWUybTRmTy1JSnBLYTR6Z3VjMVd0TmdXXzYxYkNnOVg2QmdsTEg0MFh4Z3VKVG80Y2xEZjJWY2RPcDhrLWdSN3hMSm9kZzdHdUJwSG9tZ05nckQ1WkItTmRvSjc0TkZyWQ?oc=5",
+          "pub_date": "Tue, 10 Nov 2026 06:54:09 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-11-07",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "141080-바이오-74396-20261109",
       "category": "바이오",
       "direction": "중립",
@@ -29238,28 +29375,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 2,
-      "first_seen": "2026-11-09",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "141080-바이오-74404-20261109",
-      "category": "바이오",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "K바이오, 독일 ‘바이오 유럽’ 집결…비만약 첫선·항암제 기술이전 논의 - 서울경제",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kanBZUWI1MmtJdFpDSGJmWUpKQWY2RF9nTnplMFQ3aElaaExmTkpMUUlfUjh4MGUyM1R0TmlUdTlGZ1JYU3pLc1NndzRLRkh6THlj0gFTQVVfeXFMTWRqcFlRYjUya0l0WkNIYmZZSkpBZjZEX2dOemUwVDdoSVpoTGZOSkxRSV9SOHgwZTIzVHROaVR1OUZnUlhTektzU2d3NEtGSHpMeWM?oc=5",
-          "pub_date": "Mon, 09 Nov 2026 01:24:40 GMT"
-        }
-      ],
-      "source_count": 1,
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-11",
       "stale": false
@@ -29661,6 +29776,48 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "347850-바이오-74415-20261109",
+      "category": "바이오",
+      "direction": "중립",
+      "confidence": "교차검증",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "디앤디파마텍 MASH 치료제, 2상서 간 섬유화 개선 50% - 히트뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "히트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5obms0OXd5cmREMlM2WlhEXzVDdWdmTUVmaURkZ1FfdlVTbjhjZm9VN2pMS1U4Qi0xZGxoWUw1OWIzSldTU05MZjVBTUlqM1pyM1dfdzVmWVRIZ182ZkFlUUxOY2VwWFQxbnRv?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 02:16:41 GMT"
+        },
+        {
+          "press": "메디컬투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80bjhiZ2dCeEJJajNUR1Q0V1ZCMS1QUFk2QURWQTVJUVBvWmhoRDRicUc4STgydnVQRDg0Q21XSTZYSUQ0bDduT08tS0NEczlObHZEakhhOU0wRVpNcm13LUVHTFpLaUlIWlpuOA?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 02:55:38 GMT"
+        },
+        {
+          "press": "바이오타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KRGJEVENUYVcwa0U1U3JHcWI5aUVaamhjMmJHSTlRclg2ZGl6YlNjTU45QTdLREUxV3FGMDhWN25wdl9TdTUxb096Q05FY1JBaE5QbnJadmR5a3g2MFQ5UnlpQzAxQ0xJZjdNLQ?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 02:10:58 GMT"
+        },
+        {
+          "press": "더파마뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhWFo1MUtnc3JRU1ZiY0EtaXdHYy1NcjBnUF9HOGFPV3RYdlhENU1JU3BjaGNDWU5tYWRVeEtDSC1aMVFTeGItcDRpYldsQW5wa3pJTkdDUHk2UHRGZW5lTFNneXhJd2FKT3JIWU9B?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 04:08:00 GMT"
+        },
+        {
+          "press": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdXBIV2I5UjluRkExbmlXMmszc0N0SmdySUFDSTk2Q0VOeWQ5bFYxREg2RjRidm1leW5xdEpIVmFfUlExdGF4S2dGSl9jbFhHRXhKazZ5TndZOWpqTzZOb09KaGNxTGU4MDNlblhJZDg0MzVuRnVxZnFFcFNYaFFWdmlXakoyeENFMGM2UUZJdDlMcFRUaW13?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 02:26:21 GMT"
+        }
+      ],
+      "source_count": 5,
+      "first_seen": "2026-11-09",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "347850-바이오-74417-20261109",
       "category": "바이오",
       "direction": "중립",
@@ -29744,33 +29901,6 @@ export const issuesByStock: Record<string, Issue[]> = {
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-11-09",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "347850-기타-74797-20261109",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "디앤디, AASLD서 ‘자보페그두타이드’ 48주 최종 조직생검 결과 ‘구두’ 발표 - 더바이오",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "더바이오",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZEpwcXNab2pkaHhSMWo3WGRCOVR0bUQxVUgyTGw2dlhFLWZja1FOaFlPUU1oSlNweUNTeGVTTHFiRFhEaU8xYUgxbW5QQzZVaFZZX1dwNEVzMVpqdm1rRnRoU1paQVFiMWN3RkRkX23SAXBBVV95cUxNVWRKcHFzWm9qZGh4UjFqN1hkQjlUdG1EMVVIMkxsNnZYRS1mY2tRTmhZT1FNaEpTcHlDU3hlU0xxYkRYRGlPMWFIMW1uUEM2VWhWWV9XcDRFczFaanZta0Z0aFNaWkFRYjFjd0ZEZF9t?oc=5",
-          "pub_date": "Mon, 09 Nov 2026 02:54:00 GMT"
-        },
-        {
-          "press": "더바이오",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VNmdScHZmZ01pLVRKa3hURWpXVjhlczNDalprSGplajNydnFaN2pSd08takF5dW85dHN6bFpETDBiem5leGVTdVJBM194VEd1STZXWlEweEtNY0VQSnhON0VHSVpHNFhiOFZjZtIBcEFVX3lxTE1VZEpwcXNab2pkaHhSMWo3WGRCOVR0bUQxVUgyTGw2dlhFLWZja1FOaFlPUU1oSlNweUNTeGVTTHFiRFhEaU8xYUgxbW5QQzZVaFZZX1dwNEVzMVpqdm1rRnRoU1paQVFiMWN3RkRkX20?oc=5",
-          "pub_date": "Mon, 09 Nov 2026 02:47:05 GMT"
-        }
-      ],
-      "source_count": 2,
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-11",
       "stale": false
@@ -31029,6 +31159,33 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "214450-기타-64538-20261029",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[리포트 브리핑]파마리서치, '3Q26 Preview: 3분기는 휴식기, 다만 많이 빠졌다' 목표가 530,000원 - 교보증권 - 뉴스핌",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VVERMNHQ5cUtNbk94eVBPZmRoaG5PUWlYQkhTVWMtY3JrZ2hVbWRUTXE5SHp1MnljdzZ1REo5YXpubTZsOG5GUTVnWmFTZ2Vna0JoNW5kVFJhVWx5?oc=5",
+          "pub_date": "Thu, 29 Oct 2026 04:40:00 GMT"
+        },
+        {
+          "press": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tS2g2S3lWYzZNVTFnOEZMc1JJbXpCcTNoU2ZvZFBPTkZaR3Nub19Kd21ablNjMHpfcXh5cFFsc014RUswN3pNN2lNUjZKdUV6b21JWThzbk42eWZY?oc=5",
+          "pub_date": "Mon, 09 Nov 2026 02:54:00 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "214450-기타-74437-20261109",
       "category": "기타",
       "direction": "중립",
@@ -31172,28 +31329,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 1,
       "first_seen": "2026-11-09",
-      "last_updated": "2026-11-11",
-      "stale": false
-    },
-    {
-      "id": "214450-기타-75118-20261110",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "파마리서치 무게중심, '내수 리쥬란' → '글로벌 리쥬란' 이동 - 히트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "히트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sb2NOUjB1Zmo4UWg2ZExnZXhaWmdKVnFOY0o5aTByeTYta3E2Rmh2VDJrRnBaRm9CZkhhWjB2WGM5UkRJbjFXOW9NUjU0Mk9lUUUtelEtUXNYemM1ZDMyV2EtcVlfeWFVNWF3?oc=5",
-          "pub_date": "Mon, 09 Nov 2026 21:05:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-10",
       "last_updated": "2026-11-11",
       "stale": false
     }
@@ -32005,10 +32140,37 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "핀포인트뉴스",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IZjA2NE0zX2Fwazc3TlBLc3UzNXUtNExzZ3Btb3NTMDRseDRFSG1VNW1hNVZVRnk4aUtOSWhQYldrRjUzMFM3R1U4T3FNUnVfSjFyVWdvTzRjUUpUUUdHUk01MTdHTUVXX1o4eUJyUmxYSDlJdDdr0gF3QVVfeXFMT0hmMDY0TTNfYXBrNzdOUEtzdTM1dS00THNncG1vc1MwNGx4NEVIbVU1bWE1VlVGeThpS05JaFBiV2tGNTMwUzdHVThPcU1SdV9KMXJVZ29PNGNRSlRRR0dSTTUxN0dNRVdfWjh5QnJSbFhIOUl0N2s?oc=5",
           "pub_date": "Tue, 10 Nov 2026 02:43:39 GMT"
+        },
+        {
+          "press": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40TVpmZ094NEV4Nzk1WmVsWGw1SWZ1Wk1rSFZmOTB0NTRYOFVFWUlaRkFBTXZwR18zYi10djhkb2dBYUxzTWhnbHk4RTk0OTVLT092V1YwNUlOM3FpYkpEdjUteFNBYUlXbFZkMk1fam10aVHSAXdBVV95cUxPSGYwNjRNM19hcGs3N05QS3N1MzV1LTRMc2dwbW9zUzA0bHg0RUhtVTVtYTVWVUZ5OGlLTkloUGJXa0Y1MzBTN0dVOE9xTVJ1X0oxclVnb080Y1FKVFFHR1JNNTE3R01FV19aOHlCclJsWEg5SXQ3aw?oc=5",
+          "pub_date": "Tue, 10 Nov 2026 02:08:26 GMT"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-11-10",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
+      "id": "005070-기타-76083-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "VC 1030억 '피노' 투자…상환권·주가 하락 방어장치 없어 - www.numbers.co.kr",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "www.numbers.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtOFA2ckk1blFybUctNWFTRHl5enY3c2ZwdGVrd2F6YUJDUW1DanJZUkwwXzhXQkMtbDBKVVJkemZreFV6QTM3ZUsyQXF3dHFjM3hjYzZ2WjNmOEQ4OVB6Q1ZFUlRRT1daVGs4?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 02:02:54 GMT"
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-11-10",
+      "first_seen": "2026-11-11",
       "last_updated": "2026-11-11",
       "stale": false
     },
@@ -32185,28 +32347,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-11-06",
       "last_updated": "2026-11-07",
-      "stale": false
-    },
-    {
-      "id": "005070-기타-70500-20261104",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "배터리 소재가 이끈 화학주 반등…고부가가치 기업 노려라 - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ybl9hR1llUnNnZmJoeFVVZ2ZQRGJXMDF1N1FqT0pmV0VmMl9JUVZkUnEtMHljZVZIUjBYYUFRQ29lLXVXWWU2azZfWHYyYkJ3TGhENUFZczFyMThlQ2YyNE5LdVRjT3JWRkRVUGRJWFRqcUk0aGtJ0gF3QVVfeXFMT3JuX2FHWWVSc2dmYmh4VVVnZlBEYlcwMXU3UWpPSmZXRWYyX0lRVmRScS0weWNlVkhSMFhhQVFDb2UtdVdZZTZrNl9YdjJiQndMaEQ1QVlzMXIxOGVDZjI0Tkt1VGNPclZGRFVQZElYVGpxSTRoa0k?oc=5",
-          "pub_date": "Wed, 04 Nov 2026 07:28:33 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-04",
-      "last_updated": "2026-11-06",
       "stale": false
     }
   ],
@@ -32419,6 +32559,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "078600-기타-76084-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "신재생에너지 관련주 희비…나노신소재 17% 급등, 한화솔루션 약세 '미국 민주당 압승 영향 촉각' - CBC뉴스",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkaExnYVJfdXJKMFJEXzFGQVd6Mkk2T1J4Q3g1OGZ1TF9jVnF1b1U3a0FMTVlBalBZQl9ydGFSQVUyS1R4a2g1R0FYVGJfNnd1d2NUTHFBWWNsWVR2Z296QnlUODZhVHdi?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:34:20 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "078600-기타-46980-20261012",
       "category": "기타",
       "direction": "중립",
@@ -32447,28 +32609,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 3,
       "first_seen": "2026-10-12",
-      "last_updated": "2026-11-10",
-      "stale": false
-    },
-    {
-      "id": "078600-기타-73655-20261108",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": false,
-      "headline": "대주전자재료 지분 6.57%…삼성자산운용 보유주식 23만9251주 증가 - 비건뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "비건뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoSmZ0WFROdlJRMlh5ZGs3Q3h0NTk0LXRkRUdFV1d1OWdQNHZJSzNsSHZ5Q1R5cXB6Y2MwVDExcFA3d0VVcnVyUnpVRnoxMlZyYTlMcklxcW5Oa0t4WVBtT1NJRFczZw?oc=5",
-          "pub_date": "Sun, 08 Nov 2026 07:03:19 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-08",
       "last_updated": "2026-11-10",
       "stale": false
     }
@@ -32563,6 +32703,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "278280-기타-76086-20261111",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "미확인",
+      "status": "일반",
+      "is_mere_mention": true,
+      "needs_review": false,
+      "headline": "박두형 여주시의장 “시민이 체감할 서비스 개선에 힘써 달라” - 아시아경제",
+      "source_type": "news",
+      "sources": [
+        {
+          "press": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FZGJycS0tR3kzQWR2dEI2NFF5RC1fU0h2M0Y1d2tNVzdhdWFIWEswVUJjbkFyZkMwY0E0U3V6UHBVbHM4SDZYdFUydXVmTzh2Mkk1WVJOeFpycEktcTNFbQ?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 02:03:57 GMT"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-11",
+      "last_updated": "2026-11-11",
+      "stale": false
+    },
+    {
       "id": "278280-기타-72593-20261106",
       "category": "기타",
       "direction": "중립",
@@ -32626,28 +32788,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-11-07",
       "last_updated": "2026-11-08",
-      "stale": false
-    },
-    {
-      "id": "278280-기타-71662-20261105",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "美, ‘한국인 감금단지 배후’ 프린스그룹 3차 제재…차명 돈줄 정조준 - 동아일보",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "동아일보",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMHJ5clZaaDY4elBDbjZ1R3pZcEFKUlpuVlk2bTBrOVV4S3J4dW9xSEdYeVUzYk1pTDJpNVpGTjV4ZXI3VGE4UDlsOEFMRG1WRTdZWEdlRHIwNTJJVDVITVc2MmFxNUduWEVRVlRlMnVCTGvSAWZBVV95cUxQOVphS1laTmlMOXNzRDhpWTFxMGZudWNaRVR3Zk1QbEtqQUJ2YUJHeDJSUXFzZWIwaTlLbkZJckJjQVQ1WXhPczBJZlZSbUQ0a29aN0dBbTRBbEt2ZC01NFp6T1VXSlE?oc=5",
-          "pub_date": "Thu, 05 Nov 2026 20:56:39 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-05",
-      "last_updated": "2026-11-07",
       "stale": false
     }
   ],
@@ -33135,7 +33275,7 @@ export const issuesByStock: Record<string, Issue[]> = {
       "id": "222080-기타-75805-20261110",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "교차검증",
       "status": "일반",
       "is_mere_mention": true,
       "needs_review": false,
@@ -33146,9 +33286,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "서울Pn",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Jd1NXQTNCYmFHTTB6SGhuLWhoaWZBZlJaNkhPWk5peTd1aWpOTzJObjlYV1AySmsyYmNUS0J2a3Y4d1kyVjhUaWdxMzBmMmVpeFllV2tQSFhPVko3MHhuMUtB?oc=5",
           "pub_date": "Tue, 10 Nov 2026 05:00:00 GMT"
+        },
+        {
+          "press": "Daily NTN",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PYUp1RmVlSkNPOGF3T2FMSzJQYmtWMEV5dXpXdWMwbGYtRUxSUjg5NnlXc1NYYUkzLXVsQkFURDcwUnh6Qm1yTVZiajhkMUJ3cXBDbnlxR0czaWE3YzRqcFNkQ25CTXpZRWc?oc=5",
+          "pub_date": "Wed, 11 Nov 2026 01:07:50 GMT"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "first_seen": "2026-11-10",
       "last_updated": "2026-11-11",
       "stale": false

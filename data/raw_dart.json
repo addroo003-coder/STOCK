@@ -7,6 +7,19 @@
     "confidence": "확정",
     "category": "기타",
     "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261111000113",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000113",
+    "is_correction": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
     "rcept_no": "20261110000320",
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000320",
@@ -634,6 +647,19 @@
     "rcept_no": "20261110900843",
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900843",
+    "is_correction": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "전환가액의조정              (제11회차)",
+    "rcept_no": "20261111900136",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900136",
     "is_correction": false
   },
   {

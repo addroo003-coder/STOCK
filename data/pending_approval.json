@@ -115340,9 +115340,14 @@
         "press": "메트로신문",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZOXlCNEkxTkdHQnNqUGhNeF9SMlA2RXRGV2x4UnBjUmJzWGwyZXdDU3lBNThiT2ZxSWJhUXJGTlR3T3RQaWYxLVo5Q0hReXNFbzdQZHh0WGFWdE82bTl4OA?oc=5",
         "pub_date": "Tue, 10 Nov 2026 07:26:32 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TeHo2cDNNV0ZZd0lyckVZYV9FQ2JhVUdIUGhsLTB0aGNJeEZuNHNDWXlqS0RaSTE3cW1FbC1KQ0tGQ251YmNlRlhQSF9qdFViMFpnOEZUUVhZd0M0Mkg5cGFPaDRaMEhu?oc=5",
+        "pub_date": "Tue, 10 Nov 2026 04:43:55 GMT"
       }
     ],
-    "source_count": 15,
+    "source_count": 16,
     "id": "012450-기타-75449-20261110",
     "first_seen": "2026-11-10",
     "last_updated": "2026-11-11",
@@ -116406,9 +116411,14 @@
         "press": "약업닷컴",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NV3lxX0RSMkw4dkptUmNqS2FCbHBETk1DN3NOVzhxWXNyLVNfZ0oxOEY5UE04cmxpYm00WGJhWW5Ha2JNMkJLZWd6VkdGcGl3OUF2cHNNdmJlNlliZnd1NTBkRjZ2QWNoTVpuUkZWN3JhcVNmMjdZ?oc=5",
         "pub_date": "Wed, 11 Nov 2026 00:52:00 GMT"
+      },
+      {
+        "press": "약사공론",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPNUZLVFFIQVllNFlrX2lCUTZUaThyazh6TnZjVGhlTGpsSjlwTkZaSGUzT0lXVzY2MGxPYjY1R3hJektrMXl4aVhUSkc4ZE5OMnRVb0tOblM5S2pWdGxLc09rV0U0NXFvM21ZTA?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 01:22:24 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "195940-기타-76003-20261111",
     "first_seen": "2026-11-11",
     "last_updated": "2026-11-11",
@@ -116430,10 +116440,111 @@
         "press": "에너지경제신문",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlS1Q3bWFHSk5aNU5VV29GejRJTWN6Z2tNNmkyN0d5a19EVVNJVE1SUmZaOGNSS1NfdHZwM2hWOXFfRW1OLUN1UXVuN0pZOXZCWV9wVlhkWEgyVG8?oc=5",
         "pub_date": "Wed, 11 Nov 2026 00:04:10 GMT"
+      },
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FT0ZwZ251cnBYNmRCdVRqZzNGc3dfODdOQkl5VGtKM2RUSEx2WTQ4UHd4LURoNWRrSGxKLUJtRFhzdG01cEp3bWlmZWFzQmhZcVdhN2R3VHRJUjdJUFNfY1NJQQ?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:04:10 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "096770-기타-76011-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "원익IPS",
+    "stock_code": "240810",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "원익IPS, 4분기 ‘분기 최대매출 4,000억원대’ 전망 - 금융소비자뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "금융소비자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zcEhENnVBRUp5ZS1KYXBnWE1oamhPY3Q5MU15Y3hxWGNsVUZsM2pGZ2JUVDhMN2RZS0h0b3FIR2FyVEZQZzR6aExyZUg0TEZSSzNaZmIwT2J6Z0hheTllcFFRdXp6N2RDZGc?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 01:23:15 GMT"
       }
     ],
     "source_count": 1,
-    "id": "096770-기타-76011-20261111",
+    "id": "240810-실적-76034-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한전선, ESG 평가 6년 연속 A…사회 부문은 A+로 상향 - 데일리안",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리안",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSVZ2cE9oWmM1YnBrMXJQRW5jVkZ0QUhqOTN0YjFsdjV6bjdzTUFsbzdfcHgyUWV6cExsbEtRcWl5RjJqQ0YtRkJDbjc5cm0xUDdnSzFfbVBOQk40YVJGTU1Sb191LV9OTFF0WEcxRWdoMGZDM0hjX2RReXlva2dDWFZkSTJLSk9DZF9HcXowRFhDZDRrbEQwdThMWWlybHZsRkVRNWxBVXZFQk9QUmxCRmdGTmNNZWY5UWFDYXJhVlRJYlZWdjRWVFZHWmM1cGRCcnJSTHpyeUM2bnpWVlYtRGlyOA?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 02:14:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-기타-76048-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼현",
+    "stock_code": "437730",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 삼현, 美 휴머노이드 공급망 재편 최대 수혜주 부각에 19%대 급등 - 와이드경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "와이드경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYaTdDbHIxMm5mN3RBX1IwSHZpVFdQd3VyejV2RUlFcXcwUDVMMkZUX21OMlFvWlFRcmZNS2d6VVA3NTUxZFVSNFg5Vjk3b3VJVjFtSzdaS2JUeWprbHdfQUJpY1pOSmQ0V1JIUg?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:43:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "437730-기타-76055-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엔켐",
+    "stock_code": "348370",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엔켐, 제11회차 CB 전환가액 5만1314원으로 하향 조정 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92SFlVS1QzVjA3TUZyS0FrZm11LUdvTVQwVzVabDlzSEMzcEhDeTczZWh1MFBlbjRxYklSSE0zeGJXcWdJM2h6VVFlVUlSLUN4b1dOUVdYbUpEeVZlY0JwRkJtdG80WDZmQ2tWY1dsQ3o1NG8?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 02:06:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "348370-기타-76085-20261111",
     "first_seen": "2026-11-11",
     "last_updated": "2026-11-11",
     "status": "일반",
