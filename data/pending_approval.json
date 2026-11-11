@@ -6185,12 +6185,17 @@
         "press": "글로벌이코노믹",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjFYVlN5Zjd6NXdBdzFUdnVrRkdGVkFGcGFHNXZpX1BNODBYeU9zQ2cyTVVEekhtMEx4SHVJdlFOb1UtUFJvVDJzaERtU2s2YUhCdVpvc3UwUEd4d0RsRWM0Sjg4TjZ3aC13UWdzUWxpOG1Wa1oyNWNPRTV0bUtjZ0hUcTlEVDQ?oc=5",
         "pub_date": "Wed, 04 Nov 2026 01:20:37 GMT"
+      },
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjZySGpHU2tjTnBoVE9uTzdEZmFDbjh5UGVQUXJLbTFoZUpjUWE1TExrZVc2QndzN0xETjIzblRDS2RodXIta1BPT3pFTU5fblViMjVJUmtOTmZOTlBRcEdKZS1NRnZRX0VDQ2wzSTNuc2xsM0E3Q2ZMY0ZUbEVndG5OcVV6ZTg?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:50:17 GMT"
       }
     ],
-    "source_count": 8,
+    "source_count": 9,
     "id": "005930-기타-5354-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-11-04",
+    "last_updated": "2026-11-11",
     "status": "일반",
     "stale": false
   },
@@ -6239,12 +6244,17 @@
         "press": "글로벌이코노믹",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk81eTZhVkdIbzhPWnVrVzdBaDNMYlJhQjcxNk5heDVuNXh5Z0c4Ni1UMGdab0VaQW5ZdVBTM2gtWmw2RUhPZmg3VnB5WlpzdW5vYmo4b1NGRXJRWmJWcFpCLXNTaWVVemFYZ2tCdG9HeW13S3VqV1dVd3U5b3AtNWc3NnRHNDFj?oc=5",
         "pub_date": "Mon, 09 Nov 2026 00:46:40 GMT"
+      },
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjZySGpHU2tjTnBoVE9uTzdEZmFDbjh5UGVQUXJLbTFoZUpjUWE1TExrZVc2QndzN0xETjIzblRDS2RodXIta1BPT3pFTU5fblViMjVJUmtOTmZOTlBRcEdKZS1NRnZRX0VDQ2wzSTNuc2xsM0E3Q2ZMY0ZUbEVndG5OcVV6ZTg?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:50:17 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 8,
     "id": "000660-기타-5358-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-11-09",
+    "last_updated": "2026-11-11",
     "status": "일반",
     "stale": false
   },
@@ -115925,7 +115935,7 @@
     "source_count": 1,
     "id": "240810-실적-75636-20261110",
     "first_seen": "2026-11-10",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-11",
     "status": "일반",
     "stale": false
   },
@@ -116270,6 +116280,160 @@
     ],
     "source_count": 1,
     "id": "006400-수주-75906-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 '특별배당 효과'…KODEX 월배당 ETF 분배금 확대 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnRHSTRlV2p5UEVyckN5VXdKNDFFNmpKYkhwOHRUMHE2NklTY1JYanhnaWdvVjhtdG5Xd182czY3eDNQNFREUDVYbWhvMDFZVWZqZFo1WkdKOUpIWWJ1ZzdtdnNlUl9DYXlPTjEzemFvTk1vS0RhbGM5RVZqU1l1WGVTUUM5bFZn?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:57:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-자본-75928-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자·SK하이닉스 '특별배당 효과'…KODEX 월배당 ETF 분배금 확대 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnRHSTRlV2p5UEVyckN5VXdKNDFFNmpKYkhwOHRUMHE2NklTY1JYanhnaWdvVjhtdG5Xd182czY3eDNQNFREUDVYbWhvMDFZVWZqZFo1WkdKOUpIWWJ1ZzdtdnNlUl9DYXlPTjEzemFvTk1vS0RhbGM5RVZqU1l1WGVTUUM5bFZn?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:57:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-자본-75938-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "제주반도체",
+    "stock_code": "080220",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "제주반도체, 온디바이스 AI·LPDDR 시장 확대…업황 회복이 중요 - 증권일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "증권일보",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpbENMRXhtRnU1MXVJTnF6WHlwbVh5TC1maXMyYTVhQ1llYmhfQkVRcjh6MGN4YVBtbjZmYmNpdnpWUmdmN1ZsT1pHM240NUY1cXVrTkM2TFpKbC1TSTlFdQ?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:15:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "080220-기타-75944-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[청기홍기]\"바이오시밀러 황금기 온다\"...셀트리온 목표가 줄상향 - 비즈워치",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈워치",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yTTJ0elpxdjU1Z2laMG9sOTJXaEZ5ck9EbkFmbXZDNGZfN3pMbVY4eTdWRHpNQjlsVjFKM2VxQXJQWDI2a3JWdmh3VjhvM3lmU2p6X1JjUE1aU1l0bXQ1dFlxZFNPajNOOUE?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 01:26:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "068270-기타-75987-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "HK이노엔, 경구용 항응고제 '릭시엔정' 출시…순환기 치료제 시장 확대 - 한국의약통신",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국의약통신",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxTlZ1WEY1N1RnWmpYZlRVNU5FYUpLMTc4NmZNN2tHMlZhVDN1WldiRDBzMlB2eHlNTi0yQzUzSWNIQlRBbU94R0xOdi13alJrV3hVb2ZQeHFmSEdvN0JqVGxtNUZaX2d4U1Jj?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 01:21:15 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CMTRQTFRmX2w3UzNkYnluWVRqYW0wM0RCNUF4dmx6MmZrOEFCdWVhci1IVHYzOWtadmlrdTRBeS1yNnZDeDlvYmlPQmV6Ykd3MFhDaDVmVFgyQmN3RjEtZENnaFA?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:42:09 GMT"
+      },
+      {
+        "press": "약업닷컴",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NV3lxX0RSMkw4dkptUmNqS2FCbHBETk1DN3NOVzhxWXNyLVNfZ0oxOEY5UE04cmxpYm00WGJhWW5Ha2JNMkJLZWd6VkdGcGl3OUF2cHNNdmJlNlliZnd1NTBkRjZ2QWNoTVpuUkZWN3JhcVNmMjdZ?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:52:00 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "195940-기타-76003-20261111",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK이노베이션, 농어촌 ‘행복Dream 도서관’ 32곳으로 확대…3만3000권 기부 - 에너지경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlS1Q3bWFHSk5aNU5VV29GejRJTWN6Z2tNNmkyN0d5a19EVVNJVE1SUmZaOGNSS1NfdHZwM2hWOXFfRW1OLUN1UXVuN0pZOXZCWV9wVlhkWEgyVG8?oc=5",
+        "pub_date": "Wed, 11 Nov 2026 00:04:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "096770-기타-76011-20261111",
     "first_seen": "2026-11-11",
     "last_updated": "2026-11-11",
     "status": "일반",

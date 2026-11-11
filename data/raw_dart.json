@@ -117,6 +117,32 @@
     "is_correction": false
   },
   {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261111800077",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800077",
+    "is_correction": false
+  },
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261111800075",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800075",
+    "is_correction": false
+  },
+  {
     "company": "가온칩스",
     "stock_code": "399720",
     "sector": "AI 반도체",
@@ -283,6 +309,19 @@
     "rcept_no": "20261110800781",
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800781",
+    "is_correction": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+    "rcept_no": "20261111000076",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000076",
     "is_correction": false
   },
   {
@@ -513,6 +552,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "주식등의대량보유상황보고서(일반)",
+    "rcept_no": "20261111000064",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000064",
+    "is_correction": false
+  },
+  {
+    "company": "우진엔텍",
+    "stock_code": "457550",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "[기재정정]거래처와의거래중단              ",
     "rcept_no": "20261109900840",
     "rcept_dt": "20261109",
@@ -530,6 +582,19 @@
     "rcept_no": "20261110000424",
     "rcept_dt": "20261110",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000424",
+    "is_correction": false
+  },
+  {
+    "company": "삼성바이오로직스",
+    "stock_code": "207940",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+    "rcept_no": "20261111800082",
+    "rcept_dt": "20261111",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800082",
     "is_correction": false
   },
   {
