@@ -237,8 +237,8 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "news": {
       "title": "中, 로봇개 물량 공세… 현대차·삼성은 기술 차별화로 틈새 공략",
       "office": "서울신문",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/081/0003698855"
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/081/0003698973"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/277810/news"
   },
@@ -403,10 +403,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[기업] 삼성전자, AI 안경 30종 공개...구글 '제미나이' 탑재",
-      "office": "YTN",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432130"
+      "title": "[스타트UP] “음악 듣다 영상 보고 AI까지”…삼성전자 연구원이 만든...",
+      "office": "조선비즈",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204468"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -417,10 +417,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006400",
     "news": {
-      "title": "\"HBM 승부처는 패키징\"…삼성, 144조 투자로 'AI칩 심장' 키운다(종합...",
-      "office": "이데일리",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409130"
+      "title": "충청 메가프로젝트 첫삽…李대통령 “112개 기업, 24조 추가투자”",
+      "office": "서울경제",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/011/0004681702"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006400/news"
   },
@@ -627,10 +627,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "젠슨 황 해임설에 코스피 못 웃어…오늘 밤 네비우스 실적 중요",
+      "title": "[우보세]'삼바-셀트'처럼…K-바이오 많이 만나라",
       "office": "머니투데이",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/008/0005440476"
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/008/0005440630"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -1327,10 +1327,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=214450",
     "news": {
-      "title": "파마리서치, 의료기기 부진… 화장품이 대안? [한국주식 원포인트 레...",
-      "office": "매일경제",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/009/0005762835"
+      "title": "‘수출 비중 절반 육박’ 파마리서치, 의료기기·화장품 쌍끌이 호실...",
+      "office": "스포츠서울",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/468/0001280687"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/214450/news"
   },
@@ -1495,10 +1495,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=047810",
     "news": {
-      "title": "KF21 양산·개량·수출 선순환…KAI, 해외진출 날개로 연매출 5조 시대...",
-      "office": "매일경제",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/009/0005763066"
+      "title": "\"KAI KF-21 납품물량 확대 기대\" BNK투자證",
+      "office": "파이낸셜뉴스",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603728"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/047810/news"
   },
@@ -1607,10 +1607,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000720",
     "news": {
-      "title": "'20억 로또' 디에이치 반포124, 내달 공급",
-      "office": "한국경제",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353280"
+      "title": "서초 한강변에 5000채 대단지 공급",
+      "office": "동아일보",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/020/0003762156"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000720/news"
   },
@@ -1887,10 +1887,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "젠슨 황 퇴진 위기에 대만 반도체 공급망 긴장…\"증설 속도 늦어질 수...",
-      "office": "뉴스1",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/421/0009286765"
+      "title": "메모리 호황에 대만도 EUV 투자 본격화… 삼성전자·SK하이닉스 추격...",
+      "office": "조선비즈",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204467"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
