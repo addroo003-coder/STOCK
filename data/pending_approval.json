@@ -118237,9 +118237,19 @@
         "press": "데이터투자",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TdUY3ajQtZUotNmo2MmhmMGlmb2JIUFpWSDRuVEtDQW5tc2lSQTItY1o1LTh1QzlkTkRtbzZXWGJva3o1STZnaTZZQkw2SUZuVWE0TkE4SEVzTDhkbzB0SjFYVVBlZXBMaHRMRTFsRXpHS0U?oc=5",
         "pub_date": "Thu, 12 Nov 2026 00:12:50 GMT"
+      },
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fd21qZ2xudndXd2Y5S2t5czJTVXNOOFZJdk5TSE9DbkRkNGRqcXVEYTgwcnpfYnpZM2xRaGUtY2FQZTExc1VTUGc1N19HRGZadlZ3ZnpyRFBFQnF0RGdPOFN2MG9BZl9kZEh5eUNQRUgzZw?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 15:18:18 GMT"
+      },
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vQUM2aHdITmJScGdkQm82YkZKdmVwSmozTEIzV1h5YlNTcVkzQU1uTUR4TVRvX1NtWjZqWWZVbWowRjdzVWF2Vkw5RUpVX3NkQjFDUzlaZTNreEJKNDFISHFaa2ZJTDVUWXNmd0owUE95dw?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 00:15:40 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 5,
     "id": "211270-수주-77099-20261112",
     "first_seen": "2026-11-12",
     "last_updated": "2026-11-12",
@@ -118530,9 +118540,14 @@
         "press": "디지털데일리",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tNklnQnlmeXQtLU1JWUNUd2FwbkJURXlQUlpETkxVTzljTDEzaXExZ1daUlZnYUpMVGloSkdlZjcxU0lrZnlrVmVKRUFDMkhPR3NPdXhyTDk0cUtLdVFhUVRR?oc=5",
         "pub_date": "Thu, 12 Nov 2026 08:14:05 GMT"
+      },
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xN1QzcW10d2NweGROeFlQZEVPUFpHZUsxZHBhaWM1X3RRV0NBbjQwSTY0V000TmRjT296MkhGOGVjTXpnei1sVTlQZXR4QVJMektmdzRBMWQ3SlotREgwUl9CSlY?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 08:14:05 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "054450-실적-77320-20261112",
     "first_seen": "2026-11-12",
     "last_updated": "2026-11-12",
@@ -118943,6 +118958,54 @@
     ],
     "source_count": 1,
     "id": "006400-수주-77648-20261112",
+    "first_seen": "2026-11-12",
+    "last_updated": "2026-11-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SNT에너지",
+    "stock_code": "100840",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SNT에너지, 자기주식 취득 신탁계약 체결...100억 원 규모, 임직원 주식보상 목적 - Investing.com 한국어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FRU1mZlptdVRKWXIxQnRRcGJFMEtwQW1pMGQyRmgwaC1HQzlDLXBoa042Q19VOTItTXV2QzB4WGZEcVpWWFV6dmVtblZhUkhRZERQZUVMeDBxYm5sNkp5bl91VXllQWNaV0YwajRUSHk3TlE?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 01:51:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "100840-기타-77735-20261112",
+    "first_seen": "2026-11-12",
+    "last_updated": "2026-11-12",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "티엘비",
+    "stock_code": "356860",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주]티엘비, 목표가 상향에 12%대 강세···전날 상한가 이어 상승 - 현대경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "현대경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meTlyU3FZOGdDQ09FT1dNR2M2eFp0eHdzUWRCb1pkbExEaXdEbUgyNTdBMDZwNWhjV3hybzBoWmlJS3gwMS1PVE8zQmxyUnpndGtjNlJiVkk1UmlXUWxzQW9kTDhvRE810gFrQVVfeXFMTkhrUHFCdXFTS0dtcGVHY09FdUVPajFsd0hJRUZoRS0zeGFEYk5jaUlFbGdNYmNhOThJOGNTQm92cWdfWklWbUtJYWlXejNaaEpEN3o0eUt5WTMwRFdwM2FaeHFldy1Dd0Vpd28?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 04:18:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "356860-기타-77784-20261112",
     "first_seen": "2026-11-12",
     "last_updated": "2026-11-12",
     "status": "일반",
