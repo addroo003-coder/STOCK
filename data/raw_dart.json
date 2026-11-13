@@ -26,71 +26,6 @@
     "is_correction": false
   },
   {
-    "company": "삼성전자",
-    "stock_code": "005930",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20261110000320",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000320",
-    "is_correction": false
-  },
-  {
-    "company": "삼성전자",
-    "stock_code": "005930",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20261110000038",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000038",
-    "is_correction": false
-  },
-  {
-    "company": "HPSP",
-    "stock_code": "403870",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "주요사항보고서(자기주식처분결정)",
-    "rcept_no": "20261110000300",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000300",
-    "is_correction": false
-  },
-  {
-    "company": "HPSP",
-    "stock_code": "403870",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주주명부폐쇄기간또는기준일설정              ",
-    "rcept_no": "20261110900510",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900510",
-    "is_correction": false
-  },
-  {
-    "company": "HPSP",
-    "stock_code": "403870",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]주식매수선택권부여에관한신고",
-    "rcept_no": "20261110000262",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000262",
-    "is_correction": true
-  },
-  {
     "company": "테스",
     "stock_code": "095610",
     "sector": "AI 반도체",
@@ -156,19 +91,6 @@
     "is_correction": false
   },
   {
-    "company": "가온칩스",
-    "stock_code": "399720",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(일반)",
-    "rcept_no": "20261110000251",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000251",
-    "is_correction": false
-  },
-  {
     "company": "텔레칩스",
     "stock_code": "054450",
     "sector": "AI 반도체",
@@ -179,6 +101,19 @@
     "rcept_no": "20261112900727",
     "rcept_dt": "20261112",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900727",
+    "is_correction": false
+  },
+  {
+    "company": "제주반도체",
+    "stock_code": "080220",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261113000183",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000183",
     "is_correction": false
   },
   {
@@ -205,19 +140,6 @@
     "rcept_no": "20261111000355",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000355",
-    "is_correction": false
-  },
-  {
-    "company": "솔브레인",
-    "stock_code": "357780",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(약식)",
-    "rcept_no": "20261110000154",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000154",
     "is_correction": false
   },
   {
@@ -273,32 +195,6 @@
     "is_correction": false
   },
   {
-    "company": "이수페타시스",
-    "stock_code": "007660",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20261110800572",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800572",
-    "is_correction": false
-  },
-  {
-    "company": "이수페타시스",
-    "stock_code": "007660",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(일반)",
-    "rcept_no": "20261110000334",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000334",
-    "is_correction": false
-  },
-  {
     "company": "대덕전자",
     "stock_code": "353200",
     "sector": "AI 반도체",
@@ -309,32 +205,6 @@
     "rcept_no": "20261112000060",
     "rcept_dt": "20261112",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000060",
-    "is_correction": false
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "최대주주등소유주식변동신고서              ",
-    "rcept_no": "20261110800736",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800736",
-    "is_correction": false
-  },
-  {
-    "company": "LS ELECTRIC",
-    "stock_code": "010120",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-    "rcept_no": "20261110000239",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000239",
     "is_correction": false
   },
   {
@@ -351,19 +221,6 @@
     "is_correction": false
   },
   {
-    "company": "LS",
-    "stock_code": "006260",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)              ",
-    "rcept_no": "20261110800781",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800781",
-    "is_correction": false
-  },
-  {
     "company": "대한전선",
     "stock_code": "001440",
     "sector": "전기·전력",
@@ -374,45 +231,6 @@
     "rcept_no": "20261111000076",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000076",
-    "is_correction": false
-  },
-  {
-    "company": "LS에코에너지",
-    "stock_code": "229640",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]타법인주식및출자증권취득결정              ",
-    "rcept_no": "20261110800830",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800830",
-    "is_correction": true
-  },
-  {
-    "company": "LS에코에너지",
-    "stock_code": "229640",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]지주회사의자회사편입              ",
-    "rcept_no": "20261110800761",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800761",
-    "is_correction": true
-  },
-  {
-    "company": "LS에코에너지",
-    "stock_code": "229640",
-    "sector": "전기·전력",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "지주회사의자회사편입              ",
-    "rcept_no": "20261110800370",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800370",
     "is_correction": false
   },
   {
@@ -439,6 +257,19 @@
     "rcept_no": "20261111000204",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000204",
+    "is_correction": false
+  },
+  {
+    "company": "비에이치아이",
+    "stock_code": "083650",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261113000182",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000182",
     "is_correction": false
   },
   {
@@ -478,6 +309,19 @@
     "rcept_no": "20261111800452",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800452",
+    "is_correction": false
+  },
+  {
+    "company": "에스피지",
+    "stock_code": "058610",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261113000047",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000047",
     "is_correction": false
   },
   {
@@ -603,24 +447,24 @@
     "sector": "원전·SMR",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261113000118",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000118",
+    "is_correction": false
+  },
+  {
+    "company": "우진엔텍",
+    "stock_code": "457550",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "기타",
     "title": "주식등의대량보유상황보고서(일반)",
     "rcept_no": "20261111000064",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000064",
-    "is_correction": false
-  },
-  {
-    "company": "한화에어로스페이스",
-    "stock_code": "012450",
-    "sector": "우주항공",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "동일인등출자계열회사와의상품ㆍ용역거래변경",
-    "rcept_no": "20261110000424",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000424",
     "is_correction": false
   },
   {
@@ -647,6 +491,19 @@
     "rcept_no": "20261111800082",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800082",
+    "is_correction": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "자기주식취득결과보고서",
+    "rcept_no": "20261113000215",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000215",
     "is_correction": false
   },
   {
@@ -715,19 +572,6 @@
     "is_correction": false
   },
   {
-    "company": "올릭스",
-    "stock_code": "226950",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "바이오",
-    "title": "[기재정정]투자판단관련주요경영사항              (임상시험계획 승인 신청 반려)",
-    "rcept_no": "20261110900550",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900550",
-    "is_correction": true
-  },
-  {
     "company": "파마리서치",
     "stock_code": "214450",
     "sector": "바이오",
@@ -764,6 +608,19 @@
     "rcept_no": "20261112800571",
     "rcept_dt": "20261112",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800571",
+    "is_correction": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261113800308",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800308",
     "is_correction": false
   },
   {
@@ -832,32 +689,6 @@
     "is_correction": false
   },
   {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "유상증자결정(종속회사의주요경영사항)              ",
-    "rcept_no": "20261110900846",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900846",
-    "is_correction": false
-  },
-  {
-    "company": "에코프로비엠",
-    "stock_code": "247540",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "타법인주식및출자증권취득결정              ",
-    "rcept_no": "20261110900843",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900843",
-    "is_correction": false
-  },
-  {
     "company": "엔켐",
     "stock_code": "348370",
     "sector": "이차전지·ESS",
@@ -868,19 +699,6 @@
     "rcept_no": "20261111900136",
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900136",
-    "is_correction": false
-  },
-  {
-    "company": "더블유씨피",
-    "stock_code": "393890",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(약식)",
-    "rcept_no": "20261110000108",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000108",
     "is_correction": false
   },
   {
@@ -910,19 +728,6 @@
     "is_correction": false
   },
   {
-    "company": "신성에스티",
-    "stock_code": "416180",
-    "sector": "이차전지·ESS",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]타인에대한채무보증결정              ",
-    "rcept_no": "20261110900289",
-    "rcept_dt": "20261110",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900289",
-    "is_correction": true
-  },
-  {
     "company": "비나텍",
     "stock_code": "126340",
     "sector": "이차전지·ESS",
@@ -934,6 +739,19 @@
     "rcept_dt": "20261111",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900786",
     "is_correction": true
+  },
+  {
+    "company": "티엘비",
+    "stock_code": "356860",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "실적",
+    "title": "분기보고서 (2026.09)",
+    "rcept_no": "20261113000045",
+    "rcept_dt": "20261113",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000045",
+    "is_correction": false
   },
   {
     "company": "디아이",
