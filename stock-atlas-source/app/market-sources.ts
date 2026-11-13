@@ -179,10 +179,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=034020",
     "news": {
-      "title": "두산에너빌리티, 3년 연속 동반성장지수 ‘최우수’…명예기업 선정",
+      "title": "체코 원전 발주사도 사업 일정 재확인… 2029년 11월 착공 목표",
       "office": "세계일보",
-      "date": "20261112",
-      "url": "https://n.news.naver.com/mnews/article/022/0004174681"
+      "date": "20261114",
+      "url": "https://n.news.naver.com/mnews/article/022/0004175030"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/034020/news"
   },
@@ -403,10 +403,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "\"삼성전자, 美 데이터센터 냉각업체 모딘 인수 협상\"",
+      "title": "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\"",
       "office": "아이뉴스24",
-      "date": "20261113",
-      "url": "https://n.news.naver.com/mnews/article/031/0001075018"
+      "date": "20261114",
+      "url": "https://n.news.naver.com/mnews/article/031/0001075021"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -1047,10 +1047,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=036930",
     "news": {
-      "title": "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코...",
-      "office": "주간동아",
-      "date": "20261113",
-      "url": "https://n.news.naver.com/mnews/article/037/0000039148"
+      "title": "레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는",
+      "office": "머니투데이",
+      "date": "20261114",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441006"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/036930/news"
   },
@@ -1145,10 +1145,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=007810",
     "news": {
-      "title": "[특징주] 美 반도체주 급등에 기판株 동반 강세…코리아써키트 9%↑",
-      "office": "조선비즈",
-      "date": "20261110",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203675"
+      "title": "\"AI만 잘나가는 줄 알았는데\"…영업익 91% 뛴다는 '이 회사'",
+      "office": "한국경제",
+      "date": "20261113",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353700"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/007810/news"
   },
@@ -1453,10 +1453,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=166090",
     "news": {
-      "title": "유안타증권 \"하나머티리얼즈, 내년 최대 실적 전망…목표가↑\"",
-      "office": "연합뉴스",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/001/0016392890"
+      "title": "디와이피엔에프-하나머티리얼즈, 실리콘 음극재 양산공장 EPC 계약 체...",
+      "office": "동아일보",
+      "date": "20261027",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757916"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/166090/news"
   },
@@ -1887,10 +1887,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "“문송합니다” 넘어선 신입…AI 시대 달라지는 인재상",
-      "office": "KBS",
-      "date": "20261113",
-      "url": "https://n.news.naver.com/mnews/article/056/0012293755"
+      "title": "MSCI 11월 정기 리뷰… SK하이닉스, ADR 반영에 비중 '쑥'",
+      "office": "머니투데이",
+      "date": "20261114",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441005"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
