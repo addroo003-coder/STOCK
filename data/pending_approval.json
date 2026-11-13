@@ -119195,9 +119195,14 @@
         "press": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdndGb1VMa1VNYzh6aFE0WnA3MlZIWldFdU5kbjAwYjVxZi1GRHA4ZEwzUm5PbUZSdjF1Y3Q1YnZ1ekl6ekFXYjducTJWcV9lRGlwa18tcGVic290ZjhwZjdhTVpPbktFd3dMSUFxR3pwcDRleHpxemFXN2RIQ0llMTZtRTM2RXlv0gGcAUFVX3lxTE1FSnYyX0F5UUROcXFNaGdldU1yMUpZN282QUItVm1lenFMNXdwSDV6bk40elZXZ2VGbEhfb20tNWMwV2tWRWVxVS1xU3ZsSUgwTmRQbGQ2aVZSQXdFa2xqNm1FdWlhS1U4VXhfY3gweEVQRTRPdXJtNjV2Qzd4RGpfaUZLVDBWQ1F6NzhoMVFlbTB4bF9VU0x6MDVGTA?oc=5",
         "pub_date": "Fri, 13 Nov 2026 01:07:00 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUp2Ml9BeVFETnFxTWhnZXVNcjFKWTdvNkFCLVZtZXpxTDV3cEg1em5ONHpWV2dlRmxIX29tLTVjMFdrVkVlcVUtcVN2bElIME5kUGxkNmlWUkF3RWtsajZtRXVpYUtVOFV4X2N4MHhFUEU0T3VybTY1dkM3eERqX2lGS1QwVkNRejc4aDFRZW0weGxfVVNMejA1RkzSAZwBQVVfeXFMTUVKdjJfQXlRRE5xcU1oZ2V1TXIxSlk3bzZBQi1WbWV6cUw1d3BINXpuTjR6VldnZUZsSF9vbS01YzBXa1ZFZXFVLXFTdmxJSDBOZFBsZDZpVlJBd0VrbGo2bUV1aWFLVThVeF9jeDB4RVBFNE91cm02NXZDN3hEal9pRktUMFZDUXo3OGgxUWVtMHhsX1VTTHowNUZM?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 01:07:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "007660-기타-77866-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-13",
@@ -119417,9 +119422,24 @@
         "press": "약업닷컴",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm5mS0dxandrb1V4WlhObXlQa0dnTFNfU202bGE3bnFXMV9EVHpTZEwzbFQ3aVpZOTJKVXcxRzNXOWlFRWx4QUlyZy1zM0dXVE5NbG9kYVRmVzV0N05uOEVtR0xTblBwbTZmWHVoWDVubVIxTm83cm54dVktcG9vd0RzeE1tcFBaY3BlZ3hfOA?oc=5",
         "pub_date": "Thu, 12 Nov 2026 22:25:00 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTV1U5aTU1Y0xZSVZlZzZKRjRvTXZBOFkwOEpabkhURXZpaFNPbUhkdW0zYUF5THJ1ejFoRFJRV2VvZ2taZG9ROE8yRUx2MnhsYm9wSTdJM2NMYjUyU2FaSkRCV2dNR21ZMlhvRktwRHRkd2ZlRmln?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 22:25:00 GMT"
+      },
+      {
+        "press": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4VldBa3BISGJWdlpzcWhIREZYTUZxMkMzdDZMS3lESGpzMVJBZkVxNTE4bHl2cFdVeXQ3SldrcF9tVnNZZ2VHTXJWQV81WmhuSkE?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 00:49:59 GMT"
+      },
+      {
+        "press": "메디컬투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSWVUT1hiVUNoSnNoZXZwVnRmYWV2TmtqNmNwWHIxMnhuR3R6WVA2X3RkYjFMVERyQS1pY2dCbFFtM2ZEYVlGUFZ1MXMyaVNsUUpZcGdyZGZDdWUwbFhBRlhWWkZJUFZIbHZoMg?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 00:08:58 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 8,
     "id": "196170-기타-78021-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-13",
@@ -119445,6 +119465,174 @@
     ],
     "source_count": 1,
     "id": "066970-리스크-78070-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "퀄리타스반도체, SK하이닉스 공급 IP 규모 확대...총 39억 - 디일렉",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tQzVTMGVjMlRPTDVSZ1RQTkRmNzlmSzl1RDY3WUxTU1pEVFVrTEdSYnRBUGtvN3c0LS1TbnZhaTFGb3BRaXFYUi1PLVgtbGt1NXVSUWFBVUFKZ29wZnRzWjZpUGhxZw?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 04:19:45 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-78104-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "category": "증설",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "곽동신 한미반도체 회장, 신규 공장 현장 점검…내년 생산능력 확대 - 디지털데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TbFdtMl9fYU5pZERXb0VfMjNmaEUyQTZWU1BNUmw0c3dKUUY3WDdIVTVIYzhRTGFGdGtPY1FlaElJcDZadURzMDd3UWJjc25yUHFBajk4UklwcjlJcTJtUDVxOGU?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 03:54:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "042700-증설-78112-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "텔레칩스",
+    "stock_code": "054450",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[팹리스 돋보기] 텔레칩스, ADAS 제품군 확대…개발비 회수 관건 - 블로터",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "블로터",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Z1gwMWd1VHVkYUFBQVE0NU1jUDZkMGJpQnhqb1EzZU5qLU01aDVwRUZvdk12S2EzbnVsMHVZazNXOWd2UlVSY09lajR0VGxqTGZVeFNSX3d1eVdIRXlyR3B2VDNEQkRlM2t2ZtIBbEFVX3lxTE10Z1gwMWd1VHVkYUFBQVE0NU1jUDZkMGJpQnhqb1EzZU5qLU01aDVwRUZvdk12S2EzbnVsMHVZazNXOWd2UlVSY09lajR0VGxqTGZVeFNSX3d1eVdIRXlyR3B2VDNEQkRlM2t2Zg?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 02:46:41 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "054450-기타-78131-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "신재호 LS엠트론 사장 \"멕시코 고객 접점 확대…글로벌 시장서 성장\" - 파이낸셜포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yalhGNEVsckRQOTEzN0dyREZ1cnZwN3NRMHBpYktUXzJkanE3SDhaU1RHWndhZXMtZGh6ZmswVXBMMUlZUW5pSFhURUdfeWFQT3I2LWJ0eXZhdGlWdDVTcmgxbU45VDBhQUFwZndVMm5mQmdO?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 03:06:23 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-78145-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼현",
+    "stock_code": "437730",
+    "sector": "피지컬 AI·로봇",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼현 | 북미 액추에이터 초도 양산 공급, 2028년 흑자전환의 조건 - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkRCR2hsWUc5dDVuVlFSVGZsem9OZ1c5V1FUcWN0Z3JkUm9pVmhOZktJNE9FZjVXWlh5QmRmekxmeHRMZlFaaTdJS280NnRxYjdzbUotQVlxVllEb1NWZllzMk83NU91a2gwa0V0SFdFVHREVUpvWndnTDdxNGxmekxGSzREc2FD?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 04:16:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "437730-기술-78164-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, 뇌전증 신약 ‘세노바메이트’ 일본 판매 개시…미국부터 유럽, 동북아 지역까지 확대 - MEDI:GATE NEWS",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "MEDI:GATE NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BeXVkV0YtNUtCNDZIUVNmNnptYTl0b01HOVFRZUNnSW1lc2E1anB5Y1RjTGJkMW5HTG1icjl3QmFmMlZIc0R4eUJOVFVUcHhxQWZZb3RVdw?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 02:27:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-78204-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "파마리서치",
+    "stock_code": "214450",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "파마리서치 리쥬란코스메틱, 홍콩·대만·두바이 1070개 매장으로 유통망 확대 - 월요신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "월요신문",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZ1pmLXlOQ200R0ZOSE1CU3Izdkl4VnJYU0pUZUVsc1luMkFKOTg2ZGRiVF9UNjFkUS1fZXNkYXRYeE1INFo5ay1vRWNnVVRacC1aOHVXM25hRDdFUXRFX1NJaU5FbzBacnc?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 03:49:07 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "214450-기타-78208-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-13",
     "status": "일반",
