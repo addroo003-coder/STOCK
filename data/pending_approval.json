@@ -103261,9 +103261,14 @@
         "press": "국민기자뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94OS1MNkJrcVZyajBhUUxfbURIRTYxX3ZvX1RHWmVXQ3N2R2ZWbHBmVE40Z0E0MUlZTUtiZGplQlpnY0FpZ2FHMXpteEF3WXR5UmdHMWpteTlGTXV5WUxncDJlNGPSAWdBVV95cUxNNnlyN1l3YTk0LW5CRmFpM1BKeVhLZ3AzbkJGZkxHQ1JwcFJhcTlCa1RpeFN0U2d6TWtxOVBtd3FIUUVyZWMyLUhPZWtxSXp4MzAwdXFRQnJudmJXRzNEd2VzeTFQVWdz?oc=5",
         "pub_date": "Thu, 12 Nov 2026 20:20:00 GMT"
+      },
+      {
+        "press": "국민기자뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02eXI3WXdhOTQtbkJGYWkzUEp5WEtncDNuQkZmTEdDUnBwUmFxOUJrVGl4U3RTZ3pNa3E5UG13cUhRRXJlYzItSE9la3FJengzMDB1cVFCcm52YldHM0R3ZXN5MVBVZ3PSAWdBVV95cUxNNnlyN1l3YTk0LW5CRmFpM1BKeVhLZ3AzbkJGZkxHQ1JwcFJhcTlCa1RpeFN0U2d6TWtxOVBtd3FIUUVyZWMyLUhPZWtxSXp4MzAwdXFRQnJudmJXRzNEd2VzeTFQVWdz?oc=5",
+        "pub_date": "Thu, 12 Nov 2026 22:07:10 GMT"
       }
     ],
-    "source_count": 19,
+    "source_count": 20,
     "id": "066970-수주-69304-20261103",
     "first_seen": "2026-11-03",
     "last_updated": "2026-11-13",
@@ -120032,9 +120037,74 @@
         "press": "메디포뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XdGVfem5HajNlTTdldWxvMkY1b3FjMGE2TmYxWk94SC11RG5ja0RhTEpoaDNOUEJPanozb3N1MEdHTU5LZjlpZFpfeC1qREFLenJWdWJpZHBsU1FPQjlDMGRtVmI?oc=5",
         "pub_date": "Fri, 13 Nov 2026 07:53:50 GMT"
+      },
+      {
+        "press": "바이오타임즈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MLWpMWWFObGp0RmJBR1RZdEM1Mm43Um1qM0s3Ny1paTZOUjVvLURuTmZJMFN2SjhjTVliZk1jV2xXN2FDdXlPeWRVSzY4V0ZFaTdRaWp2SWhfV1otUTYxZGVvbkdsVnFxZFR6Vw?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:38:00 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xbFJONG9KbUh1X0JIUVZ4TW9yTEczTHFYUGs5akN2REhGZUpPMXR0c2hCcFB0Uy1fdDA0NWZMTHNhYi1LUWpMZ3pQZ1gxMlVCZGxSZGhVOXJzT1gwVHZybzNhamJ4UFZPekZMZQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:55:56 GMT"
+      },
+      {
+        "press": "한국의약통신",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03REFTOUVnQU5nSUZnM016SzZMck80MWRmVjFPQkUtbEdQc0xCSWlhRkhXRDZuUHQyblBlUTRNcVBkYXFLSnhaSlc3X3BiVGdQeWYxLVo4V1lBUm9IZEVYNERPWW5QZEVnUTlZ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:57:59 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45c3Z2YW9qZy1jTzkxdDkzcmlYcWVOSkF0SGhFRUFoZ0FuTjd3YUVEcXNUNnd3bnljR1JMcGdrVkVuOHEwMXdqZDRlRjVWdS1TOGZGOFB3MWluY1RobXlCOVVaM25sYnE0ZVNDWEY4d0hnMUFOZ3ZreGNR?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:49:00 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IZldKcEkwRUFleklZWjNBZzNuOTNFNk02NE1qM1BkeDZ1SVlvZTZRdFEycGJUQUVKWDgySWthamlGY25iNEUzc0VfaTIzSkZWM01RdlFFZDBOUUN6ZGJ4NjJEcFdXQnllaGo5M2JxbVBJeHBkbmdXNtIBeEFVX3lxTE9IZldKcEkwRUFleklZWjNBZzNuOTNFNk02NE1qM1BkeDZ1SVlvZTZRdFEycGJUQUVKWDgySWthamlGY25iNEUzc0VfaTIzSkZWM01RdlFFZDBOUUN6ZGJ4NjJEcFdXQnllaGo5M2JxbVBJeHBkbmdXNg?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:03:57 GMT"
+      },
+      {
+        "press": "아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuTXRNY2xWRzl2MXM4T3k3cC0tc21KMGUxS256OGRhWER3YlFBWmZQcmwxalRvNlNXcVhLZUJBb1ZlVUFmNEI2NkdvUQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 11:14:19 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5VmVYeUkwYllteWpQdkcyX3c4Tk03aHFoTlY1dE5jbFNPS0lBY3dMaVFPc3RsTnUybE9rRmlNMF9KQ2ZTUk0zSXdzdVVCV3ZBN1lIdmduVzQ0d1pyVWFRZFdRbUo?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:13:31 GMT"
+      },
+      {
+        "press": "백세시대",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wLTAweGRVMTd3RWhUdC1udW5xMU9rTkNaNmpoRzBqb1NUUDJBU2lndHBNLWNjMENfY09mN2lWdHpWeE92UkVaV1RBQXhWNlY3dmNucUZfaEVmcWRRMWVLR1M4S2kzajZRc05N?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 10:08:49 GMT"
+      },
+      {
+        "press": "더트래커",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUb1dQcFlaWkdjNWhBUHJvNnJHc015QWtQT0xzVFZDQjBCUjZES1A3bVJCTjNZQnJ1N29lRHFtVDEzdV9tcjZ4SUpZcWk4MDVHeU8wXzNhREM?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:26:17 GMT"
+      },
+      {
+        "press": "코리아리포트",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5idWxkWUczclZRLUZXcEl4NWVRdThMSVF5Qm5HNlNvZUtXb2hvWHhSd013LVV3VXVvemV4UVQ5UEVxZUhzUExhdDIzOXg3UllKLXFsUm5RcDcwSjlxRVJkdVFXWkN1R2I2YkdmNjRrMV8?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 12:20:37 GMT"
+      },
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTUhiSzRvaHBjTjNtbzlkTzhEYS1iV0xiVF92SXVMM052NVI3V3FHU1VCTU1Pa3BQcGN6YXlDN2ZsaFBKcUpINFV0V0FUaFNuejA5WWoxdG8yelFkWklSSA?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:53:11 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ndHh1TXlxMVVtTGN2TmxvSm1QZC1PQmFHWm5QRGNQSG1VYjlHQmF0ck1oQy0teWZyLVRmbzU5UFJ4N1NfMEQ1MDhsaXNCS0YycERHY3E3TkpTMGhoUlZCcmFadDZEUdIBZkFVX3lxTE5ndHh1TXlxMVVtTGN2TmxvSm1QZC1PQmFHWm5QRGNQSG1VYjlHQmF0ck1oQy0teWZyLVRmbzU5UFJ4N1NfMEQ1MDhsaXNCS0YycERHY3E3TkpTMGhoUlZCcmFadDZEUQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:51:51 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04Zmt4aUd1eDFtMjF0WnlTX24ya2lnTXAtc3hrbjdtRTZGTWIxUkNhWlRQZFZpN2dyN2Z1ZHpVSXI1N2czckk4QmdDX0V5R2VEOTBIeWNDcUEtZDA4djV0bUxnbUc?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:19:06 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 15,
     "id": "000100-바이오-78570-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-13",
@@ -120071,7 +120141,7 @@
     "sector": "바이오",
     "category": "바이오",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "유한양행 \"만성신장병 신약 임상1상 계획 식약처 승인받아\" - 매일경제 마켓",
     "source_type": "news",
@@ -120080,9 +120150,14 @@
         "press": "매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02OUxOd24wSzVCTzZSOG9SVzhPcTYwQVQ1cTh6NmZMZTg5YVYwWFZsMjBES1lNRG9NSmlFenlDX0p6V0JpVFpNbTlRdjR5UldSOFE?oc=5",
         "pub_date": "Fri, 13 Nov 2026 08:29:42 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIS1owZm9qeTh2aXhITTBPMU1QMXVVT3U4WVRnYUl5b19KNlpsN1V6MUJZOEdqdm8zYXNGc2JXcFpYX0NyZllycnhkVkZJOVc3NEpxU3FlQnA1YU3SAWBBVV95cUxObkZITUdmZE11elpiVEtCSDNGaWl6bEpsejJ1d0JPaEI4R19FZU1mMExreW5VRGlUeENwQndybmRpWmtMVDhYUjRRZFgxRDRlbVJwamhKV2NiX3pjTFFEdng?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:29:42 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000100-바이오-78573-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-13",
@@ -120252,6 +120327,198 @@
     ],
     "source_count": 1,
     "id": "031980-실적-78645-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한솔케미칼",
+    "stock_code": "014680",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "GS, 한솔케미칼에 1533억 더 투자...하반기엔 AI 출자 확대 - 인사이트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "인사이트",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XNHREZGVRZnhOaWZvUFoxdHNKQ1B4ZVMxbDBkbzhrVVN5eXpWc1hyVkRHYlVvcEF1MGRlQmJCNTZLbWRyXzVlVDhhbWZsQQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 09:03:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "014680-기타-78678-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS증권, 위탁매매 수익 확대에 3분기 영업이익 흑전 - DealSite경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "DealSite경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mRWxJMHdSRXh1a2FRa2VGelBxbmU3T3BIdUFrRVJZNDdhVWkxTVZLbTlqa1pmbTZhSEdYNnk4VDVrbVJXeVU4eGF3Q3RXaE1BbFZBYm1n?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:58:34 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-78701-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "리가켐바이오, 핵심 ADC 후기 임상 직접 추진…2027년 신약 개발 확대 - 한국의약통신",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국의약통신",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jTHFfdVBCRnVpNy1fZFNVcDdTdDRBalRnX0ZxYUp0SWQ2cnFhcklGV1I2cnBxRE9ycGZQSE1fZWxPRWZSa2JibGRVRHdqX0lsbU9ldGd5UWNqZHlubXpMRk9fUzQydW95UjJB?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:57:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "141080-바이오-78757-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "리가켐바이오, 3분기 영업손실 141% 확대…보유자금은 8321억 - 서울경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KSGlOMnNyMUotVUhZSXdvbmV4TzVfQUhYRWtlTGxUNFpzdmRfZ3BzRkNJSWlNUjFQOWhIbzJDcUVKbUNHWElmV3FzUUdodnZnS0FWZGJuVDQ0cVZ2LXBJUUw5M1o?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 10:17:58 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "141080-기타-78758-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK바이오팜",
+    "stock_code": "326030",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "SK바이오팜, 日 출시 추가 마일스톤 부재…관건은 현지 로열티 확대 - 블로터",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "블로터",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sV3ZWSWlIa05Nd3Vnd2c4cl9Lc1M4b3RqTzVxbnBCX2ZnNWtfWHc5RlpxY2Nnbk8wd3hVX0dhbndLb1hPaDhLQWZGeUdrcmhUTk9mQ0lIY3JVeUF4cnJkSl9nZTlDU2RJ0gFsQVVfeXFMUGIybVhLRE9GY29qb2M1V202ajdfSkxTcGVBa0haV1J2d0s5SUtybFZvMTBYYmJ0MndEczExOHVyV1AzQlI1ZDhqakk2YTZoWWhIcVRwUlFpVFAwTWFRa3JTaFF0M1ZwdlV5dWhM?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 11:51:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "326030-기타-78762-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엘앤에프, 3분기 적자 전환…재고손실 빼면 4분기 연속 흑자 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oeWg5cEdoXzFLeHhPc3dKNjg5dmUxYVVabDdsMzRYRTNvdF9mc05OU1lGR0lnQUZ6aEd3ODBwTmt4WFdWVlRDZVBuaUNjR19LSlJpd1BEQjNWZVBXcXg1b19Cdl9ONHlfZF9LTzk4M0laQ01VSTU00gF3QVVfeXFMTmh5aDlwR2hfMUt4eE9zd0o2ODl2ZTFhVVpsN2wzNFhFM290X2ZzTk5TWUZHSWdBRnpoR3c4MHBOa3hYV1ZWVENlUG5pQ2NHX0tKUml3UERCM1ZlUFdxeDVvX0J2X040eV9kX0tPOTgzSVpDTVVJNTQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 15:58:39 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "066970-리스크-78778-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "씨아이에스",
+    "stock_code": "222080",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "드림씨아이에스, 3분기 누적 매출 549억…역대 최대 - 한국경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OYnAtaUtHdWZ1X1JVQ0E5dVhfOVJNbW16Wld2VnRTNmJ5OXRWMTN4Y3JzYUlHQTU0aW5xYzJiSjlNSl9DdUV2clRrdzFVMDZxQnotcEJjSXlFZEswcV93b1VuOU5UWmpiTXJ0a1ZVbE1URlZ1N0Jv?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 09:14:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222080-실적-78783-20261113",
+    "first_seen": "2026-11-13",
+    "last_updated": "2026-11-13",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "티엘비",
+    "stock_code": "356860",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "티엘비, 주가 급등으로 투자경고종목 지정 가능성 예고 - 톱스타뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XcEtEU1hHUkVDZC11TGxtc08yc3RnV2s3cG1Qc1RlNXphc0xXS1NBWFFSX0VFWlBWUTBjeFQybXVkbjRKY0c2cm5heW9BZE1XMWx6RVpBTzR6bC1JOVB1OEJRMDFhNlRnbk5nR3V2MExKUQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 11:16:39 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "356860-기타-78789-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-13",
     "status": "일반",
