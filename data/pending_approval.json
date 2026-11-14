@@ -112902,7 +112902,7 @@
     "sector": "원전·SMR",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "13조 현대건설·12조 삼성물산 '역대 최대'…도시정비 수주 호황 - 뉴시스",
     "source_type": "news",
@@ -112911,12 +112911,17 @@
         "press": "뉴시스",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kREt0NzVnUHJ6M2FlVXVaQ2VUdWMzZllqREQ4MTFNQkphTThwb0tGVnFRSmR5QlhtU1o4RVVjVk9mNGxZWVh3MGNibFRtSXpnNkR2SU1MbGF0Y3JFQ2VHMHZFaUJxelJCLW5YVjB1WUhLTm9yVERhc9IBeEFVX3lxTE1kREt0NzVnUHJ6M2FlVXVaQ2VUdWMzZllqREQ4MTFNQkphTThwb0tGVnFRSmR5QlhtU1o4RVVjVk9mNGxZWVh3MGNibFRtSXpnNkR2SU1MbGF0Y3JFQ2VHMHZFaUJxelJCLW5YVjB1WUhLTm9yVERhcw?oc=5",
         "pub_date": "Mon, 09 Nov 2026 06:37:06 GMT"
+      },
+      {
+        "press": "더구루",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94a1dvT0NzVzcxX0hYWTlWQWdxX0Y1ZEVabThhSGJoemg0eTBTb2Y4bDN2dnhxUE1QVHJtamJBbHcweEl6eFgydzZSa2lUMkEtZzRMUUd3dDl5N3ZGdy1pZ3RNRQ?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 15:00:41 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "000720-수주-74268-20261109",
     "first_seen": "2026-11-09",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-14",
     "status": "일반",
     "stale": false
   },
@@ -119468,9 +119473,14 @@
         "press": "머니투데이",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzcWFJT1N0OEtjNEdrakh2WlRKVmlxa1pmWEs3ZVR1MFU3OVFPV2NITjZ6TG1nTkp6VFdKdmk2SWNFdGN3X29pZHU4WXlzejcwMVp5V2JVakpQMnRJT0NISW5nSW9tZHd40gFuQVVfeXFMTWhDZFBwdThhaE1OZVRHSkY0SDVhRkl0Mjl5cS1PcVM1QVlNdW51cGhjZlBrOEtRajdndG9GbHd0SVo5U3FPb291ZjhYYmtEVmhfRmpvSm1PVXFoRmRzVFFVdEpYWlBxMklEc1JlTEE?oc=5",
         "pub_date": "Fri, 13 Nov 2026 07:28:52 GMT"
+      },
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oQ2RQcHU4YWhNTmVUR0pGNEg1YUZJdDI5eXEtT3FTNUFZTXVudXBoY2ZQazhLUWo3Z3RvRmx3dElaOVNxT29vdWY4WGJrRFZoX0Zqb0ptT1VxaEZkc1RRVXRKWFpQcTJJRHNSZUxB0gFuQVVfeXFMTWhDZFBwdThhaE1OZVRHSkY0SDVhRkl0Mjl5cS1PcVM1QVlNdW51cGhjZlBrOEtRajdndG9GbHd0SVo5U3FPb291ZjhYYmtEVmhfRmpvSm1PVXFoRmRzVFFVdEpYWlBxMklEc1JlTEE?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:28:52 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "117730-기타-77966-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-14",
@@ -121201,6 +121211,30 @@
     ],
     "source_count": 3,
     "id": "195940-기타-79194-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS마린솔루션",
+    "stock_code": "060370",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "김병옥 LS마린솔루션 대표(왼쪽)와 성진수 SK브로드밴드 네트워크센터장이 27일 서울 중구 SK브로드밴드 본사에서 업무협약을 체결한 뒤 기념촬영을 하고 있다. 〈사진 LS전선 제공〉 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMi3AtBVV95cUxOeDlOR1NpcVBUSWt0Z3FuM2RIaVZzelVJNl9ZaHdmVVhLWnc2eTVKVUNzT2VTYVdSeDR0WGZXQ2RDdlREcXRJVU5XVi1HU1lGMjNNR2wza19JZlJkOE4xOFZ0enhwaU5ESlZmZDRMTS16NW9HRldSM0xNcmxaenpRWWpHQTFMZVgwTE9OdE50TjR0NHNkbkk5UWJlRnQzd1RfUVdPZlNzRTJPVDlNbHBCUVlFNE9GOHVuVHJ5OXpicTNMcnp6ak16ZEhRVU9IcC1meV8tM3hZb2FZaWNZT3NFRDdubElLY3dlXzdqOWJSX1lHUVAxNlVzZE11WDlTZW5rS2tvak1Ecjg2bW8tNU9LZ1dWSm04TkFaUC1jM2dnYnlrQk9BYS1KOTVjUjJxQlZCUXRrN1RKcXVRVm1lOUpZWnJ2ZVV4Wm93bkx2Z0FzRV92N1dmUS1TY3YyZGI5T3lXUDY2MS1Pb0JlYXpyQlBRQVlyNjBnZXV2VHo4TGxMNFRfN0c3b19vQ1dwaU95Q3d2bm95YnRRQzI1QWI2VUQxR0hFc3ptem9zUHNCZDQ4VkR1NjZSV25od2hvYW96TmpVcC1CVlF2dTRXaWR2UmtuS0p2bjJ0VlZudnJGMzVjVktmSUNhQW1Rdjl6WF9GNlVBalpYS2F1UUlHWXdpRmJlRWlWYkxES2lYMURXOHlwb1pPUFNmZmNpdHR5cHhWZWgtcWltNGE2SFczdGxhNlVqeC1WSXVmclhhOXBMU2VKa0ZGODZENldnRzdRbzd0TjNFb29uNW5EaVRua0hQaFcxRS04WUFNRDFEckNjZ3p0V2ZOaUpNUXlXTXlBRkVqelBTeHZlcUlPd2F2RU84Uk1GSjJaSHJHNXZkREIxRmpnMzM3SXEwUEJUSU1SN0tWam5KaThqNjI4RFczZm1pbkRvc2NUb0xTQlNWR0paWVlDSVFobHFkMF9lUklTTlFNR3VjQjh0dmRPZG1FM2xOdTkxeTRIWEk4RFl2YnNRejVpMU8wdF9lYnhTeHNmbEtXdlNYNnhucEYzTkhES3ZoSFoyVU5ObXI3RGhSaU9JQTZha2FtMXRSbUxDY1ZkUTNramc5QWdsUEF2Y2dNYU4yMmJpbG1qZjdxSktMeUZmcXZzejItS3llWExSUWJEUXJBeGlCVFY2elVfLV82TTdERm80QUhQWTRsN3dxWXR1Q1V4NUNTSFFEVGRWOWhyak5lNVViZXYzb0ZDYWNuRENNeHFHdjJDbHhFbnRnTnBhN2xzRHhHMzZvRmJxTGFUMGZtTUdsVlhicFZqRnBCQlBuVFBsbG8taWRwZ1NCd0FhdWg5SGRTc2h4ejRmam1NV2dEX1JISWtLcDJwWmdIY2cta0FtWnJGM2JTVXh4bFhMeFRJXy1kRjBlcWx4dHhHYmktNVZDdGNFdjhzT2V5NjhpX1RDQmE2N2I1LVZ0YXBHZ3VoQndTRTktLU5OMDc4TVFwRXFtT0lsSkg1VGNqNUczOVJwTDVOUDRlVFNGdTVKZzRmV0Y0T2lDV1RXM2VhOFVWZDJ2TU1xUFRfWTJRbzFlNTJvTVBYNURZV2Vpb3M1X3hxcnNCZDFCU3F3VUJ2Z0N0VjlmcVBoUWFYMm94blRUYkI4MVpoMjR6TWhvTFYybnp2Y0MwZXdfSGRvTUpYNFQ1cFo2dWFKUUVqWHNDemNWNTVKbWQ0NDhLMjg2TUJKRmNRSHhtMkFrZzEyTHl2VHFUa3Y2ME9iamhIZHB2Qm0yZkJ3NjNOMDB2WWRMeTFOVWhDZFNLelJUR3E5WWtkSWlQbm8tVTNSc0RXTWVRVGtDbmN0Vm5OakU1ZmZVOXNxdWFZYmFtMnhJNkJ3RWRzM0lEUFJHZUNSYTRNM0c3NlkweDVEci1IYVhwLWVqQjJFM2RYUHlXZzNRczBpWG9NR0VvNHNVRW1UQ2lMWWp2cWFLZGVXYzBJRUZud1BFaHZmaC1nVEpkT2JzUXFzOXNyaVU?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 05:27:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "060370-기타-79244-20261114",
     "first_seen": "2026-11-14",
     "last_updated": "2026-11-14",
     "status": "일반",
