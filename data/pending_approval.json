@@ -119357,9 +119357,14 @@
         "press": "프라임경제",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNcVV2QnVtRFkxbHN3NXN2dDQ5bklwenpEc0J2eWdYYm1TU2JNWkZSNHhGS19KOXlHTGFoQzJVeDRlVFcwbzRxaDJhNVdURmZTYjRqc0FUaGY3X1d4ZVBBdnp3b1FUTllORFRqbGZMYTJWUQ?oc=5",
         "pub_date": "Fri, 13 Nov 2026 01:06:32 GMT"
+      },
+      {
+        "press": "프라임경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxMElheDBEWEVxa3I5UUV5a0hta3loc0F1UnZQV2FYa1dwS3d2NTV6SWE0NEQxRml0azNBS3hVX2ZOV2paSjJ0X24yeU93Qk9JTDdfRllCdnRmRFZWbzJrcA?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 01:06:32 GMT"
       }
     ],
-    "source_count": 3,
+    "source_count": 4,
     "id": "006260-기타-77901-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-14",
@@ -120504,9 +120509,14 @@
         "press": "서울경제TV",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KSGlOMnNyMUotVUhZSXdvbmV4TzVfQUhYRWtlTGxUNFpzdmRfZ3BzRkNJSWlNUjFQOWhIbzJDcUVKbUNHWElmV3FzUUdodnZnS0FWZGJuVDQ0cVZ2LXBJUUw5M1o?oc=5",
         "pub_date": "Fri, 13 Nov 2026 10:17:58 GMT"
+      },
+      {
+        "press": "서울경제TV",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VSWhHZ2d0MEVZNG1iT0t1aFl2RDUtM0sxR045RnlQcEx3OTZyc3JrZl9PaVppQ3VfN3VxbExhM002OVlLQmJ4OXlZUzJMTGZrNHduZlRVSWptQUpCNE1mMndONTFZWHZISkxv?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 10:17:58 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "141080-기타-78758-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-14",
@@ -120988,6 +120998,209 @@
     ],
     "source_count": 1,
     "id": "373220-리스크-79016-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기술",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "美 특허괴물, 삼성전자 또 정조준…텍사스 법원에 소송 - 한국신용신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "한국신용신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56V0JWNDF1NUg1OGxKUGZwa2pKYjRZQkdBV1E1aUdwUXNDcW41SlhPc05CUjlsc2VWOEY5MGNWWXIwckFlLWJGNzhXODhCbUgwTXVSdGRDSXdyTDVPYm1RVkFILV9QRHk4RlRz?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 09:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기술-79047-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성·SK하이닉스·마이크론, D램 700% 폭등 담합 소송서 \"AI 수요 탓\" 정면 반박 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWZYWFVETVhBYTU4WFpjOUpOSVRaZE41UnY0SHNqcGZuaF91aUMzZy0xZGlvdzJ1bHZKczlPYnZVZEN0UERYdWhWSWtoV0tKZFllc0xpNGwxSmNGakZOTkRoQ29FbEdUMXMxWUdQZ2JNM0FURGNLMFhRd1d0dWVHaVN0dmtVZ0pq?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 11:01:44 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-리스크-79049-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "MSCI 5800억 수급 호재와 목표가 하향의 줄다리기…SK하이닉스 앞날은 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGFPYmlDekdEeHZiY3Q4U3lLRjFVeXB1SnRldlZSdW1DR2FjZjNpRXBrU1RjRTFtc0l1ckhhNDhpRUNqdlNlc2RVZFZ1Q1RYNDd2aS1oaWtSa0JQaUdrU01yTXhkY1BrcEtVbEh5aGd3bVVpaHhicnQwTUJVZG9zdWNrQjJMdHJp?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 10:26:12 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-79052-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "지엔씨에너지",
+    "stock_code": "119850",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "지엔씨에너지, 수주잔고 7264억원 역대 최대…2년치 일감 확보 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55N1VGUG5zUWh1WXRneXNEQkR2enJfN0JGWGJpSVpOcmhOVDJ1U3NDSElDb3k1UXFjZlBDLWpDVWJwem1mbXFGZ3ZGRXB0Nk9FTHFTNFFISTktZnhPRW9zWGNNMUZBVG5Xc0FHRjdoTlZCeGtHTmcw0gF3QVVfeXFMTnk3VUZQbnNRaHVZdGd5c0RCRHZ6cl83QkZYYmlJWk5yaE5UMnVTc0NISUNveTVRcWNmUEMtakNVYnB6bWZtcUZndkZFcHQ2T0VMcVM0UUhJOS1meE9Fb3NYY00xRkFUbldzQUdGN2hOVkJ4a0dOZzA?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 07:04:33 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "119850-수주-79108-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "유한양행, 만성신장병 신약 1상 승인…신장 염증·섬유화 억제 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PeThheDhkemdQYURmckwySFRUQzlFN3RUVU8zV0VoWHg4VGt3dktqZjRGN0Z2V3lFUVlvcHRRbkdwMG5iRWNjOG1MaGxnUQ?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 06:26:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000100-기타-79191-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "유한양행",
+    "stock_code": "000100",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "유한양행, 만성신장병 치료 후보물질 YH34180 임상 1상 IND 승인…구조적·기능적 신장 보호 목표 - 뉴스티앤티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQ2lOYnowMEw0eDlwMHBzemRLMUt2OFN6X2dVRVJ0Q0lEaFVVLTFSMVhDV3FUWDg5cDMzb0VuM0h1bnJ3YXpZT0hFYzdyeTNVZjFMNjhnYUhIYm9tVE5vQmlVbDFOWUtoSVE?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 05:50:45 GMT"
+      },
+      {
+        "press": "메디포뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XdGVfem5HajNlTTdldWxvMkY1b3FjMGE2TmYxWk94SC11RG5ja0RhTEpoaDNOUEJPanozb3N1MEdHTU5LZjlpZFpfeC1qREFLenJWdWJpZHBsU1FPQjlDMGRtVmI?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:53:50 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xbFJONG9KbUh1X0JIUVZ4TW9yTEczTHFYUGs5akN2REhGZUpPMXR0c2hCcFB0Uy1fdDA0NWZMTHNhYi1LUWpMZ3pQZ1gxMlVCZGxSZGhVOXJzT1gwVHZybzNhamJ4UFZPekZMZQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:55:56 GMT"
+      },
+      {
+        "press": "한국의약통신",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03REFTOUVnQU5nSUZnM016SzZMck80MWRmVjFPQkUtbEdQc0xCSWlhRkhXRDZuUHQyblBlUTRNcVBkYXFLSnhaSlc3X3BiVGdQeWYxLVo4V1lBUm9IZEVYNERPWW5QZEVnUTlZ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 07:57:59 GMT"
+      },
+      {
+        "press": "나눔경제뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSWdXLWJ0ZTNsU2VEY0tabXJTTFozbGZic3ZBUUhYMDV5Ukt4RFNKYWNlaDdQenZ4RHYtMnVMUVpnZTVQQlcxd1c1UldsVG9MMTBFblR2bVlHX1lOdEk5NTFKUHphdUJ6QWo5LQ?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 23:22:25 GMT"
+      },
+      {
+        "press": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KR3AxZjNFVV9jUkxlaFZWbnZDeE81X2RuNU5SS21fQTBsa2xqQUxiNWFBaDNtZXgzUW0yelNsZTVhekZneXhZSzgzeDhwNEhaekFtdGRYUkRvMTB3Vkp0ONIBeEFVX3lxTE9IZldKcEkwRUFleklZWjNBZzNuOTNFNk02NE1qM1BkeDZ1SVlvZTZRdFEycGJUQUVKWDgySWthamlGY25iNEUzc0VfaTIzSkZWM01RdlFFZDBOUUN6ZGJ4NjJEcFdXQnllaGo5M2JxbVBJeHBkbmdXNg?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 08:03:57 GMT"
+      }
+    ],
+    "source_count": 6,
+    "id": "000100-바이오-79192-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HK이노엔",
+    "stock_code": "195940",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "키움증권, HK이노엔과 퇴직연금 팝업스토어 운영…IRP 고객 접점 확대 - 팝콘뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53dE1yY0hmcVdZN0ZIVTN0OHc2RElheDRjYUZkYnQ5aWZEM1ZIaXFXNks4aEdDVkhnQzZsV3NzcFFaSUxjT1BZc29TZFQ0dzlzSEtwd1p6ZlowSHVBZkxrZUNyUC1NZ3Y5TGtxcmRQMFpfd9IBckFVX3lxTE53dE1yY0hmcVdZN0ZIVTN0OHc2RElheDRjYUZkYnQ5aWZEM1ZIaXFXNks4aEdDVkhnQzZsV3NzcFFaSUxjT1BZc29TZFQ0dzlzSEtwd1p6ZlowSHVBZkxrZUNyUC1NZ3Y5TGtxcmRQMFpfdw?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 11:14:30 GMT"
+      },
+      {
+        "press": "PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PVHItRHp2UDNKdjBET0FZYU9hQzRfVVM2UFY1SzBpMGl2bjhsMWc2YVdPNGkxSnVGNkdPZ2xod2xRVWNzbmF3bjJyX0FOZVFIeDFsVXlrb0x2cTlURTR2U3Riamc?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 04:00:58 GMT"
+      },
+      {
+        "press": "뉴스포스트",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtTDd4VHo1VWctOG1FZUxybkZPeFFodHprX2ZPdHR5MHpzVHBnX0x3d212czM0dDI3R01PbFYtd09wdFBwa3RXenhTd1VDMjNyT3FXb241Vy1qeWkyb3JFWFVLZjVkeGoyWkE?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 00:10:46 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "195940-기타-79194-20261114",
     "first_seen": "2026-11-14",
     "last_updated": "2026-11-14",
     "status": "일반",
