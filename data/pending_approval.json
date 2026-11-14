@@ -110773,12 +110773,22 @@
         "press": "이투데이",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54aWFrdjJQZFFXWEVreEhxVDBxWlF1bU1rMUVlSWR5NWdqT1dkUUFpbWZ1ekN0WXF0Q3dJVFc1VjBLSlpZaHcyN05kV0ZRQWNuSFdtZw?oc=5",
         "pub_date": "Wed, 11 Nov 2026 07:30:00 GMT"
+      },
+      {
+        "press": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxVnpKMVBqZFY4c0lrSVVkN3dmVGRiQmFjNkxIbHZCeFQtaWNMWnY4RlBlWlpNS251bjY1MTFmc1NtOVRuZDgtR0tvZldiWnRhalE?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 21:31:00 GMT"
+      },
+      {
+        "press": "데일리한국",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XVzdUbGJ3R0dNQlpqUEYwN3FicjgtNzhfa1FEMXBlZFpiNTItM0pzM3dZTWc4Zk9NQVdJLTEzZUM3b1RIcU5FNF9WaVZSNlh5M2NTMndNdVlSaXd4Rl9XUlNpWGNTamxQSzhCTWdNY9IBc0FVX3lxTFBUZFI2cmhmUEdfV3FlY0VxZW5DS1BVVEo4dVMyWndBdzdDWloyelBMWm9XZy15YTY3VnhWbllFb21hSWhERE9xWTliamJ6YXp6VTcxdDlYbld2MW5vTS1fZFdmRXhzMndNa01QX1dHSXQwRFk?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 06:20:51 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 4,
     "id": "006400-수주-72320-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-14",
     "status": "일반",
     "stale": false
   },
@@ -119638,9 +119648,14 @@
         "press": "Daum",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VQlg4SHBiSEJBRmluckgwTnJqam9iS2JJR3NnN2NTbWotYWh6dGxzeWxlMGdkNnR0R2FSMTdlNEdxYmFuaFE?oc=5",
         "pub_date": "Fri, 13 Nov 2026 04:08:53 GMT"
+      },
+      {
+        "press": "Daum",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uTS12WEx6a0JVOXBoU0l6REZlc0lVX3h5b2xsUU9tQmdJRUNVS3M4T29UeEJuQ0loMGJBSWFUUHV5cXR2YlB2UVB6dw?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 04:08:53 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "054450-기타-78131-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-14",
@@ -120692,9 +120707,14 @@
         "press": "팝콘뉴스",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qV1NTOHlIYVlqMWJMUWhKTm1jckJkMWdMZmNkclB4Y0Z5UjZ0ejRPaV9TY19zSTJvYWVsc0dKT2haVjc1eThhVnExWXR2RDBPN09KS0xwaWE5d1F3S1lEM2JrbktRaHpXZ0hjUFBB0gFyQVVfeXFMTmhiZTNUbzJGMkp1ZFpOTG1ZclU3QnE2eThNNTdXbmFPcndoS3J6ZEwweHRLZ0ZzNzB1LVp6d3JQMWhLTXFOV01HTkh5Yzl6N3ZJU3JRWW54RXJmeUpCTWY1UkJSRGpkRmRRVkRabTVZUXJ3?oc=5",
         "pub_date": "Thu, 12 Nov 2026 23:04:58 GMT"
+      },
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oYmUzVG8yRjJKdWRaTkxtWXJVN0JxNnk4TTU3V25hT3J3aEtyemRMMHh0S2dGczcwdS1aendyUDFoS01xTldNR05IeWM5ejd2SVNyUVlueEVyZnlKQk1mNVJCUkRqZEZkUVZEWm01WVFyd9IBckFVX3lxTE5oYmUzVG8yRjJKdWRaTkxtWXJVN0JxNnk4TTU3V25hT3J3aEtyemRMMHh0S2dGczcwdS1aendyUDFoS01xTldNR05IeWM5ejd2SVNyUVlueEVyZnlKQk1mNVJCUkRqZEZkUVZEWm01WVFydw?oc=5",
+        "pub_date": "Fri, 13 Nov 2026 18:38:37 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "119850-실적-78823-20261114",
     "first_seen": "2026-11-14",
     "last_updated": "2026-11-14",
@@ -121235,6 +121255,30 @@
     ],
     "source_count": 1,
     "id": "060370-기타-79244-20261114",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HD현대일렉트릭",
+    "stock_code": "267260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "HD현대일렉트릭과 LG CNS가 15일 경기도 성남시에 위치한 HD현대 글로벌 R&D센터에서 '데이터센터 전력인프라 및 스마트팩토리 구축을 위한 상호협력 업무협약'을 체결했다. (사진 오른쪽부터) 김영기 HD현대일렉트릭 대표, 현신균 LG CNS 대표. HD현대일렉트 - 전자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMipA9BVV95cUxNSFZhWWYwY25ETUhCVi1wVmphcnNMd3R1dVpxUS1kTUtnS212MFNfWmRaRUJZdlBJVUE2clFjeXlJXzBVelFfUVZSLWdGd3JCdHJBUFY5MDJpengzQmRWN2J1aGZXUnd1ekZNMUNGRmlSRHRHazIwai00em1sdXUwMzRfMTlVLXktTTNnRXlJY0h3VGU5Vlc4T2kyZE9YalBGcElTVFJMMzFwa0hHQXA4UHgwQ3pYVlhxUzdwTlp3T3R3ZTdaNnBtbVJVaUNscWtqb2NmNW81ZUV6b2FtZGdCZ25mVFlOOHhBbHdKTVIwNTVZbUhlallLQXludWVKSko3a3JHdXFEQVI1dmFLWnFaNmlRZ1hHRTFCcWhjY25idjJMc1RWVTdVSnFUWGxaX0EzVkVleDVVS3o3UXpqWG9xelZHQ2Z3WTUwdFBnR0RJUDZ1VExNWEIzTDU5N0xmT2tFekhick8xdTd3dC1NR3hMWU5uWkJxNmE5QVhYTmllWlQtUnlfQ1JVSEE2NVJoTmgtU2NZeGJQbDZrVGdEbHRJYU0tejE1VmVHNDZGNXdGTkluZVp3cXY0REs4NnlTd3kyRVdjMGFVQUJwOXBoRDVYWDBkTm9DYmpnYW91LVk0UVJSMFRIcUZwT3JZNlQyNk8tcFNMTnRheDFkRmJUOUlWX25zRXRsUFBUMThUWnl1U2d3MGl5NkUzLWl4eXNOZ0RRWlItMlVkaXRNbjBrM1czeG9tbFRVM2dxYjlKZU1Ha0J0RXNQZmFpUVBCVC1oSWhFRGFYQXZjalRvZzlYNlNCVnVQZmNTeE1FT2xsTjc0RlhGSURycDlvaThfdTg3NlBreVVQanB6dVhlbVhKWU8wRmFjbWFFa1l2cGF0YVRTMDl1WlRENXc4ZmhFWXZEWHptVW9IREpRaXVHemxXLWNOVzJZUndtaDFTY1I0LWlVYkl6Xzc4Ym1JZUotZEk1MERCeTRFb1FZYTQzbExTRGZLV0pNd3Y5dmtSR3E4MEdHRW8zNlM4WXQ4SkJFYm43aGMwYzRpaWhhTWNyU0w5Wk1LZTNIMG1IVFFpZTBqWm8ybzNxSUlmb09ZLXpzX0diUEhJRmg3eXQyd1lTTU5xMVZqOUFkdk5hTzRNQ2hUSW1BRTBvVzBrUldNUUxZZXlwaE16U3BoMUlFQ2hYYkRCcEYwcVRxNGFJZzdpZjZsbGVfTHAwMTg3Y2RVQXFPTXFQRFdXQTBoM3p6aEEzLWphdFdvZmN6akc2U0txOW1jTHRYNFo5R3BCSnItWFNBeXZUYWRKVUVfcWgtTW5MZ0lNS1BpTmJkcE9VMWhWVmJmRjVabmxHVS0teTNwOGZBMG9lUkU0QUZuQ2NPXzBQTDZSYWxsYXZYWlRTcVVsQWNoU3dvcVl1V0FBRnhXT3dzenZfUjhXUzU2aXB4elduSmxLOTdOQjRMSnhIcE9wUmpVYXlXazh5Y3libkktZ3FGR19BeV9fUzhabjFYa2UzV2pkZ09qRU9heWZtVTVPWnNSYWx4cllIVGVzeVppZHVhb1N0NHhNSFdXZi1xRUd0WV9QMUVMMXZiOGhxU0RubmxkSW8xbnpvWEFWM2R4MjY4TkJ5Vjlua1E1Y2JtSlJkYkR4bnkyQVlzcW1tYlFINEZZakNvNXVUNHdSbUxsWVgzNndsRUxwR2NndVZMU0NXcjM5eW5aeFhYVVVfS2h2VXptWnYtNndfdG5tN0Y4a1czN2R1SDQ0Y0xZdVpZS2VyNHVsTV9yQXV0YUltbXlNcFByTGljX3U3UFlFZktTS2dFU1Awc2trWG83enBZNzVLR1dsdmZERTc3UDhpQ09fcDlBV0FtWUh1a0kxWXpPU21ISy1pSUFPejV5ZmN1cWxDOVFVZUg4c1ozZk0zY09VOUdxTl9XeVlIWDJPZm5YVHpudU91elpaWDJvUlFBNU5nc1BfR0Z0dXVlZFFjcms2YUt5bmc0cTFHcExYdEtHZEtPT1o5Vm5sbmtONzItVzZMWVZYTlA1S2RRVUFpem52am9qalV0UFZFUmFXNEhDMEVER3pKdTMwckxiZ3FFRzZ4RjUtMnhnMjRyMnB5RThMWktaa01fRG5wQnZ1cnlDaTdtVi1Gajk2bDRvQjdVOGczaC1hYWYwSWRPazVaNVBuZDB5SWdBa1JWR0ZpWWdBb2FseFBRUDZmVjhEWVpUWlJvVWd0MmRqYlFGZklZSVV0bU1JdWR3M3pyX0U2M2pRYnp4MVhhRHduTm9QRWN3cTVaYXQ1dFNyMHkyd0UyRFNjWHBGVURPcFg0dkxCWk11S25oRkNaaUR2TExtRGJZUUVwaGt1TEJJdS1OZE5POTFDSVNhcERlbDhnbjRyLUY5b1hWbzBpRVlTYkYycnpWZXR4LXJsdTBydnh1eDJ1MmJqb3VadGpZNVJ3M09NX1RFZkRLV0s0V3ozVVNrLV9jS1BxRlhiaHdvck5WRXpaOEgxejNFenZXNEJRLWVteE11Vl80MHRPbXl4RGt2aTNNeWtOc1NMd3pubF91NVhQbUR5VW1QTmxfdGVWcUVuYnlhRWRkOXFwOV9nVE9JeTNqUXpaSzlSaC0ydFNTVEI?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 10:13:22 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "267260-기타-79307-20261114",
     "first_seen": "2026-11-14",
     "last_updated": "2026-11-14",
     "status": "일반",
