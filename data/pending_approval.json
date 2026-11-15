@@ -120614,7 +120614,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SK바이오팜, 日 출시 추가 마일스톤 부재…관건은 현지 로열티 확대 - 블로터",
     "source_type": "news",
@@ -120623,9 +120623,14 @@
         "press": "블로터",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sV3ZWSWlIa05Nd3Vnd2c4cl9Lc1M4b3RqTzVxbnBCX2ZnNWtfWHc5RlpxY2Nnbk8wd3hVX0dhbndLb1hPaDhLQWZGeUdrcmhUTk9mQ0lIY3JVeUF4cnJkSl9nZTlDU2RJ0gFsQVVfeXFMUGIybVhLRE9GY29qb2M1V202ajdfSkxTcGVBa0haV1J2d0s5SUtybFZvMTBYYmJ0MndEczExOHVyV1AzQlI1ZDhqakk2YTZoWWhIcVRwUlFpVFAwTWFRa3JTaFF0M1ZwdlV5dWhM?oc=5",
         "pub_date": "Fri, 13 Nov 2026 11:51:01 GMT"
+      },
+      {
+        "press": "Daum",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zNjV2WlEydUptWW5DTXlyMW1zWEtQTWdEWUItN3JJOVY2LUFDNnY5YmtlcmV2ckNLUlVleWdya19uWjY3ZUE?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 00:29:53 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "326030-기타-78762-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-15",
@@ -121695,9 +121700,24 @@
         "press": "더팩트",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zeEdKWHFTV1lfOV9hVlBNMkM3cGYxWUw3OWM1VFRNUTcweVFiSFZoYm1pUk95bWtyZ1JfZDBVd2VzZWRoY3dMWWhlQkdmRkVLYm5feNIBVEFVX3lxTE4zeEdKWHFTV1lfOV9hVlBNMkM3cGYxWUw3OWM1VFRNUTcweVFiSFZoYm1pUk95bWtyZ1JfZDBVd2VzZWRoY3dMWWhlQkdmRkVLYm5feA?oc=5",
         "pub_date": "Sun, 15 Nov 2026 05:08:00 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LbFI5Ql9kUy1IMVZHTlVqLWg5Ni1XUG1SaUZkWEpxUnBkYnRYYXdMdzJCS29QZVQ1bGlnaGxCeXVQRVJ0Z0ZtbU55ZElCQQ?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 01:56:13 GMT"
+      },
+      {
+        "press": "뉴스웍스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GOFJYYktEY0xMVFFiZzJPQ0pyQ01GbkVCUWZ4VFp3cXI3RTljZVRudWU5MzRJNXg2bnF2R21iYWU2dHhXZW1zLUNHMUh3WUEwaG05X1dKU3J2Y3BLaGxuSklYa01CTnVjNmhnSmVtVy0zbGPSAXNBVV95cUxNRjhSWGJLRGNMTFRRYmcyT0NKckNNRm5FQlFmeFRad3FyN0U5Y2VUbnVlOTM0STV4Nm5xdkdtYmFlNnR4V2Vtcy1DRzFId1lBMGhtOV9XSlNydmNwS2hsbkpJWGtNQk51YzZoZ0plbVctM2xj?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 06:44:25 GMT"
+      },
+      {
+        "press": "동아일보",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oUmMtSXhZQ3lsZ0pneWJQYWM0ME5tU0RrMVo5QjlybUJ3aDJmNXI4ZU5ESHlnMWRfYU1pUGZ3cUswblNGNHVEM1NpbHVpNzdzeVVyTXBaUlJEZ2wwUVRhYm1RSXJZX2dCaERmeWQyVGNFeFh2QUHSAWZBVV95cUxOTThJR2VNQXdzTDRjdVNmYkRQZ2lNdGIzeEVWWmhwenZsN1lKcThCZmNSdEZUU0lQdEVxQkN5VjdMWlZ5VkVpaVBYUVliRkVfNGd3ZjNwMVUzbUt0VENOZkJtdDBscFE?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 06:38:53 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 7,
     "id": "373220-기타-79523-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
@@ -121851,9 +121871,34 @@
         "press": "경기일보",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sQWlkTF9zdi1WdDFSYzFKS0UzYmNEb0tQNE5nVzlDeDJaOWplVElKRTk4RDAxNHhjR2hWRUE4dEQ0R1ZRdjU1MUE0a25yMFFDU2pOMnhmaGp4ak0?oc=5",
         "pub_date": "Sun, 15 Nov 2026 07:02:55 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUEhFTjhmSlNnc1FMMU14OHJQZkxscXZ5NjNQZzlSMUwwWXRXLTlfOTZ6SU9HQTBocXlXUnJNRGwwQ2V5ZktZQWxIZDNsS0RKVXNfcEdoWVNLODNEZXF5NkU5ZXo0MG8?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 14:48:55 GMT"
+      },
+      {
+        "press": "베이비타임즈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMmJKbW0yMUZKZ3h3anFVT0ppaUx2NFY4Mkt0SHlfcDJ2WkphUm1qemYtbHg2RDZ1cjdxcXVEOHJ3TWJNMUNaVWJyc1lxWm16bTFJSjI3NzFoQ1VWVG02VS14bC1VSTdnYjl4cQ?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 11:44:37 GMT"
+      },
+      {
+        "press": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14Z29kT1RJc2htUzZDVkxxSUZyX0dSUkp0aUdENjRWcGhSdzJLOVdDV01UdF9Dd0hOVHVUaEh6c2JGb2pxaExWX0szaDhmZw?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 01:00:08 GMT"
+      },
+      {
+        "press": "중부일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKZVhsb1VxeXNNb3p3a2FBaFQ1dnVmMHJYYk03d3ZGaldRTE9BSEZIZ3ROaGtQWXRHRVpkeGhlYmVkUERqVXljNUZZM3VuUmNYd0Jxam01NE1DMURNSlgxZ1pmTVZ6aklJaXhaUXctTQ?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "press": "부산경제",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRzQwZzhOQ2hpc2VzVks5UG9ua0M0dEwxN2tMRHA4ZFRwSFdxUHhfT2R6MnVoUUJySm1nRDR4bWpRU0FGVENwNWtJS1c0UVE4ZmlVX0tPNG9mbkhKbF9mVTdhaURtdW8?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 13:48:12 GMT"
       }
     ],
-    "source_count": 12,
+    "source_count": 17,
     "id": "005930-기타-79571-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
@@ -121951,6 +121996,54 @@
     ],
     "source_count": 1,
     "id": "006400-기타-79846-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "영업이익률 50%에도 웃지 못하는 한미반도체⋯성장세 '경고등' - 엠투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "엠투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yOGVIOV84Q1F4Y00xbzhRZG15T3JoanhmWld3a0FTNV9hN21sb01FdVBsU1l4T0VLenQxcHl4aUZqQUtiZENNMEgtVUNyLXZWTmh0eTh5YlU1b3pTaThKeGQybkRqRFpka2NYUkpVYw?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 11:37:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "042700-실적-79903-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "씨아이에스",
+    "stock_code": "222080",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "드림씨아이에스 3분기 영업이익 4억6916만원…83.2% 감소 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJQkZobEhsbzlrVXU0cjRMdElzb2lUalFpUWZOOTI1aG8xdnd3cGdPeUN1OThqMU5OeGRfZDd4RjhtQ2ozdlJGUXFnNFdYRmZLZjg1S0ZrajVVU2pxUmFYMWlRRjREUQ?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 16:35:02 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222080-실적-80038-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
     "status": "일반",
