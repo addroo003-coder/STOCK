@@ -120272,9 +120272,19 @@
         "press": "뉴스티앤티",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQ2lOYnowMEw0eDlwMHBzemRLMUt2OFN6X2dVRVJ0Q0lEaFVVLTFSMVhDV3FUWDg5cDMzb0VuM0h1bnJ3YXpZT0hFYzdyeTNVZjFMNjhnYUhIYm9tVE5vQmlVbDFOWUtoSVE?oc=5",
         "pub_date": "Sat, 14 Nov 2026 05:50:45 GMT"
+      },
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTWTREeDR1UjRISDZVQkZvdC02eGFrSnJIQk9kM1hMZDNZUlZtS1dKb3hHdXRwNDBxVGlWZDZjaXBWY2dYQ2FkaHh1eVRybEMyVkJiZ1RsQUxWTWVCVlNqY0lRZkF0OXNV?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 20:05:00 GMT"
+      },
+      {
+        "press": "메트로신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92bUNId3BlTVFFbU5lNjgzR2JBQi1jTVppMzJrYmNQQ1gxOTh5RzVIUXhXUW45SnBESERfV1AwdGxQOFlzb3hpWGduM2d5U2Exd1BrczVQV2k0WVE3WHRqRw?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 04:58:54 GMT"
       }
     ],
-    "source_count": 23,
+    "source_count": 25,
     "id": "000100-바이오-78570-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-15",
@@ -121214,7 +121224,7 @@
     "source_count": 1,
     "id": "000100-기타-79191-20261114",
     "first_seen": "2026-11-14",
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-15",
     "status": "일반",
     "stale": false
   },
@@ -121506,9 +121516,14 @@
         "press": "핀포인트뉴스",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oUWF0NEdlcXJ6QlZDekVrZkFXbzNmay1tNTJXZEZ0eVpncFdRWlF4X0JESHlpb2MybkUxdmxJYzBXellLWXhJU3l4UEQ1RFV4R1M3dTJ6bmo4SjRDeUl3TmdZdlpsbERxbXpGVTM3WUw2bFEyZUVn0gF3QVVfeXFMTmhRYXQ0R2VxcnpCVkN6RWtmQVdvM2ZrLW01MldkRnR5WmdwV1FaUXhfQkRIeWlvYzJuRTF2bEljMFd6WUtZeElTeXhQRDVEVXhHUzd1MnpuajhKNEN5SXdOZ1l2WmxsRHFtekZVMzdZTDZsUTJlRWc?oc=5",
         "pub_date": "Sun, 15 Nov 2026 00:08:17 GMT"
+      },
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zczdfYjNtQkVFbUZ4V3l3SVZCaGpQQnVaaFBDeGJzQTNzdVJ1M3JKaE1JdEY3aFpsS0lJRUtSY253TnBFVjVjWnZva09NMGRpLUxXOHZVcDNmcm40Rll4T2hIaUpPRHdLWk1NLXQySzFWMk3SAXdBVV95cUxOaFFhdDRHZXFyekJWQ3pFa2ZBV28zZmstbTUyV2RGdHlaZ3BXUVpReF9CREh5aW9jMm5FMXZsSWMwV3pZS1l4SVN5eFBENURVeEdTN3Uyem5qOEo0Q3lJd05nWXZabGxEcW16RlUzN1lMNmxRMmVFZw?oc=5",
+        "pub_date": "Sat, 14 Nov 2026 23:37:17 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "009150-실적-79411-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
@@ -121896,9 +121911,19 @@
         "press": "부산경제",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRzQwZzhOQ2hpc2VzVks5UG9ua0M0dEwxN2tMRHA4ZFRwSFdxUHhfT2R6MnVoUUJySm1nRDR4bWpRU0FGVENwNWtJS1c0UVE4ZmlVX0tPNG9mbkhKbF9mVTdhaURtdW8?oc=5",
         "pub_date": "Sun, 15 Nov 2026 13:48:12 GMT"
+      },
+      {
+        "press": "ER 이코노믹리뷰",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpUl9YczJQTTVCNlNYX1VoSWV0M1luUUtNcVNQQUVFUEZWUFNZbFVzTEVNalVIc0RUdWYzM2pIRzh3b1lDUi1DSDhHcXZTUklNQzREX2VYRjNOX3Z3dGhISG43ZEUtSERmSnJoWQ?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 21:43:44 GMT"
+      },
+      {
+        "press": "서남투데이",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va2tXTXkxcFcxbXJ0My1waWpVWGdEN3VQVTd3OV9DeWFRMTFrdzlYNE5Ya2RXNmRfX0w3dmRzczR2TTgwdElDM2l2OGR6c1ktNFBaM0hlWnd3dw?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 13:48:12 GMT"
       }
     ],
-    "source_count": 17,
+    "source_count": 19,
     "id": "005930-기타-79571-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
@@ -121968,9 +121993,14 @@
         "press": "뉴스토마토",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBua2xhS0VtTER3RTJCVV9RaWN2eWpNajdxbkdjTFRTUG1KaGJxRWQ4WURuSEJaQWNFMXp0eWdkZmJnWDBmXzVRSVJNUmd0YXhfTURYcWNUNC1MbW93ckQ4?oc=5",
         "pub_date": "Sun, 15 Nov 2026 08:14:44 GMT"
+      },
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UVHRIWVVKclRERE1rWDduMUtXYkRTVUo0V3FvTS0wMDhyLWhrN3VqMG54RUtLM0JRQzZXTm9CZHlhUWJnYVhsQndYUG5mNjdlV3NyckU0NktzT2o3N2N2bw?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 08:14:44 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "006400-기타-79841-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
@@ -122044,6 +122074,150 @@
     ],
     "source_count": 1,
     "id": "222080-실적-80038-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성SDS, 삼성전자 DX 부진에 '전전긍긍'…AX서 돌파구 찾는다 - 녹색경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "녹색경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwazl4bTc0NThHa3NfYk50WVczX2V2eWtvM0NBUXdrR3psLWxpWGxGU1RxbEcwOFd2TU9jZ2U1bGRCOTVxa1dUalhfd2Z1blluR2RncnJJb24tLWZMbDFOV3U2YUJ0VVhm?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-80052-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자 이르면 이번주 인사…반도체 '보상' 부진 사업 '쇄신' 주목 - 뉴스1",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XNjFILS1lT08tS1A0Wm1uZ0JZTlJFZi1qVkJiNjhrM19IUzh5QTByTkpSYXpyUDFoN0VlZVdGYkFmS1BvT19icnc1NUh3MWVzUWJxN3NqQ0lmXzlrYS1TZ01leUs?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 22:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-80056-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "D램 담합소송, 미국 법원이 삼성·SK하이닉스의 기각 요청을 받아들이지 않았다 - 네이버 프리미엄콘텐츠",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYWV4RlAyMkRUMURRNVB3S1BCalhOZE83THRyQk5heEtRa3VpZXJiU2FTOWhJVTMxbFFXY0NuSmQ4MjQxb2l1WGF5b00zOWZNclE0dkFacElJWXJYQU9WQ050endlY0MxN0xsT2pKOHVsWmNrMUR5ek9qNEtVTjJ3UVB0Wm8?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 14:21:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-리스크-80061-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하이젠알앤엠",
+    "stock_code": "160190",
+    "sector": "피지컬 AI·로봇",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하이젠알앤엠 3분기 매출 늘었지만 영업적자 지속 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yNmRzN0lFek95WENxOVRiMVVqaGtDWGFnSGRTUFFRWjYzUE5OLVp2YUk2bkJUQ2VVTndYUzN2VUlGY084ZkVXdHpMSFFHbEtFdHUwLW5jbDZYRmJaSHVWNmdtTFhyZw?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 18:50:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "160190-실적-80105-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "비나텍",
+    "stock_code": "126340",
+    "sector": "이차전지·ESS",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "비나텍 3분기 매출 238억원…영업이익 적자 전환 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UQ19yR3ctVk55Sjg0TWZSbXpkc1JzeWNuUFZuX05TM0xYR1dPY014S3JmeWFVX0h6aDgzRzN2WjNKWTZoQk1lWE1JTGtORGlvTEY2S3VqOWE3TUx4MFloR0tCandhQkdz?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 19:09:10 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "126340-실적-80157-20261115",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한광통신",
+    "stock_code": "010170",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대한광통신 3분기 영업익 29억원…전년 적자서 흑자 전환 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Mb2tFUG8yOXdQZlpkTGs3clRDN2FzV24xdmMtd0pnSmRRejJZNS1veEpvclJQRkpsRVJsdDZ1Q01ockpTZTJ5eWd6NHMzMFBQS1FEX0ROYnNLR0p6QVZUMXRZTy1ZQQ?oc=5",
+        "pub_date": "Sun, 15 Nov 2026 19:00:20 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "010170-리스크-80160-20261115",
     "first_seen": "2026-11-15",
     "last_updated": "2026-11-15",
     "status": "일반",
