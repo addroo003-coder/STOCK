@@ -7251,14 +7251,19 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800529",
         "pub_date": "20261026"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802608",
+        "pub_date": "20261116"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "is_correction": false,
     "rcept_no": "20260901800387",
     "id": "034020-수주-5798-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-11-16",
     "status": "정정됨",
     "stale": false
   },
@@ -123677,9 +123682,14 @@
         "press": "MBC 뉴스",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMWtsa3VpbHJzamN2ZncydU5Td0U5ZWFfamRnVVp3SU9OSFBnRHRuMEphUlRZZlFvOW94aUdLa3JubWljenltYWxaR0hjMHh5dG00UGc4TDlvREZwLS1OWlFlT1I2TDhya2JzTHpXUlVFaDV10gF0QVVfeXFMTmplSC1iaFNpTVJValBDaEhPaDVkM0tEMlZVN25ZSFEwSUNKRjBoRjFIMDBjQXNfTk9kN0Y5dnBqMEJNUDBCek5uUGxRcTlGdHJPMkJWYmVUNlhtTUdhZVZXZ0w1d1J1Wlc1S0JSaHF0eVp0bmc?oc=5",
         "pub_date": "Mon, 16 Nov 2026 10:04:27 GMT"
+      },
+      {
+        "press": "지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeVRwVk5USmt6MzRUSU16LXpVXzA3cW4wUDlRTEJzR1c5NEVIYmQ5WW96VnhBdHBPMGNOejNOR1F2NmtwOTZidUJSMlVwelk4ZndXNWxR?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 12:30:28 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "000660-증설-81041-20261116",
     "first_seen": "2026-11-16",
     "last_updated": "2026-11-16",
@@ -123812,7 +123822,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "올릭스, 지방조직 표적 비만약 개발 확대…내년 상반기 IND 신청 - 팜이데일리",
     "source_type": "news",
@@ -123821,9 +123831,14 @@
         "press": "팜이데일리",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YS01tYmdMQjZQNS1hX2txZF9QWFoxR1FKVHoyYjJUY0YyVHZ4cTlsc0xNaFVRUGxjQ1Y5LXpnVjdjMXA5LW1xVlFHaTZmb3JOQTFGVEV4WmxZQjF5dW1SNHZZd3BHUnd3S29EUEpR?oc=5",
         "pub_date": "Mon, 16 Nov 2026 07:34:49 GMT"
+      },
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ0ZUUC1KZGNaRG11Q2RoNXp4X0haNkNpZVJac3lfdFRObmlqOFhYekRPbWo3REZHTGFfZmJRYXk3NFl4dTJYSm5rZVFmR2U0TXEyak1pXy1QM1JzNXNCbjZFQXUyN2NUNDkzOG5Vc3EwYWN3ZGdCdDhNc3ZTakFySQ?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 07:35:03 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "226950-기타-81227-20261116",
     "first_seen": "2026-11-16",
     "last_updated": "2026-11-16",
@@ -123921,6 +123936,215 @@
     ],
     "source_count": 1,
     "id": "078600-실적-81272-20261116",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "美 법원, 삼성·SK하이닉스·마이크론 D램 담합 소송 기각 요청 거부 - Chosunbiz",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlBtbVdDZlpUMW1pRzVHd05McUtHajVScVo5ZFhYVDZjT3NNRjdoQUZmeUtuVGZDUDZfQ2RMRS0tOWhkZlBPQ3hGZ3VzQUY4Z05lekxjcTRuNEc1bk96SDRfNTI0eGxON28yMlZWZXdYSUVXakU5UE1aM0VwbHNWaUtB0gGWAUFVX3lxTE9jaFl0MHA2RVB1WmlmaW5SMnZnZTd5SEYzcHZidjNDcmlXRlBEM1ltdlpzVU9Qc3RKS2cydUttazhNSmREQ3BvVnNpY3paYkk0Z3dkbnNBcXhTaVBJZU9yWklsYjAwUjAtbWpOcno2M1lPT0xpWFpoU1NndTQzY2NrYWFlRkc5SkRPSUtuRm1hZXpvTmROUQ?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 09:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-리스크-81303-20261116",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS ELECTRIC 베트남, 박닌 공장에서 생산 규모 확대. - Vietnam.vn",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWZZNnA1Tzh5TnF4MzNNSjJXTTNBRi1obXBDNzBOZXY4bk5pRzJrVVhPTlRoN3p3TFZ3RmYwa2hZVDhCNzZTRjk5UkJiWUdTdlpwQ3BWMWxuQktLZ1FBaTdiSncyWm9EZVhzb1JPZG5maWx4V2o0V1EtMDk3Zm1GR3IzRDdXRkFCM293?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 11:37:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "010120-기타-81336-20261116",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "로보스타",
+    "stock_code": "090360",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "로보스타 3분기 영업익 2억1935만원…순손실 확대 - 비건뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비건뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SelYxQUhUeTlJeks3V0t5XzlGTC1ZMVlPOFJ4YUxvNldsREp1clYyOHRqdjJ5VlNTTHZZUUdQTzdReFBfWGhiMWhzQVl0VWN2NnVrUm10VXl3ZW9tbEVSMzlXejBLdw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 11:41:28 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "090360-기타-81354-20261116",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "보령·셀트리온제약, 네시나·액토스 6종 코프로모션 계약 체결 - MEDI:GATE NEWS",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "MEDI:GATE NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JMDZMN1p6TkUtdy1OdmtVZjlNUGthOTNMQjVhc2xFNDZUZV9DeUtFOWlLQUltbXVjcVFHSUV3dFFGUWh3aW1ZMkp4YzM2THVLZTNOZHVR?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 11:21:00 GMT"
+      },
+      {
+        "press": "팜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DLWJVVEZiZ0t3eGxGUFdtRGtMOWpucHAxMkc3ZXotblNvYjkyRUdMY2JtYjFyQnFaeFFwakVGNzRYTUczYkE0TU1lTGs2dklFVlRwSlNPdGhmTWdVOUNveW5DNVdzTUtxUU1RTQ?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 06:37:09 GMT"
+      },
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JbUdVTUxtcmNsdWQwU3VWVzdodHYwamZ5MTZkR0NMLXFHbElKdlZhT2otMm1kZVZWdHozNjNrTDB5em5MLXpXN2NmRjlfTkZzTk1kbGRJcnZKcTBWNG5CT9IBYEFVX3lxTE9JbUdVTUxtcmNsdWQwU3VWVzdodHYwamZ5MTZkR0NMLXFHbElKdlZhT2otMm1kZVZWdHozNjNrTDB5em5MLXpXN2NmRjlfTkZzTk1kbGRJcnZKcTBWNG5CTw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 06:55:58 GMT"
+      },
+      {
+        "press": "헬스미디어뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qd3hJQS1aSDhOV3hsWlBySzZOQnZlWm5LTllmQ2dHUFZjNkstN0V2YWZmZU96MnBrdU5kX0NpNFNtQm5IQ3E1TWtOTXV6c3ViOE5nUkpRSzBjWTNaeGFzdFIyUGdGMlljbW10cmI4TlVMZw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 08:56:21 GMT"
+      },
+      {
+        "press": "톱데일리",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50RHRPMTRKZVpyem5QWEs0dVAwNmh3eUJqYzFOSkdDaFFMeGNaQXFaaW1NRkg5ZWZUREZkNmdQQVFyVU9rVmtqV205RUNzVlgx?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 07:24:00 GMT"
+      },
+      {
+        "press": "주간한국",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1bGtQQXh4THppQU5hMjFFT2QwX1B0cXlRanFtc3BlN1dZOHlQdUNuUDBUdlNLUEM5bk14bHBMS29SaEhsaGxEZTZKUnlOdVA3RkhXOXZqMUlSdWQwQVhFdlFUc1QyYW9VbGlqaEp3U0JHQ3Vi0gF0QVVfeXFMUHVsa1BBeHhMemlBTmEyMUVPZDBfUHRxeVFqcW1zcGU3V1k4eVB1Q25QMFR2U0tQQzluTXhscExLb1JoSGxobERlNkpSeU51UDdGSFc5dmoxSVJ1ZDBBWEV2UVRzVDJhb1VsaWpoSndTQkdDdWI?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 08:15:37 GMT"
+      },
+      {
+        "press": "메디코파마",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9saDNLeUlkVzhYTXI2ZDlfbkRvWmZVSEVzOUxOOS1zd3ZpenZ1dEg4NHI5cEthUUhQUEVocEdyZUZ5a0NaWmJmejVaNUVTTnp6U0RpMHpCOWhqbm9IUVEwV2h0dW1za3lVSW1kSUpWMnZVdw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 07:10:15 GMT"
+      },
+      {
+        "press": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkxMSkVtZllCZF8xQk1ZTGpWMzhQVUlmS2RPdE03Q2owTGdnclllLUVyeHFyWkFUUlFMa1VKcnhnYndNSlM0eVR5X0JUSGVVcXlKOHIxS0NrRjhUVWhMbEh2cjZXME40X2VDRTBBOTRzSWI5a2lOSGZjT2hmLVNrcTVLTzRyeEHSAZsBQVVfeXFMUFpUSWp2ZHJfbmlXbHlxR2sxdkFmSlBBQklHb0RlZVlzRkM1bHdMMTJNc1JtSmtGR0FwT0M5aUp3R3FHZHNkUE1UbTN0dVlsM3hvOFVLVFlwLV9RZlVKTGI2eXhZNXlOMjI3aTh1ZG5OMDJwYVJkMmpaT2pPNk5fbmRjZUtfN28zZzhQaEtyZ28zV3U0ckduN1FHZGM?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 06:52:00 GMT"
+      },
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sM0lxdVM3Wm0yVm0xb1FiRkYwVnpMZDljdG94azZ0bUlfOXZqd3JNUXNJbDl3cTNfRnAxOHNjNUVwMUlBTnYzWGU5Smg0LVg5NFNkY1ZQTFFHZ1plaEM5cThQUHhHRUE?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 08:30:49 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLMnpEY011ZWphc1M2TG5VMnl0VDlMYWxybTB1OXZmZ1YzQnF6NVJTTjRlMXo1clhEaDdVcTJ1ZWJvWFZXSHd5V0xuRW5Hdk9RNENFRTFwM1EwbGEzelNpbmh2Njd6OW81SlVYMkN3Qko3Zw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 07:25:00 GMT"
+      },
+      {
+        "press": "1코노미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVOERsblEwNm5qOTBWdzdaSk9mbWktSUoyU3VicjdIZ2l1OXc4Nm9rMEZacUlqMXNNM2U1WlV4bGsxMnpndnNaNFIyejYzN2FuNWRuYlBlNHZvTjFIMFI4WDdyNGNFR0F4YXR2bXVkeWw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 09:28:25 GMT"
+      },
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpd09YRENDVnI3WUZoSURqV0V5Q2VPSnRnQ01maWJPOUFSX1Z0QU5uSThydTl1alE4UVJYc0FCOW1wSDNpZ1ZqX3V2M3d2TGpHMmFRR0xzS2xQaWZC?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 06:58:00 GMT"
+      },
+      {
+        "press": "데이터뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOZVcyTGUxR0lKYTY5cXp1eXRmLVFTT2FsSEVybUQxMTFqMmVreVVNckVpOF8zMnJlcXFrdW9ZMEJXaUNsbV9Md2c5YmViNmRtNDQ1bUgwQWFLY1Joc213?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 07:48:15 GMT"
+      },
+      {
+        "press": "더파마뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02RnVIaFFQQzVTYzFKQllkS1Vwa2wxbFhmZ01Qa050cnA4Q2Q4VTJ0NFdYcTFnYzZ6TGtVWXdsbjZrNmVKWXlzRGFIamQ3S3Y5Y2VQSzJaZEZYWlhWVnJJWnZMazI2b0hMSkJORzQzVVg?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 09:14:00 GMT"
+      }
+    ],
+    "source_count": 14,
+    "id": "068270-기타-81386-20261116",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "올릭스",
+    "stock_code": "226950",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "올릭스, 비인크레틴 비만 후보 내장지방 감소…내년 상반기 IND 신청 목표 - 더파마뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "더파마뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtRHE1eG5oa3hTdmpyZFJZWlVkU1U0TVMtUnJkMmVPNHZ6TWFmaldTVXM2RHJabGRTbjUzZk5EV3BGbWNkeGZmVERZTDhPMjB5SHRxaW1DaHZjTjROWEpqQXNjd2IydC1WWHozQnBQMTNsUQ?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 09:14:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "226950-기타-81392-20261116",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "큐로셀, '림카토' 거대 B세포 림프종 임상1/2상 IND 변경승인 신청 - 약업신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qaVp1NjVXOG43RmFPTkc0alNWQTlEUkxZa1ZxTUh5LUhyajZBZURlTHdhMFFPWkVLNDNBeTZLVDVmcGh1Q3dwbHI1Y2NBajd4aUV3dmtMRGp3czlDVzd5OGwwNUM1bDJ5UVJfRVBhb0pqdw?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 10:32:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "372320-바이오-81394-20261116",
     "first_seen": "2026-11-16",
     "last_updated": "2026-11-16",
     "status": "일반",

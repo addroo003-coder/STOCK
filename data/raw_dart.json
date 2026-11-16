@@ -403,6 +403,19 @@
     "is_correction": false
   },
   {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261116802608",
+    "rcept_dt": "20261116",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802608",
+    "is_correction": true
+  },
+  {
     "company": "레인보우로보틱스",
     "stock_code": "277810",
     "sector": "피지컬 AI·로봇",
