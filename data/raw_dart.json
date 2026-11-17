@@ -546,6 +546,19 @@
     "is_correction": false
   },
   {
+    "company": "미래컴퍼니",
+    "stock_code": "049950",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결(자율공시)              ",
+    "rcept_no": "20261117900200",
+    "rcept_dt": "20261117",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900200",
+    "is_correction": false
+  },
+  {
     "company": "엔젤로보틱스",
     "stock_code": "455900",
     "sector": "피지컬 AI·로봇",
@@ -622,6 +635,19 @@
     "rcept_dt": "20261116",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000394",
     "is_correction": false
+  },
+  {
+    "company": "우진",
+    "stock_code": "105840",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261117800253",
+    "rcept_dt": "20261117",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800253",
+    "is_correction": true
   },
   {
     "company": "우진",
