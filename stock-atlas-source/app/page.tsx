@@ -243,7 +243,7 @@ export default function InvestmentAtlas() {
                 {segment.stocks.map((stock, stockIndex) => {
                   const isSelected = selectedRef.sectorKey === activeSector.key && selectedRef.segmentIndex === segmentIndex && selectedRef.stockIndex === stockIndex;
                   return <button key={`${stock.name}-${stockIndex}`} className={isSelected ? "selected" : ""} onClick={() => chooseStock(activeSector.key, segmentIndex, stockIndex, true)}>
-                    <div><strong>{stock.name}</strong><span className={`style style-${stock.style}`}>{stock.style}</span><span className={`earnings-mini ${earningsByStock[stock.name]?.q2.status === "확정" ? "confirmed" : "pending"}`}>{earningsByStock[stock.name]?.q2.status === "확정" ? "2Q 확정" : "2Q 확인 중"}</span></div>
+                    <div><strong>{stock.name}</strong><span className={`style style-${stock.style}`}>{stock.style}</span><span className={`earnings-mini ${earningsByStock[stock.name]?.q2.status === "확정" ? "confirmed" : "pending"}`}>{`${quarterInfo(earningsByStock[stock.name]?.q2.period).full.slice(-2)} ${earningsByStock[stock.name]?.q2.status === "확정" ? "확정" : "확인 중"}`}</span></div>
                     <p>{stock.role}</p><i>→</i>
                   </button>;
                 })}
@@ -326,7 +326,7 @@ export default function InvestmentAtlas() {
             </div>
             <div className="earnings-status">
               <strong>{selectedEarnings.interpretation}</strong>
-              <span className={selectedEarnings.q2.status === "확정" ? "confirmed" : "pending"}>{selectedEarnings.q2.status === "확정" ? "2Q 확정치" : "2Q 공시 집계 확인 중"}</span>
+              <span className={selectedEarnings.q2.status === "확정" ? "confirmed" : "pending"}>{`${quarterInfo(selectedEarnings.q2.period).full.slice(-2)} ${selectedEarnings.q2.status === "확정" ? "확정치" : "공시 집계 확인 중"}`}</span>
             </div>
           </header>
 
