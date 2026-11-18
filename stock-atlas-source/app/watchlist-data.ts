@@ -14,6 +14,16 @@ export type WatchlistItem = {
 
 export const watchlist: WatchlistItem[] = [
   {
+    "name": "일진전기",
+    "stockCode": "103590",
+    "sector": "전기·전력",
+    "headline": "일진전기",
+    "body": "현재 54,500원~ 57500원 변동성 흐름 체크 하면서 이평 수렴 진행흐름 체크",
+    "direction": "긍정",
+    "url": null,
+    "updatedAt": "2026-11-18"
+  },
+  {
     "name": "로보티즈",
     "stockCode": "108490",
     "sector": "피지컬 AI·로봇",

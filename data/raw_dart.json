@@ -486,6 +486,19 @@
     "sector": "피지컬 AI·로봇",
     "source_type": "dart",
     "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261118900155",
+    "rcept_dt": "20261118",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900155",
+    "is_correction": false
+  },
+  {
+    "company": "에스오에스랩",
+    "stock_code": "464080",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
     "category": "실적",
     "title": "분기보고서 (2026.09)",
     "rcept_no": "20261116001104",
@@ -702,6 +715,32 @@
     "is_correction": false
   },
   {
+    "company": "에너토크",
+    "stock_code": "019990",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주총회소집결의              (임시주주총회)",
+    "rcept_no": "20261118900182",
+    "rcept_dt": "20261118",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900182",
+    "is_correction": false
+  },
+  {
+    "company": "에너토크",
+    "stock_code": "019990",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주주명부폐쇄기간또는기준일설정              ",
+    "rcept_no": "20261118900189",
+    "rcept_dt": "20261118",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900189",
+    "is_correction": false
+  },
+  {
     "company": "LIG넥스원",
     "stock_code": "079550",
     "sector": "우주항공",
@@ -726,6 +765,19 @@
     "rcept_dt": "20261116",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000096",
     "is_correction": false
+  },
+  {
+    "company": "쎄트렉아이",
+    "stock_code": "099320",
+    "sector": "우주항공",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261118900192",
+    "rcept_dt": "20261118",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900192",
+    "is_correction": true
   },
   {
     "company": "이노스페이스",
@@ -1241,6 +1293,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20261118900145",
+    "rcept_dt": "20261118",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900145",
+    "is_correction": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
     "title": "증권발행결과(자율공시)              (제45회차 CB)",
     "rcept_no": "20261116901659",
     "rcept_dt": "20261116",
@@ -1297,6 +1362,19 @@
     "rcept_no": "20261116900913",
     "rcept_dt": "20261116",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116900913",
+    "is_correction": false
+  },
+  {
+    "company": "샘씨엔에스",
+    "stock_code": "252990",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20261118900119",
+    "rcept_dt": "20261118",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900119",
     "is_correction": false
   },
   {

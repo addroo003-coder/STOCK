@@ -75,5 +75,16 @@
     "url": null,
     "timestamp": "2026. 11. 16 오후 1:28:00",
     "timestamp_date": "2026-11-16"
+  },
+  {
+    "company": "일진전기",
+    "stock_code": "103590",
+    "sector": "전기·전력",
+    "title": "일진전기",
+    "body": "현재 54,500원~ 57500원 변동성 흐름 체크 하면서 이평 수렴 진행흐름 체크",
+    "direction": "긍정",
+    "url": null,
+    "timestamp": "2026. 11. 18 오후 2:33:14",
+    "timestamp_date": "2026-11-18"
   }
 ]

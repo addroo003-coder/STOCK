@@ -6105,16 +6105,21 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901900147",
         "pub_date": "20260901"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900155",
+        "pub_date": "20261118"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "is_correction": false,
     "rcept_no": "20260901900147",
     "id": "464080-수주-5344-20260901",
     "first_seen": "2026-09-01",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-11-18",
     "status": "일반",
-    "stale": true
+    "stale": false
   },
   {
     "company": "삼성전자",
@@ -106012,9 +106017,14 @@
         "press": "더팩트",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tbUNUR1duV205YTZDV3o1WlZvLWdweXpPM19qX3JQRVhRd254bVM0NUZWOXZnbW9ycnBla09MZl8wLTBSWjNhZUlqS2t1Zk04cHdpWW1yQXlwUdIBVEFVX3lxTFAyT2pmMzZ6N3lLcmkwYlFWNF9hZm1vb21USl9BVF9XblRiYTRPdFFUb0liUENrdWsxZ3EwcU90dnVmQ0Z1TFhnVTFlQ2lWYlBEVXBZTw?oc=5",
         "pub_date": "Wed, 18 Nov 2026 01:10:27 GMT"
+      },
+      {
+        "press": "더팩트",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyT2pmMzZ6N3lLcmkwYlFWNF9hZm1vb21USl9BVF9XblRiYTRPdFFUb0liUENrdWsxZ3EwcU90dnVmQ0Z1TFhnVTFlQ2lWYlBEVXBZT9IBVEFVX3lxTFAyT2pmMzZ6N3lLcmkwYlFWNF9hZm1vb21USl9BVF9XblRiYTRPdFFUb0liUENrdWsxZ3EwcU90dnVmQ0Z1TFhnVTFlQ2lWYlBEVXBZTw?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 01:10:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "326030-기타-70418-20261104",
     "first_seen": "2026-11-04",
     "last_updated": "2026-11-18",
@@ -122886,12 +122896,17 @@
         "press": "데일리안",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSndEb0NJMlF1Y1hOV3ZuYXRZUXh3WFlRMHVHOEh1UE9hZTBieTBYblBtT0x2TlNwdzMtYXpVbWxrLUs5ZE5YUjJmbXFlWUFjaU5HcklmSWVkTEZFVWV0eUg1b1Y0bWpDcXhkWFJVaTc2dmJsTnFZNE9HX25PZFRkZFBIN2Nwa1Y4dnB6MXExbHRzdWF6NUlRWFJBdlJUWF9IQzF4aTN1LVlLNl96OURoaFFpaDNXVnZtTWNIMGJsZk9lUzVNbHVUdHFYMlZ0aVNFNkx5Y1gybHJlRFVCXy1mdS04U0EwazByX3Y0VDZBUVFvWWpERmUtOHp6QkRFSV9UQUR3SWZrX3Vzb0FkZ0E?oc=5",
         "pub_date": "Mon, 16 Nov 2026 06:53:00 GMT"
+      },
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UbGVsRmhkdnNsWEMwcVZ5NlRNSnUyZjh5MVVmbmhMNTBIbS1SYU0zX0JrMHYtdmN1V21xTFpXaF8wamNqTDJVMHlnUXY3bWM1Y3h4cQ?oc=5",
+        "pub_date": "Mon, 16 Nov 2026 05:49:00 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "196170-기타-80467-20261116",
     "first_seen": "2026-11-16",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "status": "일반",
     "stale": false
   },
@@ -123546,9 +123561,14 @@
         "press": "보건신문",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MTDdNeFRobm9aak9VRC1QaXpKZWxKazRMUlJZa2hSOGJGQk96OVJ4OWpzWGxOVHhMaEJmNmJ3V3FJU2NOTjljUmVDWTR0LXkyR1cyMFF5TXJaZGRyNVJrZmFXQQ?oc=5",
         "pub_date": "Wed, 18 Nov 2026 02:12:43 GMT"
+      },
+      {
+        "press": "보건신문",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wR2Q3bW4wbHJhUlp6WURPc00tcFF4SGNJZGg2UkpXUHdkWXpMeXh6Z3FqLTNGcERrZVl4SVQyMkxZU192UkpEY1Rxand3QzZmVVNadkFrV0RsVWtBVU5j?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 02:12:43 GMT"
       }
     ],
-    "source_count": 24,
+    "source_count": 25,
     "id": "068270-기타-80896-20261116",
     "first_seen": "2026-11-16",
     "last_updated": "2026-11-18",
@@ -125670,7 +125690,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "리스크",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[의료로봇 줌인] 큐렉소, 적자 돌아선 '의료로봇' 재고 현금화 과제 - 블로터",
     "source_type": "news",
@@ -125679,9 +125699,14 @@
         "press": "블로터",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kcXo4VllNOUtPY0R3MWV0NnhWcEo0eGNPajVIRTI1Yi1JeUdoOEkwQ1ZaS1pJc1pjRHI0UUF5NExzZDF2RW1tTHgyX2pOOVFyS0ZrZVJWcGphaWs0NTJNcEhNTkdUcG5X0gFsQVVfeXFMTjcxcmlwRjZMRXRLZVk3R29Sd1d6bDlUdW92d09rYnN5LXBmbzk5ZFc2a1JlVW1TaE5fTlJmSE54TFpmRFpUY3VPOUtpSmpoSURqdTR6eUxVWk5zTDI2Q25VanAzdkZwV3VCME8t?oc=5",
         "pub_date": "Tue, 17 Nov 2026 05:08:04 GMT"
+      },
+      {
+        "press": "Daum",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44czdCdm41dGJ0UnppeUkyQW9nZndOcXdKVDc3UjJwTEhCSHFMakZEVGdKSVVrVXBpQmNBRzFBck5RaHhMcEZyNklUQQ?oc=5",
+        "pub_date": "Tue, 17 Nov 2026 07:43:44 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "060280-리스크-81987-20261117",
     "first_seen": "2026-11-17",
     "last_updated": "2026-11-18",
@@ -125708,7 +125733,7 @@
     "source_count": 1,
     "id": "049950-실적-81992-20261117",
     "first_seen": "2026-11-17",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "status": "일반",
     "stale": false
   },
@@ -126320,9 +126345,14 @@
         "press": "ER 이코노믹리뷰",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTGZSd3A1eUxzTElfSENOZGZoX2luNlUzNzNLb3Eza0ZXRm9fVnB4Zm5xXzRndVNVcFNwNWdVRE9mMVlpbGVsbjQtSTc1UmFOTkQzM25uaHNsWXNSSVJuaUpTUVNiNUxHSE9Jdg?oc=5",
         "pub_date": "Wed, 18 Nov 2026 01:56:14 GMT"
+      },
+      {
+        "press": "테크월드",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JVEJPWVRYTDB3RDYtbWtBclMyWklkeF9SQ085UTIxcGdFSG42S2JzUUhHLUdtOUdRX21JRzdBVWlESnJZcnQtREhKWjlPZFljWWRQbm80bzJvY01COWRjSnJZdVMyTWg0?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 04:00:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "009150-기타-82459-20261118",
     "first_seen": "2026-11-18",
     "last_updated": "2026-11-18",
@@ -126417,9 +126447,14 @@
         "press": "아시아투데이",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DOWpzSzNzcVdLQkctMFh1ODQxMHFOZU5ibVdLc245VUxSUjJuOUZZa3JiY1VPU0F3NTJMS2ptanRjbUVGdFZiZFVWU20tdzRwVVlLX1owNTdHblQxNmFNSXJranpPNm94OGtIQ0Nn?oc=5",
         "pub_date": "Wed, 18 Nov 2026 00:58:41 GMT"
+      },
+      {
+        "press": "굿모닝경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lbHZuZDV1V2cxOUZ6WFdibFlPRzRQb1JUXzJMZDF6NzkxX0NkMXZ2TmZWcTRRZUdFakRJQXFNU1lvZk12TE5hOHBoZWVNeVNYVmZXSmtmd2pSTW5RUW5qTXkwZ1ptdGlfbFY0Xw?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 03:25:52 GMT"
       }
     ],
-    "source_count": 5,
+    "source_count": 6,
     "id": "006260-기타-82486-20261118",
     "first_seen": "2026-11-18",
     "last_updated": "2026-11-18",
@@ -126927,9 +126962,14 @@
         "press": "헤럴드경제",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Tbzd4amRacmFpUk5pd0hUUmZtT1VUZWdnSWdSY2xLQXM1bjk0YzBTVXUwWmJoZFpNSkEydHNPOGNMTlF3eFhHVXR1SGk5blZWdGVjOVhB?oc=5",
         "pub_date": "Wed, 18 Nov 2026 01:02:24 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QN2M3RDc0YjBHamJCem82M2RQYk9wQjl1TFJMaXRSWndDSHh2ZVlrUEw3OFN4Q0dzdk5tdUlfVXJLaVJnRUhMRjlqVWdXRWpRTzNIM1hFejVack5DNk1Nb1dnN19uQmY2RVhXTTZ3cmNGX2Vnckhv?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 00:19:00 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "326030-기타-82693-20261118",
     "first_seen": "2026-11-18",
     "last_updated": "2026-11-18",
@@ -127123,6 +127163,200 @@
     ],
     "source_count": 1,
     "id": "138080-기타-82785-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "쎄트렉아이",
+    "stock_code": "099320",
+    "sector": "우주항공",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900192",
+        "pub_date": "20261118"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": true,
+    "rcept_no": "20261118900192",
+    "id": "099320-수주-82806-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "정정됨",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기술",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 엔비디아와 AI 인프라 협력 확대…2029년 차세대 기판 양산 - 오피니언뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "오피니언뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SazFTdTNOWU16RDAzNHhPbEYzZFRQalEteFo4dFpRNzNxOWpXZklNTVNzak1xODhtY0E1VW01c1Z3amJmb1Y3aW55VW9jLXFfMkFSWFV3anJ3cll5RkRXb0hPVzlkVy1yY0t0dGYtckU?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 04:46:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기술-82841-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엔비디아, 삼성전기와 AI 공급망 동맹 강화…기판 생산 기반 확대 - 테크월드",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "테크월드",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFU3g5SUtqZ1FLMkV4UEFMaVNPbUdxTmYtTE5wN3lkZFVlX2daNTRWeWt0OEthZDI4bEZ6YW4zeWx2dWhIS1dJMnNReEdhenlDWDVFMEpXUlBvTFZTYi1CSHVQUnktaGw1?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 04:14:55 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-82842-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엔비디아, 삼성전기·킨서스·TSMC·앰코 등과 공급망 대규모 협력 확대 발표 - 헬로티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헬로티",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sN09VZVlwVnRQQnVkNG85YWl2ZlJuLXJsRlVVbk5oZVhzSHhQWEdNRDk0QUhLcDRBbDJxemkwcWU4OTkySV9CUi1LRjVZV056YUJXRWJzSWVmTUNvODZv?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 05:30:08 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-82844-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 엔비디아와 협력 확대…MLCC까지 넓혔다 - 자본시장뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "자본시장뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04YTFRSDdOT1huRUJQT2pVcnZJcnh3X3JZUjFMOTBsN0E2S29BY19COXk2b0VWY3ZqNEQwcGFJeDBoYlZfeE1ybjNkbUVDRDRqT3lsNWlINFgtQ3FtaGFua3Z1dVJBN28?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 05:11:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-기타-82847-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "구본규 LS전선 부회장, 적자 회사 살린 해결사…\"성과는 시장과 임직원 덕\" - CEO저널",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO저널",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fUk9KOWVtYlRkblgtRkJaOE5EWFRmbkVFUGZ4ZE9HYVhpRWh4SWNUQWktbVM1NmpIbkxRZ3ZuRndwellCb1ZPc3N2NXQ2bzJZU3VCTHktcDVobUs1ZFZOMDE5ZEVJUQ?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 05:10:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-리스크-82857-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "대한전선",
+    "stock_code": "001440",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하나은행·GS건설·대한전선 등 韓기업, 바레인과 경제협력 확대…수교 50주년 맞아 한자리 - 더구루",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "더구루",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fQ25sUHVOU3J2U2Z0U1dRWmt4SnM2bllMY2lFODE1NWVKVHVOVElRa0ktTkFIeWJaY2NHRnRlRlFNdk8tNTN2dnZCemNvLVVJNEhOQTVuOFFvM09mRnc?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 02:02:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "001440-기타-82862-20261118",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "엔젤로보틱스",
+    "stock_code": "455900",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엔젤로보틱스·코스모로보틱스 부진…웨어러블 로봇사, 활로 찾기 '각개전투' - 녹색경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "녹색경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMMko1bnBLc0hmZHh6clUtamJic0FtWlNGVjJqMVM4TGNObzA2MnN0ZnN2WkdmSlVBTk1maEZGZzNlbWw0VGJORTZjWWtMQnRnbDN6ZmFXWWFKUGF1VGlzaEdRaW1kbUxl?oc=5",
+        "pub_date": "Wed, 18 Nov 2026 04:17:47 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "455900-기타-82889-20261118",
     "first_seen": "2026-11-18",
     "last_updated": "2026-11-18",
     "status": "일반",
