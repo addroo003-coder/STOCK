@@ -235,7 +235,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=277810",
     "news": {
-      "title": "다족보행로봇·AI전투차량, 실전 배치 '패스트트랙' 열린다",
+      "title": "다족보행로봇·AI전투차량, 실전 투입 빨라진다",
       "office": "파이낸셜뉴스",
       "date": "20261118",
       "url": "https://n.news.naver.com/mnews/article/014/0005606368"
@@ -375,10 +375,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=207940",
     "news": {
-      "title": "롯데바이오 '송도 시대' 개막… 韓·美 듀얼 생산체제 완성",
-      "office": "파이낸셜뉴스",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/014/0005606343"
+      "title": "롯데바이오로직스 송도 바이오캠퍼스 준공식",
+      "office": "동아일보",
+      "date": "20261119",
+      "url": "https://n.news.naver.com/mnews/article/020/0003763538"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/207940/news"
   },
@@ -403,10 +403,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[미래포럼] “ESG도 버거운데 AI까지 준비해야하니… 답답하고 막막”",
-      "office": "디지털타임스",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059943"
+      "title": "삼성전자 평택사업장 등 대한민국 안전대상 수상",
+      "office": "동아일보",
+      "date": "20261119",
+      "url": "https://n.news.naver.com/mnews/article/020/0003763517"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -977,10 +977,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=007660",
     "news": {
-      "title": "[오늘장 탑픽] AI 칩 공급망 재편 가능성…국내 소부장 수혜 볼까?",
-      "office": "SBS Biz",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/374/0000544401"
+      "title": "AI 기판 수요에…이수페타시스, 한주 새 42% ‘껑충’ [이주의 Bull기둥...",
+      "office": "매일경제",
+      "date": "20261114",
+      "url": "https://n.news.naver.com/mnews/article/009/0005763613"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/007660/news"
   },
@@ -1593,10 +1593,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=012450",
     "news": {
-      "title": "다족보행로봇·AI전투차량, 실전 배치 '패스트트랙' 열린다",
-      "office": "파이낸셜뉴스",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/014/0005606368"
+      "title": "“핵심 기술 유출 막아라” 산업계, AI 디바이스 경계령",
+      "office": "중앙일보",
+      "date": "20261119",
+      "url": "https://n.news.naver.com/mnews/article/025/0003566271"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/012450/news"
   },
@@ -1747,10 +1747,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG엔솔, 美 ‘RE+ 2026’서 ESS 기술력 과시",
-      "office": "세계일보",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/022/0004176297"
+      "title": "포스코그룹, 글로벌 1위 中 CATL에 리튬 장기공급 계약",
+      "office": "조선일보",
+      "date": "20261119",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010419"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -1761,7 +1761,7 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=079550",
     "news": {
-      "title": "다족보행로봇·AI전투차량, 실전 배치 '패스트트랙' 열린다",
+      "title": "다족보행로봇·AI전투차량, 실전 투입 빨라진다",
       "office": "파이낸셜뉴스",
       "date": "20261118",
       "url": "https://n.news.naver.com/mnews/article/014/0005606368"
@@ -1873,10 +1873,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "SK이노, 고효율 수전해 촉매 개발…재생에너지 불규칙 전력공급 해소",
-      "office": "파이낸셜뉴스",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/014/0005606369"
+      "title": "포스코그룹, 글로벌 1위 中 CATL에 리튬 장기공급 계약",
+      "office": "조선일보",
+      "date": "20261119",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010419"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
@@ -1887,10 +1887,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "반도체 공장 자리 ‘윤곽’…“신속 투자 의지”",
-      "office": "KBS",
-      "date": "20261118",
-      "url": "https://n.news.naver.com/mnews/article/056/0012296583"
+      "title": "\"AI 쩐의 흐름 바뀐다\"…앤트로픽 IPO, 삼성·SK하이닉스 반등 신호탄...",
+      "office": "뉴시스",
+      "date": "20261119",
+      "url": "https://n.news.naver.com/mnews/article/003/0014331381"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
