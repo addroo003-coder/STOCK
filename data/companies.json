@@ -1370,6 +1370,281 @@
       "aliases": [
         "성호전자"
       ]
+    },
+    {
+      "name": "아모레퍼시픽",
+      "stock_code": "090430",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "브랜드·유통",
+      "aliases": [
+        "아모레퍼시픽",
+        "아모레"
+      ]
+    },
+    {
+      "name": "에이피알",
+      "stock_code": "278470",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "브랜드·유통",
+      "aliases": [
+        "에이피알",
+        "APR"
+      ]
+    },
+    {
+      "name": "달바글로벌",
+      "stock_code": "483650",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "브랜드·유통",
+      "aliases": [
+        "달바글로벌",
+        "달바"
+      ]
+    },
+    {
+      "name": "한국화장품",
+      "stock_code": "123690",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "브랜드·유통",
+      "aliases": [
+        "한국화장품"
+      ]
+    },
+    {
+      "name": "한국콜마",
+      "stock_code": "161890",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "ODM·소재",
+      "aliases": [
+        "한국콜마",
+        "콜마"
+      ]
+    },
+    {
+      "name": "코스맥스",
+      "stock_code": "192820",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "ODM·소재",
+      "aliases": [
+        "코스맥스"
+      ]
+    },
+    {
+      "name": "코스메카코리아",
+      "stock_code": "241710",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "ODM·소재",
+      "aliases": [
+        "코스메카코리아",
+        "코스메카"
+      ]
+    },
+    {
+      "name": "제닉",
+      "stock_code": "123330",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "ODM·소재",
+      "aliases": [
+        "제닉"
+      ]
+    },
+    {
+      "name": "하이브",
+      "stock_code": "352820",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "하이브",
+        "HYBE"
+      ]
+    },
+    {
+      "name": "JYP Ent.",
+      "stock_code": "035900",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "JYP Ent.",
+        "JYP",
+        "JYP엔터",
+        "JYP엔터테인먼트"
+      ]
+    },
+    {
+      "name": "에스엠",
+      "stock_code": "041510",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "에스엠",
+        "SM",
+        "SM엔터",
+        "SM엔터테인먼트"
+      ]
+    },
+    {
+      "name": "와이지엔터테인먼트",
+      "stock_code": "122870",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "와이지엔터테인먼트",
+        "YG",
+        "YG엔터",
+        "YG엔터테인먼트",
+        "와이지엔터"
+      ]
+    },
+    {
+      "name": "YG PLUS",
+      "stock_code": "037270",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "YG PLUS",
+        "YGPLUS",
+        "와이지플러스"
+      ]
+    },
+    {
+      "name": "에프엔씨엔터",
+      "stock_code": "173940",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "에프엔씨엔터",
+        "FNC엔터",
+        "에프앤씨엔터"
+      ]
+    },
+    {
+      "name": "큐브엔터",
+      "stock_code": "182360",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "음악·엔터",
+      "aliases": [
+        "큐브엔터",
+        "큐브엔터테인먼트"
+      ]
+    },
+    {
+      "name": "스튜디오드래곤",
+      "stock_code": "253450",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "드라마·웹툰",
+      "aliases": [
+        "스튜디오드래곤"
+      ]
+    },
+    {
+      "name": "디앤씨미디어",
+      "stock_code": "263720",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "드라마·웹툰",
+      "aliases": [
+        "디앤씨미디어",
+        "D&C미디어"
+      ]
+    },
+    {
+      "name": "크래프톤",
+      "stock_code": "259960",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "크래프톤"
+      ]
+    },
+    {
+      "name": "엔씨소프트",
+      "stock_code": "036570",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "엔씨소프트",
+        "NC",
+        "엔씨"
+      ]
+    },
+    {
+      "name": "넷마블",
+      "stock_code": "251270",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "넷마블"
+      ]
+    },
+    {
+      "name": "넥슨게임즈",
+      "stock_code": "225570",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "넥슨게임즈"
+      ]
+    },
+    {
+      "name": "컴투스",
+      "stock_code": "078340",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "컴투스"
+      ]
+    },
+    {
+      "name": "카카오게임즈",
+      "stock_code": "293490",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "카카오게임즈"
+      ]
+    },
+    {
+      "name": "더블유게임즈",
+      "stock_code": "192080",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "더블유게임즈",
+        "W게임즈"
+      ]
+    },
+    {
+      "name": "데브시스터즈",
+      "stock_code": "194480",
+      "corp_code": "",
+      "sector": "화장품·엔터",
+      "sub_industry": "게임",
+      "aliases": [
+        "데브시스터즈"
+      ]
     }
   ]
 }
