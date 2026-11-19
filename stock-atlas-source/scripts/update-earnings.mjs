@@ -6,6 +6,8 @@ const CODE_OVERRIDES = {
   "LIG넥스원": "079550",
   "씨아이에스": "222080",
   "씨메스": "475400",
+  "JYP Ent.": "035900",
+  "YG PLUS": "037270",
 };
 
 // ── 항상 "최신 확정 분기(q2) + 그 직전 분기(q1)"를 오늘 날짜 기준으로 자동으로 계산한다.
@@ -188,10 +190,12 @@ for (const [name, code] of Object.entries(CODE_OVERRIDES)) codeByName.set(name, 
 const unmatched = companyNames.filter((name) => !codeByName.has(name));
 
 if (unmatched.length) {
-  throw new Error(`종목코드 매칭 실패: ${unmatched.join(", ")}`);
+  // 이름이 하나 안 맞는다고 사이트 전체 배포가 멈추지 않도록, 경고만 남기고 해당 종목만 건너뛴다.
+  console.warn(`⚠️ 종목코드 매칭 실패(실적 집계 제외): ${unmatched.join(", ")}`);
 }
+const trackedNames = companyNames.filter((name) => codeByName.has(name));
 
-const payloads = await parallelMap(companyNames, 10, async (company) => {
+const payloads = await parallelMap(trackedNames, 10, async (company) => {
   const code = codeByName.get(company);
   const payload = await fetchJson(`${FINANCE_ENDPOINT}/${code}/finance/quarter`);
   return toRecord(company, code, payload);
@@ -214,4 +218,4 @@ await writeFile(new URL("../app/earnings-data.ts", import.meta.url), output);
 
 const confirmedQ2 = payloads.filter((record) => record.q2.status === "확정").length;
 const missingQ2 = payloads.filter((record) => record.q2.status !== "확정").map((record) => record.company);
-console.log(JSON.stringify({ trackedQuarters: { q1: Q1, q2: Q2 }, companies: companyNames.length, confirmedQ2, missingQ2 }, null, 2));
+console.log(JSON.stringify({ trackedQuarters: { q1: Q1, q2: Q2 }, companies: trackedNames.length, confirmedQ2, missingQ2 }, null, 2));
