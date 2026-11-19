@@ -8,7 +8,7 @@ import { issuesByStock } from "./issues-data";
 import { companyAnalysisByStock } from "./company-analysis-data";
 import { watchlist } from "./watchlist-data";
 
-const beta: Record<string, number> = { semi: 2, power: 1, robot: 4, nuclear: 1, space: 3, bio: 4, battery: 3 };
+const beta: Record<string, number> = { semi: 2, power: 1, robot: 4, nuclear: 1, space: 3, bio: 4, battery: 3, beauty: 3 };
 
 function scoreFor(key: string, base: number, delta: number, riskBudget: number) {
   return Math.max(0, Math.min(99, Math.round(base + delta + (riskBudget - 3) * (beta[key] ?? 2))));
@@ -132,9 +132,9 @@ export default function InvestmentAtlas() {
 
         <div className="hero-grid">
           <div className="hero-copy">
-            <p className="eyebrow">KOREA GROWTH INDUSTRY MAP</p>
+            <p className="eyebrow lab-title">장성혁 자문역의 투자 LAB</p>
             <h1 id="page-title">산업을 이해하고,<br /><em>종목의 자리를 찾는다.</em></h1>
-            <p>반도체부터 전력·로봇·원전·우주항공·바이오·배터리까지, 국내 핵심 성장산업을 같은 구조로 정리한 투자 아틀라스입니다.</p>
+            <p>반도체부터 전력·로봇·원전·우주항공·바이오·배터리·화장품·엔터까지, 국내 핵심 성장산업을 같은 구조로 정리한 투자 아틀라스입니다.</p>
           </div>
           <div className="atlas-counts" aria-label="투자지도 구성">
             <div><strong>0{sectors.length}</strong><span>핵심 섹터</span></div>
