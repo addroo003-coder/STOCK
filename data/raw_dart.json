@@ -65,6 +65,32 @@
     "is_correction": false
   },
   {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "증권발행결과(자율공시)              ",
+    "rcept_no": "20261119900351",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900351",
+    "is_correction": false
+  },
+  {
+    "company": "일진전기",
+    "stock_code": "103590",
+    "sector": "전기·전력",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261119800214",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800214",
+    "is_correction": false
+  },
+  {
     "company": "비에이치아이",
     "stock_code": "083650",
     "sector": "전기·전력",
@@ -141,6 +167,32 @@
     "rcept_dt": "20261117",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800253",
     "is_correction": true
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+    "rcept_no": "20261119000360",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000360",
+    "is_correction": false
+  },
+  {
+    "company": "우리기술",
+    "stock_code": "032820",
+    "sector": "원전·SMR",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임시주주총회결과              ",
+    "rcept_no": "20261119900561",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900561",
+    "is_correction": false
   },
   {
     "company": "에너토크",
@@ -318,6 +370,19 @@
     "source_type": "dart",
     "confidence": "확정",
     "category": "바이오",
+    "title": "[기재정정]투자판단관련주요경영사항(임상시험계획승인신청등결정)              (PT403의 제1상 임상시험계획 승인)",
+    "rcept_no": "20261119900374",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900374",
+    "is_correction": true
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "바이오",
     "title": "투자판단관련주요경영사항(임상시험계획승인신청등결정)              (PT403의 제1상 임상시험계획 승인)",
     "rcept_no": "20261119900001",
     "rcept_dt": "20261119",
@@ -335,6 +400,71 @@
     "rcept_no": "20261118900627",
     "rcept_dt": "20261118",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900627",
+    "is_correction": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업가치제고계획예고(안내공시)              ",
+    "rcept_no": "20261119800476",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800476",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "풍문또는보도에대한해명(미확정)              ",
+    "rcept_no": "20261119800586",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800586",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(전환사채권발행결정)",
+    "rcept_no": "20261119000285",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000285",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "주요사항보고서(전환사채권발행결정)",
+    "rcept_no": "20261119000274",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000274",
+    "is_correction": false
+  },
+  {
+    "company": "엘앤에프",
+    "stock_code": "066970",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+    "rcept_no": "20261119000288",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000288",
     "is_correction": false
   },
   {
@@ -475,9 +605,48 @@
     "confidence": "확정",
     "category": "기타",
     "title": "기업설명회(IR)개최(안내공시)              ",
+    "rcept_no": "20261119800347",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800347",
+    "is_correction": false
+  },
+  {
+    "company": "코스맥스",
+    "stock_code": "192820",
+    "sector": "화장품·엔터",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최(안내공시)              ",
     "rcept_no": "20261117800380",
     "rcept_dt": "20261117",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800380",
+    "is_correction": false
+  },
+  {
+    "company": "하이브",
+    "stock_code": "352820",
+    "sector": "화장품·엔터",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261119000270",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000270",
+    "is_correction": false
+  },
+  {
+    "company": "하이브",
+    "stock_code": "352820",
+    "sector": "화장품·엔터",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "자본",
+    "title": "자기주식처분결과보고서",
+    "rcept_no": "20261119000249",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000249",
     "is_correction": false
   },
   {
@@ -517,6 +686,19 @@
     "rcept_no": "20261118800277",
     "rcept_dt": "20261118",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800277",
+    "is_correction": false
+  },
+  {
+    "company": "에프엔씨엔터",
+    "stock_code": "173940",
+    "sector": "화장품·엔터",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "전환가액의조정              ",
+    "rcept_no": "20261119900543",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900543",
     "is_correction": false
   }
 ]
