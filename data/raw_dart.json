@@ -377,6 +377,19 @@
     "is_correction": false
   },
   {
+    "company": "RF머트리얼즈",
+    "stock_code": "327260",
+    "sector": "AI 반도체",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "기업설명회(IR)개최              ",
+    "rcept_no": "20261119900104",
+    "rcept_dt": "20261119",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900104",
+    "is_correction": false
+  },
+  {
     "company": "성호전자",
     "stock_code": "043260",
     "sector": "AI 반도체",
