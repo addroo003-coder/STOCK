@@ -4506,6 +4506,41 @@ export const earningsByStock: Record<string, EarningsRecord> = {
     "sourceUrl": "https://finance.naver.com/item/main.naver?code=047810",
     "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=047810"
   },
+  "한국화장품": {
+    "company": "한국화장품",
+    "code": "123690",
+    "basis": "연결",
+    "unit": "억원",
+    "q1": {
+      "period": "202606",
+      "status": "확정",
+      "revenue": 210,
+      "operatingProfit": -3,
+      "netIncome": -5,
+      "operatingMargin": -1.5
+    },
+    "q2": {
+      "period": "202609",
+      "status": "미발표",
+      "revenue": null,
+      "operatingProfit": null,
+      "netIncome": null,
+      "operatingMargin": null
+    },
+    "comparisons": {
+      "q1RevenueQoq": 0.5,
+      "q1OperatingProfitQoq": -115.8,
+      "q2RevenueYoy": null,
+      "q2RevenueQoq": null,
+      "q2OperatingProfitYoy": null,
+      "q2OperatingProfitQoq": null
+    },
+    "interpretation": "검증 대기",
+    "verifiedAt": "2026-11-20",
+    "sourceLabel": "공시 기반 집계 · 네이버증권/FnGuide",
+    "sourceUrl": "https://finance.naver.com/item/main.naver?code=123690",
+    "dartUrl": "https://dart.fss.or.kr/dsab002/main.do?autoSearch=true&textCrpNm=123690"
+  },
   "한미반도체": {
     "company": "한미반도체",
     "code": "042700",
