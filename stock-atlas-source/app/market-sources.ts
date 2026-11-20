@@ -487,10 +487,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사",
-      "office": "노컷뉴스",
-      "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/079/0004212278"
+      "title": "삼성전자, ‘70년대생 반도체 인재’ 전면배치… 사장 승진 3명 전원 ...",
+      "office": "동아일보",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764079"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -739,10 +739,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=196170",
     "news": {
-      "title": "알테오젠 키트루다SC 獨 출시 길 열려",
-      "office": "매일경제",
+      "title": "머크, 독일서 '키트루다SC' 팔지만…특허 리스크 여전",
+      "office": "한국경제TV",
       "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766771"
+      "url": "https://n.news.naver.com/mnews/article/215/0001273447"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/196170/news"
   },
@@ -781,10 +781,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=041510",
     "news": {
-      "title": "사법 리스크 털어낸 김범수 \"AI시대 새 도전 위해 모든 힘 쏟겠다\"",
-      "office": "한국경제",
-      "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356426"
+      "title": "“안아 올리면 좋아하고, 밤에는 감정 일기 쓰는 AI 인형… 멋지죠?”...",
+      "office": "동아일보",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764089"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/041510/news"
   },
@@ -2069,10 +2069,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=373220",
     "news": {
-      "title": "LG엔솔, 전기차 배터리를 ESS로…자원순환 성과에 국무총리 표창",
-      "office": "지디넷코리아",
+      "title": "AI 답변 뒤 보조배터리…\"ESS 성장 10년 뒤까지\" [ESS 대전환 ①]",
+      "office": "한국경제TV",
       "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/092/0002446277"
+      "url": "https://n.news.naver.com/mnews/article/215/0001273446"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/373220/news"
   },
@@ -2209,10 +2209,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "앤트로픽은 17% 뛰었는데…AI주는 '울상' 왜",
-      "office": "파이낸셜뉴스",
-      "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607552"
+      "title": "SK하이닉스, '키옥시아 CB' 주식 전환…간접 최대주주 된다",
+      "office": "노컷뉴스",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/079/0004212292"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
