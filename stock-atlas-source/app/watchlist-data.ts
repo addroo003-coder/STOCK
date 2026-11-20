@@ -14,6 +14,16 @@ export type WatchlistItem = {
 
 export const watchlist: WatchlistItem[] = [
   {
+    "name": "에스피지",
+    "stockCode": "058610",
+    "sector": "피지컬 AI·로봇",
+    "headline": "변동성 활용 동행포트",
+    "body": "삼성전자우 - 시장 지표 관련부분 본주와 괴리율 고려시 반등에 회복탄력이 더 좋을 수 있음!\n\n일진전기 - AI인프라 실적, 벨류, 수급 이상무 차트 역시나 매물 소화 잘 해주는중 \n\n에스피지 - 시장흐름에 맞게 대응하면서 키워가는종 피지컬AI 섹터\n\n성호전자 - 광통신 수급 이상무 변동성에 대응 이어가는 부분 분할지속\n\n제주반도체 - 5만원 기준으로 이하에서 모아가는 관점",
+    "direction": "긍정",
+    "url": null,
+    "updatedAt": "2026-11-20"
+  },
+  {
     "name": "일진전기",
     "stockCode": "103590",
     "sector": "전기·전력",
