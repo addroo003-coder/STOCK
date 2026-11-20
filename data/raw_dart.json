@@ -52,19 +52,6 @@
     "is_correction": false
   },
   {
-    "company": "하나머티리얼즈",
-    "stock_code": "166090",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "주식등의대량보유상황보고서(일반)",
-    "rcept_no": "20261117000227",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000227",
-    "is_correction": false
-  },
-  {
     "company": "태성",
     "stock_code": "323280",
     "sector": "AI 반도체",
@@ -104,6 +91,19 @@
     "is_correction": true
   },
   {
+    "company": "로보티즈",
+    "stock_code": "108490",
+    "sector": "피지컬 AI·로봇",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "수주",
+    "title": "단일판매ㆍ공급계약체결              ",
+    "rcept_no": "20261120900120",
+    "rcept_dt": "20261120",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120",
+    "is_correction": false
+  },
+  {
     "company": "에스오에스랩",
     "stock_code": "464080",
     "sector": "피지컬 AI·로봇",
@@ -130,19 +130,6 @@
     "is_correction": true
   },
   {
-    "company": "미래컴퍼니",
-    "stock_code": "049950",
-    "sector": "피지컬 AI·로봇",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "단일판매ㆍ공급계약체결(자율공시)              ",
-    "rcept_no": "20261117900200",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900200",
-    "is_correction": false
-  },
-  {
     "company": "한전KPS",
     "stock_code": "051600",
     "sector": "원전·SMR",
@@ -153,19 +140,6 @@
     "rcept_no": "20261118800606",
     "rcept_dt": "20261118",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800606",
-    "is_correction": true
-  },
-  {
-    "company": "우진",
-    "stock_code": "105840",
-    "sector": "원전·SMR",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "수주",
-    "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-    "rcept_no": "20261117800253",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800253",
     "is_correction": true
   },
   {
@@ -219,19 +193,6 @@
     "rcept_dt": "20261118",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900189",
     "is_correction": false
-  },
-  {
-    "company": "LIG넥스원",
-    "stock_code": "079550",
-    "sector": "우주항공",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]거래처와의거래중단              ",
-    "rcept_no": "20261117800492",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800492",
-    "is_correction": true
   },
   {
     "company": "쎄트렉아이",
@@ -312,45 +273,6 @@
     "is_correction": false
   },
   {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "실적",
-    "title": "증권발행실적보고서",
-    "rcept_no": "20261117000127",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000127",
-    "is_correction": false
-  },
-  {
-    "company": "삼성바이오로직스",
-    "stock_code": "207940",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "자본",
-    "title": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
-    "rcept_no": "20261117800347",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800347",
-    "is_correction": false
-  },
-  {
-    "company": "에스티팜",
-    "stock_code": "237690",
-    "sector": "바이오",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최              ",
-    "rcept_no": "20261117900524",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900524",
-    "is_correction": false
-  },
-  {
     "company": "알테오젠",
     "stock_code": "196170",
     "sector": "바이오",
@@ -413,6 +335,19 @@
     "rcept_no": "20261119800476",
     "rcept_dt": "20261119",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800476",
+    "is_correction": false
+  },
+  {
+    "company": "포스코퓨처엠",
+    "stock_code": "003670",
+    "sector": "이차전지·ESS",
+    "source_type": "dart",
+    "confidence": "확정",
+    "category": "기타",
+    "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+    "rcept_no": "20261120000137",
+    "rcept_dt": "20261120",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000137",
     "is_correction": false
   },
   {
@@ -559,45 +494,6 @@
     "is_correction": true
   },
   {
-    "company": "성호전자",
-    "stock_code": "043260",
-    "sector": "AI 반도체",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "[기재정정]주식등의대량보유상황보고서(일반)",
-    "rcept_no": "20261117000193",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000193",
-    "is_correction": true
-  },
-  {
-    "company": "아모레퍼시픽",
-    "stock_code": "090430",
-    "sector": "화장품·엔터",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업가치제고계획(자율공시)              ",
-    "rcept_no": "20261117800119",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800119",
-    "is_correction": false
-  },
-  {
-    "company": "아모레퍼시픽",
-    "stock_code": "090430",
-    "sector": "화장품·엔터",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "수시공시의무관련사항(공정공시)              ",
-    "rcept_no": "20261117800115",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800115",
-    "is_correction": false
-  },
-  {
     "company": "코스맥스",
     "stock_code": "192820",
     "sector": "화장품·엔터",
@@ -608,19 +504,6 @@
     "rcept_no": "20261119800347",
     "rcept_dt": "20261119",
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800347",
-    "is_correction": false
-  },
-  {
-    "company": "코스맥스",
-    "stock_code": "192820",
-    "sector": "화장품·엔터",
-    "source_type": "dart",
-    "confidence": "확정",
-    "category": "기타",
-    "title": "기업설명회(IR)개최(안내공시)              ",
-    "rcept_no": "20261117800380",
-    "rcept_dt": "20261117",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800380",
     "is_correction": false
   },
   {
