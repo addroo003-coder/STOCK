@@ -133179,9 +133179,14 @@
         "press": "현대경제신문",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EaHVnTzdwSHlDNXNiczB6Y05TakE3REd0TDlxOTFzWUZORzYybFZ4d2R5T0pDdHppdkVrTkN1Vm52N0prOXE3MXYyYXc0N1QyaF9ZQU9EZGtIcDlBanNzaXM5QXlnalnSAWtBVV95cUxPVEdkYTdnZ1BuZnFUWmsyei0xei1ITUhLUmh2UFdTWVlONjR4Z1FBUkpIempKckZSQUdtUEJndEhVVWQ3ZXZ6dGhGVU1SczVEVjIxVVlHYlAtUVZzZ0VXUjdaVVR1U1VjU3pYcw?oc=5",
         "pub_date": "Fri, 20 Nov 2026 05:44:01 GMT"
+      },
+      {
+        "press": "현대경제신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UR2RhN2dnUG5mcVRaazJ6LTF6LUhNSEtSaHZQV1NZWU42NHhnUUFSSkh6akpyRlJBR21QQmd0SFVVZDdldnp0aEZVTVJzNURWMjFVWUdiUC1RVnNnRVdSN1pVVHVTVWNTelhz0gFrQVVfeXFMT1RHZGE3Z2dQbmZxVFprMnotMXotSE1IS1JodlBXU1lZTjY0eGdRQVJKSHpqSnJGUkFHbVBCZ3RIVVVkN2V2enRoRlVNUnM1RFYyMVVZR2JQLVFWc2dFV1I3WlVUdVNVY1N6WHM?oc=5",
+        "pub_date": "Fri, 20 Nov 2026 10:59:36 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "066970-기타-86285-20261120",
     "first_seen": "2026-11-20",
     "last_updated": "2026-11-21",
@@ -133597,6 +133602,78 @@
     ],
     "source_count": 1,
     "id": "066970-기타-86949-20261121",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "대기업 영업익 3배 늘었지만 기부금은 감소…SK하이닉스도 줄여 - 연합뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zcGFvNzNfYWhDOXkwMEY1UVNxNTA0RC0xdkhxU1JkekQ1VEU2aklpbnhLdURHQ2RBTVA2TDQ1bmdpeGN0c1RTTjVpRkpCSGo0bDlwRmFJNnFrSG_SAWBBVV95cUxNQ2NjVERoQ1FmSEtYV2llOWJnTW5XMXBLUW12RWJqUUJtdndjMEpyYXBzTXJrRDRWMzBLU0VlQUlNRk1ZdDN1LUoyMUFZRXFQUjJhSGNwcVBydGFkbWRkSHo?oc=5",
+        "pub_date": "Sat, 21 Nov 2026 21:11:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000660-기타-87026-20261121",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에코프로비엠도 LFP 양극재 경쟁 참전, 송호준 탈중국 ESS 수요 증가에 삼원계 '올인' 철회 - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14VXNJQldPZ25EVUExSlVCdFQxaUZ4Ti1Salp6MjdHeEtmbmFoRWxtV1dSVExBRmRDekRQQjJUSVlwOXhjdkFoY3JFNUx4Sndfa3gtbzI5M1JJWmZkRXB0bE9xVXF0YVA3ejAtZ0QtbEd3QlU?oc=5",
+        "pub_date": "Sat, 21 Nov 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-87068-20261121",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한국콜마",
+    "stock_code": "161890",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "밀려드는 K뷰티 주문에 공장도 커진다…한국콜마, 생산 확대로 승부수 - 쿠키뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "쿠키뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50N3l1NWRzWHVVNW5pQVRqaUFuWW96bFdLdzFFcDNtM0RINHcyMzd2cjFDSDh1c3VJdUVwOVNkUVI0MHphUTIweHZiZmptaFRxM2RyajRpZ3dkcU5kMEEtcTF6bw?oc=5",
+        "pub_date": "Sat, 21 Nov 2026 12:04:21 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "161890-기타-87077-20261121",
     "first_seen": "2026-11-21",
     "last_updated": "2026-11-21",
     "status": "일반",
