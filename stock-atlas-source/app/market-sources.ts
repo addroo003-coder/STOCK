@@ -473,10 +473,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=009150",
     "news": {
-      "title": "美 반도체 수출규제 전면 확대…삼성, 中 AI칩 출하 중단",
-      "office": "서울경제",
+      "title": "240만원 찍고 66% 폭락했는데 목표가 280만원?…삼성전기, ‘엔비디아...",
+      "office": "헤럴드경제",
       "date": "20261121",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684610"
+      "url": "https://n.news.naver.com/mnews/article/016/0002726556"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/009150/news"
   },
@@ -487,10 +487,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "삼성전자도 결국 멈췄다...중국 '초비상'",
-      "office": "한경비즈니스",
+      "title": "[데일리안 오늘뉴스 종합] [단독] \"닥치고 공급\" 정부…개발부담금 부...",
+      "office": "데일리안",
       "date": "20261121",
-      "url": "https://n.news.naver.com/mnews/article/050/0000113572"
+      "url": "https://n.news.naver.com/mnews/article/119/0003157933"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -935,10 +935,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=066970",
     "news": {
-      "title": "엘앤에프, 대구에 LFP 양극재 연산 6만t 추가 증설 승부수 띄우나",
-      "office": "매일신문",
-      "date": "20261108",
-      "url": "https://n.news.naver.com/mnews/article/088/0001039076"
+      "title": "30개월 넘기면 이자 폭탄… 엘앤에프 CB는 이름만 영구채",
+      "office": "조선비즈",
+      "date": "20261120",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206278"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/066970/news"
   },
@@ -1453,10 +1453,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=259960",
     "news": {
-      "title": "[쏘카 3Q 해부]③ 연결서 빠진 에이펙스…크래프톤 투자에 현대차 협...",
-      "office": "블로터",
-      "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/293/0000093614"
+      "title": "음산한 서낭당부터 '핑크공주' 배그까지…크래프톤 부스 이모저모 [지...",
+      "office": "데일리안",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157936"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/259960/news"
   },
@@ -1495,10 +1495,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=095610",
     "news": {
-      "title": "용인 하닉 반도체 팹에 축구장 절반 규모 소부장 '테스트베드' 들어선...",
-      "office": "한국일보",
-      "date": "20261116",
-      "url": "https://n.news.naver.com/mnews/article/469/0000965891"
+      "title": "[소부장 테크페어]테스, SiC·GaN 에피 장비 글로벌 3강 우뚝…“12인...",
+      "office": "전자신문",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/030/0003488120"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/095610/news"
   },
@@ -1999,10 +1999,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=267260",
     "news": {
-      "title": "AI 붐에 美 ESS시장 활짝 … K전력 3총사 진격",
+      "title": "“앤트로픽 상장했는데 내 주식도 오를까”…수혜주 살펴보니",
       "office": "매일경제",
-      "date": "20261117",
-      "url": "https://n.news.naver.com/mnews/article/009/0005765143"
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/009/0005767051"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/267260/news"
   },
@@ -2055,10 +2055,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=035900",
     "news": {
-      "title": "“한한령 완화에도 실적 수혜는 제한적…中 게임 흥행 어렵고 K팝 공연...",
-      "office": "조선비즈",
-      "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206144"
+      "title": "AI가 대체한다더니…대기업이 찾는 ‘개발자 군단’ 제네시스네스트",
+      "office": "이코노미스트",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/243/0000105992"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/035900/news"
   },
@@ -2097,10 +2097,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=006260",
     "news": {
-      "title": "LS전선·LS마린솔루션, 한전 해저케이블 사업 수주...2028년 준공",
-      "office": "파이낸셜뉴스",
-      "date": "20261120",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607450"
+      "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
+      "office": "비즈워치",
+      "date": "20261121",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052851"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/006260/news"
   },
@@ -2209,10 +2209,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=000660",
     "news": {
-      "title": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화...",
-      "office": "블로터",
+      "title": "손정의, SK하이닉스 1조달러 인수 구상…AI주 폭락 속 실현 가능할까...",
+      "office": "뉴스1",
       "date": "20261121",
-      "url": "https://n.news.naver.com/mnews/article/293/0000093621"
+      "url": "https://n.news.naver.com/mnews/article/421/0009302819"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/000660/news"
   },
