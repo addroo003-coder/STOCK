@@ -487,10 +487,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=005930",
     "news": {
-      "title": "[데일리안 오늘뉴스 종합] [단독] \"닥치고 공급\" 정부…개발부담금 부...",
-      "office": "데일리안",
-      "date": "20261121",
-      "url": "https://n.news.naver.com/mnews/article/119/0003157933"
+      "title": "\"삼성전자가 만든 휴머노이드는 어떨까…로봇 상용화 최적 조건 갖춰...",
+      "office": "뉴시스",
+      "date": "20261122",
+      "url": "https://n.news.naver.com/mnews/article/003/0014337563"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/005930/news"
   },
@@ -2195,10 +2195,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=096770",
     "news": {
-      "title": "'AI 격변기' 리더십 유지…재계 인사, 안정 속 쇄신 택했다",
-      "office": "머니투데이",
+      "title": "'블루 쓰나미'에 '데이터센터 빨간불'…\"ESS 그래도 간다\" [ESS 대전환...",
+      "office": "한국경제TV",
       "date": "20261121",
-      "url": "https://n.news.naver.com/mnews/article/008/0005444364"
+      "url": "https://n.news.naver.com/mnews/article/215/0001273488"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/096770/news"
   },
