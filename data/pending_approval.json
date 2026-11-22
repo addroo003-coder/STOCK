@@ -5061,7 +5061,7 @@
     "source_count": 1,
     "id": "006400-실적-4980-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-22",
     "status": "일반",
     "stale": false
   },
@@ -126024,7 +126024,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "급락장 속 한달새 9% 오른 셀트리온, 목표주가도 줄상향 - 매일경제 마켓",
     "source_type": "news",
@@ -126033,12 +126033,17 @@
         "press": "매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZk91VWVEenF2LTFvc3M3WkhSbGRWQzZRNnBDeGVJMnVXRlhTdFRBNEdjb01lUnhwYzlFc2U4M3ZidDhxVVhRdFF0VlJpMlFTaVE?oc=5",
         "pub_date": "Tue, 17 Nov 2026 04:38:33 GMT"
+      },
+      {
+        "press": "매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4OFNFOVpWQjhCLXNLWG9QcGdMbTIwcWF2cWt6cldVVnhjMmdZbkFsY3FBUDFWbmVEYXptUk50Q0MzZjRreGhtWE1kU2kwUUxFQUNSbWNSQXhvZng3VTEwd0J3amhyV2pI?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 07:07:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "068270-기타-82111-20261117",
     "first_seen": "2026-11-17",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-22",
     "status": "일반",
     "stale": false
   },
@@ -129668,12 +129673,17 @@
         "press": "NSP통신",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4za0hCUUplclNDUEFfbUlWYmpNRm12SnJJWXRySEFpeTlYR2ZqZlRkZm9iY21jRlVnQTIwVTZGSzNEdDJ0RVUxbFloaldWQ1o4aElQREdIeUNjWnRBaXF5Ng?oc=5",
         "pub_date": "Thu, 19 Nov 2026 03:10:43 GMT"
+      },
+      {
+        "press": "서울일보",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iWkZ2QzFtUkZpa0cyVDlZdGJjeVFkQ3BsZXFzV2FqVTlFZVd3SGlKc3F4OWlnX2JpR3VPMGtoZjRkbFVpRUIyUHNCUzFNQlFSbzZaVmdaZFZCelNEcnZyZUpxVzg4THduNlBn0gFvQVVfeXFMTUVGaGFhWnRrWnZHdXJvQTlJSmpid3U1UG9VQ1Zta3hQR25zLVZ6SDVoNGlvU24zMmdsSWRYS0d0THFrQU1jdjJIOXRrOEdYY2loQ0VTNkpxNG1kUWR4U0w0MmNEWTVSLW1adVZVUmp3?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 06:28:45 GMT"
       }
     ],
-    "source_count": 4,
+    "source_count": 5,
     "id": "078340-기타-84332-20261119",
     "first_seen": "2026-11-19",
-    "last_updated": "2026-11-20",
+    "last_updated": "2026-11-22",
     "status": "일반",
     "stale": false
   },
@@ -132055,9 +132065,19 @@
         "press": "더쎈뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GMkxZYnhERmlJbFhtWm1tS0liSkx0TnBybGRsQl9qeU5qdlY2TU9ydWpCQ2NxbWdfUTBhQ2JWSjA3QjlzT2oyWVdCM1VBYTZiR2FkMGFlbVVCcjh6aHp6ZWNCZkdNS0Nt?oc=5",
         "pub_date": "Fri, 20 Nov 2026 13:27:51 GMT"
+      },
+      {
+        "press": "브릿지경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kbEpOeFZrNGhfYl9QQmNYRWh0cWh0d1NvT3VTNW5mMGgxc0VMX2p2MTVCZlR2Y3piOXJjT3lHQWFWdDVWclRjak5aUDVvQXQybU16SUtBWldUZw?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 01:04:00 GMT"
+      },
+      {
+        "press": "매일신문",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDX1RNdWpUZmh3TFRoV3lUWWFmY0tyZmZJVFM0V1FPbC1qNXhUS1FvQURGMHRqNTl4REhRZ2VRNy1EMWxRel93cDMtRWpNZU5wRl9tbEhhS2dsbUNta1pweFZR?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 04:36:16 GMT"
       }
     ],
-    "source_count": 7,
+    "source_count": 9,
     "id": "100840-기타-85527-20261120",
     "first_seen": "2026-11-20",
     "last_updated": "2026-11-22",
@@ -133156,7 +133176,7 @@
     "sector": "이차전지·ESS",
     "category": "자본",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "엘앤에프, 전환사채 1515억 원 발행… 이차전지 양극재 생산 확대 - 한국일보",
     "source_type": "news",
@@ -133170,9 +133190,14 @@
         "press": "한국일보",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01MWlPbGt6N095bXYxcV8tOFpqbVZLaEZJbWwtWUFlYV8xc1VWajZxanE4SUI3QWpGOGdXX2hPM1dMYi1nelFZS0ZrdGl3VFQwRHZKdlg2WkpRS3hVTThHRjVuZEtyNGJ2bEZ0ODdR0gFzQVVfeXFMT1BLcUdjbWF3SHlHbXUtM2wzSGp3MmRvQWhyODVISVY4SjI2ZFY2bTZ3U1BLek41dmhUdHEtRDRCMF80N195NmowY0hNdld6aWcxc2pUYktwcTk5YnN5SnZ1bHNRNW0yMzZ5cjU4QjNzOFhVRQ?oc=5",
         "pub_date": "Fri, 20 Nov 2026 05:40:00 GMT"
+      },
+      {
+        "press": "대구신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Fb011QmZOdWRxZTdSd1lmcl9qOElBU0JIakkzeGxkdmJJQWRsRDVzQVNZYzhxQm5wbk1lSFpUMmdDcGJ4azdfMEQtVjdmMlpPYVVNcEhaeENoNUhJR2tKMW8zQ05EMUxJQkln?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 12:10:00 GMT"
       }
     ],
-    "source_count": 2,
+    "source_count": 3,
     "id": "066970-자본-86284-20261120",
     "first_seen": "2026-11-20",
     "last_updated": "2026-11-22",
@@ -133570,7 +133595,7 @@
     "source_count": 1,
     "id": "372320-기타-86930-20261121",
     "first_seen": "2026-11-21",
-    "last_updated": "2026-11-21",
+    "last_updated": "2026-11-22",
     "status": "일반",
     "stale": false
   },
@@ -133628,7 +133653,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "대기업 영업익 3배 늘었지만 기부금은 감소…SK하이닉스도 줄여 - 연합뉴스",
     "source_type": "news",
@@ -133637,12 +133662,22 @@
         "press": "연합뉴스",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zcGFvNzNfYWhDOXkwMEY1UVNxNTA0RC0xdkhxU1JkekQ1VEU2aklpbnhLdURHQ2RBTVA2TDQ1bmdpeGN0c1RTTjVpRkpCSGo0bDlwRmFJNnFrSG_SAWBBVV95cUxNQ2NjVERoQ1FmSEtYV2llOWJnTW5XMXBLUW12RWJqUUJtdndjMEpyYXBzTXJrRDRWMzBLU0VlQUlNRk1ZdDN1LUoyMUFZRXFQUjJhSGNwcVBydGFkbWRkSHo?oc=5",
         "pub_date": "Sat, 21 Nov 2026 21:11:01 GMT"
+      },
+      {
+        "press": "KBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbUZibFg3dGdDbk96anp4emxUMVNfZTFGeVBsejNzZTk5Rk15XzhRN2FjM3BCZFd2YmFoMVFPUmdDVkhvaWdQMV9wUDdadGY4ZGdCdWxOLVhiWUU?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 07:29:00 GMT"
+      },
+      {
+        "press": "매일일보",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SRnNEekNqVlVzMFBIQXFYakFwMjUxSnRSdHdRZjhiTUVQSURwaEdCTjJUbVB3Qkp5VDFHRU0zal95MlJ6T1ZMWWtldlJueFJxN0M5QlhZX1B4WE81RmMtdDJYU3g?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 02:14:12 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "000660-기타-87026-20261121",
     "first_seen": "2026-11-21",
-    "last_updated": "2026-11-21",
+    "last_updated": "2026-11-22",
     "status": "일반",
     "stale": false
   },
@@ -133881,6 +133916,198 @@
     ],
     "source_count": 1,
     "id": "090430-기타-87316-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "HPSP",
+    "stock_code": "403870",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "피에스케이홀딩스·HPSP … 목표가 상향 반도체株 주목 - 매일경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTGJEcXRNX08zZjBTQWVfbmVUMTctRnI0b2FsTDJFazlaRXkzVUtxNkpzT1dNdGZRTmZZcUszcmx1ZHhiQTFMN3dGaWRHcnVwaFE?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 08:23:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "403870-기타-87388-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "피에스케이",
+    "stock_code": "319660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "피에스케이홀딩스·HPSP … 목표가 상향 반도체株 주목 - 매일경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTGJEcXRNX08zZjBTQWVfbmVUMTctRnI0b2FsTDJFazlaRXkzVUtxNkpzT1dNdGZRTmZZcUszcmx1ZHhiQTFMN3dGaWRHcnVwaFE?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 08:23:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "319660-기타-87390-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "전력망 투자 확대는 계속되는데…포스코DX·LS ELECTRIC 주가 '흔들' - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qY2psV0c1S2g1VGE5VWI5OXphakFRUXJsQjE2LXRyNVFHMnd1dXFVWmdiSHdFcm1TMTljQmZIYnNGQUdLWmZnTE5YSllEZjl4NTJ0TzN3QUR3NFdFNjQxeml4RkpQM3dQTlRMc0RDVTUzUUHSAXdBVV95cUxOeFQtOXdoUjNjei1nWFV6S2E3QjZabUQwYWcwUzZmZFk0SEdqcGRJRTh4UUVyWVhpa2pFYmR3VmQzSTU1dFdvbkg3QmZRQUMycS1IOFkwU1M3aDRsQ2xyQTFoN2xkdExZR0ttMTZ1Z0NaM3N5VFE4OA?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 01:49:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "010120-기타-87447-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "전력망 투자 확대는 계속되는데…포스코DX·LS ELECTRIC 주가 '흔들' - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qY2psV0c1S2g1VGE5VWI5OXphakFRUXJsQjE2LXRyNVFHMnd1dXFVWmdiSHdFcm1TMTljQmZIYnNGQUdLWmZnTE5YSllEZjl4NTJ0TzN3QUR3NFdFNjQxeml4RkpQM3dQTlRMc0RDVTUzUUHSAXdBVV95cUxOeFQtOXdoUjNjei1nWFV6S2E3QjZabUQwYWcwUzZmZFk0SEdqcGRJRTh4UUVyWVhpa2pFYmR3VmQzSTU1dFdvbkg3QmZRQUMycS1IOFkwU1M3aDRsQ2xyQTFoN2xkdExZR0ttMTZ1Z0NaM3N5VFE4OA?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 01:49:40 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-87458-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "‘메가 18득점·조던 16득점’ 현대건설, 흥국생명 3-0 완파하고 2연승…시즌 초반 부진 딛고 반등 시동 - 스포츠동아",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "스포츠동아",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55c0FZd0IxVl81ck1MYW4wcWhBX1Z5VjRBSy1naUQzNk04NHg3Rm5kYjBjc0VxMGg2bVQ2LW5vQkZ4bWg3X0d1MEI5ZEFqY1dNOFhIWkI3YWVXbjhobHlRZGZPaF9rb18wd3gwZThvSy1fUQ?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 08:23:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-87561-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "위고비 성분 '월 1회' 비만주사, 대웅·펩트론 국내 임상 승인 - 데일리 이코노미",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리 이코노미",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNVNoVG9TelZ0d0ZSSS1JNXpDNEtFZVhnRldBTDBSNFNudVdnRWMyaDlKMVRtNDhpNmdDdF9DS0FQWmt4U2xoZlg5a1ZKeFpjczI1Y2FHdFBja3ZZUWZUTkE4aDU3Y0NhTmlB?oc=5",
+        "pub_date": "Sat, 21 Nov 2026 22:24:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-바이오-87656-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성SDI",
+    "stock_code": "006400",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 삼성SDI(006400), 美 ESS 수주 확대…배터리 성장엔진 점화 - 인천일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "인천일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBieDhfZzBFSXhwM20zcHVFazNia2F4X2VYR195T0tEZ3VZWkI1end3YWs0a1JaYVVNTWJCN0dWQVJ4bnBzdklWRGNZRERPTXk0bzYtYWhPWjZrN2UwbUo1UTFYcG5XZC1kRldtS21vVjE?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 08:27:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006400-수주-87684-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "피에스케이홀딩스",
+    "stock_code": "031980",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "피에스케이홀딩스·HPSP … 목표가 상향 반도체株 주목 - 매일경제",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTGJEcXRNX08zZjBTQWVfbmVUMTctRnI0b2FsTDJFazlaRXkzVUtxNkpzT1dNdGZRTmZZcUszcmx1ZHhiQTFMN3dGaWRHcnVwaFE?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 08:23:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "031980-기타-87736-20261122",
     "first_seen": "2026-11-22",
     "last_updated": "2026-11-22",
     "status": "일반",
