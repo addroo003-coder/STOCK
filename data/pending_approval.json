@@ -109984,7 +109984,7 @@
     "source_count": 1,
     "id": "000100-기타-71895-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-09",
+    "last_updated": "2026-11-22",
     "status": "일반",
     "stale": false
   },
@@ -134108,6 +134108,150 @@
     ],
     "source_count": 1,
     "id": "031980-기타-87736-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한미반도체",
+    "stock_code": "042700",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "엔비디아발 반도체 경고등 켜졌다…삼성전자·한미반도체 향방은? - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERDVWajN4WUxqUnlaMGR6cWRKWWhPdTIwZU4wLTIxc2N0dTBsSFMxTXlzVVMxX19XdE82SW5XSjM2dHFnUnYwVjJIdkdUcWRoUTJ4NzN5T3FtbEhESlA3NGxnS25fM3hvS2RKMmdKbkFhT25kazhv0gF3QVVfeXFMUERENVZqM3hZTGpSeVowZHpxZEpZaE91MjBlTjAtMjFzY3R1MGxIUzFNeXNVUzFfX1d0TzZJbldKMzZ0cWdSdjBWMkh2R1RxZGhRMng3M3lPcW1sSERKUDc0bGdLbl8zeG9LZEoyZ0puQWFPbmRrOG8?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 19:51:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "042700-기타-87886-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "클로봇",
+    "stock_code": "466100",
+    "sector": "피지컬 AI·로봇",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[실적+] 클로봇이 품은 DLS, 3분기 누적 매출 1000억 돌파···수주 확대 주목 - 녹색경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "녹색경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uRFlVMDVxVVlaTVVQVWFvdWNGVDBPWkxINXFyOWJBVUU3YUVMV3dLNmxjX3J3REVZNVRxTG9QRF9NUVdsNjlnb20tLTVlc290dDFwNWpMTHBMOHR2N1dYbk9wQUItMWt3?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "466100-실적-87928-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "큐로셀",
+    "stock_code": "372320",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "큐로셀 ‘림카토’ 급여 확정…2차 치료 확대·처방 활성화 과제 - 데일리메디",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데일리메디",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jdy0tM3NpN0YzTlR0aUR5NzB3TnRxUzVfR0xKQ09TLXRYZEV4RnVVYXJaeDB0bnpqVl9pbVU0b2psam1COVU2eHp6SUkxendnSEdDblhQWjJxbExCVmdkb2Z2MmRfUXUyT080bXVNNjNhQ1Zf?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 21:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "372320-기타-87981-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한국콜마",
+    "stock_code": "161890",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국콜마·코스맥스, 글로벌 맞춤형 뷰티 사업 확대 - Traders Union",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0tkay1Va0wwZzlxcGloX3B6NmQtcjRoa2F5SEhsdk5fZnlaLUU0R0h3eTQtSWpvZjRNOVRaZEhUN2JYc0RyMEVsOXJEbWN6OGRUX1R4U2lnUENJRDNhQzBfclhDUVEwUFVKS2d1Uk5xVVFOMFFDNjhpeWh4NDdseVZNS3puY3Awa2pNUVZYS0t3QjFx?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 01:07:20 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "161890-기타-88015-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "코스맥스",
+    "stock_code": "192820",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국콜마·코스맥스, 글로벌 맞춤형 뷰티 사업 확대 - Traders Union",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0tkay1Va0wwZzlxcGloX3B6NmQtcjRoa2F5SEhsdk5fZnlaLUU0R0h3eTQtSWpvZjRNOVRaZEhUN2JYc0RyMEVsOXJEbWN6OGRUX1R4U2lnUENJRDNhQzBfclhDUVEwUFVKS2d1Uk5xVVFOMFFDNjhpeWh4NDdseVZNS3puY3Awa2pNUVZYS0t3QjFx?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 01:07:20 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "192820-기타-88018-20261122",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하이브",
+    "stock_code": "352820",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하이브, 日엔터 노기자카46 운영사 키홀더 품는다…\"일본 시장 지배력 확대\" - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTG5ISHVpLWc3QUl5WkVoSmZUdTBiNW4zUmNKZW9JRWFSYXBNSEdfX3RRMm0tMTItazUtUlp6M1RZVmVBd1V0YllMR3VLdUVnNXFLeDVFZ2VrdC1sTG9jZ1pYNGJkOWZ3XzFzTDJMMEcwcnpWaFI0VDVXM1dkRXZuUG9RQ2NOX1I4?oc=5",
+        "pub_date": "Sun, 22 Nov 2026 21:20:57 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "352820-기타-88020-20261122",
     "first_seen": "2026-11-22",
     "last_updated": "2026-11-22",
     "status": "일반",
