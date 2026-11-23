@@ -278,14 +278,19 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800011",
         "pub_date": "20261029"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800687",
+        "pub_date": "20261123"
       }
     ],
-    "source_count": 8,
+    "source_count": 9,
     "is_correction": true,
     "rcept_no": "20260831800269",
     "id": "000720-수주-4357-20260831",
     "first_seen": "2026-08-31",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-23",
     "status": "정정됨",
     "stale": false
   },
@@ -1372,16 +1377,21 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921900526",
         "pub_date": "20260921"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900458",
+        "pub_date": "20261123"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "is_correction": true,
     "rcept_no": "20260921900526",
     "id": "348370-기타-28635-20260921",
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-11-23",
     "status": "정정됨",
-    "stale": true
+    "stale": false
   },
   {
     "company": "포스코퓨처엠",
@@ -3287,7 +3297,7 @@
     "source_count": 1,
     "id": "000100-기타-71895-20261106",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-23",
     "status": "일반",
     "stale": false
   },
@@ -3379,40 +3389,6 @@
     "stale": false
   },
   {
-    "company": "펩트론",
-    "stock_code": "087010",
-    "sector": "바이오",
-    "category": "기타",
-    "direction": "긍정",
-    "confidence": "교차검증",
-    "is_mere_mention": false,
-    "headline": "[BioS]펩트론, 1개월 지속형 ‘루프린 제네릭’ 멕시코 승인 - 이투데이",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "이투데이",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QOHJRcnlpS2doTnpZVTE0bEg2Y04zRlczLUpUVEt3V3pkMnBlaGpFNWU5aWtYTlgtSGxGaEc5dHVMTTY3MjdjT3BtUVJQdTRmeDF6dg?oc=5",
-        "pub_date": "Mon, 09 Nov 2026 02:46:00 GMT"
-      },
-      {
-        "press": "바이오스펙테이터",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41WWFXZEFMaFYyVUhmSEFPUW9PUGRINlhFTUFzOHN6NTRxdVZ0clRWYjZWN3dlQ2JKa0lNajNxQkFtdmVUSVpGZUc2SHRQTHpTREFidDg5VQ?oc=5",
-        "pub_date": "Mon, 09 Nov 2026 02:46:00 GMT"
-      },
-      {
-        "press": "이투데이",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzaU5KRkNfZkszRmlVSG9PMnBzWURUTm16NE10WjhVTnhlTzBab3hYLU12ZzlOSFRXQVJWTUZVYzNQV3Zva2pMX1h0YzZDOUxuSkdrLTJMNXRReW5RblBaWkhVMU9XeFlQeUpwVUZyT0JYMjFI?oc=5",
-        "pub_date": "Mon, 09 Nov 2026 02:46:00 GMT"
-      }
-    ],
-    "source_count": 3,
-    "id": "087010-기타-74409-20261109",
-    "first_seen": "2026-11-09",
-    "last_updated": "2026-11-11",
-    "status": "일반",
-    "stale": false
-  },
-  {
     "company": "컨텍",
     "stock_code": "451760",
     "sector": "우주항공",
@@ -3462,30 +3438,6 @@
     "id": "348370-기타-76085-20261111",
     "first_seen": "2026-11-11",
     "last_updated": "2026-11-12",
-    "status": "일반",
-    "stale": false
-  },
-  {
-    "company": "지엔씨에너지",
-    "stock_code": "119850",
-    "sector": "전기·전력",
-    "category": "기타",
-    "direction": "부정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "제이.피.모건 시큐리티즈 피엘씨, 지엔씨에너지 지분 5.07%→3.64%로 축소 - 데이터투자",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "데이터투자",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdXk2a1FrMS1HTUNXMldJZnlNZFo1UTNLdHd2eEJWcnlaSzA5YUVOOFZQSmt6S1hvMzRzQnFtOHBjdk42dVhvTlRYMWswSDlxZThDeGhGZDVZU1RZV2J6U2k0cXBmOFE4YVlIcnRJZnVMa2s?oc=5",
-        "pub_date": "Wed, 11 Nov 2026 05:36:12 GMT"
-      }
-    ],
-    "source_count": 1,
-    "id": "119850-기타-76249-20261111",
-    "first_seen": "2026-11-11",
-    "last_updated": "2026-11-13",
     "status": "일반",
     "stale": false
   },
@@ -4047,30 +3999,6 @@
     "id": "000100-바이오-78570-20261113",
     "first_seen": "2026-11-13",
     "last_updated": "2026-11-17",
-    "status": "일반",
-    "stale": false
-  },
-  {
-    "company": "한솔케미칼",
-    "stock_code": "014680",
-    "sector": "AI 반도체",
-    "category": "기타",
-    "direction": "긍정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "GS, 한솔케미칼에 1533억 더 투자...하반기엔 AI 출자 확대 - 인사이트",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "인사이트",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XNHREZGVRZnhOaWZvUFoxdHNKQ1B4ZVMxbDBkbzhrVVN5eXpWc1hyVkRHYlVvcEF1MGRlQmJCNTZLbWRyXzVlVDhhbWZsQQ?oc=5",
-        "pub_date": "Fri, 13 Nov 2026 09:03:00 GMT"
-      }
-    ],
-    "source_count": 1,
-    "id": "014680-기타-78678-20261113",
-    "first_seen": "2026-11-13",
-    "last_updated": "2026-11-15",
     "status": "일반",
     "stale": false
   },
@@ -17402,6 +17330,621 @@
     ],
     "source_count": 1,
     "id": "253450-실적-203ecfe4-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전자, ‘갤럭시 스마트태그3’ 출시…탐색 거리 3배 확대 - BBS불교방송",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "BBS불교방송",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aWEpfSktxY3RHQnNwSDg0NHFaWEI0UzdyZHZiWlhUam5JNVNnWjZuV1FVWm9IX3RaUzUtLW81blhReFF4M3Rjc282cHktLTRBNS1EZTRnM0pQa0xjSDNHNWFtRG9WUHZ3Y3NJ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 08:08:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-4d3d86f1-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK하이닉스",
+    "stock_code": "000660",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "SK하이닉스 폭락 두 번 맞힌 애널리스트, 또 “더 떨어진다” 경고 - 경향신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경향신문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRQWlVNUZZc1gxcnFxem5Za2dZQlFwRnRrRW42OGh6VUFIVmtDaEFudlk0Uk5tOHhtc0dYVHc1REVfekpYYnNOOUx2MnJmazZyQWdnUzBTalljQdIBX0FVX3lxTE9WcXZWMkx1dmVRWmU3OHhTQm8wekQtTWR0QVJfb21TQ3dRYzhVNTB1dHpIOG1CZEhJbXJSeG43WW5OVERWbm55TC16UEJXang1X1h0TFlrTUFraElrUFl3?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:30:00 GMT"
+      },
+      {
+        "press": "주간경향",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bWEtR1FYMGdNYWtoeWNwQnlNeDI2UENZX19PV0xhRmVNa3NhUUFFUF9jTFM5NTRiZTBPM3ZZLTNhZEhzYXFIMkpBU0tQbUtfV0RaXzZEQ3Blbkw5aXc?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 09:22:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "000660-기타-51d1f74d-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "AI·HBM 투자 확대 기대…테스·SFA반도체 강세에 장비주도 들썩 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOUlhYTlI4cGhyVFFYVjYwYTctN05iMUxmN0l5YnFLbXlSNU96cThkWG15ZWRrcjM3dEU2eDJXb2tVcFcxR2dIN0Nsbm5xdzdSUENERDJVNkJzSDhSaFB6TEZLeE9mek5rc21zQkFrb2VDbHPSAXdBVV95cUxOS25wczJTTXFfT0x5bzJ3aDZIYnpqTEc5MF8tRlJ3d2J0cWpxZFg1MWd1Z1VXTWE0ZWxEcHZraHF1TVFzbTdrNDZYejh3N3hWNEcyZmpPTThtZDVKSHY0OUJCYUNTMzZLSFVPSDgzUkZGcGZXQ01YQQ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 10:32:16 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-d4301d5d-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테스",
+    "stock_code": "095610",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산테스나 3분기 부진… 교보증권 \"신규 품목으로 내년 반등\" - 아시아타임즈",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CVWRoT2NTbTViSjhyMTZVeldKMkVuWjBzN0Q0QnRGNjdCdFNjblVoT2lGRkY0aFpXdm9aUDRDeTBqYnJ3UTR2T1BZb1BmYkJKbUJUaFppVG5aTjRtV3c?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "095610-기타-b226c3aa-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산테스나",
+    "stock_code": "131970",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산테스나 3분기 부진… 교보증권 \"신규 품목으로 내년 반등\" - 아시아타임즈",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아타임즈",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CVWRoT2NTbTViSjhyMTZVeldKMkVuWjBzN0Q0QnRGNjdCdFNjblVoT2lGRkY0aFpXdm9aUDRDeTBqYnJ3UTR2T1BZb1BmYkJKbUJUaFppVG5aTjRtV3c?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "131970-기타-b226c3aa-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "증설",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "가동률 나란히 90%대…삼성전기·LG이노텍 ‘기판 투자’ 확대 - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ZlVOZ0N0akNMSXRreGdIODItRkVxaFFzdVpldDZ1UDNCdEplNklucWJvakNFSmhHZWFxSjdtX1BpLU9ya1J6bk5rWWNRRUQ5dGhGVw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:12:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-증설-ecf4194a-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS ELECTRIC",
+    "stock_code": "010120",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[거래소 외국인] LS ELECTRIC·가온전선·산일전기 매수…전력 인프라 투자 확대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FTDlMZVhPemlmc1JJWVZQbUF5b0E3ajQxVURnLXByM3RJTGdNZmc1ZHJCQ0RFczdHOUdIQnZWQkRaZGtJcVFHZUFHSVE2cnI4S1M1ZDhqR29Ybklsekt3Z0hpM2ppNjU0NWVYRkZqZE91WHPSAXdBVV95cUxPN29OV0gyOGhqbFhIZHpMUDVGTVRZcTZ1MXBIWHhaSlRfaHEzOHJXV0FETjVUcDIxRnQ4RG9ZOHRZOHR5eWFSREF6VVV6ZkxCUTFTQ0xxVkM4MmR4NDhpQWlDOXJXRTEyYXBNZzNJSllJVllNd3Zicw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:51:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "010120-기타-338abca6-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "산일전기",
+    "stock_code": "062040",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[거래소 외국인] LS ELECTRIC·가온전선·산일전기 매수…전력 인프라 투자 확대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FTDlMZVhPemlmc1JJWVZQbUF5b0E3ajQxVURnLXByM3RJTGdNZmc1ZHJCQ0RFczdHOUdIQnZWQkRaZGtJcVFHZUFHSVE2cnI4S1M1ZDhqR29Ybklsekt3Z0hpM2ppNjU0NWVYRkZqZE91WHPSAXdBVV95cUxPN29OV0gyOGhqbFhIZHpMUDVGTVRZcTZ1MXBIWHhaSlRfaHEzOHJXV0FETjVUcDIxRnQ4RG9ZOHRZOHR5eWFSREF6VVV6ZkxCUTFTQ0xxVkM4MmR4NDhpQWlDOXJXRTEyYXBNZzNJSllJVllNd3Zicw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:51:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "062040-기타-338abca6-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "LS전선, 미 뉴욕서 전력망 7000억 수주…대미 수출 최대 - 뉴스토마토",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UVWEzd0dERkpXYXVwWDdRMFZOYjBIUFJhbEpTWTFBT1M1Q0JKN0g3S0hlbF9GMlIwaHdHYTM3SURJd01MaWVvYlJUS1Y3bHpBRkVmNXFhcmtUVlZ0V3ZLeQ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:46:18 GMT"
+      },
+      {
+        "press": "파이낸셜신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wdV9ucjZQWE9PQ1ZKTXJxUEF5djl2TUlUeWloQVJkVWllR1Y1cl9KMlhIQ3RBOGgtdmtEQU5TT0dodEhFUW1jUmt5V2xmcUVtRlV5VExuVTdWcl9sc01xc21aMjY4TUhaMk9Z?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:33:57 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "006260-수주-9bd8f0a3-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LS전선, 뉴욕 전력망에 7000억 규모 초고압케이블…대미 수출 신기록 - 이코노미톡뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이코노미톡뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZYU1HQWhUV2RDVDl1aUF3ZjZSV3VmUjJjQjlBaEFndlpPUkZaNTR2Yy1yUXpBbEcxWmVweFZYM0V5MWtYVkxZV3h0QlRLMm0yUDl4eGk1NEJ4OWdSMmI5V1IwUmpYTzFFVXZBNQ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:17:33 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-기타-3265be1a-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "가온전선",
+    "stock_code": "000500",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[거래소 외국인] LS ELECTRIC·가온전선·산일전기 매수…전력 인프라 투자 확대 - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FTDlMZVhPemlmc1JJWVZQbUF5b0E3ajQxVURnLXByM3RJTGdNZmc1ZHJCQ0RFczdHOUdIQnZWQkRaZGtJcVFHZUFHSVE2cnI4S1M1ZDhqR29Ybklsekt3Z0hpM2ppNjU0NWVYRkZqZE91WHPSAXdBVV95cUxPN29OV0gyOGhqbFhIZHpMUDVGTVRZcTZ1MXBIWHhaSlRfaHEzOHJXV0FETjVUcDIxRnQ4RG9ZOHRZOHR5eWFSREF6VVV6ZkxCUTFTQ0xxVkM4MmR4NDhpQWlDOXJXRTEyYXBNZzNJSllJVllNd3Zicw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:51:35 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000500-기타-338abca6-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "경남도, 두산에너빌리티와 글로벌 SMR 생산거점 조성 논의 박완수 지사, 송용진 신임 COO 만나 지역 투자·인재 채용 확대 당부 - 경남저널",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "경남저널",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zSmUtQk11Rjh2ODZFTG9GSFd0NTI3OE9CTmdpN3FaQWx1UHpRbDd6WVJTeFhVMmdMWVhWUjNZY0YzMXp4c2ltR1pDSEdpeXNjUEs5bGNZTkxUc0x4REJRYUEtc3VtendEQ3I2eNIBb0FVX3lxTE14UUl4aGtPRllNdUJlbkFjVVZzckRlRXdXbTg0UElINDdOdENDbWlPT1loc2hxUzhiVi1DZ3VNcGlGNkV5MzVtdHNPUFRjalJMYlJwcDFPNGtSQTI0bVg3VEhpWEtVeEV1QllCVXR2cw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 09:58:26 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-a986e83f-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "레인보우로보틱스",
+    "stock_code": "277810",
+    "sector": "피지컬 AI·로봇",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "레인보우로보틱스 40만원대 약세…휴머노이드 사업화 기대와 적자 부담 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nNm1adTNmenRQdURqejBNN2JvS205UzFrbVVPN0M5Rm5laDhLNmU4LXduS3JJQjZBOHlFLTdhRjRpTGs1amVycnZzdkNMb2dxd2gxUTN2eFdmR1dQYkpFNUdUS0xpVkJZVm9vMkxB0gFyQVVfeXFMTW8zbmp0NUh3R3dKencwTFZfb09ranhTc2hpTkJjVEZyekVxQS1DTDRVTF9ueDg1Yk84TVN0NzRSUmY5TEJyQU1XTDhMU2lJdmQ4UFpBU3pOT0lOVG9wVklILVgwc2Zrc0tKYmRUM192UlRR?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 04:51:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "277810-리스크-d53f3301-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "아스트",
+    "stock_code": "067390",
+    "sector": "우주항공",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알파에어로 등, 아스트 전환사채 전환으로 주권 지분 72.91%로 확대 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82V2E3YjBySTN3NmdMSWRLbmVlU1NPdHlzOHo5YkZnWlhjd2tqM3c2ZXdXZDZHOW93YVotY3E2SW5ObHh5ZkZlM3NKWGRPZkI3UEtoS3lneTR3bDJxN212OG9IYVFYUTA1OXc2cmppcGFhb1E?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:51:05 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067390-자본-010f526d-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "셀트리온",
+    "stock_code": "068270",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "에이인비-셀트리온, AI 기반 항체 신약 발굴 계약 체결 - 강원일보",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "강원일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iaE5LaTZuQmlVWXlKdDBvSEtZU1dlWDAyMktwNzZ1ZmRLUktPT1dmczNPZWpVcDNael9iX3U0Q0RpdkRjRUVGRXY1UTFuRElobWNQMi1VSEFza0U?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 08:20:44 GMT"
+      },
+      {
+        "press": "약업신문",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiUDFYVmZkNmpwVHhYbVI0RTVhZ1VxNDNlZDVMMU4wRXE1UERwZUF0ODdqVGRTMlNJLWxTSGpnRXp5LXh6cVcxbkFBeEJYaVRUdFM0LWVhRFJmSldJVXBVWHpSRHpHeXd1WWNrM0ZZUm1wSnRWTXhR?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 02:23:00 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "068270-기타-e8aa2b00-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "펩트론",
+    "stock_code": "087010",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "릴리 본계약 불발 펩트론, 비만약 'PT403' 국내 1상 승인 - 바이오북미디어",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "바이오북미디어",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QSU90RXdTY0xNN1E0UFc1UmJZdVFZYTVuVlFWNlFPSHlGQ0FMZm1zMWd0Q3FqZFFTdkdCOEdOYmJ4WlRjeGJGODVQbEZGckktMUE4WQ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 01:24:33 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "087010-기타-42ac1f7f-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "휴젤",
+    "stock_code": "145020",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "휴젤, 美 유통구조 직접판매로 전환…수수료 감소로 수익성 개선 - CEO스코어데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "CEO스코어데일리",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhNkVnN1ducDF5Tno1VGQxV1RHUU1Wck5GWGJIeDVwS1NzMUQxSnVzTTNtZ1c3eXU1Wl9Yazh1RzNiOVA3OGNEY2d0ZUdNQV9jZ09iYS14SXRkZXpFckxBOTAyeXdvcW9Ld1c4?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 08:25:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "145020-기타-37ca6630-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "지씨셀",
+    "stock_code": "144510",
+    "sector": "바이오",
+    "category": "바이오",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "지씨셀·오스템임플란트 ‘GCC2005’ 국가신약개발사업 임상 과제 연속 선정·미래 인재 육성 산학 협력 확대 - 여성소비자신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "여성소비자신문",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Z1NXT3pfTFVpTEl3M1RqbUpkZGZ0aF81b2w4NEFhOWNDZnRhNGMxUC1NWFNkUDNyM2tnN0lfVmFWMXNOVWNWMTRpVHQyMXhaTXZoaVB4d04wVzk3eWR0V2x1UXhHUQ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:43:01 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "144510-바이오-6017cd0b-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LG에너지솔루션",
+    "stock_code": "373220",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "LG에너지솔루션 김동명 2기 체제 안정에 방점 : ESS 사업 확대 뒷받침할 글로벌 프로젝트 관리·북미 품질 역량 강화해 실행력 높인다 - 허프포스트코리아",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "허프포스트코리아",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NVUhYdWV5eWx0a01MSlA5MlFuekZSTTdsY2xkcXdNNE9PbldNbHZORmRFZW4ycmUtTGtlRVlhb3pENnVVVjBzWW9XeFdYdkxfMUV3Z2cyYw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:46:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "373220-기타-2a318226-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "씨아이에스",
+    "stock_code": "222080",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "씽크풀 : [주요주주 지분공시]유정희 대표이사, 드림씨아이에스의 지분율 0.37% 확대 - ThinkPool",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "ThinkPool",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4ZFZabWN1UmVuVlk4dEZtaEtsRnhKbWpsdnYzVVZRcEI5NDdYQnBuWDFLekUxbnJFVnFQcVpEQzBwQ0Q2Y2k2NlRxUzF6ZUdfTDFEZQ?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 06:40:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "222080-기타-c6aa853e-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에이피알",
+    "stock_code": "278470",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "하나증권 \"한한령 해제 최대 수혜는 여행주? 호텔신라·에이피알까지 투자 지도 바뀐다\" - 핀포인트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pVUZuWllyZWZiMk1FWTJtWXFWbDM3VEsyNGNTV0sxUGlqYmFRNmptZHJWcjhkMUNLakpBNk5uRjZMaTBvelYzY2F5anZfbmVjOVVKM3ZnUU12TTVOVnpRY0llbUMxSGc5bmlkNEhLZi1CZVk?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:50:59 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "278470-기타-4e198c14-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "코스맥스",
+    "stock_code": "192820",
+    "sector": "화장품·엔터",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "코스맥스, 비수기에도 분기 최대 매출…첫 ‘3조 클럽’ 진입 눈앞 - 시사오늘",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "시사오늘",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LcHU3SktRZXBlWkJWTjB3TUR5QTVLQzFDd1F5UjdwYWdsVVdIaW1nT2FSeW0tVTVsdFhSS1RZOFVMbmZMQlEwb0JZS0V5MlJOSWY2Q3R2ZTl4Slg2U08xRklOdUFtdlA5aEpN?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 07:55:03 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "192820-실적-ce15ce8a-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "하이브",
+    "stock_code": "352820",
+    "sector": "화장품·엔터",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[재계 포커스] BTS가 끌어올린 하이브 최대 실적···순이익·레이블 분쟁·사법 리스크는 숙제 - 폴리뉴스 Polinews",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "폴리뉴스 Polinews",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWR3NFYURqekRiQU92VU1tWlNpTDBXVktJdGJZWVZlTGZYSWtEaTZZd2xnczhoMGdQRC1xQjdSWGExRU1uWmtybkgzaXlZR21TMGE2bDJvVGt6M0NJQkxudE9zSW1SY210VHduVE1n?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 08:52:11 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "352820-실적-40e802d6-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "컴투스",
+    "stock_code": "078340",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "그라비티·컴투스, 연말 게임업계 ‘IP 확장·오프라인 저변 확대·블프 프로모션’ 삼박자 총력전 - 팝콘뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팝콘뉴스",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mZlFjblNtN056amtQSC1NOVExT3B6MWRNUFhvQ250SGhZZEluNzVmbmxVcmtXX0g3b0lFZUJRR1dEOWpJRV9aVkVCWFlvWnRzTFBjajlVTjdtdzVDRVp4eWJmdVNNWE1kVjF1Qk05c9IBckFVX3lxTE9mYkotUy1nazhzM1REd0VzbDJMNGJPVkxORDNxNDBRSnJWMHl6TVA0WVYxYkYzVEUzdXJ3b1AzSllQT2hLbVVyOEQ5M3lwTl9GY1pBUlp0Z0cydHVlUWdkNGFLVVlVVzZvMWxRUGw4ZERLZw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 05:53:29 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "078340-기타-2c1f6eb7-20261123",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "더블유게임즈",
+    "stock_code": "192080",
+    "sector": "화장품·엔터",
+    "category": "리스크",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "더블유게임즈, KRX300 재편입 자축했지만…신사업 적자는 두배 - 디일렉",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3T3ltem9EamJ0LWp1YzNwM0RiSVUxZzFIaktaOUNRaGVncU5IenNxcXZycGNKa01mT29hdnMtNjU0ZEp4dGpVazd5UmpBN1FiaWNjMXNtYnlXMTdqREcxaGVNdDBEZw?oc=5",
+        "pub_date": "Mon, 23 Nov 2026 09:00:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "192080-리스크-25074d03-20261123",
     "first_seen": "2026-11-23",
     "last_updated": "2026-11-23",
     "status": "일반",
