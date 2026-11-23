@@ -35,6 +35,13 @@ STORE_PATH = ROOT / "data" / "issues_store.json"
 
 STALE_DAYS = 60
 
+# ── 이슈 원장(issues_store.json)이 무한히 커져 GitHub 파일 한도(100MB)를 넘지 않도록 정리하는 기준 ──
+# 사이트 화면은 종목당 최근 이슈 8건만 쓰므로(build_site_data.py의 MAX_ISSUES_PER_COMPANY),
+# 종목별로 최근 KEEP_PER_COMPANY건과, 최근 KEEP_RECENT_DAYS일 안에 갱신된 이슈만 남긴다.
+# 직접 작성한 리포트(manual)와 '정정됨' 이슈는 오래돼도 지우지 않는다.
+KEEP_PER_COMPANY = 40
+KEEP_RECENT_DAYS = 7
+
 CATEGORY_KEYWORDS = {
     "실적": ["잠정실적", "실적", "매출", "영업이익", "컨센서스", "분기보고서"],
     "수주": ["수주", "공급계약", "고객사", "수주잔고"],
@@ -178,6 +185,31 @@ def content_fingerprint(cand: dict) -> str:
     return hashlib.sha1(raw.encode("utf-8")).hexdigest()
 
 
+def prune_store(store: dict) -> dict:
+    """오래되고 화면에 안 쓰이는 이슈를 정리해 원장 크기를 일정하게 유지한다."""
+    issues = store.get("issues", [])
+    recent_cutoff = (datetime.now() - timedelta(days=KEEP_RECENT_DAYS)).strftime("%Y-%m-%d")
+
+    by_company = {}
+    for issue in issues:
+        by_company.setdefault(issue["company"], []).append(issue)
+
+    keep_ids = set()
+    for company_issues in by_company.values():
+        company_issues.sort(key=lambda x: x["last_updated"], reverse=True)
+        for rank, issue in enumerate(company_issues):
+            if (rank < KEEP_PER_COMPANY
+                    or issue["last_updated"] >= recent_cutoff
+                    or issue.get("source_type") == "manual"
+                    or issue.get("status") == "정정됨"):
+                keep_ids.add(id(issue))
+
+    kept = [issue for issue in issues if id(issue) in keep_ids]
+    print(f"이슈 원장 정리: {len(issues)}건 -> {len(kept)}건")
+    store["issues"] = kept
+    return store
+
+
 def merge_manual_into_store(raw_manual_items: list, store: dict) -> dict:
     """자체 리포트는 제목 유사도로 묶지 않고, 폼 제출 시각 기준 고유 id로 1:1 매칭한다.
 
@@ -255,7 +287,9 @@ def merge_into_store(candidates: list, store: dict) -> dict:
             if cand.get("is_correction"):
                 match["status"] = "정정됨"
         else:
-            cand["id"] = f"{cand['stock_code']}-{cand['category']}-{len(issues)+1}-{today.replace('-', '')}"
+            # 정리(prune)로 issues 길이가 줄어도 id가 겹치지 않게, 순번 대신 제목 해시를 쓴다.
+            uniq = hashlib.md5(cand["headline"].encode("utf-8")).hexdigest()[:8]
+            cand["id"] = f"{cand['stock_code']}-{cand['category']}-{uniq}-{today.replace('-', '')}"
             cand["first_seen"] = today
             cand["last_updated"] = today
             cand["status"] = "정정됨" if cand.get("is_correction") else "일반"
@@ -296,6 +330,7 @@ def main():
 
     store = merge_into_store(all_candidates, store)
     store = merge_manual_into_store(raw_manual, store)
+    store = prune_store(store)
     STORE_PATH.write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")
 
     momentum_candidates = [
