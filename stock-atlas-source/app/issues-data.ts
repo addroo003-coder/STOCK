@@ -6901,9 +6901,14 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000308",
           "pub_date": "20261123"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000487",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "first_seen": "2026-08-28",
       "last_updated": "2026-11-24",
       "stale": false
@@ -7298,6 +7303,43 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "HPSP": [
     {
+      "id": "403870-자본-12531-20260907",
+      "category": "자본",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "정정됨",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[기재정정]주요사항보고서(자기주식처분결정)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260907000328",
+          "pub_date": "20260907"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000168",
+          "pub_date": "20261022"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000300",
+          "pub_date": "20261110"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000355",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 4,
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
       "id": "403870-기타-87388-20261122",
       "category": "기타",
       "direction": "긍정",
@@ -7418,6 +7460,28 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "403870-자본-eed7549d-20261124",
+      "category": "자본",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "주요사항보고서(자기주식취득결정)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000377",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
       "id": "403870-기타-87123-20261122",
       "category": "기타",
       "direction": "중립",
@@ -7446,50 +7510,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       ],
       "source_count": 3,
       "first_seen": "2026-11-22",
-      "last_updated": "2026-11-23",
-      "stale": false
-    },
-    {
-      "id": "403870-기타-46117ff1-20261123",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "[특징주] 삼전닉스, 장초반 2∼3%↓…장중 110만닉스 밑으로 - 연합뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16TlA3eFRsMGVvcVQ2X0Y1OGw5R2hwakt2NktPY1dJSV9DWWo3MjRKZHFwa2U1SEliY0NOakxhTWo5UTZnT0JEY3NUdWZjRTJCX2p0eVE4eGNWd0dINFdJQtIBYEFVX3lxTE16TlA3eFRsMGVvcVQ2X0Y1OGw5R2hwakt2NktPY1dJSV9DWWo3MjRKZHFwa2U1SEliY0NOakxhTWo5UTZnT0JEY3NUdWZjRTJCX2p0eVE4eGNWd0dINFdJQg?oc=5",
-          "pub_date": "Mon, 23 Nov 2026 00:24:39 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-23",
-      "last_updated": "2026-11-23",
-      "stale": false
-    },
-    {
-      "id": "403870-기타-b7690a31-20261123",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "코스피, 4700선 급락 출발…美 증시 폭락하며 반도체株 하락 [개장시황] - 에너지경제신문",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01enplNEF4M1l5cTBwWElROEVkS25Fdjc0bFd6RGRhYmdCYV9EcTc2RzZBN0ttVk80UFpDd0NNLWk1Q1FwV0lFV2lzdFJHWmo5YUh2MGVkdGJ1QXM?oc=5",
-          "pub_date": "Mon, 23 Nov 2026 00:29:41 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-23",
       "last_updated": "2026-11-23",
       "stale": false
     }
@@ -16649,6 +16669,68 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
+      "id": "330860-기타-30282-20260923",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "주식등의대량보유상황보고서(약식)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000244",
+          "pub_date": "20260923"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000105",
+          "pub_date": "20261021"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000358",
+          "pub_date": "20261026"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000665",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000191",
+          "pub_date": "20261103"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000079",
+          "pub_date": "20261105"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000101",
+          "pub_date": "20261106"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000152",
+          "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000169",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 9,
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
       "id": "330860-기타-87400-20261122",
       "category": "기타",
       "direction": "중립",
@@ -16761,38 +16843,6 @@ export const issuesByStock: Record<string, Issue[]> = {
       "source_count": 1,
       "first_seen": "2026-11-24",
       "last_updated": "2026-11-24",
-      "stale": false
-    },
-    {
-      "id": "330860-기타-87140-20261122",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "HBM 투자 기대 꺾였나…원익IPS·HPSP 등 전공정주도 '된서리' - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jRWdJWVREaHF0emJZUUJfQzRXTGlzbHF0LU9tNHE0SHM1RlRyZXFIcGtIbWN6YWE0Yk1GLXc2VzdTallFUFo3dG50S0g5dExGakFsc0JtaW9mQm1zTktxYnpTbkdid3pRbkh0OWpwN3VIeWc?oc=5",
-          "pub_date": "Sun, 22 Nov 2026 00:33:48 GMT"
-        },
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MFFQejlNeUloLThPUjRFNUVXcTNGUEdCdGowTkFFeXMxcURrb2JtQlJFRjl2TXNpUU1NbjVHbzdHcElxQnRwMXFUazhUalJQWFJ3dEZSbDViZnZ3cnVjekFJTmRfY1k0V2p5dmNUb0xtbDlDNjVF0gF3QVVfeXFMTXYwUVB6OU15SWgtOE9SNEU1RVdxM0ZQR0J0ajBOQUV5czFxRGtvYm1CUkVGOXZNc2lRTU1uNUdvN0dwSXFCdHAxcVRrOFRqUlBYUnd0RlJsNWJmdndydWN6QUlOZF9jWTRXanl2Y1RvTG1sOUM2NUU?oc=5",
-          "pub_date": "Sun, 22 Nov 2026 01:01:40 GMT"
-        },
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jRWdJWVREaHF0emJZUUJfQzRXTGlzbHF0LU9tNHE0SHM1RlRyZXFIcGtIbWN6YWE0Yk1GLXc2VzdTallFUFo3dG50S0g5dExGakFsc0JtaW9mQm1zTktxYnpTbkdid3pRbkh0OWpwN3VIeWfSAXdBVV95cUxNdjBRUHo5TXlJaC04T1I0RTVFV3EzRlBHQnRqME5BRXlzMXFEa29ibUJSRUY5dk1zaVFNTW41R283R3BJcUJ0cDFxVGs4VGpSUFhSd3RGUmw1YmZ2d3J1Y3pBSU5kX2NZNFdqeXZjVG9MbWw5QzY1RQ?oc=5",
-          "pub_date": "Sun, 22 Nov 2026 00:33:48 GMT"
-        }
-      ],
-      "source_count": 3,
-      "first_seen": "2026-11-22",
-      "last_updated": "2026-11-23",
       "stale": false
     }
   ],
@@ -17818,6 +17868,332 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "에코프로비엠": [
     {
+      "id": "247540-자본-6939-20260902",
+      "category": "자본",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "정정됨",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "[기재정정]주요사항보고서(유상증자결정)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260902000156",
+          "pub_date": "20260902"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000198",
+          "pub_date": "20261013"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900885",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 3,
+      "first_seen": "2026-09-02",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
+      "id": "247540-기타-13685-20260908",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "주식등의대량보유상황보고서(일반)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000125",
+          "pub_date": "20260908"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000504",
+          "pub_date": "20260921"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000497",
+          "pub_date": "20260930"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000620",
+          "pub_date": "20261008"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000321",
+          "pub_date": "20261019"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000294",
+          "pub_date": "20261023"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000110",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000622",
+          "pub_date": "20261112"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000701",
+          "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000479",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 10,
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
+      "id": "247540-기타-25555-20260918",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "일반",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000474",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000467",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000411",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000406",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000403",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000399",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000397",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000394",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000392",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000390",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000386",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000383",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000378",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000369",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000363",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000359",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000356",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000353",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000348",
+          "pub_date": "20260918"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000719",
+          "pub_date": "20261008"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000714",
+          "pub_date": "20261008"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000711",
+          "pub_date": "20261008"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000733",
+          "pub_date": "20261012"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000542",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000540",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000533",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000526",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000519",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000510",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000503",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000497",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000496",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000491",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000486",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000479",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000475",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000465",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000451",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000444",
+          "pub_date": "20261030"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001906",
+          "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001880",
+          "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000512",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 42,
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
       "id": "247540-기타-46968-20261012",
       "category": "기타",
       "direction": "중립",
@@ -17965,72 +18341,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kYUZWZGNta2pxWXBqQ2xZbkxNb3N2a2REOVI5dkI2Nk9LVXZLdFpJX0RIYkY3WlExV2dUS1dPWmRjMDFPY3lLNloybVNlMzNqQTkyZEt0WXRfbXpnVW9GUtIBYEFVX3lxTE5kYUZWZGNta2pxWXBqQ2xZbkxNb3N2a2REOVI5dkI2Nk9LVXZLdFpJX0RIYkY3WlExV2dUS1dPWmRjMDFPY3lLNloybVNlMzNqQTkyZEt0WXRfbXpnVW9GUg?oc=5",
           "pub_date": "Mon, 23 Nov 2026 02:22:07 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-23",
-      "last_updated": "2026-11-24",
-      "stale": false
-    },
-    {
-      "id": "247540-기타-4a8bf333-20261123",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "'블랙 먼데이' 공포에 질린 증시…프리마켓서 삼전닉스 동반 급락세 | - 연합인포맥스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfU2ticjg2NU1jLWNFMmpZaWEweXNqSmk2bnZuQTFySTZHRFpZZDh3SWIxbFlqTWRvbG0zVy0wRUcySnhrZk9yT0dfN1pZdDlSUlNSencwdGhaYjBib2tLVGFVc0hpNTEtcVJkZ3d5N2xTTFpm?oc=5",
-          "pub_date": "Sun, 22 Nov 2026 23:40:54 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-23",
-      "last_updated": "2026-11-24",
-      "stale": false
-    },
-    {
-      "id": "247540-기타-1580a11c-20261123",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "\"더이상 시퍼런 잔고 못 보겠다\"…외국인도 개미도 떠나니 4700선 주저앉은 코스피 - 아시아경제",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZbnY1MHFkN0ItVy1OcHQ1MUFocVFIOXNMVTZUZDA3cTdRZVdPVEllNkNyRVAwSzMwV2lRZTI4Y29oU3AxUzN6TlU2YTF3cl8tNUlDd3BjaWRZOFFtT0RWall3?oc=5",
-          "pub_date": "Mon, 23 Nov 2026 05:24:00 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-23",
-      "last_updated": "2026-11-24",
-      "stale": false
-    },
-    {
-      "id": "247540-기타-b7690a31-20261123",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": true,
-      "needs_review": false,
-      "headline": "코스피, 4700선 급락 출발…美 증시 폭락하며 반도체株 하락 [개장시황] - 에너지경제신문",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01enplNEF4M1l5cTBwWElROEVkS25Fdjc0bFd6RGRhYmdCYV9EcTc2RzZBN0ttVk80UFpDd0NNLWk1Q1FwV0lFV2lzdFJHWmo5YUh2MGVkdGJ1QXM?oc=5",
-          "pub_date": "Mon, 23 Nov 2026 00:29:41 GMT"
         }
       ],
       "source_count": 1,
@@ -22106,30 +22416,25 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "005070-기타-86691-20261121",
+      "id": "005070-기타-603888b7-20261124",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "확정",
       "status": "일반",
-      "is_mere_mention": true,
+      "is_mere_mention": false,
       "needs_review": false,
-      "headline": "2차전지주 동반 하락…에코프로·포스코퓨처엠도 매도 압력 - 핀포인트뉴스",
-      "source_type": "news",
+      "headline": "주식등의대량보유상황보고서(일반)",
+      "source_type": "dart",
       "sources": [
         {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XaTlzTV9TNThfVG1kWDc2WkFRSEtNbVVubksxSVoyY09ncEs1QXVoam9RNFNycVJXME90WDBuZHZQLWpROVpyUkluelNRUVZiZHdCbHhrT1lqX0x4a2ZuVjgzMzNFYWlYbkdoVGpzWXREclJnWWpv0gF3QVVfeXFMT1dpOXNNX1M1OF9UbWRYNzZaQVFIS01tVW5uSzFJWjJjT2dwSzVBdWhqb1E0U3JxUlcwT3RYMG5kdlAtalE5WnJSSW56U1FRVmJkd0JseGtPWWpfTHhrZm5WODMzM0VhaVhuR2hUanNZdERyUmdZam8?oc=5",
-          "pub_date": "Sat, 21 Nov 2026 06:40:45 GMT"
-        },
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SR2FvTHdaUTZPcGV4bEJRM2RLaTI1YVBzdklJRGpYWXlNYzRJRThrUTd0ZnFEdnUzMzkySGpBcENTMEdXYW9Fb19UandidFhLdFhhX3JpbktnZkVaOWJwS2VONXV3WC12eHRibGwtTGFHbXPSAXdBVV95cUxPV2k5c01fUzU4X1RtZFg3NlpBUUhLTW1Vbm5LMUlaMmNPZ3BLNUF1aGpvUTRTcnFSVzBPdFgwbmR2UC1qUTlaclJJbnpTUVFWYmR3Qmx4a09Zal9MeGtmblY4MzMzRWFpWG5HaFRqc1l0RHJSZ1lqbw?oc=5",
-          "pub_date": "Sat, 21 Nov 2026 06:34:07 GMT"
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000117",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 2,
-      "first_seen": "2026-11-21",
-      "last_updated": "2026-11-23",
+      "source_count": 1,
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
       "stale": false
     }
   ],
@@ -26940,25 +27245,25 @@ export const issuesByStock: Record<string, Issue[]> = {
       "stale": false
     },
     {
-      "id": "161580-기타-87166-20261122",
+      "id": "161580-기타-603888b7-20261124",
       "category": "기타",
       "direction": "중립",
-      "confidence": "미확인",
+      "confidence": "확정",
       "status": "일반",
       "is_mere_mention": false,
       "needs_review": false,
-      "headline": "삼성전기부터 필옵틱스까지 줄줄이 하락…유리 기판 테마에 무슨 일? - 핀포인트뉴스",
-      "source_type": "news",
+      "headline": "주식등의대량보유상황보고서(일반)",
+      "source_type": "dart",
       "sources": [
         {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbWd3OEJraTVvLWd6bzYzVWxqWDVXa0lYNFdQZ0tFMnpkNEUyR0VRTHdSTlZ6SEVpaC1LNHlvb0VPS1RTSlJZSlhNZGxUWHRyX1BNZ2Z4SFVIdkJua2JPa2xTN1FiQ3BsUjgtSVZQVE0xekXSAXdBVV95cUxNMWxWa0o1MXlwUTFIUnE4SFllSmlTazIzWVdmQVFGbktBQU1heDYtWEI2N1hRYkdpQUVSVDV3dGZidjJ6R29fYVFzZV81SlNCZTdfRGc5dWppNWVsdjZpYkgwQnVOdEZkUzFpZExnOWxUdTY1ay1MZw?oc=5",
-          "pub_date": "Sun, 22 Nov 2026 00:05:41 GMT"
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000466",
+          "pub_date": "20261124"
         }
       ],
       "source_count": 1,
-      "first_seen": "2026-11-22",
-      "last_updated": "2026-11-23",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
       "stale": false
     }
   ],
@@ -34222,6 +34527,33 @@ export const issuesByStock: Record<string, Issue[]> = {
   ],
   "하이브": [
     {
+      "id": "352820-기타-83599-20261119",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "status": "정정됨",
+      "is_mere_mention": false,
+      "needs_review": false,
+      "headline": "주주총회소집결의              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800277",
+          "pub_date": "20261118"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800807",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 2,
+      "first_seen": "2026-11-19",
+      "last_updated": "2026-11-24",
+      "stale": false
+    },
+    {
       "id": "352820-기타-86982-20261121",
       "category": "기타",
       "direction": "중립",
@@ -34403,28 +34735,6 @@ export const issuesByStock: Record<string, Issue[]> = {
           "press": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ONUsycmxMcVVVd3RsQV9OX3NxaE0wUDNDdHhnQWY1OF9qdnROdEdHbUFDY3czOEZUa2tQMGNPd0JNNnAyaXZKNHJ0OGk4RnNmR1JvcUk0QkU2Vm1yeVgxctIBYEFVX3lxTE1ONUsycmxMcVVVd3RsQV9OX3NxaE0wUDNDdHhnQWY1OF9qdnROdEdHbUFDY3czOEZUa2tQMGNPd0JNNnAyaXZKNHJ0OGk4RnNmR1JvcUk0QkU2Vm1yeVgxcg?oc=5",
           "pub_date": "Sun, 22 Nov 2026 22:52:05 GMT"
-        }
-      ],
-      "source_count": 1,
-      "first_seen": "2026-11-23",
-      "last_updated": "2026-11-24",
-      "stale": false
-    },
-    {
-      "id": "352820-실적-40e802d6-20261123",
-      "category": "실적",
-      "direction": "긍정",
-      "confidence": "미확인",
-      "status": "일반",
-      "is_mere_mention": false,
-      "needs_review": true,
-      "headline": "[재계 포커스] BTS가 끌어올린 하이브 최대 실적···순이익·레이블 분쟁·사법 리스크는 숙제 - 폴리뉴스 Polinews",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "폴리뉴스 Polinews",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWR3NFYURqekRiQU92VU1tWlNpTDBXVktJdGJZWVZlTGZYSWtEaTZZd2xnczhoMGdQRC1xQjdSWGExRU1uWmtybkgzaXlZR21TMGE2bDJvVGt6M0NJQkxudE9zSW1SY210VHduVE1n?oc=5",
-          "pub_date": "Mon, 23 Nov 2026 08:52:11 GMT"
         }
       ],
       "source_count": 1,

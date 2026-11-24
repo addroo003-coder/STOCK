@@ -4398,9 +4398,14 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000308",
           "pub_date": "20261123"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000487",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "is_correction": true,
       "rcept_no": "20260826000414",
       "id": "096770-기타-371-20260828",
@@ -14643,14 +14648,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000198",
           "pub_date": "20261013"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900885",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "is_correction": true,
       "rcept_no": "20260902000156",
       "id": "247540-자본-6939-20260902",
       "first_seen": "2026-09-02",
-      "last_updated": "2026-10-15",
+      "last_updated": "2026-11-24",
       "status": "정정됨",
       "stale": false
     },
@@ -18202,14 +18212,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000300",
           "pub_date": "20261110"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000355",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "is_correction": true,
       "rcept_no": "20260907000328",
       "id": "403870-자본-12531-20260907",
       "first_seen": "2026-09-07",
-      "last_updated": "2026-11-12",
+      "last_updated": "2026-11-24",
       "status": "정정됨",
       "stale": false
     },
@@ -18688,14 +18703,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000701",
           "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000479",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "is_correction": false,
       "rcept_no": "20260908000125",
       "id": "247540-기타-13685-20260908",
       "first_seen": "2026-09-08",
-      "last_updated": "2026-11-18",
+      "last_updated": "2026-11-24",
       "status": "일반",
       "stale": false
     },
@@ -23504,14 +23524,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001880",
           "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000512",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 41,
+      "source_count": 42,
       "is_correction": false,
       "rcept_no": "20260918000474",
       "id": "247540-기타-25555-20260918",
       "first_seen": "2026-09-18",
-      "last_updated": "2026-11-18",
+      "last_updated": "2026-11-24",
       "status": "일반",
       "stale": false
     },
@@ -25081,14 +25106,19 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000152",
           "pub_date": "20261116"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000169",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "is_correction": false,
       "rcept_no": "20260923000244",
       "id": "330860-기타-30282-20260923",
       "first_seen": "2026-09-23",
-      "last_updated": "2026-11-18",
+      "last_updated": "2026-11-24",
       "status": "일반",
       "stale": false
     },
@@ -30228,45 +30258,6 @@
       "id": "178320-기타-46999-20261012",
       "first_seen": "2026-10-12",
       "last_updated": "2026-11-21",
-      "status": "일반",
-      "stale": false
-    },
-    {
-      "company": "코스모신소재",
-      "stock_code": "005070",
-      "sector": "이차전지·ESS",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "is_mere_mention": true,
-      "headline": "2026.10.13.(화) Signal Digest \"반도체,전력,양자\" - 네이버 프리미엄콘텐츠",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "네이버 프리미엄콘텐츠",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVpiLXdHR0FLNnhqSm9TazFGTUg0eXBUVGRNclBqRlM0RmNReXpldXRRR0JTUlZkblRubWpsNGtzOEEwRjU3SG9WUmQ0TjFzRDZNWUtXU1ZuQ2VFb0kzMmRrSV83Sm5PWlBqdkMyU3hYeDJNX0t6YVM1UGpxUEpNeUdR?oc=5",
-          "pub_date": "Mon, 12 Oct 2026 20:07:02 GMT"
-        },
-        {
-          "press": "네이버 프리미엄콘텐츠",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW1OcFVsU01PTy1KMXV1RkVuVHh1dXlDWHh0OWgxbERxLV93WklMLURPYlVDcVdRX0F5Zm1tcTlUTVVlVUQ3QUNkeUZ2UkFxQlhhRk8ydkZQenFmbGhTTlQzTERHbEV2WVNTSk9KU3dDUHhuUmQ2alV5N2VuRE5JQ1pR?oc=5",
-          "pub_date": "Wed, 21 Oct 2026 19:50:00 GMT"
-        },
-        {
-          "press": "네이버 프리미엄콘텐츠",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1U5cDg4clh5Q083WXFxQXdqTmtkUk14YkVVWE1KUGo1alR0R1VTVldWVDlzUzdCczV3UDZjZzZwUV9CUDhJWUlBQlpnMl9Vd2tsd0h1WExVUUxqc01xd1dSQzY1X1ZDVVJFUHJ4ZVcySS00Wk5YbGhvWVRMd3VpTEpR?oc=5",
-          "pub_date": "Mon, 02 Nov 2026 20:07:09 GMT"
-        },
-        {
-          "press": "네이버 프리미엄콘텐츠",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjROT3EybFJRVmFvQ19LUGRFbDlvWlN0UThwNDBrOXVOX0lRTkNMcndVTXl0Sm5rekwtRUZWaEdvZHliLU5BSU5DWkh2ZEc4SGswejhvaDhaU0VMYl9wbnR3bHc1akF6SFlzQ3UwVUxQT1NWZXJQTUZsRWk2S2M0RW13?oc=5",
-          "pub_date": "Thu, 12 Nov 2026 20:06:28 GMT"
-        }
-      ],
-      "source_count": 4,
-      "id": "005070-기타-47170-20261012",
-      "first_seen": "2026-10-12",
-      "last_updated": "2026-11-14",
       "status": "일반",
       "stale": false
     },
@@ -48985,30 +48976,6 @@
       "stale": false
     },
     {
-      "company": "인텔리안테크",
-      "stock_code": "189300",
-      "sector": "우주항공",
-      "category": "기타",
-      "direction": "긍정",
-      "confidence": "미확인",
-      "is_mere_mention": true,
-      "headline": "[특징주]스페이스X 인프라 투자 확대 기대감…티앤이·LIG 각 25%·11% 상승 - 아주경제",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "아주경제",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90ZDBQbGduMFBJQUx1dUMtSnlWSEdsMFhwVVowY19iem1Nd2RCU1JoVERXOEQ4aFM2cGxkcWVKY2FrLWV0TXR0ZVN2RklvRFFsWlFHQlhvWmrSAVhBVV95cUxPdGQwUGxnbjBQSUFMdXVDLUp5VkhHbDBYcFVaMGNfYnptTXdkQlNSaFREVzhEOGhTNnBsZHFlSmNhay1ldE10dGVTdkZJb0RRbFpRR0JYb1pq?oc=5",
-          "pub_date": "Tue, 10 Nov 2026 02:02:01 GMT"
-        }
-      ],
-      "source_count": 1,
-      "id": "189300-기타-75471-20261110",
-      "first_seen": "2026-11-10",
-      "last_updated": "2026-11-11",
-      "status": "일반",
-      "stale": false
-    },
-    {
       "company": "제노코",
       "stock_code": "361390",
       "sector": "우주항공",
@@ -50505,30 +50472,6 @@
       "id": "323280-기타-76202-20261111",
       "first_seen": "2026-11-11",
       "last_updated": "2026-11-19",
-      "status": "일반",
-      "stale": false
-    },
-    {
-      "company": "필옵틱스",
-      "stock_code": "161580",
-      "sector": "AI 반도체",
-      "category": "기타",
-      "direction": "중립",
-      "confidence": "미확인",
-      "is_mere_mention": true,
-      "headline": "2차전지 장비주 '룰루랄라'…씨케이솔루션 상한가 투자심리 회복 - 핀포인트뉴스",
-      "source_type": "news",
-      "sources": [
-        {
-          "press": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBROF9PZVFqaTN0d21zaDRDQ19Gb0dPNS1uM3Bxb01TQVpuNUl2eGRYa1E2dFdHR2UzOTZYaFlCTUpNbU9Ga25yekhKSll2NjdXS0hqN2ZsNklxWjMwX0ZRQzM2bGtmVFdZNGw1OHpmenBESGZlRUFR0gF3QVVfeXFMUFE4X09lUWppM3R3bXNoNENDX0ZvR081LW4zcHFvTVNBWm41SXZ4ZFhrUTZ0V0dHZTM5NlhoWUJNSk1tT0ZrbnJ6SEpKWXY2N1dLSGo3Zmw2SXFaMzBfRlFDMzZsa2ZUV1k0bDU4emZ6cERIZmVFQVE?oc=5",
-          "pub_date": "Wed, 11 Nov 2026 01:12:38 GMT"
-        }
-      ],
-      "source_count": 1,
-      "id": "161580-기타-76204-20261111",
-      "first_seen": "2026-11-11",
-      "last_updated": "2026-11-12",
       "status": "일반",
       "stale": false
     },
@@ -142363,15 +142306,20 @@
           "press": "DART",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800277",
           "pub_date": "20261118"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800807",
+          "pub_date": "20261124"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "is_correction": false,
       "rcept_no": "20261118800277",
       "id": "352820-기타-83599-20261119",
       "first_seen": "2026-11-19",
-      "last_updated": "2026-11-20",
-      "status": "일반",
+      "last_updated": "2026-11-24",
+      "status": "정정됨",
       "stale": false
     },
     {
@@ -303165,6 +303113,410 @@
       "first_seen": "2026-11-24",
       "last_updated": "2026-11-24",
       "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "주성엔지니어링",
+      "stock_code": "036930",
+      "sector": "AI 반도체",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "기업설명회(IR)개최              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900662",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900658",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 2,
+      "is_correction": false,
+      "rcept_no": "20261124900662",
+      "id": "036930-기타-feed057d-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "HPSP",
+      "stock_code": "403870",
+      "sector": "AI 반도체",
+      "category": "자본",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "주요사항보고서(자기주식취득결정)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000377",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124000377",
+      "id": "403870-자본-eed7549d-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "유진테크",
+      "stock_code": "084370",
+      "sector": "AI 반도체",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "주식등의대량보유상황보고서(약식)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000340",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124000340",
+      "id": "084370-기타-e6efec59-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "필옵틱스",
+      "stock_code": "161580",
+      "sector": "AI 반도체",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "주식등의대량보유상황보고서(일반)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000466",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124000466",
+      "id": "161580-기타-603888b7-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "HD현대일렉트릭",
+      "stock_code": "267260",
+      "sector": "전기·전력",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000242",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000102",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000101",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 3,
+      "is_correction": false,
+      "rcept_no": "20261124000242",
+      "id": "267260-기타-8be55533-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "한전기술",
+      "stock_code": "052690",
+      "sector": "원전·SMR",
+      "category": "수주",
+      "direction": "긍정",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800429",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": true,
+      "rcept_no": "20261124800429",
+      "id": "052690-수주-5bbd4a96-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "정정됨",
+      "stale": false
+    },
+    {
+      "company": "인텔리안테크",
+      "stock_code": "189300",
+      "sector": "우주항공",
+      "category": "자본",
+      "direction": "긍정",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "주요사항보고서(자기주식취득신탁계약체결결정)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000415",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124000415",
+      "id": "189300-자본-31260484-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "삼성SDI",
+      "stock_code": "006400",
+      "sector": "이차전지·ESS",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000223",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124000223",
+      "id": "006400-기타-8be55533-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "에코프로비엠",
+      "stock_code": "247540",
+      "sector": "이차전지·ESS",
+      "category": "자본",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "유상증자결정(종속회사의주요경영사항)              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900889",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124900889",
+      "id": "247540-자본-b4c6b979-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "에코프로비엠",
+      "stock_code": "247540",
+      "sector": "이차전지·ESS",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "타법인주식및출자증권취득결정              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900852",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900848",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 2,
+      "is_correction": false,
+      "rcept_no": "20261124900852",
+      "id": "247540-기타-62ddf19c-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "정정됨",
+      "stale": false
+    },
+    {
+      "company": "코스모신소재",
+      "stock_code": "005070",
+      "sector": "이차전지·ESS",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "주식등의대량보유상황보고서(일반)",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000117",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": false,
+      "rcept_no": "20261124000117",
+      "id": "005070-기타-603888b7-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "일반",
+      "stale": false
+    },
+    {
+      "company": "하이브",
+      "stock_code": "352820",
+      "sector": "화장품·엔터",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "[기재정정]타법인주식및출자증권취득결정              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124801000",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": true,
+      "rcept_no": "20261124801000",
+      "id": "352820-기타-379308e2-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "정정됨",
+      "stale": false
+    },
+    {
+      "company": "하이브",
+      "stock_code": "352820",
+      "sector": "화장품·엔터",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "[기재정정]타법인주식및출자증권처분결정              ",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800768",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 1,
+      "is_correction": true,
+      "rcept_no": "20261124800768",
+      "id": "352820-기타-f0d86074-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "정정됨",
+      "stale": false
+    },
+    {
+      "company": "하이브",
+      "stock_code": "352820",
+      "sector": "화장품·엔터",
+      "category": "기타",
+      "direction": "중립",
+      "confidence": "확정",
+      "is_mere_mention": false,
+      "headline": "[기재정정]주식매수선택권부여에관한신고",
+      "source_type": "dart",
+      "sources": [
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000430",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000424",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000419",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000396",
+          "pub_date": "20261124"
+        },
+        {
+          "press": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000383",
+          "pub_date": "20261124"
+        }
+      ],
+      "source_count": 5,
+      "is_correction": true,
+      "rcept_no": "20261124000430",
+      "id": "352820-기타-70854ce5-20261124",
+      "first_seen": "2026-11-24",
+      "last_updated": "2026-11-24",
+      "status": "정정됨",
       "stale": false
     }
   ],

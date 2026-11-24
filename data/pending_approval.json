@@ -17455,5 +17455,57 @@
     "last_updated": "2026-11-24",
     "status": "일반",
     "stale": false
+  },
+  {
+    "company": "한전기술",
+    "stock_code": "052690",
+    "sector": "원전·SMR",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "[기재정정]단일판매ㆍ공급계약체결              ",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800429",
+        "pub_date": "20261124"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": true,
+    "rcept_no": "20261124800429",
+    "id": "052690-수주-5bbd4a96-20261124",
+    "first_seen": "2026-11-24",
+    "last_updated": "2026-11-24",
+    "status": "정정됨",
+    "stale": false
+  },
+  {
+    "company": "인텔리안테크",
+    "stock_code": "189300",
+    "sector": "우주항공",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "주요사항보고서(자기주식취득신탁계약체결결정)",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000415",
+        "pub_date": "20261124"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20261124000415",
+    "id": "189300-자본-31260484-20261124",
+    "first_seen": "2026-11-24",
+    "last_updated": "2026-11-24",
+    "status": "일반",
+    "stale": false
   }
 ]
