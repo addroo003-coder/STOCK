@@ -283,9 +283,14 @@
         "press": "DART",
         "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800687",
         "pub_date": "20261123"
+      },
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800307",
+        "pub_date": "20261125"
       }
     ],
-    "source_count": 9,
+    "source_count": 10,
     "is_correction": true,
     "rcept_no": "20260831800269",
     "id": "000720-수주-4357-20260831",
@@ -2370,35 +2375,6 @@
     "stale": false
   },
   {
-    "company": "테크윙",
-    "stock_code": "089030",
-    "sector": "AI 반도체",
-    "category": "기타",
-    "direction": "긍정",
-    "confidence": "교차검증",
-    "is_mere_mention": false,
-    "headline": "마누라이프 인베스트먼트 매니지먼트 홍콩 등 테크윙 지분 7.91%로 확대 - 데이터투자",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "데이터투자",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfSGNXN1YzYlZKR1paaE85cmtNOUZEVjFjeURXbkhoOFFGbkpDRUNnN1pybjdvUDY1OW03bVFMbzBTeUtDeFJPX05JcF9mdE1MQjJHZmtlWTNJNkduSzhtR2QxdFloemJTZFNKZnIyai1vLU0?oc=5",
-        "pub_date": "Wed, 28 Oct 2026 03:01:16 GMT"
-      },
-      {
-        "press": "비건뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BWi1Rd0w3b0N6M0VGcEV1X3M4Yk1ucUNjR0NkOWlzNjJ4S0o5dE5OcngwUmY4aU02b015eEVpVl9OSTVHSDNKYmhJLTdxTldRTVBvd2hzRFg5Z25LNTJ4TTQ1YnNIUQ?oc=5",
-        "pub_date": "Sun, 01 Nov 2026 13:47:35 GMT"
-      }
-    ],
-    "source_count": 2,
-    "id": "089030-기타-63122-20261028",
-    "first_seen": "2026-10-28",
-    "last_updated": "2026-11-03",
-    "status": "일반",
-    "stale": false
-  },
-  {
     "company": "삼성전기",
     "stock_code": "009150",
     "sector": "AI 반도체",
@@ -3371,30 +3347,6 @@
     "stale": false
   },
   {
-    "company": "에스피지",
-    "stock_code": "058610",
-    "sector": "피지컬 AI·로봇",
-    "category": "리스크",
-    "direction": "부정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "에스피지, 2026년 3분기 당기순손실 2억6200만원으로 적자전환 - 디지털투데이",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEcW9uWGZ5VGlraGg2bGtOb3NTMWhDWGJzVnBrMkJkcXc0ZEdMTFFBd1M3ZWo5c1daNzBKRHlfc1Nyb0tBVXVLNGFoWFFNeEFVbGhsYXNjYTczLVlGalRnVlFtQVNDVWk2QVFyT3VidGJrUVpRWXF5Qklwdw?oc=5",
-        "pub_date": "Thu, 12 Nov 2026 01:50:03 GMT"
-      }
-    ],
-    "source_count": 1,
-    "id": "058610-리스크-77028-20261112",
-    "first_seen": "2026-11-12",
-    "last_updated": "2026-11-14",
-    "status": "일반",
-    "stale": false
-  },
-  {
     "company": "큐렉소",
     "stock_code": "060280",
     "sector": "피지컬 AI·로봇",
@@ -3413,30 +3365,6 @@
     ],
     "source_count": 1,
     "id": "060280-기타-77052-20261112",
-    "first_seen": "2026-11-12",
-    "last_updated": "2026-11-14",
-    "status": "일반",
-    "stale": false
-  },
-  {
-    "company": "펩트론",
-    "stock_code": "087010",
-    "sector": "바이오",
-    "category": "바이오",
-    "direction": "긍정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "펩트론 4.54% 하락 94600원…루프원 멕시코 품목허가, 중남미 시장 진출 확대 주목 - CBC뉴스",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrcnNhbEUwNVhwanZlVi1iV21UUUVVc0VOLXVtOHVZU2EzeXU2d1VpcmVoSEZ4R0tkOFpZeXZYN3VUaE1aSkp4TEhyNUFtUGlaTDNSZEFNTHpwcEk2SWkzV0xxZENqeEtU?oc=5",
-        "pub_date": "Thu, 12 Nov 2026 01:29:22 GMT"
-      }
-    ],
-    "source_count": 1,
-    "id": "087010-바이오-77124-20261112",
     "first_seen": "2026-11-12",
     "last_updated": "2026-11-14",
     "status": "일반",
@@ -3573,59 +3501,6 @@
     "source_count": 1,
     "id": "222080-실적-78783-20261113",
     "first_seen": "2026-11-13",
-    "last_updated": "2026-11-16",
-    "status": "일반",
-    "stale": false
-  },
-  {
-    "company": "지엔씨에너지",
-    "stock_code": "119850",
-    "sector": "전기·전력",
-    "category": "실적",
-    "direction": "긍정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "NH투자증권 “지엔씨에너지, 수주잔고 7264억…4분기 최대 실적 기대” - 팝콘뉴스",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "팝콘뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qV1NTOHlIYVlqMWJMUWhKTm1jckJkMWdMZmNkclB4Y0Z5UjZ0ejRPaV9TY19zSTJvYWVsc0dKT2haVjc1eThhVnExWXR2RDBPN09KS0xwaWE5d1F3S1lEM2JrbktRaHpXZ0hjUFBB0gFyQVVfeXFMTmhiZTNUbzJGMkp1ZFpOTG1ZclU3QnE2eThNNTdXbmFPcndoS3J6ZEwweHRLZ0ZzNzB1LVp6d3JQMWhLTXFOV01HTkh5Yzl6N3ZJU3JRWW54RXJmeUpCTWY1UkJSRGpkRmRRVkRabTVZUXJ3?oc=5",
-        "pub_date": "Thu, 12 Nov 2026 23:04:58 GMT"
-      },
-      {
-        "press": "팝콘뉴스",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oYmUzVG8yRjJKdWRaTkxtWXJVN0JxNnk4TTU3V25hT3J3aEtyemRMMHh0S2dGczcwdS1aendyUDFoS01xTldNR05IeWM5ejd2SVNyUVlueEVyZnlKQk1mNVJCUkRqZEZkUVZEWm01WVFyd9IBckFVX3lxTE5oYmUzVG8yRjJKdWRaTkxtWXJVN0JxNnk4TTU3V25hT3J3aEtyemRMMHh0S2dGczcwdS1aendyUDFoS01xTldNR05IeWM5ejd2SVNyUVlueEVyZnlKQk1mNVJCUkRqZEZkUVZEWm01WVFydw?oc=5",
-        "pub_date": "Fri, 13 Nov 2026 18:38:37 GMT"
-      }
-    ],
-    "source_count": 2,
-    "id": "119850-실적-78823-20261114",
-    "first_seen": "2026-11-14",
-    "last_updated": "2026-11-15",
-    "status": "일반",
-    "stale": false
-  },
-  {
-    "company": "지엔씨에너지",
-    "stock_code": "119850",
-    "sector": "전기·전력",
-    "category": "수주",
-    "direction": "긍정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "지엔씨에너지, 수주잔고 7264억원 역대 최대…2년치 일감 확보 - 핀포인트뉴스",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "핀포인트뉴스",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55N1VGUG5zUWh1WXRneXNEQkR2enJfN0JGWGJpSVpOcmhOVDJ1U3NDSElDb3k1UXFjZlBDLWpDVWJwem1mbXFGZ3ZGRXB0Nk9FTHFTNFFISTktZnhPRW9zWGNNMUZBVG5Xc0FHRjdoTlZCeGtHTmcw0gF3QVVfeXFMTnk3VUZQbnNRaHVZdGd5c0RCRHZ6cl83QkZYYmlJWk5yaE5UMnVTc0NISUNveTVRcWNmUEMtakNVYnB6bWZtcUZndkZFcHQ2T0VMcVM0UUhJOS1meE9Fb3NYY00xRkFUbldzQUdGN2hOVkJ4a0dOZzA?oc=5",
-        "pub_date": "Sat, 14 Nov 2026 07:04:33 GMT"
-      }
-    ],
-    "source_count": 1,
-    "id": "119850-수주-79108-20261114",
-    "first_seen": "2026-11-14",
     "last_updated": "2026-11-16",
     "status": "일반",
     "stale": false
@@ -3772,35 +3647,6 @@
     "source_count": 2,
     "id": "126340-실적-80157-20261115",
     "first_seen": "2026-11-15",
-    "last_updated": "2026-11-17",
-    "status": "일반",
-    "stale": false
-  },
-  {
-    "company": "두산테스나",
-    "stock_code": "131970",
-    "sector": "AI 반도체",
-    "category": "기타",
-    "direction": "부정",
-    "confidence": "미확인",
-    "is_mere_mention": false,
-    "headline": "[종목 브리핑] 두산테스나 3분기 영업익 80.7% 감소 - 비건뉴스",
-    "source_type": "news",
-    "sources": [
-      {
-        "press": "비건뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuZTNKRDdaSWEtU1B4QU5lRF9GLVdtaXlGVm13MVhuamVMSXlwVnNWTmJMOWFuQ0lGb3R4c3BwNF91dUJ4UjJ1NDhsSXFuRjlLaUQ3NmVkczd6aWMxTmhUOEVXTTkzUQ?oc=5",
-        "pub_date": "Sun, 15 Nov 2026 23:00:55 GMT"
-      },
-      {
-        "press": "비건뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QNUt5NHFiNUdtc085aFNiSVlMZG9xSTZlS2pZR0M1NFZIeENNQ2p4LTNDc1dQV2RfbHRiVHFqWi1IODl0UXA4Q0MwRHVJMkxlaU5lTll5ZkxDNFVPT3k1UzZBbVd1TE1p?oc=5",
-        "pub_date": "Sun, 15 Nov 2026 23:00:55 GMT"
-      }
-    ],
-    "source_count": 2,
-    "id": "131970-기타-80239-20261116",
-    "first_seen": "2026-11-16",
     "last_updated": "2026-11-17",
     "status": "일반",
     "stale": false
@@ -10721,7 +10567,7 @@
     "sector": "바이오",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "위고비·마운자로 '실명 경고'에 판 바뀔까…한미·LG·올릭스·나이벡 반사이익 기대 - 팜이데일리",
     "source_type": "news",
@@ -10730,12 +10576,17 @@
         "press": "팜이데일리",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42OFBtbk5kZDJzZzU5cDl5bHR2N1pfMExFdlRnamowRmY0bHJJd1BhMFNqQzYtcnJnZUtqaFdocm5MQ1NqTHBCanZWb0VkN1l1MG8yc0lNOHBTenN1MFR0dVdpRVlGeWlXOWJXeVFn?oc=5",
         "pub_date": "Thu, 19 Nov 2026 23:40:03 GMT"
+      },
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZk8wZWNwbTlOYzc5R29ZQkR1Q3pGWm5JR3hfT3dTS2M1Tk45RHh5ZjZaMGQ4aWhoa0xBcnFvQ0I5cDNmenFHSzkzWldMNU5lTDRKeG9ONEVtNF9LQkMxQjJnS3hnemZ3dTBwQWw3bmN5dUxLRVdVamdMQVdYM1JISQ?oc=5",
+        "pub_date": "Tue, 24 Nov 2026 23:41:02 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "226950-기타-85300-20261120",
     "first_seen": "2026-11-20",
-    "last_updated": "2026-11-21",
+    "last_updated": "2026-11-25",
     "status": "일반",
     "stale": false
   },
@@ -14676,12 +14527,22 @@
         "press": "데이터투자",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84ZVJYU3RrRXZhV2JsSy04TzJUTUVPOTRWZENTWDFqSVh4UDdaVVF2cGVnbnlWdkV1RER5ckdmS3MteDYtU3M4Z3dOLUNsRVpCcEFUQXRBYzNmS3RFUk9LRW9IVkIzZTRKdVppajNqaU5kNzQ?oc=5",
         "pub_date": "Mon, 23 Nov 2026 02:52:59 GMT"
+      },
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPbE41UUpUWlRSaUlmRF9FTnoxYlJndzd5QVl6MTJBdG1XYkdjZW9EWEliVUhnZjZzNnA0OFhjYkhWR0lncHZsdVVJVVExT2RGMXR3d3E5VEtSeUtVSERMMUVlMmxfODh0TG41Yy1RR3JoZw?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 08:48:52 GMT"
+      },
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNFdfRWJjTXRYd2UyTEpBSEYtc3FZZjFzMDBremFPYkEzTmRNaWIzcURmblN2RkZqYVl4eG9rY3RjZktuRmRmOHQtaHVuempMbURUS1ZGT2N3SDVfZDJ3OUh3YU1fT3cwbWxNLXpRaGdQekk?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:17:12 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 3,
     "id": "003160-기타-d17d02fd-20261123",
     "first_seen": "2026-11-23",
-    "last_updated": "2026-11-24",
+    "last_updated": "2026-11-25",
     "status": "일반",
     "stale": false
   },
@@ -16207,7 +16068,7 @@
     "sector": "AI 반도체",
     "category": "기타",
     "direction": "부정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[엄브렐라] 이수페타시스, 목표주가 줄하향 여파 속 7만1200원 마감…\"원가는 판가로 상쇄, 핵심 변수는 물량\" - Investing.com 한국어",
     "source_type": "news",
@@ -16216,9 +16077,14 @@
         "press": "Investing.com 한국어",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZbG9zSHc1VExaNlA2ODhEakZQMXpieW8ydU96UFVMNEFKdy1YcGJCaTdvNUtpZW1UUEFKR2ZGSjY0bzExNDdMVUlzTFJHMHBNNkJ4RHBDbDBjNVNQaWVJSTVUYXowbVBFaUZfRGw3NU4?oc=5",
         "pub_date": "Tue, 24 Nov 2026 05:10:00 GMT"
+      },
+      {
+        "press": "알파경제",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbzBXVHFfcDJ1TXlTSkloaGdVb1BwdTJBUmNFb2tLQmxJWjJySEFrYTlNbjNKR29pbkF2eDFLVkhUTTIxUGd2cjZWTnFJZHRhWG9rM1JVbEtQdmVjZDU2WTNaSHNDTGIzYkVKaWF3?oc=5",
+        "pub_date": "Tue, 24 Nov 2026 01:40:15 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "007660-기타-0b78e546-20261124",
     "first_seen": "2026-11-24",
     "last_updated": "2026-11-25",
@@ -17492,7 +17358,7 @@
     "sector": "전기·전력",
     "category": "수주",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "[공시] 지엔씨에너지, DL이앤씨와 394억원 공급계약 체결 - 글로벌이코노믹",
     "source_type": "news",
@@ -17501,9 +17367,14 @@
         "press": "글로벌이코노믹",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVAwNm1oZUtEV0VrcjNQOW5BajhkZGdFbTRTUDVWdU1haVpkMVNGb2k2YS1HbTBIUXlBWHBrUUJhUzU5aDJacVpMM0RGWVI4QlY3TXYtZUdTMFBTZzFxaUVZUTJTRXRNTjFrUFNLRm42Vzh3WDRZSzVFR3ZOTnpkR1BoelRNMlVX?oc=5",
         "pub_date": "Wed, 25 Nov 2026 03:59:38 GMT"
+      },
+      {
+        "press": "현대경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xUnRrMkxTVkFsRWRxNE1PNUxFVmdBMEFwQ3ZLM01HTS1iX254LVNKRXo2Z3ZzMlhBRTRfUnp0OG5nWW9hSG9URFh6VTA0TUxIWkFMdVNHNlduNTh0cmRoc3JSc0ZpYVVW0gFrQVVfeXFMTVFIUDlmUlhYLU9laXl3SVpLTEZMYVo0SkxBdzcxdVlXOHdvN3A4a2hkeFZMTFNTQ1RqV2RCWUU3R2lxdjE0NF95bjlESFlrdWt2RTQyT1FrYmdoblRmODNBNVZQLXpjbmFTa3c?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 04:41:17 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "119850-수주-48dd2e24-20261125",
     "first_seen": "2026-11-25",
     "last_updated": "2026-11-25",
@@ -17525,9 +17396,14 @@
         "press": "데일리인베스트",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DTWdCMXEyeEpjS0pJOWNZZjFkNFd1NjJweXVPbU9sVS1yUVlYYU83YUEySC1rclJ5S05rS1lSQlRNc1FwVmo5YUg3dWtXa2FlTENJOGlYRVUyV0k2ak8yZmhmZWtfUUHSAW9BVV95cUxQMWlSUE9aX2FKSVNNRW03c0dkYW1odFdXenRLb1k5MXdqa09jZTczVzZBbFVBZFRrczFyQThiRE9GWXBYZDNkc1JkUFlGYmNGNHI4Vk1sNDBVMTZqbTNIQno3SkkwdWVYZl9WeXpaaE0?oc=5",
         "pub_date": "Tue, 24 Nov 2026 23:15:00 GMT"
+      },
+      {
+        "press": "데일리인베스트",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94Z1Vvb2VtX2pkMzF1ZGxtUEVjdzFYQ0pxVUZXMm5ydHo2ZU05M1VMUnBfQWhtWFNvUzVMaE5lMzh1X1pkNEgybGpYQnc0VmVTWXliU2c3SU5ra2FaT2NOTlVHNTJTSVd2T0duWtIBb0FVX3lxTFAxaVJQT1pfYUpJU01FbTdzR2RhbWh0V1d6dEtvWTkxd2prT2NlNzNXNkFsVUFkVGtzMXJBOGJET0ZZcFhkM2RzUmRQWUZiY0Y0cjhWTWw0MFUxNmptM0hCejdKSTB1ZVhmX1Z5elpoTQ?oc=5",
+        "pub_date": "Tue, 24 Nov 2026 23:15:00 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "108490-기타-581e77ac-20261125",
     "first_seen": "2026-11-25",
     "last_updated": "2026-11-25",
@@ -17641,7 +17517,7 @@
     "sector": "피지컬 AI·로봇",
     "category": "기타",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "큐렉소, 인공관절 수술로봇 이탈리아 진출…유럽 시장 확대 - 한국경제",
     "source_type": "news",
@@ -17650,9 +17526,24 @@
         "press": "한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dGp2VVU5TnpoRnh2M2Q3MUFXV0RubS1ia2hMNFctdHhBclVtWE84a3h4ZFhna2JsUlJGLWRONmtQLW5GdE1ZOWtJV2JSYjdtS3EwVks5S0ZhUQ?oc=5",
         "pub_date": "Tue, 24 Nov 2026 23:27:51 GMT"
+      },
+      {
+        "press": "팜이데일리",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRdkc3TXlmZVFDOTBFQV9JUmdGVXUxSUhKMlZFajI3T18zVklJM1lhc2J6RzNwTW5EdGloVnFDdHdnMFloUjZxQkE5ZkNpbkEzWHZpUEtod2ZKSXl5ZWlUUUFMYWpNMHhVOW55TC13?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 06:31:31 GMT"
+      },
+      {
+        "press": "메디컬투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qVUpXZ3BqS09td0hVTUw3ME5NdWwyZ29zeV8xQlNrSGYzUE4yOXowTVYyN0hEOG5vMkFpNEdLd2pCOTIzZTVrWEtpbVNHVTZJOWY3Vk5GNHctWUZHTUdXQ3dtd1JIUXRYejVkeg?oc=5",
+        "pub_date": "Tue, 24 Nov 2026 23:22:12 GMT"
+      },
+      {
+        "press": "뉴스타운",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sTEtReFQ5ZmZUQUdwWWFncDc3OFpDaGdzeUdwb09wa281aXAxdXczTzVpa2lXb0hNVHdTc00wUnpEY09vZk9IbFBoWTA2a1hDTXg1dXNvVU5rb3A4WnpNa21WSndONXQyanZadVZ3?oc=5",
+        "pub_date": "Tue, 24 Nov 2026 23:43:23 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 4,
     "id": "060280-기타-df69ec6d-20261125",
     "first_seen": "2026-11-25",
     "last_updated": "2026-11-25",
@@ -17815,9 +17706,19 @@
         "press": "메디소비자뉴스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXTEVLZEExbFlrc0kxbnBxTGpzU0pLRG02R2drVGFZd2JhaVRTVTNjZk03S3ZSclpUdy1mZFlXcm9tQ0pDZWIydkZ4ZHB6c3dacGlyOGxjQ09kbmpwQWVxbWdIS2JvUnAtejRZZjZlZjRrQdIBdkFVX3lxTE1aV09nSXNUTG9NSVpUdkl3RDdWVlRsMmNwbG9vc25XWHdmM05wVmE4eDY3aFRmSWpuUmRIUEJlZUxKV3k2NWhSSlJoeWwtNVpHNUFXczE4UzRial9mLTV5TUZLdEQ2VXZBX0VpeUhtd0Y1SXhPVEE?oc=5",
         "pub_date": "Wed, 25 Nov 2026 00:10:52 GMT"
+      },
+      {
+        "press": "경기일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xZmxWaEVJSzRtaGxyNmNvVUpkbVdoODhBdlNFc0hZUW80U2ZFV3pPVUdqTFhVaHpFcUZvaTdyb2wya1J3a0Z4bFQyT21UY0FMVzBhN3plMTFILVk?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 09:20:32 GMT"
+      },
+      {
+        "press": "메디포뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GbWFQVWZGSmd5Z25fRlhLWVNfSWRyckRSeXJ2RjhFaVdaWDBuZEx6dmE0akZueHZ0UXBnVTl4dm5xazlMUTFNSTdtSDBVWUkzQ2Jtc2RvMGxGaUtnUFd0TkoyMmE?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 00:02:23 GMT"
       }
     ],
-    "source_count": 10,
+    "source_count": 12,
     "id": "068270-기타-126f1bd1-20261125",
     "first_seen": "2026-11-25",
     "last_updated": "2026-11-25",
@@ -17974,7 +17875,7 @@
     "sector": "바이오",
     "category": "실적",
     "direction": "긍정",
-    "confidence": "미확인",
+    "confidence": "교차검증",
     "is_mere_mention": false,
     "headline": "SK바이오팜, 엑스코프리 미국 매출 확대…후속 신약 ‘오파칼림’ 3상 주목 - 쿠키메디",
     "source_type": "news",
@@ -17983,9 +17884,14 @@
         "press": "쿠키메디",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qd2UtenVudndKWXU1UTlPMWNZN0RGYlRheTBtWWwzQURQZmdyazBoaHM0dlNxNjZKSGc2VVVBcmxsZzFpMTBNWHlsVUdlWXFNVXN0V2pCdlhEQjlHcUMxTFhGdw?oc=5",
         "pub_date": "Wed, 25 Nov 2026 02:07:55 GMT"
+      },
+      {
+        "press": "쿠키뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tVk5vZkNYdG5wa3VTQ19uT05rRVhoZlRXSDhxN1BNQ21sRk1qVGdVQ1hnbU82cnBVNjFlZzhwNGw4Tm5pSTBfNmZfVXZkRjdPcnNQbFdsVHRUai02V3AyM2JENA?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 02:07:55 GMT"
       }
     ],
-    "source_count": 1,
+    "source_count": 2,
     "id": "326030-실적-ec66da3a-20261125",
     "first_seen": "2026-11-25",
     "last_updated": "2026-11-25",
@@ -18189,6 +18095,827 @@
     ],
     "source_count": 1,
     "id": "041510-기타-59d2b6e0-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테크윙",
+    "stock_code": "089030",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "주요사항보고서(자기주식취득신탁계약체결결정)",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000543",
+        "pub_date": "20261125"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20261125000543",
+    "id": "089030-자본-31260484-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "칩스앤미디어",
+    "stock_code": "094360",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "부정",
+    "confidence": "확정",
+    "is_mere_mention": false,
+    "headline": "주요사항보고서(자기주식취득신탁계약해지결정)",
+    "source_type": "dart",
+    "sources": [
+      {
+        "press": "DART",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000309",
+        "pub_date": "20261125"
+      }
+    ],
+    "source_count": 1,
+    "is_correction": false,
+    "rcept_no": "20261125000309",
+    "id": "094360-자본-212ed3b5-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전자",
+    "stock_code": "005930",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "사상 최대 주주환원에도 못 푼 숙제…삼성전자 소각 막는 ‘10% 룰’ - 에너지경제신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Z1NvRVVVOVFkZ08xZDFrUlRTTVcxbVRiX29iaFhUaW1EOWF2ZWpPVXVOd1RTdDNMTkY0OHpDVnJsSmlVZDlQVldjVXg3eGJyTy1lTDkzaFFiMFU?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 06:33:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "005930-기타-1d125f61-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테크윙",
+    "stock_code": "089030",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "테크윙, 3분기 최대 매출 이어 50억 자사주 매입…주주가치 제고 - 이투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5Z3diQ01aVDRaaWhiRjNXeUtZZHRaLTdTOEVxbFo4czdUQm5xc043blNQMk0xcWIycEZXNkZ6Z280UFdvaF9HMzBGcFN3Mm5JLWVOXw?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:49:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "089030-실적-eaa37c2f-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "테크윙",
+    "stock_code": "089030",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "테크윙, 삼성증권과 50억원 규모 자기주식취득 신탁계약 체결 결정 - 디지털투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5dXJ4LVNDeURUbVhCbXRTV3o1Sk1MZTgwZEh4VXNIYXFnMHZyLWlVaEhTSDk5X05EVlhSZUtvOGlCX2tjLVA5TGZBMXplRWdUU3pwRDdrNnM1REYtVzhoNzEtVWJfNVZBbzVGZXFuN1hPaGdUV1RkckljWQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 08:11:04 GMT"
+      },
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93alJiUVpWbmRLbU16RXBORGNwem1ILXFXbkhOU1JGcko1RzNHeTNrZENibTU0TmpheEt4RkJfRTVIRklBU2VoWngzd2NpdVVtVXZ1c3lzcUN5YTVZZmowbVY0WFY5Q2RRQkpYaEc0N29sY2M?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:10:38 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "089030-기타-e388e36e-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에이디테크놀로지",
+    "stock_code": "200710",
+    "sector": "AI 반도체",
+    "category": "실적",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[모닝 리포트] 에이디테크놀로지, 매출 인식 지연에 목표가 2만8000원으로 하향 - 뉴스핌",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93MzFZUkFmYU5aSEJXazk1ZU93OWw0U2RDTC05elM0c3gyV2pWS1UwazBUU2kza0x0bllZb1VrNlV5U1Q5YWRfVXY5MFZ0SVIwMnZ5UUt5eTRieWlF?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 00:14:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "200710-실적-39126605-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "칩스앤미디어",
+    "stock_code": "094360",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "칩스앤미디어, 100억원 자사주 취득 신탁계약 해지 결정 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6azY1d1U2Tl9YV2pFZldianFpTWtLbFhTRHRnVXFYakh5eUVPTjN4UTUyLXlJbm1OWHNGLW9CZGpncEtKTGZSek51NmJjMzVCcGg3Q2liV0VtbndmY3F0b3hUZVNlb2t4YmZGNHBYWlI?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 04:51:36 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "094360-자본-46892e22-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "삼성전기",
+    "stock_code": "009150",
+    "sector": "AI 반도체",
+    "category": "자본",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "삼성전기, 자사주 1조7000억 소각…주주환원 확대 - 뉴스토마토",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwNnNFaXlZczRvT3ZCWUg5ZmR5S3g5c2NDbGpqS0dCQ2ZtZnJ0M0FQbVRNejFtWklCNTVmV2F1Q2dMSHkxVDRpeFJwdDlITUM1eTI5aFJMT2hjdjJTSl9OcQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 10:25:39 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "009150-자본-f895dca3-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "태성",
+    "stock_code": "323280",
+    "sector": "AI 반도체",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[리포트] 태성, ‘복합동박’ 안산 신공장 준공...“생산라인 7개, 향후 40개로 확대” - 팍스경제TV",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "팍스경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wOERUU0JZYXFwWDZ6NEJISkpGaXVwT29QcXVXLTJKNFhfa2dXbkcteDNGaDZwVFdoTmJFM2p4ekp6cTl6enJzcWlKRWM2UE5lQWVnQXRlazlLWGZCQXVtSWw1MS1MaDg?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 06:21:47 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "323280-기타-93692914-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "LS",
+    "stock_code": "006260",
+    "sector": "전기·전력",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“LS머트리얼즈, 연료전지 UC로 승부수…2027년 영업이익 122억 흑자전환·증설 논의” - 뉴스퀘스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka0dZYmd5eXZuRGZfenJkRzhIMFlhNXpsWDBpZWcydHlocVhWOEF5OUJLTGZOSlZRN3AzSnB5bTVtMHVXenFzbDV2ZFVKTW10dkFqR2dDTDVlSm5oa1M5UU1Hb1JGaGE1R0JxdWRrMA?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 05:34:24 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "006260-실적-d6cf8326-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "지엔씨에너지",
+    "stock_code": "119850",
+    "sector": "전기·전력",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "지엔씨에너지, DL이앤씨와 393억원 규모 발전기 공급계약 체결 - 잡포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "잡포스트",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42ZE1LTDQ4SEF3YlVvRTBzeG1wQTNTR3FXNEswaWgwVzZmdS1XVXhmejh4amY5Z0pJYW5lVUhTU1N0eW1zTWYyTHhFYk9wem9CUGtXNG1rMUFnUjZwZDRYNDFIdE1kTF9YMVJIalpB0gFyQVVfeXFMTWRpWWc0LUVWS2RHVGFoWE5jVHczRTlpQzdHcEZ5TVpRWEpNR0plWU5HUWJ2UDRyc1gwZDk5V2g1WGcxbHdwLV9PRUJpUHBCaUgzVkhUQ3c1Y3R5VkJOX21xUnVuclRLV2FIVDlpbnI4QVRn?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 08:30:15 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "119850-수주-9e249ccf-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "강한 매도세와 과매수 Stoch RSI 경고 속 두산에너빌리티 주가 하락 - Traders Union",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFpLNlVSZEJpYlp5azNwR2FrdlF3Mk83LUwwc1Rid01qbHAtTzQ2MkFBeVBIbmlfZjFjSTQ0WEtxcW5UWmJVRUx3WGFUbDVwMGVnS3BiSkdHSFRPOHpqWnpEa2otaFBJbUQyWmFGZjE0X3Q1eS1vVXpxSHh0MWVWY3h5RExTd2dfTGJ1ZC0tMkg0aEM2b3Jj?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 03:55:27 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-e00de4e4-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산에너빌리티",
+    "stock_code": "034020",
+    "sector": "전기·전력",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "두산에너빌리티, 투와이크 지분 장부금액 설립 4년여 만에 81% 감소한 까닭 - 일요신문",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "일요신문",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Pd0RwNW51eDByRG9MUzdSVEZTLWhXNzZRSlRTemNtak9Qay1yYVVHQWNybThNNTk2RGlqckN5SWNXS1ZraTBfWlVvNDVVOVRoZUlpMU9pNFQ0ZzBmdExxOW9ZQ29uZw?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 04:59:19 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "034020-기타-b19ee49e-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "두산로보틱스",
+    "stock_code": "454910",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[공시] KH바텍·두산로보틱스·파라택시스이더리움 '공매도 금지', 휴림로봇 '투자경고' 등...24건 - 뉴스티앤티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스티앤티",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQ2I0eWl2SjFvTC1FdWpVYXAxUll4Y1k1MXJyd3VnMHB2YmVGemd1RVVwTWhYV2FXa2J3NDBUby01VUg1WUQxdEN2ZmVPQnNpaUFMYXpEZ0JyXzlpVlR4NmlpazdFVEkwZlE?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 12:34:09 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "454910-기타-1234d3c3-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "뉴로메카",
+    "stock_code": "348340",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "뉴로메카, 휴머노이드 수술 보조 실증 성공…의료로봇 사업 확대 - 헬로티",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "헬로티",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2RFNCSXZZUkwzTXBocU1kMXE3M3k1RVpJNGNFUzVJbHZBelJpN0MwS3dPWDhvSWhtenhUdVBuSzNaUGxxcUNxWVlWTXNfT2RsclZoMl80LTczRV9ZdllJ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 04:55:25 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "348340-기타-76cc599e-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "티로보틱스",
+    "stock_code": "117730",
+    "sector": "피지컬 AI·로봇",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "티로보틱스, 2027년 흑자전환 전망…진공로봇 회복·ESS 공장향 AMR 확대 - 더밸류뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "더밸류뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwLWplcFVGb3U4b2JkVHQ3VDhLZHJWQ09oRXgtQTY1U2pxdC00bm5MMENnS0lualZBeUVKNy14Sndlb1lUd2FOWUNqV0FodC03TGJjbQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 05:38:31 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "117730-기타-12a4fd23-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "현대건설",
+    "stock_code": "000720",
+    "sector": "원전·SMR",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "현대건설, 스타트업 85개사 발굴…건설 혁신기술 협업 확대 - 이데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW9kYm96SUJ2ckdVVmhvclJqaTJNLVV6Ri1TN1F3dW5QOVpqZVI1ZENlajRzeFZxaGt4UmNaeUt2U0FaU2NDMnRIRjNucjFJVWF1UkxDd2RKbzNlb290cHhlX3Y1V2Fta2pFUEN2ZWFKMTQxNjRmQ3c5RFZaNWZMSA?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 06:34:52 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "000720-기타-50721ca1-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한화에어로스페이스",
+    "stock_code": "012450",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한화에어로스페이스 브라질서 현지 방산기업과 협력 확대, 남미 시장 공략 가속 - 비즈니스포스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈니스포스트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UbjcwcEozNGFXUmZma3N5SlY0cjJ2NDQ0WU9wNXBvZ09Vblg0OVJXaGh2WVJoWGdPaldMaU9LdUxhMjdVYUtkN2RST2IxRUxNWXhfM0VvenJqdmVHN1l5bHN4QzVHMXFJN0hwYXFhWS1KRjA?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:22:39 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "012450-기타-929b961e-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한국항공우주",
+    "stock_code": "047810",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "국민은행-한국항공우주산업, 협약 체결 - BI KOREA",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "BI KOREA",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QY1Q5Z0dJS244bEt0eThoOTZCRWRIb1phWG9hdHduLVJTbzZRaVVyaFYydVhhb3o0ZVpPUzVOcXZTNjV4c0RSazB2VXVjdGVzYnpXUU50MmZnYW5aM05CV2ZLRE5sQQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 04:22:49 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "047810-기타-bcc48817-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "아스트",
+    "stock_code": "067390",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "아스트 최대주주 '유암코', 워크아웃때 정한 전환가로 지분 72% 확보 - 넘버스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "넘버스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GWTdnSnZwbkowMGR1TVRnTEdhSnRLLVliX25JWU9KczJWcHQwN1J5QmZhMllEd1UtV1oxeG9qREp1Z1h5dEhDVm9NQnUxeXFXV3lVcExqY0ZDMk1ha2F6YkdOMHpsN0ptcTJj?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 05:01:50 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067390-기타-be8515df-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "아스트",
+    "stock_code": "067390",
+    "sector": "우주항공",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국산업은행, 아스트 지분율 6.63%에서 3.79%로 축소 - 데이터투자",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zLXVmSHo5bFdaa09GMmlURDJzLWJfLTJjMnZNWnpiZm02MFVieDNBbURHbE8tYUlkUGo5bXFUQXIzclhDQ21lUXFxUDFaN0VtNkFZWm53ZEF1UVhiMjRLQmRVSGd2SGc4OFdLMVhBZEJ4VnM?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:25:13 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "067390-기타-5d71af64-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[종목이 보영] 급락장서 오른 알테오젠…로열티 전망은 하향 - 스트레이트뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "스트레이트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UQm1JZW5MNTRkSzJoSWVXV1pnVmxJRWRZOFFKLUJmd3BRdUpoTTVuMFpnYlNxQ0VfZE0zcnEya2tsNkFpOTJ5N0VFVVh0V0tkWC13Vm5ZRE9qYlJDd0xTUXNrUEs2eDBKcmdSbGxrblZFU2fSAXdBVV95cUxQclo2SHd2R1VBRWQ4TmJNYktZYzNNaVNBN080a0dYWjRZSVBqdTdCeUZwNkItUmU4NmFEaGVWTUExX2hVb25XMlBBWWQwdVFMOXExUEtlTTFDSU5VeUUydWJiQ2k5QzZOVjJyT0dFVVJPZDZvM2ZESQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 08:31:53 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-ab0d544f-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "알테오젠",
+    "stock_code": "196170",
+    "sector": "바이오",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "알테오젠, '키트루다SC' 판매 확대…'엔허투SC' 차질 판단 일러 - 메디파나뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "메디파나뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mdVBHUXBuOWUySjhwTklYcDdCbXd0TEQzS2NiSWhfRUg1dFZUb1hQaHZWbHpLRTJ3MWxOSXkzOHlKQ3h2RldITFEyd3hpR3NvcmJySkN1dDNCTmlOdzA1M1l0VVJfcVB0TjVF?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 01:57:46 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "196170-기타-7222601e-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "리가켐바이오",
+    "stock_code": "141080",
+    "sector": "바이오",
+    "category": "수주",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "“중국발 공세에 2년째 기술수출 ‘제로’·주가 70% 폭락…리가켐바이오, ‘수주 절벽’에 적자 2배 눈덩이” - 뉴스퀘스트",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "뉴스퀘스트",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BSGdWR1p0X29EOVV6SjZzX0d0czk1MGhISENQY3VQZ1I4MjNFdERtYkVHTUFHRjJ6RGlnZ3hTd0ZmdVZIcXNFQS16dXJ6Nk9mYkU3c083c2RFcTZmTUpFQ2JKV0xsdmFMRlZoVVFEWQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:06:51 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "141080-수주-32fe5f20-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "SK이노베이션",
+    "stock_code": "096770",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "SK이노베이션, SKIET 주식매수청구가 30% 상향…내년 2월 합병 - 아시아투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "아시아투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZXNOWnQ2bElJalRvZmVhWWRJSEk0Y2tzNlhnUUR1b3FHRWtFQTNRRU4zZkNPZnlUbFZKZUlVZTVTM2c0UEc2LXlvS2hTOEV4dEowZ1FnSW9LLVczdnQ4eUVjVWVnRnB0UEN3Zw?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 09:14:04 GMT"
+      },
+      {
+        "press": "파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VmFfVHZ1S2JTMTRWMWM4N2dodTlYakJwZ0lUWVVHUmlPZDl6UDRSeGgwcE5idWFpQ2JLNlo4NXZ0ZTE1My0xRHg4LUZvb0haVjR6aUJ0S2NXQQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 09:54:11 GMT"
+      },
+      {
+        "press": "아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51ZDlPLWZxX0xCa3RGeDZMam1haERRc2xGZkVnUENkSTNqR2tjU2pZaGRjajc1QWthNjYyaHlsNTQwZDI5eDg1OW9XaWxyaDdUS1VUMTZKUjk1UdIBWEFVX3lxTE5BcEZEYnNBZlZDTXQtMFFKS0R1enQtbmFLcjNhS0w5ZVl0UUNMZzIzVHhwUmxWWVFpdzJsNlZTZ2xnRVhIX2M4ZFU3ekttcXE0VlFua1JVc24?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 08:28:36 GMT"
+      }
+    ],
+    "source_count": 3,
+    "id": "096770-기타-c1c6e1e5-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "\"위험 경고 여러 번 무시해\"…'4명 사상' 에코프로비엠 전 대표 집유 - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZEZHb19sUVlSQmxod2piZmo1cWhMNm1OcUxQanYwSjFqOER1Q3lxTExZMDFMVWI1R3lOMDVsQ2pET1VoXzVfd0Q4RzlzOElYd1hhM1hJdHotUW9RMGJ6RUpJNTIzM2dZMTAyc1FLVXHSAXBBVV95cUxORmRGR29fbFFZUkJsaHdqYmZqNXFoTDZtTnFMUGp2MEoxajhEdUN5cUxMWTAxTFViNUd5TjA1bENqRE9VaF81X3dEOEc5czhJWHdYYTNYSXR6LVFvUTBiekVKSTUyMzNnWTEwMnNRS1Vx?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 09:41:38 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-a2efe93c-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에코프로비엠",
+    "stock_code": "247540",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "부정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "에코프로비엠, 기존 출자 계획 철회하고 싱가포르 자회사에 6,222억원 재출자 - 사례뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "사례뉴스",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXM3NKdDhfNEotM3VPQTBPZ2NuY0VUWlItQ1ZWQl9QZ2ZUSWtGZnhyandFRTNJNlpDaG1hNm5Pb2NCbWNXbUZNUVJWckdKTUlXWmZNQ2RIUVdvNVV5VXpwR1FTclFTMWdkcTROM0xOa9IBb0FVX3lxTFBXM3NKdDhfNEotM3VPQTBPZ2NuY0VUWlItQ1ZWQl9QZ2ZUSWtGZnhyandFRTNJNlpDaG1hNm5Pb2NCbWNXbUZNUVJWckdKTUlXWmZNQ2RIUVdvNVV5VXpwR1FTclFTMWdkcTROM0xOaw?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 09:46:42 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "247540-기타-6557db10-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "수주",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "서진시스템, 블룸에너지와 1656억 규모 SOFC 공급계약 체결 - 머니투데이 - 머니투데이",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsdS1vdFpucjJfeHhJWlBxbmJSQmJGY1BxY2Z4dU9SeWFKaHF0WUEzMFc2SVRGYWpWOC1PbFFLdW1RS0VscF9uT093NHlkWGtNeGlTby00anJ3S2dUckg2MUR0c1hTajBGa0o3eFBn0gFuQVVfeXFMUGx1LW90Wm5yMl94eElaUHFuYlJCYkZjUHFjZnh1T1J5YUpocXRZQTMwVzZJVEZhalY4LU9sUUt1bVFLRWxwX25PT3c0eWRYa014aVNvLTRqcndLZ1RySDYxRHRzWFNqMEZrSjd4UGc?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 05:08:27 GMT"
+      },
+      {
+        "press": "데이터투자",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uNFA1eFdGajZnTVZqd2xSbHFKQlM3ZThhVkRReDd6QllaYmtmMWNEU3VqcVhuejNMR0dwZXEyc2F4WmVLeHhRSWwxcjRYY0RULWZmY28zUjYyZkxORnFPTTVMZlNxLXJfZHplOTNPcGdGRkU?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 02:31:32 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "178320-수주-29d6a2d1-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "서진시스템",
+    "stock_code": "178320",
+    "sector": "이차전지·ESS",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "[특징주] 서진시스템, 美 블룸에너지와 1656억원 규모 계약 체결 - 글로벌이코노믹",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFBSaHFTRzNYalBjVVhHTV81aDdYUjZVeVNPdGozSlByTVpMa1lXLTNJekh4c3hxTHNwLXh2SExHYUl4cVQ5SW83YzdreTdZb1hpRnF6S2FnekRoOXU3aWpxcm42bkRXWWVQMk12NXltR1hDQVNOT210WEZuZUtzZWlRenZRMFZu?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 03:59:58 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "178320-기타-63d56cee-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "에이피알",
+    "stock_code": "278470",
+    "sector": "화장품·엔터",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "화장품 수출 124억달러 신기록…에이피알 유럽 매출 363%↑ - 자본시장뉴스",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "자본시장뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Sb09SMEp3ZmVkWm5rbHRNYTVhVVUtZmJWSnAtVUNONWJYUENYaVAzOGpRYmZGdzRnbm9yZHpqZzlYT0dLcnE3WXRvNENLa3dGdmxkb1ZDVEJDVWU3dlZyR1FtRGh3b28?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 05:00:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "278470-실적-382ba803-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "한국콜마",
+    "stock_code": "161890",
+    "sector": "화장품·엔터",
+    "category": "실적",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "한국콜마, 첫 노조와 한 달째 대치…사상 최대 실적 뒤 ‘ESG 리스크’ 발목 잡나 - 마이데일리",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "마이데일리",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xLU5kM2U5Tm93M1cyOV9MN3JsT0lPaktnY29jZjRpQ1BhSWhoeVRxeXM3QThTUmNPM3N6aDdMTlkwUk92UkJVVWJ3N0NDT0xCSF9HS0M1Z25Jcll6NG9DaQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:12:04 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "161890-실적-1edc914d-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "넷마블",
+    "stock_code": "251270",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "미확인",
+    "is_mere_mention": false,
+    "headline": "넷마블, 'RF온라인 넥스트'서 '크림슨 침공' 등 역대급 대형 업데이트 단행 - 비즈월드",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "비즈월드",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qblREMXJoTHpnYzFDcERiUU5DdkJZdG5BcWY0TmJlM1lGeUdhVi04aUdJQ0VZQ2NEdGtEVXFObTgyZ0RQQmExSW5abWdWNVJxa2FaN0U0WXJ6OFZQTzAtZEZDY1BweE1fZnkw?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 13:41:00 GMT"
+      }
+    ],
+    "source_count": 1,
+    "id": "251270-기타-f054fb7b-20261125",
+    "first_seen": "2026-11-25",
+    "last_updated": "2026-11-25",
+    "status": "일반",
+    "stale": false
+  },
+  {
+    "company": "카카오게임즈",
+    "stock_code": "293490",
+    "sector": "화장품·엔터",
+    "category": "기타",
+    "direction": "긍정",
+    "confidence": "교차검증",
+    "is_mere_mention": false,
+    "headline": "카카오게임즈 ‘오딘’, 무한의 탑 전층 보스전으로 개편…최대 4인 도전 - 지디넷코리아",
+    "source_type": "news",
+    "sources": [
+      {
+        "press": "지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DN3FKX1k0d01uQjFiU2RzOHBZTjRFNVdadWphOUJLT1pFa0lUZjlvdjJqZWl1b21YZmxMcEZVZk1LRjgyUExTOHNIQUJGdHlvcmNKOEFB?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 07:30:01 GMT"
+      },
+      {
+        "press": "NSP통신",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hNHZhSGU1clcyRXA2dXBudEdSOW5OSDhMSTVxNktGSFJUam1qckpCMGJUdTQ2TzJGcnFWZnEyMzRHcF9RRm5kWldERjM5bGNfVWNzSUpZb3FabjlpMFFsaQ?oc=5",
+        "pub_date": "Wed, 25 Nov 2026 06:31:01 GMT"
+      }
+    ],
+    "source_count": 2,
+    "id": "293490-기타-41168e08-20261125",
     "first_seen": "2026-11-25",
     "last_updated": "2026-11-25",
     "status": "일반",
