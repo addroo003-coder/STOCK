@@ -865,10 +865,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=278470",
     "news": {
-      "title": "에이피알, 3900억원에 스킨케어 브랜드 ‘닥터멜락신’ 인수",
-      "office": "조선일보",
+      "title": "에이피알, 더마 브랜드 '닥터멜락신' 인수",
+      "office": "이데일리",
       "date": "20261126",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011951"
+      "url": "https://n.news.naver.com/mnews/article/018/0006416243"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/278470/news"
   },
@@ -1383,10 +1383,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=241710",
     "news": {
-      "title": "\"블랙프라이데이 휩쓴 K뷰티\"…화장품주 연일 강세",
-      "office": "한국경제",
+      "title": "자본잠식 기업이 3900억에 매각…닥터멜락신 M&A 성공 스토리",
+      "office": "매경이코노미",
       "date": "20261126",
-      "url": "https://n.news.naver.com/mnews/article/015/0005358445"
+      "url": "https://n.news.naver.com/mnews/article/024/0000109919"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/241710/news"
   },
@@ -1719,10 +1719,10 @@ export const marketSourcesByStock: Record<string, MarketSourceRecord> = {
     "report": null,
     "reportListUrl": "https://finance.naver.com/research/company_list.naver?searchType=itemCode&itemCode=166090",
     "news": {
-      "title": "유안타증권 \"하나머티리얼즈, 내년 최대 실적 전망…목표가↑\"",
-      "office": "연합뉴스",
-      "date": "20261022",
-      "url": "https://n.news.naver.com/mnews/article/001/0016392890"
+      "title": "디와이피엔에프-하나머티리얼즈, 실리콘 음극재 양산공장 EPC 계약 체...",
+      "office": "동아일보",
+      "date": "20261027",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757916"
     },
     "newsListUrl": "https://m.stock.naver.com/domestic/stock/166090/news"
   },
