@@ -1645,6 +1645,27 @@
       "aliases": [
         "데브시스터즈"
       ]
+    },
+    {
+      "name": "스피어",
+      "stock_code": "347700",
+      "corp_code": "",
+      "sector": "우주항공",
+      "sub_industry": "특수합금·소재",
+      "aliases": [
+        "스피어"
+      ]
+    },
+    {
+      "name": "에이치브이엠",
+      "stock_code": "295310",
+      "corp_code": "",
+      "sector": "우주항공",
+      "sub_industry": "특수합금·소재",
+      "aliases": [
+        "에이치브이엠",
+        "HVM"
+      ]
     }
   ]
 }
